@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Noyack Wealth Club](https://www.wearenoyack.com/)** | **[Influencer Partnerships Outreach Intern](https://jobright.ai/jobs/info/6963b4e02cbf4e44756d63b4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Media Planning Intern](https://jobright.ai/jobs/info/6963b094a112b4026611cab6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[CN](http://www.cn.ca)** | **[Intern, Market Analyst (Automotive)- EN](https://jobright.ai/jobs/info/6954928a5bb7de448ef78b10?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Jan 11 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69634d5aa112b40266116f1b?utm_campaign=1065&utm_source=git)** | Farmington, CT | On Site | Jan 11 |
 | **[Oakland University](http://www.oakland.edu)** | **[Summer Student Communication Internship for Baby PEACE (Fixed-term)](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7c08?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Jan 11 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[IH Concepts](https://ihconceptsonline.com)** | **[Digital Marketing Intern for Spring](https://jobright.ai/jobs/info/6962d25b2cbf4e44756cb189?utm_campaign=1065&utm_source=git)** | Madison, WI | Hybrid | Jan 10 |
 | **[Apex Property Maintenance LLC](www.google.com)** | **[Interim Communications Intern](https://jobright.ai/jobs/info/6962c9eda112b40266111bd5?utm_campaign=1065&utm_source=git)** | Weatherly, PA | On Site | Jan 10 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6962f779a112b40266113b4d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
-| **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6962c29a25e18715077f9345?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jan 10 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[HCP Physician Marketing Intern, Undergraduate Students](https://jobright.ai/jobs/info/6962ac7ea112b4026610fdbe?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 10 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Marketing Internship (Summer 2026)](https://jobright.ai/jobs/info/6962c9fea112b40266111bdb?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jan 10 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Marketing Communications Intern - Summer 2026](https://jobright.ai/jobs/info/696289a8a112b4026610efc8?utm_campaign=1065&utm_source=git)** | Schiller Park, IL | On Site | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Development Engagement Intern](https://jobright.ai/jobs/info/6962565925e18715077f3d3d?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
 | ↳ | **[Live Events Intern](https://jobright.ai/jobs/info/6962500e25e18715077f3131?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (TikTok Shop Product Marketing) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68c7b544c008cf3402c8f06f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Jan 10 |
-| ↳ | **[Merchandising Strategy Manager Intern (TikTok Shop Affiliate Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68b9f5a38043103d4f21c51c?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
