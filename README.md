@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696315b42cbf4e44756cdc54?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jan 10 |
+| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69631f452cbf4e44756cdf14?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[The KINN](www.thekinn.co)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/696308222cbf4e44756cd7e0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 10 |
 | **[MLM Creative](https://www.mlmcreativestudio.com/)** | **[Pre-Launch Brand Intern (Content, Social, Creative)](https://jobright.ai/jobs/info/6962fe9a2cbf4e44756cd440?utm_campaign=1065&utm_source=git)** | Charlotte Metro | Remote | Jan 10 |
 | **[BYROE](https://byroe.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6962f77ea112b40266113b53?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Hybrid | Jan 10 |
@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[HCP Physician Marketing Intern, Undergraduate Students](https://jobright.ai/jobs/info/6962ac7ea112b4026610fdbe?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 10 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Marketing Internship (Summer 2026)](https://jobright.ai/jobs/info/6962c9fea112b40266111bdb?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jan 10 |
 | **[CHOCBOX](http://chocboxla.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6962a372a112b4026610f6a6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 10 |
-| **[Dream Education Consulting](www.dreameducationconsulting.com)** | **[Social Media & Content Intern (Remote)](https://jobright.ai/jobs/info/69629b9e2cbf4e44756c8549?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Jan 10 |
 | **[Vevolution](http://www.vevolution.com)** | **[Social media intern](https://jobright.ai/jobs/info/6962937d2cbf4e44756c8425?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Sparks Village Academy](sparksvillage.com)** | **[Community & Partnerships Intern (Education + Outreach)](https://jobright.ai/jobs/info/69628f9225e18715077f68e4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Marketing Communications Intern - Summer 2026](https://jobright.ai/jobs/info/696289a8a112b4026610efc8?utm_campaign=1065&utm_source=git)** | Schiller Park, IL | On Site | Jan 10 |
@@ -146,14 +145,15 @@ For a complete list, click the following sortable link below:
 | **[Meitu Inc.](http://www.meitu.com)** | **[Meitu Campus Ambassador (Product Track)](https://jobright.ai/jobs/info/696209eea112b4026610748e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Crane Payment Innovations](http://www.cranepi.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/69624e3025e18715077f2e74?utm_campaign=1065&utm_source=git)** | Malvern, PA | On Site | Jan 09 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Operational Supply Chain Intern](https://jobright.ai/jobs/info/6961fa99f3f4cd132506e465?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 09 |
+| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Merchandising - Summer 2026](https://jobright.ai/jobs/info/69633bc625e18715077fe19d?utm_campaign=1065&utm_source=git)** | Muscatine, IA | On Site | Jan 09 |
 | **[VegaH](https://www.vegah.com/)** | **[Marketing Intern with Sales Responsibilities (Growth Hacker)](https://jobright.ai/jobs/info/6961e576f3f4cd132506dc50?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 09 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb672de50091dbfa4fd0b?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jan 09 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961e350a112b40266106441?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 09 |
 | ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961e34ae7ed9a5731baa74a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6961d9e0e7ed9a5731baa39d?utm_campaign=1065&utm_source=git)** | Newark, NJ | Hybrid | Jan 09 |
 | **[Soul Detox](GetSoulDetox.com)** | **[Influencer Internship](https://jobright.ai/jobs/info/6961d99cf3f4cd132506d5c6?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jan 09 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d886a112b40266105fd5?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 09 |
-| ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d882a112b40266105fd2?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 09 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d882a112b40266105fd2?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 09 |
+| ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d853f3f4cd132506d522?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 09 |
 | **[Ericsson](https://www.ericsson.com)** | **[Marketing Campaign and Activation Intern](https://jobright.ai/jobs/info/6961d6eef3f4cd132506d475?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Jan 09 |
 | **[ATB Technologies](https://atb-tech.com/)** | **[Marketing/Social Media Intern](https://jobright.ai/jobs/info/6961d663f3f4cd132506d438?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Jan 09 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Marketing Summer Internship](https://jobright.ai/jobs/info/6961ce14f3f4cd132506ce94?utm_campaign=1065&utm_source=git)** | Dedham, MA | On Site | Jan 09 |
