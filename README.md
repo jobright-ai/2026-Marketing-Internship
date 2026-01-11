@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[State Park Intern - Presque Isle State Park Complex](https://jobright.ai/jobs/info/69419164bdcf884a5add4a1b?utm_campaign=1065&utm_source=git)** | Erie, PA | On Site | Jan 11 |
+| **[Fusion100](http://Fusion100co.com)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6963dd382cbf4e44756d8fe8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 11 |
+| **[happiness ai](https://happinessai.com/)** | **[Marketing and Sales Specialist/Intern](https://jobright.ai/jobs/info/6963dc8425e18715078072a8?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jan 11 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6963dc3425e1871507807291?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jan 11 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6963d8352cbf4e44756d8f00?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Jan 11 |
+| **[Atmosfy](https://atmosfy.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/695c2e3d22c9dc0d3d540cd1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6963d766a112b4026611f6af?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 11 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6963d2a52cbf4e44756d7ed8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[Noyack Wealth Club](https://www.wearenoyack.com/)** | **[Influencer Partnerships Outreach Intern](https://jobright.ai/jobs/info/6963b4e02cbf4e44756d63b4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Media Planning Intern](https://jobright.ai/jobs/info/6963b094a112b4026611cab6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[CN](http://www.cn.ca)** | **[Intern, Market Analyst (Automotive)- EN](https://jobright.ai/jobs/info/6954928a5bb7de448ef78b10?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Jan 11 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69634d5aa112b40266116f1b?utm_campaign=1065&utm_source=git)** | Farmington, CT | On Site | Jan 11 |
 | **[Oakland University](http://www.oakland.edu)** | **[Summer Student Communication Internship for Baby PEACE (Fixed-term)](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7c08?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Jan 11 |
@@ -73,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/694761617d506e3808f2abbc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[PIM Brands](https://pimbrands.com)** | **[Omni Marketing Intern](https://jobright.ai/jobs/info/693a481048a8ce22990e42d2?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 11 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Strategic Growth and Marketing Intern Summer 2026](https://jobright.ai/jobs/info/68d611da1f7fb2169ab15d60?utm_campaign=1065&utm_source=git)** | New Stanton, PA | Hybrid | Jan 11 |
-| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/6947ba30d1953b5d11c0e2c1?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 11 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69477973d1953b5d11c08b72?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[MEMX](http://www.memx.com/)** | **[Market Technology and Member Experience Intern, Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/690e6322d046ab6061cfcfac?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947797363141d1884571fe4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Marketing Internship](https://jobright.ai/jobs/info/690cef7cd046ab6061cf0ac9?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 10 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Marketing Communications Intern](https://jobright.ai/jobs/info/690d2c62221b890c27804401?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Jan 10 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/6945e14663141d1884557fa0?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 10 |
-| ↳ | **[Workplace Support Ambassador Intern - Summer 2026](https://jobright.ai/jobs/info/6945de8563141d1884557dec?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 10 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/6959e1ed9f1b381eb272888d?utm_campaign=1065&utm_source=git)** | Middlesex County, NJ | Hybrid | Jan 10 |
-| **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Gen Z Branding Intern](https://jobright.ai/jobs/info/696250042cbf4e44756c47c7?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
-| ↳ | **[Development Engagement Intern](https://jobright.ai/jobs/info/6962565925e18715077f3d3d?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
-| ↳ | **[Live Events Intern](https://jobright.ai/jobs/info/6962500e25e18715077f3131?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (TikTok Shop Product Marketing) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68c7b544c008cf3402c8f06f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
