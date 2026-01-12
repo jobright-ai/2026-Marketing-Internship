@@ -57,20 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DataInsta](www.datainsta.com)** | **[Growth marketing Intern](https://jobright.ai/jobs/info/69643703a112b40266122724?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
+| **[Colorstech Solar](http://www.colorstech.net)** | **[Technical Digital -Marketing - Intern](https://jobright.ai/jobs/info/69642ac7a112b402661225e4?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jan 11 |
 | **[Country Bank](http://countrybank.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69640dc02cbf4e44756db9c6?utm_campaign=1065&utm_source=git)** | Ware, MA | On Site | Jan 11 |
 | **[Mississippi Mud Monsters](https://ondeck2025.com/)** | **[Content & Promotions Internship](https://jobright.ai/jobs/info/6964038225e187150780811f?utm_campaign=1065&utm_source=git)** | Pearl, MS | On Site | Jan 11 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Marketing Internship (unpaid)](https://jobright.ai/jobs/info/69640317a112b40266120667?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Jan 11 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6964030a2cbf4e44756d9e32?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Product Marketing Intern - Garment Care & Lighted Mirrors](https://jobright.ai/jobs/info/696400062cbf4e44756d9d40?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Jan 11 |
 | **[LexTrack AI](https://www.lextrackai.com)** | **[AI Sales And Marketing Intern](https://jobright.ai/jobs/info/6963fb472cbf4e44756d9a5d?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Jan 11 |
-| **[Solace & Sol Therapy LLC](www.cardincounseling.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6963fb2025e1871507807d3b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
 | **[City of South Fulton](https://www.cityofsouthfultonga.gov)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6963fb1725e1871507807d30?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
 | **[SRND AI](srnd.ai)** | **[(Unpaid) Social Media Content & Management intern](https://jobright.ai/jobs/info/6963f6fe25e1871507807bef?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6963f50625e1871507807a91?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
 | **[ZobeLab](http://www.ZobeLab.com)** | **[Internship - Music Technology (Marketing, Sales, Business Development, Partnership Management)](https://jobright.ai/jobs/info/6963eff02cbf4e44756d9307?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
 | **[Knead](https://www.linkedin.com/company/104857009)** | **[Marketing Intern](https://jobright.ai/jobs/info/6963ecb32cbf4e44756d91ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Social Media Marketing Associate (Intern)](https://jobright.ai/jobs/info/6963ec1125e187150780745c?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Remote | Jan 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6963e7ff25e18715078073f5?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 11 |
-| **[Fusion100](http://Fusion100co.com)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6963dd382cbf4e44756d8fe8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[happiness ai](https://happinessai.com/)** | **[Marketing and Sales Specialist/Intern](https://jobright.ai/jobs/info/6963dc8425e18715078072a8?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jan 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6963dc3425e1871507807291?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jan 11 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6963d8352cbf4e44756d8f00?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Jan 11 |
