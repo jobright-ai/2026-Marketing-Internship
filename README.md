@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/6947d155d1953b5d11c0fd1e?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 12 |
+| **[PIM Brands](https://pimbrands.com)** | **[Welchs Fruit Snacks Seasonal Intern](https://jobright.ai/jobs/info/693b54c05f2c001987ed5c4b?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 12 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Technology to Market Intern Summer 2026](https://jobright.ai/jobs/info/68ce935bfb49c96ca6ea1acb?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 12 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Atlanta Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/692d42b666796e3028f940b7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 12 |
+| ↳ | **[Charlotte Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/692d5779fa28370be269c880?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 12 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Intern](https://jobright.ai/jobs/info/6964c09b2cbf4e44756e45f9?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 12 |
+| **[Edelman DXI](https://www.edelmandxi.com)** | **[Intern, Performance Intelligence](https://jobright.ai/jobs/info/6964bd32a112b4026612a663?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 12 |
 | **[H2M architects + engineers](http://h2m.com/)** | **[Marketing - Student Intern](https://jobright.ai/jobs/info/6964a3e925e187150780f9e9?utm_campaign=1065&utm_source=git)** | Melville, NY, USA | On Site | Jan 11 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69648d2c2cbf4e44756e0ddb?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Jan 11 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Virtual Marketing Intern](https://jobright.ai/jobs/info/69648c862cbf4e44756e0d95?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Multimedia Marketing Intern - Summer](https://jobright.ai/jobs/info/690d0277221b890c27801e1c?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 10 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed481d078b81ad160fe55?utm_campaign=1065&utm_source=git)** | Bloomington, MN | On Site | Jan 10 |
 | **[Illumio](http://www.illumio.com)** | **[Community Marketing Intern](https://jobright.ai/jobs/info/69461f68d1953b5d11bf3c3d?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Jan 10 |
-| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - eCommerce Merchandising](https://jobright.ai/jobs/info/6945ffec7d506e3808f14a43?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | Hybrid | Jan 10 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed25746e5b153e5a605a5?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Jan 10 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68cd191ae23def7af55b5338?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 10 |
-| **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Jan 10 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Marketing Intern: Spring](https://jobright.ai/jobs/info/694734667d506e3808f27dcb?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Jan 10 |
-| **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945adf5951654073537c825?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Jan 10 |
-| **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb6d79821486c423c6e72?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
