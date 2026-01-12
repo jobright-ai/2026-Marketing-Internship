@@ -57,21 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Praytell](http://www.praytellagency.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/696453e725e187150780c517?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 11 |
+| **[DemaDose](https://www.demadose.com/)** | **[Content Manager](https://jobright.ai/jobs/info/6964516c2cbf4e44756de283?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jan 11 |
+| **[Praytell](http://www.praytellagency.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/696450b6a112b40266124867?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 11 |
+| **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, Communications](https://jobright.ai/jobs/info/69644dcaa112b402661245db?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Jan 11 |
+| **[POPLAW](http://poplawpodcast.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/696446f225e187150780bc46?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Philanthropy Children's Team](https://jobright.ai/jobs/info/696444712cbf4e44756dc6b0?utm_campaign=1065&utm_source=git)** | Portland, ME | Hybrid | Jan 11 |
+| **[Kamel Ride](www.kamelride.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69643c5c2cbf4e44756dc02c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[DataInsta](www.datainsta.com)** | **[Growth marketing Intern](https://jobright.ai/jobs/info/69643703a112b40266122724?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
 | **[Colorstech Solar](http://www.colorstech.net)** | **[Technical Digital -Marketing - Intern](https://jobright.ai/jobs/info/69642ac7a112b402661225e4?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jan 11 |
 | **[Country Bank](http://countrybank.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69640dc02cbf4e44756db9c6?utm_campaign=1065&utm_source=git)** | Ware, MA | On Site | Jan 11 |
 | **[Mississippi Mud Monsters](https://ondeck2025.com/)** | **[Content & Promotions Internship](https://jobright.ai/jobs/info/6964038225e187150780811f?utm_campaign=1065&utm_source=git)** | Pearl, MS | On Site | Jan 11 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Marketing Internship (unpaid)](https://jobright.ai/jobs/info/69640317a112b40266120667?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Jan 11 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6964030a2cbf4e44756d9e32?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Product Marketing Intern - Garment Care & Lighted Mirrors](https://jobright.ai/jobs/info/696400062cbf4e44756d9d40?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Jan 11 |
-| **[LexTrack AI](https://www.lextrackai.com)** | **[AI Sales And Marketing Intern](https://jobright.ai/jobs/info/6963fb472cbf4e44756d9a5d?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Jan 11 |
 | **[City of South Fulton](https://www.cityofsouthfultonga.gov)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6963fb1725e1871507807d30?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
 | **[SRND AI](srnd.ai)** | **[(Unpaid) Social Media Content & Management intern](https://jobright.ai/jobs/info/6963f6fe25e1871507807bef?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6963f50625e1871507807a91?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
 | **[ZobeLab](http://www.ZobeLab.com)** | **[Internship - Music Technology (Marketing, Sales, Business Development, Partnership Management)](https://jobright.ai/jobs/info/6963eff02cbf4e44756d9307?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
 | **[Knead](https://www.linkedin.com/company/104857009)** | **[Marketing Intern](https://jobright.ai/jobs/info/6963ecb32cbf4e44756d91ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Social Media Marketing Associate (Intern)](https://jobright.ai/jobs/info/6963ec1125e187150780745c?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Remote | Jan 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6963e7ff25e18715078073f5?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 11 |
-| **[happiness ai](https://happinessai.com/)** | **[Marketing and Sales Specialist/Intern](https://jobright.ai/jobs/info/6963dc8425e18715078072a8?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jan 11 |
+| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[State Park Intern - Presque Isle State Park Complex](https://jobright.ai/jobs/info/69419164bdcf884a5add4a1b?utm_campaign=1065&utm_source=git)** | Erie, PA | On Site | Jan 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6963dc3425e1871507807291?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jan 11 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6963d8352cbf4e44756d8f00?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Jan 11 |
 | **[Atmosfy](https://atmosfy.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/695c2e3d22c9dc0d3d540cd1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 11 |
@@ -106,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69631f452cbf4e44756cdf14?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[BYROE](https://byroe.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6962f77ea112b40266113b53?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Hybrid | Jan 10 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Marketing – AEG Presents Las Vegas](https://jobright.ai/jobs/info/69306578ef4b48533d14b79c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Jan 10 |
-| **[Precision Quantomics](https://precisionquantomics.com/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/6962df3d2cbf4e44756cb297?utm_campaign=1065&utm_source=git)** | Spokane, WA | Hybrid | Jan 10 |
 | **[Robometrics® Machines](https://www.robometricsagi.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6962dc5e2cbf4e44756cb263?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 10 |
 | **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6962d4be25e18715077f966d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 10 |
 | **[IH Concepts](https://ihconceptsonline.com)** | **[Digital Marketing Intern for Spring](https://jobright.ai/jobs/info/6962d25b2cbf4e44756cb189?utm_campaign=1065&utm_source=git)** | Madison, WI | Hybrid | Jan 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern - Wrangler Brand Marketing, Social Media - Influencer](https://jobright.ai/jobs/info/6945b83fd1953b5d11beb81e?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Jan 10 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb66878ba1621431dff61?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Community Management and Social Listening Intern - Summer 2026](https://jobright.ai/jobs/info/6945bd5ed1953b5d11bebc81?utm_campaign=1065&utm_source=git)** | Detroit, MI | Remote | Jan 10 |
-| **[Rock Events](https://rockevents.com/)** | **[Event Venues Intern - Summer 2026](https://jobright.ai/jobs/info/6945cfb7d1953b5d11bed585?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 10 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Branding](https://jobright.ai/jobs/info/6945e7f663141d188455844c?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
-| **[Corsair](http://www.corsair.com)** | **[Social & Community Intern – DIY Technical Marketing](https://jobright.ai/jobs/info/69459c1e63141d1884552a2c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
-| **[The Marzetti Company](http://www.marzetticompany.com)** | **[Retail Marketing Internship -Summer 2026](https://jobright.ai/jobs/info/6945e18963141d1884557fca?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 10 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Digital and Advertising](https://jobright.ai/jobs/info/6945eb7d7d506e3808f12e2f?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
