@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Influencers](https://jobright.ai/jobs/info/696b3bc8db26b618950ec22d?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Marketing And Advertising Intern](https://jobright.ai/jobs/info/696b3ac8db26b618950ec125?utm_campaign=1065&utm_source=git)** | United States | On Site | Jan 16 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Commercial](https://jobright.ai/jobs/info/696b34afdb26b618950ebaf9?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
+| **[Asha Leopard INC.](http://asha-leopard.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/696b3230350cf438031282d0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jan 16 |
 | **[The Integral Group](http://www.integral-online.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696b1d0bdb26b618950eabb4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jan 16 |
 | **[Consenterra, Inc.](https://consenterra.lovable.app/)** | **[Marketing & PR Intern (Unpaid)](https://jobright.ai/jobs/info/696b0f605fc86241853a5c9d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 16 |
 | **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Summer 2026 Credit Marketing Internship](https://jobright.ai/jobs/info/696b0e80db26b618950e885e?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jan 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Marketing & Research Intern- Summer 2026](https://jobright.ai/jobs/info/696ab089db26b618950de564?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[Simon Quick Advisors, LLC](http://www.simonquickadvisors.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ad5a0350cf4380311f1f3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Identity, Products, & Loyalty - Marketing Research & Insights (Summer 2026)](https://jobright.ai/jobs/info/696aaf34db26b618950de118?utm_campaign=1065&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | Hybrid | Jan 16 |
-| **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Brand Management & Consumer Insights, Hockey Internship](https://jobright.ai/jobs/info/696aaed8350cf4380311a842?utm_campaign=1065&utm_source=git)** | Exeter, NH, US | Hybrid | Jan 16 |
-| **[HealthBridge Financial, Inc.](http://www.myhealthbridge.com)** | **[Communications and Events Intern](https://jobright.ai/jobs/info/696adb86db26b618950e3499?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Jan 16 |
-| **[American Chemical Society](https://www.acs.org/)** | **[Communications/ Change Management intern](https://jobright.ai/jobs/info/696aacce350cf4380311a16e?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
-| **[Lele Sadoughi](http://www.lelesadoughi.com)** | **[social media content creater Intern](https://jobright.ai/jobs/info/696aac4b350cf43803119fc0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
