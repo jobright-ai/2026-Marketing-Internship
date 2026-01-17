@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Answerr](https://answerr.ai)** | **[Influencer Outreach Intern](https://jobright.ai/jobs/info/696bc93a350cf438031315ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Events Internships](https://jobright.ai/jobs/info/696bc1955fc86241853b1d53?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jan 17 |
+| **[GenPark](https://genpark.ai)** | **[Project Marketing Intern](https://jobright.ai/jobs/info/696bc0385fc86241853b1cfa?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
+| **[Benton PUD](www.bentonpud.org)** | **[Communications Intern Summer 2026](https://jobright.ai/jobs/info/696bbdb7350cf4380313141c?utm_campaign=1065&utm_source=git)** | Kennewick, WA | On Site | Jan 17 |
+| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Marketing Intern](https://jobright.ai/jobs/info/696bb15c5fc86241853b0196?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 17 |
 | **[Denali Ingredients](https://www.denaliingredients.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696bae025fc86241853b010a?utm_campaign=1065&utm_source=git)** | New Berlin, WI | On Site | Jan 17 |
 | **[Alliance Marketing Partners](http://alliancemarketingpartners.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/696baa49350cf4380312f784?utm_campaign=1065&utm_source=git)** | Atlanta Metro | On Site | Jan 17 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Sports Influencers](https://jobright.ai/jobs/info/696ba3425fc86241853afe4a?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
@@ -83,11 +88,13 @@ For a complete list, click the following sortable link below:
 | **[Direct Supply](http://www.directsupply.com)** | **[Community Involvement Intern](https://jobright.ai/jobs/info/6960fff0a112b402660f8834?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 17 |
 | **[BTAS, Inc.](http://www.btas.com/)** | **[DoD SkillBridge Internship – Senior Growth Strategist](https://jobright.ai/jobs/info/6960a2ce7ebc25398eb683da?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Jan 17 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Strategic Marketing Intern (MBA Level)](https://jobright.ai/jobs/info/691a95d945fb6f5ead8ac227?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 17 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef33729655e4dd65876db?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Jan 17 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68fa84a6edd190144238d898?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jan 17 |
+| **[Pepper AI](www.pepperai.lovable.app)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/696bbe2a350cf4380313142e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/6959e511f1f8465b79f03b7a?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Jan 17 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68eb5d1a8369791ef7826604?utm_campaign=1065&utm_source=git)** | Mattoon, IL | On Site | Jan 17 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68c02860702aa35207aaafb5?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Jan 17 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/693365bcf131d96e48462d94?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Jan 17 |
+| **[Mandarin Zest](https://mandarinzest.com/)** | **[Remote Social Media & Content Intern](https://jobright.ai/jobs/info/696bbe64350cf43803131443?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Market Research Analyst](https://jobright.ai/jobs/info/696b7b485fc86241853ad241?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Pest Hunters - Mosquito Hunters - Humbug Holiday Lighting](https://mosquitohunters.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ba67cdb26b618950f2a1b?utm_campaign=1065&utm_source=git)** | Millburn, NJ | On Site | Jan 17 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efceaa2668b7f545248e8?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Jan 17 |
@@ -110,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Content](https://jobright.ai/jobs/info/696b43cb350cf43803129252?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 17 |
 | **[Sequoia Riverlands Trust](https://sequoiariverlands.org/#)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/696b421d350cf438031291a4?utm_campaign=1065&utm_source=git)** | Visalia, CA | On Site | Jan 17 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Media Intern (Summer)](https://jobright.ai/jobs/info/694a0c6863141d188459ab7b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Influencers](https://jobright.ai/jobs/info/696b3c295fc86241853a94e6?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
-| ↳ | **[Intern, Sports Commercial](https://jobright.ai/jobs/info/696b34afdb26b618950ebaf9?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Commercial](https://jobright.ai/jobs/info/696b3eb4db26b618950ec52d?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
+| ↳ | **[Intern, Sports Influencers](https://jobright.ai/jobs/info/696b3341db26b618950eb9b2?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
 | **[Asha Leopard INC.](http://asha-leopard.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/696b3230350cf438031282d0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jan 16 |
 | **[The Integral Group](http://www.integral-online.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696b1d0bdb26b618950eabb4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jan 16 |
 | **[Consenterra, Inc.](https://consenterra.lovable.app/)** | **[Marketing & PR Intern (Unpaid)](https://jobright.ai/jobs/info/696b0f605fc86241853a5c9d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 16 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clay County MO](https://www.claycountymo.gov/)** | **[Intern - Marketing & Communications](https://jobright.ai/jobs/info/696b0903350cf43803124d20?utm_campaign=1065&utm_source=git)** | Smithville, MO, US | On Site | Jan 16 |
 | **[Red River Commodities](https://redriverasia.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696b00845fc86241853a4932?utm_campaign=1065&utm_source=git)** | Corporate Office Fargo, Fargo, ND, US | On Site | Jan 16 |
 | **[Albemarle County](http://www.albemarle.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69603553a1bbea1d9a7b110b?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | On Site | Jan 16 |
-| **[Clay County Missouri Human Resources](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=444e28a5-5571-4888-9333-7af5754212c5&ccId=19000101_000001&lang=en_US)** | **[Intern - Marketing & Communications](https://jobright.ai/jobs/info/696b06aadb26b618950e7f4b?utm_campaign=1065&utm_source=git)** | Smithville, MO, US | On Site | Jan 16 |
-| **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad15f350cf4380311e99b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
-| **[The Integral Group](http://www.integral-online.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696afc73db26b618950e70f1?utm_campaign=1065&utm_source=git)** | Atlanta, GA 30303, USA | Hybrid | Jan 16 |
-| **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69168240286ccf0a15136ca8?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
-| **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad07edb26b618950e206a?utm_campaign=1065&utm_source=git)** | Charlottesville, Virginia, United States | Hybrid | Jan 16 |
-| **[Soleluxe](www.soleluxe.co)** | **[Marketing Analytics & Content Internship](https://jobright.ai/jobs/info/696aece95fc86241853a2c05?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
-| **[American University](http://american.edu)** | **[CIS Social Media Intern (Student) (FWS)](https://jobright.ai/jobs/info/696af2dcdb26b618950e64a7?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
