@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/696c536bdb26b618950fa175?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
+| **[Burson](https://www.bursonglobal.com)** | **[Intern, Influencer](https://jobright.ai/jobs/info/6965d473a112b4026613f0c3?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 17 |
+| **[Leland](https://www.joinleland.com)** | **[Growth Intern: Reviews & Outcomes](https://jobright.ai/jobs/info/696c4685db26b618950f9c30?utm_campaign=1065&utm_source=git)** | Lehi, UT | Hybrid | Jan 17 |
 | **[Travlab LLC](http://www.travlab.co/)** | **[Social Media Marketing Internship - Remote - Unpaid](https://jobright.ai/jobs/info/696c3bb65fc86241853b6eab?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
 | **[RUKUS AVENUE Music Group](https://www.rukusavenue.com)** | **[Rukus Avenue Radio & Media Intern(Operations, Sales & Marketing)](https://jobright.ai/jobs/info/696c3191350cf4380313589a?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Jan 17 |
 | **[Hytribe](https://home.hytribe.xyz/)** | **[Marketing Intern](https://jobright.ai/jobs/info/696c2dd0db26b618950f7a90?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Jan 17 |
@@ -98,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Direct Supply](http://www.directsupply.com)** | **[Community Involvement Intern](https://jobright.ai/jobs/info/6960fff0a112b402660f8834?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 17 |
 | **[BTAS, Inc.](http://www.btas.com/)** | **[DoD SkillBridge Internship – Senior Growth Strategist](https://jobright.ai/jobs/info/6960a2ce7ebc25398eb683da?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Jan 17 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Strategic Marketing Intern (MBA Level)](https://jobright.ai/jobs/info/691a95d945fb6f5ead8ac227?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 17 |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef33729655e4dd65876db?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Jan 17 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68fa84a6edd190144238d898?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jan 17 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/6959e511f1f8465b79f03b7a?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Jan 17 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68eb5d1a8369791ef7826604?utm_campaign=1065&utm_source=git)** | Mattoon, IL | On Site | Jan 17 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68c02860702aa35207aaafb5?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Jan 17 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/693365bcf131d96e48462d94?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Jan 17 |
@@ -122,14 +125,12 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efbcfa2668b7f54524890?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jan 17 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[NIL Outreach and Social Media Outreach Intern](https://jobright.ai/jobs/info/696b5b5b350cf4380312bd9a?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Jan 17 |
 | **[Wright's Resumes and Connections](https://www.wrightsresumes.com)** | **[Wix Blog & Content Assistant - Unpaid Internship (Marketing Team)](https://jobright.ai/jobs/info/696b578c5fc86241853ac446?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Content](https://jobright.ai/jobs/info/696b4541db26b618950eca9a?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 17 |
-| **[Sequoia Riverlands Trust](https://sequoiariverlands.org/#)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/696b421d350cf438031291a4?utm_campaign=1065&utm_source=git)** | Visalia, CA | On Site | Jan 17 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Content](https://jobright.ai/jobs/info/696b43235fc86241853a9b41?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 17 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Media Intern (Summer)](https://jobright.ai/jobs/info/694a0c6863141d188459ab7b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Commercial](https://jobright.ai/jobs/info/696b3473350cf43803128502?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
-| ↳ | **[Intern, Sports Influencers](https://jobright.ai/jobs/info/696b3341db26b618950eb9b2?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Commercial](https://jobright.ai/jobs/info/696b3eb4db26b618950ec52d?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
+| ↳ | **[Intern, Sports Influencers](https://jobright.ai/jobs/info/696b3c295fc86241853a94e6?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
 | **[Asha Leopard INC.](http://asha-leopard.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/696b3230350cf438031282d0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jan 16 |
 | **[The Integral Group](http://www.integral-online.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696b1d0bdb26b618950eabb4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jan 16 |
-| **[Consenterra, Inc.](https://consenterra.lovable.app/)** | **[Marketing & PR Intern (Unpaid)](https://jobright.ai/jobs/info/696b0f605fc86241853a5c9d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 16 |
 | **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Summer 2026 Credit Marketing Internship](https://jobright.ai/jobs/info/696b0e80db26b618950e885e?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jan 16 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696b0bf7db26b618950e86ae?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | Jan 16 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Summer Associate - Intern, Strategy3](https://jobright.ai/jobs/info/696b0752350cf438031247b7?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Girl Scouts of Eastern Missouri](https://www.girlscoutsem.org/)** | **[Cookie Program Intern- Spring 2026](https://jobright.ai/jobs/info/696b042e5fc86241853a4e35?utm_campaign=1065&utm_source=git)** | Girl Scouts of Eastern Missouri - SAINT LOUIS, MO 63146 | Hybrid | Jan 16 |
 | **[TMX Group](http://www.tmx.com)** | **[Market Operations Student Intern (Summer 2026)](https://jobright.ai/jobs/info/696aff9adb26b618950e753f?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 16 |
 | **[Essense of Australia](https://www.essensedesigns.com/)** | **[Merchandising Operations Intern](https://jobright.ai/jobs/info/696addf7350cf438031203e2?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Jan 16 |
-| **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/696bdc40db26b618950f4ad6?utm_campaign=1065&utm_source=git)** | Auburn, WA | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
