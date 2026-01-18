@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/696c8a4fdb26b618950fd95a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS -USF Youth Experiences Social Media Intern](https://jobright.ai/jobs/info/696c7882350cf43803139c08?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Jan 17 |
 | **[Libertad Co NYC](www.libertadconyc.com)** | **[Fashion Marketing Internship](https://jobright.ai/jobs/info/696c7060db26b618950fca5a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/69309064ef4b48533d14c73b?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Jan 17 |
 | **[Exchange](https://www.linkedin.com/company/106873874)** | **[Growth Intern](https://jobright.ai/jobs/info/696c5e7edb26b618950fa9b8?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 17 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[BHcare](https://bhcare.org)** | **[Intern- Development](https://jobright.ai/jobs/info/696bec9d5fc86241853b2cc3?utm_campaign=1065&utm_source=git)** | 127 Washington Avenue, North Haven, CT - North Haven, CT 06473 | On Site | Jan 17 |
 | **[SYC](www.syccase.co.uk)** | **[Marketing Internship - Search & Social Media](https://jobright.ai/jobs/info/696bddef5fc86241853b2267?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | **[Shelley Whitman Associates](https://www.shelleywhitman.com/)** | **[Social Media Internship](https://jobright.ai/jobs/info/696bdaaf350cf438031317ef?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Media Strategy Summer Intern](https://jobright.ai/jobs/info/696bdaa4350cf438031317e9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | **[Swapila](https://www.swapila.com/)** | **[Brand Marketing & Digital Engagement Intern](https://jobright.ai/jobs/info/696bd5fd5fc86241853b202e?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Jan 17 |
 | **[Ubiq](https://www.titoapp.org/)** | **[Content Creation & Growth Hacking Internship](https://jobright.ai/jobs/info/696bd5fc5fc86241853b202d?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jan 17 |
 | **[Answerr](https://answerr.ai)** | **[Influencer Outreach Intern](https://jobright.ai/jobs/info/696bc93a350cf438031315ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Direct Supply](http://www.directsupply.com)** | **[Community Involvement Intern](https://jobright.ai/jobs/info/6960fff0a112b402660f8834?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 17 |
 | **[BTAS, Inc.](http://www.btas.com/)** | **[DoD SkillBridge Internship – Senior Growth Strategist](https://jobright.ai/jobs/info/6960a2ce7ebc25398eb683da?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Jan 17 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Strategic Marketing Intern (MBA Level)](https://jobright.ai/jobs/info/691a95d945fb6f5ead8ac227?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 17 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef33729655e4dd65876db?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Jan 17 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68fa84a6edd190144238d898?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jan 17 |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/6959e511f1f8465b79f03b7a?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Jan 17 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68eb5d1a8369791ef7826604?utm_campaign=1065&utm_source=git)** | Mattoon, IL | On Site | Jan 17 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68c02860702aa35207aaafb5?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Jan 17 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/693365bcf131d96e48462d94?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Jan 17 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Content](https://jobright.ai/jobs/info/696b4541db26b618950eca9a?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 17 |
 | **[Sequoia Riverlands Trust](https://sequoiariverlands.org/#)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/696b421d350cf438031291a4?utm_campaign=1065&utm_source=git)** | Visalia, CA | On Site | Jan 17 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Media Intern (Summer)](https://jobright.ai/jobs/info/694a0c6863141d188459ab7b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Commercial](https://jobright.ai/jobs/info/696b3eb4db26b618950ec52d?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
-| ↳ | **[Intern, Sports Influencers](https://jobright.ai/jobs/info/696b3bc8db26b618950ec22d?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Influencers](https://jobright.ai/jobs/info/696b3c295fc86241853a94e6?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
+| ↳ | **[Intern, Sports Commercial](https://jobright.ai/jobs/info/696b34afdb26b618950ebaf9?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 16 |
 | **[Asha Leopard INC.](http://asha-leopard.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/696b3230350cf438031282d0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jan 16 |
 | **[The Integral Group](http://www.integral-online.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696b1d0bdb26b618950eabb4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jan 16 |
 | **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Summer 2026 Credit Marketing Internship](https://jobright.ai/jobs/info/696b0e80db26b618950e885e?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cerrowire](http://cerrowire.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/696ae6205fc86241853a1b72?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Jan 16 |
 | **[Fresco (YC F24)](https://fresco-ai.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/696b06595fc86241853a516c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 16 |
 | **[Cerrowire](http://cerrowire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ae5145fc86241853a18f7?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Jan 16 |
-| **[First Capital REIT](https://fcr.ca/)** | **[Marketing and Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/696b0169350cf438031240dc?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
