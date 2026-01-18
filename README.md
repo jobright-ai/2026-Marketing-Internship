@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/696d197edb26b6189510463d?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jan 18 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/696d1957db26b61895104630?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 18 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/696d190e350cf438031419c7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 18 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/696d16365fc86241853c1d90?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Jan 18 |
+| **[Legends Global](http://legends.net)** | **[Events Intern](https://jobright.ai/jobs/info/696d0ff65fc86241853c1d1b?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 18 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/696d0cbb350cf438031406d4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 18 |
+| **[ASM Global](http://www.asmglobal.com)** | **[Events Intern](https://jobright.ai/jobs/info/696d02db5fc86241853c031c?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 18 |
 | **[CasaConneX](https://www.casa-connex.com)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/696cfc48350cf4380313fe3d?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 18 |
 | **[Mandarin Zest](https://mandarinzest.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/696cf8095fc86241853c022b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 18 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Event internship](https://jobright.ai/jobs/info/696cf4df350cf4380313fd76?utm_campaign=1065&utm_source=git)** | Redlands, CA | On Site | Jan 18 |
@@ -103,9 +110,6 @@ For a complete list, click the following sortable link below:
 | **[SYC](www.syccase.co.uk)** | **[Marketing Internship - Search & Social Media](https://jobright.ai/jobs/info/696bddef5fc86241853b2267?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | **[Shelley Whitman Associates](https://www.shelleywhitman.com/)** | **[Social Media Internship](https://jobright.ai/jobs/info/696bdaaf350cf438031317ef?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Swapila](https://www.swapila.com/)** | **[Brand Marketing & Digital Engagement Intern](https://jobright.ai/jobs/info/696bd5fd5fc86241853b202e?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Jan 17 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Events Internships](https://jobright.ai/jobs/info/696bc1955fc86241853b1d53?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jan 17 |
-| **[BUILD A SCHOOL FOUNDATION INC](http://www.BuildaSchoolFoundation.org)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/696cdeed5fc86241853bfb69?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jan 17 |
-| **[The Rewiring Lens](https://www.therewiringlens.com)** | **[Social Media and Science Communication Intern](https://jobright.ai/jobs/info/696cdc47db26b61895102178?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Benton PUD](www.bentonpud.org)** | **[Communications Intern Summer 2026](https://jobright.ai/jobs/info/696bbdb7350cf4380313141c?utm_campaign=1065&utm_source=git)** | Kennewick, WA | On Site | Jan 17 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Marketing Intern](https://jobright.ai/jobs/info/696bb15c5fc86241853b0196?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 17 |
 | **[Denali Ingredients](https://www.denaliingredients.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696bae025fc86241853b010a?utm_campaign=1065&utm_source=git)** | New Berlin, WI | On Site | Jan 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Austin Industries](http://www.austin-ind.com)** | **[2026 Summer Communications Internship](https://jobright.ai/jobs/info/68d115208c62e63bc7fc8d47?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694ef85f29655e4dd65890d9?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 17 |
 | **[Atlassian](https://www.atlassian.com)** | **[Analyst Relations Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/693260f6a0dde7020e2e6506?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jan 17 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efbcfa2668b7f54524890?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jan 17 |
-| **[Electro](https://www.linkedin.com/company/107151260)** | **[NIL Outreach and Social Media Outreach Intern](https://jobright.ai/jobs/info/696b5b5b350cf4380312bd9a?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Jan 17 |
-| **[Wright's Resumes and Connections](https://www.wrightsresumes.com)** | **[Wix Blog & Content Assistant - Unpaid Internship (Marketing Team)](https://jobright.ai/jobs/info/696b578c5fc86241853ac446?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Sports Content](https://jobright.ai/jobs/info/696b43cb350cf43803129252?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
