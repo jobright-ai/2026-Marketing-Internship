@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Events Internships](https://jobright.ai/jobs/info/696e2fb0db26b61895111f14?utm_campaign=1065&utm_source=git)** | Redlands, CA | Remote | Jan 19 |
+| **[Ardmore Roderick](http://www.ardmoreroderick.com/)** | **[Marketing and Communications Intern-2601100JKI01](https://jobright.ai/jobs/info/696e4dc95fc86241853d0e99?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 19 |
+| **[Argueta CPA Firm](https://arguetacpa.com)** | **[Social Media Content Marketing Intern (Paid)](https://jobright.ai/jobs/info/696e4c7a5fc86241853d0e3f?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Jan 19 |
+| **[Bell & Evans](http://bellandevans.com)** | **[Summer Internship - Marketing Department](https://jobright.ai/jobs/info/696e41d9350cf43803150800?utm_campaign=1065&utm_source=git)** | Fredericksburg, PA | On Site | Jan 19 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing And Advertising Intern](https://jobright.ai/jobs/info/696e3f075fc86241853d088c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 19 |
+| **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/696e3f04db26b61895112f0a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 19 |
+| **[Direct Supply](http://www.directsupply.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6933abcb764507023d1b7eed?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 19 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Marketing Intern / Summer 2026](https://jobright.ai/jobs/info/691ae1d445fb6f5ead8ae914?utm_campaign=1065&utm_source=git)** | Brentwood, TN | Hybrid | Jan 19 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Digital Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04d40f758fe1f97e4c294?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 19 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68e05eccb99ec3563b0cf009?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Jan 19 |
@@ -83,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Cutback](https://cutback.video/ko/)** | **[Marketing Intern](https://jobright.ai/jobs/info/696dd888350cf4380314a572?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 18 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/696dd614db26b6189510cd40?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 18 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Constituent and Media Services](https://jobright.ai/jobs/info/696dd20e5fc86241853ca37c?utm_campaign=1065&utm_source=git)** | Chesterfield, VA | Hybrid | Jan 18 |
+| **[LXMQ](https://www.lxmq.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/696e3154350cf4380314fdd6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 18 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/696dc6345fc86241853c9d3a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 18 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Marketing Strategy & Analytics Summer (STAR) Intern](https://jobright.ai/jobs/info/696dc5f5350cf43803149b30?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 18 |
 | ↳ | **[Business & Customer Data Integration Summer (STAR) Intern](https://jobright.ai/jobs/info/696dc01edb26b6189510c082?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Knows Best LLC](www.knowsbestllc.com)** | **[Social Media and Content Creation Intern](https://jobright.ai/jobs/info/696c13525fc86241853b4ab8?utm_campaign=1065&utm_source=git)** | Greater Orlando | Remote | Jan 17 |
 | **[BHcare](https://bhcare.org)** | **[Intern- Development](https://jobright.ai/jobs/info/696bec9d5fc86241853b2cc3?utm_campaign=1065&utm_source=git)** | 127 Washington Avenue, North Haven, CT - North Haven, CT 06473 | On Site | Jan 17 |
 | **[Shelley Whitman Associates](https://www.shelleywhitman.com/)** | **[Social Media Internship](https://jobright.ai/jobs/info/696bdaaf350cf438031317ef?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
-| **[Benton PUD](www.bentonpud.org)** | **[Communications Intern Summer 2026](https://jobright.ai/jobs/info/696bbdb7350cf4380313141c?utm_campaign=1065&utm_source=git)** | Kennewick, WA | On Site | Jan 17 |
-| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Marketing Intern](https://jobright.ai/jobs/info/696bb15c5fc86241853b0196?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 17 |
-| **[Denali Ingredients](https://www.denaliingredients.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696bae025fc86241853b010a?utm_campaign=1065&utm_source=git)** | New Berlin, WI | On Site | Jan 17 |
-| **[Alliance Marketing Partners](http://alliancemarketingpartners.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/696baa49350cf4380312f784?utm_campaign=1065&utm_source=git)** | Atlanta Metro | On Site | Jan 17 |
-| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Sports Influencers](https://jobright.ai/jobs/info/696ba3425fc86241853afe4a?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
-| ↳ | **[Intern, Sports Commercial](https://jobright.ai/jobs/info/696ba0815fc86241853afcf0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
