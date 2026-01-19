@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](https://www.linkedin.com/company/107151260)** | **[NIL Outreach And Social Media Intern](https://jobright.ai/jobs/info/696d8c05db26b61895108f8e?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Jan 18 |
+| **[Fireworks Sports Marketing](https://www.fireworkssm.com/)** | **[sports marketing intern / Olympic partnerships](https://jobright.ai/jobs/info/696d88a7db26b61895108d5a?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Jan 18 |
+| **[MyDataProduct](https://www.linkedin.com/company/42755701)** | **[Product Marketing Intern – Undergraduate](https://jobright.ai/jobs/info/696d7dd2350cf43803145c20?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 18 |
+| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Ashro Lifestyle Brand Marketing Internship](https://jobright.ai/jobs/info/696d7a2c350cf438031442b3?utm_campaign=1065&utm_source=git)** | Monroe, WI | On Site | Jan 18 |
 | **[Summit Street](https://www.linkedin.com/company/107246022)** | **[Marketing Intern](https://jobright.ai/jobs/info/696d6c565fc86241853c459f?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Jan 18 |
 | **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Media Strategy Summer Intern](https://jobright.ai/jobs/info/696d5e79db26b61895106c1a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 18 |
 | **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Communications Intern](https://jobright.ai/jobs/info/696d4e98350cf43803143f7b?utm_campaign=1065&utm_source=git)** | Louisville, KY | Hybrid | Jan 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Sports Influencers](https://jobright.ai/jobs/info/696b7199db26b618950efbf8?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efe5529655e4dd6589252?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Sports Content](https://jobright.ai/jobs/info/696b71065fc86241853acf87?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efcffa2668b7f545248ed?utm_campaign=1065&utm_source=git)** | Montgomery, AL | Hybrid | Jan 17 |
-| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Sports Commercial](https://jobright.ai/jobs/info/696b7012350cf4380312c688?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69153b549c388539cbdf1b26?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 17 |
-| **[Duolingo](https://www.duolingo.com)** | **[Influencer Marketing, Intern](https://jobright.ai/jobs/info/69335396764507023d1b4464?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
