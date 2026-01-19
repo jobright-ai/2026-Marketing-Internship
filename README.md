@@ -57,7 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Events Internships](https://jobright.ai/jobs/info/696e2fb0db26b61895111f14?utm_campaign=1065&utm_source=git)** | Redlands, CA | Remote | Jan 19 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Marketing Intern / Summer 2026](https://jobright.ai/jobs/info/691ae1d445fb6f5ead8ae914?utm_campaign=1065&utm_source=git)** | Brentwood, TN | Hybrid | Jan 19 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Digital Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04d40f758fe1f97e4c294?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 19 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68e05eccb99ec3563b0cf009?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Jan 19 |
+| **[Stuller, Inc.](http://stuller.com)** | **[Findings Merchandising Intern](https://jobright.ai/jobs/info/696e276ddb26b618951107df?utm_campaign=1065&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Jan 19 |
+| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Marketing Strategy & Analytics Summer (STAR) Intern](https://jobright.ai/jobs/info/696e24e9350cf4380314de78?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 19 |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Corporate Events HYBRID in Lansing MI](https://jobright.ai/jobs/info/69573100f1f8465b79edfc04?utm_campaign=1065&utm_source=git)** | Lansing, MI | Hybrid | Jan 19 |
+| **[Rogers Electric](https://www.rogerselectric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c598227d0db41142734974?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Jan 19 |
+| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Business & Customer Data Integration Summer (STAR) Intern](https://jobright.ai/jobs/info/696e23e1db26b6189511074a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 19 |
+| **[Stuller, Inc.](http://stuller.com)** | **[Merchandising Analyst Intern](https://jobright.ai/jobs/info/696db1a0350cf438031473db?utm_campaign=1065&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Jan 19 |
+| ↳ | **[Digital Merchandising Intern](https://jobright.ai/jobs/info/696b06a6db26b618950e7f33?utm_campaign=1065&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Jan 19 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Social / Media Intern](https://jobright.ai/jobs/info/68c513c57d0db411427322e6?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Jan 19 |
+| **[Starbeam](www.starbeam.org)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/696e33ee350cf438031501a8?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jan 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68d00191dbd9fb154edecabf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 19 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/693273b7764507023d1aec92?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Jan 19 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Social / Media Intern](https://jobright.ai/jobs/info/68ca4cda5f9f0336447db703?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Jan 19 |
@@ -114,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Marketing Intern - Summer '26](https://jobright.ai/jobs/info/6943e09294730b7398770ea0?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Jan 18 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6917997f15b41563671796da?utm_campaign=1065&utm_source=git)** | Woodridge, IL | On Site | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Woburn area](https://jobright.ai/jobs/info/69343a0da0dde7020e2f4bc0?utm_campaign=1065&utm_source=git)** | Woburn, MA | On Site | Jan 18 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68c4880be396b25cb5c69017?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Jan 18 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68c4880be396b25cb5c69017?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Jan 18 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Product Marketing Intern (Dynapower) - Summer 2026](https://jobright.ai/jobs/info/68dee192a125e75c422b7b79?utm_campaign=1065&utm_source=git)** | South Burlington, VT | On Site | Jan 18 |
 | **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[MBA Marketing Intern  Summer 2026](https://jobright.ai/jobs/info/68ccc1d4d99309000e5a29b0?utm_campaign=1065&utm_source=git)** | New Albany, OH | On Site | Jan 18 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern -Brand Management](https://jobright.ai/jobs/info/69636fb32cbf4e44756d3007?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 18 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance Marketing Partners](http://alliancemarketingpartners.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/696baa49350cf4380312f784?utm_campaign=1065&utm_source=git)** | Atlanta Metro | On Site | Jan 17 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Sports Influencers](https://jobright.ai/jobs/info/696ba3425fc86241853afe4a?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
 | ↳ | **[Intern, Sports Commercial](https://jobright.ai/jobs/info/696ba0815fc86241853afcf0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
-| ↳ | **[Intern, Sports Content](https://jobright.ai/jobs/info/696ba00edb26b618950f27a3?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 17 |
-| **[The Hillman Group](http://www.hillmangroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/696b9f7d5fc86241853afc3a?utm_campaign=1065&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Jan 17 |
-| ↳ | **[Channel Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/696b9f33350cf4380312f352?utm_campaign=1065&utm_source=git)** | Rome, GA | On Site | Jan 17 |
-| **[The Weitz Company](http://www.weitz.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696b9ed0350cf4380312f30e?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Jan 17 |
-| **[M-Powerment Coaching](www.marymarquez.life )** | **[Social Media & Advocacy Intern](https://jobright.ai/jobs/info/696cdbcc350cf4380313f419?utm_campaign=1065&utm_source=git)** | Macon, GA | Remote | Jan 17 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, Paid Media](https://jobright.ai/jobs/info/6933616ba0dde7020e2ed36f?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
-| ↳ | **[Intern, Deployment and Itinerary Planning](https://jobright.ai/jobs/info/693364b4a0dde7020e2ed62c?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
-| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Jan 17 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, Copywriter](https://jobright.ai/jobs/info/69337ac0764507023d1b621c?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
-| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ef4cadb2e5a06a61608?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Jan 17 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Merchandising](https://jobright.ai/jobs/info/69336f64f131d96e484634ca?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 17 |
-| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Member Engagement - R10717](https://jobright.ai/jobs/info/68fa4de367272b29af72d807?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
