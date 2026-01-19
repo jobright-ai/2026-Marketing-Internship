@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Summit Street](https://www.linkedin.com/company/107246022)** | **[Marketing Intern](https://jobright.ai/jobs/info/696d6c565fc86241853c459f?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Jan 18 |
+| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Media Strategy Summer Intern](https://jobright.ai/jobs/info/696d5e79db26b61895106c1a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 18 |
 | **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Communications Intern](https://jobright.ai/jobs/info/696d4e98350cf43803143f7b?utm_campaign=1065&utm_source=git)** | Louisville, KY | Hybrid | Jan 18 |
 | **[Swapila](https://www.swapila.com/)** | **[Marketing Communications & Social Strategy Intern](https://jobright.ai/jobs/info/696d478edb26b618951069fa?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Jan 18 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Marketing Energy Crew - Internship](https://jobright.ai/jobs/info/696d470b350cf43803143e77?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 18 |
@@ -103,10 +105,8 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS -USF Youth Experiences Social Media Intern](https://jobright.ai/jobs/info/696c7882350cf43803139c08?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Jan 17 |
 | **[Libertad Co NYC](www.libertadconyc.com)** | **[Fashion Marketing Internship](https://jobright.ai/jobs/info/696c7060db26b618950fca5a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/69309064ef4b48533d14c73b?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Jan 17 |
-| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/696c536bdb26b618950fa175?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Influencer](https://jobright.ai/jobs/info/6965d473a112b4026613f0c3?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 17 |
 | **[Leland](https://www.joinleland.com)** | **[Growth Intern: Reviews & Outcomes](https://jobright.ai/jobs/info/696c4685db26b618950f9c30?utm_campaign=1065&utm_source=git)** | Lehi, UT | Hybrid | Jan 17 |
-| **[Travlab LLC](http://www.travlab.co/)** | **[Social Media Marketing Internship - Remote - Unpaid](https://jobright.ai/jobs/info/696c3bb65fc86241853b6eab?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/696c2892350cf438031344f7?utm_campaign=1065&utm_source=git)** | Aiken, SC | On Site | Jan 17 |
 | **[BYROE](https://byroe.com)** | **[Tiktok Content & Growth Intern](https://jobright.ai/jobs/info/696c22d05fc86241853b4bd1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Brand Marketing Intern: Spring 2026](https://jobright.ai/jobs/info/696c1939350cf438031343f9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
