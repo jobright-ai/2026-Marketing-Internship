@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[rePatt AI](https://repatt.ai/)** | **[Founding Marketing, Sales & Growth Intern](https://jobright.ai/jobs/info/696dfb725fc86241853cba9c?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 19 |
+| **[Skywork AI](https://skywork.ai)** | **[Brand PR & Operations Activity Intern](https://jobright.ai/jobs/info/696df7bf350cf4380314c38b?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jan 19 |
+| **[Shokz](https://shokz.com)** | **[Market Research Intern (U.S. Market)](https://jobright.ai/jobs/info/696df2a8350cf4380314b663?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 19 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/696de1c4db26b6189510d53e?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Jan 18 |
 | **[Candy Stripers®](http://www.candystripersny.org)** | **[Spring 2026 Remote Marketing & Branding Internship / Candy Stripers®](https://jobright.ai/jobs/info/696de02f350cf4380314ab91?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 18 |
 | **[Cutback](https://cutback.video/ko/)** | **[Marketing Intern](https://jobright.ai/jobs/info/696dd888350cf4380314a572?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/69337bf8a0dde7020e2ee753?utm_campaign=1065&utm_source=git)** | Wilmington, DE | Hybrid | Jan 17 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Market Planning](https://jobright.ai/jobs/info/693371e7764507023d1b5bc1?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f92dee6de2db04dc3e6588?utm_campaign=1065&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 17 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Product Marketing & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/6950f13c29655e4dd65a09e8?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Jan 17 |
-| **[Direct Supply](http://www.directsupply.com)** | **[Community Involvement Intern](https://jobright.ai/jobs/info/6960fff0a112b402660f8834?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 17 |
-| **[BTAS, Inc.](http://www.btas.com/)** | **[DoD SkillBridge Internship – Senior Growth Strategist](https://jobright.ai/jobs/info/6960a2ce7ebc25398eb683da?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
