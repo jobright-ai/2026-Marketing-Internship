@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Business & Customer Data Integration Summer (STAR) Intern](https://jobright.ai/jobs/info/696dc01edb26b6189510c082?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 18 |
+| **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/696db9ab5fc86241853c9599?utm_campaign=1065&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Jan 18 |
+| **[SFWRUNWAY](www.sfwrunway.com)** | **[Fashion Week PR Volunteer](https://jobright.ai/jobs/info/696db798db26b6189510bcf4?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 18 |
+| **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/696db6addb26b6189510b9be?utm_campaign=1065&utm_source=git)** | New York City, New York, NY, US | Hybrid | Jan 18 |
+| **[NRRINC Media LLC](http://nrrinc.net/)** | **[Sales And Marketing Intern (PAID)](https://jobright.ai/jobs/info/696db2a1db26b6189510a113?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Jan 18 |
+| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/696daf8e5fc86241853c763b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 18 |
+| **[Electrified Marina](https://www.electrifiedmarina.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/696daf09350cf438031473a0?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Jan 18 |
 | **[Todd](https://toddagriscience.com)** | **[Growth Intern (Summer '26)](https://jobright.ai/jobs/info/696da8fe5fc86241853c7356?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 18 |
 | **[Belle Tire](https://www.belletire.com/)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/696d9627db26b618951090d1?utm_campaign=1065&utm_source=git)** | Southfield, MI | On Site | Jan 18 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/696d95b75fc86241853c68dc?utm_campaign=1065&utm_source=git)** | Albany, NY | Hybrid | Jan 18 |
@@ -85,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Events Intern](https://jobright.ai/jobs/info/696d0ff65fc86241853c1d1b?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 18 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/696d0cbb350cf438031406d4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Events Intern](https://jobright.ai/jobs/info/696d02db5fc86241853c031c?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 18 |
-| **[Mandarin Zest](https://mandarinzest.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/696cf8095fc86241853c022b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 18 |
 | **[4C Health #4DayWorkWeekEmployer](https://fourcounty.org)** | **[Marketing and Public Relations Intern](https://jobright.ai/jobs/info/696cf0ef350cf4380313fd19?utm_campaign=1065&utm_source=git)** | Peru Administration Building - Peru, IN 46970 | On Site | Jan 18 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Communications Assistant Summer Internship](https://jobright.ai/jobs/info/691841d815b4156367180a00?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Marketing and Communications Internship](https://jobright.ai/jobs/info/6917c13ebcdbf3560c9cb13f?utm_campaign=1065&utm_source=git)** | Bentonville, AR | Hybrid | Jan 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BTAS, Inc.](http://www.btas.com/)** | **[DoD SkillBridge Internship – Senior Growth Strategist](https://jobright.ai/jobs/info/6960a2ce7ebc25398eb683da?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Jan 17 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Strategic Marketing Intern (MBA Level)](https://jobright.ai/jobs/info/691a95d945fb6f5ead8ac227?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 17 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68fa84a6edd190144238d898?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jan 17 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/6959e511f1f8465b79f03b7a?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Jan 17 |
-| **[Rural King](https://www.ruralking.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68eb5d1a8369791ef7826604?utm_campaign=1065&utm_source=git)** | Mattoon, IL | On Site | Jan 17 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68c02860702aa35207aaafb5?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Jan 17 |
-| **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/693365bcf131d96e48462d94?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Jan 17 |
-| **[Pest Hunters - Mosquito Hunters - Humbug Holiday Lighting](https://mosquitohunters.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ba67cdb26b618950f2a1b?utm_campaign=1065&utm_source=git)** | Millburn, NJ | On Site | Jan 17 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efceaa2668b7f545248e8?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
