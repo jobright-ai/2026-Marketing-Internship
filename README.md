@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robinhood](https://www.robinhood.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/693750471c1c2161c13f2b8f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
+| **[Methuen Construction Company, Inc.](http://methuenconstruction.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6936f4c8a0dde7020e2fdfee?utm_campaign=1065&utm_source=git)** | Plaistow, NH | On Site | Jan 20 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68cef5bedbd9fb154ede3d78?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Jan 20 |
+| **[Robinhood](https://www.robinhood.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/69373d42aabec14a727c5635?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Segment & Field Marketing](https://jobright.ai/jobs/info/693765d8a0dde7020e3025b2?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 20 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/692043a900c9ee50eaec0ad2?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Jan 20 |
+| **[Hudson Pacific Properties](http://hudsonpacificproperties.com)** | **[2026 NextGen Summer Internship - Marketing & Communications - Los Angeles](https://jobright.ai/jobs/info/69447b1a50bbaf7650568c11?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
+| **[Railsware](http://railsware.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696f5a383ed06875134a55b5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Influencer](https://jobright.ai/jobs/info/6965d473a112b4026613f0c3?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/696f2b1182817106e9764959?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 19 |
 | **[Boomi](https://boomi.com/)** | **[Analyst Relations Summer Internship (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/696f22ef9c3c52633455dbfd?utm_campaign=1065&utm_source=git)** | Metro Vancouver A, British Columbia, Canada | Hybrid | Jan 19 |
@@ -69,10 +77,8 @@ For a complete list, click the following sortable link below:
 | **[GoodMorning](https://www.goodmorning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696effdf9c3c52633455b261?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 19 |
 | **[Boomi](https://boomi.com/)** | **[Product Marketing Specialist Summer Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/696ef7ec9c3c52633455acf5?utm_campaign=1065&utm_source=git)** | Canada | Hybrid | Jan 19 |
 | **[Collective Uplift](Cusports.biz)** | **[Social Media Intern](https://jobright.ai/jobs/info/696ef5ac0f4e0f657ea3570a?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jan 19 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Growth Marketing Spring Internship (Unpaid)](https://jobright.ai/jobs/info/696eebb55fc86241853de0a1?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jan 19 |
 | **[T3 Performance](www.t3athlete.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/696eeba7350cf4380315dfb7?utm_campaign=1065&utm_source=git)** | Avon, OH | Hybrid | Jan 19 |
 | **[UNDP Careers](https://www.undp.org)** | **[Climate Communications Social Media Intern (Homebased)](https://jobright.ai/jobs/info/696ee913db26b6189512044a?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jan 19 |
-| **[Life Beyond Clinical Practice](www.lifebeyondclinicalpractice.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/696ee6eadb26b6189512038c?utm_campaign=1065&utm_source=git)** | Vernon, British Columbia, Canada | Remote | Jan 19 |
 | **[MileHighCook](milehighcook.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ee5275fc86241853dddbf?utm_campaign=1065&utm_source=git)** | Wheat Ridge, CO | Remote | Jan 19 |
 | **[TruNeighbor](https://truneighbor.co)** | **[Social Media Content Creator / Internship](https://jobright.ai/jobs/info/696eded85fc86241853dd936?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jan 19 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Digital Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/696edd725fc86241853dd7bd?utm_campaign=1065&utm_source=git)** | Sycamore, IL | On Site | Jan 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/693273b7764507023d1aec92?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Jan 19 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Social / Media Intern](https://jobright.ai/jobs/info/68ca4cda5f9f0336447db703?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Jan 19 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/68fc36b893c49825ab10adc3?utm_campaign=1065&utm_source=git)** | Temple, TX | On Site | Jan 19 |
-| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Social Media Internship - Summer 2026](https://jobright.ai/jobs/info/68c5903f7d0db411427347da?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Jan 19 |
-| **[rePatt AI](https://repatt.ai/)** | **[Founding Marketing, Sales & Growth Intern](https://jobright.ai/jobs/info/696dfb725fc86241853cba9c?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 19 |
-| **[Shokz](https://shokz.com)** | **[Market Research Intern (U.S. Market)](https://jobright.ai/jobs/info/696df2a8350cf4380314b663?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 19 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/696de1c4db26b6189510d53e?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Jan 18 |
-| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Constituent and Media Services](https://jobright.ai/jobs/info/696dd20e5fc86241853ca37c?utm_campaign=1065&utm_source=git)** | Chesterfield, VA | Hybrid | Jan 18 |
-| **[LXMQ](https://www.lxmq.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/696e3154350cf4380314fdd6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
