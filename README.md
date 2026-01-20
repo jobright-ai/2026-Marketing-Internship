@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burson](https://www.bursonglobal.com)** | **[Intern, Influencer](https://jobright.ai/jobs/info/6965d473a112b4026613f0c3?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/696f2b1182817106e9764959?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 19 |
 | **[Boomi](https://boomi.com/)** | **[Analyst Relations Summer Internship (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/696f22ef9c3c52633455dbfd?utm_campaign=1065&utm_source=git)** | Metro Vancouver A, British Columbia, Canada | Hybrid | Jan 19 |
 | ↳ | **[Integrated Marketing Summer Internship (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/696f226f0f4e0f657ea385e4?utm_campaign=1065&utm_source=git)** | Metro Vancouver A, British Columbia, Canada | Hybrid | Jan 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/696de1c4db26b6189510d53e?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Jan 18 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Constituent and Media Services](https://jobright.ai/jobs/info/696dd20e5fc86241853ca37c?utm_campaign=1065&utm_source=git)** | Chesterfield, VA | Hybrid | Jan 18 |
 | **[LXMQ](https://www.lxmq.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/696e3154350cf4380314fdd6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 18 |
-| **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/696db9ab5fc86241853c9599?utm_campaign=1065&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
