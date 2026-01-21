@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, Reno](https://jobright.ai/jobs/info/691bccc7bcdbf3560c9e2bf0?utm_campaign=1065&utm_source=git)** | Reno, NV | Remote | Jan 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Beauty) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69670fffa13587668084568d?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 21 |
+| ↳ | **[Growth Marketing Project Intern - SMB Advertising - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6954aff1f1f8465b79ebf064?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 21 |
+| **[Brunswick Group](http://www.brunswickgroup.com)** | **[Communications Summer Internship 2026](https://jobright.ai/jobs/info/695f6919a112b402660e11fa?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Demand Marketing Intern](https://jobright.ai/jobs/info/693746aeaabec14a727c5dea?utm_campaign=1065&utm_source=git)** | Princeton, NJ | On Site | Jan 21 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Tucson](https://jobright.ai/jobs/info/691bc1f515b41563671926cb?utm_campaign=1065&utm_source=git)** | Tucson, AZ | Remote | Jan 21 |
+| ↳ | **[Community Intern, Reno](https://jobright.ai/jobs/info/691bccc7bcdbf3560c9e2bf0?utm_campaign=1065&utm_source=git)** | Reno, NV | Remote | Jan 21 |
 | ↳ | **[Community Intern, North Bay](https://jobright.ai/jobs/info/691bc63515b4156367192a74?utm_campaign=1065&utm_source=git)** | North Bay Terraces, CA | Remote | Jan 21 |
 | **[Northern Children's Services](https://northernchildren.org)** | **[Marketing and Development Intern](https://jobright.ai/jobs/info/6970ab93587dfa0bb55e45c3?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Cutback](https://cutback.video/ko/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69709ba0333b6343a14d2936?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[TH Marketing Intern](https://jobright.ai/jobs/info/697028c551f72647718258cf?utm_campaign=1065&utm_source=git)** | Paramus, NJ | Hybrid | Jan 20 |
 | **[Benesch](https://www.benesch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69700b260f4e0f657ea4667c?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 20 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/69700ab00f4e0f657ea46614?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Jan 20 |
-| **[Wabtec Corporation](http://www.wabteccorp.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/697008430f4e0f657ea46433?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jan 20 |
-| **[The Welsh Burton Group](welshburtongroup.com)** | **[Intern](https://jobright.ai/jobs/info/697007623ed06875134b0620?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 20 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Human Health - US Commercial Excellence & Innovation Intern](https://jobright.ai/jobs/info/6970051482817106e9772240?utm_campaign=1065&utm_source=git)** | North Wales, PA | Hybrid | Jan 20 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Marketing and Sales Regional Intern - Summer 2026 - Somerset, NJ](https://jobright.ai/jobs/info/6970051382817106e977223d?utm_campaign=1065&utm_source=git)** | Somerset, New Jersey - United States of America | Hybrid | Jan 20 |
-| **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Marketing Associate - Summer 2026 Internship](https://jobright.ai/jobs/info/697022a60f4e0f657ea47c0d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
