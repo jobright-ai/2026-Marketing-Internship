@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Reno](https://jobright.ai/jobs/info/691bccc7bcdbf3560c9e2bf0?utm_campaign=1065&utm_source=git)** | Reno, NV | Remote | Jan 21 |
+| ↳ | **[Community Intern, North Bay](https://jobright.ai/jobs/info/691bc63515b4156367192a74?utm_campaign=1065&utm_source=git)** | North Bay Terraces, CA | Remote | Jan 21 |
+| **[Northern Children's Services](https://northernchildren.org)** | **[Marketing and Development Intern](https://jobright.ai/jobs/info/6970ab93587dfa0bb55e45c3?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Cutback](https://cutback.video/ko/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69709ba0333b6343a14d2936?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
 | **[Joffrey's Coffee & Tea Company](http://joffreys.com)** | **[Marketing Internship - Social Media & Content Creation](https://jobright.ai/jobs/info/6970981851f726477182e37b?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jan 21 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Marketing Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6970909251f726477182d239?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
@@ -64,10 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Communications Intern](https://jobright.ai/jobs/info/69708743333b6343a14d0895?utm_campaign=1065&utm_source=git)** | Wake Forest, NC | On Site | Jan 20 |
 | **[Soleluxe](www.soleluxe.co)** | **[(Unpaid) Marketing Analytics & Content Creation Internship](https://jobright.ai/jobs/info/6970849f587dfa0bb55e1eee?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/69707d34587dfa0bb55e1a06?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 20 |
-| **[Bj Jewelry](https://bjjewelry.wordpress.com/)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/697078e051f726477182c606?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Genspark](https://www.genspark.ai/)** | **[Marketing Intern - Community](https://jobright.ai/jobs/info/69706ef8333b6343a14cfc5f?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Jan 20 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69706b10333b6343a14cfa8b?utm_campaign=1065&utm_source=git)** | Appleton, WI | On Site | Jan 20 |
-| **[Casharoo](https://casharoo.skillnestlearning.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69706913333b6343a14cf9a8?utm_campaign=1065&utm_source=git)** | Hewlett, NY | Remote | Jan 20 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Conservation Communications Intern](https://jobright.ai/jobs/info/697064d451f726477182b62b?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | Hybrid | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Communications](https://jobright.ai/jobs/info/69705f54333b6343a14cec33?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Strive Global Events](https://striveglobalevents.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69705c3f51f726477182b05a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Human Health - US Commercial Excellence & Innovation Intern](https://jobright.ai/jobs/info/6970051482817106e9772240?utm_campaign=1065&utm_source=git)** | North Wales, PA | Hybrid | Jan 20 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Marketing and Sales Regional Intern - Summer 2026 - Somerset, NJ](https://jobright.ai/jobs/info/6970051382817106e977223d?utm_campaign=1065&utm_source=git)** | Somerset, New Jersey - United States of America | Hybrid | Jan 20 |
 | **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Marketing Associate - Summer 2026 Internship](https://jobright.ai/jobs/info/697022a60f4e0f657ea47c0d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Marketing Intern / Summer 2026](https://jobright.ai/jobs/info/697024083ed06875134b3349?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
