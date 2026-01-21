@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soleluxe](www.soleluxe.co)** | **[(Unpaid) Marketing Analytics & Content Creation Internship](https://jobright.ai/jobs/info/6970849f587dfa0bb55e1eee?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/69707d34587dfa0bb55e1a06?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 20 |
+| **[Bj Jewelry](https://bjjewelry.wordpress.com/)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/697078e051f726477182c606?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Genspark](https://www.genspark.ai/)** | **[Marketing Intern - Community](https://jobright.ai/jobs/info/69706ef8333b6343a14cfc5f?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Jan 20 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69706b10333b6343a14cfa8b?utm_campaign=1065&utm_source=git)** | Appleton, WI | On Site | Jan 20 |
 | **[Casharoo](https://casharoo.skillnestlearning.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69706913333b6343a14cf9a8?utm_campaign=1065&utm_source=git)** | Hewlett, NY | Remote | Jan 20 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[She CAN Edit](https://shecanedit.org/)** | **[Fundraising & Development Intern](https://jobright.ai/jobs/info/6970502751f726477182859a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 20 |
 | **[JoyMe](http://www.joyme.sg)** | **[Campus Intern / Volunteer — Marketing & AI Creator Program](https://jobright.ai/jobs/info/69704f3951f72647718284df?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Jan 20 |
 | **[DC Power Football Club](https://www.dcpowerfootballclub.com)** | **[Intern - Social Media - Power FC - Spring 2026](https://jobright.ai/jobs/info/69704eb2587dfa0bb55dd5ee?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 20 |
+| **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6970824e333b6343a14d04e8?utm_campaign=1065&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Jan 20 |
 | **[Dollar Tree Distribution, Inc.](https://www.linkedin.com/company/53969352)** | **[Merchandising and Inventory Management Intern](https://jobright.ai/jobs/info/69704c2a51f7264771828302?utm_campaign=1065&utm_source=git)** | VA-Chesapeake | On Site | Jan 20 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Corporate Communications](https://jobright.ai/jobs/info/69704c15587dfa0bb55dd497?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern – IBM Social Media & Influencer Marketing](https://jobright.ai/jobs/info/69704b96333b6343a14cbae6?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jan 20 |
@@ -123,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/69703af5587dfa0bb55dbdb6?utm_campaign=1065&utm_source=git)** | FORE 12500 TI Boulevard, Dallas, TX, 75243, US | On Site | Jan 20 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Influencer Marketing](https://jobright.ai/jobs/info/69701ca53ed06875134b185e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/6827c56351356c318e418475?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
+| **[Echelon Risk + Cyber](https://echeloncyber.com)** | **[Cybersecurity Content Marketing Intern - Remote (USA)](https://jobright.ai/jobs/info/69708163333b6343a14d0446?utm_campaign=1065&utm_source=git)** | US | Remote | Jan 20 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Conservation Communications Intern](https://jobright.ai/jobs/info/697038dd51f7264771826987?utm_campaign=1065&utm_source=git)** | Penn State Harrisburg | Hybrid | Jan 20 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Events Internships](https://jobright.ai/jobs/info/6970414751f72647718271c5?utm_campaign=1065&utm_source=git)** | Redlands, CA | Remote | Jan 20 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[TH Marketing Intern](https://jobright.ai/jobs/info/697018d73ed06875134b159c?utm_campaign=1065&utm_source=git)** | Paramus, NJ | Hybrid | Jan 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Purpose Financial](https://havepurpose.com/)** | **[Performance Marketing Intern (Temporary and Hybrid)](https://jobright.ai/jobs/info/6970020d0f4e0f657ea45fab?utm_campaign=1065&utm_source=git)** | Greenville, SC | Hybrid | Jan 20 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Corporate Communications](https://jobright.ai/jobs/info/696ffe810f4e0f657ea45cc5?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
 | **[CRH](http://crh.com)** | **[Brand & Digital Marketing Summer Intern](https://jobright.ai/jobs/info/696ffe6382817106e9771ab4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
-| **[CLEAR](http://www.clearme.com)** | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/696ffe213ed06875134afe7b?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jan 20 |
-| **[M.M.LaFleur](http://mmlafleur.com)** | **[Brand & Marketing Intern Spring 2026](https://jobright.ai/jobs/info/696ffd5d3ed06875134afe00?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Internship, Public Affairs – Summer 2026](https://jobright.ai/jobs/info/696ffd0a0f4e0f657ea459d5?utm_campaign=1065&utm_source=git)** | Kansas City, MO | Hybrid | Jan 20 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/696ffcd682817106e97716ec?utm_campaign=1065&utm_source=git)** | Chanhassen, MN | On Site | Jan 20 |
-| **[Empyrean](http://www.goempyrean.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/696ffbf00f4e0f657ea45720?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
