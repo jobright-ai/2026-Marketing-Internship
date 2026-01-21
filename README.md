@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cutback](https://cutback.video/ko/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69709ba0333b6343a14d2936?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
+| **[Joffrey's Coffee & Tea Company](http://joffreys.com)** | **[Marketing Internship - Social Media & Content Creation](https://jobright.ai/jobs/info/6970981851f726477182e37b?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jan 21 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Marketing Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6970909251f726477182d239?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | ↳ | **[Marketing Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69708fad51f726477182d1d1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Communications Intern](https://jobright.ai/jobs/info/69708743333b6343a14d0895?utm_campaign=1065&utm_source=git)** | Wake Forest, NC | On Site | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Marketing and Sales Regional Intern - Summer 2026 - Somerset, NJ](https://jobright.ai/jobs/info/6970051382817106e977223d?utm_campaign=1065&utm_source=git)** | Somerset, New Jersey - United States of America | Hybrid | Jan 20 |
 | **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Marketing Associate - Summer 2026 Internship](https://jobright.ai/jobs/info/697022a60f4e0f657ea47c0d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Marketing Intern / Summer 2026](https://jobright.ai/jobs/info/697024083ed06875134b3349?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 20 |
-| **[City of San José](http://www.sanjoseca.gov/)** | **[Marketing & Communications Graduate Intern - Energy Department](https://jobright.ai/jobs/info/697021aa3ed06875134b204c?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 20 |
-| **[Parrot Finance](https://www.parrotfinance.io/)** | **[Marketing & Brand Ambassador Internship Spring 2026](https://jobright.ai/jobs/info/69701f1c3ed06875134b1bb3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
