@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Marketing Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6970909251f726477182d239?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
+| ↳ | **[Marketing Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69708fad51f726477182d1d1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 21 |
+| **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Communications Intern](https://jobright.ai/jobs/info/69708743333b6343a14d0895?utm_campaign=1065&utm_source=git)** | Wake Forest, NC | On Site | Jan 20 |
 | **[Soleluxe](www.soleluxe.co)** | **[(Unpaid) Marketing Analytics & Content Creation Internship](https://jobright.ai/jobs/info/6970849f587dfa0bb55e1eee?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/69707d34587dfa0bb55e1a06?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Bj Jewelry](https://bjjewelry.wordpress.com/)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/697078e051f726477182c606?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 20 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Part-Time Conservation Communications Intern](https://jobright.ai/jobs/info/697064d451f726477182b62b?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | Hybrid | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Communications](https://jobright.ai/jobs/info/69705f54333b6343a14cec33?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Strive Global Events](https://striveglobalevents.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69705c3f51f726477182b05a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 20 |
+| **[Penn State University](http://psu.edu)** | **[Part-Time Conservation Communications Intern](https://jobright.ai/jobs/info/6970867d587dfa0bb55e2060?utm_campaign=1065&utm_source=git)** | University Park, PA | Hybrid | Jan 20 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697051ab333b6343a14cbef1?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 20 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Marketing Innovation](https://jobright.ai/jobs/info/6970509d333b6343a14cbe1d?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | Jan 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Publicity Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6970508451f72647718285df?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Jan 20 |
@@ -93,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Benesch](https://www.benesch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697037fd333b6343a14ca0df?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Jan 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Communications Intern](https://jobright.ai/jobs/info/697037bb587dfa0bb55dba4a?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/6970360f333b6343a14c9ec4?utm_campaign=1065&utm_source=git)** | 4555 Great America Parkway, Santa Clara, CA, 95054, US | On Site | Jan 20 |
-| **[TopviewAI](https://topview.ai)** | **[Marketing & Event Operations Intern (LA-based)](https://jobright.ai/jobs/info/697053c1587dfa0bb55dd921?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
 | **[Universal Technical Institute, Inc.](https://www.uti.edu)** | **[Social Media Intern - Miramar](https://jobright.ai/jobs/info/69703450333b6343a14c9d41?utm_campaign=1065&utm_source=git)** | US-FL-Miramar | On Site | Jan 20 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6970341c587dfa0bb55db700?utm_campaign=1065&utm_source=git)** | Houston, TX, USA | On Site | Jan 20 |
 | ↳ | **[Product Marketing Internship](https://jobright.ai/jobs/info/697033b651f7264771826494?utm_campaign=1065&utm_source=git)** | Houston, TX, USA | On Site | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Marketing Intern / Summer 2026](https://jobright.ai/jobs/info/697024083ed06875134b3349?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 20 |
 | **[City of San José](http://www.sanjoseca.gov/)** | **[Marketing & Communications Graduate Intern - Energy Department](https://jobright.ai/jobs/info/697021aa3ed06875134b204c?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 20 |
 | **[Parrot Finance](https://www.parrotfinance.io/)** | **[Marketing & Brand Ambassador Internship Spring 2026](https://jobright.ai/jobs/info/69701f1c3ed06875134b1bb3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 20 |
-| **[Purpose Financial](https://havepurpose.com/)** | **[Performance Marketing Intern (Temporary and Hybrid)](https://jobright.ai/jobs/info/6970020d0f4e0f657ea45fab?utm_campaign=1065&utm_source=git)** | Greenville, SC | Hybrid | Jan 20 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Corporate Communications](https://jobright.ai/jobs/info/696ffe810f4e0f657ea45cc5?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
-| **[CRH](http://crh.com)** | **[Brand & Digital Marketing Summer Intern](https://jobright.ai/jobs/info/696ffe6382817106e9771ab4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
