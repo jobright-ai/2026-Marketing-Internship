@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genspark](https://www.genspark.ai/)** | **[Marketing Intern - Community](https://jobright.ai/jobs/info/69706ef8333b6343a14cfc5f?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Jan 20 |
+| **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69706b10333b6343a14cfa8b?utm_campaign=1065&utm_source=git)** | Appleton, WI | On Site | Jan 20 |
+| **[Casharoo](https://casharoo.skillnestlearning.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69706913333b6343a14cf9a8?utm_campaign=1065&utm_source=git)** | Hewlett, NY | Remote | Jan 20 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Conservation Communications Intern](https://jobright.ai/jobs/info/697064d451f726477182b62b?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | Hybrid | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Communications](https://jobright.ai/jobs/info/69705f54333b6343a14cec33?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Strive Global Events](https://striveglobalevents.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69705c3f51f726477182b05a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 20 |
@@ -132,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Talent Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/697032ac51f7264771826386?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jan 20 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Marketing Intern / Summer 2026](https://jobright.ai/jobs/info/697010b10f4e0f657ea46c47?utm_campaign=1065&utm_source=git)** | Omaha, NE | Hybrid | Jan 20 |
 | **[XPO](https://www.xpo.com)** | **[Communication Intern](https://jobright.ai/jobs/info/697010913ed06875134b0f0f?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jan 20 |
+| **[1st Source Bank](https://www.1stsource.com/)** | **[Intern, Marketing, South Bend, IN (Summer 2026)](https://jobright.ai/jobs/info/69706e4351f726477182c296?utm_campaign=1065&utm_source=git)** | South Bend, IN | On Site | Jan 20 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/692113af3f782d2f1afcefa1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
 | **[Troon](http://www.troon.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69700d993ed06875134b0b92?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Jan 20 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[TH Marketing Intern](https://jobright.ai/jobs/info/697028c551f72647718258cf?utm_campaign=1065&utm_source=git)** | Paramus, NJ | Hybrid | Jan 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Internship, Public Affairs – Summer 2026](https://jobright.ai/jobs/info/696ffd0a0f4e0f657ea459d5?utm_campaign=1065&utm_source=git)** | Kansas City, MO | Hybrid | Jan 20 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/696ffcd682817106e97716ec?utm_campaign=1065&utm_source=git)** | Chanhassen, MN | On Site | Jan 20 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/696ffbf00f4e0f657ea45720?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| **[Endeavor Kenya](https://endeavor.org/location/kenya/)** | **[Digital Marketing Intern, Marketing (Summer 2026)](https://jobright.ai/jobs/info/697022980f4e0f657ea47c01?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jan 20 |
-| **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Summer 2026 Credit Marketing Internship](https://jobright.ai/jobs/info/696b0e80db26b618950e885e?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jan 20 |
-| **[Retro Report](https://www.retroreport.org/)** | **[Summer Audience Engagement Internship (Hybrid)](https://jobright.ai/jobs/info/696ff89a0f4e0f657ea44e03?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
-| **[UF Health](https://ufhealth.org/)** | **[Student / Intern](https://jobright.ai/jobs/info/696ff7720f4e0f657ea44aea?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
