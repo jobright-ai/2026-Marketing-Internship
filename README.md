@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIM Brands](https://pimbrands.com)** | **[eCommerce Sales & Marketing Intern](https://jobright.ai/jobs/info/691cec8b22a2cb4b9bd1eccc?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 22 |
+| **[Linde](https://www.linde.com/)** | **[2026 Marketing Internship](https://jobright.ai/jobs/info/68f9ed498a7359609b8c7cc7?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | On Site | Jan 22 |
+| **[Staples](http://www.staples.com)** | **[Quill Writer and Social Media Intern - June 2026](https://jobright.ai/jobs/info/6939900048a8ce22990d9a38?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | On Site | Jan 22 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Marketing](https://jobright.ai/jobs/info/68e58f12b99ec3563b0f66e1?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jan 22 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Social & Community Intern](https://jobright.ai/jobs/info/693a14ee48a8ce22990e157b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Product Marketing - DES](https://jobright.ai/jobs/info/691b6e4022a2cb4b9bd124c6?utm_campaign=1065&utm_source=git)** | Shanghai, VA | Hybrid | Jan 22 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Content Marketing Strategy](https://jobright.ai/jobs/info/6901e196d5259a1b3cff85dd?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jan 22 |
+| **[Global Tungsten & Powders](http://www.globaltungsten.com/en/)** | **[Marketing Co-op/Intern](https://jobright.ai/jobs/info/696042807ebc25398eb64876?utm_campaign=1065&utm_source=git)** | Towanda, PA | On Site | Jan 22 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vans Product & Marketing Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ebd9b707bf728a4b8465?utm_campaign=1065&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 22 |
 | ↳ | **[Vans Product & Marketing Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ebbf47b64f4e963e294c?utm_campaign=1065&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 22 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vans Product & Marketing Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ead047b64f4e963e266c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
@@ -94,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Change Management Communications](https://jobright.ai/jobs/info/6971b88b587dfa0bb55f8365?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6971b7d351f7264771842d06?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Pepper AI](www.pepperai.lovable.app)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/6971b689587dfa0bb55f8214?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
-| **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6971ad53333b6343a14e5f28?utm_campaign=1065&utm_source=git)** | Camden, NJ | On Site | Jan 21 |
+| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6971ad53333b6343a14e5f28?utm_campaign=1065&utm_source=git)** | Camden, NJ | On Site | Jan 21 |
 | **[City of South Fulton](https://www.cityofsouthfultonga.gov)** | **[DIGITAL CONTENT INTERN](https://jobright.ai/jobs/info/695e96e608ab990f2829d67e?utm_campaign=1065&utm_source=git)** | South Fulton, GA | On Site | Jan 21 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6971a4fa333b6343a14e40f0?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Jan 21 |
 | **[Savills North America](https://www.savills.us)** | **[Commercial Real Estate Summer Internship](https://jobright.ai/jobs/info/6971a1d751f726477183f9c4?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 21 |
@@ -127,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern, Marketing (Trade) (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69717700587dfa0bb55f299c?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 21 |
 | **[Kairos Power](https://kairospower.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69717453333b6343a14e1115?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
 | **[Allied Cooperative](http://www.allied.coop)** | **[Marketing Intern](https://jobright.ai/jobs/info/69719bee51f726477183f5cf?utm_campaign=1065&utm_source=git)** | Tomah, WI 54660 | On Site | Jan 21 |
-| **[Hog Media](https://hogmedia.co)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/69717394333b6343a14e10d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
+| **[HMA](https://www.hma.co/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/69717394333b6343a14e10d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/697197b3587dfa0bb55f479c?utm_campaign=1065&utm_source=git)** | La Mesa, CA 91942 | On Site | Jan 21 |
 | **[Bubble](https://hellobubble.com/)** | **[Social Media Engagement Intern - Winter/Spring 2026](https://jobright.ai/jobs/info/697170ef587dfa0bb55f0e7a?utm_campaign=1065&utm_source=git)** | Oregon City, OR | Remote | Jan 21 |
 | **[NTT DATA Business Solutions](https://www.nttdata-solutions.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6971955a51f726477183f098?utm_campaign=1065&utm_source=git)** | US, Cincinnati | On Site | Jan 21 |
@@ -144,7 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/697165cf51f726477183b0c9?utm_campaign=1065&utm_source=git)** | Hendrick BMW Northlake | On Site | Jan 21 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/6971656151f726477183b05b?utm_campaign=1065&utm_source=git)** | Baltimore | On Site | Jan 21 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Intern - CSL (Minneapolis)](https://jobright.ai/jobs/info/6971653d333b6343a14dee0d?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
-| **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6971651d51f726477183b01f?utm_campaign=1065&utm_source=git)** | USA - NJ - Camden | On Site | Jan 21 |
+| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6971651d51f726477183b01f?utm_campaign=1065&utm_source=git)** | USA - NJ - Camden | On Site | Jan 21 |
 | **[Martin's Point Health Care](http://martinspoint.org)** | **[Customer and Market Insights Summer Intern](https://jobright.ai/jobs/info/6971647c51f726477183af72?utm_campaign=1065&utm_source=git)** | Portland, ME | Hybrid | Jan 21 |
 | **[Entrata](https://www.entrata.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6971626a51f726477183ad43?utm_campaign=1065&utm_source=git)** | Lehi, UT | Hybrid | Jan 21 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/69715f1c587dfa0bb55f0180?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Jan 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Summer 2026 Social Media and Communications Intern](https://jobright.ai/jobs/info/69715236587dfa0bb55ef2f4?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 21 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Influencer Marketing](https://jobright.ai/jobs/info/6971502a51f7264771839b04?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 21 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Ottawa, ON](https://jobright.ai/jobs/info/694f5c63a2668b7f54528676?utm_campaign=1065&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 21 |
-| ↳ | **[Field Marketing Coordinator Intern - Barrie, ON](https://jobright.ai/jobs/info/6961d0f8a112b40266105c0b?utm_campaign=1065&utm_source=git)** | Barrie, Ontario, Canada | On Site | Jan 21 |
-| **[Staples](http://www.staples.com)** | **[Marketing Calendar Intern - June 2026](https://jobright.ai/jobs/info/69714e45333b6343a14dd360?utm_campaign=1065&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Jan 21 |
-| **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/69716dd051f726477183b758?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Jan 21 |
-| **[Staples](http://www.staples.com)** | **[Marketing Operations Email Intern (B2C) - June 2026](https://jobright.ai/jobs/info/69714cf8587dfa0bb55ee917?utm_campaign=1065&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
