@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/6971b956333b6343a14e6e16?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Change Management Communications](https://jobright.ai/jobs/info/6971b88b587dfa0bb55f8365?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6971b7d351f7264771842d06?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
+| **[Pepper AI](www.pepperai.lovable.app)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/6971b689587dfa0bb55f8214?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
+| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6971add6333b6343a14e5f70?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
+| **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6971ad53333b6343a14e5f28?utm_campaign=1065&utm_source=git)** | Camden, NJ | On Site | Jan 21 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6971a4fa333b6343a14e40f0?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Jan 21 |
 | **[Savills North America](https://www.savills.us)** | **[Commercial Real Estate Summer Internship](https://jobright.ai/jobs/info/6971a1d751f726477183f9c4?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 21 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6971a03b333b6343a14e37e8?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Jan 21 |
@@ -73,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[QuinStreet](http://www.quinstreet.com)** | **[Performance Marketing & Analytics Internship Program (Undergraduate - Spring 2026 Graduates)](https://jobright.ai/jobs/info/69718dcf587dfa0bb55f3eae?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Vitamix](http://vitamix.com)** | **[Vitamix Foundation Intern (Hybrid)](https://jobright.ai/jobs/info/69718d2c587dfa0bb55f3e0c?utm_campaign=1065&utm_source=git)** | Olmsted, OH | Hybrid | Jan 21 |
 | **[Parrot Finance](https://www.parrotfinance.io/)** | **[Marketing & Content Internship Spring 2026](https://jobright.ai/jobs/info/69718a4c51f726477183e5ac?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
+| **[Cortis Lentini S.r.l.](http://cortislentini.it)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6971b203333b6343a14e635f?utm_campaign=1065&utm_source=git)** | Little Rock, AR | On Site | Jan 21 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Communications Specialist Undergraduate Intern](https://jobright.ai/jobs/info/697188af587dfa0bb55f3a16?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Jan 21 |
 | **[Bookit Sports](https://bookitsports.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69718802333b6343a14e2313?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Jan 21 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Communications Intern](https://jobright.ai/jobs/info/697186fb51f726477183e2d5?utm_campaign=1065&utm_source=git)** | Waukesha, WI | On Site | Jan 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leland](https://www.joinleland.com)** | **[Growth & Ops Intern](https://jobright.ai/jobs/info/69716ba5333b6343a14df3dd?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jan 21 |
 | **[Coty](https://www.coty.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6971563e333b6343a14ddfed?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Social Media Intern](https://jobright.ai/jobs/info/69713150587dfa0bb55eba1e?utm_campaign=1065&utm_source=git)** | Oracle Park, SF | On Site | Jan 21 |
-| **[Massachusetts Medical Society](http://www.massmed.org/)** | **[Marketing Operations Assistant Co-Op (NU Students only)](https://jobright.ai/jobs/info/69712f3a51f726477183641f?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Jan 21 |
-| **[Attain Sports](https://attainsports.com)** | **[Community Events and Outreach Intern](https://jobright.ai/jobs/info/6971546951f7264771839fce?utm_campaign=1065&utm_source=git)** | Frederick, MD | Hybrid | Jan 21 |
-| **[Fairchild Sports Performance, Inc.](http://fairchildsportsperformance.com)** | **[Marketing Internship – Paid Internship](https://jobright.ai/jobs/info/69712d5751f7264771836217?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 21 |
-| **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Global Marketing (Drunk Elephant)](https://jobright.ai/jobs/info/69714b3b333b6343a14dcd4e?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jan 21 |
-| **[Corn Belt Energy Corporation](https://www.cornbeltenergy.com/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/697152c1333b6343a14ddc99?utm_campaign=1065&utm_source=git)** | Bloomington, IL | On Site | Jan 21 |
-| **[Spectrum](https://www.spectrum.com)** | **[Marketing Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69712901587dfa0bb55eb1c0?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina | On Site | Jan 21 |
-| **[Cottonwood Millwork + Cabinets](http://www.cottonwoodcabinets.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697147cf51f7264771838830?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
