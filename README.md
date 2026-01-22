@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Direct Supply](http://www.directsupply.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/68ffce93e0c73b3a1119ea84?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
+| **[Net Conversion](http://www.net-conversion.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6942489614ee092a6900924c?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
 | **[PIM Brands](https://pimbrands.com)** | **[eCommerce Sales & Marketing Intern](https://jobright.ai/jobs/info/691cec8b22a2cb4b9bd1eccc?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 22 |
 | **[Linde](https://www.linde.com/)** | **[2026 Marketing Internship](https://jobright.ai/jobs/info/68f9ed498a7359609b8c7cc7?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | On Site | Jan 22 |
 | **[Staples](http://www.staples.com)** | **[Quill Writer and Social Media Intern - June 2026](https://jobright.ai/jobs/info/6939900048a8ce22990d9a38?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | On Site | Jan 22 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Marketing](https://jobright.ai/jobs/info/68e58f12b99ec3563b0f66e1?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jan 22 |
+| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Vans Product & Marketing Summer (STAR) Intern](https://jobright.ai/jobs/info/697229d7cda18b7438648838?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Social & Community Intern](https://jobright.ai/jobs/info/693a14ee48a8ce22990e157b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Product Marketing - DES](https://jobright.ai/jobs/info/691b6e4022a2cb4b9bd124c6?utm_campaign=1065&utm_source=git)** | Shanghai, VA | Hybrid | Jan 22 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Content Marketing Strategy](https://jobright.ai/jobs/info/6901e196d5259a1b3cff85dd?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jan 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/69715f1c587dfa0bb55f0180?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Jan 21 |
 | **[TOSSWARE](https://www.tossware.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69719531587dfa0bb55f4444?utm_campaign=1065&utm_source=git)** | Buena Park, CA | Hybrid | Jan 21 |
 | **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Creative Design Intern, Oncology Marketing, Hematology](https://jobright.ai/jobs/info/6971536551f7264771839ece?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Summer 2026 Social Media and Communications Intern](https://jobright.ai/jobs/info/69715236587dfa0bb55ef2f4?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 21 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Influencer Marketing](https://jobright.ai/jobs/info/6971502a51f7264771839b04?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 21 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Ottawa, ON](https://jobright.ai/jobs/info/694f5c63a2668b7f54528676?utm_campaign=1065&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
