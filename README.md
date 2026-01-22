@@ -57,15 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tricentis](https://tricentis.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/697243c3584a1c1ef6fd3c3e?utm_campaign=1065&utm_source=git)** | Austin, Texas | Hybrid | Jan 22 |
+| **[FGS Global](https://fgsglobal.com)** | **[Intern, Chicago](https://jobright.ai/jobs/info/69670572a135876680844b55?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
+| **[Jackson Healthcare](http://www.jacksonhealthcare.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/69723b5a584a1c1ef6fd37b4?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Jan 22 |
+| **[FGS Global](https://fgsglobal.com)** | **[Intern, Washington, DC](https://jobright.ai/jobs/info/6967077a6f782b4e8d52b574?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Market Research Intern - Summer 2026 Application](https://jobright.ai/jobs/info/6966a66ea112b40266149986?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
 | ↳ | **[Market Research Intern - Summer 2026 Application](https://jobright.ai/jobs/info/696c8e59db26b618950fdbc1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[B2B Content & Events Summer Intern](https://jobright.ai/jobs/info/693a019f48a8ce22990dfc0e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/68ffce93e0c73b3a1119ea84?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697240d34ccbf64f8df23043?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Jan 22 |
 | **[Net Conversion](http://www.net-conversion.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6942489614ee092a6900924c?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
+| **[Brooklyn Navy Yard Development Corporation](https://www.brooklynnavyyard.org/)** | **[Spring Internship - YOS](https://jobright.ai/jobs/info/69723fb14ccbf64f8df22f8e?utm_campaign=1065&utm_source=git)** | Brooklyn Navy Yard - Brooklyn, NY 11205 | On Site | Jan 22 |
+| **[Auctane](https://auctane.com/)** | **[ECommerce Intern](https://jobright.ai/jobs/info/6961c417a112b402661053aa?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 22 |
+| ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69617811f3f4cd1325067134?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 22 |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Strategy & Market Development Intern (Summer 2026)](https://jobright.ai/jobs/info/693a3a4256b68f3dc4e790fc?utm_campaign=1065&utm_source=git)** | Westchester, IL | Hybrid | Jan 22 |
 | **[PIM Brands](https://pimbrands.com)** | **[eCommerce Sales & Marketing Intern](https://jobright.ai/jobs/info/691cec8b22a2cb4b9bd1eccc?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 22 |
 | **[Linde](https://www.linde.com/)** | **[2026 Marketing Internship](https://jobright.ai/jobs/info/68f9ed498a7359609b8c7cc7?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | On Site | Jan 22 |
 | **[Staples](http://www.staples.com)** | **[Quill Writer and Social Media Intern - June 2026](https://jobright.ai/jobs/info/6939900048a8ce22990d9a38?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | On Site | Jan 22 |
 | **[Cretex Companies, Inc.](http://cretexcompanies.com)** | **[Marketing Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6939fce848a8ce22990df2a3?utm_campaign=1065&utm_source=git)** | Brooklyn Park, MN | On Site | Jan 22 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Publicity Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69723ec14ccbf64f8df22f26?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[DRB](https://drb.com)** | **[Internal Communications Intern - Winter 2026](https://jobright.ai/jobs/info/693a353fac80bb5492bcbc56?utm_campaign=1065&utm_source=git)** | Akron, OH | Hybrid | Jan 22 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Marketing](https://jobright.ai/jobs/info/68e58f12b99ec3563b0f66e1?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jan 22 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Vans Product & Marketing Summer (STAR) Intern](https://jobright.ai/jobs/info/697229d7cda18b7438648838?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
@@ -116,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Savills North America](https://www.savills.us)** | **[Commercial Real Estate Summer Internship](https://jobright.ai/jobs/info/6971a1d751f726477183f9c4?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 21 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6971a03b333b6343a14e37e8?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Jan 21 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Pace University - Pleasantville](https://jobright.ai/jobs/info/69719eea587dfa0bb55f4d6c?utm_campaign=1065&utm_source=git)** | Pleasantville, NY | On Site | Jan 21 |
-| **[SheSpeaks Inc.](http://www.shespeaks.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69719dcf51f726477183f75e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Local & Go-To-Market Intern](https://jobright.ai/jobs/info/69719cbc333b6343a14e35e6?utm_campaign=1065&utm_source=git)** | Littleton, CO | On Site | Jan 21 |
 | **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Creative Design Intern, Oncology Marketing, Hematology](https://jobright.ai/jobs/info/69719955587dfa0bb55f48d0?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Jan 21 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Spring Internship (PAID): Marketing](https://jobright.ai/jobs/info/697198f2333b6343a14e32ac?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 21 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/697197b3587dfa0bb55f479c?utm_campaign=1065&utm_source=git)** | La Mesa, CA 91942 | On Site | Jan 21 |
 | **[Bubble](https://hellobubble.com/)** | **[Social Media Engagement Intern - Winter/Spring 2026](https://jobright.ai/jobs/info/697170ef587dfa0bb55f0e7a?utm_campaign=1065&utm_source=git)** | Oregon City, OR | Remote | Jan 21 |
 | **[NTT DATA Business Solutions](https://www.nttdata-solutions.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6971955a51f726477183f098?utm_campaign=1065&utm_source=git)** | US, Cincinnati | On Site | Jan 21 |
-| **[Starbeam](www.starbeam.org)** | **[Growth (Marketing & Sales) Intern](https://jobright.ai/jobs/info/69719038587dfa0bb55f40c9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jan 21 |
-| **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/69716d1651f726477183b6b9?utm_campaign=1065&utm_source=git)** | Dallas, Texas, United States | Hybrid | Jan 21 |
-| **[Essense of Australia](https://www.essensedesigns.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/696ae2805fc86241853a12d0?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Jan 21 |
-| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern, Brand Marketing](https://jobright.ai/jobs/info/69716b28333b6343a14df392?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jan 21 |
-| **[Haven Home Health & Hospice](https://havenhome.us)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69718ec0587dfa0bb55f3f4a?utm_campaign=1065&utm_source=git)** | Ozark, MO | Hybrid | Jan 21 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Communications Intern](https://jobright.ai/jobs/info/697168cf333b6343a14df185?utm_campaign=1065&utm_source=git)** | Waukesha | On Site | Jan 21 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/697168ac587dfa0bb55f090c?utm_campaign=1065&utm_source=git)** | Chicago | On Site | Jan 21 |
-| **[Justrite Safety Group](https://www.justrite.com)** | **[Digital and Ecommerce Intern](https://jobright.ai/jobs/info/69718532587dfa0bb55f373b?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jan 21 |
-| **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Lettuce Corporate Summer Internship - Public Relations / PR](https://jobright.ai/jobs/info/697167bd51f726477183b2a1?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
