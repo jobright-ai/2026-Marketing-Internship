@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work Study,  Student Fundraising Associate (Intern)](https://jobright.ai/jobs/info/69726e6b4ccbf64f8df263bf?utm_campaign=1065&utm_source=git)** | Muncie, IN | On Site | Jan 22 |
+| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Marketing Intern - Intermediary](https://jobright.ai/jobs/info/69726da69b83b424830e60e8?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts | Hybrid | Jan 22 |
+| **[INDIGO PR](indigo-pr.com)** | **[Digital Marketing Intern (Social Media)](https://jobright.ai/jobs/info/69726cd4584a1c1ef6fd6c2c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 22 |
+| **[WPP Media](http://WPPmedia.com?utm_source=linkedin)** | **[Media Intern - Summer 2026](https://jobright.ai/jobs/info/69726c50584a1c1ef6fd6bde?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
+| **[Tricentis](https://tricentis.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69726a3c9b83b424830e5eed?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 22 |
+| **[Symetra](http://www.symetra.com)** | **[2026 eCommerce Business Systems Analyst Internship - Remote](https://jobright.ai/jobs/info/697268b2584a1c1ef6fd69ba?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 22 |
+| **[Audily](https://audily.com)** | **[Live Events & Marketing Intern - Liftoff Live Events (paid in equity)](https://jobright.ai/jobs/info/69726696584a1c1ef6fd68cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 22 |
+| **[Boxxie](http://www.boxxieparty.com)** | **[Boxxie Public Relations Internship - Q1 2026](https://jobright.ai/jobs/info/697265a24ccbf64f8df25e96?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, Publisher Relations](https://jobright.ai/jobs/info/697262a04ccbf64f8df25d46?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Summer Global Marketing Intern](https://jobright.ai/jobs/info/697260269b83b424830e58d9?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Jan 22 |
 | **[Axis Communications](http://www.axis.com/)** | **[Field Marketing Midwest, Intern](https://jobright.ai/jobs/info/69725f8a9b83b424830e5865?utm_campaign=1065&utm_source=git)** | Bloomington, MN | On Site | Jan 22 |
@@ -77,8 +85,9 @@ For a complete list, click the following sortable link below:
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: Marketing Finance and Operations (Summer 2026)](https://jobright.ai/jobs/info/697251969b83b424830e394f?utm_campaign=1065&utm_source=git)** | Shippensburg, PA | On Site | Jan 22 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Marketing Intern](https://jobright.ai/jobs/info/6972511e9b83b424830e390a?utm_campaign=1065&utm_source=git)** | Northbrook, IL, United States | On Site | Jan 22 |
 | **[Primax](http://primax.us)** | **[Summer 2026 Intern - Client Growth Management](https://jobright.ai/jobs/info/69724f9f9b83b424830e383f?utm_campaign=1065&utm_source=git)** | Remote-USA | Remote | Jan 22 |
-| **[Showrunner App](showrunner.co)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69724f169b83b424830e37e9?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jan 22 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Internship](https://jobright.ai/jobs/info/69724e2c4ccbf64f8df2394b?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 22 |
+| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Los Angeles & Dallas) Winter 2026](https://jobright.ai/jobs/info/69726d694ccbf64f8df2633c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 22 |
+| **[Salient](https://www.salientglobal.com/)** | **[Account Intern (Marketing/Public Relations)](https://jobright.ai/jobs/info/69726a16584a1c1ef6fd6a8e?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[UMB Bank](https://www.umb.com/)** | **[Events and Sponsorships Marketing Intern](https://jobright.ai/jobs/info/697248149b83b424830e3252?utm_campaign=1065&utm_source=git)** | Kansas City MO | Hybrid | Jan 22 |
 | **[Axis Communications](http://www.axis.com/)** | **[Field Marketing Midwest, Intern](https://jobright.ai/jobs/info/6972477c584a1c1ef6fd3de8?utm_campaign=1065&utm_source=git)** | USA - MN - Bloomington | On Site | Jan 22 |
 | **[Tricentis](https://tricentis.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/697243c3584a1c1ef6fd3c3e?utm_campaign=1065&utm_source=git)** | Austin, Texas | Hybrid | Jan 22 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Integrated Marketing Intern (Summer)](https://jobright.ai/jobs/info/6971cf7747b64f4e963e0ace?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 21 |
 | **[Camelot Strategic Marketing & Media](http://camelotsmm.com)** | **[Media Marketing Summer Internship](https://jobright.ai/jobs/info/6971cc1947b64f4e963e07e8?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Arena Marketing Intern](https://jobright.ai/jobs/info/6971c77d333b6343a14e79f9?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 21 |
-| **[Vevolution](http://www.vevolution.com)** | **[Social media intern](https://jobright.ai/jobs/info/6971c605587dfa0bb55f8f3c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
-| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/6971c5dd51f7264771843919?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
-| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6971c4c1333b6343a14e7907?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jan 21 |
-| **[APTIM](https://www.aptim.com/)** | **[Proposal Coordinator Intern (STRIVE Program)](https://jobright.ai/jobs/info/695d48b6f1f8465b79f377f5?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 21 |
-| **[Analog Devices](http://www.analog.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/695e231e2847344df473a47a?utm_campaign=1065&utm_source=git)** | Wilmington, MA | On Site | Jan 21 |
-| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/6971b956333b6343a14e6e16?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Change Management Communications](https://jobright.ai/jobs/info/6971b88b587dfa0bb55f8365?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
-| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6971b7d351f7264771842d06?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
-| **[Pepper AI](www.pepperai.lovable.app)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/6971b689587dfa0bb55f8214?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
