@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Arena Marketing Intern](https://jobright.ai/jobs/info/6971c77d333b6343a14e79f9?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 21 |
+| **[Vevolution](http://www.vevolution.com)** | **[Social media intern](https://jobright.ai/jobs/info/6971c605587dfa0bb55f8f3c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/6971c5dd51f7264771843919?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
+| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6971c4c1333b6343a14e7907?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jan 21 |
+| **[APTIM](https://www.aptim.com/)** | **[Proposal Coordinator Intern (STRIVE Program)](https://jobright.ai/jobs/info/695d48b6f1f8465b79f377f5?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 21 |
+| **[Analog Devices](http://www.analog.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/695e231e2847344df473a47a?utm_campaign=1065&utm_source=git)** | Wilmington, MA | On Site | Jan 21 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/6971b956333b6343a14e6e16?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Change Management Communications](https://jobright.ai/jobs/info/6971b88b587dfa0bb55f8365?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6971b7d351f7264771842d06?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
@@ -123,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Creative Design Intern, Oncology Marketing, Hematology](https://jobright.ai/jobs/info/6971536551f7264771839ece?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Summer 2026 Social Media and Communications Intern](https://jobright.ai/jobs/info/69715236587dfa0bb55ef2f4?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 21 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Influencer Marketing](https://jobright.ai/jobs/info/6971502a51f7264771839b04?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 21 |
-| **[Maricich Health](https://maricich.com/)** | **[Creative Copywriting Marketing Intern](https://jobright.ai/jobs/info/69714f03333b6343a14dd553?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jan 21 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Ottawa, ON](https://jobright.ai/jobs/info/694f5c63a2668b7f54528676?utm_campaign=1065&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 21 |
 | ↳ | **[Field Marketing Coordinator Intern - Barrie, ON](https://jobright.ai/jobs/info/6961d0f8a112b40266105c0b?utm_campaign=1065&utm_source=git)** | Barrie, Ontario, Canada | On Site | Jan 21 |
 | **[Staples](http://www.staples.com)** | **[Marketing Calendar Intern - June 2026](https://jobright.ai/jobs/info/69714e45333b6343a14dd360?utm_campaign=1065&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Jan 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harder Mechanical Contractors, Inc.](http://harder.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6966e84aa112b4026614f88c?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jan 21 |
 | **[Red River Commodities Inc](https://redriv.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6971361c587dfa0bb55ec006?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Jan 21 |
 | **[CRH](http://crh.com)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/697157d751f726477183a3a8?utm_campaign=1065&utm_source=git)** | Galloway, NJ | On Site | Jan 21 |
-| **[Cortis Lentini S.r.l.](http://cortislentini.it)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/697133f9333b6343a14da597?utm_campaign=1065&utm_source=git)** | Little Rock,AR,US | Hybrid | Jan 21 |
-| **[Performance Validation](http://perfval.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69713315587dfa0bb55ebc42?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
-| **[Leland](https://www.joinleland.com)** | **[Growth & Ops Intern](https://jobright.ai/jobs/info/69716ba5333b6343a14df3dd?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jan 21 |
-| **[Coty](https://www.coty.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6971563e333b6343a14ddfed?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
-| **[San Francisco Giants](https://www.mlb.com/giants)** | **[Social Media Intern](https://jobright.ai/jobs/info/69713150587dfa0bb55eba1e?utm_campaign=1065&utm_source=git)** | Oracle Park, SF | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
