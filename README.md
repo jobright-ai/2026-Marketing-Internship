@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6971a4fa333b6343a14e40f0?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Jan 21 |
+| **[Savills North America](https://www.savills.us)** | **[Commercial Real Estate Summer Internship](https://jobright.ai/jobs/info/6971a1d751f726477183f9c4?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 21 |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6971a03b333b6343a14e37e8?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Jan 21 |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Pace University - Pleasantville](https://jobright.ai/jobs/info/69719eea587dfa0bb55f4d6c?utm_campaign=1065&utm_source=git)** | Pleasantville, NY | On Site | Jan 21 |
 | **[SheSpeaks Inc.](http://www.shespeaks.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69719dcf51f726477183f75e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[cupl](www.cupl.io)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69719cd5333b6343a14e3601?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Local & Go-To-Market Intern](https://jobright.ai/jobs/info/69719cbc333b6343a14e35e6?utm_campaign=1065&utm_source=git)** | Littleton, CO | On Site | Jan 21 |
@@ -64,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Spring Internship (PAID): Marketing](https://jobright.ai/jobs/info/697198f2333b6343a14e32ac?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 21 |
 | **[TSI Incorporated](http://www.tsi.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6919aa4215b41563671870aa?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Jan 21 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[UCLCC Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69717e17587dfa0bb55f309c?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | Jan 21 |
+| **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Employee Communications](https://jobright.ai/jobs/info/6971abe051f72647718420d6?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Jan 21 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Digital and Ecommerce Intern](https://jobright.ai/jobs/info/69718f94587dfa0bb55f4017?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[QuinStreet](http://www.quinstreet.com)** | **[Performance Marketing & Analytics Internship Program (Undergraduate - Spring 2026 Graduates)](https://jobright.ai/jobs/info/69718dcf587dfa0bb55f3eae?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Vitamix](http://vitamix.com)** | **[Vitamix Foundation Intern (Hybrid)](https://jobright.ai/jobs/info/69718d2c587dfa0bb55f3e0c?utm_campaign=1065&utm_source=git)** | Olmsted, OH | Hybrid | Jan 21 |
@@ -74,8 +79,9 @@ For a complete list, click the following sortable link below:
 | **[DolFinContent](https://www.dolfincontent.com)** | **[Influencer Marketing with focus on Content Creators - Internship - Spring 2026](https://jobright.ai/jobs/info/697185b5587dfa0bb55f37c8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/697183b051f726477183df91?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Vitamix](http://vitamix.com)** | **[Vitamix Foundation Intern (Hybrid)](https://jobright.ai/jobs/info/6971839451f726477183df70?utm_campaign=1065&utm_source=git)** | Olmsted Township, Ohio, United States | Hybrid | Jan 21 |
+| **[Haven Home Health & Hospice](https://havenhome.us)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6971a325587dfa0bb55f5001?utm_campaign=1065&utm_source=git)** | Ozark, MO | On Site | Jan 21 |
 | **[Olympus Corporation](https://heylink.me/yokubet.id/)** | **[Olympus Intern, Medical Product Marketing (Summer 2026)](https://jobright.ai/jobs/info/6971834c51f726477183df19?utm_campaign=1065&utm_source=git)** | Center Valley, PA | On Site | Jan 21 |
-| **[Cortis Lentini S.r.l.](http://cortislentini.it)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69719bc2333b6343a14e3510?utm_campaign=1065&utm_source=git)** | Little Rock, AR | On Site | Jan 21 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6971a0da51f726477183f928?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Climate Communications Social Media Intern (Homebased)](https://jobright.ai/jobs/info/69717f60333b6343a14e1b5a?utm_campaign=1065&utm_source=git)** | Utica-Rome Area | On Site | Jan 21 |
 | **[CSL](https://www.csl.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6968674e639b452fb57e0ce2?utm_campaign=1065&utm_source=git)** | Kankakee, IL | Hybrid | Jan 21 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Virtual Marketing Intern (February 2026)](https://jobright.ai/jobs/info/69717c30587dfa0bb55f2e87?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corn Belt Energy Corporation](https://www.cornbeltenergy.com/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/697152c1333b6343a14ddc99?utm_campaign=1065&utm_source=git)** | Bloomington, IL | On Site | Jan 21 |
 | **[Spectrum](https://www.spectrum.com)** | **[Marketing Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69712901587dfa0bb55eb1c0?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina | On Site | Jan 21 |
 | **[Cottonwood Millwork + Cabinets](http://www.cottonwoodcabinets.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697147cf51f7264771838830?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Jan 21 |
-| **[International Refugee Assistance Project](https://refugeerights.org/)** | **[Communications Summer Intern- 2026](https://jobright.ai/jobs/info/697143af587dfa0bb55ed276?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jan 21 |
-| **[BIOLYTE®](https://www.drinkbiolyte.com)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/69714b4b333b6343a14dcd7d?utm_campaign=1065&utm_source=git)** | Marietta, GA | On Site | Jan 21 |
-| ↳ | **[Social Media & Content Creator Intern](https://jobright.ai/jobs/info/697147b7333b6343a14dc510?utm_campaign=1065&utm_source=git)** | Marietta, GA | On Site | Jan 21 |
-| **[Toothbrush Toys](https://www.toothbrushtoys.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697149ec333b6343a14dca70?utm_campaign=1065&utm_source=git)** | Westlake Village, CA | On Site | Jan 21 |
-| **[Okta](http://www.okta.com)** | **[Strategic Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/6971222b51f7264771835827?utm_campaign=1065&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
-| **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Employee Communications](https://jobright.ai/jobs/info/697120c5587dfa0bb55eabc0?utm_campaign=1065&utm_source=git)** | Denver,  CO | Remote | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
