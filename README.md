@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Marketing](https://jobright.ai/jobs/info/68e58f12b99ec3563b0f66e1?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jan 22 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Social & Community Intern](https://jobright.ai/jobs/info/693a14ee48a8ce22990e157b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Product Marketing - DES](https://jobright.ai/jobs/info/691b6e4022a2cb4b9bd124c6?utm_campaign=1065&utm_source=git)** | Shanghai, VA | Hybrid | Jan 22 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Content Marketing Strategy](https://jobright.ai/jobs/info/6901e196d5259a1b3cff85dd?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jan 22 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vans Product & Marketing Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ebd9b707bf728a4b8465?utm_campaign=1065&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 22 |
 | ↳ | **[Vans Product & Marketing Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ebbf47b64f4e963e294c?utm_campaign=1065&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 22 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vans Product & Marketing Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ead047b64f4e963e266c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Product Marketing Engineer Intern](https://jobright.ai/jobs/info/6971ea4147b64f4e963e24e9?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Events Internships](https://jobright.ai/jobs/info/69720b1547b64f4e963e4203?utm_campaign=1065&utm_source=git)** | Redlands, CA | Remote | Jan 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Consumer Insights Co-op (July to December)](https://jobright.ai/jobs/info/6971e924b707bf728a4b8324?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Jan 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Brand and Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/6971e807cda45e6953581852?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Latin America (LATAM) Marketing Co-op (July to December)](https://jobright.ai/jobs/info/6971e78acda45e69535816e1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
@@ -109,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Communications Specialist Undergraduate Intern](https://jobright.ai/jobs/info/697188af587dfa0bb55f3a16?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Jan 21 |
 | **[Bookit Sports](https://bookitsports.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69718802333b6343a14e2313?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Jan 21 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Communications Intern](https://jobright.ai/jobs/info/697186fb51f726477183e2d5?utm_campaign=1065&utm_source=git)** | Waukesha, WI | On Site | Jan 21 |
-| **[DolFinContent](https://www.dolfincontent.com)** | **[Influencer Marketing with focus on Content Creators - Internship - Spring 2026](https://jobright.ai/jobs/info/697185b5587dfa0bb55f37c8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/697183b051f726477183df91?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Vitamix](http://vitamix.com)** | **[Vitamix Foundation Intern (Hybrid)](https://jobright.ai/jobs/info/6971839451f726477183df70?utm_campaign=1065&utm_source=git)** | Olmsted Township, Ohio, United States | Hybrid | Jan 21 |
 | **[Haven Home Health & Hospice](https://havenhome.us)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6971a325587dfa0bb55f5001?utm_campaign=1065&utm_source=git)** | Ozark, MO | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Staples](http://www.staples.com)** | **[Marketing Calendar Intern - June 2026](https://jobright.ai/jobs/info/69714e45333b6343a14dd360?utm_campaign=1065&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Jan 21 |
 | **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/69716dd051f726477183b758?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Jan 21 |
 | **[Staples](http://www.staples.com)** | **[Marketing Operations Email Intern (B2C) - June 2026](https://jobright.ai/jobs/info/69714cf8587dfa0bb55ee917?utm_campaign=1065&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Jan 21 |
-| ↳ | **[Social Media Content Creator Intern - June 2026](https://jobright.ai/jobs/info/69714cb7587dfa0bb55ee880?utm_campaign=1065&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Jan 21 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[M&A Marketing & Operations Intern](https://jobright.ai/jobs/info/69714af7333b6343a14dccbb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 21 |
-| **[Staples Canada](http://www.staples.ca)** | **[Social Media Content Creator Intern - June 2026](https://jobright.ai/jobs/info/69714a9151f7264771838eef?utm_campaign=1065&utm_source=git)** | Framingham, MA, United States | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
