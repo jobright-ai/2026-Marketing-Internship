@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Content Marketing Strategy](https://jobright.ai/jobs/info/6901e196d5259a1b3cff85dd?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jan 22 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vans Product & Marketing Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ebd9b707bf728a4b8465?utm_campaign=1065&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 22 |
 | ↳ | **[Vans Product & Marketing Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ebbf47b64f4e963e294c?utm_campaign=1065&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 22 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vans Product & Marketing Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ead047b64f4e963e266c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Digital and Ecommerce Intern](https://jobright.ai/jobs/info/69718f94587dfa0bb55f4017?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[QuinStreet](http://www.quinstreet.com)** | **[Performance Marketing & Analytics Internship Program (Undergraduate - Spring 2026 Graduates)](https://jobright.ai/jobs/info/69718dcf587dfa0bb55f3eae?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Vitamix](http://vitamix.com)** | **[Vitamix Foundation Intern (Hybrid)](https://jobright.ai/jobs/info/69718d2c587dfa0bb55f3e0c?utm_campaign=1065&utm_source=git)** | Olmsted, OH | Hybrid | Jan 21 |
-| **[Parrot Finance](https://www.parrotfinance.io/)** | **[Marketing & Content Internship Spring 2026](https://jobright.ai/jobs/info/69718a4c51f726477183e5ac?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 21 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Communications Specialist Undergraduate Intern](https://jobright.ai/jobs/info/697188af587dfa0bb55f3a16?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Jan 21 |
 | **[Bookit Sports](https://bookitsports.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69718802333b6343a14e2313?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Jan 21 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Communications Intern](https://jobright.ai/jobs/info/697186fb51f726477183e2d5?utm_campaign=1065&utm_source=git)** | Waukesha, WI | On Site | Jan 21 |
