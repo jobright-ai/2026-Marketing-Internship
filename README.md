@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Larry H Miller Sports & Entertainment](http://www.lhmse.com/)** | **[Community Relations Internship](https://jobright.ai/jobs/info/69732593206da320f49d2acc?utm_campaign=1065&utm_source=git)** | Sandy, Utah, United States | On Site | Jan 22 |
+| **[Oliv AI](https://oliv.ai)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/697323e8206da320f49d29be?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 22 |
 | **[State Street](https://www.statestreet.com/)** | **[Marketing Internship - CRD - 6 months July-Dec](https://jobright.ai/jobs/info/69731760206da320f49d20ab?utm_campaign=1065&utm_source=git)** | Burlington, MA | On Site | Jan 22 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69731639694e99351d147093?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Jan 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCDOT HBCU Communications Intern](https://jobright.ai/jobs/info/697311981790715e866c15b7?utm_campaign=1065&utm_source=git)** | Wake County, NC | On Site | Jan 22 |
@@ -119,16 +121,16 @@ For a complete list, click the following sortable link below:
 | **[Hightower Advisors](https://thrushgroup.hightoweradvisors.com/)** | **[Marketing Intern - Private Vista](https://jobright.ai/jobs/info/6972eb2f98522904c697bcb9?utm_campaign=1065&utm_source=git)** | Oak Brook, IL | Remote | Jan 22 |
 | **[AARP](http://www.aarp.org)** | **[Communications Intern (Late Spring/Summer)](https://jobright.ai/jobs/info/6972c8f14ccbf64f8df2d388?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Edelman](http://www.edelman.com)** | **[Earned Media Summer Intern](https://jobright.ai/jobs/info/6972ed5f1d55d64a20534e26?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Jan 22 |
-| ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972ee891d55d64a20534e8d?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Jan 22 |
-| ↳ | **[Purpose & Impact Summer Intern](https://jobright.ai/jobs/info/6972edb80488fd59f7d5e983?utm_campaign=1065&utm_source=git)** | New York, New York, USA | Hybrid | Jan 22 |
 | ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972eb3d98522904c697bcc2?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, USA | On Site | Jan 22 |
 | ↳ | **[Digital Summer Intern](https://jobright.ai/jobs/info/6972f54d206da320f49cecbb?utm_campaign=1065&utm_source=git)** | New York, New York, USA | Hybrid | Jan 22 |
+| ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972ee891d55d64a20534e8d?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Jan 22 |
+| ↳ | **[Purpose & Impact Summer Intern](https://jobright.ai/jobs/info/6972edb80488fd59f7d5e983?utm_campaign=1065&utm_source=git)** | New York, New York, USA | Hybrid | Jan 22 |
 | ↳ | **[Earned Media Summer Intern](https://jobright.ai/jobs/info/6972e8d91d55d64a20534ae0?utm_campaign=1065&utm_source=git)** | New York, New York, USA | Hybrid | Jan 22 |
-| ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972eeca98522904c697beb9?utm_campaign=1065&utm_source=git)** | New York, New York, USA | Hybrid | Jan 22 |
-| ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972ed8e1d55d64a20534e37?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Jan 22 |
 | ↳ | **[Corporate Summer Intern](https://jobright.ai/jobs/info/6972ecbe98522904c697bde2?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Jan 22 |
 | ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972ecba98522904c697bdde?utm_campaign=1065&utm_source=git)** | New York, New York, USA | Hybrid | Jan 22 |
+| ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972ed8e1d55d64a20534e37?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Jan 22 |
 | ↳ | **[Digital Summer Intern](https://jobright.ai/jobs/info/6972f69c1790715e866be534?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Jan 22 |
+| ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972eeca98522904c697beb9?utm_campaign=1065&utm_source=git)** | New York, New York, USA | Hybrid | Jan 22 |
 | ↳ | **[Sports & Entertainment Summer Intern](https://jobright.ai/jobs/info/6972f6c3206da320f49cedc4?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Jan 22 |
 | ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972ef1e98522904c697bed9?utm_campaign=1065&utm_source=git)** | Los Angeles, California, USA | Hybrid | Jan 22 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6972c7b24ccbf64f8df2d2ec?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[M&A Marketing & Operations Intern](https://jobright.ai/jobs/info/6972bc929b83b424830ec405?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 22 |
 | **[Spotify](http://www.spotify.com)** | **[2026 Summer Internship, Marketing, Customer Success/Sales & Editorial (New York City)](https://jobright.ai/jobs/info/6972bc4d9b83b424830ec3d1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Curiosity](https://www.curiosity.fun)** | **[Social Media Intern](https://jobright.ai/jobs/info/6972dd2098522904c697b014?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 22 |
-| **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP Summer 2026 Internship – Communications](https://jobright.ai/jobs/info/6972e52e0488fd59f7d5e2af?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 22 |
-| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Internship – Communications](https://jobright.ai/jobs/info/6972d7c40488fd59f7d5d189?utm_campaign=1065&utm_source=git)** | North Carolina | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
