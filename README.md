@@ -57,10 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Growth Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/6973d07f37785856350da30e?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Jan 23 |
+| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Advertising Intern - Furman University](https://jobright.ai/jobs/info/6973cfdabc8e722e7b189f43?utm_campaign=1065&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jan 23 |
+| **[HNTB](http://www.hntb.com/)** | **[Marketing Intern- Summer 2026](https://jobright.ai/jobs/info/6973cf18206da320f49dc919?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
+| ↳ | **[Marketing Intern- Summer 2026](https://jobright.ai/jobs/info/6973ce6937785856350da093?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Member Communications Bachelor's Intern](https://jobright.ai/jobs/info/6973cb37bc8e722e7b189980?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 23 |
+| **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/6973caf6bc8e722e7b189935?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Jan 23 |
+| **[City of Green Bay](https://www.greenbaywi.gov/)** | **[Communications/Public Events and Community Outreach Intern](https://jobright.ai/jobs/info/6973caefbc8e722e7b18992d?utm_campaign=1065&utm_source=git)** | Green Bay, WI | On Site | Jan 23 |
+| **[Dash Social](https://www.dashsocial.com)** | **[Office and Events Intern](https://jobright.ai/jobs/info/6973ca6e37785856350d9be9?utm_campaign=1065&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 23 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Communications Master's Intern](https://jobright.ai/jobs/info/6973c975206da320f49dc230?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Jan 23 |
+| **[AM Group](www.amgrouppr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6973c8b937785856350d9a06?utm_campaign=1065&utm_source=git)** | Fayetteville, AR | On Site | Jan 23 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS -USF Youth Experiences Social Media Intern](https://jobright.ai/jobs/info/6973c8b8bc8e722e7b18968e?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Jan 23 |
+| **[Michigan Moves Coalition](https://www.mimovesmonth.com/)** | **[Health Communications & Social Media Intern](https://jobright.ai/jobs/info/6973c3fe206da320f49dbbaf?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Jan 23 |
 | **[Tombras](http://tombras.com)** | **[Sonic Social Media Intern](https://jobright.ai/jobs/info/6973c00cbc8e722e7b1890ae?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | ↳ | **[Media Strategy Intern](https://jobright.ai/jobs/info/6973bf7237785856350d92de?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | **[Housecall Pro](http://www.housecallpro.com)** | **[Intern, Marketing (Video)](https://jobright.ai/jobs/info/695c33c8aa05c26e7ab585a3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
-| **[High Level Media Sports](https://www.highlevelmediasports.net)** | **[Sports Marketing Intern](https://jobright.ai/jobs/info/6973bc0c206da320f49db86c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Marketing CRM Intern](https://jobright.ai/jobs/info/6973bbfb206da320f49db85f?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[Tombras](http://tombras.com)** | **[Influencer Intern](https://jobright.ai/jobs/info/6973baacbc8e722e7b188df4?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | ↳ | **[Organic Social Media Analyst Intern](https://jobright.ai/jobs/info/6973b8cc37785856350d8e2d?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
@@ -72,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Marketing](https://jobright.ai/jobs/info/6973ad25bc8e722e7b187e02?utm_campaign=1065&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
 | ↳ | **[VyStar Intern – Marketing](https://jobright.ai/jobs/info/6973aa1f206da320f49dae40?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern Merchandising](https://jobright.ai/jobs/info/6973a6e9206da320f49dabce?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 23 |
+| **[HANYS](https://www.hanys.org/)** | **[INTERN ' Communications, Outreach, and Research](https://jobright.ai/jobs/info/6973cd1437785856350d9f15?utm_campaign=1065&utm_source=git)** | Hauppauge, NY | Hybrid | Jan 23 |
 | **[Credit Karma](https://www.creditkarma.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6973a54b37785856350d7db3?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
 | **[Recz_Official](https://www.therecz.com/blog/category/tv-show-recommendations/)** | **[Growth Intern](https://jobright.ai/jobs/info/6973bf2437785856350d92ba?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Jan 23 |
 | **[Drive Clean Indiana](https://drivecleanindiana.org/)** | **[Spring 2026 Drive Clean Indiana Intern](https://jobright.ai/jobs/info/6973c0c8bc8e722e7b189102?utm_campaign=1065&utm_source=git)** | St John, IN | On Site | Jan 23 |
@@ -134,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[Marketing Internship - CRD - 6 months July-Dec](https://jobright.ai/jobs/info/69731760206da320f49d20ab?utm_campaign=1065&utm_source=git)** | Burlington, MA | On Site | Jan 22 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69731639694e99351d147093?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Jan 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCDOT HBCU Communications Intern](https://jobright.ai/jobs/info/697311981790715e866c15b7?utm_campaign=1065&utm_source=git)** | Wake County, NC | On Site | Jan 22 |
-| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Advertising Planning Intern](https://jobright.ai/jobs/info/69732d011790715e866c2713?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 22 |
 | **[SSF Detail](https://ssfdetail.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69730e32694e99351d1467a2?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | Hybrid | Jan 22 |
 | **[cupl](www.cupl.io)** | **[Growth Marketing Spring Intern](https://jobright.ai/jobs/info/69730646206da320f49cfc18?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Brand Summer Intern](https://jobright.ai/jobs/info/697305e61790715e866bf229?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TED Conferences](http://www.ted.com)** | **[Spring/Summer 2026 Partnerships Digital Intern](https://jobright.ai/jobs/info/6972fe51694e99351d1443e6?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 22 |
 | **[MCGREGOR FOUNDATION](https://mcgregorfoundation.org/)** | **[McGregor Foundation Communications Summer 2026 Intern](https://jobright.ai/jobs/info/6972fe0c1790715e866bea52?utm_campaign=1065&utm_source=git)** | GARD, East Cleveland, OH, US | On Site | Jan 22 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Marketing Planning Intern (Summer 2026)](https://jobright.ai/jobs/info/6972fde41790715e866bea2e?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Jan 22 |
-| **[Zeno Group](http://www.zenogroup.com)** | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972fdd2206da320f49cf31b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 22 |
-| ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972fdc9206da320f49cf312?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
-| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Partner Marketing - Global Marketing Enablement Intern (Summer 2026)](https://jobright.ai/jobs/info/6972fd88206da320f49cf2d5?utm_campaign=1065&utm_source=git)** | St Louis, MO | Remote | Jan 22 |
-| **[Zeno Group](http://www.zenogroup.com)** | **[Earned Media Summer Intern](https://jobright.ai/jobs/info/6972fb9f1790715e866be850?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972fb61694e99351d144178?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972fb2a206da320f49cf0a3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| ↳ | **[Corporate Summer Intern](https://jobright.ai/jobs/info/6972fac01790715e866be7ad?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
-| ↳ | **[Digital Summer Intern](https://jobright.ai/jobs/info/6972f9e0694e99351d144095?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| ↳ | **[Purpose & Impact Summer Intern](https://jobright.ai/jobs/info/6972f8db1790715e866be6b1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
-| **[Think Positive Club](www.thinkpositiveclub.com)** | **[Google Marketing Intern](https://jobright.ai/jobs/info/6972f60d694e99351d143e19?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO | On Site | Jan 22 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Spring Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/6972f5111790715e866be3fc?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
