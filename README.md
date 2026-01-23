@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Marketing](https://jobright.ai/jobs/info/6973ad25bc8e722e7b187e02?utm_campaign=1065&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
+| ↳ | **[VyStar Intern – Marketing](https://jobright.ai/jobs/info/6973aa1f206da320f49dae40?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern Merchandising](https://jobright.ai/jobs/info/6973a6e9206da320f49dabce?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 23 |
+| **[Credit Karma](https://www.creditkarma.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6973a54b37785856350d7db3?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
 | **[Industrial Scientific](http://www.indsci.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6973a16c206da320f49d927a?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 23 |
 | **[Banavo.AI](http://banavo.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69739b2c206da320f49d8f74?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[IHC Agency](https://ihcagency.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6973999a206da320f49d8e79?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jan 23 |
@@ -111,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[21CS](https://www.21stcenturysoftware.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6973370bbc8e722e7b180abc?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Jan 23 |
 | **[Pocket Nurse®](http://www.pocketnurse.com)** | **[Paid eCommerce Marketing Intern](https://jobright.ai/jobs/info/697332f61790715e866c2a03?utm_campaign=1065&utm_source=git)** | DiaMedical Location - Farmington Hills, MI 48334 | On Site | Jan 23 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Advertising Intern](https://jobright.ai/jobs/info/6973324ebc8e722e7b18097c?utm_campaign=1065&utm_source=git)** | United States | On Site | Jan 23 |
-| **[Luminerra](https://www.luminerra.net/)** | **[Growth Intern](https://jobright.ai/jobs/info/69737abbbc8e722e7b1853d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Larry H Miller Sports & Entertainment](http://www.lhmse.com/)** | **[Community Relations Internship](https://jobright.ai/jobs/info/69732593206da320f49d2acc?utm_campaign=1065&utm_source=git)** | Sandy, Utah, United States | On Site | Jan 22 |
 | **[Oliv AI](https://oliv.ai)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/697323e8206da320f49d29be?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 22 |
 | **[State Street](https://www.statestreet.com/)** | **[Marketing Internship - CRD - 6 months July-Dec](https://jobright.ai/jobs/info/69731760206da320f49d20ab?utm_campaign=1065&utm_source=git)** | Burlington, MA | On Site | Jan 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[Digital Marketing Internship -CRD- 6 months July-Dec](https://jobright.ai/jobs/info/6972e45e1d55d64a205347c3?utm_campaign=1065&utm_source=git)** | Burlington, MA | On Site | Jan 22 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting / Public Relations/Social Media (Intern)](https://jobright.ai/jobs/info/6972ffc01790715e866bebb4?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6972e2cc1d55d64a205345f4?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Jan 22 |
-| **[YouWare](https://www.youware.com/?utm_source=linkedin-official)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6972e0b91d55d64a20534391?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 22 |
-| **[UnBound X](https://unboundx.co/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69737e4737785856350d58b2?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jan 22 |
-| **[NDM Hospitality](https://ndmhospitality.com)** | **[Marketing Internship - Island H2O Water Park](https://jobright.ai/jobs/info/6972dd590488fd59f7d5d8af?utm_campaign=1065&utm_source=git)** | Kissimmee,FL,US | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
