@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / University of Pittsburgh - Johnstown](https://jobright.ai/jobs/info/6973961ebc8e722e7b1862a5?utm_campaign=1065&utm_source=git)** | Johnstown, PA | On Site | Jan 23 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Proposal Intern](https://jobright.ai/jobs/info/69738f62bc8e722e7b185ff8?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
+| **[The HEINEKEN Company](http://www.theHEINEKENcompany.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6973896d206da320f49d8681?utm_campaign=1065&utm_source=git)** | White Plains, NY | Hybrid | Jan 23 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Proposal Intern](https://jobright.ai/jobs/info/6973882b37785856350d5d42?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 23 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/69738462206da320f49d83e7?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Keene, NH](https://jobright.ai/jobs/info/68e5c50e1852e62f008143fb?utm_campaign=1065&utm_source=git)** | Keene, NH | On Site | Jan 23 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026: Corporate Communications Intern (May to August)](https://jobright.ai/jobs/info/68ce08e5e23def7af55c194a?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Jan 23 |
 | **[Prologis](http://www.prologis.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/695350705bb7de448ef660a5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 23 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: eCommerce Intern, Amazon (May to August)](https://jobright.ai/jobs/info/68cd5c17b2a74e1837ed5f36?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Jan 23 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/69738995206da320f49d869e?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Brand and Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/69736858206da320f49d5e97?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 23 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Action/Olympic Sports](https://jobright.ai/jobs/info/697366fb37785856350d3581?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 23 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Acquisition & Paid Media  Intern](https://jobright.ai/jobs/info/6939fcc2ac80bb5492bc767a?utm_campaign=1065&utm_source=git)** | Littleton, CO | On Site | Jan 23 |
@@ -83,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Symetra](http://www.symetra.com)** | **[2026 Digital Marketing Internship](https://jobright.ai/jobs/info/697362febc8e722e7b18335e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[PCG Internship Summer 2026 (Remote)](https://jobright.ai/jobs/info/693b7d835f2c001987ed714f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Marketing and Data Analytics Intern Summer 2026](https://jobright.ai/jobs/info/693bb94250bbaf76504f1eb2?utm_campaign=1065&utm_source=git)** | Hopkins, SC | Hybrid | Jan 23 |
+| **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Brand and Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/697388fa37785856350d5dba?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Resource Management) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967febe639b452fb57d8c27?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/68e5ab82e8daec61499a37b1?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Jan 23 |
 | **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/692ba4124c474121999cdfa0?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Jan 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TONYMOLY USA](http://www.tonymoly.us)** | **[Spring 2026 Marketing Paid Internship](https://jobright.ai/jobs/info/6972fcb6206da320f49cf213?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jan 22 |
 | **[Meyocks](http://www.meyocks.com)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/6972da0c0488fd59f7d5d4b5?utm_campaign=1065&utm_source=git)** | West Des Moines, Iowa, United States | Hybrid | Jan 22 |
 | **[Reach Detroit](https://www.reachdet.com/)** | **[Social Content Lead](https://jobright.ai/jobs/info/6972d9181d55d64a20533a53?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 22 |
-| **[Continental](https://www.continental.com)** | **[Intern - PLT Marketing Events, Year-Round](https://jobright.ai/jobs/info/6972d76598522904c697a9a7?utm_campaign=1065&utm_source=git)** | Fort Mill, SC | On Site | Jan 22 |
-| **[INPA8](https://inpa8.com/)** | **[Content Creation & Marketing Intern](https://jobright.ai/jobs/info/6972f5a6694e99351d143db6?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jan 22 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Leadership Internship / Southwestern Advantage](https://jobright.ai/jobs/info/6972f9001790715e866be6bf?utm_campaign=1065&utm_source=git)** | Iowa City, IA | On Site | Jan 22 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/69730dcf694e99351d1465e3?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
-| **[Meyocks](http://www.meyocks.com)** | **[Account Service & Brand Strategy Intern](https://jobright.ai/jobs/info/6972d46998522904c697a669?utm_campaign=1065&utm_source=git)** | West Des Moines, Iowa, United States | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
