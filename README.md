@@ -57,11 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tombras](http://tombras.com)** | **[Sonic Social Media Intern](https://jobright.ai/jobs/info/6973c00cbc8e722e7b1890ae?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
+| ↳ | **[Media Strategy Intern](https://jobright.ai/jobs/info/6973bf7237785856350d92de?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
+| **[Housecall Pro](http://www.housecallpro.com)** | **[Intern, Marketing (Video)](https://jobright.ai/jobs/info/695c33c8aa05c26e7ab585a3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
+| **[High Level Media Sports](https://www.highlevelmediasports.net)** | **[Sports Marketing Intern](https://jobright.ai/jobs/info/6973bc0c206da320f49db86c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
+| **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Marketing CRM Intern](https://jobright.ai/jobs/info/6973bbfb206da320f49db85f?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
+| **[Tombras](http://tombras.com)** | **[Influencer Intern](https://jobright.ai/jobs/info/6973baacbc8e722e7b188df4?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
+| ↳ | **[Organic Social Media Analyst Intern](https://jobright.ai/jobs/info/6973b8cc37785856350d8e2d?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
+| **[Industrial Scientific](http://www.indsci.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6973a16c206da320f49d927a?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 23 |
+| **[Snohomish County PUD](http://www.snopud.com/)** | **[Summer Student Intern - Corp Communications & Marketing](https://jobright.ai/jobs/info/6973b85337785856350d8dcc?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Jan 23 |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Marketing, Communications](https://jobright.ai/jobs/info/6973b828206da320f49db58e?utm_campaign=1065&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
+| **[Tombras](http://tombras.com)** | **[SEO Intern](https://jobright.ai/jobs/info/6973b828206da320f49db58d?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
+| **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Growth Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/6973b7bfbc8e722e7b188bfc?utm_campaign=1065&utm_source=git)** | Remote- US | Remote | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Marketing](https://jobright.ai/jobs/info/6973ad25bc8e722e7b187e02?utm_campaign=1065&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
 | ↳ | **[VyStar Intern – Marketing](https://jobright.ai/jobs/info/6973aa1f206da320f49dae40?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern Merchandising](https://jobright.ai/jobs/info/6973a6e9206da320f49dabce?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 23 |
 | **[Credit Karma](https://www.creditkarma.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6973a54b37785856350d7db3?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
-| **[Industrial Scientific](http://www.indsci.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6973a16c206da320f49d927a?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 23 |
+| **[Recz_Official](https://www.therecz.com/blog/category/tv-show-recommendations/)** | **[Growth Intern](https://jobright.ai/jobs/info/6973bf2437785856350d92ba?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Jan 23 |
+| **[Drive Clean Indiana](https://drivecleanindiana.org/)** | **[Spring 2026 Drive Clean Indiana Intern](https://jobright.ai/jobs/info/6973c0c8bc8e722e7b189102?utm_campaign=1065&utm_source=git)** | St John, IN | On Site | Jan 23 |
 | **[Banavo.AI](http://banavo.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69739b2c206da320f49d8f74?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[IHC Agency](https://ihcagency.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6973999a206da320f49d8e79?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jan 23 |
 | **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Digital Marketing Intern , Summer 2026 - Rock Hill, SC](https://jobright.ai/jobs/info/6973993e206da320f49d8e46?utm_campaign=1065&utm_source=git)** | Rock Hill, NY | Hybrid | Jan 23 |
@@ -94,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Digital Marketing Communications](https://jobright.ai/jobs/info/68e57870ae2b894b1d70f811?utm_campaign=1065&utm_source=git)** | Brillion, WI | Hybrid | Jan 23 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Digital Marketing Internship](https://jobright.ai/jobs/info/697362febc8e722e7b18335e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[PCG Internship Summer 2026 (Remote)](https://jobright.ai/jobs/info/693b7d835f2c001987ed714f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marketing Planning & Analytics Intern, Summer 2026](https://jobright.ai/jobs/info/6973c10fbc8e722e7b189126?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Marketing and Data Analytics Intern Summer 2026](https://jobright.ai/jobs/info/693bb94250bbaf76504f1eb2?utm_campaign=1065&utm_source=git)** | Hopkins, SC | Hybrid | Jan 23 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Brand and Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/697388fa37785856350d5dba?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Resource Management) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967febe639b452fb57d8c27?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Purpose & Impact Summer Intern](https://jobright.ai/jobs/info/6972f8db1790715e866be6b1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[Think Positive Club](www.thinkpositiveclub.com)** | **[Google Marketing Intern](https://jobright.ai/jobs/info/6972f60d694e99351d143e19?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO | On Site | Jan 22 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Spring Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/6972f5111790715e866be3fc?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jan 22 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Peterborough, ON](https://jobright.ai/jobs/info/695d2b3dfbd62a0a6565bbbc?utm_campaign=1065&utm_source=git)** | Peterborough, Ontario, Canada | On Site | Jan 22 |
-| ↳ | **[Field Marketing Coordinator Intern - London, ON](https://jobright.ai/jobs/info/693bf10aaa598a08c3ecf252?utm_campaign=1065&utm_source=git)** | London, Ontario, Canada | On Site | Jan 22 |
-| **[Zeno Group](http://www.zenogroup.com)** | **[Earned Media Summer Intern](https://jobright.ai/jobs/info/69730c64206da320f49d13f9?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
-| **[University of Arkansas](http://uark.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/6972ee240488fd59f7d5e9d6?utm_campaign=1065&utm_source=git)** | Fayetteville, AR | On Site | Jan 22 |
-| **[Ovative Group](http://www.ovative.com)** | **[Summer 2026 Internship - Digital Marketing & Analytics](https://jobright.ai/jobs/info/6972edd60488fd59f7d5e999?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 22 |
-| **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP Summer 2026 Internship – Communications](https://jobright.ai/jobs/info/6972ed251d55d64a20534e10?utm_campaign=1065&utm_source=git)** | Cary, NC | Hybrid | Jan 22 |
-| **[IBM](http://www.ibm.com)** | **[2026 Intern – Marketing Analytics](https://jobright.ai/jobs/info/6972ec4d0488fd59f7d5e849?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jan 22 |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Marketing Strategy Intern](https://jobright.ai/jobs/info/6972eab10488fd59f7d5e701?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6972e90b1d55d64a20534b08?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Jan 22 |
-| **[Merz Aesthetics](http://www.merzusa.com)** | **[Marketing Loyalty & Strategy Summer Internship](https://jobright.ai/jobs/info/6972e84b1d55d64a20534a88?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 22 |
-| **[Ovative Group](http://www.ovative.com)** | **[Summer 2026 Internship - Digital Marketing & Analytics](https://jobright.ai/jobs/info/6972e78298522904c697ba40?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
-| **[State Street](https://www.statestreet.com/)** | **[Digital Marketing Internship -CRD- 6 months July-Dec](https://jobright.ai/jobs/info/6972e45e1d55d64a205347c3?utm_campaign=1065&utm_source=git)** | Burlington, MA | On Site | Jan 22 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting / Public Relations/Social Media (Intern)](https://jobright.ai/jobs/info/6972ffc01790715e866bebb4?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 22 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6972e2cc1d55d64a205345f4?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
