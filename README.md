@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Industrial Scientific](http://www.indsci.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6973a16c206da320f49d927a?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 23 |
+| **[Banavo.AI](http://banavo.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69739b2c206da320f49d8f74?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
+| **[IHC Agency](https://ihcagency.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6973999a206da320f49d8e79?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jan 23 |
+| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Digital Marketing Intern , Summer 2026 - Rock Hill, SC](https://jobright.ai/jobs/info/6973993e206da320f49d8e46?utm_campaign=1065&utm_source=git)** | Rock Hill, NY | Hybrid | Jan 23 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / University of Pittsburgh - Johnstown](https://jobright.ai/jobs/info/6973961ebc8e722e7b1862a5?utm_campaign=1065&utm_source=git)** | Johnstown, PA | On Site | Jan 23 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Proposal Intern](https://jobright.ai/jobs/info/69738f62bc8e722e7b185ff8?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
 | **[The HEINEKEN Company](http://www.theHEINEKENcompany.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6973896d206da320f49d8681?utm_campaign=1065&utm_source=git)** | White Plains, NY | Hybrid | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[YouWare](https://www.youware.com/?utm_source=linkedin-official)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6972e0b91d55d64a20534391?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 22 |
 | **[UnBound X](https://unboundx.co/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69737e4737785856350d58b2?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jan 22 |
 | **[NDM Hospitality](https://ndmhospitality.com)** | **[Marketing Internship - Island H2O Water Park](https://jobright.ai/jobs/info/6972dd590488fd59f7d5d8af?utm_campaign=1065&utm_source=git)** | Kissimmee,FL,US | On Site | Jan 22 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Brand Marketing Summer (STAR) Intern](https://jobright.ai/jobs/info/6972ff65206da320f49cf493?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
-| **[TONYMOLY USA](http://www.tonymoly.us)** | **[Spring 2026 Marketing Paid Internship](https://jobright.ai/jobs/info/6972fcb6206da320f49cf213?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jan 22 |
-| **[Meyocks](http://www.meyocks.com)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/6972da0c0488fd59f7d5d4b5?utm_campaign=1065&utm_source=git)** | West Des Moines, Iowa, United States | Hybrid | Jan 22 |
-| **[Reach Detroit](https://www.reachdet.com/)** | **[Social Content Lead](https://jobright.ai/jobs/info/6972d9181d55d64a20533a53?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
