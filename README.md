@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Event Marketing Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69748066bc8e722e7b198e20?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Jan 24 |
+| **[Pepper AI](www.pepperai.lovable.app)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/6974795a37785856350e8f99?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Wellness Communications Intern](https://jobright.ai/jobs/info/697473a3206da320f49eb2b4?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[KinKeeper AI](https://kinkeeperai.com)** | **[Content & Growth Intern](https://jobright.ai/jobs/info/6974734d206da320f49eb272?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[ITW](http://www.itw.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69745fa837785856350e77f6?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Jan 23 |
@@ -146,15 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[2026 Communications Internship](https://jobright.ai/jobs/info/6973e399bc8e722e7b18b884?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 23 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/69740570206da320f49e15e4?utm_campaign=1065&utm_source=git)** | Utica, NY | On Site | Jan 23 |
 | ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/697407f3bc8e722e7b18ebfb?utm_campaign=1065&utm_source=git)** | DeWitt, NY | On Site | Jan 23 |
-| ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/6973ff3c206da320f49e0f0c?utm_campaign=1065&utm_source=git)** | Latham, NY | On Site | Jan 23 |
-| ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/69740959bc8e722e7b18ed32?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jan 23 |
 | ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/6974089f206da320f49e1876?utm_campaign=1065&utm_source=git)** | Elmira, NY | On Site | Jan 23 |
+| ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/69740959bc8e722e7b18ed32?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jan 23 |
+| ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/6973ff3c206da320f49e0f0c?utm_campaign=1065&utm_source=git)** | Latham, NY | On Site | Jan 23 |
 | ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/697404c437785856350ded16?utm_campaign=1065&utm_source=git)** | Binghamton, NY | On Site | Jan 23 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Marketing Summer Intern](https://jobright.ai/jobs/info/6973e195bc8e722e7b18b40a?utm_campaign=1065&utm_source=git)** | Philadelphia | Hybrid | Jan 23 |
 | **[Centene Corporation](http://www.centene.com)** | **[Market Strategy Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/6973e13c206da320f49dd9eb?utm_campaign=1065&utm_source=git)** | Remote-MO | Remote | Jan 23 |
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6973dfdc37785856350db0bd?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Pheasants Forever and Quail Forever](https://pheasantsforever.org)** | **[MN Outreach Internship](https://jobright.ai/jobs/info/6974034b37785856350deb8d?utm_campaign=1065&utm_source=git)** | Willmar, MN | Hybrid | Jan 23 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6973de92206da320f49dd783?utm_campaign=1065&utm_source=git)** | SLC Metro Area | On Site | Jan 23 |
-| **[HNTB](http://www.hntb.com/)** | **[Marketing Intern- Summer 2026](https://jobright.ai/jobs/info/6973ddc4bc8e722e7b18ac29?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
-| **[Centene Corporation](http://www.centene.com)** | **[Market Strategy Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/69740069bc8e722e7b18e487?utm_campaign=1065&utm_source=git)** | Missouri, United States | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
