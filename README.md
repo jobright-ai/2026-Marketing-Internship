@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HawkRobo Systems](www.hawkrobo.com)** | **[Marketing Intern (Student / Project-Based)](https://jobright.ai/jobs/info/6975317d206da320f49f55b2?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jan 24 |
 | **[UltraTend](https://ultratend.com)** | **[Instagram Intern](https://jobright.ai/jobs/info/69751d73206da320f49f35c4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/6975168ebc8e722e7b1a0397?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Man to Man Podcast](http://mantomanpodcasts.com)** | **[Marketing + Partnerships Intern (Social First)](https://jobright.ai/jobs/info/6975136f206da320f49f2f77?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[VertoTech](vertotech.us)** | **[Media Strategy and Analytics Intern](https://jobright.ai/jobs/info/6974d2c4bc8e722e7b19d8ba?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | On Site | Jan 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Pipeline & Portfolio Market Planning Intern](https://jobright.ai/jobs/info/693c731249a7695fbd033930?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
 | **[HDR](http://www.hdrinc.com)** | **[Water Marketing Intern](https://jobright.ai/jobs/info/68e5700c1852e62f0080ff9f?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Jan 24 |
-| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Constituent and Media Services](https://jobright.ai/jobs/info/6974ac65206da320f49ee232?utm_campaign=1065&utm_source=git)** | Chesterfield, VA | Hybrid | Jan 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Fashion) - 2026 Start (MBA)](https://jobright.ai/jobs/info/691fba0809cc522e87744cd6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e74b58e8daec61499b4145?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693c6e65aa598a08c3ed4e48?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
