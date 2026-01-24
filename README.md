@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Subscriber Growth & Monetization Intern, Summer 2026](https://jobright.ai/jobs/info/6974bfd637785856350ed727?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Jan 24 |
+| **[State of Missouri](http://mo.gov)** | **[Summer Communications Intern - St. Louis District](https://jobright.ai/jobs/info/695870e29f1b381eb2715ea9?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Jan 24 |
+| **[Huntsman Corporation](https://www.huntsman.com)** | **[The Woodlands, Texas Summer 2026 Communications Internship Program](https://jobright.ai/jobs/info/691f893909cc522e877429eb?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | On Site | Jan 24 |
+| **[Drive IT](https://drivenash.com)** | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/6974b732206da320f49ee408?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jan 24 |
+| **[PIM Brands](https://pimbrands.com)** | **[Social/Digital Content Intern](https://jobright.ai/jobs/info/68e7222b1852e62f008228e3?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 24 |
+| **[Drive IT](https://drivenash.com)** | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/6974b4ac206da320f49ee3bb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
+| **[American Century Investments](https://www.americancentury.com)** | **[Avantis Intern](https://jobright.ai/jobs/info/692d1f2ffa28370be269c07c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cbfc937342c7623ae5cf0c?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Jan 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/693c680e49a7695fbd033379?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
 | **[Pronghorn](https://www.pronghorn.co/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6940e66a49a7695fbd066904?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Jan 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e78d0ade7ec24c9893d240?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Global Communication Internship - Summer 2026](https://jobright.ai/jobs/info/697403ca37785856350dec04?utm_campaign=1065&utm_source=git)** | USA - NJ - Camden | Hybrid | Jan 23 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Specialist (San Diego)](https://jobright.ai/jobs/info/69740216206da320f49e1222?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Hybrid | Jan 23 |
 | **[Foundation Management & Pro-Productions, Inc.](https://www.fmpproductions.com/)** | **[Spring Sports Marketing & Events Intern](https://jobright.ai/jobs/info/6974008e37785856350de8b9?utm_campaign=1065&utm_source=git)** | Greater Boston | On Site | Jan 23 |
-| **[maslansky + partners](https://maslansky.com)** | **[Language Strategy Intern](https://jobright.ai/jobs/info/6973fd2a37785856350de5e1?utm_campaign=1065&utm_source=git)** | New York | Hybrid | Jan 23 |
-| **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6973fd0a206da320f49e0d4e?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jan 23 |
-| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Marketing, Communications](https://jobright.ai/jobs/info/6973fc1fbc8e722e7b18e0db?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, Event Coordinator Intern (4 Months)](https://jobright.ai/jobs/info/6973fa7c206da320f49e07dc?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Jan 23 |
-| **[maslansky + partners](https://maslansky.com)** | **[Language Strategy Intern](https://jobright.ai/jobs/info/69741691bc8e722e7b18f5bd?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
-| **[Aura Labs](https://www.auralabs.capital/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69741449bc8e722e7b18f479?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Jan 23 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Subscriber Growth & Monetization Intern, Summer 2026](https://jobright.ai/jobs/info/6973f74337785856350dd7f1?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, USA | Hybrid | Jan 23 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Specialist (San Diego)](https://jobright.ai/jobs/info/69741291bc8e722e7b18f2f6?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
