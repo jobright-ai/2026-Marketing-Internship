@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UltraTend](https://ultratend.com)** | **[Instagram Intern](https://jobright.ai/jobs/info/69751d73206da320f49f35c4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/6975168ebc8e722e7b1a0397?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Man to Man Podcast](http://mantomanpodcasts.com)** | **[Marketing + Partnerships Intern (Social First)](https://jobright.ai/jobs/info/6975136f206da320f49f2f77?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[New England Recruiting Report](www.newenglandrecruitingreport.com)** | **[Girls Hoop Series Basketball Operations Intern](https://jobright.ai/jobs/info/6975127f37785856350f08af?utm_campaign=1065&utm_source=git)** | Rochester, New York Metropolitan Area | Hybrid | Jan 24 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Remote Marketing Intern (February 2026)](https://jobright.ai/jobs/info/69750efdbc8e722e7b1a008e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Hulu Talent & Influencer Partnerships Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69741f0abc8e722e7b1913c6?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 23 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69741dba206da320f49e3ef7?utm_campaign=1065&utm_source=git)** | 1381 Old Mill Circle Suite 200 | On Site | Jan 23 |
 | **[Backwoods Life®](http://www.backwoodslife.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69743d6737785856350e370e?utm_campaign=1065&utm_source=git)** | Hahira, GA | Hybrid | Jan 23 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Member Communications Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6974414937785856350e3a21?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 23 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC10 Telemundo62 Brand & Strategic Marketing Intern, Philadelphia - Summer 2026](https://jobright.ai/jobs/info/697417f7206da320f49e3b08?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/697417f2206da320f49e3b05?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 23 |
-| ↳ | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/697417d5206da320f49e3af8?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
