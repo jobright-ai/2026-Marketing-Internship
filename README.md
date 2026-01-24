@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stanley Martin Homes](http://stanleymartin.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6975356a37785856350f3027?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Jan 24 |
 | **[HawkRobo Systems](www.hawkrobo.com)** | **[Marketing Intern (Student / Project-Based)](https://jobright.ai/jobs/info/6975317d206da320f49f55b2?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jan 24 |
 | **[UltraTend](https://ultratend.com)** | **[Instagram Intern](https://jobright.ai/jobs/info/69751d73206da320f49f35c4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/6975168ebc8e722e7b1a0397?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
@@ -132,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Entrepreneur Engagement, Marketing Student](https://jobright.ai/jobs/info/69745de737785856350e7695?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 23 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6974604dbc8e722e7b19731c?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Jan 23 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69743b1037785856350e3588?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 23 |
-| **[Aspen Fiber Networks](https://aspenfibernetworks.com/)** | **[Marketing Specialist Intern (Part-Time)](https://jobright.ai/jobs/info/69746153bc8e722e7b1973f5?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 23 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/697435f3206da320f49e5618?utm_campaign=1065&utm_source=git)** | McLean, VA | Hybrid | Jan 23 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Copywriter Intern (Summer)](https://jobright.ai/jobs/info/697434fa206da320f49e553d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
 | **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, Event Coordinator Intern (4 Months)](https://jobright.ai/jobs/info/6974531937785856350e6674?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 23 |
