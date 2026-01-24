@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Man to Man Podcast](http://mantomanpodcasts.com)** | **[Marketing + Partnerships Intern (Social First)](https://jobright.ai/jobs/info/6975136f206da320f49f2f77?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
+| **[New England Recruiting Report](www.newenglandrecruitingreport.com)** | **[Girls Hoop Series Basketball Operations Intern](https://jobright.ai/jobs/info/6975127f37785856350f08af?utm_campaign=1065&utm_source=git)** | Rochester, New York Metropolitan Area | Hybrid | Jan 24 |
+| **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Remote Marketing Intern (February 2026)](https://jobright.ai/jobs/info/69750efdbc8e722e7b1a008e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
+| **[Camron](http://camronpr.com/)** | **[Intern](https://jobright.ai/jobs/info/69750a0537785856350f07d2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
 | **[WOM (Word of Mouth)](http://nomwithwom.com)** | **[UCLA Spring Marketing Intern](https://jobright.ai/jobs/info/69750761206da320f49f2e3f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS -USF Youth Experiences Social Media Intern](https://jobright.ai/jobs/info/6975060f206da320f49f2dd5?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Jan 24 |
 | **[The Insights Partnership, LLC](www.insightspartnership.com)** | **[Summer Intern - 2026](https://jobright.ai/jobs/info/6974fecd37785856350f0659?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 24 |
@@ -114,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Pepper AI](www.pepperai.lovable.app)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/6974795a37785856350e8f99?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Wellness Communications Intern](https://jobright.ai/jobs/info/697473a3206da320f49eb2b4?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[KinKeeper AI](https://kinkeeperai.com)** | **[Content & Growth Intern](https://jobright.ai/jobs/info/6974734d206da320f49eb272?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
-| **[GRETA](https://greta.questera.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6974c9ce206da320f49f0182?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[ITW](http://www.itw.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69745fa837785856350e77f6?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Jan 23 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Digital Paid Media Intern](https://jobright.ai/jobs/info/6941c78f14ee092a69ffdeb4?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 23 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Communications Internship, Brookings Metro (Job ID 2026-3807)](https://jobright.ai/jobs/info/69746efa206da320f49ead24?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC10 Telemundo62 Brand & Strategic Marketing Intern, Philadelphia - Summer 2026](https://jobright.ai/jobs/info/697417f7206da320f49e3b08?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/697417f2206da320f49e3b05?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 23 |
 | ↳ | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/697417d5206da320f49e3af8?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 23 |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC10 Telemundo62 Brand & Strategic Marketing Intern, Philadelphia - Summer 2026](https://jobright.ai/jobs/info/697435a037785856350e2e9b?utm_campaign=1065&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
-| **[Felix Construction Company](https://www.felixconstruction.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697437c6bc8e722e7b192b8c?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jan 23 |
-| **[United Way of the Midlands](http://www.unitedwaymidlands.org)** | **[Development Intern](https://jobright.ai/jobs/info/697490cc206da320f49ed9fc?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
