@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ONEBIT](https://onebitapp.com/)** | **[Video and Digital Marketing Intern](https://jobright.ai/jobs/info/6974e6d0bc8e722e7b19e1d4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Marketing (12-month) - Milton, ON Canada](https://jobright.ai/jobs/info/6974e699206da320f49f0f7d?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | Jan 24 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Media Planning Intern](https://jobright.ai/jobs/info/6974e691206da320f49f0f7b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
+| **[MADE Hoops](https://www.madehoops.com/)** | **[White Label Event Intern](https://jobright.ai/jobs/info/6974e02bbc8e722e7b19df98?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Social Media Summer Intern](https://jobright.ai/jobs/info/693ce73c49a7695fbd0393a1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/693caf4baa598a08c3ed8e00?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/693c934949a7695fbd034fed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -66,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing](https://jobright.ai/jobs/info/6961dd00a112b40266106130?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Jan 24 |
 | ↳ | **[Intern, Upstream Marketing - Surgical](https://jobright.ai/jobs/info/69610049a112b402660f888f?utm_campaign=1065&utm_source=git)** | Louisville, CO | On Site | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Subscriber Growth & Monetization Intern, Summer 2026](https://jobright.ai/jobs/info/6974bfd637785856350ed727?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Jan 24 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Product Marketing Engineer](https://jobright.ai/jobs/info/693cccd2aa598a08c3ed9b85?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Communications Intern - St. Louis District](https://jobright.ai/jobs/info/695870e29f1b381eb2715ea9?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Jan 24 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[The Woodlands, Texas Summer 2026 Communications Internship Program](https://jobright.ai/jobs/info/691f893909cc522e877429eb?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | On Site | Jan 24 |
 | **[Drive IT](https://drivenash.com)** | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/6974b732206da320f49ee408?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jan 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Greater Regional Health](https://www.greaterregional.org)** | **[PR/Marketing Intern](https://jobright.ai/jobs/info/69742fb037785856350e2a18?utm_campaign=1065&utm_source=git)** | Creston, Iowa, United States | On Site | Jan 23 |
 | **[BeautyFix MedSpa](https://www.beautyfixmedspa.com)** | **[Marketing Internship (Unpaid/College Credit)](https://jobright.ai/jobs/info/69742ea9bc8e722e7b192511?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Wellness Communications Intern](https://jobright.ai/jobs/info/69742cfa37785856350e26db?utm_campaign=1065&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
-| **[Superday AI](https://superdayai.com)** | **[Campus Ambassador (Investment Banking/Finance)](https://jobright.ai/jobs/info/69740e73206da320f49e1c31?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
-| **[KENT WORLDWIDE](https://kentww.com)** | **[ASSOCIATE BRAND MANAGER INTERN](https://jobright.ai/jobs/info/69742b85206da320f49e4d8b?utm_campaign=1065&utm_source=git)** | Muscatine, Iowa, United States | On Site | Jan 23 |
-| **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Parks and Recreation Farmers Market Intern](https://jobright.ai/jobs/info/69743019bc8e722e7b1926b1?utm_campaign=1065&utm_source=git)** | Westfield, IN | On Site | Jan 23 |
-| **[Bio-Techne](https://www.bio-techne.com)** | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/69742927bc8e722e7b191e5d?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jan 23 |
-| ↳ | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/69742c7f206da320f49e4eaa?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
