@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Wellness Communications Intern](https://jobright.ai/jobs/info/697473a3206da320f49eb2b4?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
+| **[KinKeeper AI](https://kinkeeperai.com)** | **[Content & Growth Intern](https://jobright.ai/jobs/info/6974734d206da320f49eb272?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[ITW](http://www.itw.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69745fa837785856350e77f6?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Jan 23 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Digital Paid Media Intern](https://jobright.ai/jobs/info/6941c78f14ee092a69ffdeb4?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 23 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Communications Internship, Brookings Metro (Job ID 2026-3807)](https://jobright.ai/jobs/info/69746efa206da320f49ead24?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[maslansky + partners](https://maslansky.com)** | **[Language Strategy Intern](https://jobright.ai/jobs/info/69745129bc8e722e7b196055?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jan 23 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Global Communication Internship - Summer 2026](https://jobright.ai/jobs/info/69744d20206da320f49e711d?utm_campaign=1065&utm_source=git)** | Camden, NJ | Hybrid | Jan 23 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Copywriting / Public Relations/Social Media (Intern)](https://jobright.ai/jobs/info/69744c0b206da320f49e7089?utm_campaign=1065&utm_source=git)** | New York County, NY | Remote | Jan 23 |
+| **[Greater Regional Health](https://www.greaterregional.org)** | **[PR/Marketing Intern](https://jobright.ai/jobs/info/69746ded37785856350e8551?utm_campaign=1065&utm_source=git)** | Creston, IA | On Site | Jan 23 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/69744a6dbc8e722e7b194429?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 23 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[National Research, Strategic Partnerships & Digital Summer Intern](https://jobright.ai/jobs/info/6974439a206da320f49e6773?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[ENDevo, Inc](https://www.endevo.life)** | **[Agentic Systems Engineer - Marketing Intern](https://jobright.ai/jobs/info/6974627f206da320f49ea07e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
@@ -142,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[2026 Communications Internship](https://jobright.ai/jobs/info/6973e399bc8e722e7b18b884?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 23 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/69740570206da320f49e15e4?utm_campaign=1065&utm_source=git)** | Utica, NY | On Site | Jan 23 |
 | ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/697407f3bc8e722e7b18ebfb?utm_campaign=1065&utm_source=git)** | DeWitt, NY | On Site | Jan 23 |
-| ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/69740959bc8e722e7b18ed32?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jan 23 |
 | ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/6973ff3c206da320f49e0f0c?utm_campaign=1065&utm_source=git)** | Latham, NY | On Site | Jan 23 |
+| ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/69740959bc8e722e7b18ed32?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jan 23 |
 | ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/6974089f206da320f49e1876?utm_campaign=1065&utm_source=git)** | Elmira, NY | On Site | Jan 23 |
 | ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/697404c437785856350ded16?utm_campaign=1065&utm_source=git)** | Binghamton, NY | On Site | Jan 23 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Marketing Summer Intern](https://jobright.ai/jobs/info/6973e195bc8e722e7b18b40a?utm_campaign=1065&utm_source=git)** | Philadelphia | Hybrid | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6973de92206da320f49dd783?utm_campaign=1065&utm_source=git)** | SLC Metro Area | On Site | Jan 23 |
 | **[HNTB](http://www.hntb.com/)** | **[Marketing Intern- Summer 2026](https://jobright.ai/jobs/info/6973ddc4bc8e722e7b18ac29?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
 | **[Centene Corporation](http://www.centene.com)** | **[Market Strategy Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/69740069bc8e722e7b18e487?utm_campaign=1065&utm_source=git)** | Missouri, United States | Remote | Jan 23 |
-| **[Million Dollar Baby Co. (Babyletto, Namesake, daVinci, Monogram, & Nursery Works)](https://www.milliondollarbabyco.com)** | **[Internship - Social Media and Community Engagement](https://jobright.ai/jobs/info/6973fe9c206da320f49e0e78?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 23 |
-| **[Fraser](https://www.fraser.org)** | **[Marketing Internship](https://jobright.ai/jobs/info/6973fe9937785856350de6e4?utm_campaign=1065&utm_source=git)** | Richfield, MN | On Site | Jan 23 |
-| **[Arizona Small Business Association - ASBA](https://www.asba.com)** | **[Intern](https://jobright.ai/jobs/info/6973d8d8206da320f49dd352?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jan 23 |
-| **[American Lending Center Holdings Inc.](http://usa-rc.com/)** | **[Marketing Intern- Bilingual (Chinese & English)](https://jobright.ai/jobs/info/6969c9aff25a3800669885dc?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
