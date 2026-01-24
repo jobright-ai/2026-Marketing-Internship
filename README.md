@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Jan 24 |
+| **[General Mills](http://www.generalmills.com)** | **[Internship - Associate Brand Manager](https://jobright.ai/jobs/info/68cbc26defdec76df36c1eef?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 24 |
 | **[Headfirst Summer Camps](https://www.headfirst.com/join/summer-camps/)** | **[Digital Marketing, Blogging & Social Media Intern - FH](https://jobright.ai/jobs/info/697494a437785856350eb42f?utm_campaign=1065&utm_source=git)** | Oakton, VA | On Site | Jan 24 |
 | ↳ | **[Digital Marketing, Blogging & Social Media Intern - MD](https://jobright.ai/jobs/info/69749444bc8e722e7b19adef?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jan 24 |
 | **[DentalScan](https://www.replyquick.ai/dentalscan)** | **[Investor Relations + Operations Intern (Hybrid, Sarasota)](https://jobright.ai/jobs/info/6974902e206da320f49ed7b3?utm_campaign=1065&utm_source=git)** | Sarasota, FL | Hybrid | Jan 24 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Wright's Resumes and Connections](https://www.wrightsresumes.com)** | **[Marketing Video Editor Intern (Remote) - Unpaid](https://jobright.ai/jobs/info/697409f5206da320f49e19e7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/69740570206da320f49e15e4?utm_campaign=1065&utm_source=git)** | Utica, NY | On Site | Jan 23 |
 | ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/697407f3bc8e722e7b18ebfb?utm_campaign=1065&utm_source=git)** | DeWitt, NY | On Site | Jan 23 |
-| ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/69740959bc8e722e7b18ed32?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jan 23 |
 | ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/6974089f206da320f49e1876?utm_campaign=1065&utm_source=git)** | Elmira, NY | On Site | Jan 23 |
+| ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/69740959bc8e722e7b18ed32?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jan 23 |
 | ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/6973ff3c206da320f49e0f0c?utm_campaign=1065&utm_source=git)** | Latham, NY | On Site | Jan 23 |
-| ↳ | **[College Intern I - Spring 2026 - Business Engagement](https://jobright.ai/jobs/info/697404c437785856350ded16?utm_campaign=1065&utm_source=git)** | Binghamton, NY | On Site | Jan 23 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Marketing Summer Intern](https://jobright.ai/jobs/info/6973e195bc8e722e7b18b40a?utm_campaign=1065&utm_source=git)** | Philadelphia | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
