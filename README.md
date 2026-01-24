@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/693caf4baa598a08c3ed8e00?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Jan 24 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/693c934949a7695fbd034fed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Performance Marketing Intern, Digital Content (May to August)](https://jobright.ai/jobs/info/68cd6031e23def7af55b934c?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Jan 24 |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing - Skeletal Health](https://jobright.ai/jobs/info/695e22a52847344df473a35e?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Jan 24 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/68cc632016d00d2beeb1eb7d?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing](https://jobright.ai/jobs/info/6961dd00a112b40266106130?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Jan 24 |
+| ↳ | **[Intern, Upstream Marketing - Surgical](https://jobright.ai/jobs/info/69610049a112b402660f888f?utm_campaign=1065&utm_source=git)** | Louisville, CO | On Site | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Subscriber Growth & Monetization Intern, Summer 2026](https://jobright.ai/jobs/info/6974bfd637785856350ed727?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Jan 24 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Communications Intern - St. Louis District](https://jobright.ai/jobs/info/695870e29f1b381eb2715ea9?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Jan 24 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[The Woodlands, Texas Summer 2026 Communications Internship Program](https://jobright.ai/jobs/info/691f893909cc522e877429eb?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | On Site | Jan 24 |
@@ -143,18 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Superday AI](https://superdayai.com)** | **[Campus Ambassador (Investment Banking/Finance)](https://jobright.ai/jobs/info/69740e73206da320f49e1c31?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[KENT WORLDWIDE](https://kentww.com)** | **[ASSOCIATE BRAND MANAGER INTERN](https://jobright.ai/jobs/info/69742b85206da320f49e4d8b?utm_campaign=1065&utm_source=git)** | Muscatine, Iowa, United States | On Site | Jan 23 |
 | **[City of Westfield, Indiana](https://www.westfieldin.gov)** | **[Parks and Recreation Farmers Market Intern](https://jobright.ai/jobs/info/69743019bc8e722e7b1926b1?utm_campaign=1065&utm_source=git)** | Westfield, IN | On Site | Jan 23 |
-| **[Bio-Techne](https://www.bio-techne.com)** | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/69742927bc8e722e7b191e5d?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jan 23 |
-| ↳ | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/69742c7f206da320f49e4eaa?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
+| **[Bio-Techne](https://www.bio-techne.com)** | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/69742c7f206da320f49e4eaa?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
+| ↳ | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/69742927bc8e722e7b191e5d?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jan 23 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69742909bc8e722e7b191e49?utm_campaign=1065&utm_source=git)** | Richardson, TX, US | On Site | Jan 23 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[National Research, Strategic Partnerships & Digital Summer Intern](https://jobright.ai/jobs/info/69740c0f206da320f49e1b0a?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Jan 23 |
 | **[KENT® Precision Foods Group](http://precisionfoods.com)** | **[MARKETING INTERN, PET](https://jobright.ai/jobs/info/697428a5206da320f49e4a9d?utm_campaign=1065&utm_source=git)** | Muscatine, Iowa, United States | On Site | Jan 23 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/69742fbc206da320f49e522b?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[National Research, Strategic Partnerships & Digital Summer Intern](https://jobright.ai/jobs/info/69740aee37785856350df23f?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Jan 23 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69740922bc8e722e7b18ecfb?utm_campaign=1065&utm_source=git)** | Administrative Offices - 601 Broadway, Denver, CO 80203 | On Site | Jan 23 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/697408e8bc8e722e7b18ecb7?utm_campaign=1065&utm_source=git)** | United States of America, McLean, Virginia | Hybrid | Jan 23 |
-| **[Leggett Ventures](https://leggettventures.com)** | **[Leggett Ventures Internship](https://jobright.ai/jobs/info/69742ef3206da320f49e5163?utm_campaign=1065&utm_source=git)** | Greater Houston | On Site | Jan 23 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Copywriter Intern (Summer)](https://jobright.ai/jobs/info/69740756206da320f49e176d?utm_campaign=1065&utm_source=git)** | Los Angeles | Hybrid | Jan 23 |
-| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Global Communication Internship - Summer 2026](https://jobright.ai/jobs/info/697403ca37785856350dec04?utm_campaign=1065&utm_source=git)** | USA - NJ - Camden | Hybrid | Jan 23 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Specialist (San Diego)](https://jobright.ai/jobs/info/69740216206da320f49e1222?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Hybrid | Jan 23 |
-| **[Foundation Management & Pro-Productions, Inc.](https://www.fmpproductions.com/)** | **[Spring Sports Marketing & Events Intern](https://jobright.ai/jobs/info/6974008e37785856350de8b9?utm_campaign=1065&utm_source=git)** | Greater Boston | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
