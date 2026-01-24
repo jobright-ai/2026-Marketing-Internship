@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WOM (Word of Mouth)](http://nomwithwom.com)** | **[UCLA Spring Marketing Intern](https://jobright.ai/jobs/info/69750761206da320f49f2e3f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS -USF Youth Experiences Social Media Intern](https://jobright.ai/jobs/info/6975060f206da320f49f2dd5?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Jan 24 |
+| **[The Insights Partnership, LLC](www.insightspartnership.com)** | **[Summer Intern - 2026](https://jobright.ai/jobs/info/6974fecd37785856350f0659?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 24 |
 | **[ONEBIT](https://onebitapp.com/)** | **[Video and Digital Marketing Intern](https://jobright.ai/jobs/info/6974e6d0bc8e722e7b19e1d4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Marketing (12-month) - Milton, ON Canada](https://jobright.ai/jobs/info/6974e699206da320f49f0f7d?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | Jan 24 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Media Planning Intern](https://jobright.ai/jobs/info/6974e691206da320f49f0f7b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -121,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Greater Regional Health](https://www.greaterregional.org)** | **[PR/Marketing Intern](https://jobright.ai/jobs/info/69746ded37785856350e8551?utm_campaign=1065&utm_source=git)** | Creston, IA | On Site | Jan 23 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/69744a6dbc8e722e7b194429?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 23 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[National Research, Strategic Partnerships & Digital Summer Intern](https://jobright.ai/jobs/info/6974439a206da320f49e6773?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| **[ENDevo, Inc](https://www.endevo.life)** | **[Agentic Systems Engineer - Marketing Intern](https://jobright.ai/jobs/info/6974627f206da320f49ea07e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Entrepreneur Engagement, Marketing Student](https://jobright.ai/jobs/info/69745de737785856350e7695?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 23 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6974604dbc8e722e7b19731c?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Jan 23 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69743b1037785856350e3588?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC10 Telemundo62 Brand & Strategic Marketing Intern, Philadelphia - Summer 2026](https://jobright.ai/jobs/info/697435a037785856350e2e9b?utm_campaign=1065&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 23 |
 | **[Felix Construction Company](https://www.felixconstruction.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697437c6bc8e722e7b192b8c?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jan 23 |
 | **[United Way of the Midlands](http://www.unitedwaymidlands.org)** | **[Development Intern](https://jobright.ai/jobs/info/697490cc206da320f49ed9fc?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Jan 23 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Marketing Summer Intern](https://jobright.ai/jobs/info/69743299206da320f49e5378?utm_campaign=1065&utm_source=git)** | Iselin, NJ | Hybrid | Jan 23 |
-| **[Greater Regional Health](https://www.greaterregional.org)** | **[PR/Marketing Intern](https://jobright.ai/jobs/info/69742fb037785856350e2a18?utm_campaign=1065&utm_source=git)** | Creston, Iowa, United States | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
