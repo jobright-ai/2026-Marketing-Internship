@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HNTB](http://www.hntb.com/)** | **[Communications & Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/69754bd837785856350f32ef?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
+| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6975468fbc8e722e7b1a29a0?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 24 |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/697545efbc8e722e7b1a296e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 24 |
 | **[Stanley Martin Homes](http://stanleymartin.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6975356a37785856350f3027?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Jan 24 |
 | **[HawkRobo Systems](www.hawkrobo.com)** | **[Marketing Intern (Student / Project-Based)](https://jobright.ai/jobs/info/6975317d206da320f49f55b2?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jan 24 |
+| **[Worth AI](https://worthai.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69754b1f206da320f49f5920?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[UltraTend](https://ultratend.com)** | **[Instagram Intern](https://jobright.ai/jobs/info/69751d73206da320f49f35c4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/6975168ebc8e722e7b1a0397?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Man to Man Podcast](http://mantomanpodcasts.com)** | **[Marketing + Partnerships Intern (Social First)](https://jobright.ai/jobs/info/6975136f206da320f49f2f77?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/69741fa337785856350e18de?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 23 |
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Summer 2026 Marketing & Communications Intern](https://jobright.ai/jobs/info/69741f4a37785856350e186b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Hulu Talent & Influencer Partnerships Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69741f0abc8e722e7b1913c6?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 23 |
-| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69741dba206da320f49e3ef7?utm_campaign=1065&utm_source=git)** | 1381 Old Mill Circle Suite 200 | On Site | Jan 23 |
-| **[Backwoods Life®](http://www.backwoodslife.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69743d6737785856350e370e?utm_campaign=1065&utm_source=git)** | Hahira, GA | Hybrid | Jan 23 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC10 Telemundo62 Brand & Strategic Marketing Intern, Philadelphia - Summer 2026](https://jobright.ai/jobs/info/697417f7206da320f49e3b08?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
-| **[Bio-Techne](https://www.bio-techne.com)** | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/697417f2206da320f49e3b05?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
