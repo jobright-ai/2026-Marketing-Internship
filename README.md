@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Insights Intern, Summer 2026](https://jobright.ai/jobs/info/6975da91206da320f49fe07a?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/6975cf4f37785856350fa5ed?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 25 |
-| **[Wenspire](https://wenspire.app/)** | **[Intern, Growth and Strategy](https://jobright.ai/jobs/info/6975b96337785856350f9c71?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Paid Media Intern, Summer 2026](https://jobright.ai/jobs/info/6975ae2e37785856350f94d1?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Jan 24 |
 | ↳ | **[Growth Marketing Platforms Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6975ad8e206da320f49fb9bb?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Jan 24 |
 | **[Argyros Performing Arts Center](https://theargyros.org/)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6975a8b6bc8e722e7b1a8909?utm_campaign=1065&utm_source=git)** | Ketchum, ID | On Site | Jan 24 |
 | **[Worth AI](https://worthai.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69759be6bc8e722e7b1a61ed?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
-| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69759b6337785856350f6be4?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 24 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69759382206da320f49f8a1f?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Jan 24 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Corporate & Foundation Relations (Summer 2026)](https://jobright.ai/jobs/info/697579c0206da320f49f7d4d?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
 | ↳ | **[Intern, Audience Development (Summer 2026)](https://jobright.ai/jobs/info/697579a6bc8e722e7b1a4d31?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Corporate Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69742ada37785856350e2481?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742a0937785856350e23b4?utm_campaign=1065&utm_source=git)** | US-NC-Winston Salem | On Site | Jan 23 |
 | ↳ | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/697428e9bc8e722e7b191e2d?utm_campaign=1065&utm_source=git)** | Winston Salem, NC, US | On Site | Jan 23 |
+| **[KENT WORLDWIDE](https://kentww.com)** | **[MARKETING INTERN, PET](https://jobright.ai/jobs/info/6974260637785856350e202b?utm_campaign=1065&utm_source=git)** | Muscatine, Iowa, United States | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
