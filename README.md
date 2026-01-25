@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68fcca43e04ac838fb5acb44?utm_campaign=1065&utm_source=git)** | Wayne, PA | On Site | Jan 25 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Hulu Talent & Influencer Partnerships Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69760817206da320f49feac3?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 25 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Summer 2026 - Aerospace Group Communications Intern](https://jobright.ai/jobs/info/69219c71d1ec2c3565c454a0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jan 25 |
+| **[Avantis Investors](https://www.avantisinvestors.com/)** | **[Avantis Intern](https://jobright.ai/jobs/info/69071d83122e8474c78e2ba1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
 | **[Metropolitan Golf Association (MGA)](https://www.mgagolf.org)** | **[USGA P.J. Boatwright Internship 2026 - Communications](https://jobright.ai/jobs/info/695842f09f1b381eb27131cb?utm_campaign=1065&utm_source=git)** | Elmsford, NY | On Site | Jan 25 |
 | **[Genmab](https://www.genmab.com)** | **[Omnichannel Marketing Strategy Intern](https://jobright.ai/jobs/info/692104bd3f782d2f1afce584?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Jan 25 |
 | **[The Marzetti Company](http://www.marzetticompany.com)** | **[MBA Retail Brand Management Internship - Summer 2026](https://jobright.ai/jobs/info/6920f1e800c9ee50eaec9bc8?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 25 |
@@ -93,11 +97,11 @@ For a complete list, click the following sortable link below:
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Media Planning Intern](https://jobright.ai/jobs/info/6974e691206da320f49f0f7b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[MADE Hoops](https://www.madehoops.com/)** | **[White Label Event Intern](https://jobright.ai/jobs/info/6974e02bbc8e722e7b19df98?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Social Media Summer Intern](https://jobright.ai/jobs/info/693ce73c49a7695fbd0393a1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/693caf4baa598a08c3ed8e00?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Jan 24 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/693caf4baa598a08c3ed8e00?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/693c934949a7695fbd034fed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Performance Marketing Intern, Digital Content (May to August)](https://jobright.ai/jobs/info/68cd6031e23def7af55b934c?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Jan 24 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing - Skeletal Health](https://jobright.ai/jobs/info/695e22a52847344df473a35e?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Jan 24 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/68cc632016d00d2beeb1eb7d?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/68cc632016d00d2beeb1eb7d?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing](https://jobright.ai/jobs/info/6961dd00a112b40266106130?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Jan 24 |
 | ↳ | **[Intern, Upstream Marketing - Surgical](https://jobright.ai/jobs/info/69610049a112b402660f888f?utm_campaign=1065&utm_source=git)** | Louisville, CO | On Site | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Subscriber Growth & Monetization Intern, Summer 2026](https://jobright.ai/jobs/info/6974bfd637785856350ed727?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Jan 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/697435f3206da320f49e5618?utm_campaign=1065&utm_source=git)** | McLean, VA | Hybrid | Jan 23 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Copywriter Intern (Summer)](https://jobright.ai/jobs/info/697434fa206da320f49e553d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
 | **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, Event Coordinator Intern (4 Months)](https://jobright.ai/jobs/info/6974531937785856350e6674?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 23 |
-| **[Peninsula Open Space Trust (POST)](https://openspacetrust.org)** | **[Community Engagement & Marketing Intern](https://jobright.ai/jobs/info/697589f2206da320f49f8568?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Jan 23 |
-| **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69743313bc8e722e7b192899?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
-| **[Kindred Curiosity](kindredcuriosity.com)** | **[Social Media Associate (Intern)](https://jobright.ai/jobs/info/697430ca206da320f49e529b?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 23 |
-| **[Lloyd Companies](http://lloydcompanies.com)** | **[Property Management Marketing and Sales Intern](https://jobright.ai/jobs/info/697430c4bc8e722e7b192772?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
