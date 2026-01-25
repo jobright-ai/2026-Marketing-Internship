@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wenspire](https://wenspire.app/)** | **[Intern, Growth and Strategy](https://jobright.ai/jobs/info/6975b96337785856350f9c71?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Paid Media Intern, Summer 2026](https://jobright.ai/jobs/info/6975ae2e37785856350f94d1?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Jan 24 |
 | ↳ | **[Growth Marketing Platforms Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6975ad8e206da320f49fb9bb?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Jan 24 |
 | **[Argyros Performing Arts Center](https://theargyros.org/)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6975a8b6bc8e722e7b1a8909?utm_campaign=1065&utm_source=git)** | Ketchum, ID | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lloyd Companies](http://lloydcompanies.com)** | **[Property Management Marketing and Sales Intern](https://jobright.ai/jobs/info/697430c4bc8e722e7b192772?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Jan 23 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742fba37785856350e2a25?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Jan 23 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Advertising Intern - Furman University](https://jobright.ai/jobs/info/69742ddebc8e722e7b19240d?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Jan 23 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Marketing Startup Social Media Internship Spring (Unpaid)](https://jobright.ai/jobs/info/69742d7c206da320f49e4fcc?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
