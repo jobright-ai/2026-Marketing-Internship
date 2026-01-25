@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697648eebc8e722e7b1af88c?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 25 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6976417fbc8e722e7b1adf9b?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Jan 25 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Commercial Leader Program  Therapeutics MBA Internship](https://jobright.ai/jobs/info/69763e4b206da320f4a01083?utm_campaign=1065&utm_source=git)** | Mettawa, IL | On Site | Jan 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69763b06bc8e722e7b1adef7?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69762dcd37785856350feae7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 25 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69762dc537785856350feae6?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 25 |
@@ -78,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/6903e34cff462851feff03db?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Jan 25 |
 | **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Jan 25 |
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696ff66682817106e977057a?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | Hybrid | Jan 25 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
-| ↳ | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| ↳ | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - GTM Strategy & Ops](https://jobright.ai/jobs/info/68e746c81852e62f00823f01?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Insights Intern, Summer 2026](https://jobright.ai/jobs/info/6975da91206da320f49fe07a?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/6975cf4f37785856350fa5ed?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 25 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Stanley Martin Homes](http://stanleymartin.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6975356a37785856350f3027?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Jan 24 |
 | **[Coursini.ai](https://courses.restaurantindustryacademy.com/pages/coursini-concierge-landing)** | **[Intern for TalkingCV.ai](https://jobright.ai/jobs/info/69754d9c37785856350f3317?utm_campaign=1065&utm_source=git)** | Peachtree Corners, GA | Remote | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Communications & Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/69754bd837785856350f32ef?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/697545efbc8e722e7b1a296e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 24 |
 | **[HawkRobo Systems](www.hawkrobo.com)** | **[Marketing Intern (Student / Project-Based)](https://jobright.ai/jobs/info/6975317d206da320f49f55b2?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jan 24 |
 | **[Worth AI](https://worthai.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69754b1f206da320f49f5920?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[New England Recruiting Report](www.newenglandrecruitingreport.com)** | **[Girls Hoop Series Basketball Operations Intern](https://jobright.ai/jobs/info/6975127f37785856350f08af?utm_campaign=1065&utm_source=git)** | Rochester, New York Metropolitan Area | Hybrid | Jan 24 |
@@ -140,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693c6e65aa598a08c3ed4e48?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
 | **[Miltenyi Biotec](http://www.miltenyibiotec.com)** | **[Intern - Marketing *PC 913](https://jobright.ai/jobs/info/691bc65b15b4156367192a8c?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jan 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c74f149a7695fbd033a51?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
-| **[Aesculap (US)](https://www.aesculapimplantsystems.com)** | **[Commercial Strategy and Marketing Intern](https://jobright.ai/jobs/info/6966042f5ad3a93f82316df5?utm_campaign=1065&utm_source=git)** | Center Valley, PA | Hybrid | Jan 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/696844441703f05405a9f720?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Jan 24 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Associate Brand Manager](https://jobright.ai/jobs/info/68cbc26defdec76df36c1eef?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Communications Internship, Brookings Metro (Job ID 2026-3807)](https://jobright.ai/jobs/info/69746efa206da320f49ead24?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[maslansky + partners](https://maslansky.com)** | **[Language Strategy Intern](https://jobright.ai/jobs/info/69745129bc8e722e7b196055?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jan 23 |
 | **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[Arts & History Intern- Communications Specialist](https://jobright.ai/jobs/info/6975ac19206da320f49fb965?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Jan 23 |
-| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Global Communication Internship - Summer 2026](https://jobright.ai/jobs/info/69744d20206da320f49e711d?utm_campaign=1065&utm_source=git)** | Camden, NJ | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
