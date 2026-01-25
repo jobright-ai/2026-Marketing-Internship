@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Project Brains](https://www.projectbrains.io)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6976520abc8e722e7b1af979?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | Jan 25 |
 | **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697648eebc8e722e7b1af88c?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6976417fbc8e722e7b1adf9b?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Jan 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Commercial Leader Program  Therapeutics MBA Internship](https://jobright.ai/jobs/info/69763e4b206da320f4a01083?utm_campaign=1065&utm_source=git)** | Mettawa, IL | On Site | Jan 25 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/6903e34cff462851feff03db?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Jan 25 |
 | **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Jan 25 |
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696ff66682817106e977057a?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | Hybrid | Jan 25 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
-| ↳ | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| ↳ | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - GTM Strategy & Ops](https://jobright.ai/jobs/info/68e746c81852e62f00823f01?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Insights Intern, Summer 2026](https://jobright.ai/jobs/info/6975da91206da320f49fe07a?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/6975cf4f37785856350fa5ed?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 25 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Soleluxe](www.soleluxe.co)** | **[(Unpaid) Marketing Analytics & Content Creation Internship](https://jobright.ai/jobs/info/69755e41206da320f49f5b22?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Jeu de paume](jeudepaume.com)** | **[(Tennis) Activewear Brand Marketing Intern (Part Time)](https://jobright.ai/jobs/info/69755a02bc8e722e7b1a2b5a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Stanley Martin Homes](http://stanleymartin.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6975356a37785856350f3027?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Jan 24 |
-| **[Coursini.ai](https://courses.restaurantindustryacademy.com/pages/coursini-concierge-landing)** | **[Intern for TalkingCV.ai](https://jobright.ai/jobs/info/69754d9c37785856350f3317?utm_campaign=1065&utm_source=git)** | Peachtree Corners, GA | Remote | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Communications & Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/69754bd837785856350f32ef?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
 | **[HawkRobo Systems](www.hawkrobo.com)** | **[Marketing Intern (Student / Project-Based)](https://jobright.ai/jobs/info/6975317d206da320f49f55b2?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jan 24 |
 | **[Worth AI](https://worthai.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69754b1f206da320f49f5920?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
