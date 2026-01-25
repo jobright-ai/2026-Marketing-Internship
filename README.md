@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69763b06bc8e722e7b1adef7?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69762dcd37785856350feae7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 25 |
+| **[Just Born, Inc.](http://www.justborn.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69762dc537785856350feae6?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 25 |
 | **[Telnyx](https://telnyx.com/)** | **[Social Media Intern (Hybrid)](https://jobright.ai/jobs/info/69657f965ad3a93f8230c77f?utm_campaign=1065&utm_source=git)** | Castle Rock, CO | Hybrid | Jan 25 |
 | **[Middlesex University Dubai](http://www.mdx.ac.ae)** | **[Content Writer Intern (Apply via link)](https://jobright.ai/jobs/info/69761c1f206da320f4a00a58?utm_campaign=1065&utm_source=git)** | Remote job | Remote | Jan 25 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6903f8a7ff462851feff1464?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 25 |
@@ -75,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/6903e34cff462851feff03db?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Jan 25 |
 | **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Jan 25 |
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696ff66682817106e977057a?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | Hybrid | Jan 25 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
-| ↳ | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| ↳ | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - GTM Strategy & Ops](https://jobright.ai/jobs/info/68e746c81852e62f00823f01?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Insights Intern, Summer 2026](https://jobright.ai/jobs/info/6975da91206da320f49fe07a?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/6975cf4f37785856350fa5ed?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[maslansky + partners](https://maslansky.com)** | **[Language Strategy Intern](https://jobright.ai/jobs/info/69745129bc8e722e7b196055?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jan 23 |
 | **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[Arts & History Intern- Communications Specialist](https://jobright.ai/jobs/info/6975ac19206da320f49fb965?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Jan 23 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Global Communication Internship - Summer 2026](https://jobright.ai/jobs/info/69744d20206da320f49e711d?utm_campaign=1065&utm_source=git)** | Camden, NJ | Hybrid | Jan 23 |
-| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Copywriting / Public Relations/Social Media (Intern)](https://jobright.ai/jobs/info/69744c0b206da320f49e7089?utm_campaign=1065&utm_source=git)** | New York County, NY | Remote | Jan 23 |
-| **[Greater Regional Health](https://www.greaterregional.org)** | **[PR/Marketing Intern](https://jobright.ai/jobs/info/69746ded37785856350e8551?utm_campaign=1065&utm_source=git)** | Creston, IA | On Site | Jan 23 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/69744a6dbc8e722e7b194429?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
