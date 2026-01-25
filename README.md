@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/6975cf4f37785856350fa5ed?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 25 |
 | **[Wenspire](https://wenspire.app/)** | **[Intern, Growth and Strategy](https://jobright.ai/jobs/info/6975b96337785856350f9c71?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Paid Media Intern, Summer 2026](https://jobright.ai/jobs/info/6975ae2e37785856350f94d1?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Jan 24 |
 | ↳ | **[Growth Marketing Platforms Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6975ad8e206da320f49fb9bb?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Jan 24 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Emerge Living](https://disruptmgt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69757955206da320f49f7d2e?utm_campaign=1065&utm_source=git)** | Corporate Head Quarters - EL - Houston, TX 77079 | On Site | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Communications & Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/6975767dbc8e722e7b1a4cc1?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
 | **[Soleluxe](www.soleluxe.co)** | **[(Unpaid) Marketing Analytics & Content Creation Internship](https://jobright.ai/jobs/info/69755e41206da320f49f5b22?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
-| **[Hawl Technologies, LLC](https://hawltechs.com/)** | **[AI/Marketing Intern](https://jobright.ai/jobs/info/69755a96206da320f49f5ace?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Jan 24 |
 | **[Jeu de paume](jeudepaume.com)** | **[(Tennis) Activewear Brand Marketing Intern (Part Time)](https://jobright.ai/jobs/info/69755a02bc8e722e7b1a2b5a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Stanley Martin Homes](http://stanleymartin.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6975356a37785856350f3027?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Jan 24 |
 | **[Coursini.ai](https://courses.restaurantindustryacademy.com/pages/coursini-concierge-landing)** | **[Intern for TalkingCV.ai](https://jobright.ai/jobs/info/69754d9c37785856350f3317?utm_campaign=1065&utm_source=git)** | Peachtree Corners, GA | Remote | Jan 24 |
@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[HawkRobo Systems](www.hawkrobo.com)** | **[Marketing Intern (Student / Project-Based)](https://jobright.ai/jobs/info/6975317d206da320f49f55b2?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jan 24 |
 | **[Worth AI](https://worthai.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69754b1f206da320f49f5920?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[New England Recruiting Report](www.newenglandrecruitingreport.com)** | **[Girls Hoop Series Basketball Operations Intern](https://jobright.ai/jobs/info/6975127f37785856350f08af?utm_campaign=1065&utm_source=git)** | Rochester, New York Metropolitan Area | Hybrid | Jan 24 |
-| **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Remote Marketing Intern (February 2026)](https://jobright.ai/jobs/info/69750efdbc8e722e7b1a008e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Camron](http://camronpr.com/)** | **[Intern](https://jobright.ai/jobs/info/69750a0537785856350f07d2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Marketing (12-month) - Milton, ON Canada](https://jobright.ai/jobs/info/6974e699206da320f49f0f7d?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | Jan 24 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Media Planning Intern](https://jobright.ai/jobs/info/6974e691206da320f49f0f7b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Marketing Startup Social Media Internship Spring (Unpaid)](https://jobright.ai/jobs/info/69742d7c206da320f49e4fcc?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jan 23 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Corporate Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69742ada37785856350e2481?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742a0937785856350e23b4?utm_campaign=1065&utm_source=git)** | US-NC-Winston Salem | On Site | Jan 23 |
+| ↳ | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/697428e9bc8e722e7b191e2d?utm_campaign=1065&utm_source=git)** | Winston Salem, NC, US | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
