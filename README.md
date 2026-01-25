@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Middlesex University Dubai](http://www.mdx.ac.ae)** | **[Content Writer Intern (Apply via link)](https://jobright.ai/jobs/info/69761c1f206da320f4a00a58?utm_campaign=1065&utm_source=git)** | Remote job | Remote | Jan 25 |
+| **[Syska Hennessy Group](http://www.syska.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6903f8a7ff462851feff1464?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 25 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/693ddb2950bbaf765050c531?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 25 |
+| **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/68cce00cd11b445e0bee3655?utm_campaign=1065&utm_source=git)** | Clayton, MO | Hybrid | Jan 25 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Jan 25 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68fcca43e04ac838fb5acb44?utm_campaign=1065&utm_source=git)** | Wayne, PA | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Hulu Talent & Influencer Partnerships Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69760817206da320f49feac3?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 25 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Summer 2026 - Aerospace Group Communications Intern](https://jobright.ai/jobs/info/69219c71d1ec2c3565c454a0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jan 25 |
@@ -69,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/6903e34cff462851feff03db?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Jan 25 |
 | **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Jan 25 |
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696ff66682817106e977057a?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | Hybrid | Jan 25 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
-| ↳ | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| ↳ | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - GTM Strategy & Ops](https://jobright.ai/jobs/info/68e746c81852e62f00823f01?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Insights Intern, Summer 2026](https://jobright.ai/jobs/info/6975da91206da320f49fe07a?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/6975cf4f37785856350fa5ed?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City Of Chanhassen](http://www.ci.chanhassen.mn.us)** | **[Communications Intern](https://jobright.ai/jobs/info/6975a089206da320f49faedb?utm_campaign=1065&utm_source=git)** | Chanhassen, MN | Hybrid | Jan 23 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[National Research, Strategic Partnerships & Digital Summer Intern](https://jobright.ai/jobs/info/6974439a206da320f49e6773?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Entrepreneur Engagement, Marketing Student](https://jobright.ai/jobs/info/69745de737785856350e7695?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 23 |
-| **[O'Neal Steel](https://www.onealsteel.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6974604dbc8e722e7b19731c?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Jan 23 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69743b1037785856350e3588?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 23 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/697435f3206da320f49e5618?utm_campaign=1065&utm_source=git)** | McLean, VA | Hybrid | Jan 23 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Copywriter Intern (Summer)](https://jobright.ai/jobs/info/697434fa206da320f49e553d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
-| **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, Event Coordinator Intern (4 Months)](https://jobright.ai/jobs/info/6974531937785856350e6674?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
