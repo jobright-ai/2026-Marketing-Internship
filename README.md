@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RVFix Brand Management Intern](https://jobright.ai/jobs/info/6976755f377858563510142a?utm_campaign=1065&utm_source=git)** | Meridian, ID | On Site | Jan 25 |
+| **[Atmosfy](https://atmosfy.io)** | **[Social Media Intern (TikTok)](https://jobright.ai/jobs/info/6972bdb04ccbf64f8df2c8ba?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Media Intern](https://jobright.ai/jobs/info/697673ffbc8e722e7b1b05cd?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
+| **[The Institute for Advanced Learning and Research](https://www.ialr.org/)** | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/69767397206da320f4a03768?utm_campaign=1065&utm_source=git)** | Danville, VA | On Site | Jan 25 |
+| **[CleanSlate Technology Group](https://www.cleanslatetg.com/)** | **[Marketing & Demand Generation Intern](https://jobright.ai/jobs/info/69766a47206da320f4a033c5?utm_campaign=1065&utm_source=git)** | Carmel, Indiana- Hybrid | Hybrid | Jan 25 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Chapter Network Community Intern - Spring 2026](https://jobright.ai/jobs/info/697666ba3778585635100d6d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS -USF Youth Experiences Social Media Intern](https://jobright.ai/jobs/info/69765ccf3778585635100a32?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Jan 25 |
 | **[Wenspire](https://wenspire.app/)** | **[Intern, Student Ambassador](https://jobright.ai/jobs/info/69765cc23778585635100a26?utm_campaign=1065&utm_source=git)** | Salisbury, NC | Hybrid | Jan 25 |
 | **[Project Brains](https://www.projectbrains.io)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6976520abc8e722e7b1af979?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | Jan 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DentalScan](https://www.replyquick.ai/dentalscan)** | **[Investor Relations + Operations Intern (Hybrid, Sarasota)](https://jobright.ai/jobs/info/6974902e206da320f49ed7b3?utm_campaign=1065&utm_source=git)** | Sarasota, FL | Hybrid | Jan 24 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Marketing Research Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697487af37785856350e9632?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | ↳ | **[Event Marketing Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69748066bc8e722e7b198e20?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Jan 24 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Summer Internship with the Office of Strategic Communications](https://jobright.ai/jobs/info/6975a434206da320f49fb1af?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
-| **[Pepper AI](www.pepperai.lovable.app)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/6974795a37785856350e8f99?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 23 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Wellness Communications Intern](https://jobright.ai/jobs/info/697473a3206da320f49eb2b4?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
-| **[ITW](http://www.itw.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69745fa837785856350e77f6?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Jan 23 |
-| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Digital Paid Media Intern](https://jobright.ai/jobs/info/6941c78f14ee092a69ffdeb4?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 23 |
-| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Communications Internship, Brookings Metro (Job ID 2026-3807)](https://jobright.ai/jobs/info/69746efa206da320f49ead24?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
