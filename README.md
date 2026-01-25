@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Jan 25 |
+| **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696ff66682817106e977057a?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | Hybrid | Jan 25 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| ↳ | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - GTM Strategy & Ops](https://jobright.ai/jobs/info/68e746c81852e62f00823f01?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Insights Intern, Summer 2026](https://jobright.ai/jobs/info/6975da91206da320f49fe07a?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/6975cf4f37785856350fa5ed?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Paid Media Intern, Summer 2026](https://jobright.ai/jobs/info/6975ae2e37785856350f94d1?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Jan 24 |
@@ -114,15 +119,13 @@ For a complete list, click the following sortable link below:
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693c6e65aa598a08c3ed4e48?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
 | **[Miltenyi Biotec](http://www.miltenyibiotec.com)** | **[Intern - Marketing *PC 913](https://jobright.ai/jobs/info/691bc65b15b4156367192a8c?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jan 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c74f149a7695fbd033a51?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6968396cf25a380066969ecc?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6967b120639b452fb57d4473?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6967b120639b452fb57d4473?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[Aesculap (US)](https://www.aesculapimplantsystems.com)** | **[Commercial Strategy and Marketing Intern](https://jobright.ai/jobs/info/6966042f5ad3a93f82316df5?utm_campaign=1065&utm_source=git)** | Center Valley, PA | Hybrid | Jan 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6967fd65639b452fb57d894f?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | ↳ | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/696844441703f05405a9f720?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Jan 24 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Associate Brand Manager](https://jobright.ai/jobs/info/68cbc26defdec76df36c1eef?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 24 |
 | **[Headfirst Summer Camps](https://www.headfirst.com/join/summer-camps/)** | **[Digital Marketing, Blogging & Social Media Intern - FH](https://jobright.ai/jobs/info/697494a437785856350eb42f?utm_campaign=1065&utm_source=git)** | Oakton, VA | On Site | Jan 24 |
-| ↳ | **[Digital Marketing, Blogging & Social Media Intern - MD](https://jobright.ai/jobs/info/69749444bc8e722e7b19adef?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jan 24 |
 | **[DentalScan](https://www.replyquick.ai/dentalscan)** | **[Investor Relations + Operations Intern (Hybrid, Sarasota)](https://jobright.ai/jobs/info/6974902e206da320f49ed7b3?utm_campaign=1065&utm_source=git)** | Sarasota, FL | Hybrid | Jan 24 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Marketing Research Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697487af37785856350e9632?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | ↳ | **[Event Marketing Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69748066bc8e722e7b198e20?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Advertising Intern - Furman University](https://jobright.ai/jobs/info/69742ddebc8e722e7b19240d?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Jan 23 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Marketing Startup Social Media Internship Spring (Unpaid)](https://jobright.ai/jobs/info/69742d7c206da320f49e4fcc?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jan 23 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Corporate Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69742ada37785856350e2481?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
-| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742a0937785856350e23b4?utm_campaign=1065&utm_source=git)** | US-NC-Winston Salem | On Site | Jan 23 |
-| ↳ | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/697428e9bc8e722e7b191e2d?utm_campaign=1065&utm_source=git)** | Winston Salem, NC, US | On Site | Jan 23 |
-| **[KENT WORLDWIDE](https://kentww.com)** | **[MARKETING INTERN, PET](https://jobright.ai/jobs/info/6974260637785856350e202b?utm_campaign=1065&utm_source=git)** | Muscatine, Iowa, United States | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
