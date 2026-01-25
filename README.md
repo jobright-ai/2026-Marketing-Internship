@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soleluxe](www.soleluxe.co)** | **[(Unpaid) Marketing Analytics & Content Creation Internship](https://jobright.ai/jobs/info/69755e41206da320f49f5b22?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Hawl Technologies, LLC](https://hawltechs.com/)** | **[AI/Marketing Intern](https://jobright.ai/jobs/info/69755a96206da320f49f5ace?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Jan 24 |
 | **[Jeu de paume](jeudepaume.com)** | **[(Tennis) Activewear Brand Marketing Intern (Part Time)](https://jobright.ai/jobs/info/69755a02bc8e722e7b1a2b5a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Stanley Martin Homes](http://stanleymartin.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6975356a37785856350f3027?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KENT WORLDWIDE](https://kentww.com)** | **[MARKETING INTERN, PET](https://jobright.ai/jobs/info/6974260637785856350e202b?utm_campaign=1065&utm_source=git)** | Muscatine, Iowa, United States | On Site | Jan 23 |
 | **[Fraser](https://www.fraser.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6974205ebc8e722e7b19153b?utm_campaign=1065&utm_source=git)** | Richfield, Minnesota, United States | On Site | Jan 23 |
 | **[KENT® Precision Foods Group](http://precisionfoods.com)** | **[ASSOCIATE BRAND MANAGER INTERN](https://jobright.ai/jobs/info/6974200fbc8e722e7b1914e9?utm_campaign=1065&utm_source=git)** | Muscatine, Iowa, United States | On Site | Jan 23 |
-| **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/69741fcfbc8e722e7b1914a1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
