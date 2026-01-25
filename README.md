@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69768d9e3778585635103094?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jan 25 |
+| **[LoveLane](https://www.lovelane.co)** | **[Gif social media marketing - Berlin App Start-up (unpaid, remote)](https://jobright.ai/jobs/info/69768c0bbc8e722e7b1b211c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Roots & Routes IC](https://www.rootsroutes.org/)** | **[Remote Youth-led Intern in Environmental and Social Justice](https://jobright.ai/jobs/info/69768a57206da320f4a053c2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Art Currently](https://artcurrently.com/)** | **[Social Media Intern – Arts & Culture (Spring 2025)](https://jobright.ai/jobs/info/697683473778585635102f28?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jan 25 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Advertising Agency Copywriter Intern](https://jobright.ai/jobs/info/6976802f3778585635102efe?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[Wayfinder Brand Management Intern](https://jobright.ai/jobs/info/69767a4037785856351014cc?utm_campaign=1065&utm_source=git)** | Meridian, ID | On Site | Jan 25 |
 | **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Content Specialist (Intern to Full-Time)](https://jobright.ai/jobs/info/6976774dbc8e722e7b1b0617?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Jan 25 |
@@ -93,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/6903e34cff462851feff03db?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Jan 25 |
 | **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Jan 25 |
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696ff66682817106e977057a?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | Hybrid | Jan 25 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
-| ↳ | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| ↳ | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - GTM Strategy & Ops](https://jobright.ai/jobs/info/68e746c81852e62f00823f01?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Insights Intern, Summer 2026](https://jobright.ai/jobs/info/6975da91206da320f49fe07a?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/6975cf4f37785856350fa5ed?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 25 |
@@ -108,7 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Audience Development (Summer 2026)](https://jobright.ai/jobs/info/697579a6bc8e722e7b1a4d31?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
 | **[Emerge Living](https://disruptmgt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69757955206da320f49f7d2e?utm_campaign=1065&utm_source=git)** | Corporate Head Quarters - EL - Houston, TX 77079 | On Site | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Communications & Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/6975767dbc8e722e7b1a4cc1?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
-| **[Soleluxe](www.soleluxe.co)** | **[(Unpaid) Marketing Analytics & Content Creation Internship](https://jobright.ai/jobs/info/69755e41206da320f49f5b22?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
+| **[State Farm](http://www.brantblessing.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69768d66206da320f4a053e5?utm_campaign=1065&utm_source=git)** | Muncie, IN | On Site | Jan 24 |
+| ↳ | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69768d74206da320f4a053ec?utm_campaign=1065&utm_source=git)** | Fishers, IN | On Site | Jan 24 |
 | **[Jeu de paume](jeudepaume.com)** | **[(Tennis) Activewear Brand Marketing Intern (Part Time)](https://jobright.ai/jobs/info/69755a02bc8e722e7b1a2b5a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Stanley Martin Homes](http://stanleymartin.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6975356a37785856350f3027?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Communications & Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/69754bd837785856350f32ef?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e74b58e8daec61499b4145?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693c6e65aa598a08c3ed4e48?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
 | **[Miltenyi Biotec](http://www.miltenyibiotec.com)** | **[Intern - Marketing *PC 913](https://jobright.ai/jobs/info/691bc65b15b4156367192a8c?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jan 24 |
-| **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c74f149a7695fbd033a51?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/696844441703f05405a9f720?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
-| **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Jan 24 |
-| **[General Mills](http://www.generalmills.com)** | **[Internship - Associate Brand Manager](https://jobright.ai/jobs/info/68cbc26defdec76df36c1eef?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 24 |
-| **[Headfirst Summer Camps](https://www.headfirst.com/join/summer-camps/)** | **[Digital Marketing, Blogging & Social Media Intern - FH](https://jobright.ai/jobs/info/697494a437785856350eb42f?utm_campaign=1065&utm_source=git)** | Oakton, VA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
