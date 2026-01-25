@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Advertising Agency Copywriter Intern](https://jobright.ai/jobs/info/6976802f3778585635102efe?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
+| **[Bish's RV, Inc.](https://www.bishs.com/)** | **[Wayfinder Brand Management Intern](https://jobright.ai/jobs/info/69767a4037785856351014cc?utm_campaign=1065&utm_source=git)** | Meridian, ID | On Site | Jan 25 |
+| **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Content Specialist (Intern to Full-Time)](https://jobright.ai/jobs/info/6976774dbc8e722e7b1b0617?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Jan 25 |
+| **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Brand Management Intern](https://jobright.ai/jobs/info/697675b7377858563510143d?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RVFix Brand Management Intern](https://jobright.ai/jobs/info/6976755f377858563510142a?utm_campaign=1065&utm_source=git)** | Meridian, ID | On Site | Jan 25 |
 | **[Atmosfy](https://atmosfy.io)** | **[Social Media Intern (TikTok)](https://jobright.ai/jobs/info/6972bdb04ccbf64f8df2c8ba?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Media Intern](https://jobright.ai/jobs/info/697673ffbc8e722e7b1b05cd?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
@@ -66,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS -USF Youth Experiences Social Media Intern](https://jobright.ai/jobs/info/69765ccf3778585635100a32?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Jan 25 |
 | **[Wenspire](https://wenspire.app/)** | **[Intern, Student Ambassador](https://jobright.ai/jobs/info/69765cc23778585635100a26?utm_campaign=1065&utm_source=git)** | Salisbury, NC | Hybrid | Jan 25 |
 | **[Project Brains](https://www.projectbrains.io)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6976520abc8e722e7b1af979?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | Jan 25 |
-| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697648eebc8e722e7b1af88c?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6976417fbc8e722e7b1adf9b?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Jan 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Commercial Leader Program  Therapeutics MBA Internship](https://jobright.ai/jobs/info/69763e4b206da320f4a01083?utm_campaign=1065&utm_source=git)** | Mettawa, IL | On Site | Jan 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69763b06bc8e722e7b1adef7?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Jan 24 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Associate Brand Manager](https://jobright.ai/jobs/info/68cbc26defdec76df36c1eef?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 24 |
 | **[Headfirst Summer Camps](https://www.headfirst.com/join/summer-camps/)** | **[Digital Marketing, Blogging & Social Media Intern - FH](https://jobright.ai/jobs/info/697494a437785856350eb42f?utm_campaign=1065&utm_source=git)** | Oakton, VA | On Site | Jan 24 |
-| **[DentalScan](https://www.replyquick.ai/dentalscan)** | **[Investor Relations + Operations Intern (Hybrid, Sarasota)](https://jobright.ai/jobs/info/6974902e206da320f49ed7b3?utm_campaign=1065&utm_source=git)** | Sarasota, FL | Hybrid | Jan 24 |
-| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Marketing Research Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697487af37785856350e9632?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
-| ↳ | **[Event Marketing Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69748066bc8e722e7b198e20?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
