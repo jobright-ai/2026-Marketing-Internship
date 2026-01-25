@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Corporate & Foundation Relations (Summer 2026)](https://jobright.ai/jobs/info/697579c0206da320f49f7d4d?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
+| ↳ | **[Intern, Audience Development (Summer 2026)](https://jobright.ai/jobs/info/697579a6bc8e722e7b1a4d31?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
+| **[Emerge Living](https://disruptmgt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69757955206da320f49f7d2e?utm_campaign=1065&utm_source=git)** | Corporate Head Quarters - EL - Houston, TX 77079 | On Site | Jan 24 |
+| **[HNTB](http://www.hntb.com/)** | **[Communications & Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/6975767dbc8e722e7b1a4cc1?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
 | **[Soleluxe](www.soleluxe.co)** | **[(Unpaid) Marketing Analytics & Content Creation Internship](https://jobright.ai/jobs/info/69755e41206da320f49f5b22?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Hawl Technologies, LLC](https://hawltechs.com/)** | **[AI/Marketing Intern](https://jobright.ai/jobs/info/69755a96206da320f49f5ace?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Jan 24 |
 | **[Jeu de paume](jeudepaume.com)** | **[(Tennis) Activewear Brand Marketing Intern (Part Time)](https://jobright.ai/jobs/info/69755a02bc8e722e7b1a2b5a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -72,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Remote Marketing Intern (February 2026)](https://jobright.ai/jobs/info/69750efdbc8e722e7b1a008e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Camron](http://camronpr.com/)** | **[Intern](https://jobright.ai/jobs/info/69750a0537785856350f07d2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS -USF Youth Experiences Social Media Intern](https://jobright.ai/jobs/info/6975060f206da320f49f2dd5?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Jan 24 |
-| **[The Insights Partnership, LLC](www.insightspartnership.com)** | **[Summer Intern - 2026](https://jobright.ai/jobs/info/6974fecd37785856350f0659?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 24 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Marketing (12-month) - Milton, ON Canada](https://jobright.ai/jobs/info/6974e699206da320f49f0f7d?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | Jan 24 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Media Planning Intern](https://jobright.ai/jobs/info/6974e691206da320f49f0f7b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[MADE Hoops](https://www.madehoops.com/)** | **[White Label Event Intern](https://jobright.ai/jobs/info/6974e02bbc8e722e7b19df98?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Communications Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69742a4d206da320f49e4c24?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Jan 23 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742a0937785856350e23b4?utm_campaign=1065&utm_source=git)** | US-NC-Winston Salem | On Site | Jan 23 |
 | ↳ | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/697428e9bc8e722e7b191e2d?utm_campaign=1065&utm_source=git)** | Winston Salem, NC, US | On Site | Jan 23 |
+| **[Cheekwood](https://cheekwood.org)** | **[Events Intern - Summer 2026](https://jobright.ai/jobs/info/69757d9b37785856350f590a?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jan 23 |
 | **[KENT WORLDWIDE](https://kentww.com)** | **[MARKETING INTERN, PET](https://jobright.ai/jobs/info/6974260637785856350e202b?utm_campaign=1065&utm_source=git)** | Muscatine, Iowa, United States | On Site | Jan 23 |
 | **[Fraser](https://www.fraser.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6974205ebc8e722e7b19153b?utm_campaign=1065&utm_source=git)** | Richfield, Minnesota, United States | On Site | Jan 23 |
 | **[KENT® Precision Foods Group](http://precisionfoods.com)** | **[ASSOCIATE BRAND MANAGER INTERN](https://jobright.ai/jobs/info/6974200fbc8e722e7b1914e9?utm_campaign=1065&utm_source=git)** | Muscatine, Iowa, United States | On Site | Jan 23 |
-| **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/69741fcfbc8e722e7b1914a1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
-| **[Bio-Techne](https://www.bio-techne.com)** | **[Content Marketing Graduate Intern](https://jobright.ai/jobs/info/69741fa337785856350e18de?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 23 |
-| **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Summer 2026 Marketing & Communications Intern](https://jobright.ai/jobs/info/69741f4a37785856350e186b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 23 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Hulu Talent & Influencer Partnerships Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69741f0abc8e722e7b1913c6?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
