@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Worth AI](https://worthai.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69759be6bc8e722e7b1a61ed?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
+| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69759b6337785856350f6be4?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 24 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69759382206da320f49f8a1f?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Jan 24 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Corporate & Foundation Relations (Summer 2026)](https://jobright.ai/jobs/info/697579c0206da320f49f7d4d?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
 | ↳ | **[Intern, Audience Development (Summer 2026)](https://jobright.ai/jobs/info/697579a6bc8e722e7b1a4d31?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
 | **[Emerge Living](https://disruptmgt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69757955206da320f49f7d2e?utm_campaign=1065&utm_source=git)** | Corporate Head Quarters - EL - Houston, TX 77079 | On Site | Jan 24 |
@@ -136,6 +139,8 @@ For a complete list, click the following sortable link below:
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Copywriting / Public Relations/Social Media (Intern)](https://jobright.ai/jobs/info/69744c0b206da320f49e7089?utm_campaign=1065&utm_source=git)** | New York County, NY | Remote | Jan 23 |
 | **[Greater Regional Health](https://www.greaterregional.org)** | **[PR/Marketing Intern](https://jobright.ai/jobs/info/69746ded37785856350e8551?utm_campaign=1065&utm_source=git)** | Creston, IA | On Site | Jan 23 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/69744a6dbc8e722e7b194429?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 23 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Industry Coordinator Intern](https://jobright.ai/jobs/info/6975a062206da320f49fae0f?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jan 23 |
+| **[City Of Chanhassen](http://www.ci.chanhassen.mn.us)** | **[Communications Intern](https://jobright.ai/jobs/info/6975a089206da320f49faedb?utm_campaign=1065&utm_source=git)** | Chanhassen, MN | Hybrid | Jan 23 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[National Research, Strategic Partnerships & Digital Summer Intern](https://jobright.ai/jobs/info/6974439a206da320f49e6773?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Entrepreneur Engagement, Marketing Student](https://jobright.ai/jobs/info/69745de737785856350e7695?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 23 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6974604dbc8e722e7b19731c?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Jan 23 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Advertising Intern - Furman University](https://jobright.ai/jobs/info/69742ddebc8e722e7b19240d?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Jan 23 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Marketing Startup Social Media Internship Spring (Unpaid)](https://jobright.ai/jobs/info/69742d7c206da320f49e4fcc?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jan 23 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Corporate Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69742ada37785856350e2481?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Communications Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69742a4d206da320f49e4c24?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Jan 23 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742a0937785856350e23b4?utm_campaign=1065&utm_source=git)** | US-NC-Winston Salem | On Site | Jan 23 |
-| ↳ | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/697428e9bc8e722e7b191e2d?utm_campaign=1065&utm_source=git)** | Winston Salem, NC, US | On Site | Jan 23 |
-| **[KENT WORLDWIDE](https://kentww.com)** | **[MARKETING INTERN, PET](https://jobright.ai/jobs/info/6974260637785856350e202b?utm_campaign=1065&utm_source=git)** | Muscatine, Iowa, United States | On Site | Jan 23 |
-| **[Fraser](https://www.fraser.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6974205ebc8e722e7b19153b?utm_campaign=1065&utm_source=git)** | Richfield, Minnesota, United States | On Site | Jan 23 |
-| **[KENT® Precision Foods Group](http://precisionfoods.com)** | **[ASSOCIATE BRAND MANAGER INTERN](https://jobright.ai/jobs/info/6974200fbc8e722e7b1914e9?utm_campaign=1065&utm_source=git)** | Muscatine, Iowa, United States | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
