@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6976c0493778585635105391?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Aura Labs](https://www.auralabs.capital/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6976bdc8bc8e722e7b1b3fb9?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jan 25 |
+| **[Parrot Finance](https://www.parrotfinance.io/)** | **[Social Media and Content Internship 2026](https://jobright.ai/jobs/info/6976b726bc8e722e7b1b27d5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
+| **[MyDataProduct](https://www.linkedin.com/company/42755701)** | **[Product Marketing Intern – Undergraduate](https://jobright.ai/jobs/info/6976b6bb3778585635103620?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Studio Of Ruth](http://www.Studioofruth.com)** | **[Beauty Social Media Marketing Intern](https://jobright.ai/jobs/info/6976b39fbc8e722e7b1b2690?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jan 25 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/6976ac9abc8e722e7b1b24bf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 25 |
 | **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69768d9e3778585635103094?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jan 25 |
 | **[LoveLane](https://www.lovelane.co)** | **[Gif social media marketing - Berlin App Start-up (unpaid, remote)](https://jobright.ai/jobs/info/69768c0bbc8e722e7b1b211c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
@@ -98,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/6903e34cff462851feff03db?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Jan 25 |
 | **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Jan 25 |
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696ff66682817106e977057a?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | Hybrid | Jan 25 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
-| ↳ | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| ↳ | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - GTM Strategy & Ops](https://jobright.ai/jobs/info/68e746c81852e62f00823f01?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Insights Intern, Summer 2026](https://jobright.ai/jobs/info/6975da91206da320f49fe07a?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/6975cf4f37785856350fa5ed?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 25 |
@@ -124,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Marketing (12-month) - Milton, ON Canada](https://jobright.ai/jobs/info/6974e699206da320f49f0f7d?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | Jan 24 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Media Planning Intern](https://jobright.ai/jobs/info/6974e691206da320f49f0f7b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[MADE Hoops](https://www.madehoops.com/)** | **[White Label Event Intern](https://jobright.ai/jobs/info/6974e02bbc8e722e7b19df98?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 24 |
-| **[T-Society](tsociety.co)** | **[JUNIOR MARKETING INTERN](https://jobright.ai/jobs/info/69761b67206da320f4a009d5?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Social Media Summer Intern](https://jobright.ai/jobs/info/693ce73c49a7695fbd0393a1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/693caf4baa598a08c3ed8e00?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/693c934949a7695fbd034fed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Pipeline & Portfolio Market Planning Intern](https://jobright.ai/jobs/info/693c731249a7695fbd033930?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
 | **[HDR](http://www.hdrinc.com)** | **[Water Marketing Intern](https://jobright.ai/jobs/info/68e5700c1852e62f0080ff9f?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Jan 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Fashion) - 2026 Start (MBA)](https://jobright.ai/jobs/info/691fba0809cc522e87744cd6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e74b58e8daec61499b4145?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
-| **[Corcept Therapeutics](http://www.corcept.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693c6e65aa598a08c3ed4e48?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
-| **[Miltenyi Biotec](http://www.miltenyibiotec.com)** | **[Intern - Marketing *PC 913](https://jobright.ai/jobs/info/691bc65b15b4156367192a8c?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
