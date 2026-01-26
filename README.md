@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/6976ac9abc8e722e7b1b24bf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 25 |
 | **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69768d9e3778585635103094?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jan 25 |
 | **[LoveLane](https://www.lovelane.co)** | **[Gif social media marketing - Berlin App Start-up (unpaid, remote)](https://jobright.ai/jobs/info/69768c0bbc8e722e7b1b211c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Roots & Routes IC](https://www.rootsroutes.org/)** | **[Remote Youth-led Intern in Environmental and Social Justice](https://jobright.ai/jobs/info/69768a57206da320f4a053c2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/6903e34cff462851feff03db?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Jan 25 |
 | **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Jan 25 |
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696ff66682817106e977057a?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | Hybrid | Jan 25 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
-| ↳ | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| ↳ | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - GTM Strategy & Ops](https://jobright.ai/jobs/info/68e746c81852e62f00823f01?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Insights Intern, Summer 2026](https://jobright.ai/jobs/info/6975da91206da320f49fe07a?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/6975cf4f37785856350fa5ed?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 25 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Growth Marketing Platforms Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6975ad8e206da320f49fb9bb?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Jan 24 |
 | **[Argyros Performing Arts Center](https://theargyros.org/)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6975a8b6bc8e722e7b1a8909?utm_campaign=1065&utm_source=git)** | Ketchum, ID | On Site | Jan 24 |
 | **[Worth AI](https://worthai.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69759be6bc8e722e7b1a61ed?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69759382206da320f49f8a1f?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Jan 24 |
 | **[40+ Double Dutch Club](www.40plusdoubledutchclub.org)** | **[40+ Double Dutch Club Intern - Summer 2026](https://jobright.ai/jobs/info/6976168537785856350fe21e?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 24 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Corporate & Foundation Relations (Summer 2026)](https://jobright.ai/jobs/info/697579c0206da320f49f7d4d?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
 | ↳ | **[Intern, Audience Development (Summer 2026)](https://jobright.ai/jobs/info/697579a6bc8e722e7b1a4d31?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
