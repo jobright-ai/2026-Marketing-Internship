@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Content Creation Marketing Internship Spring (Unpaid)](https://jobright.ai/jobs/info/6976cea9bc8e722e7b1b48d5?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jan 25 |
+| **[Aggieland Outfitters](https://www.aggielandoutfitters.com)** | **[Marketing (Communications Intern)](https://jobright.ai/jobs/info/6976c872206da320f4a07b11?utm_campaign=1065&utm_source=git)** | Kalcorp Home Office - College Station, TX 77845 | On Site | Jan 25 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6976c0493778585635105391?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Aura Labs](https://www.auralabs.capital/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6976bdc8bc8e722e7b1b3fb9?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jan 25 |
 | **[Parrot Finance](https://www.parrotfinance.io/)** | **[Social Media and Content Internship 2026](https://jobright.ai/jobs/info/6976b726bc8e722e7b1b27d5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7579ce8daec61499b4964?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern - Marketing and Events Management (Arizona)](https://jobright.ai/jobs/info/693c736baa598a08c3ed50a3?utm_campaign=1065&utm_source=git)** | Arizona, United States | Hybrid | Jan 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
-| **[Corcept Therapeutics](http://www.corcept.com)** | **[Pipeline & Portfolio Market Planning Intern](https://jobright.ai/jobs/info/693c731249a7695fbd033930?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
-| **[HDR](http://www.hdrinc.com)** | **[Water Marketing Intern](https://jobright.ai/jobs/info/68e5700c1852e62f0080ff9f?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
