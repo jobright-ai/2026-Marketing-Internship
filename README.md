@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Pathway (Marketing) Starting August 2026](https://jobright.ai/jobs/info/697785b788e2b47213bb6947?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jan 26 |
+| **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6977846852f3c27ec643915a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[The Cause Marketing Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b9891f396ad6ddab14bd9?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jan 26 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Marketing and Communications (May 2026 - 4 months)](https://jobright.ai/jobs/info/695b92bfaa05c26e7ab4efda?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[Dealism](https://dealism.ai)** | **[Paid GTM Intern – Content Marketing Focus](https://jobright.ai/jobs/info/6977721f88e2b47213bb4f71?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 26 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Growth Marketing Platforms Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6975ad8e206da320f49fb9bb?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Jan 24 |
 | **[Aesculap (US)](https://www.aesculapimplantsystems.com)** | **[Commercial Strategy and Marketing Intern](https://jobright.ai/jobs/info/697703f188e2b47213baec70?utm_campaign=1065&utm_source=git)** | Center Valley, PA | Hybrid | Jan 24 |
 | **[Argyros Performing Arts Center](https://theargyros.org/)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6975a8b6bc8e722e7b1a8909?utm_campaign=1065&utm_source=git)** | Ketchum, ID | On Site | Jan 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976f77088e2b47213bad568?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[Worth AI](https://worthai.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69759be6bc8e722e7b1a61ed?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976eeee52f3c27ec642e3c7?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976eeae88e2b47213babd89?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976df9a3778585635106291?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Corporate & Foundation Relations (Summer 2026)](https://jobright.ai/jobs/info/697579c0206da320f49f7d4d?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
 | ↳ | **[Intern, Audience Development (Summer 2026)](https://jobright.ai/jobs/info/697579a6bc8e722e7b1a4d31?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
-| **[Emerge Living](https://disruptmgt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69757955206da320f49f7d2e?utm_campaign=1065&utm_source=git)** | Corporate Head Quarters - EL - Houston, TX 77079 | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
