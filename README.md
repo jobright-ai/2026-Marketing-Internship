@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Partnerships & Public Relations Assistant Intern](https://jobright.ai/jobs/info/6976e0aabc8e722e7b1b55e8?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jan 25 |
+| **[Kentish Publishing Company](https://www.facebook.com/KENTISHPUBLISHINGCOMPANY)** | **[MBA Internship – Entrepreneurship, Digital Marketing & Finance (Unpaid)](https://jobright.ai/jobs/info/6976d821206da320f4a082af?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Jan 25 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Content Creation Marketing Internship Spring (Unpaid)](https://jobright.ai/jobs/info/6976cea9bc8e722e7b1b48d5?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jan 25 |
 | **[Aggieland Outfitters](https://www.aggielandoutfitters.com)** | **[Marketing (Communications Intern)](https://jobright.ai/jobs/info/6976c872206da320f4a07b11?utm_campaign=1065&utm_source=git)** | Kalcorp Home Office - College Station, TX 77845 | On Site | Jan 25 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6976c0493778585635105391?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69768d9e3778585635103094?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jan 25 |
 | **[LoveLane](https://www.lovelane.co)** | **[Gif social media marketing - Berlin App Start-up (unpaid, remote)](https://jobright.ai/jobs/info/69768c0bbc8e722e7b1b211c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Roots & Routes IC](https://www.rootsroutes.org/)** | **[Remote Youth-led Intern in Environmental and Social Justice](https://jobright.ai/jobs/info/69768a57206da320f4a053c2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 25 |
-| **[Art Currently](https://artcurrently.com/)** | **[Social Media Intern – Arts & Culture (Spring 2025)](https://jobright.ai/jobs/info/697683473778585635102f28?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jan 25 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Advertising Agency Copywriter Intern](https://jobright.ai/jobs/info/6976802f3778585635102efe?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[Wayfinder Brand Management Intern](https://jobright.ai/jobs/info/69767a4037785856351014cc?utm_campaign=1065&utm_source=git)** | Meridian, ID | On Site | Jan 25 |
 | **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Content Specialist (Intern to Full-Time)](https://jobright.ai/jobs/info/6976774dbc8e722e7b1b0617?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Jan 25 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/6903e34cff462851feff03db?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Jan 25 |
 | **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Jan 25 |
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/696ff66682817106e977057a?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | Hybrid | Jan 25 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
-| ↳ | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern – Market Management](https://jobright.ai/jobs/info/696586bd5ad3a93f8230ce80?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
+| ↳ | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/696da15d5fc86241853c6fe3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jan 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - GTM Strategy & Ops](https://jobright.ai/jobs/info/68e746c81852e62f00823f01?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Insights Intern, Summer 2026](https://jobright.ai/jobs/info/6975da91206da320f49fe07a?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Jan 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Marketing AI Specialist](https://jobright.ai/jobs/info/6975cf4f37785856350fa5ed?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Jan 25 |
@@ -115,6 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Argyros Performing Arts Center](https://theargyros.org/)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6975a8b6bc8e722e7b1a8909?utm_campaign=1065&utm_source=git)** | Ketchum, ID | On Site | Jan 24 |
 | **[Worth AI](https://worthai.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69759be6bc8e722e7b1a61ed?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[40+ Double Dutch Club](www.40plusdoubledutchclub.org)** | **[40+ Double Dutch Club Intern - Summer 2026](https://jobright.ai/jobs/info/6976168537785856350fe21e?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976df9a3778585635106291?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976df5b37785856351060d8?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Corporate & Foundation Relations (Summer 2026)](https://jobright.ai/jobs/info/697579c0206da320f49f7d4d?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
 | ↳ | **[Intern, Audience Development (Summer 2026)](https://jobright.ai/jobs/info/697579a6bc8e722e7b1a4d31?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 24 |
 | **[Emerge Living](https://disruptmgt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69757955206da320f49f7d2e?utm_campaign=1065&utm_source=git)** | Corporate Head Quarters - EL - Houston, TX 77079 | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 MBA Marketing Manager (MM) Internship](https://jobright.ai/jobs/info/693cd22c49a7695fbd03881c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/693c680e49a7695fbd033379?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
 | **[Pronghorn](https://www.pronghorn.co/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6940e66a49a7695fbd066904?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Jan 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7579ce8daec61499b4964?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
-| **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern - Marketing and Events Management (Arizona)](https://jobright.ai/jobs/info/693c736baa598a08c3ed50a3?utm_campaign=1065&utm_source=git)** | Arizona, United States | Hybrid | Jan 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
