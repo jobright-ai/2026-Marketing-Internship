@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hallmark Media](http://www.hallmarkchannel.com/)** | **[Content Strategy Intern](https://jobright.ai/jobs/info/69785a4288e2b47213bc81ca?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 26 |
+| **[Hallmark Media](http://www.hallmarkchannel.com/)** | **[Content Strategy Intern](https://jobright.ai/jobs/info/697867a288e2b47213bc8d99?utm_campaign=1065&utm_source=git)** | Burbank, California, United States | On Site | Jan 26 |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Brand Marketing Intern](https://jobright.ai/jobs/info/695c248faa05c26e7ab57659?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Jan 26 |
+| **[Hallmark Media](http://www.hallmarkchannel.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6978667b39f7f96cc6d0d04c?utm_campaign=1065&utm_source=git)** | Burbank, California, United States | On Site | Jan 26 |
+| ↳ | **[Content Strategy Intern](https://jobright.ai/jobs/info/69785a4288e2b47213bc81ca?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 26 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6978589239f7f96cc6d0c75c?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 26 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Marketing Spring Content Creation Internship (Unpaid)](https://jobright.ai/jobs/info/69784cb039f7f96cc6d0b351?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jan 26 |
 | **[LOFT](https://www.loft.com/)** | **[Social Media Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/695c7ac35e4962051b599967?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[SEO/GEO Editing and Publishing Intern](https://jobright.ai/jobs/info/697849cb88e2b47213bc5db4?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jan 26 |
+| **[Parrot Finance](https://www.parrotfinance.io/)** | **[Content and social media Spring Internship](https://jobright.ai/jobs/info/6978652139f7f96cc6d0cee3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 26 |
 | **[NRRINC Media LLC](http://nrrinc.net/)** | **[Sales And Marketing Intern (PAID)](https://jobright.ai/jobs/info/6978488939f7f96cc6d0a3c9?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Jan 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efcffa2668b7f545248ed?utm_campaign=1065&utm_source=git)** | Montgomery, AL | Hybrid | Jan 26 |
 | **[IP Corporation](https://www.ip-corporation.com)** | **[Marketing Intern (Year-Round)](https://jobright.ai/jobs/info/695c0e1422c9dc0d3d53ed4f?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Jan 26 |
@@ -100,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverPro - Social Media Internship (Remote, US)](https://jobright.ai/jobs/info/69781fcd88e2b47213bc1fa7?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Jan 26 |
 | **[Just Salad](http://www.justsalad.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69781e05fdeb8243a27b11d3?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jan 26 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69783d9539f7f96cc6d08ade?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 26 |
-| **[We. Communications](https://www.wecommunications.com)** | **[Spring 2026 Public Relations Internship Program: Healthcare](https://jobright.ai/jobs/info/6978573652f3c27ec644aef7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Digital Content Intern](https://jobright.ai/jobs/info/69781ca7fdeb8243a27b1058?utm_campaign=1065&utm_source=git)** | Stamford, Connecticut | Hybrid | Jan 26 |
 | **[Volo Sports](https://www.volosports.com)** | **[Sports Operations Intern - Winter 26' - Jersey City/Hoboken](https://jobright.ai/jobs/info/69783d2539f7f96cc6d08a28?utm_campaign=1065&utm_source=git)** | East Hampton, NY | Hybrid | Jan 26 |
 | **[The Seagate Hotel, Golf & Beach Club, Autograph Collection](http://www.seagatedelray.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69781c1088e2b47213bc1b84?utm_campaign=1065&utm_source=git)** | Destin, FL, US | On Site | Jan 26 |
@@ -142,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Niagara Hospice](https://www.niagarahospice.org/)** | **[Special Events Marketing Intern](https://jobright.ai/jobs/info/6978427939f7f96cc6d0972a?utm_campaign=1065&utm_source=git)** | Lockport, NY, US | On Site | Jan 26 |
 | **[PIADA ITALIAN STREET FOOD](http://www.mypiada.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69781f4688e2b47213bc1f0b?utm_campaign=1065&utm_source=git)** | 18430 I-35 | Hybrid | Jan 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6978300b52f3c27ec6445f06?utm_campaign=1065&utm_source=git)** | 78154 | Hybrid | Jan 26 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6978208588e2b47213bc207b?utm_campaign=1065&utm_source=git)** | TX-Schertz San Antonio, UNAVAILABLE, USA | Hybrid | Jan 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69781c6352f3c27ec64448d5?utm_campaign=1065&utm_source=git)** | USA-TX-Schertz San Antonio | Hybrid | Jan 26 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6978208588e2b47213bc207b?utm_campaign=1065&utm_source=git)** | TX-Schertz San Antonio, UNAVAILABLE, USA | Hybrid | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Merchandising Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977fff288e2b47213bc0ba7?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Product Communications Summer Intern 2026](https://jobright.ai/jobs/info/6977fc5e88e2b47213bc0935?utm_campaign=1065&utm_source=git)** | Horsham, PA | Hybrid | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Public Relations Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977fc0e88e2b47213bc08f9?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Viega LLC](https://viega.us)** | **[Segment Marketing Intern](https://jobright.ai/jobs/info/6977f7d152f3c27ec6443002?utm_campaign=1065&utm_source=git)** | Broomfield, CO | On Site | Jan 26 |
 | **[BEACH HOUSE GROUP](http://www.beachhousegrp.com/)** | **[Marketing Intern, NOYZ](https://jobright.ai/jobs/info/69781bc352f3c27ec6444846?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Brand Marketing Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977f60f52f3c27ec6442c3d?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 26 |
-| **[Scarlett Gasque](https://www.scarlettgasque.com)** | **[Ecommerce Intern (Luxury RTW)](https://jobright.ai/jobs/info/6977f44ffdeb8243a27af4c2?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jan 26 |
-| **[BambooHR](http://www.BambooHR.com)** | **[Social Marketing Intern](https://jobright.ai/jobs/info/6977f33252f3c27ec64426a5?utm_campaign=1065&utm_source=git)** | Utah | Hybrid | Hybrid | Jan 26 |
-| **[The Elderlaw Firm](https://www.elderlawfirm.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6977f2be52f3c27ec64425a7?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
