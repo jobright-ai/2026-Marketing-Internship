@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Biome](Joinbiome.com)** | **[Campus Marketing Intern (Student Role)](https://jobright.ai/jobs/info/6978c9ae39f7f96cc6d12b5d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
+| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Marketing (Summer 2026)](https://jobright.ai/jobs/info/6978d9f639f7f96cc6d13519?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 27 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Marketing Intern](https://jobright.ai/jobs/info/6940910e49a7695fbd0621d6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 27 |
+| **[MEMIC](https://www.memic.com/)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/6978d8f539f7f96cc6d1347b?utm_campaign=1065&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
+| **[Publix Super Markets](https://www.publix.com/)** | **[Intern – Marketing Technology](https://jobright.ai/jobs/info/6978d75d39f7f96cc6d133cd?utm_campaign=1065&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| ↳ | **[Intern – Corporate Communications](https://jobright.ai/jobs/info/6978d53352f3c27ec6451b55?utm_campaign=1065&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| ↳ | **[Intern - Marketing Project Management Office](https://jobright.ai/jobs/info/6978d0e539f7f96cc6d12faf?utm_campaign=1065&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| **[Shaw’s and Star Market](https://www.shaws.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6976f7ab88e2b47213bad82a?utm_campaign=1065&utm_source=git)** | West Bridgewater, MA | On Site | Jan 27 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6719311d6920306148c39217?utm_campaign=1065&utm_source=git)** | Lake Charles, LA | Hybrid | Jan 27 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[WRTW Merchandising Intern - Spring 2026](https://jobright.ai/jobs/info/696096297ebc25398eb67913?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Marketing Management Intern](https://jobright.ai/jobs/info/6941d46c50bbaf7650539bb4?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Jan 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Volo Sports](https://www.volosports.com)** | **[Sports Operations Intern - Winter 26' - Jersey City/Hoboken](https://jobright.ai/jobs/info/69783d2539f7f96cc6d08a28?utm_campaign=1065&utm_source=git)** | East Hampton, NY | Hybrid | Jan 26 |
 | **[The Seagate Hotel, Golf & Beach Club, Autograph Collection](http://www.seagatedelray.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69781c1088e2b47213bc1b84?utm_campaign=1065&utm_source=git)** | Destin, FL, US | On Site | Jan 26 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Social Media - Marketplace](https://jobright.ai/jobs/info/69781be752f3c27ec644486b?utm_campaign=1065&utm_source=git)** | Saint Paul, Minnesota, United States | Remote | Jan 26 |
-| **[LV Collective](https://lvcollective.com)** | **[Digital Marketing Intern / The Jay](https://jobright.ai/jobs/info/69781aadfdeb8243a27b0e3a?utm_campaign=1065&utm_source=git)** | College Station, TX | Hybrid | Jan 26 |
-| **[Essense of Australia](https://www.essensedesigns.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6978198bfdeb8243a27b0d02?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Jan 26 |
-| **[Braver Angels](https://braverangels.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69783a4f88e2b47213bc42cb?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Jan 26 |
-| **[GBA](http://gbateam.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697818e588e2b47213bc17e8?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Jan 26 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Activation Intern, Summer 2026 (10 Weeks) Northern California](https://jobright.ai/jobs/info/6978183588e2b47213bc1737?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 26 |
-| **[Allied Sports](https://alliedsports.com)** | **[Multicultural Intern](https://jobright.ai/jobs/info/69783b1339f7f96cc6d086fe?utm_campaign=1065&utm_source=git)** | Miami-Dade County, FL | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
