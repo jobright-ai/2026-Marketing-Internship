@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Biome](Joinbiome.com)** | **[Campus Marketing Intern (Student Role)](https://jobright.ai/jobs/info/6978c9ae39f7f96cc6d12b5d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6719311d6920306148c39217?utm_campaign=1065&utm_source=git)** | Lake Charles, LA | Hybrid | Jan 27 |
+| **[Louis Vuitton](http://www.louisvuitton.com)** | **[WRTW Merchandising Intern - Spring 2026](https://jobright.ai/jobs/info/696096297ebc25398eb67913?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 27 |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Marketing Management Intern](https://jobright.ai/jobs/info/6941d46c50bbaf7650539bb4?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Jan 27 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Livestock Marketing Intern](https://jobright.ai/jobs/info/68cff1c6846f0b04af686481?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jan 27 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Communications Analyst (Marketing)](https://jobright.ai/jobs/info/6940518449a7695fbd05de36?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Product Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6893e2e0f47efe2113967a2b?utm_campaign=1065&utm_source=git)** | Attleboro, MA | On Site | Jan 27 |
 | **[State of Missouri](http://mo.gov)** | **[Communications Intern - NW District Office](https://jobright.ai/jobs/info/6978b7e188e2b47213bce2bc?utm_campaign=1065&utm_source=git)** | St Joseph, MO | On Site | Jan 27 |
@@ -64,7 +69,8 @@ For a complete list, click the following sortable link below:
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/695da0abfbd62a0a65665358?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jan 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Social Media Intern, Summer 2026](https://jobright.ai/jobs/info/6978b1fd39f7f96cc6d10a72?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Corsair](http://www.corsair.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69406c4caa598a08c3f00b2e?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
-| ↳ | **[Elgato Social Media Intern](https://jobright.ai/jobs/info/694068fdaa598a08c3f00899?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Cattle Feeder Marketing Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301271?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jan 27 |
+| **[Corsair](http://www.corsair.com)** | **[Elgato Social Media Intern](https://jobright.ai/jobs/info/694068fdaa598a08c3f00899?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | ↳ | **[Technical Marketing Content intern](https://jobright.ai/jobs/info/69406afaaa598a08c3f00a2b?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | ↳ | **[B2B Marketing Intern](https://jobright.ai/jobs/info/69407bf349a7695fbd05fd11?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Digital Marketing Intern](https://jobright.ai/jobs/info/695c3551f1f8465b79f23fb6?utm_campaign=1065&utm_source=git)** | Fort Washington, PA | On Site | Jan 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GBA](http://gbateam.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697818e588e2b47213bc17e8?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Jan 26 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Activation Intern, Summer 2026 (10 Weeks) Northern California](https://jobright.ai/jobs/info/6978183588e2b47213bc1737?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 26 |
 | **[Allied Sports](https://alliedsports.com)** | **[Multicultural Intern](https://jobright.ai/jobs/info/69783b1339f7f96cc6d086fe?utm_campaign=1065&utm_source=git)** | Miami-Dade County, FL | Hybrid | Jan 26 |
-| **[Clarus](https://clarus.nyc/)** | **[UGC Content Intern](https://jobright.ai/jobs/info/69786f6488e2b47213bc9554?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 26 |
-| **[Fabletics](https://www.fabletics.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6978171888e2b47213bc163a?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
-| **[Same Time Next Week With Andy Elliott](https://www.instagram.com/sametimenextweekshow/)** | **[Marketing + Partnerships Intern (Social First)](https://jobright.ai/jobs/info/6978166588e2b47213bc15ea?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 26 |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 Digital Content Intern](https://jobright.ai/jobs/info/69783b4339f7f96cc6d0874c?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Jan 26 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studio Marketing & Special Events Intern, Summer 2026](https://jobright.ai/jobs/info/6978438f88e2b47213bc5831?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | On Site | Jan 26 |
-| **[Wenspire](https://wenspire.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6978430e52f3c27ec6448068?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
