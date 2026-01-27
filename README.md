@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Global Marketing (Drunk Elephant)](https://jobright.ai/jobs/info/6978e55539f7f96cc6d13b23?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 27 |
+| **[Burns Engineering, Inc.](http://burns-group.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6978e4b952f3c27ec6452371?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jan 27 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[National Programming Group Summer Internship](https://jobright.ai/jobs/info/69407bd1aa598a08c3f0196b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 27 |
+| **[ASTM International](http://www.astm.org)** | **[Intern, Communications](https://jobright.ai/jobs/info/695c3904aa05c26e7ab58916?utm_campaign=1065&utm_source=git)** | West Conshohocken, PA | Hybrid | Jan 27 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6978dc8588e2b47213bcf593?utm_campaign=1065&utm_source=git)** | US Nationwide - Remote | Remote | Jan 27 |
+| **[Publix Super Markets](https://www.publix.com/)** | **[Intern - Customer Care & Social Media](https://jobright.ai/jobs/info/6978dc2452f3c27ec6451ede?utm_campaign=1065&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| ↳ | **[Intern – Brand Marketing & Communications](https://jobright.ai/jobs/info/6978db6839f7f96cc6d135ea?utm_campaign=1065&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Marketing (Summer 2026)](https://jobright.ai/jobs/info/6978d9f639f7f96cc6d13519?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 27 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Marketing Intern](https://jobright.ai/jobs/info/6940910e49a7695fbd0621d6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/6978d8f539f7f96cc6d1347b?utm_campaign=1065&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
@@ -64,10 +71,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Corporate Communications](https://jobright.ai/jobs/info/6978d53352f3c27ec6451b55?utm_campaign=1065&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern - Marketing Project Management Office](https://jobright.ai/jobs/info/6978d0e539f7f96cc6d12faf?utm_campaign=1065&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | **[Shaw’s and Star Market](https://www.shaws.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6976f7ab88e2b47213bad82a?utm_campaign=1065&utm_source=git)** | West Bridgewater, MA | On Site | Jan 27 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Events Internships](https://jobright.ai/jobs/info/6978e6c988e2b47213bcfaaa?utm_campaign=1065&utm_source=git)** | Redlands, CA | On Site | Jan 27 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6719311d6920306148c39217?utm_campaign=1065&utm_source=git)** | Lake Charles, LA | Hybrid | Jan 27 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[WRTW Merchandising Intern - Spring 2026](https://jobright.ai/jobs/info/696096297ebc25398eb67913?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Marketing Management Intern](https://jobright.ai/jobs/info/6941d46c50bbaf7650539bb4?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Jan 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Livestock Marketing Intern](https://jobright.ai/jobs/info/68cff1c6846f0b04af686481?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jan 27 |
+| **[Biome](Joinbiome.com)** | **[Campus Marketing Intern (Student Role)](https://jobright.ai/jobs/info/6978dcae39f7f96cc6d136aa?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
+| **[Haas Automation, Inc.](http://haascnc.com)** | **[Digital Marketing Intern  (50154)](https://jobright.ai/jobs/info/6978e38b52f3c27ec64522b7?utm_campaign=1065&utm_source=git)** | Oxnard, CA 93030 | On Site | Jan 27 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Communications Analyst (Marketing)](https://jobright.ai/jobs/info/6940518449a7695fbd05de36?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Product Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6893e2e0f47efe2113967a2b?utm_campaign=1065&utm_source=git)** | Attleboro, MA | On Site | Jan 27 |
 | **[State of Missouri](http://mo.gov)** | **[Communications Intern - NW District Office](https://jobright.ai/jobs/info/6978b7e188e2b47213bce2bc?utm_campaign=1065&utm_source=git)** | St Joseph, MO | On Site | Jan 27 |
@@ -119,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Marketing Spring Content Creation Internship (Unpaid)](https://jobright.ai/jobs/info/69784cb039f7f96cc6d0b351?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jan 26 |
 | **[LOFT](https://www.loft.com/)** | **[Social Media Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/695c7ac35e4962051b599967?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[SEO/GEO Editing and Publishing Intern](https://jobright.ai/jobs/info/697849cb88e2b47213bc5db4?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jan 26 |
-| **[Parrot Finance](https://www.parrotfinance.io/)** | **[Content and social media Spring Internship](https://jobright.ai/jobs/info/6978652139f7f96cc6d0cee3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 26 |
 | **[NRRINC Media LLC](http://nrrinc.net/)** | **[Sales And Marketing Intern (PAID)](https://jobright.ai/jobs/info/6978488939f7f96cc6d0a3c9?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Jan 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efcffa2668b7f545248ed?utm_campaign=1065&utm_source=git)** | Montgomery, AL | Hybrid | Jan 26 |
 | **[IP Corporation](https://www.ip-corporation.com)** | **[Marketing Intern (Year-Round)](https://jobright.ai/jobs/info/695c0e1422c9dc0d3d53ed4f?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Jan 26 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Activation Intern, Summer 2026 (10 Weeks) Denver, CO](https://jobright.ai/jobs/info/69782577fdeb8243a27b1a0f?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 26 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Marketing Intern (Paid)](https://jobright.ai/jobs/info/6978244288e2b47213bc24b2?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jan 26 |
 | **[APi Group](http://apigroupinc.com)** | **[2026 Summer Internship Program - Employment Brand Marketing Intern](https://jobright.ai/jobs/info/6978239752f3c27ec6445010?utm_campaign=1065&utm_source=git)** | New Brighton, MN | On Site | Jan 26 |
-| **[Allied Integrated Marketing](http://alliedim.com/)** | **[Multicultural Intern](https://jobright.ai/jobs/info/697857a688e2b47213bc8017?utm_campaign=1065&utm_source=git)** | Miami-Dade County, FL | Hybrid | Jan 26 |
-| **[CTC EdTech](www.ctcedtech.com)** | **[Digital Marketing Intern (Content & Social Media)](https://jobright.ai/jobs/info/697822a6fdeb8243a27b16eb?utm_campaign=1065&utm_source=git)** | San Jose, CA | Remote | Jan 26 |
-| **[Steelcase](https://www.steelcase.com/)** | **[Year-Round Marketing Intern - Grand Rapids, MI](https://jobright.ai/jobs/info/69782209fdeb8243a27b163f?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Jan 26 |
-| **[EverCommerce](https://www.evercommerce.com/)** | **[EverPro - Social Media Internship (Remote, US)](https://jobright.ai/jobs/info/69781fcd88e2b47213bc1fa7?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Jan 26 |
-| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69783d9539f7f96cc6d08ade?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 26 |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 Digital Content Intern](https://jobright.ai/jobs/info/69781ca7fdeb8243a27b1058?utm_campaign=1065&utm_source=git)** | Stamford, Connecticut | Hybrid | Jan 26 |
-| **[Volo Sports](https://www.volosports.com)** | **[Sports Operations Intern - Winter 26' - Jersey City/Hoboken](https://jobright.ai/jobs/info/69783d2539f7f96cc6d08a28?utm_campaign=1065&utm_source=git)** | East Hampton, NY | Hybrid | Jan 26 |
-| **[The Seagate Hotel, Golf & Beach Club, Autograph Collection](http://www.seagatedelray.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69781c1088e2b47213bc1b84?utm_campaign=1065&utm_source=git)** | Destin, FL, US | On Site | Jan 26 |
-| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Social Media - Marketplace](https://jobright.ai/jobs/info/69781be752f3c27ec644486b?utm_campaign=1065&utm_source=git)** | Saint Paul, Minnesota, United States | Remote | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
