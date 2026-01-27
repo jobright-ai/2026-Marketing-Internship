@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Communications Analyst (Marketing)](https://jobright.ai/jobs/info/6940518449a7695fbd05de36?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
+| **[Sensata Technologies](http://www.sensata.com)** | **[Product Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6893e2e0f47efe2113967a2b?utm_campaign=1065&utm_source=git)** | Attleboro, MA | On Site | Jan 27 |
+| **[State of Missouri](http://mo.gov)** | **[Communications Intern - NW District Office](https://jobright.ai/jobs/info/6978b7e188e2b47213bce2bc?utm_campaign=1065&utm_source=git)** | St Joseph, MO | On Site | Jan 27 |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Market Research/Customer Experience](https://jobright.ai/jobs/info/694764b77d506e3808f2adde?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/695da0abfbd62a0a65665358?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jan 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Social Media Intern, Summer 2026](https://jobright.ai/jobs/info/6978b1fd39f7f96cc6d10a72?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Corsair](http://www.corsair.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69406c4caa598a08c3f00b2e?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | ↳ | **[Elgato Social Media Intern](https://jobright.ai/jobs/info/694068fdaa598a08c3f00899?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
@@ -121,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efceaa2668b7f545248e8?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Jan 26 |
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694ef85f29655e4dd65890d9?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efef3ce13cd1056574302?utm_campaign=1065&utm_source=git)** | Jackson, MS | Hybrid | Jan 26 |
-| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6978465288e2b47213bc5bb2?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 26 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Activation Intern, Summer 2026 (10 Weeks) Phoenix, AZ](https://jobright.ai/jobs/info/6978285e52f3c27ec64455cc?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jan 26 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6978274f52f3c27ec6445499?utm_campaign=1065&utm_source=git)** | Niskayuna, NY | On Site | Jan 26 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Influencer & PR Marketing, Naturium](https://jobright.ai/jobs/info/6978452752f3c27ec6448356?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
@@ -136,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[CTC EdTech](www.ctcedtech.com)** | **[Digital Marketing Intern (Content & Social Media)](https://jobright.ai/jobs/info/697822a6fdeb8243a27b16eb?utm_campaign=1065&utm_source=git)** | San Jose, CA | Remote | Jan 26 |
 | **[Steelcase](https://www.steelcase.com/)** | **[Year-Round Marketing Intern - Grand Rapids, MI](https://jobright.ai/jobs/info/69782209fdeb8243a27b163f?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Jan 26 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverPro - Social Media Internship (Remote, US)](https://jobright.ai/jobs/info/69781fcd88e2b47213bc1fa7?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Jan 26 |
-| **[Just Salad](http://www.justsalad.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69781e05fdeb8243a27b11d3?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jan 26 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69783d9539f7f96cc6d08ade?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 26 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Digital Content Intern](https://jobright.ai/jobs/info/69781ca7fdeb8243a27b1058?utm_campaign=1065&utm_source=git)** | Stamford, Connecticut | Hybrid | Jan 26 |
 | **[Volo Sports](https://www.volosports.com)** | **[Sports Operations Intern - Winter 26' - Jersey City/Hoboken](https://jobright.ai/jobs/info/69783d2539f7f96cc6d08a28?utm_campaign=1065&utm_source=git)** | East Hampton, NY | Hybrid | Jan 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Digital Content Intern](https://jobright.ai/jobs/info/69783b4339f7f96cc6d0874c?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Jan 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studio Marketing & Special Events Intern, Summer 2026](https://jobright.ai/jobs/info/6978438f88e2b47213bc5831?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | On Site | Jan 26 |
 | **[Wenspire](https://wenspire.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6978430e52f3c27ec6448068?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 26 |
-| **[JustFab](https://www.justfab.de)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69783ab552f3c27ec64474ef?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
-| **[WorkInProgress](http://www.wipbdr.com)** | **[Summer Intern 2026 - Copywriter](https://jobright.ai/jobs/info/69782a44fdeb8243a27b1f83?utm_campaign=1065&utm_source=git)** | Boulder, CO ( Active ) | Hybrid | Jan 26 |
-| **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Growth Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/6973d07f37785856350da30e?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
