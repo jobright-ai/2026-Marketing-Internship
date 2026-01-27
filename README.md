@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Social Media Intern, Summer 2026](https://jobright.ai/jobs/info/6978b1fd39f7f96cc6d10a72?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 27 |
+| **[Corsair](http://www.corsair.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69406c4caa598a08c3f00b2e?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| ↳ | **[Elgato Social Media Intern](https://jobright.ai/jobs/info/694068fdaa598a08c3f00899?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| ↳ | **[Technical Marketing Content intern](https://jobright.ai/jobs/info/69406afaaa598a08c3f00a2b?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| ↳ | **[B2B Marketing Intern](https://jobright.ai/jobs/info/69407bf349a7695fbd05fd11?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Digital Marketing Intern](https://jobright.ai/jobs/info/695c3551f1f8465b79f23fb6?utm_campaign=1065&utm_source=git)** | Fort Washington, PA | On Site | Jan 27 |
+| **[Together AI](https://www.together.ai)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/695cd3f35e4962051b59f066?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 27 |
+| **[Primient](https://primient.com)** | **[Grain Merchandising Intern - Summer 2026](https://jobright.ai/jobs/info/69408f4549a7695fbd062019?utm_campaign=1065&utm_source=git)** | Watseka, IL | On Site | Jan 27 |
+| **[Corsair](http://www.corsair.com)** | **[Webstore Merchandising Intern](https://jobright.ai/jobs/info/694078be49a7695fbd05f88a?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Marketing Strategy Intern, Walt Disney World Resort, Summer/Fall 2026](https://jobright.ai/jobs/info/6978ade552f3c27ec644f129?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Jan 27 |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Marketing Summer Summer Internship 2026](https://jobright.ai/jobs/info/695cc84e1dfa954d1c46e5bd?utm_campaign=1065&utm_source=git)** | Egg Harbor, NJ | On Site | Jan 27 |
+| **[Hisense USA](http://hisense-usa.com)** | **[Retail Merchandising Intern](https://jobright.ai/jobs/info/691bb17a22a2cb4b9bd1508c?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Jan 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marketing Strategy Intern, Walt Disney World Resort, Summer/Fall 2026](https://jobright.ai/jobs/info/6978abb052f3c27ec644f0c8?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Jan 27 |
+| **[Corsair](http://www.corsair.com)** | **[Product Marketing Intern - Memory](https://jobright.ai/jobs/info/69406be449a7695fbd05ee0e?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[Brother USA](https://brother-usa.com)** | **[Go to Market (GTM) Strategy Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf82a22c9dc0d3d53de91?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68eae5a476a1db7c5985c6a2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Marketing Campaigns Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf63f22c9dc0d3d53ddb7?utm_campaign=1065&utm_source=git)** | Broomfield, CO | Hybrid | Jan 27 |
 | ↳ | **[Product Marketing Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695c03b922c9dc0d3d53e55c?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
@@ -108,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efef3ce13cd1056574302?utm_campaign=1065&utm_source=git)** | Jackson, MS | Hybrid | Jan 26 |
 | **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6978465288e2b47213bc5bb2?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 26 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Activation Intern, Summer 2026 (10 Weeks) Phoenix, AZ](https://jobright.ai/jobs/info/6978285e52f3c27ec64455cc?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jan 26 |
-| **[Liberty Home Care](http://www.libertyhomecare.org)** | **[Special Events Marketing Intern](https://jobright.ai/jobs/info/6978279b52f3c27ec64454f4?utm_campaign=1065&utm_source=git)** | Lockport, NY | On Site | Jan 26 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6978274f52f3c27ec6445499?utm_campaign=1065&utm_source=git)** | Niskayuna, NY | On Site | Jan 26 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Influencer & PR Marketing, Naturium](https://jobright.ai/jobs/info/6978452752f3c27ec6448356?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | **[Colorstech Solar](http://www.colorstech.net)** | **[Technical-Digital Marketing - Interns](https://jobright.ai/jobs/info/6978471988e2b47213bc5c54?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jan 26 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JustFab](https://www.justfab.de)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69783ab552f3c27ec64474ef?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
 | **[WorkInProgress](http://www.wipbdr.com)** | **[Summer Intern 2026 - Copywriter](https://jobright.ai/jobs/info/69782a44fdeb8243a27b1f83?utm_campaign=1065&utm_source=git)** | Boulder, CO ( Active ) | Hybrid | Jan 26 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Growth Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/6973d07f37785856350da30e?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Jan 26 |
-| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697828a052f3c27ec644560c?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 26 |
-| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Merchandising Category Intern](https://jobright.ai/jobs/info/68cd5ba4e23def7af55b89e2?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 26 |
-| **[JustFab](https://www.justfab.de)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6978081352f3c27ec6443cef?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
-| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Marketing Intern (Paid)](https://jobright.ai/jobs/info/6978277a88e2b47213bc2831?utm_campaign=1065&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
-| ↳ | **[Summer 2026 Public Relations Intern (Paid)](https://jobright.ai/jobs/info/697830cc39f7f96cc6d078ef?utm_campaign=1065&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
-| **[Freedom First Credit Union](https://www.freedomfirst.com)** | **[Summer Marketing Intern - 30 Hours a Week](https://jobright.ai/jobs/info/69782cee52f3c27ec6445b27?utm_campaign=1065&utm_source=git)** | 207 Bullitt Ave SE, Roanoke, VA, US | On Site | Jan 26 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[SEO/GEO Editing and Publishing Intern](https://jobright.ai/jobs/info/6978048e52f3c27ec6443bd1?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | On Site | Jan 26 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern, Marketing (Trade) (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69717700587dfa0bb55f299c?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
-| **[Hunter Agriculture](https://senninger.com)** | **[Intern - Event Marketing & Operations](https://jobright.ai/jobs/info/69782d0552f3c27ec6445b45?utm_campaign=1065&utm_source=git)** | San Marcos, California, United States | On Site | Jan 26 |
-| ↳ | **[Intern - Marketing Technology & AI Enablement](https://jobright.ai/jobs/info/697834ff39f7f96cc6d07e78?utm_campaign=1065&utm_source=git)** | San Marcos, California, United States | On Site | Jan 26 |
-| **[Tecovas](http://tecovas.com)** | **[Brand Marketing Intern - Internal Opportunity](https://jobright.ai/jobs/info/697802ff88e2b47213bc0d8f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 26 |
-| **[Vertex Inc.](https://www.vertexinc.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/697802dd88e2b47213bc0d7b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 26 |
-| **[Essense of Australia](https://www.essensedesigns.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6978256152f3c27ec6445239?utm_campaign=1065&utm_source=git)** | US-KS-Lenexa | On Site | Jan 26 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Celebrity PR Spring Internship](https://jobright.ai/jobs/info/69782a0d52f3c27ec64457c5?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
