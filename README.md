@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Brand Marketing Intern - Shelton, CT, US](https://jobright.ai/jobs/info/695c5fdfaa05c26e7ab5cb19?utm_campaign=1065&utm_source=git)** | Shelton, CT | On Site | Jan 27 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Go to Market Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695bccddf1f8465b79f1d84b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 26 |
 | **[Hallmark Media](http://www.hallmarkchannel.com/)** | **[Content Strategy Intern](https://jobright.ai/jobs/info/697867a288e2b47213bc8d99?utm_campaign=1065&utm_source=git)** | Burbank, California, United States | On Site | Jan 26 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Brand Marketing Intern](https://jobright.ai/jobs/info/695c248faa05c26e7ab57659?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Jan 26 |
 | **[Hallmark Media](http://www.hallmarkchannel.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6978667b39f7f96cc6d0d04c?utm_campaign=1065&utm_source=git)** | Burbank, California, United States | On Site | Jan 26 |
 | ↳ | **[Content Strategy Intern](https://jobright.ai/jobs/info/69785a4288e2b47213bc81ca?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 26 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6978589239f7f96cc6d0c75c?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 26 |
+| **[Fabletics](https://www.fabletics.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69786f7388e2b47213bc955a?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Marketing Spring Content Creation Internship (Unpaid)](https://jobright.ai/jobs/info/69784cb039f7f96cc6d0b351?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jan 26 |
 | **[LOFT](https://www.loft.com/)** | **[Social Media Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/695c7ac35e4962051b599967?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[SEO/GEO Editing and Publishing Intern](https://jobright.ai/jobs/info/697849cb88e2b47213bc5db4?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jan 26 |
@@ -115,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[GBA](http://gbateam.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697818e588e2b47213bc17e8?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Jan 26 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Activation Intern, Summer 2026 (10 Weeks) Northern California](https://jobright.ai/jobs/info/6978183588e2b47213bc1737?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 26 |
 | **[Allied Sports](https://alliedsports.com)** | **[Multicultural Intern](https://jobright.ai/jobs/info/69783b1339f7f96cc6d086fe?utm_campaign=1065&utm_source=git)** | Miami-Dade County, FL | Hybrid | Jan 26 |
+| **[Clarus](https://clarus.nyc/)** | **[UGC Content Intern](https://jobright.ai/jobs/info/69786f6488e2b47213bc9554?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 26 |
 | **[Fabletics](https://www.fabletics.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6978171888e2b47213bc163a?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
 | **[Same Time Next Week With Andy Elliott](https://www.instagram.com/sametimenextweekshow/)** | **[Marketing + Partnerships Intern (Social First)](https://jobright.ai/jobs/info/6978166588e2b47213bc15ea?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Digital Content Intern](https://jobright.ai/jobs/info/69783b4339f7f96cc6d0874c?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Jan 26 |
@@ -126,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697828a052f3c27ec644560c?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 26 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Merchandising Category Intern](https://jobright.ai/jobs/info/68cd5ba4e23def7af55b89e2?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 26 |
 | **[JustFab](https://www.justfab.de)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6978081352f3c27ec6443cef?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
-| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Marketing Intern (Paid)](https://jobright.ai/jobs/info/6978277a88e2b47213bc2831?utm_campaign=1065&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
-| ↳ | **[Summer 2026 Public Relations Intern (Paid)](https://jobright.ai/jobs/info/697830cc39f7f96cc6d078ef?utm_campaign=1065&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
+| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Public Relations Intern (Paid)](https://jobright.ai/jobs/info/697830cc39f7f96cc6d078ef?utm_campaign=1065&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
+| ↳ | **[Summer 2026 Marketing Intern (Paid)](https://jobright.ai/jobs/info/6978277a88e2b47213bc2831?utm_campaign=1065&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
 | **[Freedom First Credit Union](https://www.freedomfirst.com)** | **[Summer Marketing Intern - 30 Hours a Week](https://jobright.ai/jobs/info/69782cee52f3c27ec6445b27?utm_campaign=1065&utm_source=git)** | 207 Bullitt Ave SE, Roanoke, VA, US | On Site | Jan 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[SEO/GEO Editing and Publishing Intern](https://jobright.ai/jobs/info/6978048e52f3c27ec6443bd1?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | On Site | Jan 26 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern, Marketing (Trade) (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69717700587dfa0bb55f299c?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
@@ -137,24 +141,20 @@ For a complete list, click the following sortable link below:
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/697802dd88e2b47213bc0d7b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Essense of Australia](https://www.essensedesigns.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6978256152f3c27ec6445239?utm_campaign=1065&utm_source=git)** | US-KS-Lenexa | On Site | Jan 26 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Celebrity PR Spring Internship](https://jobright.ai/jobs/info/69782a0d52f3c27ec64457c5?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jan 26 |
-| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Social Media - Marketplace](https://jobright.ai/jobs/info/6978226efdeb8243a27b16b1?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Remote | Jan 26 |
-| ↳ | **[Intern, Social Media - Marketplace](https://jobright.ai/jobs/info/69781e4c88e2b47213bc1df8?utm_campaign=1065&utm_source=git)** | Pasadena, California, United States | Remote | Jan 26 |
+| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Social Media - Marketplace](https://jobright.ai/jobs/info/69781e4c88e2b47213bc1df8?utm_campaign=1065&utm_source=git)** | Pasadena, California, United States | Remote | Jan 26 |
+| ↳ | **[Intern, Social Media - Marketplace](https://jobright.ai/jobs/info/6978226efdeb8243a27b16b1?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Remote | Jan 26 |
 | ↳ | **[Intern, Brand Marketing](https://jobright.ai/jobs/info/697827f1fdeb8243a27b1ced?utm_campaign=1065&utm_source=git)** | Saint Paul, Minnesota, United States | Hybrid | Jan 26 |
 | **[JustFab](https://www.justfab.de)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6978010a88e2b47213bc0c59?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Communications Intern](https://jobright.ai/jobs/info/697800a488e2b47213bc0c1c?utm_campaign=1065&utm_source=git)** | Utah | Hybrid | Hybrid | Jan 26 |
 | **[Niagara Hospice](https://www.niagarahospice.org/)** | **[Special Events Marketing Intern](https://jobright.ai/jobs/info/6978427939f7f96cc6d0972a?utm_campaign=1065&utm_source=git)** | Lockport, NY, US | On Site | Jan 26 |
-| **[PIADA ITALIAN STREET FOOD](http://www.mypiada.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69781f4688e2b47213bc1f0b?utm_campaign=1065&utm_source=git)** | 18430 I-35 | Hybrid | Jan 26 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6978300b52f3c27ec6445f06?utm_campaign=1065&utm_source=git)** | 78154 | Hybrid | Jan 26 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69781c6352f3c27ec64448d5?utm_campaign=1065&utm_source=git)** | USA-TX-Schertz San Antonio | Hybrid | Jan 26 |
+| **[PIADA ITALIAN STREET FOOD](http://www.mypiada.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6978300b52f3c27ec6445f06?utm_campaign=1065&utm_source=git)** | 78154 | Hybrid | Jan 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6978208588e2b47213bc207b?utm_campaign=1065&utm_source=git)** | TX-Schertz San Antonio, UNAVAILABLE, USA | Hybrid | Jan 26 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69781c6352f3c27ec64448d5?utm_campaign=1065&utm_source=git)** | USA-TX-Schertz San Antonio | Hybrid | Jan 26 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69781f4688e2b47213bc1f0b?utm_campaign=1065&utm_source=git)** | 18430 I-35 | Hybrid | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Merchandising Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977fff288e2b47213bc0ba7?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Product Communications Summer Intern 2026](https://jobright.ai/jobs/info/6977fc5e88e2b47213bc0935?utm_campaign=1065&utm_source=git)** | Horsham, PA | Hybrid | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Public Relations Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977fc0e88e2b47213bc08f9?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | ↳ | **[Merchandising Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977f9e052f3c27ec6443463?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[WCF Insurance](https://www.wcf.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69704719587dfa0bb55dc87e?utm_campaign=1065&utm_source=git)** | Sandy, UT | On Site | Jan 26 |
 | **[Viega LLC](https://viega.us)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/6977f8a3fdeb8243a27afcf4?utm_campaign=1065&utm_source=git)** | Broomfield, CO | On Site | Jan 26 |
-| **[CME Group](http://www.cmegroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6977f84252f3c27ec64430ee?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
-| **[Viega LLC](https://viega.us)** | **[Segment Marketing Intern](https://jobright.ai/jobs/info/6977f7d152f3c27ec6443002?utm_campaign=1065&utm_source=git)** | Broomfield, CO | On Site | Jan 26 |
-| **[BEACH HOUSE GROUP](http://www.beachhousegrp.com/)** | **[Marketing Intern, NOYZ](https://jobright.ai/jobs/info/69781bc352f3c27ec6444846?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 26 |
-| **[Tecovas](http://tecovas.com)** | **[Brand Marketing Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977f60f52f3c27ec6442c3d?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
