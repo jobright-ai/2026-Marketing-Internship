@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yes Energy](https://www.yesenergy.com)** | **[RTO Insider Sales & Marketing Intern](https://jobright.ai/jobs/info/6979d528b4589b4ee87c0dfe?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Jan 28 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Halifax, NS](https://jobright.ai/jobs/info/693be7c949a7695fbd02d773?utm_campaign=1065&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 28 |
+| **[Yes Energy](https://www.yesenergy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6979d1f50791bc1d72309478?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Jan 28 |
+| **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Intern, Marketing and Internal Communications (Hybrid Schedule)](https://jobright.ai/jobs/info/69681e461703f05405a9bdbc?utm_campaign=1065&utm_source=git)** | Chevy Chase, MD | Hybrid | Jan 28 |
+| **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Market Intelligence Intern](https://jobright.ai/jobs/info/695e1f8526f1314697acfc29?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jan 28 |
 | **[Talbots](http://www.talbots.com)** | **[Intern: Merchandising - Summer 2026](https://jobright.ai/jobs/info/695dd159924bd9135dd455ff?utm_campaign=1065&utm_source=git)** | Hingham, MA | On Site | Jan 27 |
 | **[Compulse (Now Digital Remedy)](http://www.compulse.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6979bf1a0791bc1d72308758?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | Hybrid | Jan 27 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[TOWR-S Communications & Operations Intern](https://jobright.ai/jobs/info/695da851fbd62a0a65665d41?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Jan 27 |
 | **[Airgain, Inc.](https://airgain.com)** | **[Marketing Intern (Hybrid)](https://jobright.ai/jobs/info/695da56bfbd62a0a656658ca?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jan 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Corporate Marketing Intern (PHX)](https://jobright.ai/jobs/info/6979b05bca92cf0d6a82faa2?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Jan 27 |
+| **[DentalScan](https://www.replyquick.ai/dentalscan)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/6979cbfb0791bc1d72308f80?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Advertising Specialty Institute](http://asicentral.com/)** | **[Digital Advertising Intern](https://jobright.ai/jobs/info/695d71a2fbd62a0a656608dc?utm_campaign=1065&utm_source=git)** | Trevose, PA | Hybrid | Jan 27 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer Music Group Marketing Intern](https://jobright.ai/jobs/info/6979a9300791bc1d723079ea?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jan 27 |
 | ↳ | **[Insomniac - Paid Summer Community Engagement Intern](https://jobright.ai/jobs/info/6979a5b00791bc1d723077c5?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | Jan 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern – Los Angeles (Hybrid)](https://jobright.ai/jobs/info/6920057fa49a885af9a360e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 27 |
 | **[American College of Chest Physicians](https://www.chestnet.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/697976aeca92cf0d6a82996f?utm_campaign=1065&utm_source=git)** | Glenview,IL,US | Hybrid | Jan 27 |
 | **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/697982f0ca92cf0d6a82ad25?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
-| **[Performance Auto Group](https://www.performance.ca/)** | **[Media Content Intern (Performance Auto Group - Head Office Niagara) (4-Month Contract)](https://jobright.ai/jobs/info/697974dd0791bc1d72301cfc?utm_campaign=1065&utm_source=git)** | St. Catharines, Ontario | On Site | Jan 27 |
-| **[Northern California Golf Association and Poppy Holding Inc.](https://www.ncga.org/)** | **[PJ Boatwright Intern - Membership & Marketing (NCGA)](https://jobright.ai/jobs/info/697975199c90a224ecc32d2e?utm_campaign=1065&utm_source=git)** | Pebble Beach,CA,US | On Site | Jan 27 |
-| **[Southwire Company](http://southwire.com)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69794f5152f3c27ec645b18e?utm_campaign=1065&utm_source=git)** | Remo, VA | Remote | Jan 27 |
-| **[Vertex Inc.](https://www.vertexinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69794f2852f3c27ec645b162?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
-| **[Austin American-Statesman](http://www.statesman.com/)** | **[Paid Media Summer Intern, 2026](https://jobright.ai/jobs/info/69794e5852f3c27ec645b061?utm_campaign=1065&utm_source=git)** | 1954 Commerce Street, Dallas, TX, 75201, US | Hybrid | Jan 27 |
-| **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/69794e5488e2b47213bd866d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
