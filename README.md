@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airgain, Inc.](https://airgain.com)** | **[Marketing Intern (Hybrid)](https://jobright.ai/jobs/info/695da56bfbd62a0a656658ca?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jan 27 |
+| **[Matthews™](https://www.matthews.com/)** | **[Corporate Marketing Intern (PHX)](https://jobright.ai/jobs/info/6979b05bca92cf0d6a82faa2?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Jan 27 |
+| **[Advertising Specialty Institute](http://asicentral.com/)** | **[Digital Advertising Intern](https://jobright.ai/jobs/info/695d71a2fbd62a0a656608dc?utm_campaign=1065&utm_source=git)** | Trevose, PA | Hybrid | Jan 27 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer Music Group Marketing Intern](https://jobright.ai/jobs/info/6979a9300791bc1d723079ea?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jan 27 |
 | ↳ | **[Insomniac - Paid Summer Community Engagement Intern](https://jobright.ai/jobs/info/6979a5b00791bc1d723077c5?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | Jan 27 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Intern](https://jobright.ai/jobs/info/695def3e4b7a590c5b9556a8?utm_campaign=1065&utm_source=git)** | New Haven, CT | On Site | Jan 27 |
@@ -69,8 +72,11 @@ For a complete list, click the following sortable link below:
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69799c67d7df290257fc0192?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Candid](https://candid.org)** | **[Communications & Brand Awareness Intern (Summer 2026)](https://jobright.ai/jobs/info/69407e0150bbaf765052814c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
 | **[Masimo](http://www.masimo.com)** | **[2026 Summer Intern - Marketing, Sustainability](https://jobright.ai/jobs/info/695de03ae4cdbb1454cfdd4a?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jan 27 |
+| **[Odlum Brown Limited](https://www.odlumbrown.com)** | **[Marketing and Communications Intern (Five-Month Contract)](https://jobright.ai/jobs/info/6979b1b6d7df290257fc220c?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 27 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Global Events Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6979929cca92cf0d6a82bfa6?utm_campaign=1065&utm_source=git)** | St Louis, MO | Remote | Jan 27 |
 | **[SHIP AI LABS](www.shipailabs.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6979919dd7df290257fbe8c9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
+| **[Luminerra](https://www.luminerra.net/)** | **[Growth/Operations Intern](https://jobright.ai/jobs/info/6979b4b90791bc1d72308055?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
+| **[Yes Energy](https://www.yesenergy.com)** | **[RTO Insider Sales & Marketing Intern](https://jobright.ai/jobs/info/6979aad7ca92cf0d6a82f6a0?utm_campaign=1065&utm_source=git)** | Boulder, Colorado | Hybrid | Jan 27 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Marketing - Event Marketing Intern](https://jobright.ai/jobs/info/69798a970791bc1d723039d0?utm_campaign=1065&utm_source=git)** | Ridgefield, CT | Hybrid | Jan 27 |
 | **[Sloan](https://www.sloan.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69798889ca92cf0d6a82b0b2?utm_campaign=1065&utm_source=git)** | Franklin Park, IL | On Site | Jan 27 |
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Intern, Media Relations (Hybrid Schedule)](https://jobright.ai/jobs/info/695dcc3a403df63191d5b7a3?utm_campaign=1065&utm_source=git)** | Chevy Chase, MD | Hybrid | Jan 27 |
@@ -86,12 +92,12 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Finance Retail Intern](https://jobright.ai/jobs/info/6979821fca92cf0d6a82ac45?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 27 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Brand Intern (Marketing)](https://jobright.ai/jobs/info/697981519c90a224ecc3405a?utm_campaign=1065&utm_source=git)** | San Carlos, CA | Hybrid | Jan 27 |
 | **[Scheels](http://www.scheels.com)** | **[Digital Merchandising Internship](https://jobright.ai/jobs/info/69799d520791bc1d72305b54?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Jan 27 |
-| ↳ | **[E-Commerce Writer Intern](https://jobright.ai/jobs/info/6979a0bdd7df290257fc10b2?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Jan 27 |
+| **[HELPipedia](https://helpipedia.org)** | **[* Marketing Intern * Research Intern](https://jobright.ai/jobs/info/6979b8130791bc1d7230829f?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Jan 27 |
+| **[Scheels](http://www.scheels.com)** | **[E-Commerce Writer Intern](https://jobright.ai/jobs/info/6979a0bdd7df290257fc10b2?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Jan 27 |
 | **[FourSteps Solutions](https://www.foursteps.solutions)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6979a80cca92cf0d6a82f526?utm_campaign=1065&utm_source=git)** | Fremont, CA | Hybrid | Jan 27 |
 | **[Troon](http://www.troon.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/695d916af1f8465b79f3d5ed?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Jan 27 |
 | **[Atmosfy](https://atmosfy.io)** | **[Social Media Intern (TikTok)](https://jobright.ai/jobs/info/6972bdb04ccbf64f8df2c8ba?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern Merchandising](https://jobright.ai/jobs/info/6973a6e9206da320f49dabce?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 27 |
-| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/697979a4ca92cf0d6a829c2e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Velera](https://www.velera.com)** | **[Intern - Marketing Performance Analyst](https://jobright.ai/jobs/info/6969bf3af25a3800669876b8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Market Research Intern - Summer 2026](https://jobright.ai/jobs/info/697975220791bc1d72301d41?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 27 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Marketing - Event Marketing Intern](https://jobright.ai/jobs/info/697974200791bc1d72301c46?utm_campaign=1065&utm_source=git)** | Ridgefield, CT 06877, USA | Hybrid | Jan 27 |
@@ -128,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Finance Retail Intern](https://jobright.ai/jobs/info/6979598939f7f96cc6d1cf1a?utm_campaign=1065&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jan 27 |
 | ↳ | **[Summer 2026 Human Resources Retail Intern](https://jobright.ai/jobs/info/6979591a88e2b47213bd8e44?utm_campaign=1065&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jan 27 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Global Branding & Communications Intern](https://jobright.ai/jobs/info/697958e288e2b47213bd8e18?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Jan 27 |
-| **[DemaDose](https://www.demadose.com/)** | **[Content Marketing](https://jobright.ai/jobs/info/6979587b88e2b47213bd8dce?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jan 27 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Digital Marketing/SEO Intern - Chicago, IL - AZEK](https://jobright.ai/jobs/info/6979585939f7f96cc6d1ce00?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Retrofête](https://retrofete.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/697957dd39f7f96cc6d1cd96?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jan 27 |
 | **[Odlum Brown Limited](https://www.odlumbrown.com)** | **[Marketing and Communications Intern (Five-Month Contract)](https://jobright.ai/jobs/info/69797fd79c90a224ecc33ebf?utm_campaign=1065&utm_source=git)** | Odlum Brown Limited, 1100-250 Howe Street, Vancouver, British Columbia, Canada | On Site | Jan 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Global Market Access and Pricing Intern](https://jobright.ai/jobs/info/69794c5852f3c27ec645ae15?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Jan 27 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[PR Intern - Summer 2026](https://jobright.ai/jobs/info/695d292af5f3c43f38e1edd7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[Ascension](https://www.ascensionpress.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6979469588e2b47213bd7d22?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
-| **[Value Aligners](Valuealigners.com)** | **[CyberSecurity Marketing Intern](https://jobright.ai/jobs/info/69797abaca92cf0d6a829d3f?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jan 27 |
-| **[FGS Global](https://fgsglobal.com)** | **[Intern, Vancouver](https://jobright.ai/jobs/info/697944f039f7f96cc6d1bc24?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 27 |
-| **[Analog Devices](http://www.analog.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/695e231e2847344df473a47a?utm_campaign=1065&utm_source=git)** | Wilmington, MA | On Site | Jan 27 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Marketing Retail Intern](https://jobright.ai/jobs/info/69793ceb39f7f96cc6d1ae7c?utm_campaign=1065&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jan 27 |
-| ↳ | **[Summer 2026 STR MGMT/LEADERSHIP ESSENTALS Retail INTERN](https://jobright.ai/jobs/info/69793b9e52f3c27ec6458db9?utm_campaign=1065&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
