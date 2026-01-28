@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilb Group](http://hilbgroup.com)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/697963f852f3c27ec645da0c?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | On Site | Jan 27 |
+| **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern – New York City (Hybrid)](https://jobright.ai/jobs/info/69422c6714ee092a69005bc9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/695d6956f5f3c43f38e23292?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 27 |
+| **[Tactile Medical](https://tactilemedical.com)** | **[Market Development Intern](https://jobright.ai/jobs/info/695d3cf2f5f3c43f38e1f690?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 27 |
+| **[P.L. Marketing, Inc.](https://plmarketing.net)** | **[Communications and Digital Media Internship](https://jobright.ai/jobs/info/69795d0788e2b47213bd910e?utm_campaign=1065&utm_source=git)** | Newport, KY | Hybrid | Jan 27 |
+| **[Soccer Shots Los Angeles](http://www.soccershots.org/losangeles)** | **[College Internship Spring Term](https://jobright.ai/jobs/info/69795bd552f3c27ec645c7c7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
+| **[MoodStream](https://moodstream.photos/)** | **[Marketing Intern (Campus Ambassador)](https://jobright.ai/jobs/info/69795bc888e2b47213bd9059?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Jan 27 |
 | **[Meijer](https://www.meijer.com/)** | **[Merchandising Intern- Summer 2026](https://jobright.ai/jobs/info/69795a0288e2b47213bd8f0a?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Jan 27 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Senior Communications Specialist (internal only)](https://jobright.ai/jobs/info/697959bf52f3c27ec645bfa1?utm_campaign=1065&utm_source=git)** | Newport, KY | On Site | Jan 27 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Finance Retail Intern](https://jobright.ai/jobs/info/6979598939f7f96cc6d1cf1a?utm_campaign=1065&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jan 27 |
@@ -80,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://www.ascensionpress.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6979469588e2b47213bd7d22?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
 | **[FGS Global](https://fgsglobal.com)** | **[Intern, Vancouver](https://jobright.ai/jobs/info/697944f039f7f96cc6d1bc24?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 27 |
 | **[Analog Devices](http://www.analog.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/695e231e2847344df473a47a?utm_campaign=1065&utm_source=git)** | Wilmington, MA | On Site | Jan 27 |
+| **[Waveroom](https://www.linkedin.com/company/90502788)** | **[Campaign Management Internship (Media Sales)](https://jobright.ai/jobs/info/69795c4052f3c27ec645c949?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jan 27 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Marketing Retail Intern](https://jobright.ai/jobs/info/69793ceb39f7f96cc6d1ae7c?utm_campaign=1065&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jan 27 |
 | ↳ | **[Summer 2026 STR MGMT/LEADERSHIP ESSENTALS Retail INTERN](https://jobright.ai/jobs/info/69793b9e52f3c27ec6458db9?utm_campaign=1065&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jan 27 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Creative & Brand Copywriting](https://jobright.ai/jobs/info/69793a9e88e2b47213bd645b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 27 |
@@ -126,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69791cfa52f3c27ec645625e?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 27 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Communications](https://jobright.ai/jobs/info/697938e152f3c27ec6458735?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 27 |
 | ↳ | **[Intern, Merchandising](https://jobright.ai/jobs/info/69793cc439f7f96cc6d1ae19?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 27 |
-| **[oakpool](http://www.oakpool.xyz)** | **[Social & Community Management Intern](https://jobright.ai/jobs/info/69794b8d88e2b47213bd82ef?utm_campaign=1065&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Jan 27 |
 | **[STgenetics](https://www.stgen.com/default.aspx)** | **[Beef Marketing Internship](https://jobright.ai/jobs/info/69791be439f7f96cc6d17918?utm_campaign=1065&utm_source=git)** | Navasota, TX | On Site | Jan 27 |
 | **[Phillips Edison & Company](http://phillipsedison.com)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/69791ae052f3c27ec6455fd6?utm_campaign=1065&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Jan 27 |
 | **[IBM](http://www.ibm.com)** | **[IBM FinOps Product Marketing Intern](https://jobright.ai/jobs/info/69793a2252f3c27ec6458a21?utm_campaign=1065&utm_source=git)** | Bellevue, WA | Hybrid | Jan 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sweety High Media](http://www.sweetyhigh.com)** | **[Spring 2026 Social Media Marketing and Brand Strategy Internship](https://jobright.ai/jobs/info/69790c8652f3c27ec64554a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69407e5950bbaf76505281fe?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Social Media & Digital Content Intern](https://jobright.ai/jobs/info/6979327388e2b47213bd516b?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jan 27 |
-| **[Four Hands](https://fourhands.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6979098688e2b47213bd2132?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 27 |
-| **[Kiln](https://kiln.co/)** | **[Social Media Intern](https://jobright.ai/jobs/info/697941db39f7f96cc6d1b91a?utm_campaign=1065&utm_source=git)** | Lehi, Utah, United States | On Site | Jan 27 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 STR MGMT/LEADERSHIP ESSENTALS Retail INTERN](https://jobright.ai/jobs/info/697936d252f3c27ec6458282?utm_campaign=1065&utm_source=git)** | 1446 Schleter Rd, Seymour, IN, 47274, US | On Site | Jan 27 |
-| **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Intern - Marketing & Flight Ops](https://jobright.ai/jobs/info/6979086d88e2b47213bd1e1e?utm_campaign=1065&utm_source=git)** | Mobile, AL | On Site | Jan 27 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Marketing Insights](https://jobright.ai/jobs/info/697927f239f7f96cc6d189e3?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
-| **[ChangeMakers](https://changemakers.ca)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6979067b52f3c27ec6454faa?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 27 |
-| **[Hoyle, Tanner & Associates, Inc.](http://hoyletanner.com)** | **[Marketing Intern - Manchester, NH](https://jobright.ai/jobs/info/697927c588e2b47213bd45a9?utm_campaign=1065&utm_source=git)** | Manchester,NH,US | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
