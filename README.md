@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talbots](http://www.talbots.com)** | **[Intern: Merchandising - Summer 2026](https://jobright.ai/jobs/info/695dd159924bd9135dd455ff?utm_campaign=1065&utm_source=git)** | Hingham, MA | On Site | Jan 27 |
+| **[Compulse (Now Digital Remedy)](http://www.compulse.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6979bf1a0791bc1d72308758?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | Hybrid | Jan 27 |
+| **[KBR Careers](https://careers.kbr.com/)** | **[TOWR-S Communications & Operations Intern](https://jobright.ai/jobs/info/695da851fbd62a0a65665d41?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Jan 27 |
 | **[Airgain, Inc.](https://airgain.com)** | **[Marketing Intern (Hybrid)](https://jobright.ai/jobs/info/695da56bfbd62a0a656658ca?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jan 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Corporate Marketing Intern (PHX)](https://jobright.ai/jobs/info/6979b05bca92cf0d6a82faa2?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Jan 27 |
 | **[Advertising Specialty Institute](http://asicentral.com/)** | **[Digital Advertising Intern](https://jobright.ai/jobs/info/695d71a2fbd62a0a656608dc?utm_campaign=1065&utm_source=git)** | Trevose, PA | Hybrid | Jan 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69794f2852f3c27ec645b162?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Austin American-Statesman](http://www.statesman.com/)** | **[Paid Media Summer Intern, 2026](https://jobright.ai/jobs/info/69794e5852f3c27ec645b061?utm_campaign=1065&utm_source=git)** | 1954 Commerce Street, Dallas, TX, 75201, US | Hybrid | Jan 27 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/69794e5488e2b47213bd866d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
-| **[Sanofi](https://www.sanofi.com)** | **[Global Market Access and Pricing Intern](https://jobright.ai/jobs/info/69794c5852f3c27ec645ae15?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Jan 27 |
-| **[Ann Taylor](http://www.anntaylor.com)** | **[PR Intern - Summer 2026](https://jobright.ai/jobs/info/695d292af5f3c43f38e1edd7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 27 |
-| **[Ascension](https://www.ascensionpress.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6979469588e2b47213bd7d22?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
