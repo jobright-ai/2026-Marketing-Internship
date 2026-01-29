@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KLA](https://www.kla.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/694334f7dd382f5f56692858?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Jan 29 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marketing Analytics Intern, New York City, Summer 2026](https://jobright.ai/jobs/info/697b4eb21136d179eeeec3f3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 29 |
+| **[Legends Global](http://legends.net)** | **[Events Services Intern](https://jobright.ai/jobs/info/690a96b84a1b456627b0980e?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Jan 29 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing (Social Media Focused) Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943693ddd382f5f56697424?utm_campaign=1065&utm_source=git)** | Portsmouth, VA | On Site | Jan 29 |
+| **[Silver Sentinel](https://www.linkedin.com/company/108054754)** | **[GTM and PR Interns](https://jobright.ai/jobs/info/697b4a381136d179eeeec28f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 29 |
+| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sr. Associate Brand Manager Intern](https://jobright.ai/jobs/info/68cd8a51b2a74e1837ed8618?utm_campaign=1065&utm_source=git)** | East Hanover, NJ | On Site | Jan 29 |
 | **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/692644bff0beb0723262395e?utm_campaign=1065&utm_source=git)** | Madison, WI | Hybrid | Jan 29 |
 | **[Epic Games](https://epicgames.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6973a455206da320f49daa77?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Jan 29 |
 | **[SYC](www.syccase.co.uk)** | **[Internship - Search & Social Media](https://jobright.ai/jobs/info/697b32c917b11b1c2e4248c7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 29 |
@@ -134,14 +140,14 @@ For a complete list, click the following sortable link below:
 | **[SERC Reliability Corporation](http://www.serc1.org)** | **[Intern, Communications](https://jobright.ai/jobs/info/697ad9c017b11b1c2e41a7b9?utm_campaign=1065&utm_source=git)** | Charlotte, NC, USA, 28277 | On Site | Jan 28 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Marketing Automation Intern](https://jobright.ai/jobs/info/697aa8f29d60e431a16c4232?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 28 |
 | **[Scheels](http://www.scheels.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/697ac921f6fc293b0a2cc322?utm_campaign=1065&utm_source=git)** | Fargo, North Dakota, United States | On Site | Jan 28 |
-| **[Gmarketing](https://www.g-mktg.com/)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/697aa791f6fc293b0a2c90e6?utm_campaign=1065&utm_source=git)** | Annapolis, MD | On Site | Jan 28 |
+| **[Terra Collective Agency](https://www.terracollectiveagency.com/home)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/697aa791f6fc293b0a2c90e6?utm_campaign=1065&utm_source=git)** | Annapolis, MD | On Site | Jan 28 |
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2026 Summer Internship Program - Marketing, Product & Sales](https://jobright.ai/jobs/info/697aa6faf6fc293b0a2c9012?utm_campaign=1065&utm_source=git)** | Jacksonville - Florida - United States | On Site | Jan 28 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/697af2a01423772304eaeb75?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 28 |
 | **[tonies®](https://us.tonies.com)** | **[US Summer Internship - Marketing - Secondhand Market Project](https://jobright.ai/jobs/info/697af266c532c4768fe0bdec?utm_campaign=1065&utm_source=git)** | US remote | Remote | Jan 28 |
 | ↳ | **[US Summer Internship - Consumer Insights](https://jobright.ai/jobs/info/697ae9a7c532c4768fe0a6cb?utm_campaign=1065&utm_source=git)** | US remote | Remote | Jan 28 |
 | **[Briggs and Morgan, P.A. (now Taft Law)](http://briggs.com)** | **[Digital Marketing Intern (Columbus)](https://jobright.ai/jobs/info/697aa4019d60e431a16c3a92?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Marketing Intern (Immediate start)](https://jobright.ai/jobs/info/697ac1ad9d60e431a16c6a5e?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | On Site | Jan 28 |
-| ↳ | **[Marketing Intern (Immediate start)](https://jobright.ai/jobs/info/697ac54df6fc293b0a2cbf95?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | On Site | Jan 28 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Marketing Intern (Immediate start)](https://jobright.ai/jobs/info/697ac54df6fc293b0a2cbf95?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | On Site | Jan 28 |
+| ↳ | **[Marketing Intern (Immediate start)](https://jobright.ai/jobs/info/697ac1ad9d60e431a16c6a5e?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | On Site | Jan 28 |
 | **[IQAir: First in Air Quality](https://www.iqair.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/697af0261423772304eae77c?utm_campaign=1065&utm_source=git)** | La Mirada, CA | Hybrid | Jan 28 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern, Brand Publishing- 12 month contract (Toronto Hybrid)](https://jobright.ai/jobs/info/697acc648dbbf73badc81af9?utm_campaign=1065&utm_source=git)** | CA-ON-Toronto | Hybrid | Jan 28 |
 | **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697aa3368dbbf73badc7df59?utm_campaign=1065&utm_source=git)** | South San Francisco, CA | On Site | Jan 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GPTZero](https://gptzero.me)** | **[Social Media Intern](https://jobright.ai/jobs/info/697ac0358dbbf73badc80ff2?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Bella+Gaia](https://bellaandgaia.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697abbd48dbbf73badc80c2b?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jan 28 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Marketing Analysis Intern - Chicago, IL - AZEK](https://jobright.ai/jobs/info/697abd559d60e431a16c666a?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
-| **[HBK Engineering, LLC](http://hbkengineering.com)** | **[Marketing Intern (Immediate start)](https://jobright.ai/jobs/info/697a9875f6fc293b0a2c7fb5?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
-| **[CHAGEE USA](https://www.chagee.us/)** | **[HRIS Intern](https://jobright.ai/jobs/info/697a97c2f6fc293b0a2c7dfa?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jan 28 |
-| **[Sachin & Babi](https://www.sachinandbabi.com)** | **[Fashion E-commerce And Digital Marketing Intern](https://jobright.ai/jobs/info/697a95e3f6fc293b0a2c7a0c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[Henkel](http://www.henkel.com)** | **[Employer Branding Intern – Summer 2026](https://jobright.ai/jobs/info/697a95928dbbf73badc7cd8d?utm_campaign=1065&utm_source=git)** | Rocky Hill, CT | Hybrid | Jan 28 |
-| **[MERGE](http://www.mergeworld.com/)** | **[Email Orchestration Intern](https://jobright.ai/jobs/info/697a92fd8dbbf73badc7c7c7?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
-| **[cupl](www.cupl.io)** | **[Growth Marketing Intern (Spring 2026)](https://jobright.ai/jobs/info/697a90a99d60e431a16c1e9e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
