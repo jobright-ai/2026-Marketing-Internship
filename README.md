@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EduGlobal Inc.](eduglobal.ca)** | **[Digital Marketing & Growth Intern (In-Person)](https://jobright.ai/jobs/info/697b01cf1423772304eb0add?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Promotions & Events Marketing - Part Time](https://jobright.ai/jobs/info/697addbbc532c4768fe09457?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Jan 28 |
 | **[Scheels](http://www.scheels.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/697aeca41423772304eae214?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Jan 28 |
 | **[Guidewire Software](http://www.guidewire.com)** | **[Customer Marketing Intern](https://jobright.ai/jobs/info/6966c17e5ad3a93f8232161f?utm_campaign=1065&utm_source=git)** | Birmingham, AL | Hybrid | Jan 28 |
@@ -69,6 +70,8 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Brand](https://jobright.ai/jobs/info/697adf54c532c4768fe0961b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
 | ↳ | **[Summer Intern, Community](https://jobright.ai/jobs/info/697adddfc532c4768fe09475?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
 | ↳ | **[Summer Intern, Social Media, e.l.f.](https://jobright.ai/jobs/info/697adc47c532c4768fe092c7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
+| **[Romatan Group](https://www.linkedin.com/company/110106257)** | **[Social Media Growth Intern (TikTok & Instagram) — Unpaid](https://jobright.ai/jobs/info/697b012a1423772304eb0983?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 28 |
+| **[Donaldson](http://donaldson.com)** | **[Marketing Intelligence & Strategy Analyst Intern](https://jobright.ai/jobs/info/6977eb84fdeb8243a27ae1fd?utm_campaign=1065&utm_source=git)** | Bloomington, MN | On Site | Jan 28 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - CRM Lifecycle Marketing](https://jobright.ai/jobs/info/6979250d39f7f96cc6d185a2?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jan 28 |
 | **[ASTM International](http://www.astm.org)** | **[Intern, Publishing Analyst](https://jobright.ai/jobs/info/695c32f922c9dc0d3d541194?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 28 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Digital GTM & CRM](https://jobright.ai/jobs/info/697ad5d917b11b1c2e41a3e4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/697a8e40f6fc293b0a2c6a25?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
 | ↳ | **[Marketing Operations Intern](https://jobright.ai/jobs/info/697a97e9f6fc293b0a2c7e58?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
 | **[CBRE](https://www.cbre.com)** | **[Talent Marketing Intern](https://jobright.ai/jobs/info/697aae778dbbf73badc7ef4d?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 28 |
-| **[Covalence Healthcare Consulting](https://www.covalencehealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697aaa639d60e431a16c4451?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Jan 28 |
 | **[North Jersey Friendship House, Inc.](https://njfriendshiphouse.org)** | **[Intern - Marketing and Communications - Summer 2026](https://jobright.ai/jobs/info/697aef3c17b11b1c2e41cff0?utm_campaign=1065&utm_source=git)** | 496 Kinderkamack Road, Oradell, NJ, USA | On Site | Jan 28 |
 | **[SERC Reliability Corporation](http://www.serc1.org)** | **[Intern, Communications](https://jobright.ai/jobs/info/697ad9c017b11b1c2e41a7b9?utm_campaign=1065&utm_source=git)** | Charlotte, NC, USA, 28277 | On Site | Jan 28 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Marketing Automation Intern](https://jobright.ai/jobs/info/697aa8f29d60e431a16c4232?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sheep Marketing Intern](https://jobright.ai/jobs/info/65076e1d9fd81a9623a81973?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Retention Marketing](https://jobright.ai/jobs/info/697a8dc49d60e431a16c195a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Marketing & Proposal Internship](https://jobright.ai/jobs/info/697a8d629d60e431a16c1894?utm_campaign=1065&utm_source=git)** | Williamsville, NY, US | On Site | Jan 28 |
-| ↳ | **[Marketing & Proposal Internship](https://jobright.ai/jobs/info/697a8d4b8dbbf73badc7bc69?utm_campaign=1065&utm_source=git)** | Williamsville, NY | On Site | Jan 28 |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 Product Marketing Intern - Advanced Concepts - Cuisinart](https://jobright.ai/jobs/info/695ec933a112b402660d7fe1?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
