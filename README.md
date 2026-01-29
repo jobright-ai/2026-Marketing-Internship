@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SYC](www.syccase.co.uk)** | **[Internship - Search & Social Media](https://jobright.ai/jobs/info/697b32c917b11b1c2e4248c7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 29 |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Marketing, Betsey Johnson - LIC](https://jobright.ai/jobs/info/697b2bd91136d179eeee9d1d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 29 |
 | **[ASML](https://www.asml.com)** | **[Internship - Product Marketing / Communication](https://jobright.ai/jobs/info/695f5887a112b402660e0988?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Livability Intern](https://jobright.ai/jobs/info/693248f7a0dde7020e2e5345?utm_campaign=1065&utm_source=git)** | Anchorage, AK | Hybrid | Jan 29 |
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/695edb8d0badca5763af53e8?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 28 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Marketing & Impact Intern](https://jobright.ai/jobs/info/695f4cffa112b402660e04dc?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Chapter Network Community Intern - Spring 2026](https://jobright.ai/jobs/info/697b31651136d179eeeeac9f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Parrot Finance](https://www.parrotfinance.io/)** | **[Content and social media Spring Internship 2026](https://jobright.ai/jobs/info/697b24ad17b11b1c2e422987?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 28 |
 | **[EduGlobal Inc.](eduglobal.ca)** | **[Digital Marketing & Growth Intern (In-Person)](https://jobright.ai/jobs/info/697b01cf1423772304eb0add?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 28 |
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/697b17081136d179eeee7d55?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 28 |
@@ -119,8 +122,7 @@ For a complete list, click the following sortable link below:
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/695ecc7e0badca5763af43c5?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Jan 28 |
 | **[Synthego](http://www.synthego.com)** | **[Commercial Marketing Intern](https://jobright.ai/jobs/info/697adf4dc532c4768fe09611?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 28 |
 | **[State Bar of California](http://calbar.ca.gov)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/697ae43517b11b1c2e41b5d9?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | Hybrid | Jan 28 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Revenue Growth Management Strategy and Planning Intern](https://jobright.ai/jobs/info/697add5a17b11b1c2e41ab72?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
-| ↳ | **[Marketing Technologies Intern](https://jobright.ai/jobs/info/697ada5917b11b1c2e41a846?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Marketing Technologies Intern](https://jobright.ai/jobs/info/697ada5917b11b1c2e41a846?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Marketing Technology Engineering Intern](https://jobright.ai/jobs/info/697adafa17b11b1c2e41a8dd?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[MERGE](http://www.mergeworld.com/)** | **[Precision Media Activation Intern](https://jobright.ai/jobs/info/697a9319f6fc293b0a2c73c8?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
 | ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/697a8e40f6fc293b0a2c6a25?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fitnescity Health](https://www.fitnescity.com/)** | **[Social Media Specialist (Intern)](https://jobright.ai/jobs/info/697a9048f6fc293b0a2c6dd9?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Marketing Analytics](https://jobright.ai/jobs/info/697a8f408dbbf73badc7bfa5?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sheep Marketing Intern](https://jobright.ai/jobs/info/65076e1d9fd81a9623a81973?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jan 28 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Retention Marketing](https://jobright.ai/jobs/info/697a8dc49d60e431a16c195a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[WENDEL Companies](https://wendelcompanies.com)** | **[Marketing & Proposal Internship](https://jobright.ai/jobs/info/697a8d629d60e431a16c1894?utm_campaign=1065&utm_source=git)** | Williamsville, NY, US | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
