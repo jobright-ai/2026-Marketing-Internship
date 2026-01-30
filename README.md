@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Voodoo](http://www.voodoo.io/)** | **[Social Media Manager - Blitz - Internship](https://jobright.ai/jobs/info/68cd09571ad6b16f0289392e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
+| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Americas Brand Marketing Intern](https://jobright.ai/jobs/info/6960867ba112b402660f3b49?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | On Site | Jan 30 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern Merchandising](https://jobright.ai/jobs/info/697c9252727747250d574ecc?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 30 |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Marketing Manager](https://jobright.ai/jobs/info/68d3abcf17554c2d9eef4104?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 MBA Marketing Summer Internship - Nutley, NJ](https://jobright.ai/jobs/info/6960e013e7ed9a5731b9ba19?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Jan 30 |
+| **[Lennox](http://www.lennox.com)** | **[Marketing Intern - Competitive Intelligence](https://jobright.ai/jobs/info/690bd7ee4a1b456627b13979?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Jan 30 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Public Relations & Social Media Co-op (July to December)](https://jobright.ai/jobs/info/697c80cd3f57a335696644b8?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 30 |
+| **[Pulsewave](https://www.pulsewave.app/)** | **[Brand Manager Intern](https://jobright.ai/jobs/info/697c7fc73f57a33569664418?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 30 |
+| **[cupl](www.cupl.io)** | **[Sales & Growth Marketing Intern](https://jobright.ai/jobs/info/697c7d883f57a3356966438e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Susser Bank](http://affiliatedbank.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697c6faf137a051025656218?utm_campaign=1065&utm_source=git)** | Arlington, TX | On Site | Jan 30 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Employer Brand Intern](https://jobright.ai/jobs/info/697c64e9137a051025655192?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Jan 29 |
 | **[Calyx Containers](https://calyxcontainers.com/)** | **[SEO + Content Marketing Intern](https://jobright.ai/jobs/info/697c5e2b3f57a33569660b86?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jan 29 |
@@ -104,7 +113,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Information Tech Intern- Supply Chain](https://jobright.ai/jobs/info/697c27a61423772304ec87af?utm_campaign=1065&utm_source=git)** | Murfreesboro, TN | On Site | Jan 29 |
 | **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/697c272f1423772304ec8733?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 29 |
 | **[Aegon Asset Management](https://www.aegonam.com)** | **[Marketing Internship - Summer of 2026 - Aegon AM](https://jobright.ai/jobs/info/696045207ebc25398eb64abd?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA | Hybrid | Jan 29 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern – Health Systems Marketing – Executive Marketing – Cambridge, MA – Summer 2026](https://jobright.ai/jobs/info/697c7ad13f57a335696639a3?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Jan 29 |
 | **[Move United](https://moveunitedsport.org)** | **[2026 Competition Internship](https://jobright.ai/jobs/info/697c22aa1423772304ec840a?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Jan 29 |
 | **[Tricentis](https://tricentis.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/696048fda112b402660f1519?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jan 29 |
 | **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/697c22330b88cc7d642325b7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
@@ -112,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Market Research Analyst Intern](https://jobright.ai/jobs/info/696024fda112b402660edd4d?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 29 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Communications](https://jobright.ai/jobs/info/697c20a91423772304ec8004?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Jan 29 |
 | **[Athletic Club Boise](www.acboise.com)** | **[Social Content Marketing Intern](https://jobright.ai/jobs/info/697c1f0a1423772304ec7cda?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Jan 29 |
-| **[cupl](www.cupl.io)** | **[Sales & Growth Marketing Intern](https://jobright.ai/jobs/info/697c3b961136d179eef00724?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Marketing Analytics - Internship](https://jobright.ai/jobs/info/697c3b701423772304ecab13?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | On Site | Jan 29 |
 | ↳ | **[Human Resource Brand & Lifecycle - Internship](https://jobright.ai/jobs/info/697c3c361136d179eef00a0a?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | On Site | Jan 29 |
 | ↳ | **[Social Media Marketing - Internship](https://jobright.ai/jobs/info/697c3fe31423772304ecb5e8?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | On Site | Jan 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Marketing](https://jobright.ai/jobs/info/697c26221423772304ec8625?utm_campaign=1065&utm_source=git)** | Delano, CA, USA | Hybrid | Jan 29 |
 | ↳ | **[Summer Internship, Marketing](https://jobright.ai/jobs/info/697c27d01136d179eeefe149?utm_campaign=1065&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
 | **[Jingo](https://www.jingo.app)** | **[Marketing & Growth Intern (Multiple Openings)](https://jobright.ai/jobs/info/697c172b1423772304ec6cab?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
-| **[Joyin US Corp](https://joyin.com)** | **[Social Media Management Intern/Assistant](https://jobright.ai/jobs/info/697c020f0b88cc7d6422f0a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 29 |
-| **[MYNDIFY](myndifyapp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697c02021423772304ec4fa4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 29 |
-| **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[Events & Marketing Outreach Intern](https://jobright.ai/jobs/info/697c00ed1423772304ec4eaa?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jan 29 |
-| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Multicultural Intern](https://jobright.ai/jobs/info/6978318039f7f96cc6d079de?utm_campaign=1065&utm_source=git)** | Miami-Dade County, FL | Hybrid | Jan 29 |
-| **[Lucchese Bootmaker](https://www.lucchese.com/)** | **[Product Merchandising Intern- Apparel](https://jobright.ai/jobs/info/697c20891423772304ec7fc3?utm_campaign=1065&utm_source=git)** | Dallas Office, Dallas, TX, US | On Site | Jan 29 |
-| ↳ | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/697c21741136d179eeefd899?utm_campaign=1065&utm_source=git)** | Dallas Office, Dallas, TX, US | On Site | Jan 29 |
-| ↳ | **[Sponsorship & Events Intern](https://jobright.ai/jobs/info/697c30230b88cc7d64233839?utm_campaign=1065&utm_source=git)** | Dallas Office, Dallas, TX, US | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
