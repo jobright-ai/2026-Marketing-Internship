@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susser Bank](http://affiliatedbank.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697c6faf137a051025656218?utm_campaign=1065&utm_source=git)** | Arlington, TX | On Site | Jan 30 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Employer Brand Intern](https://jobright.ai/jobs/info/697c64e9137a051025655192?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Jan 29 |
 | **[Calyx Containers](https://calyxcontainers.com/)** | **[SEO + Content Marketing Intern](https://jobright.ai/jobs/info/697c5e2b3f57a33569660b86?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jan 29 |
 | **[Blokora](https://www.blokora.com)** | **[Intern](https://jobright.ai/jobs/info/697c5c763f57a33569660a48?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 29 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Oigetit AI Fact-Checker](https://oigetit.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697c53f33f57a33569660690?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 29 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Marketing Automation & Data Summer 2026 Internship – Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c47f3f1f8465b79f25963?utm_campaign=1065&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 29 |
 | ↳ | **[Marketing Operations Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c3fe4aa05c26e7ab5922e?utm_campaign=1065&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 29 |
+| **[ROAR Logistics](https://www.roarlogistics.com/)** | **[Title                                                   Marketing Intern - Pizza, Breads, and Handhelds Category Business Units](https://jobright.ai/jobs/info/697c70a8137a051025656268?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Jan 29 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[ATS Mrktg & CX Intern](https://jobright.ai/jobs/info/69603352a112b402660ef54d?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Jan 29 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Digital Paid Media Intern](https://jobright.ai/jobs/info/6941c78f14ee092a69ffdeb4?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6960469b7ebc25398eb64be7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 29 |
@@ -102,6 +104,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Information Tech Intern- Supply Chain](https://jobright.ai/jobs/info/697c27a61423772304ec87af?utm_campaign=1065&utm_source=git)** | Murfreesboro, TN | On Site | Jan 29 |
 | **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/697c272f1423772304ec8733?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 29 |
 | **[Aegon Asset Management](https://www.aegonam.com)** | **[Marketing Internship - Summer of 2026 - Aegon AM](https://jobright.ai/jobs/info/696045207ebc25398eb64abd?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA | Hybrid | Jan 29 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern – Health Systems Marketing – Executive Marketing – Cambridge, MA – Summer 2026](https://jobright.ai/jobs/info/697c7ad13f57a335696639a3?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Jan 29 |
 | **[Move United](https://moveunitedsport.org)** | **[2026 Competition Internship](https://jobright.ai/jobs/info/697c22aa1423772304ec840a?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Jan 29 |
 | **[Tricentis](https://tricentis.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/696048fda112b402660f1519?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jan 29 |
 | **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/697c22330b88cc7d642325b7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lucchese Bootmaker](https://www.lucchese.com/)** | **[Product Merchandising Intern- Apparel](https://jobright.ai/jobs/info/697c20891423772304ec7fc3?utm_campaign=1065&utm_source=git)** | Dallas Office, Dallas, TX, US | On Site | Jan 29 |
 | ↳ | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/697c21741136d179eeefd899?utm_campaign=1065&utm_source=git)** | Dallas Office, Dallas, TX, US | On Site | Jan 29 |
 | ↳ | **[Sponsorship & Events Intern](https://jobright.ai/jobs/info/697c30230b88cc7d64233839?utm_campaign=1065&utm_source=git)** | Dallas Office, Dallas, TX, US | On Site | Jan 29 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern - Marketing Sanford Sports](https://jobright.ai/jobs/info/697bfb1d1423772304ec4b6c?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Jan 29 |
-| **[Haleon](http://www.haleon.com/)** | **[Shopper Marketing Coordinator (12-month Internship)](https://jobright.ai/jobs/info/697c1a5d1136d179eeefc914?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 29 |
-| **[Four Entertainment Group](http://foureg.com)** | **[Marketing Intern - Columbus](https://jobright.ai/jobs/info/697c1b2b1136d179eeefcade?utm_campaign=1065&utm_source=git)** | Dublin, Ohio, United States | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
