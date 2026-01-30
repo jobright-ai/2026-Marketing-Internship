@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kubota Tractor Corporation](https://linktr.ee/kubotausa)** | **[Marketing Internship - Summer 2026 (10 weeks)](https://jobright.ai/jobs/info/697d0433727747250d57bb2b?utm_campaign=1065&utm_source=git)** | Grapevine, TX | On Site | Jan 30 |
+| **[ImpactLife](https://www.bloodcenter.org/)** | **[ISU Donor Relations - Intern On Campus](https://jobright.ai/jobs/info/697d02b5137a05102565f8cf?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Jan 30 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Corporate Communications (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce928727747250d579341?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| ↳ | **[Internship: Corporate Social Media Communications (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce725727747250d5791f0?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Eurex Marketing (f/m/d)](https://jobright.ai/jobs/info/697cff27727747250d57b87a?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
+| **[Smith & Associates](http://www.smithweb.com)** | **[Market Intelligence Intern](https://jobright.ai/jobs/info/697cfd6b3f57a3356966b5c4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 30 |
 | **[CRH](http://crh.com)** | **[Trade Show Coordinator Intern](https://jobright.ai/jobs/info/697cfcb83f57a3356966b524?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
 | **[American Greetings](http://americangreetings.com)** | **[Creative Marketing Intern (Hybrid) - Summer 2026](https://jobright.ai/jobs/info/694b352a1224705e90024ec8?utm_campaign=1065&utm_source=git)** | Westlake, OH | Hybrid | Jan 30 |
 | **[Asensus Surgical](https://asensus.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697cf85a3f57a3356966b291?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Jan 30 |
@@ -69,12 +75,11 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Management Associate Program - Vaccine](https://jobright.ai/jobs/info/69613532e7ed9a5731b9fd97?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Jan 30 |
 | **[Vestar](http://vestar.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697ceba83f57a3356966930a?utm_campaign=1065&utm_source=git)** | Pleasant Hill, CA | On Site | Jan 30 |
 | **[Art Currently](https://artcurrently.com/)** | **[Social Media Intern – Arts & Culture (Spring 2025)](https://jobright.ai/jobs/info/697ceb203f57a33569669152?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Corporate Communications (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce928727747250d579341?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
-| ↳ | **[Internship: Corporate Social Media Communications (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce725727747250d5791f0?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
-| ↳ | **[Internship: Internal Communications (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce55a3f57a33569668e3d?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Internal Communications (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce55a3f57a33569668e3d?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | ↳ | **[Internship: Media Relations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce3473f57a33569668d0e?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/697ce08d727747250d578dbe?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697cdea63f57a33569668a17?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| **[City of Green Bay](https://www.greenbaywi.gov/)** | **[Communications/Public Events Intern](https://jobright.ai/jobs/info/697d00c4137a05102565f7ed?utm_campaign=1065&utm_source=git)** | Green Bay, WI | On Site | Jan 30 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Social Media Marketing Intern (Summer 2026; EDA)](https://jobright.ai/jobs/info/697cdde7727747250d578c25?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Jan 30 |
 | **[Shipley Energy](http://www.shipleyenergy.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/697cdd07727747250d578b92?utm_campaign=1065&utm_source=git)** | York, PA | Hybrid | Jan 30 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Advanced Intern - Medical Communications](https://jobright.ai/jobs/info/69613098e7ed9a5731b9f88c?utm_campaign=1065&utm_source=git)** | Triangle Area | Hybrid | Jan 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social & Creator Management Intern – Summer 2026](https://jobright.ai/jobs/info/695f23c3a112b402660deebd?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Jan 29 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/696039dfa1bbea1d9a7b1da8?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/697c37331136d179eeeff3e4?utm_campaign=1065&utm_source=git)** | Pasadena, CA | Hybrid | Jan 29 |
-| **[Henkel](http://www.henkel.com)** | **[Brand Activation & Campaign Intern, Pravana – Summer 2026](https://jobright.ai/jobs/info/695ddd51924bd9135dd46c50?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Jan 29 |
-| ↳ | **[Marketing Intern – Fall 2026](https://jobright.ai/jobs/info/695cbca3f1f8465b79f2e83f?utm_campaign=1065&utm_source=git)** | Westlake, OH | On Site | Jan 29 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Commercial Growth & Learning (Summer 2026)](https://jobright.ai/jobs/info/69606de77ebc25398eb666b1?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Jan 29 |
-| **[Henkel](http://www.henkel.com)** | **[Brand Management Intern, Kenra – Summer 2026](https://jobright.ai/jobs/info/6963516225e18715077feacf?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Jan 29 |
-| ↳ | **[Market & Customer Activation Intern - Fall 2026](https://jobright.ai/jobs/info/695f20b3a1bbea1d9a7a02fd?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
