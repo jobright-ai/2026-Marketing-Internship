@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akamai Technologies](https://www.akamai.com)** | **[Intern - API Security Marketing](https://jobright.ai/jobs/info/6961a144a112b40266103669?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Jan 31 |
 | **[J/PR](http://jpublicrelations.com)** | **[Summer 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/697db5277f40342e15d69cc7?utm_campaign=1065&utm_source=git)** | Nashville, TN; Denver, CO; New York, NY; Los Angeles, or San Diego, CA | Hybrid | Jan 30 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Information Tech Intern- Supply Chain](https://jobright.ai/jobs/info/697db141ce48107c05420139?utm_campaign=1065&utm_source=git)** | Murfreesboro, TN | On Site | Jan 30 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Fan Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/697db13e7f40342e15d69966?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Marketing Intern](https://jobright.ai/jobs/info/697d496f137a0510256656ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/697d7451727747250d585d09?utm_campaign=1065&utm_source=git)** | Richmond, VA, US | On Site | Jan 30 |
 | **[The Profit Lab](www.theprofitlab.biz)** | **[Marketing Intern](https://jobright.ai/jobs/info/697d48aa137a051025665640?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Jan 30 |
-| **[WEX](http://www.wexinc.com)** | **[Intern - Customer Lifecycle Marketing](https://jobright.ai/jobs/info/697d65533f57a335696747e6?utm_campaign=1065&utm_source=git)** | US - Remote | Remote | Jan 30 |
-| ↳ | **[Intern - Customer Lifecycle Marketing](https://jobright.ai/jobs/info/697d65e9137a051025668717?utm_campaign=1065&utm_source=git)** | Portland, ME | On Site | Jan 30 |
+| **[WEX](http://www.wexinc.com)** | **[Intern - Customer Lifecycle Marketing](https://jobright.ai/jobs/info/697d65e9137a051025668717?utm_campaign=1065&utm_source=git)** | Portland, ME | On Site | Jan 30 |
+| ↳ | **[Intern - Customer Lifecycle Marketing](https://jobright.ai/jobs/info/697d65533f57a335696747e6?utm_campaign=1065&utm_source=git)** | US - Remote | Remote | Jan 30 |
 | **[City of Oak Creek](https://www.oakcreekwi.gov)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/697d6454727747250d58482d?utm_campaign=1065&utm_source=git)** | Oak Creek, WI | On Site | Jan 30 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/6972f3c5694e99351d1438e7?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Jan 30 |
 | **[Nokia](http://www.nokia.com)** | **[Optical Networks Marketing Intern](https://jobright.ai/jobs/info/697d44cd137a0510256653df?utm_campaign=1065&utm_source=git)** | Not in Nokia premises, US Virtual, US | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Navigators](https://www.navigators.org)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/697d3a4b137a0510256648ea?utm_campaign=1065&utm_source=git)** | Colorado Springs | On Site | Jan 30 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/697d3935137a051025664780?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Jan 30 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Performance Marketing & Analytics Intern](https://jobright.ai/jobs/info/697d3927137a05102566476b?utm_campaign=1065&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
-| ↳ | **[Executive Social Media Intern](https://jobright.ai/jobs/info/697d3841727747250d58076c?utm_campaign=1065&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
