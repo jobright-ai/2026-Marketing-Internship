@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stop & Shop](http://stopandshop.com)** | **[Merchandising Services Intern](https://jobright.ai/jobs/info/6961aac4f3f4cd132506b21d?utm_campaign=1065&utm_source=git)** | Quincy, MA | Hybrid | Jan 31 |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/6959e1ed9f1b381eb272888d?utm_campaign=1065&utm_source=git)** | Bergen County, NJ | Hybrid | Jan 31 |
+| **[Disney Music Group](http://disneymusic.disney.com)** | **[Disney Music Group International Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/697df0287f40342e15d6cb49?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 31 |
+| **[Rock Events](https://rockevents.com/)** | **[Event Venues Intern - Summer 2026](https://jobright.ai/jobs/info/6945cfb7d1953b5d11bed585?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
+| **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945adf5951654073537c825?utm_campaign=1065&utm_source=git)** | Lexington, KY | Hybrid | Jan 31 |
+| **[Equity Bank](https://www.equitybank.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/6961b781a112b40266104816?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/6945dc1563141d1884557b34?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
+| **[Equity Bank](https://www.equitybank.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/6961b6faf3f4cd132506bd53?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Jan 31 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961e350a112b40266106441?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 31 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Marketing Communications Intern](https://jobright.ai/jobs/info/690d2c62221b890c27804401?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Jan 31 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Marketing Internship](https://jobright.ai/jobs/info/690cef7cd046ab6061cf0ac9?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
@@ -73,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[J/PR](http://jpublicrelations.com)** | **[Summer 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/697dce56ce48107c0542285f?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Jan 31 |
 | **[Akamai Technologies](https://www.akamai.com)** | **[Intern - API Security Marketing](https://jobright.ai/jobs/info/6961a144a112b40266103669?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Jan 31 |
 | **[J/PR](http://jpublicrelations.com)** | **[Summer 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/697db5277f40342e15d69cc7?utm_campaign=1065&utm_source=git)** | Nashville, TN; Denver, CO; New York, NY; Los Angeles, or San Diego, CA | Hybrid | Jan 30 |
+| **[Athletic Club Boise](www.acboise.com)** | **[Social Content Marketing Intern](https://jobright.ai/jobs/info/697dedd9ce48107c0542316c?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Jan 30 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Information Tech Intern- Supply Chain](https://jobright.ai/jobs/info/697db141ce48107c05420139?utm_campaign=1065&utm_source=git)** | Murfreesboro, TN | On Site | Jan 30 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Fan Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/697db13e7f40342e15d69966?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026- Quality Assurance Intern- Supply Chain](https://jobright.ai/jobs/info/697dafb27f40342e15d69846?utm_campaign=1065&utm_source=git)** | Murfreesboro, TN | On Site | Jan 30 |
@@ -111,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[GrowthExpertz](https://growthexpertz.com)** | **[Digital Marketing Internship w/ Tons of Training](https://jobright.ai/jobs/info/697d6b4f727747250d58504c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Athletic Club Boise](www.acboise.com)** | **[Social Content Marketing Intern](https://jobright.ai/jobs/info/697d6a0f137a051025668c4f?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Jan 30 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Fan Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/697d89207f40342e15d65242?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
-| **[Motion](http://www.dragosupply.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697d6827137a0510256689e0?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
+| **[Motion](https://www.motion.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697d6827137a0510256689e0?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - HCP Diabetes Marketing](https://jobright.ai/jobs/info/697d67f8137a0510256689a5?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | ↳ | **[Internship - Digital Communications](https://jobright.ai/jobs/info/697d67d6727747250d584c8d?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | ↳ | **[Internship - Rare Disease Marketing](https://jobright.ai/jobs/info/697d667c727747250d584ade?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[cupl](www.cupl.io)** | **[Sales/Growth Marketing Intern (Spring 2026)](https://jobright.ai/jobs/info/697d6b40727747250d585043?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/697d4bd6137a051025665858?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 30 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Marketing Strategy and Analytics Intern](https://jobright.ai/jobs/info/697d4af2137a0510256657c0?utm_campaign=1065&utm_source=git)** | Wyoming, MI | On Site | Jan 30 |
-| **[Birchwood Automotive Group](https://www.birchwood.ca/)** | **[PROFESSIONAL INTERN - MARKETING](https://jobright.ai/jobs/info/697d7076137a051025669366?utm_campaign=1065&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
-| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Marketing Intern](https://jobright.ai/jobs/info/697d496f137a0510256656ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/697d7451727747250d585d09?utm_campaign=1065&utm_source=git)** | Richmond, VA, US | On Site | Jan 30 |
-| **[The Profit Lab](www.theprofitlab.biz)** | **[Marketing Intern](https://jobright.ai/jobs/info/697d48aa137a051025665640?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Jan 30 |
-| **[WEX](http://www.wexinc.com)** | **[Intern - Customer Lifecycle Marketing](https://jobright.ai/jobs/info/697d65533f57a335696747e6?utm_campaign=1065&utm_source=git)** | US - Remote | Remote | Jan 30 |
-| ↳ | **[Intern - Customer Lifecycle Marketing](https://jobright.ai/jobs/info/697d65e9137a051025668717?utm_campaign=1065&utm_source=git)** | Portland, ME | On Site | Jan 30 |
-| **[City of Oak Creek](https://www.oakcreekwi.gov)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/697d6454727747250d58482d?utm_campaign=1065&utm_source=git)** | Oak Creek, WI | On Site | Jan 30 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/6972f3c5694e99351d1438e7?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Jan 30 |
-| **[Nokia](http://www.nokia.com)** | **[Optical Networks Marketing Intern](https://jobright.ai/jobs/info/697d44cd137a0510256653df?utm_campaign=1065&utm_source=git)** | Not in Nokia premises, US Virtual, US | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
