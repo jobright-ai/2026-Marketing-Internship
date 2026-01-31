@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TOYS FOR TRUCKS INC](https://toysfortrucks.com/)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/697e756d7f40342e15d7457c?utm_campaign=1065&utm_source=git)** | Appleton, WI | On Site | Jan 31 |
+| **[Prospect Equities®](http://ProspectEquities.com/)** | **[Bilingual Social Media Content Creator Intern](https://jobright.ai/jobs/info/697e6a277f40342e15d73a5f?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
+| **[North](https://north.inc)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e66afce48107c05428eec?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 31 |
 | **[Together AI](https://www.together.ai)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/697e65afabff4c399a9d1778?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/697e61067f40342e15d72764?utm_campaign=1065&utm_source=git)** | Fayetteville, NC | On Site | Jan 31 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Media & Public Relations (Summer 2026)](https://jobright.ai/jobs/info/697e6050abff4c399a9d14f2?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 31 |
@@ -74,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[American 1 Credit Union](https://www.american1cu.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e3142ce48107c054264ad?utm_campaign=1065&utm_source=git)** | Home Office/Resource Center Jackson, Jackson, MI, US | On Site | Jan 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Marketing Data Science](https://jobright.ai/jobs/info/697e2c17abff4c399a9ceadd?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/69626854a112b4026610d021?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 31 |
-| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/697e24387f40342e15d6fb6d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697e23f1ce48107c05426193?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Jan 31 |
 | **[TopSpin Pickleball](https://topspinli.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e23ad7f40342e15d6fb1c?utm_campaign=1065&utm_source=git)** | Hauppauge, NY | On Site | Jan 31 |
 | **[PCL Construction](http://www.pcl.com)** | **[Marketing Student](https://jobright.ai/jobs/info/697e234ece48107c05426151?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[Marketing Rheumatology Intern (9-Month Contract)](https://jobright.ai/jobs/info/697d8ddfce48107c0541d845?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Marketing Planning Intern](https://jobright.ai/jobs/info/697d71b03f57a3356967565e?utm_campaign=1065&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Events Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/697d8827abff4c399a9c3f49?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
-| ↳ | **[KIP Summer 2026 - Communications Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/697d8735ce48107c0541b8a0?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
-| ↳ | **[KIP Summer 2026 - Free Speech America Intern - Media Research Center](https://jobright.ai/jobs/info/697d85dace48107c0541b750?utm_campaign=1065&utm_source=git)** | Virginia, United States | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
