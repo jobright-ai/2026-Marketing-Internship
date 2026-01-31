@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navelle Health](navellehealth.com)** | **[Marketing Internship Opportunity / College Students & Recent Grads](https://jobright.ai/jobs/info/697d9bca7f40342e15d682f9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
+| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/697d997c7f40342e15d6818b?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Strategic Communications Intern - Summer Recruitment MD/DC/VA (Hybrid)](https://jobright.ai/jobs/info/697d99527f40342e15d6816e?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Jan 30 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/697d9798ce48107c0541e790?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697d93207f40342e15d67490?utm_campaign=1065&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
 | **[Susan Shaw](http://susanshaw.com)** | **[General Marketing Intern](https://jobright.ai/jobs/info/697d8e55abff4c399a9c5f5c?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
 | **[AbbVie](https://www.abbvie.com)** | **[Marketing Rheumatology Intern (9-Month Contract)](https://jobright.ai/jobs/info/697d8ddfce48107c0541d845?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 30 |
@@ -72,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[ONEBIT](https://onebitapp.com/)** | **[Video and Creative Intern](https://jobright.ai/jobs/info/697d785d3f57a3356967627e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Promotions and Special Events Intern](https://jobright.ai/jobs/info/697d780f727747250d5860b6?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jan 30 |
 | **[Exiger](http://www.exiger.com)** | **[Marketing Automation & AI Enablement Intern (Summer 2026)](https://jobright.ai/jobs/info/6961b576a112b40266104602?utm_campaign=1065&utm_source=git)** | McLean, VA | Hybrid | Jan 30 |
-| **[iota -1 LLC](www.iota-1.com)** | **[Trainee - Media & Marketing / Software & AI Development](https://jobright.ai/jobs/info/697d7577727747250d585e2e?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 30 |
-| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern](https://jobright.ai/jobs/info/697d9105abff4c399a9c6148?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 30 |
+| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern](https://jobright.ai/jobs/info/697d9843abff4c399a9c6e66?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 30 |
 | **[Pear Creations Inc.](https://trypear.ai/)** | **[Growth / Marketing / Social Media Intern (Summer 2026)](https://jobright.ai/jobs/info/697d73a8727747250d585c5c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[Qi Health App](https://qi.health)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/697d7352727747250d585c09?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
 | **[BlackBerry](https://www.blackberry.com)** | **[Marketing Analytics Student](https://jobright.ai/jobs/info/697d72ae727747250d585b73?utm_campaign=1065&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Jan 30 |
@@ -107,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[NuMark Credit Union](https://www.numarkcu.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/697d5d943f57a33569673f82?utm_campaign=1065&utm_source=git)** | Warrenville,IL,US | Hybrid | Jan 30 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/697d5bd0727747250d583ea4?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Jan 30 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697d5bb53f57a33569673d4d?utm_campaign=1065&utm_source=git)** | Plymouth, MI | On Site | Jan 30 |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/697d5991727747250d583bb9?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Jan 30 |
 | **[Steelcase](https://www.steelcase.com/)** | **[Marketing Data Analytics Summer Intern](https://jobright.ai/jobs/info/697d5924137a05102566788c?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Jan 30 |
 | **[Sid Lee](http://sidlee.com/en)** | **[Copywriter, Intern - Toronto](https://jobright.ai/jobs/info/697d590b137a051025667867?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/697d56363f57a335696737aa?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
@@ -138,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Partnerships & Programs Intern - Young Voices](https://jobright.ai/jobs/info/697d3f3e137a051025664fc9?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Jan 30 |
 | **[Galderma](http://www.galderma.com)** | **[Aesthetics Marketing Intern](https://jobright.ai/jobs/info/697d3ec2137a051025664f11?utm_campaign=1065&utm_source=git)** | Irvine | On Site | Jan 30 |
 | ↳ | **[Aesthetics Marketing Intern](https://jobright.ai/jobs/info/697d3dfa727747250d580f3d?utm_campaign=1065&utm_source=git)** | Fort Worth | On Site | Jan 30 |
-| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern​](https://jobright.ai/jobs/info/697d3dab137a051025664d84?utm_campaign=1065&utm_source=git)** | Mississauga - Skymark, Canada | On Site | Jan 30 |
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[B2C Ecommerce Intern](https://jobright.ai/jobs/info/697d3d7a727747250d580e7e?utm_campaign=1065&utm_source=git)** | Katy, TX | Hybrid | Jan 30 |
 | **[Galderma](http://www.galderma.com)** | **[U.S. Communications Intern](https://jobright.ai/jobs/info/697d3d6b137a051025664d30?utm_campaign=1065&utm_source=git)** | Miami | On Site | Jan 30 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Communications Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/697d3cf5137a051025664c84?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/697d35193f57a33569670339?utm_campaign=1065&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Events Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/697d33bf3f57a33569670251?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Talbots](http://www.talbots.com)** | **[Intern: Merchandising - Summer 2026](https://jobright.ai/jobs/info/695dd159924bd9135dd455ff?utm_campaign=1065&utm_source=git)** | Hingham, MA | On Site | Jan 30 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Digital Summer Internship - (PCG)](https://jobright.ai/jobs/info/697d2da6727747250d57f5ae?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Jan 30 |
-| **[Penta Group](https://pentagroup.com)** | **[Penta Summer 2026 Advisory Internship](https://jobright.ai/jobs/info/697d2ab2137a051025662cb0?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Digital Media Video Intern-Learning & Support](https://jobright.ai/jobs/info/697d2a7c3f57a3356966ec31?utm_campaign=1065&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
