@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J/PR](http://jpublicrelations.com)** | **[Summer 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/697db5277f40342e15d69cc7?utm_campaign=1065&utm_source=git)** | Nashville, TN; Denver, CO; New York, NY; Los Angeles, or San Diego, CA | Hybrid | Jan 30 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Information Tech Intern- Supply Chain](https://jobright.ai/jobs/info/697db141ce48107c05420139?utm_campaign=1065&utm_source=git)** | Murfreesboro, TN | On Site | Jan 30 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Fan Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/697db13e7f40342e15d69966?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026- Quality Assurance Intern- Supply Chain](https://jobright.ai/jobs/info/697dafb27f40342e15d69846?utm_campaign=1065&utm_source=git)** | Murfreesboro, TN | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/697d3935137a051025664780?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Jan 30 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Performance Marketing & Analytics Intern](https://jobright.ai/jobs/info/697d3927137a05102566476b?utm_campaign=1065&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
 | ↳ | **[Executive Social Media Intern](https://jobright.ai/jobs/info/697d3841727747250d58076c?utm_campaign=1065&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
-| **[Bio-Techne](https://www.bio-techne.com)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/697d3841727747250d58076d?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
