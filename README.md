@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/694603d963141d188455ad88?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed44ee0db92422580bdb3?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jan 31 |
+| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6933fe06f131d96e48468e6a?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Jan 31 |
+| **[David Yurman](http://www.davidyurman.com)** | **[PR Intern](https://jobright.ai/jobs/info/6961c5eda112b402661054cb?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Music Group Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/697e0139ce48107c0542403a?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 31 |
+| **[Corsair](http://www.corsair.com)** | **[Social & Community Intern – DIY Technical Marketing](https://jobright.ai/jobs/info/69459c1e63141d1884552a2c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
+| **[Axis Communications](http://www.axis.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6945dc3f63141d1884557b60?utm_campaign=1065&utm_source=git)** | Chelmsford, MA | Hybrid | Jan 31 |
 | **[Boomi](https://boomi.com/)** | **[Marketing Communications - Industry Analyst Relations Summer Internship (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/696ed13f5fc86241853dcd8b?utm_campaign=1065&utm_source=git)** | Canada | Hybrid | Jan 31 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68cd191ae23def7af55b5338?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
 | **[LogRocket](https://logrocket.com)** | **[Relationship Marketing Intern](https://jobright.ai/jobs/info/690bc3a9d046ab6061ce7572?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jan 31 |
@@ -65,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/6961cb8ae7ed9a5731ba9b28?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
 | **[TowneBank Mortgage](https://www.townebankmortgage.com)** | **[Mortgage Marketing Communications -Summer Intern](https://jobright.ai/jobs/info/696078faa112b402660f3451?utm_campaign=1065&utm_source=git)** | Norfolk, VA | Hybrid | Jan 31 |
 | **[Disney Music Group](http://disneymusic.disney.com)** | **[Disney Music Group Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/697df642ce48107c05423361?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 31 |
-| **[GE Aerospace](https://www.geaerospace.com)** | **[US Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69445ab494730b7398778383?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Music Group International Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/697df49f7f40342e15d6cc2e?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 31 |
 | **[CALSTART](http://www.calstart.org)** | **[Marketing Intern, Trucks](https://jobright.ai/jobs/info/69617541a112b402660ff944?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Workplace Support Ambassador Intern - Summer 2026](https://jobright.ai/jobs/info/6945de8563141d1884557dec?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
@@ -78,7 +84,9 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945adf5951654073537c825?utm_campaign=1065&utm_source=git)** | Lexington, KY | Hybrid | Jan 31 |
 | **[Equity Bank](https://www.equitybank.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/6961b781a112b40266104816?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/6945dc1563141d1884557b34?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
+| **[James Hardie](https://www.jameshardie.com)** | **[Digital Marketing/SEO Intern - Chicago, IL - AZEK](https://jobright.ai/jobs/info/6979585939f7f96cc6d1ce00?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | **[Equity Bank](https://www.equitybank.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/6961b6faf3f4cd132506bd53?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Jan 31 |
+| **[ROCK](http://www.rockventures.com/)** | **[Philanthropy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6945d83e63141d18845578e2?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961e350a112b40266106441?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 31 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Marketing Communications Intern](https://jobright.ai/jobs/info/690d2c62221b890c27804401?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Jan 31 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Marketing Internship](https://jobright.ai/jobs/info/690cef7cd046ab6061cf0ac9?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IWB Immigrant Women in Business](http://immigrantwomeninbusiness.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697d5ff9137a0510256680d2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
 | **[Milldam Public Relations](https://www.milldampr.com)** | **[Paid Public Relations Internship](https://jobright.ai/jobs/info/697d8eb07f40342e15d67157?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing, Sales & Business Development Internship](https://jobright.ai/jobs/info/697d5fcb727747250d58439d?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | Jan 30 |
-| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/697d5edd727747250d584268?utm_campaign=1065&utm_source=git)** | Muncy, PA | On Site | Jan 30 |
-| **[SusieCakes Bakery](https://www.susiecakes.com)** | **[41 - OK City Classen - MARINT - Marketing Intern](https://jobright.ai/jobs/info/697d5e1d727747250d584172?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | Hybrid | Jan 30 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/697d5bd0727747250d583ea4?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Jan 30 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697d5bb53f57a33569673d4d?utm_campaign=1065&utm_source=git)** | Plymouth, MI | On Site | Jan 30 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/697d5991727747250d583bb9?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Jan 30 |
-| **[Steelcase](https://www.steelcase.com/)** | **[Marketing Data Analytics Summer Intern](https://jobright.ai/jobs/info/697d5924137a05102566788c?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Jan 30 |
-| **[Sid Lee](http://sidlee.com/en)** | **[Copywriter, Intern - Toronto](https://jobright.ai/jobs/info/697d590b137a051025667867?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
-| **[Bio-Techne](https://www.bio-techne.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/697d56363f57a335696737aa?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
