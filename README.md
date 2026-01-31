@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Information Tech Intern- Supply Chain](https://jobright.ai/jobs/info/697db141ce48107c05420139?utm_campaign=1065&utm_source=git)** | Murfreesboro, TN | On Site | Jan 30 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Fan Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/697db13e7f40342e15d69966?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026- Quality Assurance Intern- Supply Chain](https://jobright.ai/jobs/info/697dafb27f40342e15d69846?utm_campaign=1065&utm_source=git)** | Murfreesboro, TN | On Site | Jan 30 |
+| **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697dac95ce48107c0541fb1f?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
+| ↳ | **[Marketing Planning Intern](https://jobright.ai/jobs/info/697dac4dce48107c0541fad4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
+| ↳ | **[Paid Growth Marketing Intern](https://jobright.ai/jobs/info/697dab3ace48107c0541f9c6?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
+| ↳ | **[Site Merchandising & Web Operations Intern](https://jobright.ai/jobs/info/697daa28abff4c399a9c7fdb?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | **[Navelle Health](navellehealth.com)** | **[Marketing Internship Opportunity / College Students & Recent Grads](https://jobright.ai/jobs/info/697d9bca7f40342e15d682f9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/697d997c7f40342e15d6818b?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Strategic Communications Intern - Summer Recruitment MD/DC/VA (Hybrid)](https://jobright.ai/jobs/info/697d99527f40342e15d6816e?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Jan 30 |
@@ -76,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[ONEBIT](https://onebitapp.com/)** | **[Video and Creative Intern](https://jobright.ai/jobs/info/697d785d3f57a3356967627e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Promotions and Special Events Intern](https://jobright.ai/jobs/info/697d780f727747250d5860b6?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jan 30 |
 | **[Exiger](http://www.exiger.com)** | **[Marketing Automation & AI Enablement Intern (Summer 2026)](https://jobright.ai/jobs/info/6961b576a112b40266104602?utm_campaign=1065&utm_source=git)** | McLean, VA | Hybrid | Jan 30 |
-| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern](https://jobright.ai/jobs/info/697d9843abff4c399a9c6e66?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 30 |
 | **[Pear Creations Inc.](https://trypear.ai/)** | **[Growth / Marketing / Social Media Intern (Summer 2026)](https://jobright.ai/jobs/info/697d73a8727747250d585c5c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[Qi Health App](https://qi.health)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/697d7352727747250d585c09?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
 | **[BlackBerry](https://www.blackberry.com)** | **[Marketing Analytics Student](https://jobright.ai/jobs/info/697d72ae727747250d585b73?utm_campaign=1065&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Jan 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Performance Marketing & Analytics Intern](https://jobright.ai/jobs/info/697d3927137a05102566476b?utm_campaign=1065&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
 | ↳ | **[Executive Social Media Intern](https://jobright.ai/jobs/info/697d3841727747250d58076c?utm_campaign=1065&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/697d3841727747250d58076d?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 30 |
-| **[FC Cincinnati](http://www.fccincinnati.com)** | **[Communications Intern](https://jobright.ai/jobs/info/697d37a3137a051025664589?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 30 |
-| **[Arena](https://arena.run/)** | **[Communications Intern](https://jobright.ai/jobs/info/697d8ea1ce48107c0541d8fd?utm_campaign=1065&utm_source=git)** | Columbia, MO | On Site | Jan 30 |
-| **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Digital Marketing Student](https://jobright.ai/jobs/info/697d35bf137a05102566431d?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 30 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/697d35193f57a33569670339?utm_campaign=1065&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Events Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/697d33bf3f57a33569670251?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
-| **[Talbots](http://www.talbots.com)** | **[Intern: Merchandising - Summer 2026](https://jobright.ai/jobs/info/695dd159924bd9135dd455ff?utm_campaign=1065&utm_source=git)** | Hingham, MA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
