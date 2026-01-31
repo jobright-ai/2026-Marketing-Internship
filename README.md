@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69392d7056b68f3dc4e6a333?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jan 31 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Beauty) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6967d57d639b452fb57d68e1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
+| **[J/PR](http://jpublicrelations.com)** | **[Summer 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/697dce56ce48107c0542285f?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Jan 31 |
 | **[Akamai Technologies](https://www.akamai.com)** | **[Intern - API Security Marketing](https://jobright.ai/jobs/info/6961a144a112b40266103669?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Jan 31 |
 | **[J/PR](http://jpublicrelations.com)** | **[Summer 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/697db5277f40342e15d69cc7?utm_campaign=1065&utm_source=git)** | Nashville, TN; Denver, CO; New York, NY; Los Angeles, or San Diego, CA | Hybrid | Jan 30 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Information Tech Intern- Supply Chain](https://jobright.ai/jobs/info/697db141ce48107c05420139?utm_campaign=1065&utm_source=git)** | Murfreesboro, TN | On Site | Jan 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Galderma](http://www.galderma.com)** | **[U.S. Communications Intern](https://jobright.ai/jobs/info/697d3d6b137a051025664d30?utm_campaign=1065&utm_source=git)** | Miami | On Site | Jan 30 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Communications Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/697d3cf5137a051025664c84?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Global Communications Intern (Team Member Communications)](https://jobright.ai/jobs/info/697d3aae3f57a335696709a1?utm_campaign=1065&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
-| **[The Navigators](https://www.navigators.org)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/697d3a4b137a0510256648ea?utm_campaign=1065&utm_source=git)** | Colorado Springs | On Site | Jan 30 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/697d3935137a051025664780?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Jan 30 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Performance Marketing & Analytics Intern](https://jobright.ai/jobs/info/697d3927137a05102566476b?utm_campaign=1065&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
