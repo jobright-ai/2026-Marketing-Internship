@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Together AI](https://www.together.ai)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/697e65afabff4c399a9d1778?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
+| **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/697e61067f40342e15d72764?utm_campaign=1065&utm_source=git)** | Fayetteville, NC | On Site | Jan 31 |
+| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Media & Public Relations (Summer 2026)](https://jobright.ai/jobs/info/697e6050abff4c399a9d14f2?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 31 |
+| **[Cristo Rey Jesuit High School](https://www.cristorey.net/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/697e5cc17f40342e15d7264a?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
 | **[ASA Entertainment](https://www.asaentertainment.com)** | **[2026 Summer / Fall Internship](https://jobright.ai/jobs/info/697e5c117f40342e15d7257f?utm_campaign=1065&utm_source=git)** | Indialantic, FL | On Site | Jan 31 |
 | **[B. Braun Interventional Systems Inc.](https://bisusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/6964629c2cbf4e44756de6d7?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jan 31 |
 | **[California Miramar University](http://www.calmu.edu)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697e4aababff4c399a9d095c?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
@@ -66,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Gramar Pools](https://www.gramargc.com/)** | **[Marketing Intern (Social Media & Brand Growth)](https://jobright.ai/jobs/info/697e37b5ce48107c05427db1?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 31 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - MARKETING AND COMMUNICATIONS](https://jobright.ai/jobs/info/697a368bb4589b4ee87c7407?utm_campaign=1065&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
 | **[Adventuretown Toy Emporium](http://www.adventuretowntoys.com)** | **[Spring Marketing Intern](https://jobright.ai/jobs/info/697e348eabff4c399a9d05dc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 31 |
+| **[Britannica Capital](http://britannicacapital.com)** | **[PR & Media Outreach Internship](https://jobright.ai/jobs/info/6924b54eec574f4265bb6076?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
 | **[American 1 Credit Union](https://www.american1cu.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e3142ce48107c054264ad?utm_campaign=1065&utm_source=git)** | Home Office/Resource Center Jackson, Jackson, MI, US | On Site | Jan 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Marketing Data Science](https://jobright.ai/jobs/info/697e2c17abff4c399a9ceadd?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/69626854a112b4026610d021?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Events Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/697d8827abff4c399a9c3f49?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | ↳ | **[KIP Summer 2026 - Communications Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/697d8735ce48107c0541b8a0?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | ↳ | **[KIP Summer 2026 - Free Speech America Intern - Media Research Center](https://jobright.ai/jobs/info/697d85dace48107c0541b750?utm_campaign=1065&utm_source=git)** | Virginia, United States | On Site | Jan 30 |
-| ↳ | **[KIP Summer 2026 - Partnerships & Programs Intern - Young Voices](https://jobright.ai/jobs/info/697d8480abff4c399a9c3c4e?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Jan 30 |
-| ↳ | **[KIP Summer 2026 - Intern - America's Future](https://jobright.ai/jobs/info/697d821b7f40342e15d64c18?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
-| **[ALO](https://www.aloyoga.com/)** | **[Paid Growth Intern](https://jobright.ai/jobs/info/697d7078727747250d585941?utm_campaign=1065&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
-| **[WEX](http://www.wexinc.com)** | **[Intern - Customer Lifecycle Marketing](https://jobright.ai/jobs/info/697d7a983f57a335696763d8?utm_campaign=1065&utm_source=git)** | Maine, United States | Remote | Jan 30 |
-| **[San Francisco Giants](https://www.mlb.com/giants)** | **[Promotions and Special Events Intern](https://jobright.ai/jobs/info/697d780f727747250d5860b6?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
