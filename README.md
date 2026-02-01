@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947797363141d1884571fe4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 01 |
+| **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Communications Intern](https://jobright.ai/jobs/info/697f743fabff4c399a9e16ee?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
+| **[John Michael Kohler Arts Center](https://jmkac.org)** | **[MARKETING - Summer 2026 Internship](https://jobright.ai/jobs/info/697f6e1eabff4c399a9e1644?utm_campaign=1065&utm_source=git)** | Sheboygan, WI | On Site | Feb 01 |
+| **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Communications, Journalism, Public Relations, Marketing](https://jobright.ai/jobs/info/697f681d7f40342e15d82315?utm_campaign=1065&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Digital Paid Media Intern](https://jobright.ai/jobs/info/6941c78f14ee092a69ffdeb4?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 01 |
-| **[Recruitefy](recruitefy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697f62d7abff4c399a9e1351?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69477973d1953b5d11c08b72?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 01 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6881d6e141fbda106ee6da2f?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 01 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Brand Management Intern (MBA - Summer 2026)](https://jobright.ai/jobs/info/68ccdb445954791a1d7000de?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | Feb 01 |
@@ -79,10 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Red River Commodities Inc](https://redriv.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/697ef810ce48107c054318ff?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Jan 31 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/697f2552ce48107c05434035?utm_campaign=1065&utm_source=git)** | Fargo, North Dakota | On Site | Jan 31 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/697ec8c1ce48107c0542df03?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
-| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/697ec083abff4c399a9d6310?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/697ebda67f40342e15d772e9?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jan 31 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing & Content Creation (Unpaid)](https://jobright.ai/jobs/info/697ea76ace48107c0542cac5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
-| **[John Michael Kohler Arts Center](https://jmkac.org)** | **[MARKETING - Summer 2026 Internship](https://jobright.ai/jobs/info/697ea6adce48107c0542ca28?utm_campaign=1065&utm_source=git)** | Sheboygan, WI | On Site | Jan 31 |
 | **[Carlton County, Minnesota](https://www.carltoncountymn.gov/)** | **[Community & Family Initiatives Intern](https://jobright.ai/jobs/info/697ea4ee7f40342e15d7653a?utm_campaign=1065&utm_source=git)** | Cloquet - Government Services Building - Cloquet, MN 55720 | On Site | Jan 31 |
 | **[International Friendships, Inc.](https://www.ifiusa.org)** | **[Unpaid Internship: Event and Trip Intern in Columbus](https://jobright.ai/jobs/info/697f0d8c7f40342e15d7c7d9?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697d93207f40342e15d67490?utm_campaign=1065&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Marketing Internship](https://jobright.ai/jobs/info/690cef7cd046ab6061cf0ac9?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Merchandising Strategy Manager Intern (TikTok Shop Affiliate Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976df78bc8e722e7b1b5254?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
 | **[Performance Auto Group](https://www.performance.ca/)** | **[Media Content Intern (Performance Auto Group - Head Office Niagara) (4-Month Contract)](https://jobright.ai/jobs/info/697984929c90a224ecc34390?utm_campaign=1065&utm_source=git)** | St. Catharines, Ontario, Canada | On Site | Jan 31 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (TikTok Shop Product Marketing) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69782d2488e2b47213bc2e11?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
