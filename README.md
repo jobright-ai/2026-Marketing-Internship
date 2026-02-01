@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jingo](https://www.jingo.app)** | **[Marketing Intern (NYC)](https://jobright.ai/jobs/info/697f08f37f40342e15d7c592?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 01 |
+| **[Jingo](https://www.jingo.app)** | **[Marketing Intern](https://jobright.ai/jobs/info/697f23bb7f40342e15d7d7dc?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Feb 01 |
+| ↳ | **[Marketing Intern (NYC)](https://jobright.ai/jobs/info/697f08f37f40342e15d7c592?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 01 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Content & Growth Intern](https://jobright.ai/jobs/info/69783d9539f7f96cc6d08ade?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/69309064ef4b48533d14c73b?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Jan 31 |
 | **[Red River Commodities Inc](https://redriv.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/697ef810ce48107c054318ff?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Planning Intern](https://jobright.ai/jobs/info/697dac4dce48107c0541fad4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | ↳ | **[Paid Growth Marketing Intern](https://jobright.ai/jobs/info/697dab3ace48107c0541f9c6?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | ↳ | **[Site Merchandising & Web Operations Intern](https://jobright.ai/jobs/info/697daa28abff4c399a9c7fdb?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
-| **[American Greetings](http://americangreetings.com)** | **[Creative Marketing Intern (Hybrid) - Summer 2026](https://jobright.ai/jobs/info/697f03e3ce48107c05432303?utm_campaign=1065&utm_source=git)** | Westlake, OH | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
