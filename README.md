@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/697ec8c1ce48107c0542df03?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
+| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/697ec083abff4c399a9d6310?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/697ebda67f40342e15d772e9?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jan 31 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing & Content Creation (Unpaid)](https://jobright.ai/jobs/info/697ea76ace48107c0542cac5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[MARKETING - Summer 2026 Internship](https://jobright.ai/jobs/info/697ea6adce48107c0542ca28?utm_campaign=1065&utm_source=git)** | Sheboygan, WI | On Site | Jan 31 |
 | **[Carlton County, Minnesota](https://www.carltoncountymn.gov/)** | **[Community & Family Initiatives Intern](https://jobright.ai/jobs/info/697ea4ee7f40342e15d7653a?utm_campaign=1065&utm_source=git)** | Cloquet - Government Services Building - Cloquet, MN 55720 | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Strategic Communications Intern - Summer Recruitment MD/DC/VA (Hybrid)](https://jobright.ai/jobs/info/697d99527f40342e15d6816e?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Jan 30 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/697d9798ce48107c0541e790?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Susan Shaw](http://susanshaw.com)** | **[General Marketing Intern](https://jobright.ai/jobs/info/697d8e55abff4c399a9c5f5c?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
-| **[AbbVie](https://www.abbvie.com)** | **[Marketing Rheumatology Intern (9-Month Contract)](https://jobright.ai/jobs/info/697d8ddfce48107c0541d845?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 30 |
-| **[ALO](https://www.aloyoga.com/)** | **[Marketing Planning Intern](https://jobright.ai/jobs/info/697d71b03f57a3356967565e?utm_campaign=1065&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Events Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/697d8827abff4c399a9c3f49?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
