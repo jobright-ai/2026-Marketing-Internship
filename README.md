@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Western and Southern Life Insurance Company](http://wslife.com)** | **[Field Marketing Intern (Independence OH)](https://jobright.ai/jobs/info/697fc7cfabff4c399a9e6166?utm_campaign=1065&utm_source=git)** | Independence, OH | On Site | Feb 01 |
+| ↳ | **[Field Marketing Intern (Russell KY)](https://jobright.ai/jobs/info/697fc7bace48107c0543d658?utm_campaign=1065&utm_source=git)** | Russell, KY | On Site | Feb 01 |
+| ↳ | **[Field Marketing Intern (Lima OH)](https://jobright.ai/jobs/info/697fc4fbabff4c399a9e5b3e?utm_campaign=1065&utm_source=git)** | Lima, OH | On Site | Feb 01 |
+| ↳ | **[Field Marketing Intern (Findlay OH)](https://jobright.ai/jobs/info/697fc4baabff4c399a9e5aa0?utm_campaign=1065&utm_source=git)** | Findlay, OH | On Site | Feb 01 |
+| ↳ | **[Field Marketing Intern (Maumee OH)](https://jobright.ai/jobs/info/697fc491abff4c399a9e5a40?utm_campaign=1065&utm_source=git)** | Maumee, OH | On Site | Feb 01 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Windsor, ON](https://jobright.ai/jobs/info/694cc4cad4a7df7a0672145d?utm_campaign=1065&utm_source=git)** | Windsor, Ontario, Canada | On Site | Feb 01 |
+| ↳ | **[Field Marketing Coordinator Intern - Winnipeg, MB](https://jobright.ai/jobs/info/693b9d8a49a7695fbd028edc?utm_campaign=1065&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Feb 01 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications Intern](https://jobright.ai/jobs/info/697fc1c17f40342e15d8624f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
+| **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Social Media Internship / Spring 2026](https://jobright.ai/jobs/info/697fbd7cce48107c0543c08a?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Credit Union of Denver](https://www.cudenver.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697fba0babff4c399a9e43aa?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 01 |
 | **[Wade Trim](http://wadetrim.com)** | **[Marketing Intern - 2870](https://jobright.ai/jobs/info/697fb9e17f40342e15d85102?utm_campaign=1065&utm_source=git)** | Taylor, MI | On Site | Feb 01 |
 | **[The Western and Southern Life Insurance Company](http://wslife.com)** | **[Field Marketing Intern (Charleston SC)](https://jobright.ai/jobs/info/697fb6e6ce48107c0543b280?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Feb 01 |
@@ -116,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[ASA Entertainment](https://www.asaentertainment.com)** | **[2026 Summer / Fall Internship](https://jobright.ai/jobs/info/697e5c117f40342e15d7257f?utm_campaign=1065&utm_source=git)** | Indialantic, FL | On Site | Jan 31 |
 | **[B. Braun Interventional Systems Inc.](https://bisusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/6964629c2cbf4e44756de6d7?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jan 31 |
 | **[W. Brand Publishing](http://www.wbrandpub.com)** | **[📚 Marketing & Public Relations Internship Opportunity (Unpaid / Educational)](https://jobright.ai/jobs/info/697f4e097f40342e15d81426?utm_campaign=1065&utm_source=git)** | Tennessee, United States | Remote | Jan 31 |
-| **[Loveit Studio](https://loveit.studio/)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/697e4636ce48107c05427ff2?utm_campaign=1065&utm_source=git)** | Grand Rapids Metro | Remote | Jan 31 |
 | **[Shaarp](http://www.shaarp.online)** | **[Growth, Marketing, Podcast Intern](https://jobright.ai/jobs/info/697f54acabff4c399a9e07f7?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 31 |
 | **[Studio Somatics](https://www.linkedin.com/company/99909646)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e3bb9abff4c399a9d0786?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Jan 31 |
 | **[Wonderlands World](wonderlandsworld.com)** | **[Marketing Intern (Social Media & Brand Growth)](https://jobright.ai/jobs/info/697e37b5ce48107c05427db1?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 31 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - eCommerce Merchandising](https://jobright.ai/jobs/info/6945ffec7d506e3808f14a43?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | Hybrid | Jan 31 |
 | **[Amazon](https://amazon.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/6961cb8ae7ed9a5731ba9b28?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
 | **[TowneBank Mortgage](https://www.townebankmortgage.com)** | **[Mortgage Marketing Communications -Summer Intern](https://jobright.ai/jobs/info/696078faa112b402660f3451?utm_campaign=1065&utm_source=git)** | Norfolk, VA | Hybrid | Jan 31 |
-| **[Disney Music Group](http://disneymusic.disney.com)** | **[Disney Music Group Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/697df642ce48107c05423361?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 31 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marketing Analytics Intern, New York City, Summer 2026](https://jobright.ai/jobs/info/697b4eb21136d179eeeec3f3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 31 |
-| ↳ | **[Disney Music Group International Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/697df49f7f40342e15d6cc2e?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 31 |
-| **[CALSTART](http://www.calstart.org)** | **[Marketing Intern, Trucks](https://jobright.ai/jobs/info/69617541a112b402660ff944?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Workplace Support Ambassador Intern - Summer 2026](https://jobright.ai/jobs/info/6945de8563141d1884557dec?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
-| **[Boost Mobile](http://www.boostmobile.com/)** | **[Search Analytics & Insights Intern](https://jobright.ai/jobs/info/69616abaa112b402660fecd6?utm_campaign=1065&utm_source=git)** | Littleton, CO | On Site | Jan 31 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Multimedia Marketing Intern - Summer](https://jobright.ai/jobs/info/690d0277221b890c27801e1c?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 31 |
-| **[Stop & Shop](http://stopandshop.com)** | **[Merchandising Services Intern](https://jobright.ai/jobs/info/6961aac4f3f4cd132506b21d?utm_campaign=1065&utm_source=git)** | Quincy, MA | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
