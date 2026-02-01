@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/69309064ef4b48533d14c73b?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Jan 31 |
+| **[Red River Commodities Inc](https://redriv.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/697ef810ce48107c054318ff?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Jan 31 |
 | **[The Pearl Agency NYC](https://www.thepearlagencyny.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697edc6cce48107c054302ce?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 31 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/697ec8c1ce48107c0542df03?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/697ec083abff4c399a9d6310?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Equity Bank](https://www.equitybank.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/6961b781a112b40266104816?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/6945dc1563141d1884557b34?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Digital Marketing/SEO Intern - Chicago, IL - AZEK](https://jobright.ai/jobs/info/6979585939f7f96cc6d1ce00?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
-| **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945b560d1953b5d11beb345?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
-| ↳ | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Jan 31 |
+| **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Jan 31 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945b560d1953b5d11beb345?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
 | **[Equity Bank](https://www.equitybank.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/6961b6faf3f4cd132506bd53?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Jan 31 |
 | **[ROCK](http://www.rockventures.com/)** | **[Philanthropy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6945d83e63141d18845578e2?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961e350a112b40266106441?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 31 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Planning Intern](https://jobright.ai/jobs/info/697dac4dce48107c0541fad4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | ↳ | **[Paid Growth Marketing Intern](https://jobright.ai/jobs/info/697dab3ace48107c0541f9c6?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | ↳ | **[Site Merchandising & Web Operations Intern](https://jobright.ai/jobs/info/697daa28abff4c399a9c7fdb?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
+| **[American Greetings](http://americangreetings.com)** | **[Creative Marketing Intern (Hybrid) - Summer 2026](https://jobright.ai/jobs/info/697f03e3ce48107c05432303?utm_campaign=1065&utm_source=git)** | Westlake, OH | Hybrid | Jan 30 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697efad67f40342e15d7b415?utm_campaign=1065&utm_source=git)** | College Park, MD | On Site | Jan 30 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/697d997c7f40342e15d6818b?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Strategic Communications Intern - Summer Recruitment MD/DC/VA (Hybrid)](https://jobright.ai/jobs/info/697d99527f40342e15d6816e?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Jan 30 |
-| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/697d9798ce48107c0541e790?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Susan Shaw](http://susanshaw.com)** | **[General Marketing Intern](https://jobright.ai/jobs/info/697d8e55abff4c399a9c5f5c?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
-| **[AbbVie](https://www.abbvie.com)** | **[Marketing Rheumatology Intern (9-Month Contract)](https://jobright.ai/jobs/info/697d8ddfce48107c0541d845?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
