@@ -124,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Equity Bank](https://www.equitybank.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/6961b781a112b40266104816?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/6945dc1563141d1884557b34?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Digital Marketing/SEO Intern - Chicago, IL - AZEK](https://jobright.ai/jobs/info/6979585939f7f96cc6d1ce00?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
-| **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945b560d1953b5d11beb345?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
-| ↳ | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Jan 31 |
+| **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Jan 31 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945b560d1953b5d11beb345?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
 | **[Equity Bank](https://www.equitybank.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/6961b6faf3f4cd132506bd53?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Jan 31 |
 | **[ROCK](http://www.rockventures.com/)** | **[Philanthropy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6945d83e63141d18845578e2?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961e350a112b40266106441?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 31 |
