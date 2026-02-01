@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697faaef7f40342e15d849bc?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 01 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697faa9fce48107c0543ac19?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 01 |
+| **[The Western and Southern Life Insurance Company](http://wslife.com)** | **[Field Marketing Intern (Hermitage PA)](https://jobright.ai/jobs/info/697faa877f40342e15d8493b?utm_campaign=1065&utm_source=git)** | Hermitage, PA | On Site | Feb 01 |
+| **[Colorstech Solar](http://www.colorstech.net)** | **[On- line Marketing Intern Solar- Equipments](https://jobright.ai/jobs/info/697fa765abff4c399a9e37f0?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697f9e1aabff4c399a9e3415?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 01 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697f950eabff4c399a9e3368?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 01 |
 | **[Project Brains](https://www.projectbrains.io)** | **[Community Growth Intern](https://jobright.ai/jobs/info/697f92017f40342e15d84136?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | Feb 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945adf5951654073537c825?utm_campaign=1065&utm_source=git)** | Lexington, KY | Hybrid | Jan 31 |
 | **[Equity Bank](https://www.equitybank.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/6961b781a112b40266104816?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/6945dc1563141d1884557b34?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
-| **[James Hardie](https://www.jameshardie.com)** | **[Digital Marketing/SEO Intern - Chicago, IL - AZEK](https://jobright.ai/jobs/info/6979585939f7f96cc6d1ce00?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
-| **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Jan 31 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945b560d1953b5d11beb345?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
-| **[Equity Bank](https://www.equitybank.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/6961b6faf3f4cd132506bd53?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
