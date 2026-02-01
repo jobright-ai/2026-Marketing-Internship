@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Western and Southern Life Insurance Company](http://wslife.com)** | **[Field Marketing Intern (Independence OH)](https://jobright.ai/jobs/info/697fc7cfabff4c399a9e6166?utm_campaign=1065&utm_source=git)** | Independence, OH | On Site | Feb 01 |
+| **[Midra AI](https://midraai.com/)** | **[Founding Marketing Intern (Unpaid, Remote) - AI Startup](https://jobright.ai/jobs/info/697fd431abff4c399a9e7ac6?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 01 |
+| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697fcb667f40342e15d87541?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 01 |
+| **[The Western and Southern Life Insurance Company](http://wslife.com)** | **[Field Marketing Intern (Willoughby OH)](https://jobright.ai/jobs/info/697fcb067f40342e15d87528?utm_campaign=1065&utm_source=git)** | Willoughby, OH | On Site | Feb 01 |
+| ↳ | **[Field Marketing Intern (Independence OH)](https://jobright.ai/jobs/info/697fc7cfabff4c399a9e6166?utm_campaign=1065&utm_source=git)** | Independence, OH | On Site | Feb 01 |
 | ↳ | **[Field Marketing Intern (Russell KY)](https://jobright.ai/jobs/info/697fc7bace48107c0543d658?utm_campaign=1065&utm_source=git)** | Russell, KY | On Site | Feb 01 |
 | ↳ | **[Field Marketing Intern (Lima OH)](https://jobright.ai/jobs/info/697fc4fbabff4c399a9e5b3e?utm_campaign=1065&utm_source=git)** | Lima, OH | On Site | Feb 01 |
 | ↳ | **[Field Marketing Intern (Findlay OH)](https://jobright.ai/jobs/info/697fc4baabff4c399a9e5aa0?utm_campaign=1065&utm_source=git)** | Findlay, OH | On Site | Feb 01 |
@@ -73,7 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Marketing Intern (Grove City OH)](https://jobright.ai/jobs/info/697fb63dce48107c0543b0e7?utm_campaign=1065&utm_source=git)** | Grove City, OH | On Site | Feb 01 |
 | ↳ | **[Field Marketing Intern (Gilbert AZ)](https://jobright.ai/jobs/info/697fb5f97f40342e15d84c8d?utm_campaign=1065&utm_source=git)** | Gilbert, AZ | On Site | Feb 01 |
 | ↳ | **[Field Marketing Intern (Peachtree Corners, GA)](https://jobright.ai/jobs/info/697fb5f67f40342e15d84c8c?utm_campaign=1065&utm_source=git)** | Peachtree Corners, GA | On Site | Feb 01 |
-| ↳ | **[Field Marketing Intern (Columbus OH)](https://jobright.ai/jobs/info/697fb315abff4c399a9e3e76?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 01 |
+| **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[DEVELOPMENT & MARKETING INTERN](https://jobright.ai/jobs/info/697fd2c0ce48107c0543eae6?utm_campaign=1065&utm_source=git)** | Fayetteville, NC, United States | On Site | Feb 01 |
+| **[The Western and Southern Life Insurance Company](http://wslife.com)** | **[Field Marketing Intern (Columbus OH)](https://jobright.ai/jobs/info/697fb315abff4c399a9e3e76?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 01 |
 | **[Meridian Waste](http://www.MeridianWaste.com)** | **[Intern](https://jobright.ai/jobs/info/697fb2a47f40342e15d84c55?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 01 |
 | **[The Western and Southern Life Insurance Company](http://wslife.com)** | **[Field Marketing Intern (Youngstown OH)](https://jobright.ai/jobs/info/697faf51abff4c399a9e3dab?utm_campaign=1065&utm_source=git)** | Youngstown, OH | On Site | Feb 01 |
 | ↳ | **[Field Marketing Intern (Cincinnati OH)](https://jobright.ai/jobs/info/697faf03abff4c399a9e3d56?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Axis Communications](http://www.axis.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6945dc3f63141d1884557b60?utm_campaign=1065&utm_source=git)** | Chelmsford, MA | Hybrid | Jan 31 |
 | **[Boomi](https://boomi.com/)** | **[Marketing Communications - Industry Analyst Relations Summer Internship (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/696ed13f5fc86241853dcd8b?utm_campaign=1065&utm_source=git)** | Canada | Hybrid | Jan 31 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68cd191ae23def7af55b5338?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
-| **[LogRocket](https://logrocket.com)** | **[Relationship Marketing Intern](https://jobright.ai/jobs/info/690bc3a9d046ab6061ce7572?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jan 31 |
-| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - eCommerce Merchandising](https://jobright.ai/jobs/info/6945ffec7d506e3808f14a43?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | Hybrid | Jan 31 |
-| **[Amazon](https://amazon.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/6961cb8ae7ed9a5731ba9b28?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
-| **[TowneBank Mortgage](https://www.townebankmortgage.com)** | **[Mortgage Marketing Communications -Summer Intern](https://jobright.ai/jobs/info/696078faa112b402660f3451?utm_campaign=1065&utm_source=git)** | Norfolk, VA | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
