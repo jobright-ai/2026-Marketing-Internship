@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697f9e1aabff4c399a9e3415?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 01 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697f950eabff4c399a9e3368?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 01 |
+| **[Project Brains](https://www.projectbrains.io)** | **[Community Growth Intern](https://jobright.ai/jobs/info/697f92017f40342e15d84136?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | Feb 01 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/697f91afabff4c399a9e32dc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 01 |
 | **[Petwello宠我点](https://www.linkedin.com/company/78137900)** | **[Chinese Social Media Digital Marketing Strategist and Content Writer Intern](https://jobright.ai/jobs/info/697f817bce48107c05438a7a?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947797363141d1884571fe4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 01 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Equity Bank](https://www.equitybank.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/6961b781a112b40266104816?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/6945dc1563141d1884557b34?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Digital Marketing/SEO Intern - Chicago, IL - AZEK](https://jobright.ai/jobs/info/6979585939f7f96cc6d1ce00?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
-| **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945b560d1953b5d11beb345?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
-| ↳ | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Jan 31 |
+| **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Jan 31 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945b560d1953b5d11beb345?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
 | **[Equity Bank](https://www.equitybank.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/6961b6faf3f4cd132506bd53?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Jan 31 |
-| **[ROCK](http://www.rockventures.com/)** | **[Philanthropy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6945d83e63141d18845578e2?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
-| **[Lennox](http://www.lennox.com)** | **[Summer 2026 Marketing Communications Intern](https://jobright.ai/jobs/info/690d2c62221b890c27804401?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Jan 31 |
-| **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Marketing Internship](https://jobright.ai/jobs/info/690cef7cd046ab6061cf0ac9?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
