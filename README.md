@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Digital Paid Media Intern](https://jobright.ai/jobs/info/6941c78f14ee092a69ffdeb4?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 01 |
+| **[Recruitefy](recruitefy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697f62d7abff4c399a9e1351?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69477973d1953b5d11c08b72?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 01 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6881d6e141fbda106ee6da2f?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 01 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Brand Management Intern (MBA - Summer 2026)](https://jobright.ai/jobs/info/68ccdb445954791a1d7000de?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | Feb 01 |
@@ -92,8 +94,10 @@ For a complete list, click the following sortable link below:
 | **[Cristo Rey Jesuit High School](https://www.cristorey.net/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/697e5cc17f40342e15d7264a?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
 | **[ASA Entertainment](https://www.asaentertainment.com)** | **[2026 Summer / Fall Internship](https://jobright.ai/jobs/info/697e5c117f40342e15d7257f?utm_campaign=1065&utm_source=git)** | Indialantic, FL | On Site | Jan 31 |
 | **[B. Braun Interventional Systems Inc.](https://bisusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/6964629c2cbf4e44756de6d7?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jan 31 |
+| **[W. Brand Publishing](http://www.wbrandpub.com)** | **[📚 Marketing & Public Relations Internship Opportunity (Unpaid / Educational)](https://jobright.ai/jobs/info/697f4e097f40342e15d81426?utm_campaign=1065&utm_source=git)** | Tennessee, United States | Remote | Jan 31 |
 | **[California Miramar University](http://www.calmu.edu)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697e4aababff4c399a9d095c?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
 | **[Loveit Studio](https://loveit.studio/)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/697e4636ce48107c05427ff2?utm_campaign=1065&utm_source=git)** | Grand Rapids Metro | Remote | Jan 31 |
+| **[Shaarp](http://www.shaarp.online)** | **[Growth, Marketing, Podcast Intern](https://jobright.ai/jobs/info/697f54acabff4c399a9e07f7?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 31 |
 | **[Studio Somatics](https://www.linkedin.com/company/99909646)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e3bb9abff4c399a9d0786?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Jan 31 |
 | **[Wonderlands World](wonderlandsworld.com)** | **[Marketing Intern (Social Media & Brand Growth)](https://jobright.ai/jobs/info/697e37b5ce48107c05427db1?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 31 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - MARKETING AND COMMUNICATIONS](https://jobright.ai/jobs/info/697a368bb4589b4ee87c7407?utm_campaign=1065&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Merchandising Strategy Manager Intern (TikTok Shop Affiliate Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976df78bc8e722e7b1b5254?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
 | **[Performance Auto Group](https://www.performance.ca/)** | **[Media Content Intern (Performance Auto Group - Head Office Niagara) (4-Month Contract)](https://jobright.ai/jobs/info/697984929c90a224ecc34390?utm_campaign=1065&utm_source=git)** | St. Catharines, Ontario, Canada | On Site | Jan 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (TikTok Shop Product Marketing) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69782d2488e2b47213bc2e11?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Enterprise Culture & Engagement Intern](https://jobright.ai/jobs/info/697ddd19abff4c399a9cb517?utm_campaign=1065&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 31 |
-| **[NRG Energy](http://www.nrg.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6961b235e7ed9a5731ba8645?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jan 31 |
-| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/6944aee494730b739877f312?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jan 31 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Fan Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/697e0f257f40342e15d6f2a5?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
