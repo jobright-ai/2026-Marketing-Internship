@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Workout Anytime Franchising Systems, LLC](http://www.workoutanytime.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6980a2ecabff4c399a9f701c?utm_campaign=1065&utm_source=git)** | Rolesville, NC | On Site | Feb 02 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Marketing Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/690e83cf221b890c2780ee22?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 02 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[TH Marketing Intern](https://jobright.ai/jobs/info/697028c551f72647718258cf?utm_campaign=1065&utm_source=git)** | Paramus, NJ | Hybrid | Feb 02 |
 | **[Motion](http://www.dragosupply.com/)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/6933a477f131d96e484652ae?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Feb 02 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Atlanta Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/692d42b666796e3028f940b7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 02 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Marketing Intern (Maumee OH)](https://jobright.ai/jobs/info/697fc491abff4c399a9e5a40?utm_campaign=1065&utm_source=git)** | Maumee, OH | On Site | Feb 01 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Windsor, ON](https://jobright.ai/jobs/info/694cc4cad4a7df7a0672145d?utm_campaign=1065&utm_source=git)** | Windsor, Ontario, Canada | On Site | Feb 01 |
 | ↳ | **[Field Marketing Coordinator Intern - Winnipeg, MB](https://jobright.ai/jobs/info/693b9d8a49a7695fbd028edc?utm_campaign=1065&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Feb 01 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications Intern](https://jobright.ai/jobs/info/697fc1c17f40342e15d8624f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Social Media Internship / Spring 2026](https://jobright.ai/jobs/info/69806ba649964d25b5e335db?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Credit Union of Denver](https://www.cudenver.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697fba0babff4c399a9e43aa?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 01 |
 | **[Wade Trim](http://wadetrim.com)** | **[Marketing Intern - 2870](https://jobright.ai/jobs/info/697fb9e17f40342e15d85102?utm_campaign=1065&utm_source=git)** | Taylor, MI | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red River Commodities Inc](https://redriv.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/697ef810ce48107c054318ff?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Jan 31 |
 | **[Renalta](renalta.com)** | **[Growth Fellow](https://jobright.ai/jobs/info/6980410ece48107c05447333?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Red River Commodities Inc](https://redriv.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/697f2552ce48107c05434035?utm_campaign=1065&utm_source=git)** | Fargo, North Dakota | On Site | Jan 31 |
-| **[The Hillman Group](http://www.hillmangroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/697ec8c1ce48107c0542df03?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
