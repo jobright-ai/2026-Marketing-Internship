@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Backlinkgen](https://backlinkgen.com)** | **[Online -Marketing  Internship - Work](https://jobright.ai/jobs/info/69801d8cce48107c05443e88?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Feb 01 |
+| **[Locke Solutions](https://lockesolutions.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698027e3ce48107c054445e8?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Feb 01 |
+| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/698027b2ce48107c054445de?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Content Specialist (Intern to Full-Time)](https://jobright.ai/jobs/info/69801d88ce48107c05443e87?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Feb 01 |
-| **[Colorstech Solar](http://www.colorstech.net)** | **[Solar- Online Marketing - Specialist Internship](https://jobright.ai/jobs/info/69801d1babff4c399a9ece34?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 01 |
 | **[Emerson](http://www.emerson.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69801d197f40342e15d8dad7?utm_campaign=1065&utm_source=git)** | Shakopee, MN | On Site | Feb 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/698019cb7f40342e15d8da92?utm_campaign=1065&utm_source=git)** | Chanhassen, MN | On Site | Feb 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/698018c97f40342e15d8da3b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 01 |
@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69800831abff4c399a9ebf94?utm_campaign=1065&utm_source=git)** | 6001 Rogerdale Road, Houston, TX, 77072, US | On Site | Feb 01 |
 | **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6980058b7f40342e15d8cb38?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 01 |
 | **[Ascension](https://www.ascensionpress.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697ffed37f40342e15d8c5c5?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
-| **[Nexia](https://nexiausa.com)** | **[Marketing and Growth Internship](https://jobright.ai/jobs/info/697ff231abff4c399a9e9bc7?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 01 |
 | **[Options for Community Living, Inc.](http://optionscl.org/)** | **[Spring 2026 Marketing & Social Media Intern](https://jobright.ai/jobs/info/697d302f137a051025663b19?utm_campaign=1065&utm_source=git)** | Ronkonkoma | On Site | Feb 01 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697feef47f40342e15d8a657?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Feb 01 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Communications Spring Intern 2026](https://jobright.ai/jobs/info/697fe6bfabff4c399a9e8fac?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Community Manager Co-op, Social Media & Online Engagement (February to July)](https://jobright.ai/jobs/info/696215eba112b40266107e52?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedb1a46e5b153e5a60991?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Marketing](https://jobright.ai/jobs/info/697e0f7ece48107c05425921?utm_campaign=1065&utm_source=git)** | Kansas City - Kansas City, MO 64129 | On Site | Jan 31 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed15146e5b153e5a60303?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
