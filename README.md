@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ChiChi](https://chichifoods.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697fe0f0ce48107c0543faf6?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Feb 01 |
+| **[Fashionpreneur HUB](http://fashionpreneurhub.com)** | **[Education & Fashion Nonprofit 3 Months Internships /  Social Media Marketing, Content Creators & Video Production, Graphic Design, Business Development & Fundraising](https://jobright.ai/jobs/info/697fdb04abff4c399a9e850d?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
+| **[Dayton Dutch Lions F.C.](http://ddlfc.com)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/697fdae7abff4c399a9e84e2?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 01 |
 | **[Midra AI](https://midraai.com/)** | **[Founding Marketing Intern (Unpaid, Remote) - AI Startup](https://jobright.ai/jobs/info/697fd431abff4c399a9e7ac6?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 01 |
 | **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697fcb667f40342e15d87541?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 01 |
 | **[The Western and Southern Life Insurance Company](http://wslife.com)** | **[Field Marketing Intern (Willoughby OH)](https://jobright.ai/jobs/info/697fcb067f40342e15d87528?utm_campaign=1065&utm_source=git)** | Willoughby, OH | On Site | Feb 01 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Marketing Intern – MBA Leadership Program](https://jobright.ai/jobs/info/692b44a0fa28370be269881a?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Feb 01 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/694761617d506e3808f2abbc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 01 |
 | **[Commvault](https://www.commvault.com)** | **[Corporate Events Intern](https://jobright.ai/jobs/info/697f2dedce48107c05435453?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
-| **[Baptist Health](https://www.baptist-health.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697f29b57f40342e15d7e667?utm_campaign=1065&utm_source=git)** | Little Rock, AR | On Site | Feb 01 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN Madison Summer 2026 Internship](https://jobright.ai/jobs/info/697f27107f40342e15d7e061?utm_campaign=1065&utm_source=git)** | Madison, WI, US | On Site | Feb 01 |
 | **[Jingo](https://www.jingo.app)** | **[Marketing Intern (FSU)](https://jobright.ai/jobs/info/697f26c6ce48107c054343c1?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | Feb 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/697f23bb7f40342e15d7d7dc?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Music Group Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/697e0139ce48107c0542403a?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 31 |
 | **[Corsair](http://www.corsair.com)** | **[Social & Community Intern – DIY Technical Marketing](https://jobright.ai/jobs/info/69459c1e63141d1884552a2c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Axis Communications](http://www.axis.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6945dc3f63141d1884557b60?utm_campaign=1065&utm_source=git)** | Chelmsford, MA | Hybrid | Jan 31 |
-| **[Boomi](https://boomi.com/)** | **[Marketing Communications - Industry Analyst Relations Summer Internship (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/696ed13f5fc86241853dcd8b?utm_campaign=1065&utm_source=git)** | Canada | Hybrid | Jan 31 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68cd191ae23def7af55b5338?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
