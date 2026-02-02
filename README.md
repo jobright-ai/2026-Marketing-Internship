@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motion](https://www.motion.com)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/6933a477f131d96e484652ae?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Feb 02 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Atlanta Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/692d42b666796e3028f940b7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 02 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Technology to Market Intern Summer 2026](https://jobright.ai/jobs/info/68ce935bfb49c96ca6ea1acb?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 02 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/698079d4abff4c399a9f43f0?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 02 |
 | **[DBtronics](https://dbtronics.org)** | **[DBtronics Internship Program - Canadian-Based Company](https://jobright.ai/jobs/info/69807957abff4c399a9f439d?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Remote | Feb 02 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Digital Strategy Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/6980774649964d25b5e3433c?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Feb 02 |
 | **[WD WIAN Test Company Page](https://www.linkedin.com/company/111537035)** | **[Intern - Multiple openings](https://jobright.ai/jobs/info/6976dfdabc8e722e7b1b549e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Dynatrace](https://www.dynatrace.com)** | **[Marketing Intern - Brand & Communications](https://jobright.ai/jobs/info/69805982abff4c399a9f1b57?utm_campaign=1065&utm_source=git)** | Boston, KY | Hybrid | Feb 02 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Marketing and Communications](https://jobright.ai/jobs/info/6980583aabff4c399a9f19d4?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Feb 01 |
 | **[The Family Office Company BSC (c)](https://www.tfoco.com/)** | **[Communications Marketing Intern](https://jobright.ai/jobs/info/698054a47f40342e15d921e3?utm_campaign=1065&utm_source=git)** | Flowood,MS,US | On Site | Feb 01 |
-| **[DemaDose](https://www.demadose.com/)** | **[Founding Content Marketing](https://jobright.ai/jobs/info/69804d39abff4c399a9f11da?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/69804c31abff4c399a9f116c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69803d92abff4c399a9f02ad?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Feb 01 |
 | **[UNICEF](https://agora.unicef.org/)** | **[Content and Executive management support internship, Director's Office, Global Programme Division, NYHQ - 26 weeks (Full time)](https://jobright.ai/jobs/info/698030447f40342e15d8fbc5?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Feb 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red River Commodities Inc](https://redriv.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/697f2552ce48107c05434035?utm_campaign=1065&utm_source=git)** | Fargo, North Dakota | On Site | Jan 31 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/697ec8c1ce48107c0542df03?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/697ebda67f40342e15d772e9?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jan 31 |
-| **[Thesis](https://www.linkedin.com/company/110425859)** | **[Marketing Intern](https://jobright.ai/jobs/info/6980423d7f40342e15d910bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
-| **[Carlton County, Minnesota](https://www.carltoncountymn.gov/)** | **[Community & Family Initiatives Intern](https://jobright.ai/jobs/info/697ea4ee7f40342e15d7653a?utm_campaign=1065&utm_source=git)** | Cloquet - Government Services Building - Cloquet, MN 55720 | On Site | Jan 31 |
-| **[International Friendships, Inc.](https://www.ifiusa.org)** | **[Unpaid Internship: Event and Trip Intern in Columbus](https://jobright.ai/jobs/info/697f0d8c7f40342e15d7c7d9?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
