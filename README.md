@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBtronics](https://dbtronics.org)** | **[DBtronics Internship Program - Canadian-Based Company](https://jobright.ai/jobs/info/69807957abff4c399a9f439d?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Remote | Feb 02 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Digital Strategy Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/6980774649964d25b5e3433c?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Feb 02 |
+| **[WD WIAN Test Company Page](https://www.linkedin.com/company/111537035)** | **[Intern - Multiple openings](https://jobright.ai/jobs/info/6976dfdabc8e722e7b1b549e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 | **[Chicago Fire FC](https://www.chicagofirefc.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/697932d152f3c27ec6457c13?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Jingo](https://www.jingo.app)** | **[Marketing Intern (SMU)](https://jobright.ai/jobs/info/69806c8649964d25b5e33702?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content & Brand Insights Social Media Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69806c0149964d25b5e33644?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | On Site | Feb 02 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/697ec8c1ce48107c0542df03?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/697ebda67f40342e15d772e9?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jan 31 |
 | **[Thesis](https://www.linkedin.com/company/110425859)** | **[Marketing Intern](https://jobright.ai/jobs/info/6980423d7f40342e15d910bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
-| **[CouponDonation](http://www.coupondonation.com)** | **[Marketing & Content Creation (Unpaid)](https://jobright.ai/jobs/info/697ea76ace48107c0542cac5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Carlton County, Minnesota](https://www.carltoncountymn.gov/)** | **[Community & Family Initiatives Intern](https://jobright.ai/jobs/info/697ea4ee7f40342e15d7653a?utm_campaign=1065&utm_source=git)** | Cloquet - Government Services Building - Cloquet, MN 55720 | On Site | Jan 31 |
 | **[International Friendships, Inc.](https://www.ifiusa.org)** | **[Unpaid Internship: Event and Trip Intern in Columbus](https://jobright.ai/jobs/info/697f0d8c7f40342e15d7c7d9?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
-| **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697d93207f40342e15d67490?utm_campaign=1065&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 31 |
-| **[North](https://north.inc)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e66afce48107c05428eec?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
