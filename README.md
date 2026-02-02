@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solar Energy Industries Association](http://www.seia.org)** | **[Communications Spring Intern 2026](https://jobright.ai/jobs/info/697fe6bfabff4c399a9e8fac?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 01 |
 | **[ChiChi](https://chichifoods.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697fe0f0ce48107c0543faf6?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Feb 01 |
 | **[Fashionpreneur HUB](http://fashionpreneurhub.com)** | **[Education & Fashion Nonprofit 3 Months Internships /  Social Media Marketing, Content Creators & Video Production, Graphic Design, Business Development & Fundraising](https://jobright.ai/jobs/info/697fdb04abff4c399a9e850d?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Dayton Dutch Lions F.C.](http://ddlfc.com)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/697fdae7abff4c399a9e84e2?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[PR Intern](https://jobright.ai/jobs/info/6961c5eda112b402661054cb?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Music Group Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/697e0139ce48107c0542403a?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jan 31 |
 | **[Corsair](http://www.corsair.com)** | **[Social & Community Intern – DIY Technical Marketing](https://jobright.ai/jobs/info/69459c1e63141d1884552a2c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
-| **[Axis Communications](http://www.axis.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6945dc3f63141d1884557b60?utm_campaign=1065&utm_source=git)** | Chelmsford, MA | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
