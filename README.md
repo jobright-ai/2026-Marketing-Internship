@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Backlinkgen](https://backlinkgen.com)** | **[Online -Marketing  Internship - Work](https://jobright.ai/jobs/info/69801d8cce48107c05443e88?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Feb 01 |
+| **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Content Specialist (Intern to Full-Time)](https://jobright.ai/jobs/info/69801d88ce48107c05443e87?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Feb 01 |
+| **[Colorstech Solar](http://www.colorstech.net)** | **[Solar- Online Marketing - Specialist Internship](https://jobright.ai/jobs/info/69801d1babff4c399a9ece34?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 01 |
+| **[Emerson](http://www.emerson.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69801d197f40342e15d8dad7?utm_campaign=1065&utm_source=git)** | Shakopee, MN | On Site | Feb 01 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/698019cb7f40342e15d8da92?utm_campaign=1065&utm_source=git)** | Chanhassen, MN | On Site | Feb 01 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/698018c97f40342e15d8da3b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 01 |
+| **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, Communications](https://jobright.ai/jobs/info/69645feaa112b40266124b98?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 01 |
 | **[Ascension](https://www.ascensionpress.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69800a01abff4c399a9ec188?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Emerson](http://www.emerson.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698008ddabff4c399a9ec090?utm_campaign=1065&utm_source=git)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Feb 01 |
 | **[Qi Health App](https://qi.health)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6980084b7f40342e15d8cd62?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Feb 01 |
@@ -80,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Windsor, ON](https://jobright.ai/jobs/info/694cc4cad4a7df7a0672145d?utm_campaign=1065&utm_source=git)** | Windsor, Ontario, Canada | On Site | Feb 01 |
 | ↳ | **[Field Marketing Coordinator Intern - Winnipeg, MB](https://jobright.ai/jobs/info/693b9d8a49a7695fbd028edc?utm_campaign=1065&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Feb 01 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications Intern](https://jobright.ai/jobs/info/697fc1c17f40342e15d8624f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
-| **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Social Media Internship / Spring 2026](https://jobright.ai/jobs/info/697fbd7cce48107c0543c08a?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Credit Union of Denver](https://www.cudenver.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697fba0babff4c399a9e43aa?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 01 |
 | **[Wade Trim](http://wadetrim.com)** | **[Marketing Intern - 2870](https://jobright.ai/jobs/info/697fb9e17f40342e15d85102?utm_campaign=1065&utm_source=git)** | Taylor, MI | On Site | Feb 01 |
 | **[The Western and Southern Life Insurance Company](http://wslife.com)** | **[Field Marketing Intern (Charleston SC)](https://jobright.ai/jobs/info/697fb6e6ce48107c0543b280?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Feb 01 |
@@ -99,8 +105,6 @@ For a complete list, click the following sortable link below:
 | **[The Western and Southern Life Insurance Company](http://wslife.com)** | **[Field Marketing Intern (Hermitage PA)](https://jobright.ai/jobs/info/697faa877f40342e15d8493b?utm_campaign=1065&utm_source=git)** | Hermitage, PA | On Site | Feb 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697f9e1aabff4c399a9e3415?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 01 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697f950eabff4c399a9e3368?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 01 |
-| **[Project Brains](https://www.projectbrains.io)** | **[Community Growth Intern](https://jobright.ai/jobs/info/697f92017f40342e15d84136?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | Feb 01 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/697f91afabff4c399a9e32dc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 01 |
 | **[Petwello宠我点](https://www.linkedin.com/company/78137900)** | **[Chinese Social Media Digital Marketing Strategist and Content Writer Intern](https://jobright.ai/jobs/info/697f817bce48107c05438a7a?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947797363141d1884571fe4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Communications Intern](https://jobright.ai/jobs/info/697f743fabff4c399a9e16ee?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
@@ -131,13 +135,11 @@ For a complete list, click the following sortable link below:
 | **[Carlton County, Minnesota](https://www.carltoncountymn.gov/)** | **[Community & Family Initiatives Intern](https://jobright.ai/jobs/info/697ea4ee7f40342e15d7653a?utm_campaign=1065&utm_source=git)** | Cloquet - Government Services Building - Cloquet, MN 55720 | On Site | Jan 31 |
 | **[International Friendships, Inc.](https://www.ifiusa.org)** | **[Unpaid Internship: Event and Trip Intern in Columbus](https://jobright.ai/jobs/info/697f0d8c7f40342e15d7c7d9?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697d93207f40342e15d67490?utm_campaign=1065&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 31 |
-| **[Prospect Equities®](http://ProspectEquities.com/)** | **[Bilingual Social Media Content Creator Intern](https://jobright.ai/jobs/info/697e6a277f40342e15d73a5f?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | **[North](https://north.inc)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e66afce48107c05428eec?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 31 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/697e61067f40342e15d72764?utm_campaign=1065&utm_source=git)** | Fayetteville, NC | On Site | Jan 31 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Media & Public Relations (Summer 2026)](https://jobright.ai/jobs/info/697e6050abff4c399a9d14f2?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 31 |
 | **[Cristo Rey Jesuit High School](https://www.cristorey.net/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/697e5cc17f40342e15d7264a?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
 | **[ASA Entertainment](https://www.asaentertainment.com)** | **[2026 Summer / Fall Internship](https://jobright.ai/jobs/info/697e5c117f40342e15d7257f?utm_campaign=1065&utm_source=git)** | Indialantic, FL | On Site | Jan 31 |
-| **[B. Braun Interventional Systems Inc.](https://bisusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/6964629c2cbf4e44756de6d7?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jan 31 |
 | **[W. Brand Publishing](http://www.wbrandpub.com)** | **[📚 Marketing & Public Relations Internship Opportunity (Unpaid / Educational)](https://jobright.ai/jobs/info/697f4e097f40342e15d81426?utm_campaign=1065&utm_source=git)** | Tennessee, United States | Remote | Jan 31 |
 | **[Shaarp](http://www.shaarp.online)** | **[Growth, Marketing, Podcast Intern](https://jobright.ai/jobs/info/697f54acabff4c399a9e07f7?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 31 |
 | **[Studio Somatics](https://www.linkedin.com/company/99909646)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e3bb9abff4c399a9d0786?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Community Manager Co-op, Social Media & Online Engagement (February to July)](https://jobright.ai/jobs/info/696215eba112b40266107e52?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedb1a46e5b153e5a60991?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Marketing](https://jobright.ai/jobs/info/697e0f7ece48107c05425921?utm_campaign=1065&utm_source=git)** | Kansas City - Kansas City, MO 64129 | On Site | Jan 31 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed15146e5b153e5a60303?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Jan 31 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/697303591790715e866bef93?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
