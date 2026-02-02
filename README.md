@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Family Office Company BSC (c)](https://www.tfoco.com/)** | **[Communications Marketing Intern](https://jobright.ai/jobs/info/698054a47f40342e15d921e3?utm_campaign=1065&utm_source=git)** | Flowood,MS,US | On Site | Feb 01 |
+| **[DemaDose](https://www.demadose.com/)** | **[Founding Content Marketing](https://jobright.ai/jobs/info/69804d39abff4c399a9f11da?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/69804c31abff4c399a9f116c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69803d92abff4c399a9f02ad?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Feb 01 |
 | **[UNICEF](https://agora.unicef.org/)** | **[Content and Executive management support internship, Director's Office, Global Programme Division, NYHQ - 26 weeks (Full time)](https://jobright.ai/jobs/info/698030447f40342e15d8fbc5?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Feb 01 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Product Marketing Intern - Garment Care & Lighted Mirrors](https://jobright.ai/jobs/info/696400062cbf4e44756d9d40?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69800831abff4c399a9ebf94?utm_campaign=1065&utm_source=git)** | 6001 Rogerdale Road, Houston, TX, 77072, US | On Site | Feb 01 |
 | **[Ascension](https://www.ascensionpress.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697ffed37f40342e15d8c5c5?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Options for Community Living, Inc.](http://optionscl.org/)** | **[Spring 2026 Marketing & Social Media Intern](https://jobright.ai/jobs/info/697d302f137a051025663b19?utm_campaign=1065&utm_source=git)** | Ronkonkoma | On Site | Feb 01 |
-| **[Fusion100](http://Fusion100co.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697feef47f40342e15d8a657?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Feb 01 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Communications Spring Intern 2026](https://jobright.ai/jobs/info/697fe6bfabff4c399a9e8fac?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 01 |
 | **[ChiChi](https://chichifoods.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697fe0f0ce48107c0543faf6?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Feb 01 |
 | **[Fashionpreneur HUB](http://fashionpreneurhub.com)** | **[Education & Fashion Nonprofit 3 Months Internships /  Social Media Marketing, Content Creators & Video Production, Graphic Design, Business Development & Fundraising](https://jobright.ai/jobs/info/697fdb04abff4c399a9e850d?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
@@ -104,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697faaef7f40342e15d849bc?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 01 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697faa9fce48107c0543ac19?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | **[The Western and Southern Life Insurance Company](http://wslife.com)** | **[Field Marketing Intern (Hermitage PA)](https://jobright.ai/jobs/info/697faa877f40342e15d8493b?utm_campaign=1065&utm_source=git)** | Hermitage, PA | On Site | Feb 01 |
+| **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN Madison Summer 2026 Internship](https://jobright.ai/jobs/info/698047af7f40342e15d918b9?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Feb 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697f9e1aabff4c399a9e3415?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 01 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/697f950eabff4c399a9e3368?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 01 |
 | **[Petwello宠我点](https://www.linkedin.com/company/78137900)** | **[Chinese Social Media Digital Marketing Strategist and Content Writer Intern](https://jobright.ai/jobs/info/697f817bce48107c05438a7a?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
@@ -138,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Carlton County, Minnesota](https://www.carltoncountymn.gov/)** | **[Community & Family Initiatives Intern](https://jobright.ai/jobs/info/697ea4ee7f40342e15d7653a?utm_campaign=1065&utm_source=git)** | Cloquet - Government Services Building - Cloquet, MN 55720 | On Site | Jan 31 |
 | **[International Friendships, Inc.](https://www.ifiusa.org)** | **[Unpaid Internship: Event and Trip Intern in Columbus](https://jobright.ai/jobs/info/697f0d8c7f40342e15d7c7d9?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697d93207f40342e15d67490?utm_campaign=1065&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 31 |
-| **[ANASUMA INC](https://anasuma.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/698043327f40342e15d911ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
 | **[North](https://north.inc)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e66afce48107c05428eec?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 31 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/697e61067f40342e15d72764?utm_campaign=1065&utm_source=git)** | Fayetteville, NC | On Site | Jan 31 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Media & Public Relations (Summer 2026)](https://jobright.ai/jobs/info/697e6050abff4c399a9d14f2?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Marketing Data Science](https://jobright.ai/jobs/info/697e2c17abff4c399a9ceadd?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697e23f1ce48107c05426193?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Jan 31 |
 | **[TopSpin Pickleball](https://topspinli.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e23ad7f40342e15d6fb1c?utm_campaign=1065&utm_source=git)** | Hauppauge, NY | On Site | Jan 31 |
-| **[PCL Construction](http://www.pcl.com)** | **[Marketing Student](https://jobright.ai/jobs/info/697e234ece48107c05426151?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 31 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed25746e5b153e5a605a5?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
