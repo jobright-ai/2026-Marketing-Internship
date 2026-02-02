@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://www.ascensionpress.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69800a01abff4c399a9ec188?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
+| **[Emerson](http://www.emerson.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698008ddabff4c399a9ec090?utm_campaign=1065&utm_source=git)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Feb 01 |
+| **[Qi Health App](https://qi.health)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6980084b7f40342e15d8cd62?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Feb 01 |
+| **[Emerson](http://www.emerson.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69800831abff4c399a9ebf94?utm_campaign=1065&utm_source=git)** | 6001 Rogerdale Road, Houston, TX, 77072, US | On Site | Feb 01 |
+| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6980058b7f40342e15d8cb38?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 01 |
 | **[Ascension](https://www.ascensionpress.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697ffed37f40342e15d8c5c5?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Nexia](https://nexiausa.com)** | **[Marketing and Growth Internship](https://jobright.ai/jobs/info/697ff231abff4c399a9e9bc7?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 01 |
 | **[Options for Community Living, Inc.](http://optionscl.org/)** | **[Spring 2026 Marketing & Social Media Intern](https://jobright.ai/jobs/info/697d302f137a051025663b19?utm_campaign=1065&utm_source=git)** | Ronkonkoma | On Site | Feb 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Marketing](https://jobright.ai/jobs/info/697e0f7ece48107c05425921?utm_campaign=1065&utm_source=git)** | Kansas City - Kansas City, MO 64129 | On Site | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed15146e5b153e5a60303?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Jan 31 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/697303591790715e866bef93?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Hybrid | Jan 31 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed481d078b81ad160fe55?utm_campaign=1065&utm_source=git)** | Bloomington, MN | On Site | Jan 31 |
-| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/694603d963141d188455ad88?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed44ee0db92422580bdb3?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jan 31 |
-| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6933fe06f131d96e48468e6a?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Jan 31 |
-| **[David Yurman](http://www.davidyurman.com)** | **[PR Intern](https://jobright.ai/jobs/info/6961c5eda112b402661054cb?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
