@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69805e9babff4c399a9f1d90?utm_campaign=1065&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
+| **[The Family Office Company BSC (c)](https://www.tfoco.com/)** | **[Communications  Intern](https://jobright.ai/jobs/info/69805a3f7f40342e15d926dd?utm_campaign=1065&utm_source=git)** | Flowood,MS,US | On Site | Feb 02 |
+| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Digital Marketing](https://jobright.ai/jobs/info/698059e5abff4c399a9f1bc5?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Feb 02 |
+| **[Dynatrace](https://www.dynatrace.com)** | **[Marketing Intern - Brand & Communications](https://jobright.ai/jobs/info/69805982abff4c399a9f1b57?utm_campaign=1065&utm_source=git)** | Boston, KY | Hybrid | Feb 02 |
+| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Marketing and Communications](https://jobright.ai/jobs/info/6980583aabff4c399a9f19d4?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Feb 01 |
 | **[The Family Office Company BSC (c)](https://www.tfoco.com/)** | **[Communications Marketing Intern](https://jobright.ai/jobs/info/698054a47f40342e15d921e3?utm_campaign=1065&utm_source=git)** | Flowood,MS,US | On Site | Feb 01 |
 | **[DemaDose](https://www.demadose.com/)** | **[Founding Content Marketing](https://jobright.ai/jobs/info/69804d39abff4c399a9f11da?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/69804c31abff4c399a9f116c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wonderlands World](wonderlandsworld.com)** | **[Marketing Intern (Social Media & Brand Growth)](https://jobright.ai/jobs/info/697e37b5ce48107c05427db1?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jan 31 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - MARKETING AND COMMUNICATIONS](https://jobright.ai/jobs/info/697a368bb4589b4ee87c7407?utm_campaign=1065&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
 | **[Adventuretown Toy Emporium](http://www.adventuretowntoys.com)** | **[Spring Marketing Intern](https://jobright.ai/jobs/info/697e348eabff4c399a9d05dc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 31 |
-| **[Britannica Capital](http://britannicacapital.com)** | **[PR & Media Outreach Internship](https://jobright.ai/jobs/info/6924b54eec574f4265bb6076?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
-| **[American 1 Credit Union](https://www.american1cu.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e3142ce48107c054264ad?utm_campaign=1065&utm_source=git)** | Home Office/Resource Center Jackson, Jackson, MI, US | On Site | Jan 31 |
-| **[BioSpace](http://www.biospace.com/)** | **[Internship - Marketing Data Science](https://jobright.ai/jobs/info/697e2c17abff4c399a9ceadd?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/697e23f1ce48107c05426193?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Jan 31 |
-| **[TopSpin Pickleball](https://topspinli.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697e23ad7f40342e15d6fb1c?utm_campaign=1065&utm_source=git)** | Hauppauge, NY | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
