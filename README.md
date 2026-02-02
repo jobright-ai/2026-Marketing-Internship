@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Motion](https://www.motion.com)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/6933a477f131d96e484652ae?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Feb 02 |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[TH Marketing Intern](https://jobright.ai/jobs/info/697028c551f72647718258cf?utm_campaign=1065&utm_source=git)** | Paramus, NJ | Hybrid | Feb 02 |
+| **[Motion](http://www.dragosupply.com/)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/6933a477f131d96e484652ae?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Feb 02 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Atlanta Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/692d42b666796e3028f940b7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 02 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Technology to Market Intern Summer 2026](https://jobright.ai/jobs/info/68ce935bfb49c96ca6ea1acb?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 02 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/698079d4abff4c399a9f43f0?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Renalta](renalta.com)** | **[Growth Fellow](https://jobright.ai/jobs/info/6980410ece48107c05447333?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Red River Commodities Inc](https://redriv.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/697f2552ce48107c05434035?utm_campaign=1065&utm_source=git)** | Fargo, North Dakota | On Site | Jan 31 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/697ec8c1ce48107c0542df03?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/697ebda67f40342e15d772e9?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
