@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Locke Solutions](https://lockesolutions.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698027e3ce48107c054445e8?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Feb 01 |
+| **[UNICEF](https://agora.unicef.org/)** | **[Content and Executive management support internship, Director's Office, Global Programme Division, NYHQ - 26 weeks (Full time)](https://jobright.ai/jobs/info/698030447f40342e15d8fbc5?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Feb 01 |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Product Marketing Intern - Garment Care & Lighted Mirrors](https://jobright.ai/jobs/info/696400062cbf4e44756d9d40?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
+| **[WPP Media](http://WPPmedia.com?utm_source=linkedin)** | **[Media Intern - Summer 2026](https://jobright.ai/jobs/info/69802f7eabff4c399a9ee91d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 01 |
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/698027b2ce48107c054445de?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 01 |
 | **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Content Specialist (Intern to Full-Time)](https://jobright.ai/jobs/info/69801d88ce48107c05443e87?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Feb 01 |
 | **[Emerson](http://www.emerson.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69801d197f40342e15d8dad7?utm_campaign=1065&utm_source=git)** | Shakopee, MN | On Site | Feb 01 |
@@ -128,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/69309064ef4b48533d14c73b?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Jan 31 |
 | **[Red River Commodities Inc](https://redriv.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/697ef810ce48107c054318ff?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Jan 31 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/697f2552ce48107c05434035?utm_campaign=1065&utm_source=git)** | Fargo, North Dakota | On Site | Jan 31 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/698039cece48107c05446e15?utm_campaign=1065&utm_source=git)** | Davidson, NC | Hybrid | Jan 31 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/697ec8c1ce48107c0542df03?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/697ebda67f40342e15d772e9?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jan 31 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing & Content Creation (Unpaid)](https://jobright.ai/jobs/info/697ea76ace48107c0542cac5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed25746e5b153e5a605a5?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Jan 31 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Communications Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/693cb2cfaa598a08c3ed8fbf?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Community Manager Co-op, Social Media & Online Engagement (February to July)](https://jobright.ai/jobs/info/696215eba112b40266107e52?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Jan 31 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedb1a46e5b153e5a60991?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
-| **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Marketing](https://jobright.ai/jobs/info/697e0f7ece48107c05425921?utm_campaign=1065&utm_source=git)** | Kansas City - Kansas City, MO 64129 | On Site | Jan 31 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed15146e5b153e5a60303?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
