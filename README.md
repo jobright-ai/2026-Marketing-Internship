@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cheekwood](https://cheekwood.org)** | **[Digital Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69825467348f733a5c352310?utm_campaign=1065&utm_source=git)** | Nashville,TN,US | On Site | Feb 03 |
+| **[Prada Group](https://www.pradagroup.com)** | **[GenerationPrada Intern, Retail Events](https://jobright.ai/jobs/info/6982544c0a9e07331f8d527d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 03 |
+| **[Gateway Pet Guardians](https://gatewaypets.org/)** | **[Marketing Internship (Paid)](https://jobright.ai/jobs/info/6982539a0f6f7e7a2cdb7a96?utm_campaign=1065&utm_source=git)** | East St Louis, IL | Hybrid | Feb 03 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69825180348f733a5c351f25?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 03 |
+| **[Bancs Media](https://www.bancsmedia.com/)** | **[Marketing & Production Intern](https://jobright.ai/jobs/info/698250980f6f7e7a2cdb76ca?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 03 |
+| **[Taylor Morrison](http://www.taylormorrison.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698250780f6f7e7a2cdb76aa?utm_campaign=1065&utm_source=git)** | AZ - Scottsdale Corporate Office: 4900 N. Scottsdale Road Suite 6000 Scottsdale, AZ 85251 | On Site | Feb 03 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Capital Markets and Post Closing Intern - Summer 2026 (Pulte Mortgage)](https://jobright.ai/jobs/info/69824f910f6f7e7a2cdb7583?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 03 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69824dcc0f6f7e7a2cdb736a?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 03 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69824a56a314e7636905ad2b?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 03 |
 | **[Culver Academies](https://www.culver.org)** | **[2026 Temporary Summer Communications Intern (Social Media)](https://jobright.ai/jobs/info/698245900f6f7e7a2cdb6eb5?utm_campaign=1065&utm_source=git)** | Culver, IN | On Site | Feb 03 |
@@ -72,11 +79,14 @@ For a complete list, click the following sortable link below:
 | **[Vanderlande](https://www.vanderlande.com)** | **[CI OPEX Marketing Intern](https://jobright.ai/jobs/info/698238bea314e76369059e59?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 03 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Field & Marketing Intern](https://jobright.ai/jobs/info/698238b90f6f7e7a2cdb6184?utm_campaign=1065&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Feb 03 |
 | **[Legends Global](http://legends.net)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/698237a20f6f7e7a2cdb6048?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 03 |
+| **[Bacchus Agency](https://bacchus.agency/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69825356348f733a5c35218a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 03 |
+| **[PlayCore](http://www.playcore.com/)** | **[Social Media Marketing Intern - Sprinturf](https://jobright.ai/jobs/info/698253050f6f7e7a2cdb79d4?utm_campaign=1065&utm_source=git)** | Charleston, SC | Remote | Feb 03 |
 | **[Nelnet](https://nelnetinc.com)** | **[Social Media Intern - Corporate Recruiting](https://jobright.ai/jobs/info/69823535c3101f1400c3e736?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Feb 03 |
 | **[Blue Eagle Credit Union](https://blueeaglecreditunion.com)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/69823481c3101f1400c3e6d6?utm_campaign=1065&utm_source=git)** | Roanoke, VA | On Site | Feb 03 |
 | **[Manson Construction Co.](http://mansonconstruction.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698233c9c3101f1400c3e5eb?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 03 |
 | **[tonies®](https://us.tonies.com)** | **[US Summer Graduate Internship - Product Marketing](https://jobright.ai/jobs/info/6982313ca314e76369059238?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 03 |
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Content Strategy - Summer 2026](https://jobright.ai/jobs/info/698230c70f6f7e7a2cdb5513?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Feb 03 |
+| **[Evil Geniuses](http://evilgeniuses.gg/)** | **[Event Marketing and Operations Intern](https://jobright.ai/jobs/info/69825378348f733a5c3521ba?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 03 |
 | **[AV Social Media](https://www.linkedin.com/company/108340437)** | **[Social Media Student Internship (Co-op)](https://jobright.ai/jobs/info/69822e93c3101f1400c3d4fb?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 03 |
 | **[Nelnet](https://nelnetinc.com)** | **[Social Media Intern - Corporate Recruiting](https://jobright.ai/jobs/info/69822e36a314e7636905881b?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Feb 03 |
 | **[Cemstone](https://cemstone.com/)** | **[Marketing Intern 2026](https://jobright.ai/jobs/info/69822e330f6f7e7a2cdb4c69?utm_campaign=1065&utm_source=git)** | Mendota Heights, MN | On Site | Feb 03 |
@@ -94,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[The Borgen Project](http://borgenproject.org)** | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69822194a314e763690578cd?utm_campaign=1065&utm_source=git)** | Bronx, NY | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/6982218aa314e763690578bd?utm_campaign=1065&utm_source=git)** | Grand Junction, CO | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/6982216ac3101f1400c3c512?utm_campaign=1065&utm_source=git)** | Greeley, CO | Remote | Feb 03 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69822166c3101f1400c3c50d?utm_campaign=1065&utm_source=git)** | Lawrence, KS | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69822166c3101f1400c3c50e?utm_campaign=1065&utm_source=git)** | Frederick, MD | Remote | Feb 03 |
+| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69822166c3101f1400c3c50d?utm_campaign=1065&utm_source=git)** | Lawrence, KS | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/698220fda314e7636905784e?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | Remote | Feb 03 |
 | **[Overseas Food Trading Ltd.](https://www.overseasfoodtrading.com)** | **[DIGITAL MARKETING AND SALES INTERNSHIP](https://jobright.ai/jobs/info/695d3c19fbd62a0a6565c591?utm_campaign=1065&utm_source=git)** | Fort Lee, NJ | On Site | Feb 03 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/698220f1c3101f1400c3c4a8?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Feb 03 |
@@ -110,8 +120,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69821fcbc3101f1400c3c3cf?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69821fa7c3101f1400c3c3ba?utm_campaign=1065&utm_source=git)** | Wichita, KS | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69821f9fc3101f1400c3c3b8?utm_campaign=1065&utm_source=git)** | Jonesboro, AR | Remote | Feb 03 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69821f340f6f7e7a2cdb3bab?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69821f34a314e7636905773a?utm_campaign=1065&utm_source=git)** | Louisville, KY | Remote | Feb 03 |
+| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69821f340f6f7e7a2cdb3bab?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69821f12c3101f1400c3c37b?utm_campaign=1065&utm_source=git)** | Richmond, VA | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69821ed8a314e7636905770e?utm_campaign=1065&utm_source=git)** | Flagstaff, AZ | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69821ebfc3101f1400c3c34f?utm_campaign=1065&utm_source=git)** | Tulsa, OK | Remote | Feb 03 |
@@ -145,16 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/69820d4f0f6f7e7a2cdb31fe?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 03 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/698247e90f6f7e7a2cdb70a1?utm_campaign=1065&utm_source=git)** | Richmond, British Columbia, Canada | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69823a9f0f6f7e7a2cdb63eb?utm_campaign=1065&utm_source=git)** | Charlottetown, Prince Edward Island, Canada | Remote | Feb 03 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69823a80c3101f1400c3eba0?utm_campaign=1065&utm_source=git)** | Moncton, New Brunswick, Canada | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/6982311aa314e763690591cc?utm_campaign=1065&utm_source=git)** | Ottawa, Ontario, Canada | Remote | Feb 03 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69823957c3101f1400c3ea7c?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | Remote | Feb 03 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69823b1ba314e7636905a07a?utm_campaign=1065&utm_source=git)** | Regina, Saskatchewan, Canada | Remote | Feb 03 |
-| **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Oncology Medical Communications Intern](https://jobright.ai/jobs/info/69822a0fc3101f1400c3cb5f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 03 |
-| **[Sync with God](https://syncwithgod.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6982319c0f6f7e7a2cdb57dc?utm_campaign=1065&utm_source=git)** | Lincoln County, NE | Remote | Feb 03 |
-| **[American Red Cross North Texas Region](http://www.redcross.org/northtexas)** | **[Gain valuable experience in communications: Communications and Marketing: DFW INTERN](https://jobright.ai/jobs/info/69823492a314e76369059b87?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
-| **[Renew Mobility](https://aimgr.org)** | **[Marketing & Community Engagement Internship](https://jobright.ai/jobs/info/69822a80a314e76369057f4b?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Feb 03 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69822956c3101f1400c3cb06?utm_campaign=1065&utm_source=git)** | Monroe, LA | Remote | Feb 03 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/69822a8dc3101f1400c3cbac?utm_campaign=1065&utm_source=git)** | Fort Myers, FL | Remote | Feb 03 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/698228f20f6f7e7a2cdb417e?utm_campaign=1065&utm_source=git)** | East Lansing, MI | Remote | Feb 03 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/6982285bc3101f1400c3ca94?utm_campaign=1065&utm_source=git)** | Wilmington, DE | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
