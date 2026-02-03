@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6949fe247d506e3808f512a8?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Feb 03 |
+| **[Circle K](http://www.circlek.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/694a3fca187e565c6bfa491d?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 03 |
+| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69499c8bd1953b5d11c2a1d3?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 03 |
+| **[Telnyx](https://telnyx.com/)** | **[Social Media Intern (Hybrid)](https://jobright.ai/jobs/info/69659c32a112b4026613a31f?utm_campaign=1065&utm_source=git)** | Castle Rock, CO | Hybrid | Feb 03 |
+| **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6949fd8463141d188459837e?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Feb 03 |
+| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - Product Marketing, Cortex XDR](https://jobright.ai/jobs/info/6981e054a314e76369053f82?utm_campaign=1065&utm_source=git)** | Office - USA - CA - Headquarters | On Site | Feb 03 |
+| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Community Involvement](https://jobright.ai/jobs/info/692e16fffa28370be26a11e1?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Feb 03 |
 | **[Agentio](https://www.agentio.com)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/69499c5b63141d18845939a3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Media & Global Partnerships](https://jobright.ai/jobs/info/6981da290f6f7e7a2cdb01a9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 03 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Corporate Communications Intern Summer 2026](https://jobright.ai/jobs/info/6965bd9da112b4026613c7a2?utm_campaign=1065&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 03 |
@@ -86,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Radiate](https://www.radiatetheworld.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69818df049964d25b5e4a8ae?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Feb 02 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Marketing Programs Intern (Summer 2026; EDA)](https://jobright.ai/jobs/info/69818cc049964d25b5e4a567?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Feb 02 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Digital Marketing Student](https://jobright.ai/jobs/info/697d35bf137a05102566431d?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 02 |
-| **[Clean Virginia Waterways](http://www.longwood.edu/cleanva/)** | **[Development and Communications Intern](https://jobright.ai/jobs/info/69818bd949964d25b5e4a4b8?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | Hybrid | Feb 02 |
+| **[Clean Virginia Waterways](https://www.cleanvirginiawaterways.org/)** | **[Development and Communications Intern](https://jobright.ai/jobs/info/69818bd949964d25b5e4a4b8?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | Hybrid | Feb 02 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Events Internships](https://jobright.ai/jobs/info/69818b59abff4c399aa0ad3d?utm_campaign=1065&utm_source=git)** | Redlands, CA | On Site | Feb 02 |
 | **[NRRINC Media LLC](http://nrrinc.net/)** | **[Sales And Marketing Intern (PAID)](https://jobright.ai/jobs/info/6981b4067f40342e15dad080?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Feb 02 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[Intern – Consumer Products Marketing Intern, UFC](https://jobright.ai/jobs/info/6981846e49964d25b5e480a5?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[Summer Intern - Global Marketing &amp; Communications](https://jobright.ai/jobs/info/69815753abff4c399aa04e6f?utm_campaign=1065&utm_source=git)** | Sterling Heights, MI | On Site | Feb 02 |
 | **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Internship, eComm & Digital](https://jobright.ai/jobs/info/6981574149964d25b5e44ad1?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/698157197f40342e15da5984?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
-| ↳ | **[Summer 2026 Digital Fundraising & Engagement Internship](https://jobright.ai/jobs/info/698156f6abff4c399aa04dfb?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
-| ↳ | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/698156ddabff4c399aa04dea?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 02 |
-| **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Internship, Global Brand Management-Fenty Skin](https://jobright.ai/jobs/info/698156cd7f40342e15da5938?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Summer 2026 Internal Events Internship](https://jobright.ai/jobs/info/6981569f7f40342e15da590c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
-| **[STgenetics](https://www.stgen.com/default.aspx)** | **[Beef Marketing Internship](https://jobright.ai/jobs/info/69791be439f7f96cc6d17918?utm_campaign=1065&utm_source=git)** | Navasota, TX | On Site | Feb 02 |
-| **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Internship, Global Brand Marketing - Fenty Beauty](https://jobright.ai/jobs/info/6981562949964d25b5e44975?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Summer 2026 Digital Fundraising & Engagement Internship](https://jobright.ai/jobs/info/698155b249964d25b5e448eb?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
