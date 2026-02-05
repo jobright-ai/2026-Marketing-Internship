@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Project Growth Intern](https://jobright.ai/jobs/info/698476ac348f733a5c387f08?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 05 |
+| **[Roberts Wesleyan University](http://www.roberts.edu)** | **[Athletics Strategic Projects Intern](https://jobright.ai/jobs/info/6984749e0f6f7e7a2cded3bc?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Feb 05 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Social Media Student](https://jobright.ai/jobs/info/6984566b0f6f7e7a2cdeb008?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 05 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Denver](https://jobright.ai/jobs/info/69844dd9348f733a5c384b05?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 04 |
 | ↳ | **[Community Intern, Atlanta](https://jobright.ai/jobs/info/69844d3d0f6f7e7a2cdea589?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Marketing Intern](https://jobright.ai/jobs/info/6983fc3a0f6f7e7a2cde0014?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 04 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/696c44ba350cf438031369c9?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Hybrid | Feb 04 |
 | **[Female Rage Hot Sauce](femaleragehotsauce.com)** | **[Social Media & Community Intern](https://jobright.ai/jobs/info/6983f89f348f733a5c379dfa?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 04 |
-| **[Sunshine Star Marketing](https://www.linkedin.com/company/86971476)** | **[Social Media Intern – Organic Growth](https://jobright.ai/jobs/info/69843b438da7a612045e52d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 04 |
 | **[Jockey International, Inc.](http://www.jockey.com)** | **[Lifecycle Marketing Intern](https://jobright.ai/jobs/info/6983f8320f6f7e7a2cddf75d?utm_campaign=1065&utm_source=git)** | Kenosha, Wisconsin, United States | On Site | Feb 04 |
 | **[PlanetArt](http://www.planetart.com)** | **[Junior Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698444e18da7a612045e60ef?utm_campaign=1065&utm_source=git)** | Calabasas, California, United States | Hybrid | Feb 04 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69841ac6348f733a5c37e9db?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/6967ffb1f25a380066965481?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 04 |
 | **[Discover Ames](http://www.discoverames.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6983e1e30f6f7e7a2cddc216?utm_campaign=1065&utm_source=git)** | Ames, IA | On Site | Feb 04 |
 | **[King Soopers/City Market](https://www.kingsoopers.com/)** | **[Summer 2026 Continuous Improvement Intern- Supply Chain](https://jobright.ai/jobs/info/6983e13f01214b4cdacc0b65?utm_campaign=1065&utm_source=git)** | Elgin, SC | On Site | Feb 04 |
-| **[Jabil](https://www.jabil.com)** | **[Marketing Coordinator Intern (AI Programs)](https://jobright.ai/jobs/info/6983c14c01214b4cdacbb1ff?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
