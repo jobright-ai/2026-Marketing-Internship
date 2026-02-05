@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Social Media Student](https://jobright.ai/jobs/info/6984566b0f6f7e7a2cdeb008?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 05 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Denver](https://jobright.ai/jobs/info/69844dd9348f733a5c384b05?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 04 |
+| ↳ | **[Community Intern, Atlanta](https://jobright.ai/jobs/info/69844d3d0f6f7e7a2cdea589?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
+| **[Pure Storage](http://www.purestorage.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69844bee0f6f7e7a2cdea534?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Feb 04 |
 | **[Famease](https://famease.com/)** | **[PR Event Outreach Intern (Remote)](https://jobright.ai/jobs/info/69843d100f6f7e7a2cde8cad?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 04 |
 | **[Bonneville International](http://bonneville.com/)** | **[KSL Social Media Intern](https://jobright.ai/jobs/info/696878a71703f05405aa3231?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 04 |
 | **[cupl](www.cupl.io)** | **[Sales and Marketing - Spring Internship](https://jobright.ai/jobs/info/698431e08da7a612045e41d3?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Life Services Alternatives](https://www.lsahomes.org)** | **[Marketing and Outreach Intern](https://jobright.ai/jobs/info/6983beb201214b4cdacbaa8a?utm_campaign=1065&utm_source=git)** | Campbell, CA | Hybrid | Feb 04 |
 | **[King Soopers/City Market](https://www.kingsoopers.com/)** | **[Summer 2026 Warehouse Operations Intern- Supply Chain](https://jobright.ai/jobs/info/6983bd33348f733a5c3707c8?utm_campaign=1065&utm_source=git)** | Paramount, CA | On Site | Feb 04 |
 | **[Solenis](http://solenis.com/)** | **[TASKI North America Summer Intern](https://jobright.ai/jobs/info/6983bb8a348f733a5c3702fb?utm_campaign=1065&utm_source=git)** | Fort Mill, SC | On Site | Feb 04 |
-| **[Peak Energy](https://www.peakenergy.com)** | **[Growth & Content Intern](https://jobright.ai/jobs/info/6983b9c601214b4cdacb9e09?utm_campaign=1065&utm_source=git)** | Burlingame, CA | On Site | Feb 04 |
-| **[Sally Beauty](https://www.sallybeauty.com/)** | **[Sally Ecommerce Intern](https://jobright.ai/jobs/info/6983b78a0f6f7e7a2cdd4f55?utm_campaign=1065&utm_source=git)** | Plano, TX | Hybrid | Feb 04 |
-| **[State Street](https://www.statestreet.com/)** | **[Digtial Marketing - Summer Intern- CRD](https://jobright.ai/jobs/info/6983d511348f733a5c374488?utm_campaign=1065&utm_source=git)** | Burlington Massachusetts | On Site | Feb 04 |
-| **[Browning Environmental Communications](https://browningenvironmental.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6983b5a1348f733a5c36f377?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
