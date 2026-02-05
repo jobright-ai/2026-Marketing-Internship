@@ -60,7 +60,10 @@ For a complete list, click the following sortable link below:
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Social Media Student](https://jobright.ai/jobs/info/6984566b0f6f7e7a2cdeb008?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 05 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Denver](https://jobright.ai/jobs/info/69844dd9348f733a5c384b05?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 04 |
 | ↳ | **[Community Intern, Atlanta](https://jobright.ai/jobs/info/69844d3d0f6f7e7a2cdea589?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Marketing Intern - Tampa](https://jobright.ai/jobs/info/69846bd6348f733a5c3869d9?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Feb 04 |
 | **[Pure Storage](http://www.purestorage.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69844bee0f6f7e7a2cdea534?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Feb 04 |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Marketing Fellow — (Volunteer Intern)](https://jobright.ai/jobs/info/698469c40f6f7e7a2cdec216?utm_campaign=1065&utm_source=git)** | Gloucester, MA | Remote | Feb 04 |
+| **[Blue Ventis](blueventis.us)** | **[Marketing/Sales Intern](https://jobright.ai/jobs/info/69846981348f733a5c38678e?utm_campaign=1065&utm_source=git)** | Ventura County, CA | Remote | Feb 04 |
 | **[Famease](https://famease.com/)** | **[PR Event Outreach Intern (Remote)](https://jobright.ai/jobs/info/69843d100f6f7e7a2cde8cad?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 04 |
 | **[Bonneville International](http://bonneville.com/)** | **[KSL Social Media Intern](https://jobright.ai/jobs/info/696878a71703f05405aa3231?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 04 |
 | **[cupl](www.cupl.io)** | **[Sales and Marketing - Spring Internship](https://jobright.ai/jobs/info/698431e08da7a612045e41d3?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Discover Ames](http://www.discoverames.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6983e1e30f6f7e7a2cddc216?utm_campaign=1065&utm_source=git)** | Ames, IA | On Site | Feb 04 |
 | **[King Soopers/City Market](https://www.kingsoopers.com/)** | **[Summer 2026 Continuous Improvement Intern- Supply Chain](https://jobright.ai/jobs/info/6983e13f01214b4cdacc0b65?utm_campaign=1065&utm_source=git)** | Elgin, SC | On Site | Feb 04 |
 | **[Jabil](https://www.jabil.com)** | **[Marketing Coordinator Intern (AI Programs)](https://jobright.ai/jobs/info/6983c14c01214b4cdacbb1ff?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 04 |
-| **[Life Services Alternatives](https://www.lsahomes.org)** | **[Marketing and Outreach Intern](https://jobright.ai/jobs/info/6983beb201214b4cdacbaa8a?utm_campaign=1065&utm_source=git)** | Campbell, CA | Hybrid | Feb 04 |
-| **[King Soopers/City Market](https://www.kingsoopers.com/)** | **[Summer 2026 Warehouse Operations Intern- Supply Chain](https://jobright.ai/jobs/info/6983bd33348f733a5c3707c8?utm_campaign=1065&utm_source=git)** | Paramount, CA | On Site | Feb 04 |
-| **[Solenis](http://solenis.com/)** | **[TASKI North America Summer Intern](https://jobright.ai/jobs/info/6983bb8a348f733a5c3702fb?utm_campaign=1065&utm_source=git)** | Fort Mill, SC | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
