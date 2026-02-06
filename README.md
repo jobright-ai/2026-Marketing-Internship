@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fallon](http://www.fallon.com)** | **[Fallon - Strategy Internship - Summer 2026](https://jobright.ai/jobs/info/6985b6958ca8121a3a67e7ad?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 06 |
+| **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Spring)](https://jobright.ai/jobs/info/6985b0848da7a6120460611f?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Feb 06 |
+| **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Trade Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6969cae2639b452fb57fd04d?utm_campaign=1065&utm_source=git)** | Napa, CA | Hybrid | Feb 06 |
 | **[Jeremy Li for Bridgewater](https://www.linkedin.com/company/111309264)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/69859ddd348f733a5c3a1fe9?utm_campaign=1065&utm_source=git)** | Somerset County, NJ | Hybrid | Feb 05 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Planning Inventory Clerk Intern- Supply Chain](https://jobright.ai/jobs/info/698598788da7a61204604939?utm_campaign=1065&utm_source=git)** | Albany, GA | On Site | Feb 05 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Marketing Automation Intern](https://jobright.ai/jobs/info/6969d5401703f05405abe2a2?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Feb 05 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Rutgers University Foundation](https://rutgersfoundation.org/)** | **[Foundation Communications Social Media Intern](https://jobright.ai/jobs/info/69855e560f6f7e7a2ce01551?utm_campaign=1065&utm_source=git)** | New Brunswick, New Jersey, United States | Hybrid | Feb 05 |
 | **[J. Jill](http://www.jjill.com/)** | **[Copywriting Internship - Summer 2026](https://jobright.ai/jobs/info/698562c70f6f7e7a2ce01e5e?utm_campaign=1065&utm_source=git)** | Quincy, MA, US | On Site | Feb 05 |
 | ↳ | **[Copywriting Internship - Summer 2026](https://jobright.ai/jobs/info/6985572f8da7a612045fd673?utm_campaign=1065&utm_source=git)** | US-MA-Quincy | On Site | Feb 05 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Display Marketing, Marketing Communications](https://jobright.ai/jobs/info/69855cd40f6f7e7a2ce01260?utm_campaign=1065&utm_source=git)** | Downers Grove, IL, US | Hybrid | Feb 05 |
-| ↳ | **[Summer Intern- Display Marketing, Marketing Communications](https://jobright.ai/jobs/info/698561218da7a612045ff070?utm_campaign=1065&utm_source=git)** | US-IL-Downers Grove | Hybrid | Feb 05 |
+| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Display Marketing, Marketing Communications](https://jobright.ai/jobs/info/698561218da7a612045ff070?utm_campaign=1065&utm_source=git)** | US-IL-Downers Grove | Hybrid | Feb 05 |
+| ↳ | **[Summer Intern- Display Marketing, Marketing Communications](https://jobright.ai/jobs/info/69855cd40f6f7e7a2ce01260?utm_campaign=1065&utm_source=git)** | Downers Grove, IL, US | Hybrid | Feb 05 |
 | **[New Castle Hotels & Resorts](http://newcastlehotels.com)** | **[Social Media Coordinator Intern](https://jobright.ai/jobs/info/6985550a0f6f7e7a2ce001da?utm_campaign=1065&utm_source=git)** | Bryan, TX 77803, USA | On Site | Feb 05 |
 | **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Marketing & Communications](https://jobright.ai/jobs/info/69855c958da7a612045fe160?utm_campaign=1065&utm_source=git)** | US-VA-McLean | On Site | Feb 05 |
 | ↳ | **[Summer Intern 2026 - Marketing & Communications](https://jobright.ai/jobs/info/698562e10f6f7e7a2ce01e99?utm_campaign=1065&utm_source=git)** | McLean, VA, US | On Site | Feb 05 |
-| ↳ | **[Summer Intern 2026 - Growth & Solution Strategy Intern](https://jobright.ai/jobs/info/6985521f8da7a612045fcce3?utm_campaign=1065&utm_source=git)** | McLean, VA, US | On Site | Feb 05 |
 | ↳ | **[Summer Intern 2026 - Growth & Solution Strategy Intern](https://jobright.ai/jobs/info/69854e92348f733a5c3997ee?utm_campaign=1065&utm_source=git)** | US-VA-McLean | On Site | Feb 05 |
-| **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/698559318da7a612045fda82?utm_campaign=1065&utm_source=git)** | Center Valley, PA | On Site | Feb 05 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Resort Events Internship - Summer 2026](https://jobright.ai/jobs/info/698551718da7a612045fcba0?utm_campaign=1065&utm_source=git)** | US-TX-Frisco | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
