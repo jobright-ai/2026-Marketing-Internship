@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, Market Planning](https://jobright.ai/jobs/info/693371e7764507023d1b5bc1?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, Paid Media](https://jobright.ai/jobs/info/6933616ba0dde7020e2ed36f?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
+| ↳ | **[Intern, Market Planning](https://jobright.ai/jobs/info/693371e7764507023d1b5bc1?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Summer Associate - Intern, Strategy3](https://jobright.ai/jobs/info/696b0752350cf438031247b7?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
 | **[SNY](https://www.sny.tv/)** | **[Social Media Intern](https://jobright.ai/jobs/info/698770a28ca8121a3a69f4a4?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Feb 07 |
 | **[Texell Credit Union](http://texell.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69876e318da7a61204627f61?utm_campaign=1065&utm_source=git)** | Temple Headquarters - Temple, TX 76502 | On Site | Feb 07 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[She CAN Edit](https://shecanedit.org/)** | **[Social Media Marketing Intern (Unpaid for Academic Credit)](https://jobright.ai/jobs/info/69875ee40f6f7e7a2ce2a214?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 07 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/69875ede0f6f7e7a2ce2a20b?utm_campaign=1065&utm_source=git)** | Maple Grove, MN | Hybrid | Feb 07 |
 | **[To & Fro](https://www.linkedin.com/company/12644491)** | **[Social Media Manager/Content Creator Internship](https://jobright.ai/jobs/info/69875d9f8da7a612046275a0?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 07 |
-| **[Participate Learning](https://www.participatelearning.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69875a100f6f7e7a2ce29eb1?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC | On Site | Feb 07 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/6959e511f1f8465b79f03b7a?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Feb 07 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern -Brand Management](https://jobright.ai/jobs/info/698754da8ca8121a3a69e48f?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 07 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Partnerships & Public Relations Assistant Intern](https://jobright.ai/jobs/info/698754b50f6f7e7a2ce29b51?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Feb 07 |
