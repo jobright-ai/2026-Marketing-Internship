@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrity](https://www.integritymarketing.com)** | **[Advanced Markets Summer Intern](https://jobright.ai/jobs/info/6986d0dc8da7a6120461d42f?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Feb 06 |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/6986cfce8da7a6120461d1bd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 06 |
+| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[StarPoint Summer Camp Communications Intern (Full-time) - Summer 2026](https://jobright.ai/jobs/info/6986cf4a0f6f7e7a2ce1fef5?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Marketing & Experience](https://jobright.ai/jobs/info/6986b4280f6f7e7a2ce1cf91?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Culture, Communications and Marketing Student](https://jobright.ai/jobs/info/6986c41f0f6f7e7a2ce1e7ea?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Remote | Feb 06 |
 | **[United Way](http://www.unitedway.org)** | **[Intern, Global Communications](https://jobright.ai/jobs/info/6986be7e8da7a6120461aa8b?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Feb 06 |
@@ -116,12 +119,12 @@ For a complete list, click the following sortable link below:
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698695738da7a61204616ccb?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 06 |
 | **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b3e18ca8121a3a69123c?utm_campaign=1065&utm_source=git)** | Pointe-Claire, Quebec, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b2448da7a61204619887?utm_campaign=1065&utm_source=git)** | Barrie, Ontario, Canada | On Site | Feb 06 |
-| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986ba2d0f6f7e7a2ce1d4c5?utm_campaign=1065&utm_source=git)** | Langley, British Columbia, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b8d20f6f7e7a2ce1d346?utm_campaign=1065&utm_source=git)** | Ancaster, Ontario, Canada | On Site | Feb 06 |
-| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bc950f6f7e7a2ce1d73a?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | On Site | Feb 06 |
+| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986ba2d0f6f7e7a2ce1d4c5?utm_campaign=1065&utm_source=git)** | Langley, British Columbia, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bba20f6f7e7a2ce1d635?utm_campaign=1065&utm_source=git)** | Windsor, Ontario, Canada | On Site | Feb 06 |
-| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b18c8da7a6120461978f?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 06 |
+| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bc950f6f7e7a2ce1d73a?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bd7e0f6f7e7a2ce1d825?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 06 |
+| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b18c8da7a6120461978f?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 06 |
 | **[equipifi](http://www.equipifi.com/)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6986b11c8ca8121a3a691076?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 06 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Center for the Arts](https://jobright.ai/jobs/info/6986907c8da7a61204616372?utm_campaign=1065&utm_source=git)** | Coral Springs, FL | On Site | Feb 06 |
 | **[Okta](http://www.okta.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6986902d8ca8121a3a68de40?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[equipifi](http://www.equipifi.com/)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6986c0c10f6f7e7a2ce1dac1?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 06 |
 | **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/698681d08da7a6120461516b?utm_campaign=1065&utm_source=git)** | Burlington, Ontario | On Site | Feb 06 |
 | **[BL Harbert International LLC](http://www.blharbert.com)** | **[Marketing Intern (Summer)](https://jobright.ai/jobs/info/6986ad648ca8121a3a6909a1?utm_campaign=1065&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 06 |
-| **[Remilia Corporation](https://remilia.org)** | **[Fashion Brand Marketing Intern](https://jobright.ai/jobs/info/6986b1678ca8121a3a6910a1?utm_campaign=1065&utm_source=git)** | Orange County | On Site | Feb 06 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6986c0718da7a6120461ac9e?utm_campaign=1065&utm_source=git)** | Orange County | Hybrid | Feb 06 |
-| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/698680658ca8121a3a68ce45?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
