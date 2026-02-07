@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simon Quick Advisors, LLC](http://www.simonquickadvisors.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ad5a0350cf4380311f1f3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 07 |
+| **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad15f350cf4380311e99b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| **[The Bancorp](http://www.thebancorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696b0bf7db26b618950e86ae?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | Feb 07 |
+| **[Cerrowire](http://cerrowire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ae5145fc86241853a18f7?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Feb 07 |
 | **[Remilia Corporation](https://remilia.org)** | **[Fashion Brand Marketing Intern](https://jobright.ai/jobs/info/698705718da7a6120462142c?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Feb 07 |
 | **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6986fde70f6f7e7a2ce23948?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 07 |
 | **[Remilia Corporation](https://remilia.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6986fb2f8da7a61204620b24?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Feb 07 |
@@ -126,10 +130,10 @@ For a complete list, click the following sortable link below:
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698695738da7a61204616ccb?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 06 |
 | **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b3e18ca8121a3a69123c?utm_campaign=1065&utm_source=git)** | Pointe-Claire, Quebec, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b2448da7a61204619887?utm_campaign=1065&utm_source=git)** | Barrie, Ontario, Canada | On Site | Feb 06 |
-| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986ba2d0f6f7e7a2ce1d4c5?utm_campaign=1065&utm_source=git)** | Langley, British Columbia, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b8d20f6f7e7a2ce1d346?utm_campaign=1065&utm_source=git)** | Ancaster, Ontario, Canada | On Site | Feb 06 |
-| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bc950f6f7e7a2ce1d73a?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | On Site | Feb 06 |
+| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986ba2d0f6f7e7a2ce1d4c5?utm_campaign=1065&utm_source=git)** | Langley, British Columbia, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bba20f6f7e7a2ce1d635?utm_campaign=1065&utm_source=git)** | Windsor, Ontario, Canada | On Site | Feb 06 |
+| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bc950f6f7e7a2ce1d73a?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b18c8da7a6120461978f?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bd7e0f6f7e7a2ce1d825?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 06 |
 | **[equipifi](http://www.equipifi.com/)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6986b11c8ca8121a3a691076?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 06 |
@@ -142,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[The Classic Center](http://classiccenter.com)** | **[Intern: Digital Marketing & Communications](https://jobright.ai/jobs/info/6986b9c88da7a6120461a55b?utm_campaign=1065&utm_source=git)** | Athens, Georgia, United States | Hybrid | Feb 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Merchandising Intern - Category Management](https://jobright.ai/jobs/info/69868b1a8da7a61204615cdc?utm_campaign=1065&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Marketing & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/696ab76b5fc862418539c71e?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 06 |
+| ↳ | **[Marketing & Communication Intern- Summer 2026](https://jobright.ai/jobs/info/69871ca28da7a61204623425?utm_campaign=1065&utm_source=git)** | Novi, MI | On Site | Feb 06 |
 | **[Democracy Defenders Action](https://statedemocracydefenders.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b3?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6986881b0f6f7e7a2ce1895a?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6986ca708ca8121a3a69450c?utm_campaign=1065&utm_source=git)** | Maple Grove, MN | Hybrid | Feb 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Participate Learning](https://www.participatelearning.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6986a7498ca8121a3a68faf1?utm_campaign=1065&utm_source=git)** | Chapel Hill,NC,US | On Site | Feb 06 |
 | ↳ | **[Events Internship](https://jobright.ai/jobs/info/6986c2f00f6f7e7a2ce1e6c8?utm_campaign=1065&utm_source=git)** | Chapel Hill,NC,US | On Site | Feb 06 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, DIGITAL CONTENT STRATEGY](https://jobright.ai/jobs/info/6986a85e8ca8121a3a68fc58?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | Hybrid | Feb 06 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Field Marketing Intern (Association)](https://jobright.ai/jobs/info/698684618ca8121a3a68d355?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Feb 06 |
-| **[National Retail Federation](http://www.nrf.com)** | **[NRF Foundation – Marketing & Communications Intern](https://jobright.ai/jobs/info/6986b87c0f6f7e7a2ce1d2d4?utm_campaign=1065&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6986b6ed0f6f7e7a2ce1d10b?utm_campaign=1065&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Social Media Intern](https://jobright.ai/jobs/info/698683ba8da7a61204615427?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Feb 06 |
-| **[BuildBetter](https://www.buildbetter.ai)** | **[📈 Growth Intern (Part-Time or Full-Time)](https://jobright.ai/jobs/info/6986b2968ca8121a3a691146?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
