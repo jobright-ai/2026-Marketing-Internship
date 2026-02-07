@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Remilia Corporation](https://remilia.org)** | **[Fashion Brand Marketing Intern](https://jobright.ai/jobs/info/698705718da7a6120462142c?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Feb 07 |
+| **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6986fde70f6f7e7a2ce23948?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 07 |
+| **[Remilia Corporation](https://remilia.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6986fb2f8da7a61204620b24?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Feb 07 |
 | **[Bay FC](https://bayfc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6986f5058ca8121a3a697c30?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Strategic Marketing Events](https://jobright.ai/jobs/info/6986f1c30f6f7e7a2ce22f4d?utm_campaign=1065&utm_source=git)** | Wilmington, MA | Remote | Feb 07 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6986e7c88ca8121a3a696eb8?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
@@ -119,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Coordinator - Maine Region](https://jobright.ai/jobs/info/6986bb528da7a6120461a709?utm_campaign=1065&utm_source=git)** | Portland, ME | On Site | Feb 06 |
 | ↳ | **[Marketing and Events Coordinator - Connecticut Region](https://jobright.ai/jobs/info/6986bf628da7a6120461ab88?utm_campaign=1065&utm_source=git)** | Hartford, CT | On Site | Feb 06 |
 | **[Colliers](http://www.colliers.com)** | **[Summer Intern - National Data Center](https://jobright.ai/jobs/info/6986982a0f6f7e7a2ce1a073?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
-| **[SONS' INDIA SOFTWARE PVT. LTD.](http://www.sonsindia.co.in)** | **[INTERN - MARKETING](https://jobright.ai/jobs/info/6986f09e8ca8121a3a69771a?utm_campaign=1065&utm_source=git)** | Thomasville, GA | On Site | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Marketing Events Intern- Summer 2026](https://jobright.ai/jobs/info/696ab14bdb26b618950de845?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698695738da7a61204616ccb?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 06 |
 | **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b3e18ca8121a3a69123c?utm_campaign=1065&utm_source=git)** | Pointe-Claire, Quebec, Canada | On Site | Feb 06 |
@@ -147,14 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/6986ab708da7a61204618ecd?utm_campaign=1065&utm_source=git)** | FORE 12500 TI Boulevard, Dallas, TX, 75243, US | On Site | Feb 06 |
 | **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[New York Liberty Summer Internship 2026](https://jobright.ai/jobs/info/698685d10f6f7e7a2ce18622?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 06 |
 | **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Marketing & Experience](https://jobright.ai/jobs/info/6986a2f28ca8121a3a68f40f?utm_campaign=1065&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
-| **[Participate Learning](https://www.participatelearning.com)** | **[Events Internship](https://jobright.ai/jobs/info/6986c2f00f6f7e7a2ce1e6c8?utm_campaign=1065&utm_source=git)** | Chapel Hill,NC,US | On Site | Feb 06 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6986a7498ca8121a3a68faf1?utm_campaign=1065&utm_source=git)** | Chapel Hill,NC,US | On Site | Feb 06 |
+| **[Participate Learning](https://www.participatelearning.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6986a7498ca8121a3a68faf1?utm_campaign=1065&utm_source=git)** | Chapel Hill,NC,US | On Site | Feb 06 |
+| ↳ | **[Events Internship](https://jobright.ai/jobs/info/6986c2f00f6f7e7a2ce1e6c8?utm_campaign=1065&utm_source=git)** | Chapel Hill,NC,US | On Site | Feb 06 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, DIGITAL CONTENT STRATEGY](https://jobright.ai/jobs/info/6986a85e8ca8121a3a68fc58?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | Hybrid | Feb 06 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Field Marketing Intern (Association)](https://jobright.ai/jobs/info/698684618ca8121a3a68d355?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Feb 06 |
 | **[National Retail Federation](http://www.nrf.com)** | **[NRF Foundation – Marketing & Communications Intern](https://jobright.ai/jobs/info/6986b87c0f6f7e7a2ce1d2d4?utm_campaign=1065&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6986b6ed0f6f7e7a2ce1d10b?utm_campaign=1065&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Social Media Intern](https://jobright.ai/jobs/info/698683ba8da7a61204615427?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Feb 06 |
 | **[BuildBetter](https://www.buildbetter.ai)** | **[📈 Growth Intern (Part-Time or Full-Time)](https://jobright.ai/jobs/info/6986b2968ca8121a3a691146?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 06 |
-| **[Central Bank](https://www.centralbank.net/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/698683088ca8121a3a68d18e?utm_campaign=1065&utm_source=git)** | Jefferson City, MO | On Site | Feb 06 |
-| **[iManage](https://imanage.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6986afa98ca8121a3a690e2a?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
