@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bay FC](https://bayfc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6986f5058ca8121a3a697c30?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
+| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Strategic Marketing Events](https://jobright.ai/jobs/info/6986f1c30f6f7e7a2ce22f4d?utm_campaign=1065&utm_source=git)** | Wilmington, MA | Remote | Feb 07 |
+| **[Flock Safety](https://www.flocksafety.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6986e7c88ca8121a3a696eb8?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
+| ↳ | **[Marketing Growth Intern](https://jobright.ai/jobs/info/6986e2310f6f7e7a2ce21be8?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
+| **[Genmab](https://www.genmab.com)** | **[Corporate Social Media and Branding Intern](https://jobright.ai/jobs/info/6986dcb00f6f7e7a2ce21878?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Feb 06 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Advanced Markets Summer Intern](https://jobright.ai/jobs/info/6986d0dc8da7a6120461d42f?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Feb 06 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/6986cfce8da7a6120461d1bd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 06 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[StarPoint Summer Camp Communications Intern (Full-time) - Summer 2026](https://jobright.ai/jobs/info/6986cf4a0f6f7e7a2ce1fef5?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
@@ -98,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern: Merchandising - Core - Summer 2026](https://jobright.ai/jobs/info/695dcf66403df63191d5bb47?utm_campaign=1065&utm_source=git)** | Hingham, MA | On Site | Feb 06 |
 | **[The Classic Center](http://classiccenter.com)** | **[Intern: Athens Restaurant Week Event Planning](https://jobright.ai/jobs/info/6986a6d58da7a6120461842b?utm_campaign=1065&utm_source=git)** | Athens, Georgia, United States | Hybrid | Feb 06 |
 | **[rbb Communications](https://rbbcommunications.com/)** | **[Summer 2026 Internships: PR & Communications](https://jobright.ai/jobs/info/696a94fa5fc8624185398dcd?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | Hybrid | Feb 06 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Liver Health Marketing](https://jobright.ai/jobs/info/6986a4660f6f7e7a2ce1af0c?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Feb 06 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/6986a3c50f6f7e7a2ce1ae33?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Internal Communications](https://jobright.ai/jobs/info/6986a39e8da7a61204618093?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Talent & Employer Brand Intern](https://jobright.ai/jobs/info/6986a0a78ca8121a3a68f028?utm_campaign=1065&utm_source=git)** | Westlake, TX | Hybrid | Feb 06 |
@@ -115,16 +119,17 @@ For a complete list, click the following sortable link below:
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Coordinator - Maine Region](https://jobright.ai/jobs/info/6986bb528da7a6120461a709?utm_campaign=1065&utm_source=git)** | Portland, ME | On Site | Feb 06 |
 | ↳ | **[Marketing and Events Coordinator - Connecticut Region](https://jobright.ai/jobs/info/6986bf628da7a6120461ab88?utm_campaign=1065&utm_source=git)** | Hartford, CT | On Site | Feb 06 |
 | **[Colliers](http://www.colliers.com)** | **[Summer Intern - National Data Center](https://jobright.ai/jobs/info/6986982a0f6f7e7a2ce1a073?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
+| **[SONS' INDIA SOFTWARE PVT. LTD.](http://www.sonsindia.co.in)** | **[INTERN - MARKETING](https://jobright.ai/jobs/info/6986f09e8ca8121a3a69771a?utm_campaign=1065&utm_source=git)** | Thomasville, GA | On Site | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Marketing Events Intern- Summer 2026](https://jobright.ai/jobs/info/696ab14bdb26b618950de845?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698695738da7a61204616ccb?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 06 |
 | **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b3e18ca8121a3a69123c?utm_campaign=1065&utm_source=git)** | Pointe-Claire, Quebec, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b2448da7a61204619887?utm_campaign=1065&utm_source=git)** | Barrie, Ontario, Canada | On Site | Feb 06 |
-| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b8d20f6f7e7a2ce1d346?utm_campaign=1065&utm_source=git)** | Ancaster, Ontario, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986ba2d0f6f7e7a2ce1d4c5?utm_campaign=1065&utm_source=git)** | Langley, British Columbia, Canada | On Site | Feb 06 |
-| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bba20f6f7e7a2ce1d635?utm_campaign=1065&utm_source=git)** | Windsor, Ontario, Canada | On Site | Feb 06 |
+| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b8d20f6f7e7a2ce1d346?utm_campaign=1065&utm_source=git)** | Ancaster, Ontario, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bc950f6f7e7a2ce1d73a?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | On Site | Feb 06 |
-| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bd7e0f6f7e7a2ce1d825?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 06 |
+| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bba20f6f7e7a2ce1d635?utm_campaign=1065&utm_source=git)** | Windsor, Ontario, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b18c8da7a6120461978f?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 06 |
+| ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986bd7e0f6f7e7a2ce1d825?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 06 |
 | **[equipifi](http://www.equipifi.com/)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6986b11c8ca8121a3a691076?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 06 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Center for the Arts](https://jobright.ai/jobs/info/6986907c8da7a61204616372?utm_campaign=1065&utm_source=git)** | Coral Springs, FL | On Site | Feb 06 |
 | **[Okta](http://www.okta.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6986902d8ca8121a3a68de40?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
@@ -137,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Marketing & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/696ab76b5fc862418539c71e?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[Democracy Defenders Action](https://statedemocracydefenders.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b3?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6986881b0f6f7e7a2ce1895a?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 06 |
-| **[Magna International](http://www.magna.com/)** | **[Marketing & Communication Intern- Summer 2026](https://jobright.ai/jobs/info/696bae4c350cf4380312f845?utm_campaign=1065&utm_source=git)** | Novi, MI | On Site | Feb 06 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6986ca708ca8121a3a69450c?utm_campaign=1065&utm_source=git)** | Maple Grove, MN | Hybrid | Feb 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Social Media, Well People](https://jobright.ai/jobs/info/696ab478db26b618950df276?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 06 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/6986ab708da7a61204618ecd?utm_campaign=1065&utm_source=git)** | FORE 12500 TI Boulevard, Dallas, TX, 75243, US | On Site | Feb 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BuildBetter](https://www.buildbetter.ai)** | **[📈 Growth Intern (Part-Time or Full-Time)](https://jobright.ai/jobs/info/6986b2968ca8121a3a691146?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Central Bank](https://www.centralbank.net/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/698683088ca8121a3a68d18e?utm_campaign=1065&utm_source=git)** | Jefferson City, MO | On Site | Feb 06 |
 | **[iManage](https://imanage.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6986afa98ca8121a3a690e2a?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| **[EAIGG: Ethical AI Governance Group](https://www.eaigg.org)** | **[Venture & Innovation Fellow](https://jobright.ai/jobs/info/69869f1c0f6f7e7a2ce1a9c9?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 06 |
-| **[equipifi](http://www.equipifi.com/)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6986c0c10f6f7e7a2ce1dac1?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 06 |
-| **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/698681d08da7a6120461516b?utm_campaign=1065&utm_source=git)** | Burlington, Ontario | On Site | Feb 06 |
-| **[BL Harbert International LLC](http://www.blharbert.com)** | **[Marketing Intern (Summer)](https://jobright.ai/jobs/info/6986ad648ca8121a3a6909a1?utm_campaign=1065&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
