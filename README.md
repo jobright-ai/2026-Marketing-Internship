@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creator](www.joincreator.co/sign-up)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69879e0c8ca8121a3a6a22dd?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Feb 07 |
+| **[Bigelow Tea](http://www.bigelowtea.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69879da78da7a6120462abe3?utm_campaign=1065&utm_source=git)** | Fairfield, CT | On Site | Feb 07 |
+| **[Spurwink](http://www.spurwink.org)** | **[Internship - Communications / Non-Profit Development](https://jobright.ai/jobs/info/69879c3d0f6f7e7a2ce2d8ea?utm_campaign=1065&utm_source=git)** | Westbrook, ME | Hybrid | Feb 07 |
 | **[Minor's Fences](https://minorsfences.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/698792220f6f7e7a2ce2cefd?utm_campaign=1065&utm_source=git)** | Ashland, VA | Hybrid | Feb 07 |
 | **[JRA Ventures](https://www.jraventures.com/)** | **[Digital Marketing & Services Intern](https://jobright.ai/jobs/info/69878fe88da7a6120462a001?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987888e8da7a61204629d81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
-| ↳ | **[Intern, Client Services](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1311?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1312?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| ↳ | **[Intern, Client Services](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1311?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[Intern, Media Strategy](https://jobright.ai/jobs/info/698787f58da7a61204629cfd?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | ↳ | **[Intern, Client Services](https://jobright.ai/jobs/info/698787af8da7a61204629cbc?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Community Involvement Intern](https://jobright.ai/jobs/info/6960fff0a112b402660f8834?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[Long Island Nets Community & Marketing Summer Internship 2026](https://jobright.ai/jobs/info/69868b960f6f7e7a2ce18c10?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 06 |
 | **[Okta](http://www.okta.com)** | **[Marketing Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/69868f448da7a61204616173?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Summer Intern - Public Relations and Events Management](https://jobright.ai/jobs/info/6986583d8da7a61204610ce9?utm_campaign=1065&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 06 |
-| **[Options For All](http://optionsforall.org)** | **[Employment Services Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69869d678ca8121a3a68eb1c?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Feb 06 |
-| **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Strategy, Growth & Technology](https://jobright.ai/jobs/info/6986bab48da7a6120461a66e?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Feb 06 |
-| **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - Rotational Marketing & Experience](https://jobright.ai/jobs/info/69869c808ca8121a3a68ea31?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
