@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rural King](https://www.ruralking.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68eb5d1a8369791ef7826604?utm_campaign=1065&utm_source=git)** | Mattoon, IL | On Site | Feb 07 |
+| **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68fa84a6edd190144238d898?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Feb 07 |
 | **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad618db26b618950e2b25?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marketing Strategy Intern, Disney Sports & Water Parks, Summer/Fall 2026](https://jobright.ai/jobs/info/6981fbdc0f6f7e7a2cdb2562?utm_campaign=1065&utm_source=git)** | Kissimmee, FL | On Site | Feb 07 |
 | ↳ | **[Content & Brand Insights Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69833d430f6f7e7a2cdc9f6c?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6986ca708ca8121a3a69450c?utm_campaign=1065&utm_source=git)** | Maple Grove, MN | Hybrid | Feb 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Social Media, Well People](https://jobright.ai/jobs/info/696ab478db26b618950df276?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 06 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/6986ab708da7a61204618ecd?utm_campaign=1065&utm_source=git)** | FORE 12500 TI Boulevard, Dallas, TX, 75243, US | On Site | Feb 06 |
-| **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[New York Liberty Summer Internship 2026](https://jobright.ai/jobs/info/698685d10f6f7e7a2ce18622?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 06 |
-| **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Marketing & Experience](https://jobright.ai/jobs/info/6986a2f28ca8121a3a68f40f?utm_campaign=1065&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
