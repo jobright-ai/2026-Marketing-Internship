@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6988e7210f6f7e7a2ce4039f?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
+| **[14th and Co.](https://www.linkedin.com/company/111338344)** | **[Content Specialist](https://jobright.ai/jobs/info/69849c7b0f6f7e7a2cdf11f6?utm_campaign=1065&utm_source=git)** | Northern Virginia, VA | On Site | Feb 08 |
+| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69176e85bcdbf3560c9c7a79?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Feb 08 |
 | **[Superior Sports](https://superior-sports.com/)** | **[Creative Services & Branding - Intern](https://jobright.ai/jobs/info/6988d50a0f6f7e7a2ce3fcca?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Remote | Feb 08 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Marketing Intern - Summer '26](https://jobright.ai/jobs/info/6943e09294730b7398770ea0?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Feb 08 |
 | **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6988d1d88ca8121a3a6b446e?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
@@ -71,12 +74,10 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Woburn area](https://jobright.ai/jobs/info/69343a0da0dde7020e2f4bc0?utm_campaign=1065&utm_source=git)** | Woburn, MA | On Site | Feb 08 |
 | **[Bitcoin Culture Hub](https://bitcoinculturehub.com/)** | **[Video Marketing Intern (Unpaid, Remote)](https://jobright.ai/jobs/info/6988b64f8ca8121a3a6b28f2?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Remote | Feb 08 |
 | **[InvestBev](https://investbev.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6988b1de0f6f7e7a2ce3dfd6?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
-| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6988a7c10f6f7e7a2ce3de3c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Communications Assistant Summer Internship](https://jobright.ai/jobs/info/691841d815b4156367180a00?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69799aa1d7df290257fbf5ae?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Feb 08 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Marketing & Advertising Intern](https://jobright.ai/jobs/info/6988a2218da7a6120463b6a6?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Feb 08 |
 | **[Marshalltown](https://marshalltown.com)** | **[Ecommerce Marketplace Intern](https://jobright.ai/jobs/info/69889adb0f6f7e7a2ce3dc34?utm_campaign=1065&utm_source=git)** | Marshalltown Iowa - Marshalltown, IA 50158 | On Site | Feb 08 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Marketing And Advertising Intern](https://jobright.ai/jobs/info/6988978b8ca8121a3a6b23bf?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Feb 08 |
 | **[Learnrithm AI](https://learnrithm.com/)** | **[Growth intern](https://jobright.ai/jobs/info/698897518da7a6120463b427?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 08 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Lysosomal Storage Disorders (LSD) Marketing](https://jobright.ai/jobs/info/6988929d8da7a6120463b131?utm_campaign=1065&utm_source=git)** | San Rafael, CA | Hybrid | Feb 08 |
 | **[EmpiresMedia](http://www.empiresmedia.com)** | **[Marketing Intern (Client Outreach) — Recurring Commission / $5k - $10k/mo Potential (Remote, Commission-Only)](https://jobright.ai/jobs/info/698891260f6f7e7a2ce3d5f7?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
@@ -122,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[ThredUp](http://www.thredup.com)** | **[Paid Media Marketing Intern](https://jobright.ai/jobs/info/6987a29a8da7a6120462b02c?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | Feb 07 |
 | ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6987a22c8da7a6120462b009?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | Feb 07 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Trade Show Coordinator Intern](https://jobright.ai/jobs/info/69879f108da7a6120462ad8f?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
-| **[Creator](www.joincreator.co/sign-up)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69879e0c8ca8121a3a6a22dd?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Feb 07 |
 | **[Bigelow Tea](http://www.bigelowtea.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69879da78da7a6120462abe3?utm_campaign=1065&utm_source=git)** | Fairfield, CT | On Site | Feb 07 |
 | **[Minor's Fences](https://minorsfences.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/698792220f6f7e7a2ce2cefd?utm_campaign=1065&utm_source=git)** | Ashland, VA | Hybrid | Feb 07 |
 | **[JRA Ventures](https://www.jraventures.com/)** | **[Digital Marketing & Services Intern](https://jobright.ai/jobs/info/69878fe88da7a6120462a001?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Feb 07 |
