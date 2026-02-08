@@ -119,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696afd48350cf43803123b23?utm_campaign=1065&utm_source=git)** | Herndon, VA | On Site | Feb 07 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Digital Medical Communications - Summer 2026](https://jobright.ai/jobs/info/6986e2ea8da7a6120461efce?utm_campaign=1065&utm_source=git)** | Cary, NC | Hybrid | Feb 07 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/693365bcf131d96e48462d94?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Feb 07 |
-| **[Participate Learning](https://www.participatelearning.com)** | **[Events Internship](https://jobright.ai/jobs/info/6988404d0f6f7e7a2ce38a9c?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC | On Site | Feb 07 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing and Sales (Growth) Intern](https://jobright.ai/jobs/info/698766610f6f7e7a2ce2a53a?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 07 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68eb5d1a8369791ef7826604?utm_campaign=1065&utm_source=git)** | Mattoon, IL | On Site | Feb 07 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68fa84a6edd190144238d898?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Feb 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696acbab350cf4380311e097?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | Hybrid | Feb 06 |
 | **[United Way](http://www.unitedway.org)** | **[Global Brand Strategy Intern](https://jobright.ai/jobs/info/6986b7f88da7a6120461a33b?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[External Communications Intern- Summer 2026](https://jobright.ai/jobs/info/696ab1e2db26b618950dea34?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 06 |
+| **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b17a8ca8121a3a6910ab?utm_campaign=1065&utm_source=git)** | Kingston, Ontario, Canada | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
