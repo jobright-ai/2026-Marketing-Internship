@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bauer Hockey](https://www.bauer.com/)** | **[Cascade Maverik: Summer 2026 Brand Management & Consumer Insights, Lacrosse Internship](https://jobright.ai/jobs/info/696fe9403ed06875134ad3b7?utm_campaign=1065&utm_source=git)** | Exeter, NH, US | Hybrid | Feb 08 |
+| **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Y Teen Social Engagement Intern](https://jobright.ai/jobs/info/6988eec18da7a6120463e107?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
+| **[Document Storage Systems](http://dssinc.com)** | **[INTERN, Marketing Automation and Digital Analytics](https://jobright.ai/jobs/info/6988ee158da7a6120463e0c5?utm_campaign=1065&utm_source=git)** | North Palm Beach, FL | On Site | Feb 08 |
+| **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Lead Y Teen Social Engagement Intern](https://jobright.ai/jobs/info/6988ea758da7a6120463de60?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6988e7210f6f7e7a2ce4039f?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | **[14th and Co.](https://www.linkedin.com/company/111338344)** | **[Content Specialist](https://jobright.ai/jobs/info/69849c7b0f6f7e7a2cdf11f6?utm_campaign=1065&utm_source=git)** | Northern Virginia, VA | On Site | Feb 08 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69176e85bcdbf3560c9c7a79?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Feb 08 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69799aa1d7df290257fbf5ae?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Feb 08 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Marketing & Advertising Intern](https://jobright.ai/jobs/info/6988a2218da7a6120463b6a6?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Feb 08 |
 | **[Marshalltown](https://marshalltown.com)** | **[Ecommerce Marketplace Intern](https://jobright.ai/jobs/info/69889adb0f6f7e7a2ce3dc34?utm_campaign=1065&utm_source=git)** | Marshalltown Iowa - Marshalltown, IA 50158 | On Site | Feb 08 |
-| **[Learnrithm AI](https://learnrithm.com/)** | **[Growth intern](https://jobright.ai/jobs/info/698897518da7a6120463b427?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 08 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Lysosomal Storage Disorders (LSD) Marketing](https://jobright.ai/jobs/info/6988929d8da7a6120463b131?utm_campaign=1065&utm_source=git)** | San Rafael, CA | Hybrid | Feb 08 |
 | **[EmpiresMedia](http://www.empiresmedia.com)** | **[Marketing Intern (Client Outreach) — Recurring Commission / $5k - $10k/mo Potential (Remote, Commission-Only)](https://jobright.ai/jobs/info/698891260f6f7e7a2ce3d5f7?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Merchandising Intern-Summer 2026](https://jobright.ai/jobs/info/691ae87245fb6f5ead8aed49?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Feb 08 |
@@ -99,7 +102,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WB Games Social Media Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f5bc8ca8121a3a6a6a62?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | ↳ | **[WB Games Brand Management & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f58a8ca8121a3a6a6a5a?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | ↳ | **[WB Games Integrated Communications Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f5198da7a6120462f6ea?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
-| **[Ring Atelier Chicago](https://ringatelier.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6987e83c8ca8121a3a6a50c9?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | **[printpal](https://printpal.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6987d4498ca8121a3a6a4aca?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Client Services](https://jobright.ai/jobs/info/6987ceb08ca8121a3a6a4a50?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[Intern, Client Services](https://jobright.ai/jobs/info/6987cc0b0f6f7e7a2ce3026c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad618db26b618950e2b25?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marketing Strategy Intern, Disney Sports & Water Parks, Summer/Fall 2026](https://jobright.ai/jobs/info/6981fbdc0f6f7e7a2cdb2562?utm_campaign=1065&utm_source=git)** | Kissimmee, FL | On Site | Feb 07 |
 | ↳ | **[Content & Brand Insights Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69833d430f6f7e7a2cdc9f6c?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Feb 07 |
-| **[Simon Quick Advisors, LLC](http://www.simonquickadvisors.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ad5a0350cf4380311f1f3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 07 |
-| **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad15f350cf4380311e99b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
