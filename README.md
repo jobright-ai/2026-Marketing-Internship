@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sunny/Earth Therapeutics](https://www.earththerapeutics.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6988c7e40f6f7e7a2ce3fad2?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988c4718ca8121a3a6b405a?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 08 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988c3ec0f6f7e7a2ce3f82f?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 08 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988c3bc8ca8121a3a6b4034?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 08 |
+| **[Telnyx](https://telnyx.com/)** | **[Social Media Intern (Hybrid)](https://jobright.ai/jobs/info/69657f965ad3a93f8230c77f?utm_campaign=1065&utm_source=git)** | Castle Rock, CO | Hybrid | Feb 08 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Marketing and Communications Internship](https://jobright.ai/jobs/info/6917c13ebcdbf3560c9cb13f?utm_campaign=1065&utm_source=git)** | Bentonville, AR | Hybrid | Feb 08 |
+| **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Comm (40883)](https://jobright.ai/jobs/info/6988bc0e8da7a6120463b9aa?utm_campaign=1065&utm_source=git)** | Richland, WA | On Site | Feb 08 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988b9450f6f7e7a2ce3e0a1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 08 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Woburn area](https://jobright.ai/jobs/info/69343a0da0dde7020e2f4bc0?utm_campaign=1065&utm_source=git)** | Woburn, MA | On Site | Feb 08 |
 | **[Bitcoin Culture Hub](https://bitcoinculturehub.com/)** | **[Video Marketing Intern (Unpaid, Remote)](https://jobright.ai/jobs/info/6988b64f8ca8121a3a6b28f2?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Remote | Feb 08 |
 | **[InvestBev](https://investbev.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6988b1de0f6f7e7a2ce3dfd6?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6988a7c10f6f7e7a2ce3de3c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Communications Assistant Summer Internship](https://jobright.ai/jobs/info/691841d815b4156367180a00?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69799aa1d7df290257fbf5ae?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Feb 08 |
-| **[Spotbookr](https://www.spotbookr.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6988a46a0f6f7e7a2ce3ddf1?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Feb 08 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Marketing & Advertising Intern](https://jobright.ai/jobs/info/6988a2218da7a6120463b6a6?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Feb 08 |
 | **[Marshalltown](https://marshalltown.com)** | **[Ecommerce Marketplace Intern](https://jobright.ai/jobs/info/69889adb0f6f7e7a2ce3dc34?utm_campaign=1065&utm_source=git)** | Marshalltown Iowa - Marshalltown, IA 50158 | On Site | Feb 08 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Marketing And Advertising Intern](https://jobright.ai/jobs/info/6988978b8ca8121a3a6b23bf?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Feb 08 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad15f350cf4380311e99b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696b0bf7db26b618950e86ae?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | Feb 07 |
 | **[Cerrowire](http://cerrowire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ae5145fc86241853a18f7?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Feb 07 |
-| **[Remilia Corporation](https://remilia.org)** | **[Fashion Brand Marketing Intern](https://jobright.ai/jobs/info/698705718da7a6120462142c?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Feb 07 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6986fb2f8da7a61204620b24?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Feb 07 |
-| **[Bay FC](https://bayfc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6986f5058ca8121a3a697c30?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
-| **[HYPH PR](http://www.hyphpr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69873bf30f6f7e7a2ce28551?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Strategic Marketing Events](https://jobright.ai/jobs/info/6986f1c30f6f7e7a2ce22f4d?utm_campaign=1065&utm_source=git)** | Wilmington, MA | Remote | Feb 07 |
-| **[Flock Safety](https://www.flocksafety.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6986e7c88ca8121a3a696eb8?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
-| ↳ | **[Marketing Growth Intern](https://jobright.ai/jobs/info/6986e2310f6f7e7a2ce21be8?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
-| **[Genmab](https://www.genmab.com)** | **[Corporate Social Media and Branding Intern](https://jobright.ai/jobs/info/6986dcb00f6f7e7a2ce21878?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
