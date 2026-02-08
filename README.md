@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Swift7 Consultants](https://www.swift7consultants.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6988fe308da7a6120463f997?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Feb 08 |
+| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6988fb178da7a6120463f0c1?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
+| **[PIADA ITALIAN STREET FOOD](http://www.mypiada.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6988f7168ca8121a3a6b5841?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 08 |
 | **[Bauer Hockey](https://www.bauer.com/)** | **[Cascade Maverik: Summer 2026 Brand Management & Consumer Insights, Lacrosse Internship](https://jobright.ai/jobs/info/696fe9403ed06875134ad3b7?utm_campaign=1065&utm_source=git)** | Exeter, NH, US | Hybrid | Feb 08 |
 | **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Y Teen Social Engagement Intern](https://jobright.ai/jobs/info/6988eec18da7a6120463e107?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | **[Document Storage Systems](http://dssinc.com)** | **[INTERN, Marketing Automation and Digital Analytics](https://jobright.ai/jobs/info/6988ee158da7a6120463e0c5?utm_campaign=1065&utm_source=git)** | North Palm Beach, FL | On Site | Feb 08 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69176e85bcdbf3560c9c7a79?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Feb 08 |
 | **[Superior Sports](https://superior-sports.com/)** | **[Creative Services & Branding - Intern](https://jobright.ai/jobs/info/6988d50a0f6f7e7a2ce3fcca?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Remote | Feb 08 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Marketing Intern - Summer '26](https://jobright.ai/jobs/info/6943e09294730b7398770ea0?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Feb 08 |
-| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6988d1d88ca8121a3a6b446e?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6917997f15b41563671796da?utm_campaign=1065&utm_source=git)** | Woodridge, IL | On Site | Feb 08 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988c4718ca8121a3a6b405a?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 08 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988c3ec0f6f7e7a2ce3f82f?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68eb5d1a8369791ef7826604?utm_campaign=1065&utm_source=git)** | Mattoon, IL | On Site | Feb 07 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68fa84a6edd190144238d898?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Feb 07 |
 | **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad618db26b618950e2b25?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 07 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marketing Strategy Intern, Disney Sports & Water Parks, Summer/Fall 2026](https://jobright.ai/jobs/info/6981fbdc0f6f7e7a2cdb2562?utm_campaign=1065&utm_source=git)** | Kissimmee, FL | On Site | Feb 07 |
-| ↳ | **[Content & Brand Insights Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69833d430f6f7e7a2cdc9f6c?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
