@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warner Bros. Games](https://careers.wbgames.com/studios/san-francisco/)** | **[WB Games Brand & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f8970f6f7e7a2ce3271d?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
+| ↳ | **[WB Games Social Media Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f5bc8ca8121a3a6a6a62?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
+| ↳ | **[WB Games Brand Management & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f58a8ca8121a3a6a6a5a?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
+| ↳ | **[WB Games Integrated Communications Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f5198da7a6120462f6ea?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | **[Ring Atelier Chicago](https://ringatelier.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6987e83c8ca8121a3a6a50c9?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Spring Social Media Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6987d4938ca8121a3a6a4ad7?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 07 |
 | **[printpal](https://printpal.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6987d4498ca8121a3a6a4aca?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Merchandising Intern - Category Management](https://jobright.ai/jobs/info/6986b06b8da7a612046195c8?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Feb 06 |
 | **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986aff98ca8121a3a690ebe?utm_campaign=1065&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Feb 06 |
 | ↳ | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986af908ca8121a3a690df4?utm_campaign=1065&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Feb 06 |
-| **[AARP](http://www.aarp.org)** | **[Editorial and Promotions Marketing Intern (Summer)](https://jobright.ai/jobs/info/696ae0ab5fc86241853a0f1b?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Lifecycle Marketing](https://jobright.ai/jobs/info/696ab6f0350cf4380311bd23?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986ad858ca8121a3a6909e5?utm_campaign=1065&utm_source=git)** | North York, Ontario, Canada | On Site | Feb 06 |
-| **[Columbus Blue Jackets](http://bluejackets.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6986ad1c8da7a6120461912a?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
