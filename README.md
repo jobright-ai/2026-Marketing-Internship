@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bitcoin Culture Hub](https://bitcoinculturehub.com/)** | **[Video Marketing Intern (Unpaid, Remote)](https://jobright.ai/jobs/info/6988b64f8ca8121a3a6b28f2?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Remote | Feb 08 |
+| **[InvestBev](https://investbev.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6988b1de0f6f7e7a2ce3dfd6?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6988a7c10f6f7e7a2ce3de3c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Communications Assistant Summer Internship](https://jobright.ai/jobs/info/691841d815b4156367180a00?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69799aa1d7df290257fbf5ae?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Feb 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flock Safety](https://www.flocksafety.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6986e7c88ca8121a3a696eb8?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
 | ↳ | **[Marketing Growth Intern](https://jobright.ai/jobs/info/6986e2310f6f7e7a2ce21be8?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
 | **[Genmab](https://www.genmab.com)** | **[Corporate Social Media and Branding Intern](https://jobright.ai/jobs/info/6986dcb00f6f7e7a2ce21878?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Feb 06 |
-| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[StarPoint Summer Camp Communications Intern (Full-time) - Summer 2026](https://jobright.ai/jobs/info/6986cf4a0f6f7e7a2ce1fef5?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
-| **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Marketing & Experience](https://jobright.ai/jobs/info/6986b4280f6f7e7a2ce1cf91?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
