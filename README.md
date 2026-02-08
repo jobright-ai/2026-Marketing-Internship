@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ring Atelier Chicago](https://ringatelier.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6987e83c8ca8121a3a6a50c9?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Spring Social Media Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6987d4938ca8121a3a6a4ad7?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 07 |
+| **[printpal](https://printpal.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6987d4498ca8121a3a6a4aca?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Client Services](https://jobright.ai/jobs/info/6987ceb08ca8121a3a6a4a50?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[Intern, Client Services](https://jobright.ai/jobs/info/6987cc0b0f6f7e7a2ce3026c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | ↳ | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987cc020f6f7e7a2ce30269?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
@@ -75,10 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Allstream Energy Partners](https://allstreamep.com/)** | **[Sales & Marketing Intern – Houston Based, Flexible Schedule](https://jobright.ai/jobs/info/6987b01e8da7a6120462c712?utm_campaign=1065&utm_source=git)** | Rosharon, TX | Hybrid | Feb 07 |
 | **[Cabot Cape Breton](https://cabotcapebreton.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6987af7e8ca8121a3a6a2e57?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | Feb 07 |
 | **[Cabot](https://thecabotcollection.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6987a9578ca8121a3a6a29ff?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 07 |
-| **[Kickstart Canada Walk Assist](www.kickstartcanada.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6987a8b28da7a6120462bb7d?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 07 |
-| **[Ergon Inc.](http://ergon.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6987a71f8da7a6120462b744?utm_campaign=1065&utm_source=git)** | Flowood, MS | On Site | Feb 07 |
 | **[ThredUp](http://www.thredup.com)** | **[Supply Growth Intern](https://jobright.ai/jobs/info/6987a5108ca8121a3a6a2737?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | Feb 07 |
-| **[PatchNotes](https://mediapatchnotes.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6987a3b08da7a6120462b094?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 07 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/698175af49964d25b5e46ea8?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Feb 07 |
 | **[ThredUp](http://www.thredup.com)** | **[Paid Media Marketing Intern](https://jobright.ai/jobs/info/6987a29a8da7a6120462b02c?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | Feb 07 |
 | ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6987a22c8da7a6120462b009?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | Feb 07 |
