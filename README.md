@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kargo](http://www.kargo.com)** | **[Intern, Client Services](https://jobright.ai/jobs/info/6987ceb08ca8121a3a6a4a50?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| ↳ | **[Intern, Client Services](https://jobright.ai/jobs/info/6987cc0b0f6f7e7a2ce3026c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
+| ↳ | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987cc020f6f7e7a2ce30269?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
+| ↳ | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987cbd80f6f7e7a2ce3025f?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
+| **[Peak Alliance](https://www.peak-alliance.com)** | **[Fully Remote Digital Marketing Intern](https://jobright.ai/jobs/info/6987c82c8da7a6120462d5ec?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Feb 07 |
+| **[Kargo](http://www.kargo.com)** | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987c48f8ca8121a3a6a48dd?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Communications/Digital Content (50234)](https://jobright.ai/jobs/info/6987c2158ca8121a3a6a4818?utm_campaign=1065&utm_source=git)** | Denver - Denver, CO 80230 | On Site | Feb 07 |
+| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6987bec78da7a6120462d455?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 07 |
+| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Lysosomal Storage Disorders (LSD) Marketing](https://jobright.ai/jobs/info/6987be858ca8121a3a6a4716?utm_campaign=1065&utm_source=git)** | San Rafael, CA | Hybrid | Feb 07 |
+| **[Warner Bros. Discovery](https://wbd.com)** | **[WB Games Brand Management & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987bdba8ca8121a3a6a4618?utm_campaign=1065&utm_source=git)** | CA Burbank Bldg. 750, Second Century, Tower 2 | Hybrid | Feb 07 |
+| **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Feb 07 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[WB Games Brand & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987b9d98ca8121a3a6a436c?utm_campaign=1065&utm_source=git)** | CA Burbank Bldg. 750, Second Century, Tower 2 | Hybrid | Feb 07 |
 | ↳ | **[WB Games Social Media Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987b8d48ca8121a3a6a4088?utm_campaign=1065&utm_source=git)** | CA Burbank Bldg. 750, Second Century, Tower 2 | Hybrid | Feb 07 |
 | ↳ | **[WB Games Integrated Communications Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987b8558ca8121a3a6a3f44?utm_campaign=1065&utm_source=git)** | CA Burbank Bldg. 750, Second Century, Tower 2 | Hybrid | Feb 07 |
@@ -65,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Cabot Cape Breton](https://cabotcapebreton.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6987af7e8ca8121a3a6a2e57?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | Feb 07 |
 | **[Cabot](https://thecabotcollection.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6987a9578ca8121a3a6a29ff?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 07 |
 | **[Kickstart Canada Walk Assist](www.kickstartcanada.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6987a8b28da7a6120462bb7d?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 07 |
-| **[dataing](https://www.dataing.io/)** | **[Marketing Intern - Content ❤️](https://jobright.ai/jobs/info/6987a7388da7a6120462b783?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 07 |
 | **[Ergon Inc.](http://ergon.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6987a71f8da7a6120462b744?utm_campaign=1065&utm_source=git)** | Flowood, MS | On Site | Feb 07 |
 | **[ThredUp](http://www.thredup.com)** | **[Supply Growth Intern](https://jobright.ai/jobs/info/6987a5108ca8121a3a6a2737?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | Feb 07 |
 | **[PatchNotes](https://mediapatchnotes.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6987a3b08da7a6120462b094?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 07 |
@@ -77,11 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Bigelow Tea](http://www.bigelowtea.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69879da78da7a6120462abe3?utm_campaign=1065&utm_source=git)** | Fairfield, CT | On Site | Feb 07 |
 | **[Minor's Fences](https://minorsfences.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/698792220f6f7e7a2ce2cefd?utm_campaign=1065&utm_source=git)** | Ashland, VA | Hybrid | Feb 07 |
 | **[JRA Ventures](https://www.jraventures.com/)** | **[Digital Marketing & Services Intern](https://jobright.ai/jobs/info/69878fe88da7a6120462a001?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Feb 07 |
-| **[Kargo](http://www.kargo.com)** | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987888e8da7a61204629d81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
-| ↳ | **[Intern, Client Services](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1311?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
-| ↳ | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1312?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
-| ↳ | **[Intern, Media Strategy](https://jobright.ai/jobs/info/698787f58da7a61204629cfd?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
-| ↳ | **[Intern, Client Services](https://jobright.ai/jobs/info/698787af8da7a61204629cbc?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Community Involvement Intern](https://jobright.ai/jobs/info/6960fff0a112b402660f8834?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 07 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Strategic Marketing Intern (MBA Level)](https://jobright.ai/jobs/info/691a95d945fb6f5ead8ac227?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 07 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Copywriter](https://jobright.ai/jobs/info/69337ac0764507023d1b621c?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
@@ -116,8 +121,7 @@ For a complete list, click the following sortable link below:
 | **[The Bancorp](http://www.thebancorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696b0bf7db26b618950e86ae?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | Feb 07 |
 | **[Cerrowire](http://cerrowire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ae5145fc86241853a18f7?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Feb 07 |
 | **[Remilia Corporation](https://remilia.org)** | **[Fashion Brand Marketing Intern](https://jobright.ai/jobs/info/698705718da7a6120462142c?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Feb 07 |
-| **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6986fde70f6f7e7a2ce23948?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 07 |
-| **[Remilia Corporation](https://remilia.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6986fb2f8da7a61204620b24?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Feb 07 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6986fb2f8da7a61204620b24?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Feb 07 |
 | **[Bay FC](https://bayfc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6986f5058ca8121a3a697c30?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
 | **[HYPH PR](http://www.hyphpr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69873bf30f6f7e7a2ce28551?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Strategic Marketing Events](https://jobright.ai/jobs/info/6986f1c30f6f7e7a2ce22f4d?utm_campaign=1065&utm_source=git)** | Wilmington, MA | Remote | Feb 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Lifecycle Marketing](https://jobright.ai/jobs/info/696ab6f0350cf4380311bd23?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986ad858ca8121a3a6909e5?utm_campaign=1065&utm_source=git)** | North York, Ontario, Canada | On Site | Feb 06 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6986ad1c8da7a6120461912a?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
-| **[Options For All](http://optionsforall.org)** | **[Executive Leadership Team Social Media Intern (Summer 2026)](https://jobright.ai/jobs/info/6986acfb0f6f7e7a2ce1bbc0?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Feb 06 |
-| **[Columbus Blue Jackets](http://bluejackets.com)** | **[Fan Engagement Intern](https://jobright.ai/jobs/info/6986ac5a0f6f7e7a2ce1bad3?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
-| ↳ | **[Digital Media & Content Intern](https://jobright.ai/jobs/info/6986ab728da7a61204618ed1?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6986ab270f6f7e7a2ce1b928?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
