@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Marketing Internship in Paris!](https://jobright.ai/jobs/info/698819208ca8121a3a6a9e88?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Feb 07 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Business and Marketing Internship](https://jobright.ai/jobs/info/698810e98da7a612046317cb?utm_campaign=1065&utm_source=git)** | Lebanon, NH | On Site | Feb 07 |
 | **[Big Brothers Big Sisters Kansas City](https://www.bbbskc.org)** | **[Fundraising, Sales, and Events Intern](https://jobright.ai/jobs/info/698807ac0f6f7e7a2ce33b75?utm_campaign=1065&utm_source=git)** | Kansas City - Kansas City, MO 64108 | On Site | Feb 07 |
 | **[Warner Bros. Games](https://careers.wbgames.com/studios/san-francisco/)** | **[WB Games Brand & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f8970f6f7e7a2ce3271d?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | ↳ | **[WB Games Social Media Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f5bc8ca8121a3a6a6a62?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Options for Community Living, Inc.](http://optionscl.org/)** | **[Spring 2026 Marketing & Social Media Intern](https://jobright.ai/jobs/info/697d302f137a051025663b19?utm_campaign=1065&utm_source=git)** | Ronkonkoma | On Site | Feb 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Merchandising Intern - Category Management](https://jobright.ai/jobs/info/6986b06b8da7a612046195c8?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Feb 06 |
 | **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986aff98ca8121a3a690ebe?utm_campaign=1065&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Feb 06 |
-| **[BBA Consultants](https://www.bba.ca/)** | **[Intern in Marketing Communications - Summer 2026](https://jobright.ai/jobs/info/6988076b0f6f7e7a2ce33a58?utm_campaign=1065&utm_source=git)** | Mont-St-Hilaire, Quebec, Canada | Hybrid | Feb 06 |
-| **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986af908ca8121a3a690df4?utm_campaign=1065&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
