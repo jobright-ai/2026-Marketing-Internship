@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sunny/Earth Therapeutics](https://www.earththerapeutics.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6988c7e40f6f7e7a2ce3fad2?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
+| **[Superior Sports](https://superior-sports.com/)** | **[Creative Services & Branding - Intern](https://jobright.ai/jobs/info/6988d50a0f6f7e7a2ce3fcca?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Remote | Feb 08 |
+| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Marketing Intern - Summer '26](https://jobright.ai/jobs/info/6943e09294730b7398770ea0?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Feb 08 |
+| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6988d1d88ca8121a3a6b446e?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
+| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6917997f15b41563671796da?utm_campaign=1065&utm_source=git)** | Woodridge, IL | On Site | Feb 08 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988c4718ca8121a3a6b405a?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 08 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988c3ec0f6f7e7a2ce3f82f?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 08 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988c3bc8ca8121a3a6b4034?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 08 |
@@ -90,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Mandarin Zest](https://mandarinzest.com/)** | **[Remote SEO & Copywriting Internship (Chinese / Mandarin Focus)](https://jobright.ai/jobs/info/698837228ca8121a3a6ac77c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 07 |
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Marketing Internship in Paris!](https://jobright.ai/jobs/info/698819208ca8121a3a6a9e88?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Feb 07 |
 | **[Penn State Engineering Entrepreneurship](https://wh1325468.ispot.cc/demos/entipsu/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69888c8b0f6f7e7a2ce3d2c1?utm_campaign=1065&utm_source=git)** | University Park, PA | Hybrid | Feb 07 |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Business and Marketing Internship](https://jobright.ai/jobs/info/698810e98da7a612046317cb?utm_campaign=1065&utm_source=git)** | Lebanon, NH | On Site | Feb 07 |
 | **[Big Brothers Big Sisters Kansas City](https://www.bbbskc.org)** | **[Fundraising, Sales, and Events Intern](https://jobright.ai/jobs/info/698807ac0f6f7e7a2ce33b75?utm_campaign=1065&utm_source=git)** | Kansas City - Kansas City, MO 64108 | On Site | Feb 07 |
 | **[Warner Bros. Games](https://careers.wbgames.com/studios/san-francisco/)** | **[WB Games Brand & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f8970f6f7e7a2ce3271d?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | ↳ | **[WB Games Social Media Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f5bc8ca8121a3a6a6a62?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content & Brand Insights Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69833d430f6f7e7a2cdc9f6c?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Feb 07 |
 | **[Simon Quick Advisors, LLC](http://www.simonquickadvisors.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ad5a0350cf4380311f1f3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad15f350cf4380311e99b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
-| **[The Bancorp](http://www.thebancorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696b0bf7db26b618950e86ae?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | Feb 07 |
-| **[Cerrowire](http://cerrowire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ae5145fc86241853a18f7?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
