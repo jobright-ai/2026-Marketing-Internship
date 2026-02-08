@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warner Bros. Discovery](https://wbd.com)** | **[WB Games Brand & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987b9d98ca8121a3a6a436c?utm_campaign=1065&utm_source=git)** | CA Burbank Bldg. 750, Second Century, Tower 2 | Hybrid | Feb 07 |
+| ↳ | **[WB Games Social Media Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987b8d48ca8121a3a6a4088?utm_campaign=1065&utm_source=git)** | CA Burbank Bldg. 750, Second Century, Tower 2 | Hybrid | Feb 07 |
+| ↳ | **[WB Games Integrated Communications Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987b8558ca8121a3a6a3f44?utm_campaign=1065&utm_source=git)** | CA Burbank Bldg. 750, Second Century, Tower 2 | Hybrid | Feb 07 |
 | **[Cabot](https://thecabotcollection.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6987b2360f6f7e7a2ce2f3fc?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | Feb 07 |
 | **[Allstream Energy Partners](https://allstreamep.com/)** | **[Sales & Marketing Intern – Houston Based, Flexible Schedule](https://jobright.ai/jobs/info/6987b01e8da7a6120462c712?utm_campaign=1065&utm_source=git)** | Rosharon, TX | Hybrid | Feb 07 |
 | **[Cabot Cape Breton](https://cabotcapebreton.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6987af7e8ca8121a3a6a2e57?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | Feb 07 |
@@ -75,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Minor's Fences](https://minorsfences.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/698792220f6f7e7a2ce2cefd?utm_campaign=1065&utm_source=git)** | Ashland, VA | Hybrid | Feb 07 |
 | **[JRA Ventures](https://www.jraventures.com/)** | **[Digital Marketing & Services Intern](https://jobright.ai/jobs/info/69878fe88da7a6120462a001?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987888e8da7a61204629d81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
-| ↳ | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1312?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[Intern, Client Services](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1311?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| ↳ | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1312?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[Intern, Media Strategy](https://jobright.ai/jobs/info/698787f58da7a61204629cfd?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | ↳ | **[Intern, Client Services](https://jobright.ai/jobs/info/698787af8da7a61204629cbc?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Community Involvement Intern](https://jobright.ai/jobs/info/6960fff0a112b402660f8834?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[Fan Engagement Intern](https://jobright.ai/jobs/info/6986ac5a0f6f7e7a2ce1bad3?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
 | ↳ | **[Digital Media & Content Intern](https://jobright.ai/jobs/info/6986ab728da7a61204618ed1?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6986ab270f6f7e7a2ce1b928?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
-| **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986aa4d8ca8121a3a69040f?utm_campaign=1065&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Feb 06 |
-| **[Bilt](https://www.biltrewards.com)** | **[Biltern 2026 - Social Media](https://jobright.ai/jobs/info/6986a9680f6f7e7a2ce1b696?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986a95d8da7a61204618c0b?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
