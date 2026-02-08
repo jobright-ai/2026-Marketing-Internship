@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Merchandising Intern-Summer 2026](https://jobright.ai/jobs/info/691ae87245fb6f5ead8aed49?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Feb 08 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Sports Content](https://jobright.ai/jobs/info/696b71065fc86241853acf87?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 08 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Sports Content](https://jobright.ai/jobs/info/696ba00edb26b618950f27a3?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69153b549c388539cbdf1b26?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Feb 08 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Peak Alliance](https://www.peak-alliance.com)** | **[Fully Remote Digital Marketing Intern](https://jobright.ai/jobs/info/6987c82c8da7a6120462d5ec?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987c48f8ca8121a3a6a48dd?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Communications/Digital Content (50234)](https://jobright.ai/jobs/info/6987c2158ca8121a3a6a4818?utm_campaign=1065&utm_source=git)** | Denver - Denver, CO 80230 | On Site | Feb 07 |
-| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Lysosomal Storage Disorders (LSD) Marketing](https://jobright.ai/jobs/info/6987be858ca8121a3a6a4716?utm_campaign=1065&utm_source=git)** | San Rafael, CA | Hybrid | Feb 07 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[WB Games Brand Management & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987bdba8ca8121a3a6a4618?utm_campaign=1065&utm_source=git)** | CA Burbank Bldg. 750, Second Century, Tower 2 | Hybrid | Feb 07 |
 | **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Feb 07 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[WB Games Brand & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987b9d98ca8121a3a6a436c?utm_campaign=1065&utm_source=git)** | CA Burbank Bldg. 750, Second Century, Tower 2 | Hybrid | Feb 07 |
@@ -109,6 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Paid Media](https://jobright.ai/jobs/info/6933616ba0dde7020e2ed36f?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
 | ↳ | **[Intern, Market Planning](https://jobright.ai/jobs/info/693371e7764507023d1b5bc1?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Summer Associate - Intern, Strategy3](https://jobright.ai/jobs/info/696b0752350cf438031247b7?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
+| **[LoveLane](https://www.lovelane.co)** | **[Social media content creator - app start-up (unpaid) - remote US](https://jobright.ai/jobs/info/69877fae8da7a6120462999f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 07 |
 | **[SNY](https://www.sny.tv/)** | **[Social Media Intern](https://jobright.ai/jobs/info/698770a28ca8121a3a69f4a4?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Feb 07 |
 | **[Texell Credit Union](http://texell.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69876e318da7a61204627f61?utm_campaign=1065&utm_source=git)** | Temple Headquarters - Temple, TX 76502 | On Site | Feb 07 |
 | **[BD](https://www.bd.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/69876bb60f6f7e7a2ce2a81e?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6986b9938da7a6120461a51f?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Feb 06 |
 | **[Cerrowire](http://cerrowire.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/696ae6205fc86241853a1b72?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Feb 06 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Summer Associate - Intern, Strategy3](https://jobright.ai/jobs/info/696b02345fc86241853a4b5f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Lifecycle Analytics](https://jobright.ai/jobs/info/696ab2ef350cf4380311b5a4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
