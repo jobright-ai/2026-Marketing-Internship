@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revilo Technologies](www.revilotechnologies.com)** | **[Marketing Intern (US Based Startup)](https://jobright.ai/jobs/info/6989402b8ca8121a3a6b8dc6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
+| **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Events Marketing Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/698936618da7a61204641bb5?utm_campaign=1065&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 08 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69892a818da7a6120464006b?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 08 |
 | **[snapnbook](https://snapnbook.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6989274c0f6f7e7a2ce426c2?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Feb 08 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/698924a20f6f7e7a2ce426a1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 08 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69890f998da7a6120463fe60?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Momentic Studios](https://momenticstudios.com)** | **[STRONG Pilates- Fitness Content Marketing Intern](https://jobright.ai/jobs/info/698135deabff4c399aa01d26?utm_campaign=1065&utm_source=git)** | West Hollywood, California | Hybrid | Feb 08 |
 | **[Swift7 Consultants](https://www.swift7consultants.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6988fe308da7a6120463f997?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Feb 08 |
-| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6988fb178da7a6120463f0c1?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
 | **[PIADA ITALIAN STREET FOOD](http://www.mypiada.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6988f7168ca8121a3a6b5841?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 08 |
 | **[Bauer Hockey](https://www.bauer.com/)** | **[Cascade Maverik: Summer 2026 Brand Management & Consumer Insights, Lacrosse Internship](https://jobright.ai/jobs/info/696fe9403ed06875134ad3b7?utm_campaign=1065&utm_source=git)** | Exeter, NH, US | Hybrid | Feb 08 |
 | **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Y Teen Social Engagement Intern](https://jobright.ai/jobs/info/6988eec18da7a6120463e107?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Influencer Marketing, Intern](https://jobright.ai/jobs/info/69335396764507023d1b4464?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 08 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Community Impact Intern - The Toro Company](https://jobright.ai/jobs/info/694e76a5a2668b7f5451d489?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Feb 08 |
 | **[Atlassian](https://www.atlassian.com)** | **[Performance Messaging Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/6931ff4f4c474121999f56af?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 08 |
+| **[Ergon Inc.](http://ergon.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69893cc48da7a61204641fe6?utm_campaign=1065&utm_source=git)** | Flowood, MS | On Site | Feb 08 |
 | **[Highlands Ranch Community Association](http://hrcaonline.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69883f850f6f7e7a2ce38674?utm_campaign=1065&utm_source=git)** | HRCA Rec Center at Eastridge - Highlands Ranch, CO 80126 | On Site | Feb 07 |
 | **[Saville CPAs & Advisors](https://savillecpa.com/)** | **[Summer 2026 - Marketing Intern](https://jobright.ai/jobs/info/698837558da7a61204635569?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
 | **[JKP](JKPub.com)** | **[Brand Talent Ambassador](https://jobright.ai/jobs/info/698837258ca8121a3a6ac783?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | Remote | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern -Brand Management](https://jobright.ai/jobs/info/6988a49b8ca8121a3a6b2662?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68c02860702aa35207aaafb5?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696afd48350cf43803123b23?utm_campaign=1065&utm_source=git)** | Herndon, VA | On Site | Feb 07 |
-| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Digital Medical Communications - Summer 2026](https://jobright.ai/jobs/info/6986e2ea8da7a6120461efce?utm_campaign=1065&utm_source=git)** | Cary, NC | Hybrid | Feb 07 |
-| **[Kindling Labs](https://www.linkedin.com/company/111866121)** | **[Growth Intern](https://jobright.ai/jobs/info/6988852c8ca8121a3a6b025f?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
