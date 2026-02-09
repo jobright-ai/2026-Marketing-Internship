@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Industry & Vertical Solutions Marketing Intern](https://jobright.ai/jobs/info/698a378e0f6f7e7a2ce54897?utm_campaign=1065&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 09 |
+| **[Best Buy](https://www.bestbuy.com/)** | **[Brand Marketing-Campaigns Intern](https://jobright.ai/jobs/info/698a3a900f6f7e7a2ce54b6e?utm_campaign=1065&utm_source=git)** | 7601 Penn Avenue South | Hybrid | Feb 09 |
+| **[Corgan](http://www.corgan.com/)** | **[Marketing Internship / Summer 2026](https://jobright.ai/jobs/info/698a39d94db8972cecff78e1?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Feb 09 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Youth Social Media Writer - Part Time Paid Intern](https://jobright.ai/jobs/info/698a39c74db8972cecff78ce?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Feb 09 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Marketing Campaigns & Events Intern](https://jobright.ai/jobs/info/698a39b00f6f7e7a2ce54a72?utm_campaign=1065&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 09 |
+| **[Tidal Financial Group](https://www.tidalfinancialgroup.com/)** | **[Northeastern Marketing Co-op](https://jobright.ai/jobs/info/698a399647434001cc686de1?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 09 |
+| **[Yield Distribution](www.yielddistro.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/698a39764db8972cecff7875?utm_campaign=1065&utm_source=git)** | Detroit Metro | Hybrid | Feb 09 |
+| **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Community Management (Summer 2026)](https://jobright.ai/jobs/info/698a395247434001cc686da3?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 09 |
+| **[Best Buy](https://www.bestbuy.com/)** | **[Merchandising and Demand Planning Analyst Intern (Traditional)](https://jobright.ai/jobs/info/698a387a47434001cc686cb4?utm_campaign=1065&utm_source=git)** | Richfield Minnesota | Hybrid | Feb 09 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Corporate Social Media Intern](https://jobright.ai/jobs/info/698a386a0f6f7e7a2ce5491b?utm_campaign=1065&utm_source=git)** | North Carolina | Hybrid | Feb 09 |
+| ↳ | **[Summer 2026 - Industry & Vertical Solutions Marketing Intern](https://jobright.ai/jobs/info/698a378e0f6f7e7a2ce54897?utm_campaign=1065&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 09 |
 | ↳ | **[Summer 2026 - Industry & Vertical Solutions Marketing Intern](https://jobright.ai/jobs/info/698a35c34db8972cecff7514?utm_campaign=1065&utm_source=git)** | North Carolina | On Site | Feb 09 |
 | ↳ | **[Summer 2026 - Technology Product Marketing Intern](https://jobright.ai/jobs/info/698a358f4db8972cecff74fb?utm_campaign=1065&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Communications Events Intern, Fall 2026](https://jobright.ai/jobs/info/698a358a47434001cc686ac9?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Feb 09 |
@@ -74,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/698a289b4db8972cecff6cb8?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 09 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/698a252c0f6f7e7a2ce53cba?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Marketing & Social Media](https://jobright.ai/jobs/info/698a24c90f6f7e7a2ce53c48?utm_campaign=1065&utm_source=git)** | Wilson, NC | On Site | Feb 09 |
-| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/698a24070f6f7e7a2ce53bec?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 09 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Corporate Reputation Communications Internship - Summer/Fall '26](https://jobright.ai/jobs/info/698a22b84db8972cecff692d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 09 |
 | **[Women Speak Up](www.womenspeakupus.org)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/698a1e1d47434001cc685772?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 09 |
 | **[Caliber Corporate Advisers](http://calibercorporate.com/)** | **[Summer Graduate Associate](https://jobright.ai/jobs/info/698a1e030f6f7e7a2ce53445?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 09 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Lead Y Teen Social Engagement Intern](https://jobright.ai/jobs/info/6988ea758da7a6120463de60?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6988e7210f6f7e7a2ce4039f?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69176e85bcdbf3560c9c7a79?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Feb 08 |
-| **[Superior Sports](https://superior-sports.com/)** | **[Creative Services & Branding - Intern](https://jobright.ai/jobs/info/6988d50a0f6f7e7a2ce3fcca?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Remote | Feb 08 |
-| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Marketing Intern - Summer '26](https://jobright.ai/jobs/info/6943e09294730b7398770ea0?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Feb 08 |
-| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6917997f15b41563671796da?utm_campaign=1065&utm_source=git)** | Woodridge, IL | On Site | Feb 08 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988c4718ca8121a3a6b405a?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 08 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988c3ec0f6f7e7a2ce3f82f?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 08 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988c3bc8ca8121a3a6b4034?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 08 |
-| **[Telnyx](https://telnyx.com/)** | **[Social Media Intern (Hybrid)](https://jobright.ai/jobs/info/69657f965ad3a93f8230c77f?utm_campaign=1065&utm_source=git)** | Castle Rock, CO | Hybrid | Feb 08 |
-| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Marketing and Communications Internship](https://jobright.ai/jobs/info/6917c13ebcdbf3560c9cb13f?utm_campaign=1065&utm_source=git)** | Bentonville, AR | Hybrid | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
