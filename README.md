@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Backlinkgen](https://backlinkgen.com)** | **[Online-Marketing - Internship - Work](https://jobright.ai/jobs/info/6989c6ff4db8972cecff032e?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Feb 09 |
+| **[State of Colorado](http://www.colorado.gov)** | **[Internship - Marketing and Communication Specialist](https://jobright.ai/jobs/info/6989c4f147434001cc67f31f?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 09 |
+| **[360 One Firm (361Firm)](https://361firm.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6989c2424db8972cecfefdc4?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 09 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/693273b7764507023d1aec92?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Feb 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Community Manager](https://jobright.ai/jobs/info/68dfa71d6be63b6ec997238e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 09 |
 | ↳ | **[2026 Intern - Content Strategist](https://jobright.ai/jobs/info/6917fd1fbcdbf3560c9cd678?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[MV Ventures](https://www.explorevikinglakes.com)** | **[Training Camp Fan Engagement Intern](https://jobright.ai/jobs/info/6989a77b47434001cc67c6d4?utm_campaign=1065&utm_source=git)** | Eagan, MN, US | On Site | Feb 09 |
@@ -65,17 +69,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Marketing, Blogging & Social Media Intern - FH](https://jobright.ai/jobs/info/69899a1a0f6f7e7a2ce49d46?utm_campaign=1065&utm_source=git)** | Oakton, VA | On Site | Feb 09 |
 | **[Colorado Department of Revenue](https://dmv.colorado.gov)** | **[Internship - Marketing and Communication Specialist](https://jobright.ai/jobs/info/698999d447434001cc67bf10?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 09 |
 | **[AROBIT](http://www.arobit.com)** | **[PR Intern](https://jobright.ai/jobs/info/698996b20f6f7e7a2ce49c55?utm_campaign=1065&utm_source=git)** | SLC Metro Area | On Site | Feb 09 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Social Media Internship](https://jobright.ai/jobs/info/698977ca8ca8121a3a6bd4a2?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 08 |
+| **[DSS, Inc.](http://www.dssinc.com/index.htm)** | **[INTERN, Marketing Automation and Digital Analytics](https://jobright.ai/jobs/info/6989afe647434001cc67d792?utm_campaign=1065&utm_source=git)** | REMOTE POSITION - Anywhere, FL 33408 | Remote | Feb 08 |
 | **[Momentic Studios](https://momenticstudios.com)** | **[STRONG Pilates- Fitness Content Marketing Intern](https://jobright.ai/jobs/info/697bf3da0b88cc7d6422df3f?utm_campaign=1065&utm_source=git)** | Dallas, Texas | Hybrid | Feb 08 |
-| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6989550c47434001cc677499?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
 | **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Creative Design Intern, Oncology Marketing, Hematology](https://jobright.ai/jobs/info/698954868ca8121a3a6b9a4d?utm_campaign=1065&utm_source=git)** | Boston, KY | Hybrid | Feb 08 |
 | **[JoyMe](http://www.joyme.sg)** | **[Campus Intern / Volunteer — Marketing & AI Creator Program](https://jobright.ai/jobs/info/696621caa112b40266143094?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 08 |
 | **[Georgia Association of Broadcasters](http://www.gab.org)** | **[GAB Summer Intern](https://jobright.ai/jobs/info/698941a98da7a612046421f5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Events Marketing Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/698936618da7a61204641bb5?utm_campaign=1065&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 08 |
 | **[Arrow Financial Corporation](http://www.arrowfinancial.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698988228ca8121a3a6bdcd3?utm_campaign=1065&utm_source=git)** | Glens Falls, NY | On Site | Feb 08 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69892a818da7a6120464006b?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 08 |
-| **[snapnbook](https://snapnbook.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6989274c0f6f7e7a2ce426c2?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Feb 08 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/698924a20f6f7e7a2ce426a1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 08 |
 | **[ABM Industries](http://abm.com)** | **[Recruitment Marketing Intern](https://jobright.ai/jobs/info/698917380f6f7e7a2ce425c8?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | Hybrid | Feb 08 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/6989103a8ca8121a3a6b6c49?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
 | ↳ | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69890f998da7a6120463fe60?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
@@ -126,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Games](https://careers.wbgames.com/studios/san-francisco/)** | **[WB Games Social Media Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f5bc8ca8121a3a6a6a62?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | ↳ | **[WB Games Brand Management & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f58a8ca8121a3a6a6a5a?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | ↳ | **[WB Games Integrated Communications Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f5198da7a6120462f6ea?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
-| **[printpal](https://printpal.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6987d4498ca8121a3a6a4aca?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Client Services](https://jobright.ai/jobs/info/6987ceb08ca8121a3a6a4a50?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[Intern, Client Services](https://jobright.ai/jobs/info/6987cc0b0f6f7e7a2ce3026c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | ↳ | **[Intern, Media Strategy](https://jobright.ai/jobs/info/6987cc020f6f7e7a2ce30269?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
