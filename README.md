@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Options for Community Living, Inc.](http://optionscl.org/)** | **[Spring 2026 Marketing & Social Media Intern](https://jobright.ai/jobs/info/697d302f137a051025663b19?utm_campaign=1065&utm_source=git)** | Ronkonkoma | On Site | Feb 09 |
+| **[Roku](https://www.roku.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6989f96f47434001cc682f4b?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Feb 09 |
+| **[ADT](http://www.adt.com)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/6986668e8da7a612046123fa?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 09 |
 | **[Stuller, Inc.](http://stuller.com)** | **[Findings Merchandising Intern](https://jobright.ai/jobs/info/6986b8988ca8121a3a691cdc?utm_campaign=1065&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Feb 09 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/697c494e0b88cc7d642363e8?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Feb 09 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6986f03e0f6f7e7a2ce22c73?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Feb 09 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Reputation Communications Internship - Summer/Fall '26](https://jobright.ai/jobs/info/6989d35e47434001cc67fb7f?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Feb 09 |
 | ↳ | **[Marketing Internship - Summer/Fall '26](https://jobright.ai/jobs/info/6989d35c0f6f7e7a2ce4da26?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | **[State of Colorado](http://www.colorado.gov)** | **[Internship - Marketing and Communication Specialist](https://jobright.ai/jobs/info/6989c4f147434001cc67f31f?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 09 |
-| **[360 One Firm (361Firm)](https://361firm.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6989c2424db8972cecfefdc4?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 09 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/693273b7764507023d1aec92?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Feb 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Community Manager](https://jobright.ai/jobs/info/68dfa71d6be63b6ec997238e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 09 |
 | ↳ | **[2026 Intern - Content Strategist](https://jobright.ai/jobs/info/6917fd1fbcdbf3560c9cd678?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Bitcoin Culture Hub](https://bitcoinculturehub.com/)** | **[Video Marketing Intern (Unpaid, Remote)](https://jobright.ai/jobs/info/6988b64f8ca8121a3a6b28f2?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Remote | Feb 08 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Communications Assistant Summer Internship](https://jobright.ai/jobs/info/691841d815b4156367180a00?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69799aa1d7df290257fbf5ae?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Feb 08 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Marketing & Advertising Intern](https://jobright.ai/jobs/info/6988a2218da7a6120463b6a6?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Feb 08 |
 | **[Marshalltown](https://marshalltown.com)** | **[Ecommerce Marketplace Intern](https://jobright.ai/jobs/info/69889adb0f6f7e7a2ce3dc34?utm_campaign=1065&utm_source=git)** | Marshalltown Iowa - Marshalltown, IA 50158 | On Site | Feb 08 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Lysosomal Storage Disorders (LSD) Marketing](https://jobright.ai/jobs/info/6988929d8da7a6120463b131?utm_campaign=1065&utm_source=git)** | San Rafael, CA | Hybrid | Feb 08 |
 | **[EmpiresMedia](http://www.empiresmedia.com)** | **[Marketing Intern (Client Outreach) — Recurring Commission / $5k - $10k/mo Potential (Remote, Commission-Only)](https://jobright.ai/jobs/info/698891260f6f7e7a2ce3d5f7?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
@@ -128,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Saville CPAs & Advisors](https://savillecpa.com/)** | **[Summer 2026 - Marketing Intern](https://jobright.ai/jobs/info/698837558da7a61204635569?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
 | **[JKP](JKPub.com)** | **[Brand Talent Ambassador](https://jobright.ai/jobs/info/698837258ca8121a3a6ac783?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | Remote | Feb 07 |
 | **[Mandarin Zest](https://mandarinzest.com/)** | **[Remote SEO & Copywriting Internship (Chinese / Mandarin Focus)](https://jobright.ai/jobs/info/698837228ca8121a3a6ac77c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 07 |
-| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Marketing Internship in Paris!](https://jobright.ai/jobs/info/698819208ca8121a3a6a9e88?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Feb 07 |
 | **[Penn State Engineering Entrepreneurship](https://wh1325468.ispot.cc/demos/entipsu/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69888c8b0f6f7e7a2ce3d2c1?utm_campaign=1065&utm_source=git)** | University Park, PA | Hybrid | Feb 07 |
 | **[Big Brothers Big Sisters Kansas City](https://www.bbbskc.org)** | **[Fundraising, Sales, and Events Intern](https://jobright.ai/jobs/info/698807ac0f6f7e7a2ce33b75?utm_campaign=1065&utm_source=git)** | Kansas City - Kansas City, MO 64108 | On Site | Feb 07 |
 | **[Warner Bros. Games](https://careers.wbgames.com/studios/san-francisco/)** | **[WB Games Brand & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f8970f6f7e7a2ce3271d?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
