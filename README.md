@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69892a818da7a6120464006b?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 08 |
+| **[snapnbook](https://snapnbook.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6989274c0f6f7e7a2ce426c2?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Feb 08 |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/698924a20f6f7e7a2ce426a1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 08 |
 | **[ABM Industries](http://abm.com)** | **[Recruitment Marketing Intern](https://jobright.ai/jobs/info/698917380f6f7e7a2ce425c8?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | Hybrid | Feb 08 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/6989103a8ca8121a3a6b6c49?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
 | ↳ | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69890f998da7a6120463fe60?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Document Storage Systems](http://dssinc.com)** | **[INTERN, Marketing Automation and Digital Analytics](https://jobright.ai/jobs/info/6988ee158da7a6120463e0c5?utm_campaign=1065&utm_source=git)** | North Palm Beach, FL | On Site | Feb 08 |
 | **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Lead Y Teen Social Engagement Intern](https://jobright.ai/jobs/info/6988ea758da7a6120463de60?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6988e7210f6f7e7a2ce4039f?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
-| **[14th and Co.](https://www.linkedin.com/company/111338344)** | **[Content Specialist](https://jobright.ai/jobs/info/69849c7b0f6f7e7a2cdf11f6?utm_campaign=1065&utm_source=git)** | Northern Virginia, VA | On Site | Feb 08 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69176e85bcdbf3560c9c7a79?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Feb 08 |
 | **[Superior Sports](https://superior-sports.com/)** | **[Creative Services & Branding - Intern](https://jobright.ai/jobs/info/6988d50a0f6f7e7a2ce3fcca?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Remote | Feb 08 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Marketing Intern - Summer '26](https://jobright.ai/jobs/info/6943e09294730b7398770ea0?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Feb 08 |
@@ -83,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6988b9450f6f7e7a2ce3e0a1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Woburn area](https://jobright.ai/jobs/info/69343a0da0dde7020e2f4bc0?utm_campaign=1065&utm_source=git)** | Woburn, MA | On Site | Feb 08 |
 | **[Bitcoin Culture Hub](https://bitcoinculturehub.com/)** | **[Video Marketing Intern (Unpaid, Remote)](https://jobright.ai/jobs/info/6988b64f8ca8121a3a6b28f2?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Remote | Feb 08 |
-| **[InvestBev](https://investbev.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6988b1de0f6f7e7a2ce3dfd6?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Communications Assistant Summer Internship](https://jobright.ai/jobs/info/691841d815b4156367180a00?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69799aa1d7df290257fbf5ae?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Feb 08 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Marketing & Advertising Intern](https://jobright.ai/jobs/info/6988a2218da7a6120463b6a6?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696afd48350cf43803123b23?utm_campaign=1065&utm_source=git)** | Herndon, VA | On Site | Feb 07 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Digital Medical Communications - Summer 2026](https://jobright.ai/jobs/info/6986e2ea8da7a6120461efce?utm_campaign=1065&utm_source=git)** | Cary, NC | Hybrid | Feb 07 |
 | **[Kindling Labs](https://www.linkedin.com/company/111866121)** | **[Growth Intern](https://jobright.ai/jobs/info/6988852c8ca8121a3a6b025f?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Feb 07 |
-| **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/693365bcf131d96e48462d94?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
