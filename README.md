@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6989550c47434001cc677499?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
+| **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Creative Design Intern, Oncology Marketing, Hematology](https://jobright.ai/jobs/info/698954868ca8121a3a6b9a4d?utm_campaign=1065&utm_source=git)** | Boston, KY | Hybrid | Feb 08 |
+| **[JoyMe](http://www.joyme.sg)** | **[Campus Intern / Volunteer — Marketing & AI Creator Program](https://jobright.ai/jobs/info/696621caa112b40266143094?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 08 |
+| **[Nexgen Media](https://nexgenmedia.asia/)** | **[Content Intern (Remote - Part-time)](https://jobright.ai/jobs/info/698945820f6f7e7a2ce448fb?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
+| **[Georgia Association of Broadcasters](http://www.gab.org)** | **[GAB Summer Intern](https://jobright.ai/jobs/info/698941a98da7a612046421f5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | **[Revilo Technologies](www.revilotechnologies.com)** | **[Marketing Intern (US Based Startup)](https://jobright.ai/jobs/info/6989402b8ca8121a3a6b8dc6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Events Marketing Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/698936618da7a61204641bb5?utm_campaign=1065&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 08 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69892a818da7a6120464006b?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 08 |
@@ -108,7 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Penn State Engineering Entrepreneurship](https://wh1325468.ispot.cc/demos/entipsu/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69888c8b0f6f7e7a2ce3d2c1?utm_campaign=1065&utm_source=git)** | University Park, PA | Hybrid | Feb 07 |
 | **[Big Brothers Big Sisters Kansas City](https://www.bbbskc.org)** | **[Fundraising, Sales, and Events Intern](https://jobright.ai/jobs/info/698807ac0f6f7e7a2ce33b75?utm_campaign=1065&utm_source=git)** | Kansas City - Kansas City, MO 64108 | On Site | Feb 07 |
 | **[Warner Bros. Games](https://careers.wbgames.com/studios/san-francisco/)** | **[WB Games Brand & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f8970f6f7e7a2ce3271d?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
-| ↳ | **[WB Games Social Media Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f5bc8ca8121a3a6a6a62?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
+| **[WD WIAN Test Company Page](https://www.linkedin.com/company/111537035)** | **[Intern - Multiple openings](https://jobright.ai/jobs/info/69894ffc8ca8121a3a6b9232?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 07 |
+| **[Warner Bros. Games](https://careers.wbgames.com/studios/san-francisco/)** | **[WB Games Social Media Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f5bc8ca8121a3a6a6a62?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | ↳ | **[WB Games Brand Management & Product Marketing Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f58a8ca8121a3a6a6a5a?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | ↳ | **[WB Games Integrated Communications Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987f5198da7a6120462f6ea?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
 | **[printpal](https://printpal.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6987d4498ca8121a3a6a4aca?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/69875ede0f6f7e7a2ce2a20b?utm_campaign=1065&utm_source=git)** | Maple Grove, MN | Hybrid | Feb 07 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/6959e511f1f8465b79f03b7a?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Feb 07 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Partnerships & Public Relations Assistant Intern](https://jobright.ai/jobs/info/698754b50f6f7e7a2ce29b51?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Feb 07 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Merchandising](https://jobright.ai/jobs/info/69336f64f131d96e484634ca?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 07 |
-| ↳ | **[Intern, Deployment and Itinerary Planning](https://jobright.ai/jobs/info/693364b4a0dde7020e2ed62c?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
-| **[NetApp](http://netapp.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/698784d28ca8121a3a6a10b1?utm_campaign=1065&utm_source=git)** | Morrisville, NC | Hybrid | Feb 07 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern -Brand Management](https://jobright.ai/jobs/info/6988a49b8ca8121a3a6b2662?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 07 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68c02860702aa35207aaafb5?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
-| **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696afd48350cf43803123b23?utm_campaign=1065&utm_source=git)** | Herndon, VA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
