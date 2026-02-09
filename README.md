@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Community Manager](https://jobright.ai/jobs/info/68dfa71d6be63b6ec997238e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 09 |
+| ↳ | **[2026 Intern - Content Strategist](https://jobright.ai/jobs/info/6917fd1fbcdbf3560c9cd678?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
+| **[MV Ventures](https://www.explorevikinglakes.com)** | **[Training Camp Fan Engagement Intern](https://jobright.ai/jobs/info/6989a77b47434001cc67c6d4?utm_campaign=1065&utm_source=git)** | Eagan, MN, US | On Site | Feb 09 |
+| **[Colorado Department of Public Health and Environment](https://www.colorado.gov/cdphe)** | **[Internship - Marketing and Communication Specialist.](https://jobright.ai/jobs/info/69899ec247434001cc67c0f0?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 09 |
+| **[Headfirst Summer Camps](https://www.headfirst.com/join/summer-camps/)** | **[Digital Marketing, Blogging & Social Media Intern - MD](https://jobright.ai/jobs/info/69899bbc47434001cc67c069?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Feb 09 |
+| ↳ | **[Digital Marketing, Blogging & Social Media Intern - FH](https://jobright.ai/jobs/info/69899a1a0f6f7e7a2ce49d46?utm_campaign=1065&utm_source=git)** | Oakton, VA | On Site | Feb 09 |
+| **[Colorado Department of Revenue](https://dmv.colorado.gov)** | **[Internship - Marketing and Communication Specialist](https://jobright.ai/jobs/info/698999d447434001cc67bf10?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 09 |
+| **[AROBIT](http://www.arobit.com)** | **[PR Intern](https://jobright.ai/jobs/info/698996b20f6f7e7a2ce49c55?utm_campaign=1065&utm_source=git)** | SLC Metro Area | On Site | Feb 09 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Social Media Internship](https://jobright.ai/jobs/info/698977ca8ca8121a3a6bd4a2?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 08 |
 | **[Momentic Studios](https://momenticstudios.com)** | **[STRONG Pilates- Fitness Content Marketing Intern](https://jobright.ai/jobs/info/697bf3da0b88cc7d6422df3f?utm_campaign=1065&utm_source=git)** | Dallas, Texas | Hybrid | Feb 08 |
 | **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6989550c47434001cc677499?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
 | **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Creative Design Intern, Oncology Marketing, Hematology](https://jobright.ai/jobs/info/698954868ca8121a3a6b9a4d?utm_campaign=1065&utm_source=git)** | Boston, KY | Hybrid | Feb 08 |
 | **[JoyMe](http://www.joyme.sg)** | **[Campus Intern / Volunteer — Marketing & AI Creator Program](https://jobright.ai/jobs/info/696621caa112b40266143094?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 08 |
 | **[Georgia Association of Broadcasters](http://www.gab.org)** | **[GAB Summer Intern](https://jobright.ai/jobs/info/698941a98da7a612046421f5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
-| **[Revilo Technologies](www.revilotechnologies.com)** | **[Marketing Intern (US Based Startup)](https://jobright.ai/jobs/info/6989402b8ca8121a3a6b8dc6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Events Marketing Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/698936618da7a61204641bb5?utm_campaign=1065&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 08 |
 | **[Arrow Financial Corporation](http://www.arrowfinancial.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698988228ca8121a3a6bdcd3?utm_campaign=1065&utm_source=git)** | Glens Falls, NY | On Site | Feb 08 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69892a818da7a6120464006b?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Copywriter](https://jobright.ai/jobs/info/69337ac0764507023d1b621c?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
 | ↳ | **[Intern, Paid Media](https://jobright.ai/jobs/info/6933616ba0dde7020e2ed36f?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
 | ↳ | **[Intern, Market Planning](https://jobright.ai/jobs/info/693371e7764507023d1b5bc1?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
-| **[Ipsos in US](http://ipsos-na.com)** | **[Summer Associate - Intern, Strategy3](https://jobright.ai/jobs/info/696b0752350cf438031247b7?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
-| **[SNY](https://www.sny.tv/)** | **[Social Media Intern](https://jobright.ai/jobs/info/698770a28ca8121a3a69f4a4?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Feb 07 |
-| **[Texell Credit Union](http://texell.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69876e318da7a61204627f61?utm_campaign=1065&utm_source=git)** | Temple Headquarters - Temple, TX 76502 | On Site | Feb 07 |
-| **[BD](https://www.bd.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/69876bb60f6f7e7a2ce2a81e?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 07 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, US Marketing (MBA/Graduate Candidate)](https://jobright.ai/jobs/info/698768270f6f7e7a2ce2a653?utm_campaign=1065&utm_source=git)** | San Rafael, CA | Hybrid | Feb 07 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/69875ede0f6f7e7a2ce2a20b?utm_campaign=1065&utm_source=git)** | Maple Grove, MN | Hybrid | Feb 07 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/6959e511f1f8465b79f03b7a?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
