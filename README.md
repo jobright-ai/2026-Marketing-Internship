@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/6989103a8ca8121a3a6b6c49?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
+| ↳ | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69890f998da7a6120463fe60?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
+| **[Momentic Studios](https://momenticstudios.com)** | **[STRONG Pilates- Fitness Content Marketing Intern](https://jobright.ai/jobs/info/698135deabff4c399aa01d26?utm_campaign=1065&utm_source=git)** | West Hollywood, California | Hybrid | Feb 08 |
 | **[Swift7 Consultants](https://www.swift7consultants.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6988fe308da7a6120463f997?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Feb 08 |
 | **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6988fb178da7a6120463f0c1?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
 | **[PIADA ITALIAN STREET FOOD](http://www.mypiada.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6988f7168ca8121a3a6b5841?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kindling Labs](https://www.linkedin.com/company/111866121)** | **[Growth Intern](https://jobright.ai/jobs/info/6988852c8ca8121a3a6b025f?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Feb 07 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/693365bcf131d96e48462d94?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Feb 07 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing and Sales (Growth) Intern](https://jobright.ai/jobs/info/698766610f6f7e7a2ce2a53a?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 07 |
-| **[Rural King](https://www.ruralking.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68eb5d1a8369791ef7826604?utm_campaign=1065&utm_source=git)** | Mattoon, IL | On Site | Feb 07 |
-| **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68fa84a6edd190144238d898?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Feb 07 |
-| **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad618db26b618950e2b25?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
