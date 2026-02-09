@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABM Industries](http://abm.com)** | **[Recruitment Marketing Intern](https://jobright.ai/jobs/info/698917380f6f7e7a2ce425c8?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | Hybrid | Feb 08 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/6989103a8ca8121a3a6b6c49?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
 | ↳ | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69890f998da7a6120463fe60?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Momentic Studios](https://momenticstudios.com)** | **[STRONG Pilates- Fitness Content Marketing Intern](https://jobright.ai/jobs/info/698135deabff4c399aa01d26?utm_campaign=1065&utm_source=git)** | West Hollywood, California | Hybrid | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Digital Medical Communications - Summer 2026](https://jobright.ai/jobs/info/6986e2ea8da7a6120461efce?utm_campaign=1065&utm_source=git)** | Cary, NC | Hybrid | Feb 07 |
 | **[Kindling Labs](https://www.linkedin.com/company/111866121)** | **[Growth Intern](https://jobright.ai/jobs/info/6988852c8ca8121a3a6b025f?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Feb 07 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/693365bcf131d96e48462d94?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Feb 07 |
-| **[Starbeam](www.starbeam.org)** | **[Marketing and Sales (Growth) Intern](https://jobright.ai/jobs/info/698766610f6f7e7a2ce2a53a?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
