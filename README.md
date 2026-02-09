@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Georgia Association of Broadcasters](http://www.gab.org)** | **[GAB Summer Intern](https://jobright.ai/jobs/info/698941a98da7a612046421f5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | **[Revilo Technologies](www.revilotechnologies.com)** | **[Marketing Intern (US Based Startup)](https://jobright.ai/jobs/info/6989402b8ca8121a3a6b8dc6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Events Marketing Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/698936618da7a61204641bb5?utm_campaign=1065&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 08 |
+| **[Arrow Financial Corporation](http://www.arrowfinancial.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698988228ca8121a3a6bdcd3?utm_campaign=1065&utm_source=git)** | Glens Falls, NY | On Site | Feb 08 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69892a818da7a6120464006b?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 08 |
 | **[snapnbook](https://snapnbook.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6989274c0f6f7e7a2ce426c2?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Feb 08 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/698924a20f6f7e7a2ce426a1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, US Marketing (MBA/Graduate Candidate)](https://jobright.ai/jobs/info/698768270f6f7e7a2ce2a653?utm_campaign=1065&utm_source=git)** | San Rafael, CA | Hybrid | Feb 07 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/69875ede0f6f7e7a2ce2a20b?utm_campaign=1065&utm_source=git)** | Maple Grove, MN | Hybrid | Feb 07 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/6959e511f1f8465b79f03b7a?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Feb 07 |
-| **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Partnerships & Public Relations Assistant Intern](https://jobright.ai/jobs/info/698754b50f6f7e7a2ce29b51?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
