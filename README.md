@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Social Media Internship](https://jobright.ai/jobs/info/698977ca8ca8121a3a6bd4a2?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 08 |
 | **[Momentic Studios](https://momenticstudios.com)** | **[STRONG Pilates- Fitness Content Marketing Intern](https://jobright.ai/jobs/info/697bf3da0b88cc7d6422df3f?utm_campaign=1065&utm_source=git)** | Dallas, Texas | Hybrid | Feb 08 |
 | **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6989550c47434001cc677499?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 08 |
 | **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Creative Design Intern, Oncology Marketing, Hematology](https://jobright.ai/jobs/info/698954868ca8121a3a6b9a4d?utm_campaign=1065&utm_source=git)** | Boston, KY | Hybrid | Feb 08 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Paid Media](https://jobright.ai/jobs/info/6933616ba0dde7020e2ed36f?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
 | ↳ | **[Intern, Market Planning](https://jobright.ai/jobs/info/693371e7764507023d1b5bc1?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Summer Associate - Intern, Strategy3](https://jobright.ai/jobs/info/696b0752350cf438031247b7?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
-| **[LoveLane](https://www.lovelane.co)** | **[Social media content creator - app start-up (unpaid) - remote US](https://jobright.ai/jobs/info/69877fae8da7a6120462999f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 07 |
 | **[SNY](https://www.sny.tv/)** | **[Social Media Intern](https://jobright.ai/jobs/info/698770a28ca8121a3a69f4a4?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Feb 07 |
 | **[Texell Credit Union](http://texell.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69876e318da7a61204627f61?utm_campaign=1065&utm_source=git)** | Temple Headquarters - Temple, TX 76502 | On Site | Feb 07 |
 | **[BD](https://www.bd.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/69876bb60f6f7e7a2ce2a81e?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 07 |
