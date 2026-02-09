@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Backlinkgen](https://backlinkgen.com)** | **[Online-Marketing - Internship - Work](https://jobright.ai/jobs/info/6989c6ff4db8972cecff032e?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Feb 09 |
+| **[APCO](http://www.apcoworldwide.com)** | **[West Coast - Corporate Reputation Communications Internship - Summer/Fall '26](https://jobright.ai/jobs/info/6989d4840f6f7e7a2ce4da87?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 09 |
+| ↳ | **[Corporate Reputation Communications Internship - Summer/Fall '26](https://jobright.ai/jobs/info/6989d35e47434001cc67fb7f?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Feb 09 |
+| ↳ | **[Marketing Internship - Summer/Fall '26](https://jobright.ai/jobs/info/6989d35c0f6f7e7a2ce4da26?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | **[State of Colorado](http://www.colorado.gov)** | **[Internship - Marketing and Communication Specialist](https://jobright.ai/jobs/info/6989c4f147434001cc67f31f?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 09 |
 | **[360 One Firm (361Firm)](https://361firm.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6989c2424db8972cecfefdc4?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 09 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/693273b7764507023d1aec92?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Feb 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Direct Supply](http://www.directsupply.com)** | **[Community Involvement Intern](https://jobright.ai/jobs/info/6960fff0a112b402660f8834?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 07 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Strategic Marketing Intern (MBA Level)](https://jobright.ai/jobs/info/691a95d945fb6f5ead8ac227?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 07 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Copywriter](https://jobright.ai/jobs/info/69337ac0764507023d1b621c?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
-| ↳ | **[Intern, Paid Media](https://jobright.ai/jobs/info/6933616ba0dde7020e2ed36f?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
-| ↳ | **[Intern, Market Planning](https://jobright.ai/jobs/info/693371e7764507023d1b5bc1?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
