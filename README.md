@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capacity](http://www.capacityllc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698ad0280f6f7e7a2ce628e2?utm_campaign=1065&utm_source=git)** | North Brunswick, NJ | On Site | Feb 09 |
+| **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Communications Specialist](https://jobright.ai/jobs/info/698acfdd0f6f7e7a2ce628bb?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 09 |
+| **[Docusign](http://www.docusign.com)** | **[Growth Organization Intern - Lifecycle Marketing](https://jobright.ai/jobs/info/698acf170f6f7e7a2ce62858?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 09 |
+| **[On Cue Social](https://www.linkedin.com/company/111819263)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/698acc710f6f7e7a2ce61fd1?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | Remote | Feb 09 |
+| **[Artingle](www.artingle.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/698ac6120f6f7e7a2ce6181b?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Feb 09 |
+| **[Intuit](https://www.intuit.com)** | **[Summer 2026: Marketing Technology & Data Activation Co-op (4 months)](https://jobright.ai/jobs/info/698ac42f0f6f7e7a2ce61796?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 09 |
+| **[Neighbor](https://www.neighbor.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/698ac336c5761b521a9a292b?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Feb 09 |
+| **[Heartflow](https://www.heartflow.com)** | **[Summer Intern (Strategic Initiatives)](https://jobright.ai/jobs/info/698ac2d0c5761b521a9a286d?utm_campaign=1065&utm_source=git)** | Rohnert Park, California | On Site | Feb 09 |
+| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Video Editing Internship – Social Media Ads & Sales Videos (USA ONLY)](https://jobright.ai/jobs/info/698ac250c5761b521a9a26ea?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 09 |
 | **[CUPSHE](https://www.cupshe.com/)** | **[Social Media and Influencer Marketing Intern](https://jobright.ai/jobs/info/698ab8a64db8972cec001e4e?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Feb 09 |
-| **[Neighbor](https://www.neighbor.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/698ab7200f6f7e7a2ce5f6e0?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Feb 09 |
-| ↳ | **[Growth Marketing Intern](https://jobright.ai/jobs/info/698ab67a4db8972cec001ca9?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Feb 09 |
+| **[Neighbor](https://www.neighbor.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/698ab67a4db8972cec001ca9?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Feb 09 |
 | **[Park My Ride, LLC](http://parkmyride.io)** | **[SEO (Wordpress Specialist) - Internship (USA ONLY)](https://jobright.ai/jobs/info/698ab5744db8972cec001b93?utm_campaign=1065&utm_source=git)** | SD Metro Area | Remote | Feb 09 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Culture, Communications and Marketing Student](https://jobright.ai/jobs/info/6986c41f0f6f7e7a2ce1e7ea?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Remote | Feb 09 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69762dc537785856350feae6?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 09 |
@@ -146,15 +154,7 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - The Friend Digital Messaging (Church Magazines)](https://jobright.ai/jobs/info/698aa0a30f6f7e7a2ce5d394?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Feb 09 |
 | **[Visit Detroit](https://visitdetroit.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/698aa9000f6f7e7a2ce5deb1?utm_campaign=1065&utm_source=git)** | Detroit Main Office, Detroit, MI, US | On Site | Feb 09 |
 | **[Ad Council](http://adcouncil.org/)** | **[Brand & Events Intern](https://jobright.ai/jobs/info/698a7bb0c5761b521a99b635?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 09 |
-| **[AIRE](https://growwithaire.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/698aab250f6f7e7a2ce5e13d?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Feb 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern – Youth Social Media (Strive to Be) Content Creator](https://jobright.ai/jobs/info/698a79b84db8972cecffcbdd?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Feb 09 |
 | **[Museum of Fine Arts, Houston](https://www.mfah.org)** | **[Undergraduate Intern, Marketing](https://jobright.ai/jobs/info/698aa004c5761b521a99e6aa?utm_campaign=1065&utm_source=git)** | Houston, Texas, United States | On Site | Feb 09 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Public Relations & Brand Social Media](https://jobright.ai/jobs/info/698a97d1c5761b521a99dd13?utm_campaign=1065&utm_source=git)** | Melville, NY, US | Hybrid | Feb 09 |
-| **[Ad Council](http://adcouncil.org/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/698a76b30f6f7e7a2ce59de6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 09 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Campaign Finance Intern (Volunteer)](https://jobright.ai/jobs/info/698a76374db8972cecffc964?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Hybrid | Feb 09 |
-| **[Docusign](http://www.docusign.com)** | **[Growth Organization Intern - Lifecycle Marketing](https://jobright.ai/jobs/info/698a9f9ec5761b521a99e640?utm_campaign=1065&utm_source=git)** | US-CA-San Francisco | Hybrid | Feb 09 |
-| ↳ | **[Growth Organization Intern - Lifecycle Marketing](https://jobright.ai/jobs/info/698a940c0f6f7e7a2ce5c6e0?utm_campaign=1065&utm_source=git)** | San Francisco, CA, US | Hybrid | Feb 09 |
-| **[Almac Group](https://www.almacgroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698a7603c5761b521a99b067?utm_campaign=1065&utm_source=git)** | Souderton, PA | On Site | Feb 09 |
-| **[Capacity](http://www.capacityllc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698aa9d44db8972cec00063b?utm_campaign=1065&utm_source=git)** | North Brunswick, NJ 08902, USA | On Site | Feb 09 |
-| **[Continental Properties](http://www.cproperties.com/)** | **[Paid Summer Marketing Intern](https://jobright.ai/jobs/info/698a75550f6f7e7a2ce59c66?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
