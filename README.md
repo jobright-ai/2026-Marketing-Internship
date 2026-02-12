@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[New York Eye Care Event Planning, Marketing, & Communications Summer 2026 Intern](https://jobright.ai/jobs/info/698d4ed8f64d441a164f5f81?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 11 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Student - Advancement Marketing Social Media Internship](https://jobright.ai/jobs/info/698d5545f64d441a164f6917?utm_campaign=1065&utm_source=git)** | Auburn, AL | On Site | Feb 11 |
+| **[Talbots](http://www.talbots.com)** | **[Intern: Merchandising - Core - Summer 2026](https://jobright.ai/jobs/info/695dcf66403df63191d5bb47?utm_campaign=1065&utm_source=git)** | Hingham, MA | On Site | Feb 11 |
+| **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/698d50ac78b4502f12a3f758?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Feb 11 |
+| **[Bayshore HealthCare](http://www.bayshore.ca)** | **[Marketing Intern](https://jobright.ai/jobs/info/698d50a5f64d441a164f620d?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 11 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Digital Marketing Intern - Auburn Advancement](https://jobright.ai/jobs/info/698d4d7ff64d441a164f5da8?utm_campaign=1065&utm_source=git)** | Auburn, AL | On Site | Feb 11 |
 | **[Travlab LLC](http://www.travlab.co/)** | **[Communication & Public Relations Marketing Intern](https://jobright.ai/jobs/info/698d4d7078b4502f12a3f2ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 11 |
 | **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[eCommerce Intern](https://jobright.ai/jobs/info/698d4d2378b4502f12a3f248?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Feb 11 |
@@ -71,13 +76,18 @@ For a complete list, click the following sortable link below:
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Partnerships & Public Relations Assistant Intern](https://jobright.ai/jobs/info/698d3f1178b4502f12a3d88b?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Feb 11 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/698d3dc1f64d441a164f427d?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 11 |
 | **[KRAFZEN](krafzeninc.com)** | **[Digital Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/698d376678b4502f12a3ce62?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 11 |
+| **[PCL Construction](http://www.pcl.com)** | **[Multimedia Marketing Intern](https://jobright.ai/jobs/info/698d537578b4502f12a3fbc3?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Feb 11 |
 | **[Godfrey Dadich Partners](https://www.godfreydadich.com/)** | **[Brand Strategy Intern [Summer]](https://jobright.ai/jobs/info/698d34b50f6f7e7a2ce8fe67?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 11 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/698d30e60f6f7e7a2ce8f852?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Feb 11 |
 | **[Okta](http://www.okta.com)** | **[Paid Media Intern (Summer 2026)](https://jobright.ai/jobs/info/698d2e2278b4502f12a3bf0a?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 11 |
+| **[Little Rock Rangers Soccer Club](http://littlerockrangers.com/)** | **[Intern Social Media Manager](https://jobright.ai/jobs/info/698d4ec7f64d441a164f5f5d?utm_campaign=1065&utm_source=git)** | Little Rock, AR | On Site | Feb 11 |
+| ↳ | **[Intern – Media & Communications](https://jobright.ai/jobs/info/698d50150f6f7e7a2ce92723?utm_campaign=1065&utm_source=git)** | Little Rock, AR | On Site | Feb 11 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Influencer Marketing](https://jobright.ai/jobs/info/6971502a51f7264771839b04?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
+| **[Dimensional Innovations](https://www.dimin.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698d524978b4502f12a3f9cf?utm_campaign=1065&utm_source=git)** | Shawnee, KS | On Site | Feb 11 |
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Creative/Digital Summer Internship 2026](https://jobright.ai/jobs/info/698d1369f64d441a164ef7c1?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Feb 11 |
 | **[CG Life](https://www.cglife.com/)** | **[Strategic Communications Group Internship - Summer 2026](https://jobright.ai/jobs/info/6984eca78da7a612045f36c9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/698d28e8f64d441a164f1ce8?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Feb 11 |
+| **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[eCommerce Intern](https://jobright.ai/jobs/info/698d52eb78b4502f12a3fadb?utm_campaign=1065&utm_source=git)** | Carlsbad, California | On Site | Feb 11 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/698d25a578b4502f12a3af8d?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/69710e25587dfa0bb55ea153?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 11 |
 | **[Donor Network of Arizona](http://www.dnaz.org)** | **[Paid Community Engagement & Communications Intern (Bilingual Preferred)](https://jobright.ai/jobs/info/698d48c7f64d441a164f4fba?utm_campaign=1065&utm_source=git)** | 2010 W Rio Salado Pkwy, Tempe, Arizona, United States | On Site | Feb 11 |
@@ -88,6 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Paid Media Intern (Summer 2026)](https://jobright.ai/jobs/info/698d1b2b0f6f7e7a2ce8d520?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
 | **[South Carolina Department of Agriculture](https://agriculture.sc.gov)** | **[Summer Internship Opportunities - Marketing - Paid](https://jobright.ai/jobs/info/698d1a8d0f6f7e7a2ce8d3e4?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Feb 11 |
 | **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/698d497b0f6f7e7a2ce91dd4?utm_campaign=1065&utm_source=git)** | Carlsbad, California | On Site | Feb 11 |
+| **[Pinnacle Marketing Group](https://pinnaclemgp.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698d4f470f6f7e7a2ce92617?utm_campaign=1065&utm_source=git)** | Bemidji, MN, USA | On Site | Feb 11 |
+| **[Catawba Riverkeeper](http://www.CatawbaRiverkeeper.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/698d5383f64d441a164f6651?utm_campaign=1065&utm_source=git)** | Cramerton,NC,US | On Site | Feb 11 |
+| **[Onton](https://onton.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/698d5117f64d441a164f62b9?utm_campaign=1065&utm_source=git)** | San Francisco | Hybrid | Feb 11 |
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/69711a7351f7264771835417?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Feb 11 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Kwikset Product Marketing Intern](https://jobright.ai/jobs/info/698d13c4f64d441a164ef855?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 11 |
 | ↳ | **[Marketing Insights Intern](https://jobright.ai/jobs/info/698d1357f64d441a164ef795?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 11 |
@@ -125,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Marketing Data Intern](https://jobright.ai/jobs/info/698d1d61f64d441a164f0ad5?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Feb 11 |
 | **[Johns Creek Mortgage, LLC NMLS ID #2320634](http://www.johnscreekmortgage.com)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/698d0df678b4502f12a38616?utm_campaign=1065&utm_source=git)** | Johns Creek, GA | On Site | Feb 11 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Market Research Intern - Summer 2026 Application](https://jobright.ai/jobs/info/691c946bbcdbf3560c9e803e?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
-| **[High Tech Pet](http://www.hitecpet.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/698d200ff64d441a164f10ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 11 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, COMMUNICATIONS & PUBLIC RELATIONS](https://jobright.ai/jobs/info/698d21fff64d441a164f14a7?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 11 |
 | **[Montante Solar](https://www.montantesolar.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/698d0e8c0f6f7e7a2ce8c0dd?utm_campaign=1065&utm_source=git)** | Tonawanda, NY | On Site | Feb 11 |
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/69711a73333b6343a14d905f?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Feb 11 |
@@ -141,20 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698d178ff64d441a164eff83?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Feb 11 |
 | **[Realty Operations Group](https://www.realtyoperations.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698d1043f64d441a164ef1de?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Feb 11 |
 | **[22squared](http://www.22squared.com)** | **[Media Internship](https://jobright.ai/jobs/info/698ce47a78b4502f12a35bdc?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Feb 11 |
-| **[Haymarket Media US](http://www.haymarket.com)** | **[Marketing and Audience Development Intern](https://jobright.ai/jobs/info/698d0ac778b4502f12a38047?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
-| ↳ | **[SEO Content Intern](https://jobright.ai/jobs/info/698d18d40f6f7e7a2ce8d0cf?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
-| ↳ | **[Marketing Intern - Campaign Performance - Medical Communications](https://jobright.ai/jobs/info/698d26440f6f7e7a2ce8e9ed?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
-| ↳ | **[Editorial Intern, Oncology Brands, Medical Communications Group](https://jobright.ai/jobs/info/698d39b1f64d441a164f38c2?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
-| ↳ | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/698d419078b4502f12a3dba8?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
+| **[Haymarket Media US](http://www.haymarket.com)** | **[Editorial Intern, Oncology Brands, Medical Communications Group](https://jobright.ai/jobs/info/698d39b1f64d441a164f38c2?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
+| ↳ | **[Marketing and Audience Development Intern](https://jobright.ai/jobs/info/698d0ac778b4502f12a38047?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
 | ↳ | **[Audience Segmentation Intern](https://jobright.ai/jobs/info/698d112af64d441a164ef396?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
-| ↳ | **[Media Strategy Intern](https://jobright.ai/jobs/info/698d17900f6f7e7a2ce8ce6f?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
-| ↳ | **[PRWeek Editorial Intern](https://jobright.ai/jobs/info/698d25180f6f7e7a2ce8e7bd?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
-| **[Per Scholas](http://www.perscholas.org/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/698d12b278b4502f12a38f91?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 11 |
-| **[Shipley Energy](http://www.shipleyenergy.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/698d088178b4502f12a37ba4?utm_campaign=1065&utm_source=git)** | York, PA | Hybrid | Feb 11 |
-| **[VEIC](https://www.veic.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/698d15c278b4502f12a395a4?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 11 |
-| **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Media & Sponsorships](https://jobright.ai/jobs/info/698d0b3d0f6f7e7a2ce8bc88?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Feb 11 |
-| **[Keen Social](https://www.keensocial.com)** | **[Marketing & Copywriting Internship (Cal State LB Students Preferred)](https://jobright.ai/jobs/info/698d11850f6f7e7a2ce8c4e6?utm_campaign=1065&utm_source=git)** | Long Beach, CA | Hybrid | Feb 11 |
-| **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Sales & Product Merchandising Intern](https://jobright.ai/jobs/info/698d189d78b4502f12a39bb9?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Feb 11 |
-| **[University Partners](http://www.universitypartners.com)** | **[Marketing & Sales Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/698ce07a0f6f7e7a2ce892c1?utm_campaign=1065&utm_source=git)** | Morado, Fort Worth, TX | On Site | Feb 11 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698d13be0f6f7e7a2ce8c930?utm_campaign=1065&utm_source=git)** | Tysons Corner, VA | On Site | Feb 11 |
+| ↳ | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/698d419078b4502f12a3dba8?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
