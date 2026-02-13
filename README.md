@@ -57,13 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crosswind Gyms](https://www.crosswindgyms.com/)** | **[Outreach Intern](https://jobright.ai/jobs/info/698f2f7f0cc8ea15f1d9a1f5?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Media](https://jobright.ai/jobs/info/698f2ee60f6f7e7a2ceb4736?utm_campaign=1065&utm_source=git)** | US-MI-Birmingham | Hybrid | Feb 13 |
+| ↳ | **[Associate Media Intern](https://jobright.ai/jobs/info/698f2e020f6f7e7a2ceb455e?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
+| **[Zeno Group](http://www.zenogroup.com)** | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972f8ce1790715e866be6ab?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Corporate Marketing](https://jobright.ai/jobs/info/698f2c970f6f7e7a2ceb4295?utm_campaign=1065&utm_source=git)** | US-NY-New York | Hybrid | Feb 13 |
+| ↳ | **[Associate Media Intern](https://jobright.ai/jobs/info/698f2b850f6f7e7a2ceb406c?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/697ff1edabff4c399a9e9bba?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern - Copywriting](https://jobright.ai/jobs/info/698f29320f6f7e7a2ceb3bae?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 13 |
 | ↳ | **[Associate Copywriter Intern](https://jobright.ai/jobs/info/698f28d40f6f7e7a2ceb3ae7?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
 | ↳ | **[Associate Media Intern](https://jobright.ai/jobs/info/698f27280f6f7e7a2ceb3792?utm_campaign=1065&utm_source=git)** | US-CA-San Francisco | On Site | Feb 13 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Travel Industry Marketing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698b1eea0f6f7e7a2ce66bbb?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Feb 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Data Science and Analytics](https://jobright.ai/jobs/info/698f34a76ea51a7610f173d7?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
+| ↳ | **[Associate Social Strategist Intern](https://jobright.ai/jobs/info/698f33f36ea51a7610f17313?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
+| ↳ | **[Intern - Copywriting](https://jobright.ai/jobs/info/698f35210cc8ea15f1d9a6ed?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 13 |
+| ↳ | **[Intern, Social Content & Engagement Strategy](https://jobright.ai/jobs/info/698f35426ea51a7610f174c4?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 13 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Marketing Strategy Intern](https://jobright.ai/jobs/info/6986c5928ca8121a3a6937b0?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 13 |
-| **[Zeno Group](http://www.zenogroup.com)** | **[Digital Summer Intern](https://jobright.ai/jobs/info/6972ff52206da320f49cf481?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
-| ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972ff6c206da320f49cf497?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
-| ↳ | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972fb2a206da320f49cf0a3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 13 |
+| **[Zeno Group](http://www.zenogroup.com)** | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972ff6c206da320f49cf497?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
+| ↳ | **[Digital Summer Intern](https://jobright.ai/jobs/info/6972ff52206da320f49cf481?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
+| **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698f2db46ea51a7610f16c58?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 13 |
+| **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Event Planning Internship, Christkindlmarket Chicago (Start date Spring/Summer 2026)](https://jobright.ai/jobs/info/698f31f60f6f7e7a2ceb4c93?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
+| ↳ | **[Event Marketing Internship, Christkindlmarket Chicago 2026 (Start Date Spring/Summer 2026)](https://jobright.ai/jobs/info/698f35596ea51a7610f174e7?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
+| **[Zeno Group](http://www.zenogroup.com)** | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972fb2a206da320f49cf0a3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 13 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Commercial](https://jobright.ai/jobs/info/6972ff071790715e866beb1e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 13 |
 | **[AARP](http://www.aarp.org)** | **[Communications Intern (Late Spring/Summer)](https://jobright.ai/jobs/info/6972c8f14ccbf64f8df2d388?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | **[MyyShop](http://www.myyshop.com/?f=sns)** | **[Social Media Intern](https://jobright.ai/jobs/info/698f200b0cc8ea15f1d98463?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Feb 13 |
@@ -81,11 +96,9 @@ For a complete list, click the following sortable link below:
 | **[Flex](https://flex.com)** | **[Marketing & Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/698efb4578b4502f12a5c69f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 12 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972fb61694e99351d144178?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[Hightower Advisors](https://thrushgroup.hightoweradvisors.com/)** | **[Marketing Intern - Private Vista](https://jobright.ai/jobs/info/6972eb2f98522904c697bcb9?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 12 |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Business and Marketing Internship](https://jobright.ai/jobs/info/698eb6bc78b4502f12a59595?utm_campaign=1065&utm_source=git)** | Lebanon, NH | On Site | Feb 12 |
 | **[ABB](https://global.abb/group/en)** | **[Market Development Intern - Spring 2026](https://jobright.ai/jobs/info/69895b6447434001cc677ad6?utm_campaign=1065&utm_source=git)** | Cary, NC | Remote | Feb 12 |
 | **[Lam Research](http://www.lamresearch.com)** | **[Product Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/698ad2174db8972cec005152?utm_campaign=1065&utm_source=git)** | Fremont, CA | Hybrid | Feb 12 |
-| **[Zeno Group](http://www.zenogroup.com)** | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972fdc9206da320f49cf312?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
-| ↳ | **[Earned Media Summer Intern](https://jobright.ai/jobs/info/69730c64206da320f49d13f9?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 12 |
+| **[Zeno Group](http://www.zenogroup.com)** | **[Earned Media Summer Intern](https://jobright.ai/jobs/info/69730c64206da320f49d13f9?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 12 |
 | **[Legends Global](http://legends.net)** | **[Event Services Intern](https://jobright.ai/jobs/info/698ed24478b4502f12a5aa99?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 12 |
 | **[Wavetronix](http://www.wavetronix.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698ef46f0f6f7e7a2ceb0c1f?utm_campaign=1065&utm_source=git)** | Springville, UT | On Site | Feb 12 |
 | **[Ovative Group](http://www.ovative.com)** | **[Summer 2026 Internship - Digital Marketing & Analytics](https://jobright.ai/jobs/info/6972e78298522904c697ba40?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
@@ -126,9 +139,9 @@ For a complete list, click the following sortable link below:
 | **[AMSOIL INC.](http://amsoil.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/698ea8ef78b4502f12a5814d?utm_campaign=1065&utm_source=git)** | 1101 Susquehanna Ave, Superior, WI 54880, USA | On Site | Feb 12 |
 | **[Alkermes](http://www.alkermes.com)** | **[Intern, LYBALVI Brand Marketing](https://jobright.ai/jobs/info/698e9f420f6f7e7a2ceabc8f?utm_campaign=1065&utm_source=git)** | Greater Boston | Hybrid | Feb 12 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Growth](https://jobright.ai/jobs/info/698e743d78b4502f12a54455?utm_campaign=1065&utm_source=git)** | 95 Morton St, New York, NY, 10014, US | On Site | Feb 12 |
-| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[BSG Merchandising Intern](https://jobright.ai/jobs/info/698ea1c478b4502f12a57b4f?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 12 |
+| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Merchandising Intern - Happy Beauty Co.](https://jobright.ai/jobs/info/698e977678b4502f12a57100?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 12 |
 | ↳ | **[Sally Merchandising Intern](https://jobright.ai/jobs/info/698e908ff64d441a1650d9ea?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 12 |
-| ↳ | **[Merchandising Intern - Happy Beauty Co.](https://jobright.ai/jobs/info/698e977678b4502f12a57100?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 12 |
+| ↳ | **[BSG Merchandising Intern](https://jobright.ai/jobs/info/698ea1c478b4502f12a57b4f?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 12 |
 | **[Mesquite Entertainment](https://playmesquite.com/)** | **[DIGITAL MARKETING INTERN - CB & VR - PART-TIME - VARIED SHIFT](https://jobright.ai/jobs/info/698e73e00f6f7e7a2cea8891?utm_campaign=1065&utm_source=git)** | Mesquite, NV | On Site | Feb 12 |
 | **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[BSG Merchandising Intern](https://jobright.ai/jobs/info/698e93c20f6f7e7a2ceab385?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 12 |
 | ↳ | **[Sally Merchandising Intern](https://jobright.ai/jobs/info/698ea322f64d441a1650eba1?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 12 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/698ea30678b4502f12a57cbc?utm_campaign=1065&utm_source=git)** | Prescott, AZ | On Site | Feb 12 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Communications Product Marketing Intern -  MBA (Santa Clara, CA)](https://jobright.ai/jobs/info/698ea015f64d441a1650e8a8?utm_campaign=1065&utm_source=git)** | Santa Clara,CA | On Site | Feb 12 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Marketing Social](https://jobright.ai/jobs/info/698e6a1178b4502f12a53392?utm_campaign=1065&utm_source=git)** | 95 Morton St, New York, NY, 10014, US | On Site | Feb 12 |
-| **[Nashville Shores](https://www.nashvilleshores.com/)** | **[Paid Marketing Coordinator/Public Relations Internship](https://jobright.ai/jobs/info/698e973278b4502f12a570c1?utm_campaign=1065&utm_source=git)** | Hermitage,  TN | On Site | Feb 12 |
-| ↳ | **[Paid Promotions/Event Coordinator Internship](https://jobright.ai/jobs/info/698e8bda78b4502f12a56385?utm_campaign=1065&utm_source=git)** | Hermitage, TN | On Site | Feb 12 |
-| ↳ | **[Paid Promotions/Event Coordinator Internship](https://jobright.ai/jobs/info/698e9f8e0f6f7e7a2ceabcde?utm_campaign=1065&utm_source=git)** | Hermitage,  TN | On Site | Feb 12 |
-| **[Flex](https://flex.com)** | **[Marketing & Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/698e68350f6f7e7a2cea72ca?utm_campaign=1065&utm_source=git)** | USA, TX, Austin | On Site | Feb 12 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Marketing Internship (Summer 2026)](https://jobright.ai/jobs/info/698e66ed0f6f7e7a2cea7038?utm_campaign=1065&utm_source=git)** | OH-Dublin-Cardinal Place | On Site | Feb 12 |
-| **[Okta](http://www.okta.com)** | **[Events Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/698e846878b4502f12a55b81?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 12 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Industry Engagement Manager (Hybrid)](https://jobright.ai/jobs/info/698e6131f64d441a1650947d?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Feb 12 |
-| **[Course Couture](coursecouture.shop)** | **[Social Media & Marketing Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/698eb302f64d441a1650fca6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 12 |
-| **[Epicor](https://www.epicor.com)** | **[Intern](https://jobright.ai/jobs/info/698e5f82f64d441a16509260?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 12 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Event Services Intern](https://jobright.ai/jobs/info/698ea4fd0f6f7e7a2ceac238?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 12 |
-| **[Legends Global](http://legends.net)** | **[Marketing & Events Coordination Intern](https://jobright.ai/jobs/info/6972ab059b83b424830eb304?utm_campaign=1065&utm_source=git)** | Bemidji, MN | On Site | Feb 12 |
-| **[Tapin | Supercharge Your Menu](https://go.tapin.app)** | **[College Ambassadors (Campus Sales & Marketing)](https://jobright.ai/jobs/info/698e89ec0f6f7e7a2ceaaa72?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Feb 12 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Trade Marketing](https://jobright.ai/jobs/info/698e97ba0f6f7e7a2ceab6e3?utm_campaign=1065&utm_source=git)** | 11601 Wilshire Blvd, Los Angeles, CA, 90025, US | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
