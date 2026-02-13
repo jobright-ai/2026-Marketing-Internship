@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DFX](https://uedfx.com/)** | **[Marketing Associate](https://jobright.ai/jobs/info/698f84ed0cc8ea15f1da12bc?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Feb 13 |
+| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Client Solutions Intern](https://jobright.ai/jobs/info/698f84d96ea51a7610f1dff3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
+| **[Freshpet](http://freshpet.com)** | **[Intern - Marketing (Marketing)](https://jobright.ai/jobs/info/698f843e0cc8ea15f1da11b3?utm_campaign=1065&utm_source=git)** | Bedminster, NJ | On Site | Feb 13 |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Action/Olympic Sports](https://jobright.ai/jobs/info/697366fb37785856350d3581?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 13 |
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Summer 2026 Communications Intern](https://jobright.ai/jobs/info/698f5e126ea51a7610f1adda?utm_campaign=1065&utm_source=git)** | Washington, DC, US | Hybrid | Feb 13 |
 | ↳ | **[Summer 2026 Communications Intern](https://jobright.ai/jobs/info/698f63730cc8ea15f1d9e7bb?utm_campaign=1065&utm_source=git)** | US | Hybrid | Feb 13 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[PCG Internship Summer 2026](https://jobright.ai/jobs/info/693b7d835f2c001987ed714f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 13 |
 | **[WG Business Enterprises, LLC](https://www.linkedin.com/company/86755920)** | **[Website Development Intern](https://jobright.ai/jobs/info/698f6adc0cc8ea15f1d9f12c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Marketing & Loyalty](https://jobright.ai/jobs/info/698f67a50f6f7e7a2ceb9c34?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Feb 13 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/698f67910cc8ea15f1d9ecb0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 13 |
+| **[Legal Chain](https://legalcha.in/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/698f84556ea51a7610f1df24?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | Remote | Feb 13 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Communications Product Marketing Intern -  MBA (Santa Clara, CA)](https://jobright.ai/jobs/info/698f61f80f6f7e7a2ceb940b?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Feb 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Resource Management) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978419e88e2b47213bc50ec?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
 | **[cupl](www.cupl.io)** | **[Sales/ Growth Marketing Intern (Spring)](https://jobright.ai/jobs/info/698f5ffc0cc8ea15f1d9e303?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 13 |
@@ -114,47 +119,42 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Travel Industry Marketing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698b1eea0f6f7e7a2ce66bbb?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Feb 13 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[College Ambassador / Metro Nashville Trustee / Office Intern](https://jobright.ai/jobs/info/698f54f36ea51a7610f1a4c6?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Corporate Marketing](https://jobright.ai/jobs/info/698f4c876ea51a7610f1973f?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
-| ↳ | **[Associate, Corporate Communications Intern](https://jobright.ai/jobs/info/698f6aae0f6f7e7a2ceb9feb?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
 | ↳ | **[Associate, Corporate Communications Intern](https://jobright.ai/jobs/info/698f4eaa6ea51a7610f19a61?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
+| ↳ | **[Associate, Corporate Communications Intern](https://jobright.ai/jobs/info/698f6aae0f6f7e7a2ceb9feb?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
 | ↳ | **[Intern, Data Science and Analytics](https://jobright.ai/jobs/info/698f52c66ea51a7610f1a0f0?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 13 |
 | ↳ | **[Intern, Data Science and Analytics](https://jobright.ai/jobs/info/698f34a76ea51a7610f173d7?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
 | ↳ | **[Associate Media Intern](https://jobright.ai/jobs/info/698f3ec16ea51a7610f18239?utm_campaign=1065&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
-| ↳ | **[Associate Social Strategist Intern](https://jobright.ai/jobs/info/698f3e246ea51a7610f18150?utm_campaign=1065&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
 | ↳ | **[Associate Copywriter Intern](https://jobright.ai/jobs/info/698f3ca60cc8ea15f1d9b24c?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
 | ↳ | **[Associate Social Strategist Intern](https://jobright.ai/jobs/info/698f36080cc8ea15f1d9a875?utm_campaign=1065&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
+| ↳ | **[Associate Social Strategist Intern](https://jobright.ai/jobs/info/698f3e246ea51a7610f18150?utm_campaign=1065&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
 | ↳ | **[Associate Social Strategist Intern](https://jobright.ai/jobs/info/698f4c220cc8ea15f1d9c8be?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
-| ↳ | **[Intern, Data Science and Analytics](https://jobright.ai/jobs/info/698f3f510cc8ea15f1d9b594?utm_campaign=1065&utm_source=git)** | US-MI-Birmingham | Hybrid | Feb 13 |
 | ↳ | **[Associate Social Strategist Intern](https://jobright.ai/jobs/info/698f39436ea51a7610f17af7?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
-| ↳ | **[Associate Social Strategist Intern](https://jobright.ai/jobs/info/698f33f36ea51a7610f17313?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
-| ↳ | **[Associate Copywriter Intern](https://jobright.ai/jobs/info/698f3d5d6ea51a7610f1802d?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
-| ↳ | **[Associate Brand Strategist Intern](https://jobright.ai/jobs/info/698f401a0f6f7e7a2ceb65b8?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
+| ↳ | **[Intern, Data Science and Analytics](https://jobright.ai/jobs/info/698f3f510cc8ea15f1d9b594?utm_campaign=1065&utm_source=git)** | US-MI-Birmingham | Hybrid | Feb 13 |
 | ↳ | **[Associate Brand Strategist Intern](https://jobright.ai/jobs/info/698f42ac6ea51a7610f18860?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
+| ↳ | **[Associate Social Strategist Intern](https://jobright.ai/jobs/info/698f33f36ea51a7610f17313?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
+| ↳ | **[Associate Brand Strategist Intern](https://jobright.ai/jobs/info/698f401a0f6f7e7a2ceb65b8?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
+| ↳ | **[Associate Copywriter Intern](https://jobright.ai/jobs/info/698f3d5d6ea51a7610f1802d?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
 | ↳ | **[Intern Program - Strategy Intern](https://jobright.ai/jobs/info/698f43400cc8ea15f1d9bb33?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 13 |
 | ↳ | **[Intern Program - Strategy Intern](https://jobright.ai/jobs/info/698f42870f6f7e7a2ceb69ec?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 13 |
 | ↳ | **[Intern - Copywriting](https://jobright.ai/jobs/info/698f35210cc8ea15f1d9a6ed?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 13 |
+| ↳ | **[Intern, Strategy](https://jobright.ai/jobs/info/698f436e6ea51a7610f1898b?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 13 |
 | ↳ | **[Intern, Strategy](https://jobright.ai/jobs/info/698f494c0f6f7e7a2ceb7647?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 13 |
-| ↳ | **[Intern, Strategy](https://jobright.ai/jobs/info/698f55076ea51a7610f1a4e9?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
 | ↳ | **[Intern, Strategy](https://jobright.ai/jobs/info/698f40100cc8ea15f1d9b670?utm_campaign=1065&utm_source=git)** | US-MI-Birmingham | Hybrid | Feb 13 |
 | ↳ | **[Intern, Strategy](https://jobright.ai/jobs/info/698f44406ea51a7610f18aba?utm_campaign=1065&utm_source=git)** | Birmingham, MI, US | Hybrid | Feb 13 |
-| ↳ | **[Intern, Strategy](https://jobright.ai/jobs/info/698f436e6ea51a7610f1898b?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 13 |
-| ↳ | **[Intern, Social Content & Engagement Strategy](https://jobright.ai/jobs/info/698f47890f6f7e7a2ceb7300?utm_campaign=1065&utm_source=git)** | US-MI-Birmingham | Hybrid | Feb 13 |
-| ↳ | **[Intern, Social Content & Engagement Strategy](https://jobright.ai/jobs/info/698f51036ea51a7610f19dd6?utm_campaign=1065&utm_source=git)** | US-NY-New York | Hybrid | Feb 13 |
-| ↳ | **[Intern, Social Content & Engagement Strategy](https://jobright.ai/jobs/info/698f552f6ea51a7610f1a531?utm_campaign=1065&utm_source=git)** | Miami, FL, US | Hybrid | Feb 13 |
+| ↳ | **[Intern, Strategy](https://jobright.ai/jobs/info/698f55076ea51a7610f1a4e9?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
 | ↳ | **[Intern, Social Content & Engagement Strategy](https://jobright.ai/jobs/info/698f35426ea51a7610f174c4?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 13 |
+| ↳ | **[Intern, Social Content & Engagement Strategy](https://jobright.ai/jobs/info/698f552f6ea51a7610f1a531?utm_campaign=1065&utm_source=git)** | Miami, FL, US | Hybrid | Feb 13 |
+| ↳ | **[Intern, Social Content & Engagement Strategy](https://jobright.ai/jobs/info/698f47890f6f7e7a2ceb7300?utm_campaign=1065&utm_source=git)** | US-MI-Birmingham | Hybrid | Feb 13 |
 | ↳ | **[Intern, Social Content & Engagement Strategy](https://jobright.ai/jobs/info/698f3d030cc8ea15f1d9b2c2?utm_campaign=1065&utm_source=git)** | Birmingham, MI, US | Hybrid | Feb 13 |
-| ↳ | **[Intern, Media](https://jobright.ai/jobs/info/698f44fc0cc8ea15f1d9bddd?utm_campaign=1065&utm_source=git)** | US-FL-Miami | Hybrid | Feb 13 |
-| ↳ | **[Intern - Copywriter](https://jobright.ai/jobs/info/698f44aa6ea51a7610f18b6b?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
-| ↳ | **[Intern, Media](https://jobright.ai/jobs/info/698f35cd6ea51a7610f1758c?utm_campaign=1065&utm_source=git)** | Miami, FL, US | Hybrid | Feb 13 |
+| ↳ | **[Intern, Social Content & Engagement Strategy](https://jobright.ai/jobs/info/698f51036ea51a7610f19dd6?utm_campaign=1065&utm_source=git)** | US-NY-New York | Hybrid | Feb 13 |
 | ↳ | **[Intern, Media](https://jobright.ai/jobs/info/698f410d0cc8ea15f1d9b7dd?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 13 |
+| ↳ | **[Intern, Media](https://jobright.ai/jobs/info/698f35cd6ea51a7610f1758c?utm_campaign=1065&utm_source=git)** | Miami, FL, US | Hybrid | Feb 13 |
 | ↳ | **[Intern, Media](https://jobright.ai/jobs/info/698f3b500f6f7e7a2ceb5d0e?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
+| ↳ | **[Intern - Copywriter](https://jobright.ai/jobs/info/698f44aa6ea51a7610f18b6b?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
+| ↳ | **[Intern, Media](https://jobright.ai/jobs/info/698f44fc0cc8ea15f1d9bddd?utm_campaign=1065&utm_source=git)** | US-FL-Miami | Hybrid | Feb 13 |
 | ↳ | **[Intern - Copywriter](https://jobright.ai/jobs/info/698f3dd20f6f7e7a2ceb61aa?utm_campaign=1065&utm_source=git)** | Miami, FL, US | Hybrid | Feb 13 |
 | ↳ | **[Intern - Copywriter](https://jobright.ai/jobs/info/698f4cff0cc8ea15f1d9ca09?utm_campaign=1065&utm_source=git)** | US-FL-Miami | Hybrid | Feb 13 |
 | **[Center of Hope for Behavioral Health](https://centerofhopebh.org)** | **[Social Media & Events Assistant Intern](https://jobright.ai/jobs/info/698f3b940f6f7e7a2ceb5d81?utm_campaign=1065&utm_source=git)** | Goodlettsville, TN | Hybrid | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Copywriter Intern](https://jobright.ai/jobs/info/698f4e666ea51a7610f199f9?utm_campaign=1065&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
-| ↳ | **[2026 Leo Chicago Summer Internship - Strategy](https://jobright.ai/jobs/info/698f52570cc8ea15f1d9d224?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 13 |
 | ↳ | **[Associate Copywriter Intern](https://jobright.ai/jobs/info/698f36be0cc8ea15f1d9a9a8?utm_campaign=1065&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
-| **[American Prime Sustainable Solutions](https://americanprime.co)** | **[Marketing & Communications Associate / Intern](https://jobright.ai/jobs/info/698f785d0f6f7e7a2cebb03b?utm_campaign=1065&utm_source=git)** | Noble, OK | On Site | Feb 13 |
-| **[The Be. Org](https://www.thebeorg.com/)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/698f69a30cc8ea15f1d9ef64?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 13 |
-| **[Marketing Choices](https://marketingchoices.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/698f3a130cc8ea15f1d9ae6f?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Feb 13 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[HealthCorps Marketing Intern- San Diego](https://jobright.ai/jobs/info/698f39d36ea51a7610f17bc7?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
