@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6990aaa46ea51a7610f3338d?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 14 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6990aa416ea51a7610f332a2?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 14 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6990a9e90f6f7e7a2ced223e?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Feb 14 |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing - Skeletal Health](https://jobright.ai/jobs/info/697d8c577f40342e15d66c31?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Feb 14 |
+| **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/696aa378350cf43803119232?utm_campaign=1065&utm_source=git)** | Exeter, NH, US | Hybrid | Feb 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern  Oncology Business Unit Marketing (Summer 2026)](https://jobright.ai/jobs/info/6990a3390cc8ea15f1db58c4?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Feb 14 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742fba37785856350e2a25?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Feb 14 |
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/699096a36ea51a7610f31a24?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698fc0796ea51a7610f22c02?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Feb 13 |
 | **[Quad City Bank & Trust](http://qcbt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6990166e0cc8ea15f1dabe0a?utm_campaign=1065&utm_source=git)** | Davenport,IA,US | On Site | Feb 13 |
 | **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/699004c30f6f7e7a2cec573c?utm_campaign=1065&utm_source=git)** | Olympia Fields,IL,US | On Site | Feb 13 |
-| **[XiFin, Inc.](http://www.xifin.com)** | **[Account Based Marketing Intern](https://jobright.ai/jobs/info/698ff84a6ea51a7610f25b53?utm_campaign=1065&utm_source=git)** | San Diego, CA, San Diego, CA, US | On Site | Feb 13 |
-| **[Astranis Space Technologies](http://www.astranis.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/698fddc26ea51a7610f243b0?utm_campaign=1065&utm_source=git)** | San Francisco | On Site | Feb 13 |
-| **[See's Candies](http://www.sees.com)** | **[PR & Social Media Summer Internship](https://jobright.ai/jobs/info/698fe5e20f6f7e7a2cec2b7c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 13 |
-| **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Marketing Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/698fdb580f6f7e7a2cec21a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 13 |
-| **[Fenton Mobility](https://www.fentonmobility.com/)** | **[Social Media &amp; Content Intern](https://jobright.ai/jobs/info/699022950cc8ea15f1dac903?utm_campaign=1065&utm_source=git)** | 26 Center Street, Randolph, NY 14772, USA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
