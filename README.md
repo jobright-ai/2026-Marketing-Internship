@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Grad Intern  Oncology Business Unit Marketing (Summer 2026)](https://jobright.ai/jobs/info/6990a3390cc8ea15f1db58c4?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Feb 14 |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742fba37785856350e2a25?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Feb 14 |
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/699096a36ea51a7610f31a24?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 14 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/69797e6fca92cf0d6a82a0c1?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 14 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Communication Internship - Summer 2026](https://jobright.ai/jobs/info/69744d20206da320f49e711d?utm_campaign=1065&utm_source=git)** | Camden, NJ | Hybrid | Feb 14 |
 | **[SYC](www.syccase.co.uk)** | **[Marketing Internship - Search & Social Media](https://jobright.ai/jobs/info/699091d40f6f7e7a2ced0600?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 14 |
 | **[Tinder](http://www.tinder.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/693b396fb309e3780086f1a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 14 |
+| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69909e890f6f7e7a2ced0977?utm_campaign=1065&utm_source=git)** | Olympia Fields, IL | On Site | Feb 14 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69907b120cc8ea15f1db3f17?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Feb 14 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/69799f26ca92cf0d6a82e244?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Feb 14 |
 | **[Ryman Hospitality Properties](http://rymanhp.com)** | **[Marketing Intern - Summer 2026 - Opry Entertainment Group](https://jobright.ai/jobs/info/699077ad0f6f7e7a2cece6fb?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
@@ -97,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Event Marketing Intern](https://jobright.ai/jobs/info/6990149c6ea51a7610f27eed?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
 | **[Farallon Consulting](http://farallonconsulting.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69903b7e0f6f7e7a2cecad8c?utm_campaign=1065&utm_source=git)** | Bellevue,WA,US | On Site | Feb 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing Intern](https://jobright.ai/jobs/info/699013660cc8ea15f1dabb1d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
-| **[LMI](http://www.lmi.org)** | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699033ae0f6f7e7a2ceca13f?utm_campaign=1065&utm_source=git)** | Tysons, VA, US | Hybrid | Feb 13 |
-| ↳ | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699038cc0cc8ea15f1daf969?utm_campaign=1065&utm_source=git)** | US-VA-Tysons | Hybrid | Feb 13 |
+| **[LMI](http://www.lmi.org)** | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699038cc0cc8ea15f1daf969?utm_campaign=1065&utm_source=git)** | US-VA-Tysons | Hybrid | Feb 13 |
+| ↳ | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699033ae0f6f7e7a2ceca13f?utm_campaign=1065&utm_source=git)** | Tysons, VA, US | Hybrid | Feb 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Copywriter, Social Intern](https://jobright.ai/jobs/info/699010000f6f7e7a2cec6202?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Communications Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/693cb2cfaa598a08c3ed8fbf?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699035240cc8ea15f1daf5a9?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
@@ -137,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/698fcb560f6f7e7a2cec1801?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 13 |
 | **[Soapy Joe's Car Wash](http://soapyjoescarwash.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/698fe6f46ea51a7610f24b61?utm_campaign=1065&utm_source=git)** | Santee, CA | On Site | Feb 13 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast FreeWheel Strategy Intern](https://jobright.ai/jobs/info/698fe53c0cc8ea15f1da7eb4?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Feb 13 |
-| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698ff4b00cc8ea15f1da8c68?utm_campaign=1065&utm_source=git)** | Olympia Fields, IL | On Site | Feb 13 |
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698d178ff64d441a164eff83?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Feb 13 |
 | **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - Software Engineer - Digital Analytics & SEO](https://jobright.ai/jobs/info/698fc6070cc8ea15f1da6492?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Growth](https://jobright.ai/jobs/info/698fc53d0f6f7e7a2cec1371?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[See's Candies](http://www.sees.com)** | **[PR & Social Media Summer Internship](https://jobright.ai/jobs/info/698fe5e20f6f7e7a2cec2b7c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 13 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Marketing Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/698fdb580f6f7e7a2cec21a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Fenton Mobility](https://www.fentonmobility.com/)** | **[Social Media &amp; Content Intern](https://jobright.ai/jobs/info/699022950cc8ea15f1dac903?utm_campaign=1065&utm_source=git)** | 26 Center Street, Randolph, NY 14772, USA | On Site | Feb 13 |
-| **[Dime Community Bank](https://www.dime.com)** | **[Intern - Marketing (Summer 2026)](https://jobright.ai/jobs/info/6981421249964d25b5e425b7?utm_campaign=1065&utm_source=git)** | Hauppauge, NY | On Site | Feb 13 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing Intern](https://jobright.ai/jobs/info/699002520cc8ea15f1da9976?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
