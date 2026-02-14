@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BuildBetter](https://www.buildbetter.ai)** | **[📈 Growth Intern (Part-Time or Full-Time)](https://jobright.ai/jobs/info/6990bc076ea51a7610f33945?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 14 |
+| **[GlowUp ACS](https://www.linkedin.com/company/43344894)** | **[Marketing Intern](https://jobright.ai/jobs/info/6990b2f20cc8ea15f1db7525?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 14 |
+| **[Varda Space Industries](http://varda.com)** | **[Social Media Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68bb3e9d5f3832749186d945?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Feb 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6990aaa46ea51a7610f3338d?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6990aa416ea51a7610f332a2?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6990a9e90f6f7e7a2ced223e?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Feb 14 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Communication Internship - Summer 2026](https://jobright.ai/jobs/info/69744d20206da320f49e711d?utm_campaign=1065&utm_source=git)** | Camden, NJ | Hybrid | Feb 14 |
 | **[SYC](www.syccase.co.uk)** | **[Marketing Internship - Search & Social Media](https://jobright.ai/jobs/info/699091d40f6f7e7a2ced0600?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 14 |
 | **[Tinder](http://www.tinder.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/693b396fb309e3780086f1a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 14 |
-| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69909e890f6f7e7a2ced0977?utm_campaign=1065&utm_source=git)** | Olympia Fields, IL | On Site | Feb 14 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69907b120cc8ea15f1db3f17?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Feb 14 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/69799f26ca92cf0d6a82e244?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Feb 14 |
 | **[Ryman Hospitality Properties](http://rymanhp.com)** | **[Marketing Intern - Summer 2026 - Opry Entertainment Group](https://jobright.ai/jobs/info/699077ad0f6f7e7a2cece6fb?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RXO, Inc.](https://rxo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698fc34e0cc8ea15f1da610a?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina | On Site | Feb 13 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Marketing Social](https://jobright.ai/jobs/info/698fc1a36ea51a7610f22d9b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 13 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698fc0796ea51a7610f22c02?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Feb 13 |
-| **[Quad City Bank & Trust](http://qcbt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6990166e0cc8ea15f1dabe0a?utm_campaign=1065&utm_source=git)** | Davenport,IA,US | On Site | Feb 13 |
-| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/699004c30f6f7e7a2cec573c?utm_campaign=1065&utm_source=git)** | Olympia Fields,IL,US | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
