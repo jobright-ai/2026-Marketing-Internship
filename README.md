@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tinder](http://www.tinder.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/693b396fb309e3780086f1a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 14 |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69907b120cc8ea15f1db3f17?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Feb 14 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/69799f26ca92cf0d6a82e244?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Feb 14 |
+| **[Ryman Hospitality Properties](http://rymanhp.com)** | **[Marketing Intern - Summer 2026 - Opry Entertainment Group](https://jobright.ai/jobs/info/699077ad0f6f7e7a2cece6fb?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
+| ↳ | **[Social Media Intern - ACL Live](https://jobright.ai/jobs/info/6990763a0f6f7e7a2cece407?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 14 |
+| ↳ | **[Concert Marketing Intern - ACL Live](https://jobright.ai/jobs/info/699075aa0f6f7e7a2cece2c3?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 14 |
+| ↳ | **[Events & Operations Intern - Summer 2026 - Category 10](https://jobright.ai/jobs/info/6990753b0f6f7e7a2cece1d0?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cbfc937342c7623ae5cf0c?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Feb 14 |
+| **[Ryman Hospitality Properties](http://rymanhp.com)** | **[Events & Operations Intern - Summer 2026 - Ole Red Nashville](https://jobright.ai/jobs/info/699073fb0cc8ea15f1db3194?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
+| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Action/Olympic Sports](https://jobright.ai/jobs/info/69733d04bc8e722e7b1816e0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 14 |
+| **[American Century Investments](https://www.americancentury.com)** | **[Avantis Intern](https://jobright.ai/jobs/info/692d1f2ffa28370be269c07c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
+| **[Corcept Therapeutics](http://www.corcept.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/693c680e49a7695fbd033379?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Digital Marketing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699063d96ea51a7610f2eabe?utm_campaign=1065&utm_source=git)** | Winter Garden, FL | On Site | Feb 14 |
 | ↳ | **[Corporate Alliances Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699063756ea51a7610f2ea51?utm_campaign=1065&utm_source=git)** | Lake Buena Vista, FL | Hybrid | Feb 14 |
 | ↳ | **[Marvel Global Brand Commercialization Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699061390cc8ea15f1db242d?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Feb 14 |
@@ -81,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Event Marketing Intern](https://jobright.ai/jobs/info/6990149c6ea51a7610f27eed?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
 | **[Farallon Consulting](http://farallonconsulting.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69903b7e0f6f7e7a2cecad8c?utm_campaign=1065&utm_source=git)** | Bellevue,WA,US | On Site | Feb 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing Intern](https://jobright.ai/jobs/info/699013660cc8ea15f1dabb1d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
-| **[LMI](http://www.lmi.org)** | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699038cc0cc8ea15f1daf969?utm_campaign=1065&utm_source=git)** | US-VA-Tysons | Hybrid | Feb 13 |
-| ↳ | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699033ae0f6f7e7a2ceca13f?utm_campaign=1065&utm_source=git)** | Tysons, VA, US | Hybrid | Feb 13 |
+| **[LMI](http://www.lmi.org)** | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699033ae0f6f7e7a2ceca13f?utm_campaign=1065&utm_source=git)** | Tysons, VA, US | Hybrid | Feb 13 |
+| ↳ | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699038cc0cc8ea15f1daf969?utm_campaign=1065&utm_source=git)** | US-VA-Tysons | Hybrid | Feb 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Copywriter, Social Intern](https://jobright.ai/jobs/info/699010000f6f7e7a2cec6202?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Communications Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/693cb2cfaa598a08c3ed8fbf?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699035240cc8ea15f1daf5a9?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
@@ -91,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[See's Candies](http://www.sees.com)** | **[PR & Social Media Summer Internship](https://jobright.ai/jobs/info/699028f90f6f7e7a2cec92b9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 13 |
 | **[gNucleus AI](https://gnucleus.ai/)** | **[Marketing / Creative Design Intern](https://jobright.ai/jobs/info/69901aea0cc8ea15f1dac243?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 13 |
 | **[Insomniac Events](http://insomniac.com)** | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69901c520cc8ea15f1dac36c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 13 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Communications](https://jobright.ai/jobs/info/699033740cc8ea15f1daf321?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Marketing](https://jobright.ai/jobs/info/6990328c6ea51a7610f2b817?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
+| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Marketing](https://jobright.ai/jobs/info/6990328c6ea51a7610f2b817?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
+| ↳ | **[Summer Intern - ADL Communications](https://jobright.ai/jobs/info/699033740cc8ea15f1daf321?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Marketing Manager - MBA Intern](https://jobright.ai/jobs/info/69901e900f6f7e7a2cec6f5a?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
 | **[Quad City Bank & Trust](http://qcbt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69901d5c0f6f7e7a2cec6e31?utm_campaign=1065&utm_source=git)** | Davenport, IA | On Site | Feb 13 |
 | **[XiFin, Inc.](http://www.xifin.com)** | **[Account Based Marketing Intern](https://jobright.ai/jobs/info/6990192b0f6f7e7a2cec6a66?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Feb 13 |
@@ -140,21 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Marketing Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/698fdb580f6f7e7a2cec21a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Fenton Mobility](https://www.fentonmobility.com/)** | **[Social Media &amp; Content Intern](https://jobright.ai/jobs/info/699022950cc8ea15f1dac903?utm_campaign=1065&utm_source=git)** | 26 Center Street, Randolph, NY 14772, USA | On Site | Feb 13 |
 | **[Dime Community Bank](https://www.dime.com)** | **[Intern - Marketing (Summer 2026)](https://jobright.ai/jobs/info/6981421249964d25b5e425b7?utm_campaign=1065&utm_source=git)** | Hauppauge, NY | On Site | Feb 13 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Copywriter, Social Intern](https://jobright.ai/jobs/info/698ff9f60cc8ea15f1da9232?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Feb 13 |
-| ↳ | **[[Summer 2026] Growth Marketing Intern](https://jobright.ai/jobs/info/699002520cc8ea15f1da9976?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Feb 13 |
-| ↳ | **[[Summer 2026] Event Marketing Intern](https://jobright.ai/jobs/info/698fe3430f6f7e7a2cec291a?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | On Site | Feb 13 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing Intern](https://jobright.ai/jobs/info/699002520cc8ea15f1da9976?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Feb 13 |
+| ↳ | **[[Summer 2026] Copywriter, Social Intern](https://jobright.ai/jobs/info/698ff9f60cc8ea15f1da9232?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Feb 13 |
 | ↳ | **[[Summer 2026] Product Marketing Manager - MBA Intern](https://jobright.ai/jobs/info/698fe5720f6f7e7a2cec2b0c?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Feb 13 |
+| ↳ | **[[Summer 2026] Event Marketing Intern](https://jobright.ai/jobs/info/698fe3430f6f7e7a2cec291a?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | On Site | Feb 13 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/698febe00cc8ea15f1da843f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 13 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Communications](https://jobright.ai/jobs/info/698fd9410cc8ea15f1da7062?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Marketing](https://jobright.ai/jobs/info/698ff9b30cc8ea15f1da91e0?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Marketing](https://jobright.ai/jobs/info/698fddc06ea51a7610f243a6?utm_campaign=1065&utm_source=git)** | US-NY-New York | Hybrid | Feb 13 |
-| **[Strata Decision Technology](http://www.stratadecision.com)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/698bf2b906d9b062249626dc?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 13 |
-| **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - Marketing Analytics](https://jobright.ai/jobs/info/698fe0d46ea51a7610f24619?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Marketing Events (Collector Relations)](https://jobright.ai/jobs/info/698fe6570f6f7e7a2cec2bdf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
-| **[On](https://www.on-running.com/)** | **[Intern - Analytics & Strategy Enablement](https://jobright.ai/jobs/info/698febd10f6f7e7a2cec3083?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Feb 13 |
-| **[MERGE](http://www.mergeworld.com/)** | **[Precision Media Activation Intern](https://jobright.ai/jobs/info/698fb2b90cc8ea15f1da4bb9?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Feb 13 |
-| **[GLAUDI](https://glaudicollection.com)** | **[Stylist/Social Media Intern (Non paid)](https://jobright.ai/jobs/info/698fb1fa6ea51a7610f21a69?utm_campaign=1065&utm_source=git)** | Downey, CA | On Site | Feb 13 |
-| **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Marketing Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/698fdb590cc8ea15f1da71ee?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Feb 13 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marvel Global Brand Commercialization Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698fd2440cc8ea15f1da6cbd?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Feb 13 |
-| **[ACT](http://www.act.org/aboutact/index.html)** | **[Summer Internship - Marketing](https://jobright.ai/jobs/info/698fad936ea51a7610f21631?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
