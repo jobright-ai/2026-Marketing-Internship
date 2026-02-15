@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Against](https://goagainst.com)** | **[Unrestricted Internship 2026](https://jobright.ai/jobs/info/6992438d0cc8ea15f1dcb236?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Feb 15 |
+| **[Allstream Energy Partners](https://allstreamep.com/)** | **[Sales & Marketing Intern – Houston Based, Flexible Schedule](https://jobright.ai/jobs/info/69923f320cc8ea15f1dcaed3?utm_campaign=1065&utm_source=git)** | Rosharon, TX | Hybrid | Feb 15 |
 | **[Concorde Career Colleges](https://www.concorde.edu/)** | **[Social Media Intern - Aurora](https://jobright.ai/jobs/info/699236536ea51a7610f462c6?utm_campaign=1065&utm_source=git)** | Aurora, CO | On Site | Feb 15 |
 | ↳ | **[Social Media Intern - Dallas](https://jobright.ai/jobs/info/699233aa0f6f7e7a2cee5245?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Feb 15 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69762dc537785856350feae6?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 15 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Student Intern / Marketing / Detroit, MI (Hybrid)](https://jobright.ai/jobs/info/699228f86ea51a7610f45426?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Feb 15 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[Marketing Internship](https://jobright.ai/jobs/info/699228d50f6f7e7a2cee48fd?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Feb 15 |
 | ↳ | **[Event Management Internship Summer 2026](https://jobright.ai/jobs/info/699226910f6f7e7a2cee47c1?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Feb 15 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Assistant Strategist Media & Business Solutions Intern](https://jobright.ai/jobs/info/699211676ea51a7610f448ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/699210f50f6f7e7a2cee3d5b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 15 |
 | **[BASIC Studios](https://www.linkedin.com/company/95055925)** | **[Creative Intern](https://jobright.ai/jobs/info/69920cfc0f6f7e7a2cee3b6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920bd30cc8ea15f1dc8bd5?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 15 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Zappos](http://www.zappos.com)** | **[Marketing Intern, Zappos Brand Activations & Partnerships](https://jobright.ai/jobs/info/699135a46ea51a7610f38837?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 14 |
 | **[Options for Community Living, Inc.](http://optionscl.org/)** | **[Spring 2026 Marketing & Social Media Intern](https://jobright.ai/jobs/info/697d302f137a051025663b19?utm_campaign=1065&utm_source=git)** | Ronkonkoma | On Site | Feb 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Business Development & Technical Marketing Intern - ICT](https://jobright.ai/jobs/info/6990fc1f0f6f7e7a2ced54a4?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 14 |
-| ↳ | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/6990fbf80f6f7e7a2ced54a0?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 14 |
 | ↳ | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/6990fa1b6ea51a7610f364b8?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 14 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/6990ef296ea51a7610f3631c?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | On Site | Feb 14 |
 | **[New Orleans Black Pride](https://blackpridenola.org/)** | **[Intern](https://jobright.ai/jobs/info/6991c6b10cc8ea15f1dc5fd0?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | Feb 14 |
