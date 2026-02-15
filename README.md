@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Interac Corp.](http://www.interac.ca)** | **[Communications & Sponsorships Intern](https://jobright.ai/jobs/info/699139c26ea51a7610f38a88?utm_campaign=1065&utm_source=git)** | Toronto | Hybrid | Feb 14 |
+| **[Zappos](http://www.zappos.com)** | **[Marketing Intern, Zappos Brand Activations & Partnerships](https://jobright.ai/jobs/info/699135a46ea51a7610f38837?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 14 |
 | **[Options for Community Living, Inc.](http://optionscl.org/)** | **[Spring 2026 Marketing & Social Media Intern](https://jobright.ai/jobs/info/697d302f137a051025663b19?utm_campaign=1065&utm_source=git)** | Ronkonkoma | On Site | Feb 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Business Development & Technical Marketing Intern - ICT](https://jobright.ai/jobs/info/6990fc1f0f6f7e7a2ced54a4?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 14 |
 | ↳ | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/6990fbf80f6f7e7a2ced54a0?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 14 |
@@ -141,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Amica Insurance](http://www.amica.com)** | **[Marketing Data Science Intern](https://jobright.ai/jobs/info/698507a68da7a612045f50d9?utm_campaign=1065&utm_source=git)** | Rhode Island, United States | Hybrid | Feb 13 |
 | **[World Vision](http://www.worldvision.org/)** | **[Marketing Communications & Impact Intern](https://jobright.ai/jobs/info/698fe3136ea51a7610f2482e?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 13 |
 | **[On](https://www.on-running.com/)** | **[Intern - Analytics & Strategy Enablement](https://jobright.ai/jobs/info/69900f3e0f6f7e7a2cec6141?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Feb 13 |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - DX Marketing Business Operations](https://jobright.ai/jobs/info/69913d5f0f6f7e7a2ced7d2a?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Feb 13 |
 | **[SMS group](http://www.sms-group.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698fe03c0f6f7e7a2cec266b?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Feb 13 |
 | **[Petite Plume](https://www.petite-plume.com/)** | **[Merchandising Internship](https://jobright.ai/jobs/info/699005540f6f7e7a2cec57d8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/699015380f6f7e7a2cec66d1?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Marketing](https://jobright.ai/jobs/info/698ff9ad0cc8ea15f1da91d5?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Feb 13 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Trade Marketing](https://jobright.ai/jobs/info/698fd2b60cc8ea15f1da6d0b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
 | **[VIA Rail Canada](http://www.viarail.ca/en)** | **[Social Media Intern](https://jobright.ai/jobs/info/698feeb10cc8ea15f1da86bc?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 13 |
-| **[Strategic America](https://www.strategicamerica.com)** | **[Media Intern](https://jobright.ai/jobs/info/69901b246ea51a7610f28432?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | Hybrid | Feb 13 |
-| **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[2026 Summer Student Intern - Community Impact](https://jobright.ai/jobs/info/69901da56ea51a7610f2863b?utm_campaign=1065&utm_source=git)** | HSFCU Headquarters, 333 Queen Street, Honolulu, Hawaii, United States of America | On Site | Feb 13 |
-| **[Clarkston Consulting](http://clarkstonconsulting.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69902ae40f6f7e7a2cec9527?utm_campaign=1065&utm_source=git)** | Durham, North Carolina, United States | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
