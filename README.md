@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Industry Engagement Manager (Hybrid)](https://jobright.ai/jobs/info/6990f3f30cc8ea15f1dba2f9?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Feb 14 |
+| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/6990ef296ea51a7610f3631c?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | On Site | Feb 14 |
+| **[LeFrak](http://lefrak.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6990ea020f6f7e7a2ced5108?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 14 |
+| **[RUKUS AVENUE Music Group](https://www.rukusavenue.com)** | **[Media Intern](https://jobright.ai/jobs/info/6990e9cb0cc8ea15f1db9ff8?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Feb 14 |
 | **[Detroit Zoological Society](https://detroitzoo.org/)** | **[Events Intern](https://jobright.ai/jobs/info/6990e7846ea51a7610f35cc7?utm_campaign=1065&utm_source=git)** | Royal Oak, MI | On Site | Feb 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Brand Intern (Social Media & Community Management)](https://jobright.ai/jobs/info/6990e7386ea51a7610f35a1b?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Gift](https://www.shine.gift)** | **[Kpop Intern - Growth / Field Marketing](https://jobright.ai/jobs/info/6990e5ff0f6f7e7a2ced4dc4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[2026 Summer Student Intern - Community Impact](https://jobright.ai/jobs/info/69901da56ea51a7610f2863b?utm_campaign=1065&utm_source=git)** | HSFCU Headquarters, 333 Queen Street, Honolulu, Hawaii, United States of America | On Site | Feb 13 |
 | **[Clarkston Consulting](http://clarkstonconsulting.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69902ae40f6f7e7a2cec9527?utm_campaign=1065&utm_source=git)** | Durham, North Carolina, United States | Hybrid | Feb 13 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/698fcb560f6f7e7a2cec1801?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 13 |
-| **[Soapy Joe's Car Wash](http://soapyjoescarwash.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/698fe6f46ea51a7610f24b61?utm_campaign=1065&utm_source=git)** | Santee, CA | On Site | Feb 13 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast FreeWheel Strategy Intern](https://jobright.ai/jobs/info/698fe53c0cc8ea15f1da7eb4?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Feb 13 |
-| **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698d178ff64d441a164eff83?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Feb 13 |
-| **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - Software Engineer - Digital Analytics & SEO](https://jobright.ai/jobs/info/698fc6070cc8ea15f1da6492?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
