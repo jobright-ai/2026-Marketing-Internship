@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 15 |
+| **[Backlinkgen](https://backlinkgen.com)** | **[Digital- Marketing  -Internship Remote](https://jobright.ai/jobs/info/699202ad6ea51a7610f44173?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Feb 15 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699200e00f6f7e7a2cee3553?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 15 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6991fbf00cc8ea15f1dc8494?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Partnership Marketing](https://jobright.ai/jobs/info/698b731406d9b06224958b16?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Feb 15 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6991f85c0cc8ea15f1dc830e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 15 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6991f6816ea51a7610f43b92?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 15 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6991f51a0f6f7e7a2cee2fb3?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 15 |
+| **[The Parlor Magazine](https://www.linkedin.com/company/108591802)** | **[Sponsorship and Outreach Intern](https://jobright.ai/jobs/info/6991efff0f6f7e7a2cee2d3e?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6991ed730cc8ea15f1dc7e0a?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 15 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6991ed670cc8ea15f1dc7df5?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 15 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6991ec096ea51a7610f436f9?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Feb 15 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – GWAM Marketing](https://jobright.ai/jobs/info/6991e13d0f6f7e7a2cee20ba?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 15 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Marketing Intern](https://jobright.ai/jobs/info/69728dc94ccbf64f8df28028?utm_campaign=1065&utm_source=git)** | Northbrook, IL | On Site | Feb 15 |
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6991d3a60f6f7e7a2cee16ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
@@ -87,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/6990ef296ea51a7610f3631c?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | On Site | Feb 14 |
 | **[New Orleans Black Pride](https://blackpridenola.org/)** | **[Intern](https://jobright.ai/jobs/info/6991c6b10cc8ea15f1dc5fd0?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | Feb 14 |
 | **[LeFrak](http://lefrak.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6990ea020f6f7e7a2ced5108?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 14 |
-| **[RUKUS AVENUE Music Group](https://www.rukusavenue.com)** | **[Media Intern](https://jobright.ai/jobs/info/6990e9cb0cc8ea15f1db9ff8?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Feb 14 |
 | **[Gift](https://www.shine.gift)** | **[Kpop Intern - Growth / Field Marketing](https://jobright.ai/jobs/info/6990e5ff0f6f7e7a2ced4dc4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 14 |
 | **[Amazon](https://amazon.com)** | **[Marketing Intern, Zappos Brand Activations & Partnerships](https://jobright.ai/jobs/info/6990d2f56ea51a7610f34205?utm_campaign=1065&utm_source=git)** | New York, New York, USA | On Site | Feb 14 |
 | **[1440 Real Estate Media](1440realestatemedia.com)** | **[Real Estate Media Market Specialist (Intern)](https://jobright.ai/jobs/info/6990ced56ea51a7610f3408a?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Feb 14 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699035240cc8ea15f1daf5a9?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
 | ↳ | **[Venue Marketing Intern](https://jobright.ai/jobs/info/69902c6f6ea51a7610f2ae50?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
 | ↳ | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69902c3e0f6f7e7a2cec96e2?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 13 |
-| **[See's Candies](http://www.sees.com)** | **[PR & Social Media Summer Internship](https://jobright.ai/jobs/info/699028f90f6f7e7a2cec92b9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 13 |
-| **[gNucleus AI](https://gnucleus.ai/)** | **[Marketing / Creative Design Intern](https://jobright.ai/jobs/info/69901aea0cc8ea15f1dac243?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 13 |
-| **[Insomniac Events](http://insomniac.com)** | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69901c520cc8ea15f1dac36c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 13 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Communications](https://jobright.ai/jobs/info/699033740cc8ea15f1daf321?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Marketing](https://jobright.ai/jobs/info/6990328c6ea51a7610f2b817?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Marketing Manager - MBA Intern](https://jobright.ai/jobs/info/69901e900f6f7e7a2cec6f5a?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
-| **[Quad City Bank & Trust](http://qcbt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69901d5c0f6f7e7a2cec6e31?utm_campaign=1065&utm_source=git)** | Davenport, IA | On Site | Feb 13 |
-| **[XiFin, Inc.](http://www.xifin.com)** | **[Account Based Marketing Intern](https://jobright.ai/jobs/info/6990192b0f6f7e7a2cec6a66?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Feb 13 |
-| **[Operation Smile](http://www.operationsmile.org)** | **[Media and Marketing Internship](https://jobright.ai/jobs/info/699013f70cc8ea15f1dabbb1?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Feb 13 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/698fea016ea51a7610f24d97?utm_campaign=1065&utm_source=git)** | Westerville, OH | On Site | Feb 13 |
-| **[RXO, Inc.](https://rxo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69901da30f6f7e7a2cec6e7a?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
