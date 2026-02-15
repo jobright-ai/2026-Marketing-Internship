@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/697856ed52f3c27ec644ad2a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 15 |
+| **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Feb 15 |
+| **[UL Research Institutes](https://ul.org)** | **[Marketing Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6984019e01214b4cdacc55d2?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Feb 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Communications & Sponsorships Intern](https://jobright.ai/jobs/info/699178710cc8ea15f1dc24c1?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/699143f56ea51a7610f3991d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Communications & Sponsorships Intern](https://jobright.ai/jobs/info/699139c26ea51a7610f38a88?utm_campaign=1065&utm_source=git)** | Toronto | Hybrid | Feb 14 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[LeFrak](http://lefrak.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6990ea020f6f7e7a2ced5108?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 14 |
 | **[RUKUS AVENUE Music Group](https://www.rukusavenue.com)** | **[Media Intern](https://jobright.ai/jobs/info/6990e9cb0cc8ea15f1db9ff8?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Feb 14 |
 | **[Detroit Zoological Society](https://detroitzoo.org/)** | **[Events Intern](https://jobright.ai/jobs/info/6990e7846ea51a7610f35cc7?utm_campaign=1065&utm_source=git)** | Royal Oak, MI | On Site | Feb 14 |
-| **[Crystal Dynamics](http://crystald.com)** | **[Brand Intern (Social Media & Community Management)](https://jobright.ai/jobs/info/6990e7386ea51a7610f35a1b?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Gift](https://www.shine.gift)** | **[Kpop Intern - Growth / Field Marketing](https://jobright.ai/jobs/info/6990e5ff0f6f7e7a2ced4dc4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 14 |
 | **[Amazon](https://amazon.com)** | **[Marketing Intern, Zappos Brand Activations & Partnerships](https://jobright.ai/jobs/info/6990d2f56ea51a7610f34205?utm_campaign=1065&utm_source=git)** | New York, New York, USA | On Site | Feb 14 |
 | **[1440 Real Estate Media](1440photography.com)** | **[Real Estate Media Market Specialist (Intern)](https://jobright.ai/jobs/info/6990ced56ea51a7610f3408a?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Feb 14 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742fba37785856350e2a25?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Feb 14 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/69797e6fca92cf0d6a82a0c1?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 14 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Communication Internship - Summer 2026](https://jobright.ai/jobs/info/69744d20206da320f49e711d?utm_campaign=1065&utm_source=git)** | Camden, NJ | Hybrid | Feb 14 |
-| **[SYC](www.syccase.co.uk)** | **[Marketing Internship - Search & Social Media](https://jobright.ai/jobs/info/699091d40f6f7e7a2ced0600?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 14 |
 | **[Tinder](http://www.tinder.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/693b396fb309e3780086f1a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 14 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69907b120cc8ea15f1db3f17?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Feb 14 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/69799f26ca92cf0d6a82e244?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Feb 14 |
@@ -123,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Event Marketing Intern](https://jobright.ai/jobs/info/6990149c6ea51a7610f27eed?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
 | **[Farallon Consulting](http://farallonconsulting.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69903b7e0f6f7e7a2cecad8c?utm_campaign=1065&utm_source=git)** | Bellevue,WA,US | On Site | Feb 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing Intern](https://jobright.ai/jobs/info/699013660cc8ea15f1dabb1d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
-| **[LMI](http://www.lmi.org)** | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699038cc0cc8ea15f1daf969?utm_campaign=1065&utm_source=git)** | US-VA-Tysons | Hybrid | Feb 13 |
-| ↳ | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699033ae0f6f7e7a2ceca13f?utm_campaign=1065&utm_source=git)** | Tysons, VA, US | Hybrid | Feb 13 |
+| **[LMI](http://www.lmi.org)** | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699033ae0f6f7e7a2ceca13f?utm_campaign=1065&utm_source=git)** | Tysons, VA, US | Hybrid | Feb 13 |
+| ↳ | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699038cc0cc8ea15f1daf969?utm_campaign=1065&utm_source=git)** | US-VA-Tysons | Hybrid | Feb 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Copywriter, Social Intern](https://jobright.ai/jobs/info/699010000f6f7e7a2cec6202?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6991532b0cc8ea15f1dbf208?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Feb 13 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Communications Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/693cb2cfaa598a08c3ed8fbf?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69901d690f6f7e7a2cec6e3e?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, USA | Hybrid | Feb 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Software Engineer - Digital Analytics & SEO](https://jobright.ai/jobs/info/699007966ea51a7610f27597?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | ↳ | **[CDS Intern - Marketing Analytics](https://jobright.ai/jobs/info/698fff500cc8ea15f1da97e0?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Marketing](https://jobright.ai/jobs/info/698ff9ad0cc8ea15f1da91d5?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
