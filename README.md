@@ -57,9 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/697856ed52f3c27ec644ad2a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 15 |
+| **[The Marzetti Company](http://www.marzetticompany.com)** | **[MBA Retail Brand Management Internship - Summer 2026](https://jobright.ai/jobs/info/69844a548da7a612045e6632?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976df9a3778585635106291?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
+| **[ABB](https://global.abb/group/en)** | **[Market Development Intern - Spring 2026](https://jobright.ai/jobs/info/69895b6447434001cc677ad6?utm_campaign=1065&utm_source=git)** | Cary, NC | Remote | Feb 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69799f09ca92cf0d6a82e162?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e74bdb1852e62f008241f7?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 15 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Marketing (12-month) - Milton, ON Canada](https://jobright.ai/jobs/info/6974e699206da320f49f0f7d?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | Feb 15 |
+| **[HDR](http://www.hdrinc.com)** | **[Water Marketing Intern](https://jobright.ai/jobs/info/68e5700c1852e62f0080ff9f?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Feb 15 |
+| **[UL Research Institutes](https://ul.org)** | **[Marketing Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6982aa970f6f7e7a2cdbfc5e?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Feb 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 15 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976eeae88e2b47213babd89?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 15 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/697856ed52f3c27ec644ad2a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 15 |
 | **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Feb 15 |
-| **[UL Research Institutes](https://ul.org)** | **[Marketing Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6984019e01214b4cdacc55d2?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Feb 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Communications & Sponsorships Intern](https://jobright.ai/jobs/info/699178710cc8ea15f1dc24c1?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/699143f56ea51a7610f3991d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Communications & Sponsorships Intern](https://jobright.ai/jobs/info/699139c26ea51a7610f38a88?utm_campaign=1065&utm_source=git)** | Toronto | Hybrid | Feb 14 |
@@ -77,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Marketing Intern, Zappos Brand Activations & Partnerships](https://jobright.ai/jobs/info/6990d2f56ea51a7610f34205?utm_campaign=1065&utm_source=git)** | New York, New York, USA | On Site | Feb 14 |
 | **[1440 Real Estate Media](1440photography.com)** | **[Real Estate Media Market Specialist (Intern)](https://jobright.ai/jobs/info/6990ced56ea51a7610f3408a?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Feb 14 |
 | **[Benesch](https://www.benesch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69700b260f4e0f657ea4667c?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 14 |
-| **[GlowUp ACS](https://www.linkedin.com/company/43344894)** | **[Marketing Intern](https://jobright.ai/jobs/info/6990b2f20cc8ea15f1db7525?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Varda Space Industries](http://varda.com)** | **[Social Media Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68bb3e9d5f3832749186d945?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Feb 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6990aaa46ea51a7610f3338d?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6990aa416ea51a7610f332a2?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 14 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - DX Marketing Business Operations](https://jobright.ai/jobs/info/69913d5f0f6f7e7a2ced7d2a?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Feb 13 |
 | **[SMS group](http://www.sms-group.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698fe03c0f6f7e7a2cec266b?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Feb 13 |
 | **[Petite Plume](https://www.petite-plume.com/)** | **[Merchandising Internship](https://jobright.ai/jobs/info/699005540f6f7e7a2cec57d8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| **[Astranis Space Technologies](http://www.astranis.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/699015380f6f7e7a2cec66d1?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 13 |
-| **[ACLU of Georgia](https://www.acluga.org)** | **[Communications Internship](https://jobright.ai/jobs/info/698fdd886ea51a7610f24385?utm_campaign=1065&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Feb 13 |
-| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Marketing](https://jobright.ai/jobs/info/698fda6d0cc8ea15f1da712e?utm_campaign=1065&utm_source=git)** | Englewood Cliffs,NJ,US | On Site | Feb 13 |
-| **[Petite Plume](https://www.petite-plume.com/)** | **[Ecommerce Internship](https://jobright.ai/jobs/info/698fd9400f6f7e7a2cec1fe3?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| **[Driscoll's](http://www.driscolls.com)** | **[Brand & Product Marketing Intern](https://jobright.ai/jobs/info/699042b76ea51a7610f2ce31?utm_campaign=1065&utm_source=git)** | US - Watsonville, California | On Site | Feb 13 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69901d690f6f7e7a2cec6e3e?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, USA | Hybrid | Feb 13 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Software Engineer - Digital Analytics & SEO](https://jobright.ai/jobs/info/699007966ea51a7610f27597?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| ↳ | **[CDS Intern - Marketing Analytics](https://jobright.ai/jobs/info/698fff500cc8ea15f1da97e0?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
