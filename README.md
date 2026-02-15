@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Assistant Strategist Media & Business Solutions Intern](https://jobright.ai/jobs/info/699211676ea51a7610f448ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/699210f50f6f7e7a2cee3d5b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 15 |
 | **[BASIC Studios](https://www.linkedin.com/company/95055925)** | **[Creative Intern](https://jobright.ai/jobs/info/69920cfc0f6f7e7a2cee3b6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920bd30cc8ea15f1dc8bd5?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 15 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920b810f6f7e7a2cee3aad?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 15 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/693ddb2950bbaf765050c531?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 15 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 15 |
-| **[Backlinkgen](https://backlinkgen.com)** | **[Digital- Marketing  -Internship Remote](https://jobright.ai/jobs/info/699202ad6ea51a7610f44173?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699200e00f6f7e7a2cee3553?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 15 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6991fbf00cc8ea15f1dc8494?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Partnership Marketing](https://jobright.ai/jobs/info/698b731406d9b06224958b16?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Feb 15 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6991d3a60f6f7e7a2cee16ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Avantis Investors](https://www.avantisinvestors.com/)** | **[Avantis Intern](https://jobright.ai/jobs/info/69071d83122e8474c78e2ba1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Marketing Coordinator Intern - Corporate Services (Houston)](https://jobright.ai/jobs/info/697afa7217b11b1c2e41df87?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Feb 15 |
-| **[SYC](www.syccase.co.uk)** | **[Marketing Internship](https://jobright.ai/jobs/info/6991c6620f6f7e7a2cee0e3b?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Feb 15 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Summer 2026 - Aerospace Group Communications Intern](https://jobright.ai/jobs/info/69219c71d1ec2c3565c454a0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Feb 15 |
 | **[The Marzetti Company](http://www.marzetticompany.com)** | **[MBA Retail Brand Management Internship - Summer 2026](https://jobright.ai/jobs/info/69844a548da7a612045e6632?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976df9a3778585635106291?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
