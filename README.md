@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Options for Community Living, Inc.](http://optionscl.org/)** | **[Spring 2026 Marketing & Social Media Intern](https://jobright.ai/jobs/info/697d302f137a051025663b19?utm_campaign=1065&utm_source=git)** | Ronkonkoma | On Site | Feb 14 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Business Development & Technical Marketing Intern - ICT](https://jobright.ai/jobs/info/6990fc1f0f6f7e7a2ced54a4?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 14 |
+| ↳ | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/6990fbf80f6f7e7a2ced54a0?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 14 |
+| **[Orana Software is the home of Orana Stay](https://www.oranastay.com)** | **[Brand Builder Intern](https://jobright.ai/jobs/info/6990fa6c6ea51a7610f364c4?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Remote | Feb 14 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/6990fa1b6ea51a7610f364b8?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 14 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Industry Engagement Manager (Hybrid)](https://jobright.ai/jobs/info/6990f3f30cc8ea15f1dba2f9?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Feb 14 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/6990ef296ea51a7610f3631c?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | On Site | Feb 14 |
 | **[LeFrak](http://lefrak.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6990ea020f6f7e7a2ced5108?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 14 |
@@ -69,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[1440 Real Estate Media](1440photography.com)** | **[Real Estate Media Market Specialist (Intern)](https://jobright.ai/jobs/info/6990ced56ea51a7610f3408a?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Feb 14 |
 | **[Benesch](https://www.benesch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69700b260f4e0f657ea4667c?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 14 |
 | **[UltraTend](https://ultratend.com)** | **[Instagram Intern](https://jobright.ai/jobs/info/6990c5f40f6f7e7a2ced2a07?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 14 |
-| **[BuildBetter](https://www.buildbetter.ai)** | **[📈 Growth Intern (Part-Time or Full-Time)](https://jobright.ai/jobs/info/6990bc076ea51a7610f33945?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 14 |
 | **[GlowUp ACS](https://www.linkedin.com/company/43344894)** | **[Marketing Intern](https://jobright.ai/jobs/info/6990b2f20cc8ea15f1db7525?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Varda Space Industries](http://varda.com)** | **[Social Media Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68bb3e9d5f3832749186d945?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Feb 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6990aaa46ea51a7610f3338d?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 14 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/696aa378350cf43803119232?utm_campaign=1065&utm_source=git)** | Exeter, NH, US | Hybrid | Feb 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern  Oncology Business Unit Marketing (Summer 2026)](https://jobright.ai/jobs/info/6990a3390cc8ea15f1db58c4?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Feb 14 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742fba37785856350e2a25?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Feb 14 |
-| **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/699096a36ea51a7610f31a24?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 14 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/69797e6fca92cf0d6a82a0c1?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 14 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Communication Internship - Summer 2026](https://jobright.ai/jobs/info/69744d20206da320f49e711d?utm_campaign=1065&utm_source=git)** | Camden, NJ | Hybrid | Feb 14 |
 | **[SYC](www.syccase.co.uk)** | **[Marketing Internship - Search & Social Media](https://jobright.ai/jobs/info/699091d40f6f7e7a2ced0600?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 14 |
@@ -129,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[See's Candies](http://www.sees.com)** | **[PR & Social Media Summer Internship](https://jobright.ai/jobs/info/699028f90f6f7e7a2cec92b9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 13 |
 | **[gNucleus AI](https://gnucleus.ai/)** | **[Marketing / Creative Design Intern](https://jobright.ai/jobs/info/69901aea0cc8ea15f1dac243?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 13 |
 | **[Insomniac Events](http://insomniac.com)** | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69901c520cc8ea15f1dac36c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 13 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Marketing](https://jobright.ai/jobs/info/6990328c6ea51a7610f2b817?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Communications](https://jobright.ai/jobs/info/699033740cc8ea15f1daf321?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
+| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Communications](https://jobright.ai/jobs/info/699033740cc8ea15f1daf321?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
+| ↳ | **[Summer Intern - ADL Marketing](https://jobright.ai/jobs/info/6990328c6ea51a7610f2b817?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Marketing Manager - MBA Intern](https://jobright.ai/jobs/info/69901e900f6f7e7a2cec6f5a?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
 | **[Quad City Bank & Trust](http://qcbt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69901d5c0f6f7e7a2cec6e31?utm_campaign=1065&utm_source=git)** | Davenport, IA | On Site | Feb 13 |
 | **[XiFin, Inc.](http://www.xifin.com)** | **[Account Based Marketing Intern](https://jobright.ai/jobs/info/6990192b0f6f7e7a2cec6a66?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Feb 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Trade Marketing](https://jobright.ai/jobs/info/698fd2b60cc8ea15f1da6d0b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
 | **[VIA Rail Canada](http://www.viarail.ca/en)** | **[Social Media Intern](https://jobright.ai/jobs/info/698feeb10cc8ea15f1da86bc?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 13 |
 | **[Strategic America](https://www.strategicamerica.com)** | **[Media Intern](https://jobright.ai/jobs/info/69901b246ea51a7610f28432?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | Hybrid | Feb 13 |
-| **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[2026 Summer Student Intern - Community Impact](https://jobright.ai/jobs/info/69901da56ea51a7610f2863b?utm_campaign=1065&utm_source=git)** | HSFCU Headquarters, 333 Queen Street, Honolulu, Hawaii, United States of America | On Site | Feb 13 |
-| **[Clarkston Consulting](http://clarkstonconsulting.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69902ae40f6f7e7a2cec9527?utm_campaign=1065&utm_source=git)** | Durham, North Carolina, United States | Hybrid | Feb 13 |
-| **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/698fcb560f6f7e7a2cec1801?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
