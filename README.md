@@ -57,11 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Concorde Career Colleges](https://www.concorde.edu/)** | **[Social Media Intern - Aurora](https://jobright.ai/jobs/info/699236536ea51a7610f462c6?utm_campaign=1065&utm_source=git)** | Aurora, CO | On Site | Feb 15 |
+| ↳ | **[Social Media Intern - Dallas](https://jobright.ai/jobs/info/699233aa0f6f7e7a2cee5245?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Feb 15 |
+| **[Just Born, Inc.](http://www.justborn.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69762dc537785856350feae6?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 15 |
+| **[Planet Fitness](http://www.planetfitness.com/)** | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/699231246ea51a7610f45d25?utm_campaign=1065&utm_source=git)** | Hampton, NH | Hybrid | Feb 15 |
+| **[Bang Zoom! Studios](http://bangzoomentertainment.com)** | **[Social Media / Marketing Internship (Spring 2026](https://jobright.ai/jobs/info/69922ac86ea51a7610f45630?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Feb 15 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Student Intern / Marketing / Detroit, MI (Hybrid)](https://jobright.ai/jobs/info/699228f86ea51a7610f45426?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Feb 15 |
+| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[Marketing Internship](https://jobright.ai/jobs/info/699228d50f6f7e7a2cee48fd?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Feb 15 |
+| ↳ | **[Event Management Internship Summer 2026](https://jobright.ai/jobs/info/699226910f6f7e7a2cee47c1?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Feb 15 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Assistant Strategist Media & Business Solutions Intern](https://jobright.ai/jobs/info/699211676ea51a7610f448ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/699210f50f6f7e7a2cee3d5b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 15 |
 | **[BASIC Studios](https://www.linkedin.com/company/95055925)** | **[Creative Intern](https://jobright.ai/jobs/info/69920cfc0f6f7e7a2cee3b6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920bd30cc8ea15f1dc8bd5?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 15 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920b810f6f7e7a2cee3aad?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 15 |
+| **[Houston Fitness Partners](https://www.planetfitness.com/)** | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/699233eb0cc8ea15f1dca459?utm_campaign=1065&utm_source=git)** | Hampton, NH, US | Hybrid | Feb 15 |
+| ↳ | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/69922fdc6ea51a7610f45bd2?utm_campaign=1065&utm_source=git)** | US-NH-Hampton | Hybrid | Feb 15 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/693ddb2950bbaf765050c531?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 15 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699200e00f6f7e7a2cee3553?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 15 |
@@ -73,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[The Parlor Magazine](https://www.linkedin.com/company/108591802)** | **[Sponsorship and Outreach Intern](https://jobright.ai/jobs/info/6991efff0f6f7e7a2cee2d3e?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6991ed730cc8ea15f1dc7e0a?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 15 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6991ed670cc8ea15f1dc7df5?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 15 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6991ec096ea51a7610f436f9?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Feb 15 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – GWAM Marketing](https://jobright.ai/jobs/info/6991e13d0f6f7e7a2cee20ba?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 15 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Marketing Intern](https://jobright.ai/jobs/info/69728dc94ccbf64f8df28028?utm_campaign=1065&utm_source=git)** | Northbrook, IL | On Site | Feb 15 |
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6991d3a60f6f7e7a2cee16ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/69904c5e0cc8ea15f1db12e5?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Brand Intern (Social Media & Community Management)](https://jobright.ai/jobs/info/69796a4b39f7f96cc6d1f383?utm_campaign=1065&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Feb 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69903c660cc8ea15f1dafd81?utm_campaign=1065&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
-| **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[2026 Summer Student Intern - Community Impact](https://jobright.ai/jobs/info/6990392f0cc8ea15f1daf9d9?utm_campaign=1065&utm_source=git)** | Honolulu, HI | On Site | Feb 14 |
-| **[LMI](http://www.lmi.org)** | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69902c926ea51a7610f2ae7c?utm_campaign=1065&utm_source=git)** | Tysons Corner, VA | Hybrid | Feb 14 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Event Marketing Intern](https://jobright.ai/jobs/info/6990149c6ea51a7610f27eed?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
-| **[Farallon Consulting](http://farallonconsulting.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69903b7e0f6f7e7a2cecad8c?utm_campaign=1065&utm_source=git)** | Bellevue,WA,US | On Site | Feb 13 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing Intern](https://jobright.ai/jobs/info/699013660cc8ea15f1dabb1d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
-| **[LMI](http://www.lmi.org)** | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699038cc0cc8ea15f1daf969?utm_campaign=1065&utm_source=git)** | US-VA-Tysons | Hybrid | Feb 13 |
-| ↳ | **[Market Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699033ae0f6f7e7a2ceca13f?utm_campaign=1065&utm_source=git)** | Tysons, VA, US | Hybrid | Feb 13 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Copywriter, Social Intern](https://jobright.ai/jobs/info/699010000f6f7e7a2cec6202?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
-| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6991532b0cc8ea15f1dbf208?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
