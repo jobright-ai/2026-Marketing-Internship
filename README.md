@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Integrated Marketing & Business Development Intern](https://jobright.ai/jobs/info/6921dca23f782d2f1afd40e4?utm_campaign=1065&utm_source=git)** | Illinois, United States | Remote | Feb 16 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Private Brands Intern](https://jobright.ai/jobs/info/68e914280930fe0bc46221c4?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Feb 16 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6992fdf9e0bddb6acac1413a?utm_campaign=1065&utm_source=git)** | Tacoma, WA | Hybrid | Feb 16 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Intern - 2026 College Student Summer Internship – Office of Communications and Community Relations](https://jobright.ai/jobs/info/698139a749964d25b5e41e32?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
@@ -94,7 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992b7a2ce78e77b4fd677b8?utm_campaign=1065&utm_source=git)** | Remote - Alabama | Remote | Feb 15 |
 | ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992b69381476f6176aa3a84?utm_campaign=1065&utm_source=git)** | Remote - Kansas | Remote | Feb 15 |
 | **[SportStrength](http://www.SportStrength.com)** | **[Social Media Marketing Intern (Sports-related)](https://jobright.ai/jobs/info/69929ebfe0bddb6acac0c449?utm_campaign=1065&utm_source=git)** | Tulsa, OK | Hybrid | Feb 15 |
-| **[Crystal Dynamics](http://crystald.com)** | **[Brand Intern (Social Media & Community Management)](https://jobright.ai/jobs/info/699286e16ea51a7610f49ce5?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
+| **[Celebrity Frenchies USA](https://celebritypupz.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6993230781476f6176aacbc9?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Expanding Boundaries International](https://linktr.ee/ebabroad)** | **[Google Ad Grant Specialist Volunteer/Internship (Virtual)](https://jobright.ai/jobs/info/6992858f6ea51a7610f49243?utm_campaign=1065&utm_source=git)** | Westminster, MD | Remote | Feb 15 |
 | **[Planet Fitness](http://www.planetfitness.com/)** | **[Summer Intern - Strategic Communications](https://jobright.ai/jobs/info/6992821a0cc8ea15f1dccfef?utm_campaign=1065&utm_source=git)** | Hampton, NH | Hybrid | Feb 15 |
 | **[Iris](https://www.irisrents.com)** | **[Social Media Intern (Unpaid Internship)](https://jobright.ai/jobs/info/699281d66ea51a7610f48811?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 15 |
@@ -102,7 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/6992779c0f6f7e7a2cee7809?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 15 |
 | **[Houston Fitness Partners](https://www.planetfitness.com/)** | **[Summer Intern - Strategic Communications](https://jobright.ai/jobs/info/699276e86ea51a7610f48199?utm_campaign=1065&utm_source=git)** | Hampton, NH, US | Hybrid | Feb 15 |
 | ↳ | **[Summer Intern - Strategic Communications](https://jobright.ai/jobs/info/699274e90f6f7e7a2cee7674?utm_campaign=1065&utm_source=git)** | US-NH-Hampton | Hybrid | Feb 15 |
-| **[MAXHUB](https://www.maxhub.com)** | **[Marketing Intern (Recent Graduate)](https://jobright.ai/jobs/info/69926d120f6f7e7a2cee730e?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Feb 15 |
+| **[MAXHUB](https://www.maxhub.com)** | **[Marketing Intern (Mandarin Speaking)](https://jobright.ai/jobs/info/69926d120f6f7e7a2cee730e?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Feb 15 |
+| **[Deion](https://deion.io/)** | **[Product Marketing Intern - Undergraduate](https://jobright.ai/jobs/info/69931423e0bddb6acac1590f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Heritage Wealth Advisors](https://www.heritagewealth.net/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/699249de0cc8ea15f1dcb672?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Feb 15 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Industry Engagement Manager (Hybrid)](https://jobright.ai/jobs/info/699246e60f6f7e7a2cee647f?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Feb 15 |
 | **[Against](https://goagainst.com)** | **[Unrestricted Internship 2026](https://jobright.ai/jobs/info/6992438d0cc8ea15f1dcb236?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Feb 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Orleans Black Pride](https://blackpridenola.org/)** | **[Intern](https://jobright.ai/jobs/info/6991c6b10cc8ea15f1dc5fd0?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | Feb 14 |
 | **[LeFrak](http://lefrak.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6990ea020f6f7e7a2ced5108?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 14 |
 | **[Amazon](https://amazon.com)** | **[Marketing Intern, Zappos Brand Activations & Partnerships](https://jobright.ai/jobs/info/6990d2f56ea51a7610f34205?utm_campaign=1065&utm_source=git)** | New York, New York, USA | On Site | Feb 14 |
-| **[1440 Real Estate Media](1440realestatemedia.com)** | **[Real Estate Media Market Specialist (Intern)](https://jobright.ai/jobs/info/6990ced56ea51a7610f3408a?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Feb 14 |
-| **[Benesch](https://www.benesch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69700b260f4e0f657ea4667c?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
