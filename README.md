@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heritage Wealth Advisors](https://www.heritagewealth.net/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/699249de0cc8ea15f1dcb672?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Feb 15 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Industry Engagement Manager (Hybrid)](https://jobright.ai/jobs/info/699246e60f6f7e7a2cee647f?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Feb 15 |
 | **[Against](https://goagainst.com)** | **[Unrestricted Internship 2026](https://jobright.ai/jobs/info/6992438d0cc8ea15f1dcb236?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Feb 15 |
 | **[Allstream Energy Partners](https://allstreamep.com/)** | **[Sales & Marketing Intern – Houston Based, Flexible Schedule](https://jobright.ai/jobs/info/69923f320cc8ea15f1dcaed3?utm_campaign=1065&utm_source=git)** | Rosharon, TX | Hybrid | Feb 15 |
 | **[Concorde Career Colleges](https://www.concorde.edu/)** | **[Social Media Intern - Aurora](https://jobright.ai/jobs/info/699236536ea51a7610f462c6?utm_campaign=1065&utm_source=git)** | Aurora, CO | On Site | Feb 15 |
@@ -67,12 +69,11 @@ For a complete list, click the following sortable link below:
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Student Intern / Marketing / Detroit, MI (Hybrid)](https://jobright.ai/jobs/info/699228f86ea51a7610f45426?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Feb 15 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[Marketing Internship](https://jobright.ai/jobs/info/699228d50f6f7e7a2cee48fd?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Feb 15 |
 | ↳ | **[Event Management Internship Summer 2026](https://jobright.ai/jobs/info/699226910f6f7e7a2cee47c1?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Feb 15 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/699210f50f6f7e7a2cee3d5b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 15 |
 | **[BASIC Studios](https://www.linkedin.com/company/95055925)** | **[Creative Intern](https://jobright.ai/jobs/info/69920cfc0f6f7e7a2cee3b6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920bd30cc8ea15f1dc8bd5?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 15 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920b810f6f7e7a2cee3aad?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 15 |
-| **[Houston Fitness Partners](https://www.planetfitness.com/)** | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/699233eb0cc8ea15f1dca459?utm_campaign=1065&utm_source=git)** | Hampton, NH, US | Hybrid | Feb 15 |
-| ↳ | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/69922fdc6ea51a7610f45bd2?utm_campaign=1065&utm_source=git)** | US-NH-Hampton | Hybrid | Feb 15 |
+| **[Houston Fitness Partners](https://www.planetfitness.com/)** | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/69922fdc6ea51a7610f45bd2?utm_campaign=1065&utm_source=git)** | US-NH-Hampton | Hybrid | Feb 15 |
+| ↳ | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/699233eb0cc8ea15f1dca459?utm_campaign=1065&utm_source=git)** | Hampton, NH, US | Hybrid | Feb 15 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/693ddb2950bbaf765050c531?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 15 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699200e00f6f7e7a2cee3553?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 15 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/6990ef296ea51a7610f3631c?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | On Site | Feb 14 |
 | **[New Orleans Black Pride](https://blackpridenola.org/)** | **[Intern](https://jobright.ai/jobs/info/6991c6b10cc8ea15f1dc5fd0?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | Feb 14 |
 | **[LeFrak](http://lefrak.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6990ea020f6f7e7a2ced5108?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 14 |
-| **[Gift](https://www.shine.gift)** | **[Kpop Intern - Growth / Field Marketing](https://jobright.ai/jobs/info/6990e5ff0f6f7e7a2ced4dc4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 14 |
 | **[Amazon](https://amazon.com)** | **[Marketing Intern, Zappos Brand Activations & Partnerships](https://jobright.ai/jobs/info/6990d2f56ea51a7610f34205?utm_campaign=1065&utm_source=git)** | New York, New York, USA | On Site | Feb 14 |
 | **[1440 Real Estate Media](1440realestatemedia.com)** | **[Real Estate Media Market Specialist (Intern)](https://jobright.ai/jobs/info/6990ced56ea51a7610f3408a?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Feb 14 |
 | **[Benesch](https://www.benesch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69700b260f4e0f657ea4667c?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 14 |
