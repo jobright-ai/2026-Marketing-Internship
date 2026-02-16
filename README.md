@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Private Brands Intern](https://jobright.ai/jobs/info/68e914280930fe0bc46221c4?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Feb 16 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6992fdf9e0bddb6acac1413a?utm_campaign=1065&utm_source=git)** | Tacoma, WA | Hybrid | Feb 16 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Intern - 2026 College Student Summer Internship – Office of Communications and Community Relations](https://jobright.ai/jobs/info/698139a749964d25b5e41e32?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[Digital Workplace Intern](https://jobright.ai/jobs/info/6992fd6fce78e77b4fd6cff5?utm_campaign=1065&utm_source=git)** | Tacoma, WA | Hybrid | Feb 16 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Event Management Internship Summer 2026](https://jobright.ai/jobs/info/699226910f6f7e7a2cee47c1?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920bd30cc8ea15f1dc8bd5?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 15 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920b810f6f7e7a2cee3aad?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 15 |
-| **[Houston Fitness Partners](https://www.planetfitness.com/)** | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/699233eb0cc8ea15f1dca459?utm_campaign=1065&utm_source=git)** | Hampton, NH, US | Hybrid | Feb 15 |
-| ↳ | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/69922fdc6ea51a7610f45bd2?utm_campaign=1065&utm_source=git)** | US-NH-Hampton | Hybrid | Feb 15 |
+| **[Houston Fitness Partners](https://www.planetfitness.com/)** | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/69922fdc6ea51a7610f45bd2?utm_campaign=1065&utm_source=git)** | US-NH-Hampton | Hybrid | Feb 15 |
+| ↳ | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/699233eb0cc8ea15f1dca459?utm_campaign=1065&utm_source=git)** | Hampton, NH, US | Hybrid | Feb 15 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/693ddb2950bbaf765050c531?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 15 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699200e00f6f7e7a2cee3553?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Marketing Intern, Zappos Brand Activations & Partnerships](https://jobright.ai/jobs/info/6990d2f56ea51a7610f34205?utm_campaign=1065&utm_source=git)** | New York, New York, USA | On Site | Feb 14 |
 | **[1440 Real Estate Media](1440realestatemedia.com)** | **[Real Estate Media Market Specialist (Intern)](https://jobright.ai/jobs/info/6990ced56ea51a7610f3408a?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Feb 14 |
 | **[Benesch](https://www.benesch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69700b260f4e0f657ea4667c?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 14 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698dca8878b4502f12a48c7d?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
