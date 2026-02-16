@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Starteryou](https://starteryou.com/)** | **[AI Social Media Growth Intern](https://jobright.ai/jobs/info/6992c401ce78e77b4fd698a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
+| **[Gala Circle Inc.](http://www.galacircle.com)** | **[Marketing Data Analyst](https://jobright.ai/jobs/info/6992c334e0bddb6acac10d15?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
+| **[Ensora Health](https://www.therapybrands.com/)** | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992befde0bddb6acac106b1?utm_campaign=1065&utm_source=git)** | Remote - Florida | Remote | Feb 15 |
+| ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992bcd781476f6176aa5d40?utm_campaign=1065&utm_source=git)** | Remote - Pennsylvania | Remote | Feb 15 |
+| ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992bc67e0bddb6acac0f9a7?utm_campaign=1065&utm_source=git)** | Remote - Massachusetts | Remote | Feb 15 |
+| ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992bb8dce78e77b4fd68a3c?utm_campaign=1065&utm_source=git)** | Remote - South Carolina | Remote | Feb 15 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Insights and Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6992bb0581476f6176aa5297?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Feb 15 |
+| **[Ensora Health](https://www.therapybrands.com/)** | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992bad3e0bddb6acac0f322?utm_campaign=1065&utm_source=git)** | Remote - North Carolina | Remote | Feb 15 |
+| ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992bab681476f6176aa500b?utm_campaign=1065&utm_source=git)** | Remote - Virginia | Remote | Feb 15 |
+| ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992bab0e0bddb6acac0f2a0?utm_campaign=1065&utm_source=git)** | Remote - Kentucky | Remote | Feb 15 |
+| ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992b910ce78e77b4fd67f2a?utm_campaign=1065&utm_source=git)** | Remote - Indiana | Remote | Feb 15 |
+| ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992b8c1ce78e77b4fd67e78?utm_campaign=1065&utm_source=git)** | Remote - Ohio | Remote | Feb 15 |
+| ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992b8ac81476f6176aa4473?utm_campaign=1065&utm_source=git)** | Remote - Tennessee | Remote | Feb 15 |
+| ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992b7a2ce78e77b4fd677b8?utm_campaign=1065&utm_source=git)** | Remote - Alabama | Remote | Feb 15 |
+| ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992b69381476f6176aa3a84?utm_campaign=1065&utm_source=git)** | Remote - Kansas | Remote | Feb 15 |
 | **[SportStrength](http://www.SportStrength.com)** | **[Social Media Marketing Intern (Sports-related)](https://jobright.ai/jobs/info/69929ebfe0bddb6acac0c449?utm_campaign=1065&utm_source=git)** | Tulsa, OK | Hybrid | Feb 15 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Brand Intern (Social Media & Community Management)](https://jobright.ai/jobs/info/699286e16ea51a7610f49ce5?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Expanding Boundaries International](https://linktr.ee/ebabroad)** | **[Google Ad Grant Specialist Volunteer/Internship (Virtual)](https://jobright.ai/jobs/info/6992858f6ea51a7610f49243?utm_campaign=1065&utm_source=git)** | Westminster, MD | Remote | Feb 15 |
@@ -92,10 +107,8 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6991f85c0cc8ea15f1dc830e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 15 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6991f6816ea51a7610f43b92?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 15 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6991f51a0f6f7e7a2cee2fb3?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 15 |
-| **[The Parlor Magazine](https://www.linkedin.com/company/108591802)** | **[Sponsorship and Outreach Intern](https://jobright.ai/jobs/info/6991efff0f6f7e7a2cee2d3e?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6991ed730cc8ea15f1dc7e0a?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 15 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6991ed730cc8ea15f1dc7e0a?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 15 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6991ed670cc8ea15f1dc7df5?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 15 |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – GWAM Marketing](https://jobright.ai/jobs/info/6991e13d0f6f7e7a2cee20ba?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 15 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Marketing Intern](https://jobright.ai/jobs/info/69728dc94ccbf64f8df28028?utm_campaign=1065&utm_source=git)** | Northbrook, IL | On Site | Feb 15 |
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6991d3a60f6f7e7a2cee16ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Avantis Investors](https://www.avantisinvestors.com/)** | **[Avantis Intern](https://jobright.ai/jobs/info/69071d83122e8474c78e2ba1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Webtellisense Consult](www.webtellisense.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6991c1376ea51a7610f4171c?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Feb 14 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cbfc937342c7623ae5cf0c?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Feb 14 |
 | **[Ryman Hospitality Properties](http://rymanhp.com)** | **[Events & Operations Intern - Summer 2026 - Ole Red Nashville](https://jobright.ai/jobs/info/699073fb0cc8ea15f1db3194?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
-| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Action/Olympic Sports](https://jobright.ai/jobs/info/69733d04bc8e722e7b1816e0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 14 |
-| **[American Century Investments](https://www.americancentury.com)** | **[Avantis Intern](https://jobright.ai/jobs/info/692d1f2ffa28370be269c07c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
-| **[Corcept Therapeutics](http://www.corcept.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/693c680e49a7695fbd033379?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Feb 14 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Digital Marketing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699063d96ea51a7610f2eabe?utm_campaign=1065&utm_source=git)** | Winter Garden, FL | On Site | Feb 14 |
-| ↳ | **[Corporate Alliances Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699063756ea51a7610f2ea51?utm_campaign=1065&utm_source=git)** | Lake Buena Vista, FL | Hybrid | Feb 14 |
-| ↳ | **[Marvel Global Brand Commercialization Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699061390cc8ea15f1db242d?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Feb 14 |
-| **[Corcept Therapeutics](http://www.corcept.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693c6e65aa598a08c3ed4e48?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Feb 14 |
-| ↳ | **[Pipeline & Portfolio Market Planning Intern](https://jobright.ai/jobs/info/693c731249a7695fbd033930?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Feb 14 |
-| **[Pronghorn](https://www.pronghorn.co/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6940e66a49a7695fbd066904?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Feb 14 |
-| **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c74f149a7695fbd033a51?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Feb 14 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Marvel Global Brand Commercialization Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69905cdb0f6f7e7a2cecd237?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Feb 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e76d5515da181e7e4ecdf9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e74ba71852e62f008241a6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
