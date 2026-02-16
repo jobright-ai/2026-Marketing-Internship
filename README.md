@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/6992779c0f6f7e7a2cee7809?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 15 |
+| **[Houston Fitness Partners](https://www.planetfitness.com/)** | **[Summer Intern - Strategic Communications](https://jobright.ai/jobs/info/699276e86ea51a7610f48199?utm_campaign=1065&utm_source=git)** | Hampton, NH, US | Hybrid | Feb 15 |
+| ↳ | **[Summer Intern - Strategic Communications](https://jobright.ai/jobs/info/699274e90f6f7e7a2cee7674?utm_campaign=1065&utm_source=git)** | US-NH-Hampton | Hybrid | Feb 15 |
 | **[MAXHUB](https://www.maxhub.com)** | **[Marketing Intern (Recent Graduate)](https://jobright.ai/jobs/info/69926d120f6f7e7a2cee730e?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Feb 15 |
 | **[Heritage Wealth Advisors](https://www.heritagewealth.net/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/699249de0cc8ea15f1dcb672?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Feb 15 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Industry Engagement Manager (Hybrid)](https://jobright.ai/jobs/info/699246e60f6f7e7a2cee647f?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Feb 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/697435f3206da320f49e5618?utm_campaign=1065&utm_source=git)** | McLean, VA | Hybrid | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/699052d56ea51a7610f2de8d?utm_campaign=1065&utm_source=git)** | Modesto, CA | On Site | Feb 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6978489752f3c27ec6448a60?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 14 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Marketing and Data Analytics Intern Summer 2026](https://jobright.ai/jobs/info/693bb94250bbaf76504f1eb2?utm_campaign=1065&utm_source=git)** | Hopkins, SC | Hybrid | Feb 14 |
-| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/69904c5e0cc8ea15f1db12e5?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 14 |
-| **[Crystal Dynamics](http://crystald.com)** | **[Brand Intern (Social Media & Community Management)](https://jobright.ai/jobs/info/69796a4b39f7f96cc6d1f383?utm_campaign=1065&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
