@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SportStrength](http://www.SportStrength.com)** | **[Social Media Marketing Intern (Sports-related)](https://jobright.ai/jobs/info/69929ebfe0bddb6acac0c449?utm_campaign=1065&utm_source=git)** | Tulsa, OK | Hybrid | Feb 15 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Brand Intern (Social Media & Community Management)](https://jobright.ai/jobs/info/699286e16ea51a7610f49ce5?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Expanding Boundaries International](https://linktr.ee/ebabroad)** | **[Google Ad Grant Specialist Volunteer/Internship (Virtual)](https://jobright.ai/jobs/info/6992858f6ea51a7610f49243?utm_campaign=1065&utm_source=git)** | Westminster, MD | Remote | Feb 15 |
 | **[Planet Fitness](http://www.planetfitness.com/)** | **[Summer Intern - Strategic Communications](https://jobright.ai/jobs/info/6992821a0cc8ea15f1dccfef?utm_campaign=1065&utm_source=git)** | Hampton, NH | Hybrid | Feb 15 |
@@ -112,12 +113,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/697856ed52f3c27ec644ad2a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 15 |
 | **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Feb 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Communications & Sponsorships Intern](https://jobright.ai/jobs/info/699178710cc8ea15f1dc24c1?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
-| ↳ | **[Communications & Sponsorships Intern](https://jobright.ai/jobs/info/699139c26ea51a7610f38a88?utm_campaign=1065&utm_source=git)** | Toronto | Hybrid | Feb 14 |
-| **[Farallon Consulting](http://farallonconsulting.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69929759ce78e77b4fd64776?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Feb 14 |
+| **[Driscoll's](http://www.driscolls.com)** | **[Brand & Product Marketing Intern](https://jobright.ai/jobs/info/6992adf9ce78e77b4fd65e78?utm_campaign=1065&utm_source=git)** | Watsonville, CA | On Site | Feb 14 |
+| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Social Media and Events Intern](https://jobright.ai/jobs/info/69929ffd81476f6176aa18ed?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 14 |
+| **[Interac Corp.](http://www.interac.ca)** | **[Communications & Sponsorships Intern](https://jobright.ai/jobs/info/699139c26ea51a7610f38a88?utm_campaign=1065&utm_source=git)** | Toronto | Hybrid | Feb 14 |
 | **[Zappos](http://www.zappos.com)** | **[Marketing Intern, Zappos Brand Activations & Partnerships](https://jobright.ai/jobs/info/699135a46ea51a7610f38837?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 14 |
-| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/699295e181476f6176aa1062?utm_campaign=1065&utm_source=git)** | Olympia Fields, IL | On Site | Feb 14 |
 | **[Options for Community Living, Inc.](http://optionscl.org/)** | **[Spring 2026 Marketing & Social Media Intern](https://jobright.ai/jobs/info/697d302f137a051025663b19?utm_campaign=1065&utm_source=git)** | Ronkonkoma | On Site | Feb 14 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Business Development & Technical Marketing Intern - ICT](https://jobright.ai/jobs/info/6990fc1f0f6f7e7a2ced54a4?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 14 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/6990ef296ea51a7610f3631c?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | On Site | Feb 14 |
 | **[New Orleans Black Pride](https://blackpridenola.org/)** | **[Intern](https://jobright.ai/jobs/info/6991c6b10cc8ea15f1dc5fd0?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | Feb 14 |
 | **[LeFrak](http://lefrak.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6990ea020f6f7e7a2ced5108?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 14 |
