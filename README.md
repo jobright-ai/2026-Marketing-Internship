@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ArtsQuest](http://www.artsquest.org/)** | **[SPONSORSHIP INTERN](https://jobright.ai/jobs/info/6992d09de0bddb6acac111a9?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Feb 16 |
 | **[Starteryou](https://starteryou.com/)** | **[AI Social Media Growth Intern](https://jobright.ai/jobs/info/6992c401ce78e77b4fd698a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Marketing Data Analyst](https://jobright.ai/jobs/info/6992c334e0bddb6acac10d15?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Ensora Health](https://www.therapybrands.com/)** | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992befde0bddb6acac106b1?utm_campaign=1065&utm_source=git)** | Remote - Florida | Remote | Feb 15 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Event Management Internship Summer 2026](https://jobright.ai/jobs/info/699226910f6f7e7a2cee47c1?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920bd30cc8ea15f1dc8bd5?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 15 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920b810f6f7e7a2cee3aad?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 15 |
-| **[Houston Fitness Partners](https://www.planetfitness.com/)** | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/699233eb0cc8ea15f1dca459?utm_campaign=1065&utm_source=git)** | Hampton, NH, US | Hybrid | Feb 15 |
-| ↳ | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/69922fdc6ea51a7610f45bd2?utm_campaign=1065&utm_source=git)** | US-NH-Hampton | Hybrid | Feb 15 |
+| **[Houston Fitness Partners](https://www.planetfitness.com/)** | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/69922fdc6ea51a7610f45bd2?utm_campaign=1065&utm_source=git)** | US-NH-Hampton | Hybrid | Feb 15 |
+| ↳ | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/699233eb0cc8ea15f1dca459?utm_campaign=1065&utm_source=git)** | Hampton, NH, US | Hybrid | Feb 15 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/693ddb2950bbaf765050c531?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 15 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699200e00f6f7e7a2cee3553?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Events & Operations Intern - Summer 2026 - Category 10](https://jobright.ai/jobs/info/6990753b0f6f7e7a2cece1d0?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
 | **[Webtellisense Consult](www.webtellisense.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6991c1376ea51a7610f4171c?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Feb 14 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cbfc937342c7623ae5cf0c?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Feb 14 |
-| **[Ryman Hospitality Properties](http://rymanhp.com)** | **[Events & Operations Intern - Summer 2026 - Ole Red Nashville](https://jobright.ai/jobs/info/699073fb0cc8ea15f1db3194?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
