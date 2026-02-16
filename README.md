@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MAXHUB](https://www.maxhub.com)** | **[Marketing Intern (Recent Graduate)](https://jobright.ai/jobs/info/69926d120f6f7e7a2cee730e?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Feb 15 |
 | **[Heritage Wealth Advisors](https://www.heritagewealth.net/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/699249de0cc8ea15f1dcb672?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Feb 15 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Industry Engagement Manager (Hybrid)](https://jobright.ai/jobs/info/699246e60f6f7e7a2cee647f?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Feb 15 |
 | **[Against](https://goagainst.com)** | **[Unrestricted Internship 2026](https://jobright.ai/jobs/info/6992438d0cc8ea15f1dcb236?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Feb 15 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[BASIC Studios](https://www.linkedin.com/company/95055925)** | **[Creative Intern](https://jobright.ai/jobs/info/69920cfc0f6f7e7a2cee3b6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920bd30cc8ea15f1dc8bd5?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 15 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69920b810f6f7e7a2cee3aad?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 15 |
-| **[Houston Fitness Partners](https://www.planetfitness.com/)** | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/69922fdc6ea51a7610f45bd2?utm_campaign=1065&utm_source=git)** | US-NH-Hampton | Hybrid | Feb 15 |
-| ↳ | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/699233eb0cc8ea15f1dca459?utm_campaign=1065&utm_source=git)** | Hampton, NH, US | Hybrid | Feb 15 |
+| **[Houston Fitness Partners](https://www.planetfitness.com/)** | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/699233eb0cc8ea15f1dca459?utm_campaign=1065&utm_source=git)** | Hampton, NH, US | Hybrid | Feb 15 |
+| ↳ | **[Summer Intern - ESG & Social Impact](https://jobright.ai/jobs/info/69922fdc6ea51a7610f45bd2?utm_campaign=1065&utm_source=git)** | US-NH-Hampton | Hybrid | Feb 15 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/693ddb2950bbaf765050c531?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 15 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699200e00f6f7e7a2cee3553?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Marketing and Data Analytics Intern Summer 2026](https://jobright.ai/jobs/info/693bb94250bbaf76504f1eb2?utm_campaign=1065&utm_source=git)** | Hopkins, SC | Hybrid | Feb 14 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/69904c5e0cc8ea15f1db12e5?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Brand Intern (Social Media & Community Management)](https://jobright.ai/jobs/info/69796a4b39f7f96cc6d1f383?utm_campaign=1065&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Feb 14 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69903c660cc8ea15f1dafd81?utm_campaign=1065&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
