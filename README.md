@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ArtsQuest](http://www.artsquest.org/)** | **[SPONSORSHIP INTERN](https://jobright.ai/jobs/info/6992d09de0bddb6acac111a9?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Feb 16 |
-| **[Starteryou](https://starteryou.com/)** | **[AI Social Media Growth Intern](https://jobright.ai/jobs/info/6992c401ce78e77b4fd698a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
+| **[Pierce County](https://www.piercecountywa.gov/)** | **[Design and Marketing Intern](https://jobright.ai/jobs/info/6992e087e0bddb6acac11983?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
+| **[Ensora Health](https://www.therapybrands.com/)** | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992df38e0bddb6acac118cd?utm_campaign=1065&utm_source=git)** | Ohio, United States | Remote | Feb 16 |
+| **[Pierce County](https://www.piercecountywa.gov/)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/6992dc5881476f6176aa6ee8?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
+| ↳ | **[Marketing Intern - Transportation](https://jobright.ai/jobs/info/6992db60ce78e77b4fd6a312?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
+| **[ArtsQuest](http://www.artsquest.org/)** | **[PUBLIC RELATIONS SUMMER INTERN](https://jobright.ai/jobs/info/6992d9c2e0bddb6acac11674?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Feb 16 |
+| ↳ | **[Social Media Internship](https://jobright.ai/jobs/info/6992d26ae0bddb6acac112a5?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Feb 16 |
+| ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/6992d25b81476f6176aa6998?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Feb 16 |
+| ↳ | **[SPONSORSHIP INTERN](https://jobright.ai/jobs/info/6992d09de0bddb6acac111a9?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Feb 16 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Marketing Data Analyst](https://jobright.ai/jobs/info/6992c334e0bddb6acac10d15?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Ensora Health](https://www.therapybrands.com/)** | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992befde0bddb6acac106b1?utm_campaign=1065&utm_source=git)** | Remote - Florida | Remote | Feb 15 |
 | ↳ | **[Growth & Social Media Intern](https://jobright.ai/jobs/info/6992bcd781476f6176aa5d40?utm_campaign=1065&utm_source=git)** | Remote - Pennsylvania | Remote | Feb 15 |
@@ -79,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Planet Fitness](http://www.planetfitness.com/)** | **[Summer Intern - Strategic Communications](https://jobright.ai/jobs/info/6992821a0cc8ea15f1dccfef?utm_campaign=1065&utm_source=git)** | Hampton, NH | Hybrid | Feb 15 |
 | **[Iris](https://www.irisrents.com)** | **[Social Media Intern (Unpaid Internship)](https://jobright.ai/jobs/info/699281d66ea51a7610f48811?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 15 |
 | **[Humarq Business Partners](http://www.humarq.com)** | **[Marketing Intern, Book Launch - Video Creation](https://jobright.ai/jobs/info/6992818d6ea51a7610f48808?utm_campaign=1065&utm_source=git)** | Richmond, VA | Remote | Feb 15 |
-| **[Parrot Finance](https://www.parrotfinance.io/)** | **[Marketing Internship Spring 2026](https://jobright.ai/jobs/info/69927e950cc8ea15f1dccf1c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer '26)](https://jobright.ai/jobs/info/6992779c0f6f7e7a2cee7809?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 15 |
 | **[Houston Fitness Partners](https://www.planetfitness.com/)** | **[Summer Intern - Strategic Communications](https://jobright.ai/jobs/info/699276e86ea51a7610f48199?utm_campaign=1065&utm_source=git)** | Hampton, NH, US | Hybrid | Feb 15 |
 | ↳ | **[Summer Intern - Strategic Communications](https://jobright.ai/jobs/info/699274e90f6f7e7a2cee7674?utm_campaign=1065&utm_source=git)** | US-NH-Hampton | Hybrid | Feb 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tinder](http://www.tinder.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/693b396fb309e3780086f1a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 14 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/69799f26ca92cf0d6a82e244?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Feb 14 |
 | **[Ryman Hospitality Properties](http://rymanhp.com)** | **[Marketing Intern - Summer 2026 - Opry Entertainment Group](https://jobright.ai/jobs/info/699077ad0f6f7e7a2cece6fb?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
-| ↳ | **[Social Media Intern - ACL Live](https://jobright.ai/jobs/info/6990763a0f6f7e7a2cece407?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 14 |
-| ↳ | **[Concert Marketing Intern - ACL Live](https://jobright.ai/jobs/info/699075aa0f6f7e7a2cece2c3?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 14 |
-| ↳ | **[Events & Operations Intern - Summer 2026 - Category 10](https://jobright.ai/jobs/info/6990753b0f6f7e7a2cece1d0?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
-| **[Webtellisense Consult](www.webtellisense.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6991c1376ea51a7610f4171c?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Feb 14 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cbfc937342c7623ae5cf0c?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
