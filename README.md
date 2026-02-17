@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Keene, NH](https://jobright.ai/jobs/info/6993fe79e0bddb6acac251ff?utm_campaign=1065&utm_source=git)** | Keene, NH | On Site | Feb 17 |
+| **[Cartier](http://www.cartier.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6994af21e0bddb6acac31fd8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 17 |
+| **[Samsung SDS America](http://www.samsungsds.com/us/)** | **[2026 Internship Market Research and Business Development](https://jobright.ai/jobs/info/6994aed2e0bddb6acac31f7e?utm_campaign=1065&utm_source=git)** | Ridgefield Park, NJ | Hybrid | Feb 17 |
+| **[Bozzuto](https://www.bozzuto.com/)** | **[Sales & Marketing Intern (Summer 2026) - Boston, MA](https://jobright.ai/jobs/info/6994ad7881476f6176ac70da?utm_campaign=1065&utm_source=git)** | Boston, MA, 02210 | On Site | Feb 17 |
+| **[Fitch Ratings](http://www.fitchratings.com)** | **[Market Research Associate (Internship NYC)](https://jobright.ai/jobs/info/6977e65d52f3c27ec6441018?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
+| **[Sparrow](https://www.sparrowup.com)** | **[Social Media Marketing Intern (Content Creator)](https://jobright.ai/jobs/info/6994a6a681476f6176ac69e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Go to Market Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695bccddf1f8465b79f1d84b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 17 |
 | **[CADAR Fine Jewelry](http://www.cadar.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69949da3e0bddb6acac30eee?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Product Marketing Internship- Summer 2026](https://jobright.ai/jobs/info/6977e6b588e2b47213bbe3fd?utm_campaign=1065&utm_source=git)** | Avon, OH | Hybrid | Feb 17 |
@@ -64,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Perseus Group, Constellation Software](https://csiperseus.com/)** | **[Event Coordinator Intern](https://jobright.ai/jobs/info/6977e6abfdeb8243a27adba8?utm_campaign=1065&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Feb 17 |
 | **[JONESWORKS](https://jonesworks.com/)** | **[2026 Spring Internship Program *NYC & LA*](https://jobright.ai/jobs/info/68f7eeee5dc1be601281e8cf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
 | **[Brother USA](https://brother-usa.com)** | **[Marketing Campaigns Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf63f22c9dc0d3d53ddb7?utm_campaign=1065&utm_source=git)** | Broomfield, CO | Hybrid | Feb 17 |
+| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Luxury Marketing Internship in Paris.](https://jobright.ai/jobs/info/6994b3d9e0bddb6acac3253a?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Feb 17 |
 | **[Lime Design 3D](https://limecreativedesign.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69948d30e0bddb6acac3010f?utm_campaign=1065&utm_source=git)** | Hollywood, FL | On Site | Feb 17 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6994890181476f6176ac4fb4?utm_campaign=1065&utm_source=git)** | Oconomowoc, WI | Hybrid | Feb 17 |
 | **[SupplyCore](http://supplycore.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/6994a364ce78e77b4fd8a222?utm_campaign=1065&utm_source=git)** | Rockford, IL | On Site | Feb 17 |
@@ -77,10 +84,11 @@ For a complete list, click the following sortable link below:
 | **[Fabletics](https://www.fabletics.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6978171888e2b47213bc163a?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Feb 17 |
 | **[Viega LLC](https://viega.us)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/698d6da6f64d441a164f7a8c?utm_campaign=1065&utm_source=git)** | Broomfield, CO | On Site | Feb 17 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Brand Marketing Intern](https://jobright.ai/jobs/info/695c248faa05c26e7ab57659?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Feb 17 |
-| **[Coty](https://www.coty.com/)** | **[Junior Adtech & Data Intern](https://jobright.ai/jobs/info/6994a60881476f6176ac694e?utm_campaign=1065&utm_source=git)** | BERTHIER | Hybrid | Feb 17 |
+| **[Coty](https://www.coty.com/)** | **[Junior Adtech & Data Intern](https://jobright.ai/jobs/info/6994b0d481476f6176ac7489?utm_campaign=1065&utm_source=git)** | Maison OVERDA | Hybrid | Feb 17 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Digital Content Intern](https://jobright.ai/jobs/info/69783b4339f7f96cc6d0874c?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Feb 17 |
 | **[Weyco Group, Inc.](http://www.weycogroup.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/699476a581476f6176ac3679?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
-| ↳ | **[Merchandising Intern](https://jobright.ai/jobs/info/6994761fce78e77b4fd8718d?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6994a7d481476f6176ac6b2c?utm_campaign=1065&utm_source=git)** | Oconomowoc, Wisconsin | Hybrid | Feb 17 |
+| **[Weyco Group, Inc.](http://www.weycogroup.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6994761fce78e77b4fd8718d?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6978274f52f3c27ec6445499?utm_campaign=1065&utm_source=git)** | Niskayuna, NY | On Site | Feb 17 |
 | **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern Summer 2026- Social Media Influencer](https://jobright.ai/jobs/info/6977f8f0fdeb8243a27afd2b?utm_campaign=1065&utm_source=git)** | Avon, OH | Hybrid | Feb 17 |
 | **[Weyco Group, Inc.](http://www.weycogroup.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/699470e3ce78e77b4fd86a6c?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
@@ -143,18 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Unlock Health](https://www.unlockhealthnow.com)** | **[New Business Intern](https://jobright.ai/jobs/info/6993b32f81476f6176ab4eef?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Feb 16 |
 | **[Phoenix Systems](https://phoenixsystems.tv)** | **[Marketing Intern - Unpaid](https://jobright.ai/jobs/info/6993ce7dce78e77b4fd7a2a1?utm_campaign=1065&utm_source=git)** | Alpharetta,GA,US | On Site | Feb 16 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Client Services](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1311?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 16 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993dc2e81476f6176ab76c7?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Feb 16 |
-| ↳ | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993db6ce0bddb6acac221f5?utm_campaign=1065&utm_source=git)** | Celebration, FL, USA | On Site | Feb 16 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993db6ce0bddb6acac221f5?utm_campaign=1065&utm_source=git)** | Celebration, FL, USA | On Site | Feb 16 |
+| ↳ | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993dc2e81476f6176ab76c7?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Feb 16 |
 | **[Swisher](http://www.swisher.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6993d972ce78e77b4fd7ad09?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Feb 16 |
 | **[HFG Architecture](http://hfgarchitecture.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6993de1181476f6176ab7880?utm_campaign=1065&utm_source=git)** | Wichita,KS,US | On Site | Feb 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6993d935e0bddb6acac21fb1?utm_campaign=1065&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
 | ↳ | **[Social Strategy & Brand Stories Intern](https://jobright.ai/jobs/info/6993cc9781476f6176ab6870?utm_campaign=1065&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
-| **[Caviar Luxe](caviarluxe.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69946460e0bddb6acac2cf4a?utm_campaign=1065&utm_source=git)** | Charleston, SC | Hybrid | Feb 16 |
-| **[02 Projects](02projects.com)** | **[Marketing & Digital Strategy Intern](https://jobright.ai/jobs/info/6993c1b2ce78e77b4fd7985c?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Feb 16 |
-| **[Unlock Health](https://www.unlockhealthnow.com)** | **[SEO, Content & Engagement Intern](https://jobright.ai/jobs/info/6993c0b5e0bddb6acac209c1?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Feb 16 |
-| **[Schneider Electric](https://www.se.com)** | **[Offer marketing intern](https://jobright.ai/jobs/info/6993ca8bce78e77b4fd79f05?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 16 |
-| **[RIOS](https://www.rios.com/)** | **[Marketing Internship Summer 2026](https://jobright.ai/jobs/info/69818e967f40342e15dab783?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 16 |
-| **[AZOPT and Kids Place](https://www.azopt.net)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69939a35ce78e77b4fd76ca3?utm_campaign=1065&utm_source=git)** | Greater Phoenix Area | Hybrid | Feb 16 |
-| **[Custom Truck One Source](https://www.customtruck.com/)** | **[MARKETING INTERN](https://jobright.ai/jobs/info/699398a081476f6176ab2bc5?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Feb 16 |
-| **[XiFin, Inc.](http://www.xifin.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/6993b924e0bddb6acac2027d?utm_campaign=1065&utm_source=git)** | SD Metro Area | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
