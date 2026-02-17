@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Sideline](Thesideline.co)** | **[Social Media Specialist](https://jobright.ai/jobs/info/699495dc81476f6176ac5b4f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 17 |
+| **[JONESWORKS](https://jonesworks.com/)** | **[2026 Spring Internship Program *NYC & LA*](https://jobright.ai/jobs/info/68f7eeee5dc1be601281e8cf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
+| **[Brother USA](https://brother-usa.com)** | **[Marketing Campaigns Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf63f22c9dc0d3d53ddb7?utm_campaign=1065&utm_source=git)** | Broomfield, CO | Hybrid | Feb 17 |
+| **[Lime Design 3D](https://limecreativedesign.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69948d30e0bddb6acac3010f?utm_campaign=1065&utm_source=git)** | Hollywood, FL | On Site | Feb 17 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6994890181476f6176ac4fb4?utm_campaign=1065&utm_source=git)** | Oconomowoc, WI | Hybrid | Feb 17 |
 | **[Viega LLC](https://viega.us)** | **[Marketing Intern (Sales Enablement)](https://jobright.ai/jobs/info/698d7e6478b4502f12a42838?utm_campaign=1065&utm_source=git)** | Broomfield, CO | On Site | Feb 17 |
 | **[Hisense USA](http://hisense-usa.com)** | **[Retail Merchandising Intern](https://jobright.ai/jobs/info/691bb17a22a2cb4b9bd1508c?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Feb 17 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Marketing Intern](https://jobright.ai/jobs/info/69947fa9e0bddb6acac2eec2?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Feb 17 |
@@ -97,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Web Experience](https://jobright.ai/jobs/info/69943a5481476f6176abf3f2?utm_campaign=1065&utm_source=git)** | Columbia, MO | On Site | Feb 17 |
 | **[Allured Business Media](http://www.allured.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/699438d6e0bddb6acac29e2d?utm_campaign=1065&utm_source=git)** | Carol Stream, IL | On Site | Feb 17 |
 | **[SE Health](https://sehc.com/)** | **[Marketing & Business Development Analyst - Master’s Internship](https://jobright.ai/jobs/info/699438bfe0bddb6acac29e17?utm_campaign=1065&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 17 |
-| **[Crystal Dynamics](http://crystald.com)** | **[Brand Intern (Social Media & Community Management)](https://jobright.ai/jobs/info/69942d5fe0bddb6acac29374?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Communications & Partner Intelligence Intern](https://jobright.ai/jobs/info/69942adace78e77b4fd81f84?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[Orchestra](https://www.orchestraco.com)** | **[Summer 2026 Communications Internship](https://jobright.ai/jobs/info/6994282ece78e77b4fd81d0a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB Invest. Corporate Communications Intern](https://jobright.ai/jobs/info/69941de581476f6176abda32?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Feb 16 |
@@ -134,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Unlock Health](https://www.unlockhealthnow.com)** | **[New Business Intern](https://jobright.ai/jobs/info/6993b32f81476f6176ab4eef?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Feb 16 |
 | **[Phoenix Systems](https://phoenixsystems.tv)** | **[Marketing Intern - Unpaid](https://jobright.ai/jobs/info/6993ce7dce78e77b4fd7a2a1?utm_campaign=1065&utm_source=git)** | Alpharetta,GA,US | On Site | Feb 16 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Client Services](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1311?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 16 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993db6ce0bddb6acac221f5?utm_campaign=1065&utm_source=git)** | Celebration, FL, USA | On Site | Feb 16 |
-| ↳ | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993dc2e81476f6176ab76c7?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Feb 16 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993dc2e81476f6176ab76c7?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Feb 16 |
+| ↳ | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993db6ce0bddb6acac221f5?utm_campaign=1065&utm_source=git)** | Celebration, FL, USA | On Site | Feb 16 |
 | **[Swisher](http://www.swisher.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6993d972ce78e77b4fd7ad09?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Feb 16 |
 | **[HFG Architecture](http://hfgarchitecture.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6993de1181476f6176ab7880?utm_campaign=1065&utm_source=git)** | Wichita,KS,US | On Site | Feb 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Social Strategy & Brand Stories Intern](https://jobright.ai/jobs/info/6993cc9781476f6176ab6870?utm_campaign=1065&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Public Relations Intern for Influencer, Media & Celebrity Teams In LA](https://jobright.ai/jobs/info/6993946381476f6176ab2673?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 16 |
 | **[MANUELA](http://manuela-la.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6993e2c6e0bddb6acac22a38?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Feb 16 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Industry Engagement Manager (Hybrid)](https://jobright.ai/jobs/info/6993b93a81476f6176ab564c?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Feb 16 |
-| **[New Era Cap](https://www.neweracap.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6993bcd081476f6176ab5ac5?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
-| ↳ | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6993ba8381476f6176ab5806?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
-| ↳ | **[Social Strategy & Brand Stories Intern](https://jobright.ai/jobs/info/6993b07c81476f6176ab4b91?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
-| **[Intelligent Solar](http://www.intelligent.solar)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6993ba39ce78e77b4fd7903b?utm_campaign=1065&utm_source=git)** | Westford, MA | Remote | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
