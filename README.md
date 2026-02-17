@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Weyco Group, Inc.](http://www.weycogroup.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/699470e3ce78e77b4fd86a6c?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
+| **[Clearview Eastern Fund LLC](https://clearvieweastern.com)** | **[Social Media Systems & Content Intern](https://jobright.ai/jobs/info/69946997e0bddb6acac2d2c8?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 17 |
+| **[Viega LLC](https://viega.us)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/698d3b08f64d441a164f3d02?utm_campaign=1065&utm_source=git)** | Broomfield, CO | On Site | Feb 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Event Management Intern, Strategic Meetings & Events, Summer/Fall 2026](https://jobright.ai/jobs/info/69945d3ace78e77b4fd8534f?utm_campaign=1065&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 17 |
 | ↳ | **[ABC News Insights and Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945be381476f6176ac163b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | ↳ | **[International Content Strategy & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945a8481476f6176ac1460?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Feb 17 |
 | **[Haas Automation, Inc.](http://haascnc.com)** | **[Digital Marketing Intern (50154)](https://jobright.ai/jobs/info/6978127152f3c27ec6444064?utm_campaign=1065&utm_source=git)** | Oxnard, CA | On Site | Feb 17 |
 | **[Steelcase](https://www.steelcase.com/)** | **[Year-Round Marketing Intern - Grand Rapids, MI](https://jobright.ai/jobs/info/69782209fdeb8243a27b163f?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Feb 17 |
-| **[Two Robots Studios](https://tworobots.com)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/6994571a81476f6176ac0ffe?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Feb 17 |
 | **[SPX Technologies](https://www.spx.com)** | **[Marketing Video Production Intern](https://jobright.ai/jobs/info/6977bf8b52f3c27ec643e236?utm_campaign=1065&utm_source=git)** | East Stroudsburg, PA | On Site | Feb 17 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Event Management Intern, Strategic Meetings & Events, Summer/Fall 2026](https://jobright.ai/jobs/info/69945393ce78e77b4fd845a4?utm_campaign=1065&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 17 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Digital Marketing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699063d96ea51a7610f2eabe?utm_campaign=1065&utm_source=git)** | Winter Garden, FL | On Site | Feb 17 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Influencer Marketing, Naturium](https://jobright.ai/jobs/info/697830a439f7f96cc6d078ba?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 17 |
 | ↳ | **[Summer Intern, Influencer & PR Marketing, Naturium](https://jobright.ai/jobs/info/6978452752f3c27ec6448356?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
 | **[FINN Partners](http://www.finnpartners.com/)** | **[Public Relations Assistant Account Executive – Financial Services PR](https://jobright.ai/jobs/info/69056c28122e8474c78d8d9a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
@@ -101,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6993cbcfe0bddb6acac2134c?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 16 |
 | **[Zinpro Corporation](https://www.zinpro.com/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6993d845ce78e77b4fd7ab9e?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | Hybrid | Feb 16 |
 | **[Fresenius Kabi USA](http://www.fresenius-kabi.us)** | **[Intern - Contract Manufacturing Organization (CMO)](https://jobright.ai/jobs/info/6993d66581476f6176ab712a?utm_campaign=1065&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6994387ae0bddb6acac29dce?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 16 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Employee – Communications and Marketing](https://jobright.ai/jobs/info/6993fab8e0bddb6acac24cdc?utm_campaign=1065&utm_source=git)** | Auburn, AL | On Site | Feb 16 |
 | **[cupl](www.cupl.io)** | **[Unpaid - Sales & Growth Marketing Intern](https://jobright.ai/jobs/info/6993f514ce78e77b4fd7d26a?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/6993d068ce78e77b4fd7a472?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Feb 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Custom Truck One Source](https://www.customtruck.com/)** | **[MARKETING INTERN](https://jobright.ai/jobs/info/6993aca581476f6176ab4702?utm_campaign=1065&utm_source=git)** | Kansas City, MO, US | On Site | Feb 16 |
 | **[Cacique Foods, LLC.](https://www.caciquefoods.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6984f394348f733a5c390f2b?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Feb 16 |
 | **[Hilldrup](http://hilldrup.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69939b2981476f6176ab2ec9?utm_campaign=1065&utm_source=git)** | Stafford, VA, US | On Site | Feb 16 |
-| **[XiFin, Inc.](http://www.xifin.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/6993aa4be0bddb6acac1f15d?utm_campaign=1065&utm_source=git)** | San Diego, CA, US | On Site | Feb 16 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Outside Groups](https://jobright.ai/jobs/info/69937b4c81476f6176ab13c9?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
