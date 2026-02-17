@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB Invest. Corporate Communications Intern](https://jobright.ai/jobs/info/69941de581476f6176abda32?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Feb 16 |
 | **[Auster](https://austerian.com)** | **[Marketing Fellow](https://jobright.ai/jobs/info/69940e7c81476f6176abc5f9?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Marketing & Media Process Intern](https://jobright.ai/jobs/info/6993f4e781476f6176ab9889?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Feb 16 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/69940a45ce78e77b4fd7f763?utm_campaign=1065&utm_source=git)** | Pensacola, FL | Hybrid | Feb 16 |
@@ -79,9 +80,7 @@ For a complete list, click the following sortable link below:
 | **[TensorWave](https://tensorwave.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6994009181476f6176abaeb7?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Feb 16 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Communications Intern-Corporate](https://jobright.ai/jobs/info/6993e6f0ce78e77b4fd7bbc8?utm_campaign=1065&utm_source=git)** | Portsmouth, NH | On Site | Feb 16 |
 | **[ZS](https://www.zs.com/)** | **[Operations Associate - Intern (North America - University Students)](https://jobright.ai/jobs/info/6993e887ce78e77b4fd7bdb4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Feb 16 |
-| **[Electro](electrogum.com)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/6993e31581476f6176ab7f39?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Swisher](http://www.swisher.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6993e764ce78e77b4fd7bc94?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Hybrid | Feb 16 |
-| **[Iter Innovandi](https://www.iterinnovandi.com)** | **[Marketing & Brand Intern](https://jobright.ai/jobs/info/6993bdc4e0bddb6acac206c3?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 16 |
 | **[Phoenix Systems](https://phoenixsystems.tv)** | **[Marketing Intern - Unpaid](https://jobright.ai/jobs/info/6993e294ce78e77b4fd7b6f7?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Feb 16 |
 | **[Unlock Health](https://www.unlockhealthnow.com)** | **[Digital & Media Planning Intern](https://jobright.ai/jobs/info/6993bb32ce78e77b4fd7915d?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Feb 16 |
 | **[Meyocks](http://www.meyocks.com)** | **[Social Media & Digital Content Summer Intern](https://jobright.ai/jobs/info/6993e57bce78e77b4fd7ba87?utm_campaign=1065&utm_source=git)** | West Des Moines, Iowa, United States | Hybrid | Feb 16 |
@@ -92,12 +91,12 @@ For a complete list, click the following sortable link below:
 | **[Unlock Health](https://www.unlockhealthnow.com)** | **[New Business Intern](https://jobright.ai/jobs/info/6993b32f81476f6176ab4eef?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Feb 16 |
 | **[Phoenix Systems](https://phoenixsystems.tv)** | **[Marketing Intern - Unpaid](https://jobright.ai/jobs/info/6993ce7dce78e77b4fd7a2a1?utm_campaign=1065&utm_source=git)** | Alpharetta,GA,US | On Site | Feb 16 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Client Services](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1311?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 16 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993db6ce0bddb6acac221f5?utm_campaign=1065&utm_source=git)** | Celebration, FL, USA | On Site | Feb 16 |
-| ↳ | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993dc2e81476f6176ab76c7?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Feb 16 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993dc2e81476f6176ab76c7?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Feb 16 |
+| ↳ | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6993db6ce0bddb6acac221f5?utm_campaign=1065&utm_source=git)** | Celebration, FL, USA | On Site | Feb 16 |
 | **[Swisher](http://www.swisher.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6993d972ce78e77b4fd7ad09?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Feb 16 |
 | **[HFG Architecture](http://hfgarchitecture.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6993de1181476f6176ab7880?utm_campaign=1065&utm_source=git)** | Wichita,KS,US | On Site | Feb 16 |
-| **[New Era Cap](https://www.neweracap.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6993d935e0bddb6acac21fb1?utm_campaign=1065&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
-| ↳ | **[Social Strategy & Brand Stories Intern](https://jobright.ai/jobs/info/6993cc9781476f6176ab6870?utm_campaign=1065&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
+| **[New Era Cap](https://www.neweracap.com/)** | **[Social Strategy & Brand Stories Intern](https://jobright.ai/jobs/info/6993cc9781476f6176ab6870?utm_campaign=1065&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
+| ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/6993d935e0bddb6acac21fb1?utm_campaign=1065&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
 | **[02 Projects](02projects.com)** | **[Marketing & Digital Strategy Intern](https://jobright.ai/jobs/info/6993c1b2ce78e77b4fd7985c?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Feb 16 |
 | **[Unlock Health](https://www.unlockhealthnow.com)** | **[SEO, Content & Engagement Intern](https://jobright.ai/jobs/info/6993c0b5e0bddb6acac209c1?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Feb 16 |
 | **[Schneider Electric](https://www.se.com)** | **[Offer marketing intern](https://jobright.ai/jobs/info/6993ca8bce78e77b4fd79f05?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 16 |
@@ -136,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Fresenius Kabi](https://www.fresenius-kabi.se)** | **[Intern -  Contract Manufacturing Organization (CMO)](https://jobright.ai/jobs/info/6993b26ce0bddb6acac1fa7e?utm_campaign=1065&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Market Research Analyst Intern](https://jobright.ai/jobs/info/696024fda112b402660edd4d?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Coordinator](https://jobright.ai/jobs/info/69939952ce78e77b4fd76ba1?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 16 |
-| **[LabConnect](https://www.labconnect.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6993b89be0bddb6acac201f8?utm_campaign=1065&utm_source=git)** | Remote - US, 2304 Silverdale Drive, Johnson City, Tennessee, United States of America | Remote | Feb 16 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/69939712ce78e77b4fd76912?utm_campaign=1065&utm_source=git)** | Raleigh, NC, USA | On Site | Feb 16 |
+| **[LabConnect](https://www.labconnect.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69939712ce78e77b4fd76912?utm_campaign=1065&utm_source=git)** | Raleigh, NC, USA | On Site | Feb 16 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6993b89be0bddb6acac201f8?utm_campaign=1065&utm_source=git)** | Remote - US, 2304 Silverdale Drive, Johnson City, Tennessee, United States of America | Remote | Feb 16 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6993bdc681476f6176ab5bca?utm_campaign=1065&utm_source=git)** | Johnson City, 2304 Silverdale Drive, Johnson City, Tennessee, United States of America | On Site | Feb 16 |
 | **[Unlock Health](https://www.unlockhealthnow.com)** | **[SEO, Content & Engagement Intern](https://jobright.ai/jobs/info/69936c93e0bddb6acac1b3cb?utm_campaign=1065&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Feb 16 |
 | **[Shanklin Heating and Air Conditioning, LLC](https://www.shanklinheatingandcooling.com)** | **[Marketing Events Intern - Summer 2026](https://jobright.ai/jobs/info/6993952ee0bddb6acac1dca0?utm_campaign=1065&utm_source=git)** | Massillon, OH | On Site | Feb 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Fresenius Kabi](https://www.fresenius-kabi.se)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69937f7c81476f6176ab1718?utm_campaign=1065&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69936db1e0bddb6acac1b4a1?utm_campaign=1065&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Feb 16 |
 | **[Amcor](http://www.amcor.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69934c2981476f6176aae2c1?utm_campaign=1065&utm_source=git)** | CORP Evansville Head Division Office IN  | On Site | Feb 16 |
+| **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (Marketing Intern - Austin)](https://jobright.ai/jobs/info/699374ace0bddb6acac1b9f1?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
