@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[maslansky + partners](https://maslansky.com)** | **[Language Strategy Intern](https://jobright.ai/jobs/info/6999efb5e0bddb6acac929ad?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
+| **[AriesView](ariesview.com)** | **[Product Marketing Intern - Paid](https://jobright.ai/jobs/info/6999ec33e0bddb6acac92939?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 21 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/697303591790715e866bef93?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Hybrid | Feb 21 |
+| **[Value Aligners](Valuealigners.com)** | **[Cyber Security Sales & Marketing Intern](https://jobright.ai/jobs/info/6999dfe1ce78e77b4fdeb491?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Feb 21 |
 | **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Marketing & Lead Generation Intern](https://jobright.ai/jobs/info/6999dcda81476f6176b28b69?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 21 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedb1a46e5b153e5a60991?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 21 |
 | ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed25746e5b153e5a605a5?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Feb 21 |
@@ -137,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Photos by Lars](www.photosbylars.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6999b63ce0bddb6acac90085?utm_campaign=1065&utm_source=git)** | Syracuse, NY | Hybrid | Feb 20 |
 | **[LAX FC Soccer](lax-global.com/laxfc)** | **[Sports Marketing Intern](https://jobright.ai/jobs/info/6999ac0ae0bddb6acac8fca6?utm_campaign=1065&utm_source=git)** | Callaway, FL | Hybrid | Feb 20 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699947bb81476f6176b1e12f?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | Remote | Feb 20 |
-| **[SR Socially Relevant™️ Film Festival, NY](http://ratedsrfilms.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699944bbce78e77b4fde0627?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Feb 20 |
 | **[McKim & Creed, Inc.](http://mckimcreed.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/69991225ce78e77b4fddaf3c?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Feb 20 |
 | **[Easterseals Iowa](http://www.easterseals.com/ia)** | **[Marketing & Special Events Intern](https://jobright.ai/jobs/info/6999122281476f6176b1875e?utm_campaign=1065&utm_source=git)** | Des Moines,IA,US | On Site | Feb 20 |
 | **[Cisco](http://www.cisco.com)** | **[Product Marketing Manager MBA (Intern) - United States](https://jobright.ai/jobs/info/69993650ce78e77b4fddf0f7?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Feb 20 |
@@ -145,16 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Seaspan Corporation](http://www.seaspancorp.com/index.php)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6999311fe0bddb6acac83e3f?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
 | **[The Budd Group](https://www.buddgroup.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/699651b381476f6176ae18b7?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Feb 20 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Corporate Communications](https://jobright.ai/jobs/info/69996af6e0bddb6acac8a4c2?utm_campaign=1065&utm_source=git)** | Waterbury, CT | On Site | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Onsite Digital Marketing Intern](https://jobright.ai/jobs/info/699927c3ce78e77b4fddd8a0?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
-| ↳ | **[Fall 2026 Internship - Communications (PR) Specialist Intern](https://jobright.ai/jobs/info/69993135ce78e77b4fdde862?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Communications (PR) Specialist Intern](https://jobright.ai/jobs/info/69993135ce78e77b4fdde862?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Feb 20 |
+| ↳ | **[Fall 2026 Internship - Onsite Digital Marketing Intern](https://jobright.ai/jobs/info/699927c3ce78e77b4fddd8a0?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
 | ↳ | **[Fall 2026 Internship - Hybrid Digital Marketing Intern](https://jobright.ai/jobs/info/6999281b81476f6176b1ae7c?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Feb 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Seattle Parks & Recreation - Teen Late Night Internship](https://jobright.ai/jobs/info/6999333081476f6176b1be72?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 20 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing / Sales](https://jobright.ai/jobs/info/69993435ce78e77b4fdded48?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Feb 20 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Marketing](https://jobright.ai/jobs/info/69990a4481476f6176b17f6e?utm_campaign=1065&utm_source=git)** | Delano, CA | On Site | Feb 20 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer ‘26)](https://jobright.ai/jobs/info/699937f781476f6176b1c4d5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 20 |
 | **[Resmed](https://www.resmed.com.au)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/699938a481476f6176b1c59b?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Feb 20 |
 | **[Highland Film Group](https://highlandfilmgroup.com)** | **[Internship (Various) - Highland Film Group & The Avenue - Global Marketing, Acquisitions & Development, Film Sales](https://jobright.ai/jobs/info/699925a2ce78e77b4fddd387?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 20 |
 | **[Credo](http://www.credosemi.com)** | **[Content and Public Relations Intern](https://jobright.ai/jobs/info/6999264dce78e77b4fddd5ec?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Feb 20 |
-| **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Social Media & Digital Content Intern](https://jobright.ai/jobs/info/69997b70e0bddb6acac8bed4?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Remote | Feb 20 |
-| **[State Farm Agent](https://www.statefarm.com/)** | **[Summer Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69991c1ae0bddb6acac81a5d?utm_campaign=1065&utm_source=git)** | Chicago, IL 60619 | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
