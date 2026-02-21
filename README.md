@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Marketing & Lead Generation Intern](https://jobright.ai/jobs/info/6999dcda81476f6176b28b69?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 21 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedb1a46e5b153e5a60991?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 21 |
+| ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed25746e5b153e5a605a5?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Feb 21 |
+| **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Social Media & Digital Content Intern](https://jobright.ai/jobs/info/6999d40f81476f6176b2890d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 21 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed44ee0db92422580bdb3?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Feb 21 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - eCommerce Merchandising](https://jobright.ai/jobs/info/6945ffec7d506e3808f14a43?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | Hybrid | Feb 21 |
 | ↳ | **[Internship - Social Media](https://jobright.ai/jobs/info/697d1ec1137a05102566172f?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Feb 21 |
@@ -115,9 +119,9 @@ For a complete list, click the following sortable link below:
 | **[Playground](https://www.tryplayground.com/)** | **[Growth Marketing Intern: Intern-to-Hire Track](https://jobright.ai/jobs/info/69995687e0bddb6acac8818c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Client Relations Intern - 2026](https://jobright.ai/jobs/info/69994e40e0bddb6acac870ad?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Social Media and Marketing for Education Technology (EdTech) (3-5 Hrs/week)](https://jobright.ai/jobs/info/699946a181476f6176b1dfd6?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 20 |
-| **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6999490fce78e77b4fde0de4?utm_campaign=1065&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Feb 20 |
+| **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/699961a081476f6176b20fed?utm_campaign=1065&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 20 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6999565c81476f6176b1fbc7?utm_campaign=1065&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Feb 20 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/699961a081476f6176b20fed?utm_campaign=1065&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 20 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6999490fce78e77b4fde0de4?utm_campaign=1065&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Feb 20 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69994ed5e0bddb6acac87352?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 20 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69762dc537785856350feae6?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 20 |
 | **[Chewy](https://www.chewy.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69992087e0bddb6acac82252?utm_campaign=1065&utm_source=git)** | Plantation, FL | On Site | Feb 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Credo](http://www.credosemi.com)** | **[Content and Public Relations Intern](https://jobright.ai/jobs/info/6999264dce78e77b4fddd5ec?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Feb 20 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Social Media & Digital Content Intern](https://jobright.ai/jobs/info/69997b70e0bddb6acac8bed4?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Remote | Feb 20 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Summer Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69991c1ae0bddb6acac81a5d?utm_campaign=1065&utm_source=git)** | Chicago, IL 60619 | Hybrid | Feb 20 |
-| **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/699932dece78e77b4fddeba7?utm_campaign=1065&utm_source=git)** | Seal Beach, CA | On Site | Feb 20 |
-| **[St. Croix Health](http://scrmc.org)** | **[Marketing/Social Media - Recruitment Intern](https://jobright.ai/jobs/info/69995041ce78e77b4fde1a67?utm_campaign=1065&utm_source=git)** | St. Croix Falls,WI,US | On Site | Feb 20 |
-| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Global NY](https://jobright.ai/jobs/info/699945c0e0bddb6acac86373?utm_campaign=1065&utm_source=git)** | New York City, New York, NY, US | Hybrid | Feb 20 |
-| ↳ | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/69991b3c81476f6176b1978e?utm_campaign=1065&utm_source=git)** | New York City, New York, NY, US | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
