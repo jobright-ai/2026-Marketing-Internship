@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Museum of Science](http://www.mos.org)** | **[Social Media  College Internship](https://jobright.ai/jobs/info/6986359a0f6f7e7a2ce11820?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Feb 21 |
+| **[Trybe 8](www.trybe8.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/699a129981476f6176b2b314?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | Hybrid | Feb 21 |
+| **[Washtenaw County Road Commission](https://www.wcroads.org)** | **[Communications Intern](https://jobright.ai/jobs/info/699a0e5881476f6176b2b14f?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | On Site | Feb 21 |
+| **[Granite Edvance](www.graniteedvance.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/699a0cb5ce78e77b4fded874?utm_campaign=1065&utm_source=git)** | Concord, NH | On Site | Feb 21 |
 | **[Empeiric](www.empeiric.com)** | **[Digital Marketer (Unpaid Internship)](https://jobright.ai/jobs/info/699a05a1e0bddb6acac92c3f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 21 |
 | **[WriteMed.AI](https://writemed.ai)** | **[Marketing Intern - Volunteer - HealthAI](https://jobright.ai/jobs/info/6999fec6ce78e77b4fded2a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Leitner-Poma Of America](https://leitner-poma.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6999fb17ce78e77b4fded26b?utm_campaign=1065&utm_source=git)** | Grand Junction, CO | On Site | Feb 21 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Seaspan Corporation](http://www.seaspancorp.com/index.php)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6999311fe0bddb6acac83e3f?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
 | **[The Budd Group](https://www.buddgroup.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/699651b381476f6176ae18b7?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Feb 20 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Corporate Communications](https://jobright.ai/jobs/info/69996af6e0bddb6acac8a4c2?utm_campaign=1065&utm_source=git)** | Waterbury, CT | On Site | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Communications (PR) Specialist Intern](https://jobright.ai/jobs/info/69993135ce78e77b4fdde862?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Feb 20 |
-| ↳ | **[Fall 2026 Internship - Onsite Digital Marketing Intern](https://jobright.ai/jobs/info/699927c3ce78e77b4fddd8a0?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
-| ↳ | **[Fall 2026 Internship - Hybrid Digital Marketing Intern](https://jobright.ai/jobs/info/6999281b81476f6176b1ae7c?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Feb 20 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Seattle Parks & Recreation - Teen Late Night Internship](https://jobright.ai/jobs/info/6999333081476f6176b1be72?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 20 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing / Sales](https://jobright.ai/jobs/info/69993435ce78e77b4fdded48?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Onsite Digital Marketing Intern](https://jobright.ai/jobs/info/699927c3ce78e77b4fddd8a0?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
