@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship- Remote Influencer Assistant](https://jobright.ai/jobs/info/699917c5e0bddb6acac8127f?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Feb 20 |
 | **[Kabam](http://www.kabam.com)** | **[Product Marketing Co-op](https://jobright.ai/jobs/info/699916d3e0bddb6acac810e2?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
 | **[LMCU](https://www.lmcu.org/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/699572d3e0bddb6acac4089f?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Feb 20 |
 | **[Cisco](http://www.cisco.com)** | **[Product Marketing Manager MBA (Intern) - United States](https://jobright.ai/jobs/info/6999161be0bddb6acac80f81?utm_campaign=1065&utm_source=git)** | Triangle, NC | On Site | Feb 20 |
@@ -64,7 +65,10 @@ For a complete list, click the following sortable link below:
 | **[Easterseals Iowa](http://www.easterseals.com/ia)** | **[Marketing & Special Events Intern](https://jobright.ai/jobs/info/6999122281476f6176b1875e?utm_campaign=1065&utm_source=git)** | Des Moines,IA,US | On Site | Feb 20 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Marketing](https://jobright.ai/jobs/info/69990a4481476f6176b17f6e?utm_campaign=1065&utm_source=git)** | Delano, CA | On Site | Feb 20 |
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Luxury Marketing Internship in Paris](https://jobright.ai/jobs/info/69990a39ce78e77b4fdda7bb?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Feb 20 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Summer Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69991c1ae0bddb6acac81a5d?utm_campaign=1065&utm_source=git)** | Chicago, IL 60619 | Hybrid | Feb 20 |
+| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/69991b3c81476f6176b1978e?utm_campaign=1065&utm_source=git)** | New York City, New York, NY, US | Hybrid | Feb 20 |
 | **[Ecosystem](https://ecosystem-energy.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6998f78fe0bddb6acac7e770?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
+| **[Gallagher](https://www.gallagher.com/)** | **[eCommerce Internship](https://jobright.ai/jobs/info/69991b1481476f6176b19749?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
 | **[IQAir: First in Air Quality](https://www.iqair.com/)** | **[Communications Intern (3-month Internship)](https://jobright.ai/jobs/info/699916bf81476f6176b18ff7?utm_campaign=1065&utm_source=git)** | La Mirada, CA | On Site | Feb 20 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Livability Intern](https://jobright.ai/jobs/info/693248f7a0dde7020e2e5345?utm_campaign=1065&utm_source=git)** | Anchorage, AK | Hybrid | Feb 20 |
 | **[Relay](https://relaypro.com)** | **[Content Marketing Intern (Part time, Spring Semester)](https://jobright.ai/jobs/info/6998ed58ce78e77b4fdd7dd9?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 20 |
@@ -77,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Avant](https://www.avant.com)** | **[Card Strategy & Partnerships Summer Internship](https://jobright.ai/jobs/info/6998e65ace78e77b4fdd734b?utm_campaign=1065&utm_source=git)** | Chicago HQ | Hybrid | Feb 20 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6998e5d081476f6176b14b10?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 20 |
 | **[Yum!Brew](https://www.linkedin.com/company/104076910)** | **[TikTok Live Host Intern / Marketing Intern (OPT Eligible)](https://jobright.ai/jobs/info/6999133481476f6176b1893e?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Feb 20 |
+| **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Community Relations Associate (FT Intern)](https://jobright.ai/jobs/info/699919d9e0bddb6acac81659?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Feb 20 |
 | **[Kering](https://www.kering-ventures.com)** | **[KERING Communications Intern](https://jobright.ai/jobs/info/699916f081476f6176b1903b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[McKim & Creed, Inc.](http://mckimcreed.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/69990bb681476f6176b18145?utm_campaign=1065&utm_source=git)** | Wilmington, NC | On Site | Feb 20 |
 | ↳ | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/69990dc9e0bddb6acac80510?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 20 |
@@ -137,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Corporate Communications](https://jobright.ai/jobs/info/6998f8c481476f6176b166d8?utm_campaign=1065&utm_source=git)** | CT Waterbury 145 Bank St | On Site | Feb 20 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Marketing Intern, CRM](https://jobright.ai/jobs/info/69990ac781476f6176b1800b?utm_campaign=1065&utm_source=git)** | 475 South St, Morristown, NJ, 07960, US | On Site | Feb 20 |
 | **[Freeman Company](http://www.freeman.com)** | **[MDG Intern](https://jobright.ai/jobs/info/6998bfdb81476f6176b12bf8?utm_campaign=1065&utm_source=git)** | Nevada - Sparks | On Site | Feb 20 |
-| ↳ | **[MDG Intern](https://jobright.ai/jobs/info/6998bfc2e0bddb6acac7afb4?utm_campaign=1065&utm_source=git)** | California - Huntington Beach | On Site | Feb 20 |
 | ↳ | **[MDG Intern](https://jobright.ai/jobs/info/6998bfc281476f6176b12be3?utm_campaign=1065&utm_source=git)** | Utah - Salt Lake City | On Site | Feb 20 |
+| ↳ | **[MDG Intern](https://jobright.ai/jobs/info/6998bfc2e0bddb6acac7afb4?utm_campaign=1065&utm_source=git)** | California - Huntington Beach | On Site | Feb 20 |
 | ↳ | **[MDG Intern](https://jobright.ai/jobs/info/6998bfa8ce78e77b4fdd52f1?utm_campaign=1065&utm_source=git)** | Illinois - Chicago | On Site | Feb 20 |
 | ↳ | **[MDG Intern](https://jobright.ai/jobs/info/6998bf66e0bddb6acac7af6b?utm_campaign=1065&utm_source=git)** | California - Anaheim | On Site | Feb 20 |
 | **[Cabrini Green Legal Aid](https://www.cgla.net/)** | **[Development - Summer Intern 2026](https://jobright.ai/jobs/info/6998faeae0bddb6acac7ece3?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MDG Intern](https://jobright.ai/jobs/info/6998bdf5ce78e77b4fdd524f?utm_campaign=1065&utm_source=git)** | California - Carlsbad | On Site | Feb 20 |
 | ↳ | **[MDG Intern](https://jobright.ai/jobs/info/6998bdef81476f6176b12ac7?utm_campaign=1065&utm_source=git)** | Mississippi - Tunica | On Site | Feb 20 |
 | ↳ | **[MDG Intern](https://jobright.ai/jobs/info/6998bd86e0bddb6acac7adec?utm_campaign=1065&utm_source=git)** | Arizona - Lake Havasau | On Site | Feb 20 |
-| ↳ | **[MDG Intern](https://jobright.ai/jobs/info/6998bd5381476f6176b12a87?utm_campaign=1065&utm_source=git)** | Nevada - Lake Tahoe | On Site | Feb 20 |
-| ↳ | **[MDG Intern](https://jobright.ai/jobs/info/6998bc94e0bddb6acac7ad48?utm_campaign=1065&utm_source=git)** | California - Indian Wells | On Site | Feb 20 |
-| ↳ | **[MDG Intern](https://jobright.ai/jobs/info/6998bc6081476f6176b12a33?utm_campaign=1065&utm_source=git)** | Idaho - Eagle | On Site | Feb 20 |
-| ↳ | **[MDG Intern](https://jobright.ai/jobs/info/6998bc5cce78e77b4fdd511c?utm_campaign=1065&utm_source=git)** | California - Burlingame | On Site | Feb 20 |
-| **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Corporate Growth Reference Advisors - Americas](https://jobright.ai/jobs/info/69990376e0bddb6acac7f913?utm_campaign=1065&utm_source=git)** | Newtown Square, PA, US, 19073 | Remote | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
