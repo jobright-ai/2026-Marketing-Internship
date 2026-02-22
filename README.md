@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Communications Intern - Austin)](https://jobright.ai/jobs/info/699a6339ce78e77b4fdf1e14?utm_campaign=1065&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
+| ↳ | **[GLO - Communications Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a6210ce78e77b4fdf1bca?utm_campaign=1065&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
+| ↳ | **[TPWD - Intern I - II - III (Marketing Intern - Austin)](https://jobright.ai/jobs/info/699a6174ce78e77b4fdf1a4a?utm_campaign=1065&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
+| ↳ | **[TPWD - Intern I - II - III (Marketing Intern - Austin)](https://jobright.ai/jobs/info/699a5f00e0bddb6acac966ff?utm_campaign=1065&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[B2B Marketing Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/699a5504e0bddb6acac95cf3?utm_campaign=1065&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c6ead49a7695fbd033725?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | On Site | Feb 21 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Communications Intern - Austin)](https://jobright.ai/jobs/info/699a64ad81476f6176b2f3f1?utm_campaign=1065&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
 | **[PatchNotes](https://mediapatchnotes.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699a3d56e0bddb6acac951d4?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 21 |
 | **[DormCo](http://www.dormco.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699a3d42e0bddb6acac951bb?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 21 |
-| **[Strengthen Our Bodies](https://strengthenourbodies.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699a39b1ce78e77b4fdef9f9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Communications and Design Intern Job ID : 272527](https://jobright.ai/jobs/info/699a21c8e0bddb6acac94f79?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Feb 21 |
 | **[Skild AI](https://www.skild.ai/)** | **[Social Media Intern](https://jobright.ai/jobs/info/699a1dc4ce78e77b4fdef72d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Feb 21 |
 | **[RealSelf](https://www.realself.com)** | **[Digital Intern (NYC)](https://jobright.ai/jobs/info/699a14edce78e77b4fdedc41?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Feb 21 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[B2B Marketing Master's Intern](https://jobright.ai/jobs/info/6999f404e0bddb6acac92a85?utm_campaign=1065&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/697303591790715e866bef93?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Hybrid | Feb 21 |
 | **[Value Aligners](Valuealigners.com)** | **[Cyber Security Sales & Marketing Intern](https://jobright.ai/jobs/info/6999dfe1ce78e77b4fdeb491?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Feb 21 |
-| **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Marketing & Lead Generation Intern](https://jobright.ai/jobs/info/6999dcda81476f6176b28b69?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Feb 21 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedb1a46e5b153e5a60991?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 21 |
 | ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed25746e5b153e5a605a5?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Feb 21 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Social Media & Digital Content Intern](https://jobright.ai/jobs/info/6999d40f81476f6176b2890d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 21 |
@@ -138,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Client Relations Intern - 2026](https://jobright.ai/jobs/info/69994e40e0bddb6acac870ad?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Social Media and Marketing for Education Technology (EdTech) (3-5 Hrs/week)](https://jobright.ai/jobs/info/699946a181476f6176b1dfd6?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 20 |
 | **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/699961a081476f6176b20fed?utm_campaign=1065&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 20 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6999490fce78e77b4fde0de4?utm_campaign=1065&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Feb 20 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6999565c81476f6176b1fbc7?utm_campaign=1065&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Feb 20 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6999490fce78e77b4fde0de4?utm_campaign=1065&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Feb 20 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69994ed5e0bddb6acac87352?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 20 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69762dc537785856350feae6?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 20 |
 | **[Chewy](https://www.chewy.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69992087e0bddb6acac82252?utm_campaign=1065&utm_source=git)** | Plantation, FL | On Site | Feb 20 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Kabam](http://www.kabam.com)** | **[Product Marketing Co-op](https://jobright.ai/jobs/info/699916d3e0bddb6acac810e2?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
 | **[LMCU](https://www.lmcu.org/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/699572d3e0bddb6acac4089f?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Feb 20 |
 | **[Cisco](http://www.cisco.com)** | **[Product Marketing Manager MBA (Intern) - United States](https://jobright.ai/jobs/info/6999161be0bddb6acac80f81?utm_campaign=1065&utm_source=git)** | Triangle, NC | On Site | Feb 20 |
-| **[Photos by Lars](www.photosbylars.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6999b63ce0bddb6acac90085?utm_campaign=1065&utm_source=git)** | Syracuse, NY | Hybrid | Feb 20 |
 | **[LAX FC Soccer](lax-global.com/laxfc)** | **[Sports Marketing Intern](https://jobright.ai/jobs/info/6999ac0ae0bddb6acac8fca6?utm_campaign=1065&utm_source=git)** | Callaway, FL | Hybrid | Feb 20 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699947bb81476f6176b1e12f?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | Remote | Feb 20 |
-| **[McKim & Creed, Inc.](http://mckimcreed.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/69991225ce78e77b4fddaf3c?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Feb 20 |
-| **[Easterseals Iowa](http://www.easterseals.com/ia)** | **[Marketing & Special Events Intern](https://jobright.ai/jobs/info/6999122281476f6176b1875e?utm_campaign=1065&utm_source=git)** | Des Moines,IA,US | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
