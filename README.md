@@ -57,10 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b39eae0bddb6acaca41a9?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 22 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b39b4e0bddb6acaca419c?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 22 |
+| **[Princess Penned](https://mlinda3.substack.com/p/0c0761b3-e813-4d98-bb07-20a668a7fb4a)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699b36bfe0bddb6acaca417c?utm_campaign=1065&utm_source=git)** | Norfolk, VA | Remote | Feb 22 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b331d81476f6176b3b3b5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 22 |
+| **[RPNZL](www.rpnzlbeauty.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699b2f5b81476f6176b3a790?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b2e9281476f6176b3a76e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 22 |
+| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Market Research and Commercial Analyst Intern](https://jobright.ai/jobs/info/699b2767e0bddb6acaca2778?utm_campaign=1065&utm_source=git)** | Edison, NJ | On Site | Feb 22 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699b2727e0bddb6acaca275f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[West Coast Sourdough](https://www.wcsourdough.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/699b2406e0bddb6acaca272c?utm_campaign=1065&utm_source=git)** | Loomis, CA | On Site | Feb 22 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6881d6e141fbda106ee6da2f?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 22 |
 | **[GACC WEST – Representative of German Business](https://www.gaccwest.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/699b2120e0bddb6acaca271d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 22 |
 | **[The Oakworth Group](www.theoakworth.com)** | **[Digital Marketing & Content Intern](https://jobright.ai/jobs/info/699b16b5e0bddb6acaca25cc?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
+| **[Crystal Dynamics](http://crystald.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699b39f081476f6176b3c1f1?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/699b11e4ce78e77b4fdfd0fb?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Oakland University](http://www.oakland.edu)** | **[Summer Student Communication Internship for Baby PEACE (Fixed-term)](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7c08?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Feb 22 |
 | **[C&D Talent Advisory - Academy](cdtalentadvisory.com)** | **[Social Media Ads Specialist Intern](https://jobright.ai/jobs/info/699b02f381476f6176b39e36?utm_campaign=1065&utm_source=git)** | Arizona, United States | Remote | Feb 22 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GreenLeaf, a Chefs' Warehouse company](https://greenleafsf.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/697d26ba3f57a3356966e2b0?utm_campaign=1065&utm_source=git)** | Brisbane, CA | Hybrid | Feb 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cb9400ba798c1a501d1fed?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 21 |
 | ↳ | **[Product Marketing Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697d6fac727747250d585879?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Feb 21 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing, Sales & Business Development Internship](https://jobright.ai/jobs/info/697d5fcb727747250d58439d?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | Feb 21 |
-| **[Exiger](http://www.exiger.com)** | **[Marketing Automation & AI Enablement Intern (Summer 2026)](https://jobright.ai/jobs/info/6961b576a112b40266104602?utm_campaign=1065&utm_source=git)** | McLean, VA | Hybrid | Feb 21 |
-| **[City of Venice, Florida](https://www.venicegov.com/)** | **[Public Information Interns](https://jobright.ai/jobs/info/6998c823e0bddb6acac7b631?utm_campaign=1065&utm_source=git)** | Venice, FL | On Site | Feb 21 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Marketing Manager](https://jobright.ai/jobs/info/68d3abcf17554c2d9eef4104?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
-| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Management Associate Program - Vaccine](https://jobright.ai/jobs/info/69613532e7ed9a5731b9fd97?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Feb 21 |
-| **[Cabrini Green Legal Aid](https://www.cgla.net/)** | **[Development - Summer Intern 2026](https://jobright.ai/jobs/info/6999747881476f6176b2311e?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 21 |
-| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69996cd9ce78e77b4fde4eb0?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 21 |
-| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/6999819cce78e77b4fde6d76?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 20 |
-| **[Strategic America](https://www.strategicamerica.com)** | **[Paid Social Media Intern](https://jobright.ai/jobs/info/69997d5181476f6176b23ff6?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
