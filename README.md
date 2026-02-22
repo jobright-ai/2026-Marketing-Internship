@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Calgon Carbon Corporation](http://calgoncarbon.com)** | **[Marketing and Business Development Intern – ICT](https://jobright.ai/jobs/info/699b601b81476f6176b3c8c3?utm_campaign=1065&utm_source=git)** | Coraopolis, PA | Hybrid | Feb 22 |
 | **[HealthLinks Marketing](https://healthlinksmarketing.com)** | **[Digital Marketing Specialist](https://jobright.ai/jobs/info/699b4bfbce78e77b4fdfefb8?utm_campaign=1065&utm_source=git)** | Mount Pleasant, SC | On Site | Feb 22 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b44ca81476f6176b3c337?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 22 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b4495ce78e77b4fdfef30?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Workplace Support Ambassador Intern - Summer 2026](https://jobright.ai/jobs/info/6945de8563141d1884557dec?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Feb 21 |
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Communications (Summer 2026)](https://jobright.ai/jobs/info/6993f350e0bddb6acac24137?utm_campaign=1065&utm_source=git)** | Macungie, PA | On Site | Feb 21 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69392d7056b68f3dc4e6a333?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 21 |
-| **[Aircall](https://aircall.io/)** | **[Regional Marketing Intern, LATAM (12 months)](https://jobright.ai/jobs/info/69961ac1ce78e77b4fda0f88?utm_campaign=1065&utm_source=git)** | San Francisco Office | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
