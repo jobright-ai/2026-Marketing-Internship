@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oakland University](http://www.oakland.edu)** | **[Summer Student Communication Internship for Baby PEACE (Fixed-term)](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7c08?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Feb 22 |
+| **[C&D Talent Advisory - Academy](cdtalentadvisory.com)** | **[Social Media Ads Specialist Intern](https://jobright.ai/jobs/info/699b02f381476f6176b39e36?utm_campaign=1065&utm_source=git)** | Arizona, United States | Remote | Feb 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Softlines Apparel and Accessories Licensing Intern, Summer/Fall, 2026](https://jobright.ai/jobs/info/699aeadfce78e77b4fdfad10?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Feb 22 |
 | **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945b560d1953b5d11beb345?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 22 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Softlines Apparel and Accessories Licensing Intern, Summer/Fall, 2026](https://jobright.ai/jobs/info/699ae7dcce78e77b4fdfacdd?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Feb 22 |
@@ -128,7 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Multimedia Marketing Intern - Summer](https://jobright.ai/jobs/info/698eb19e78b4502f12a5872b?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 21 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Search Analytics & Insights Intern](https://jobright.ai/jobs/info/69616abaa112b402660fecd6?utm_campaign=1065&utm_source=git)** | Littleton, CO | On Site | Feb 21 |
 | **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945adf5951654073537c825?utm_campaign=1065&utm_source=git)** | Lexington, KY | Hybrid | Feb 21 |
-| **[Motion](http://www.dragosupply.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697d6827137a0510256689e0?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Feb 21 |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Social Media and Marketing for Education Technology (EdTech) (3-5 Hrs/week)](https://jobright.ai/jobs/info/699946a181476f6176b1dfd6?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 21 |
+| **[Motion](https://www.motion.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697d6827137a0510256689e0?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Feb 21 |
 | **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Feb 21 |
 | **[Smith & Associates](http://www.smithweb.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/697cfd6b3f57a3356966b5c4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 21 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Workplace Support Ambassador Intern - Summer 2026](https://jobright.ai/jobs/info/6945de8563141d1884557dec?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Feb 21 |
@@ -141,6 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Marketing Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697d6fac727747250d585879?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Feb 21 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing, Sales & Business Development Internship](https://jobright.ai/jobs/info/697d5fcb727747250d58439d?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | Feb 21 |
 | **[Exiger](http://www.exiger.com)** | **[Marketing Automation & AI Enablement Intern (Summer 2026)](https://jobright.ai/jobs/info/6961b576a112b40266104602?utm_campaign=1065&utm_source=git)** | McLean, VA | Hybrid | Feb 21 |
+| **[City of Venice, Florida](https://www.venicegov.com/)** | **[Public Information Interns](https://jobright.ai/jobs/info/6998c823e0bddb6acac7b631?utm_campaign=1065&utm_source=git)** | Venice, FL | On Site | Feb 21 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Marketing Manager](https://jobright.ai/jobs/info/68d3abcf17554c2d9eef4104?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Management Associate Program - Vaccine](https://jobright.ai/jobs/info/69613532e7ed9a5731b9fd97?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Feb 21 |
 | **[Cabrini Green Legal Aid](https://www.cgla.net/)** | **[Development - Summer Intern 2026](https://jobright.ai/jobs/info/6999747881476f6176b2311e?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Marketing - Summer 2026 Intern](https://jobright.ai/jobs/info/699aacd3ce78e77b4fdf73a2?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Jackson Family Wines](http://www.jacksonfamilywines.com)** | **[Marketing & Administrative Assistant](https://jobright.ai/jobs/info/699968a581476f6176b21ae9?utm_campaign=1065&utm_source=git)** | McMinnville, OR | On Site | Feb 20 |
 | **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/699946bcce78e77b4fde09fa?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 20 |
-| **[Playground](https://www.tryplayground.com/)** | **[Intern-to-Hire Program — Marketing Generalist Track](https://jobright.ai/jobs/info/69994660ce78e77b4fde09a8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Softlines Apparel and Accessories Licensing Intern, Summer/Fall, 2026](https://jobright.ai/jobs/info/6999631ce0bddb6acac89536?utm_campaign=1065&utm_source=git)** | Celebration, FL, USA | On Site | Feb 20 |
-| **[Playground](https://www.tryplayground.com/)** | **[Growth Marketing Intern: Intern-to-Hire Track](https://jobright.ai/jobs/info/69995687e0bddb6acac8818c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 20 |
-| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Client Relations Intern - 2026](https://jobright.ai/jobs/info/69994e40e0bddb6acac870ad?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
