@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b39eae0bddb6acaca41a9?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 22 |
+| **[HealthLinks Marketing](https://healthlinksmarketing.com)** | **[Digital Marketing Specialist](https://jobright.ai/jobs/info/699b4bfbce78e77b4fdfefb8?utm_campaign=1065&utm_source=git)** | Mount Pleasant, SC | On Site | Feb 22 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b44ca81476f6176b3c337?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 22 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b4495ce78e77b4fdfef30?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 22 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b446081476f6176b3c31c?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 22 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b43ea81476f6176b3c2f8?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 22 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b39eae0bddb6acaca41a9?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 22 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b39b4e0bddb6acaca419c?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 22 |
 | **[Princess Penned](https://mlinda3.substack.com/p/0c0761b3-e813-4d98-bb07-20a668a7fb4a)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699b36bfe0bddb6acaca417c?utm_campaign=1065&utm_source=git)** | Norfolk, VA | Remote | Feb 22 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b331d81476f6176b3b3b5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 22 |
@@ -67,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699b2727e0bddb6acaca275f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[West Coast Sourdough](https://www.wcsourdough.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/699b2406e0bddb6acaca272c?utm_campaign=1065&utm_source=git)** | Loomis, CA | On Site | Feb 22 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6881d6e141fbda106ee6da2f?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 22 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/699b452de0bddb6acaca42f0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[GACC WEST – Representative of German Business](https://www.gaccwest.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/699b2120e0bddb6acaca271d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 22 |
-| **[The Oakworth Group](www.theoakworth.com)** | **[Digital Marketing & Content Intern](https://jobright.ai/jobs/info/699b16b5e0bddb6acaca25cc?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699b39f081476f6176b3c1f1?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/699b11e4ce78e77b4fdfd0fb?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Oakland University](http://www.oakland.edu)** | **[Summer Student Communication Internship for Baby PEACE (Fixed-term)](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7c08?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Feb 22 |
@@ -85,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69844a8b8da7a612045e67cc?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Feb 22 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Marketing Internship](https://jobright.ai/jobs/info/699acb4f81476f6176b36a96?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 22 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/6959e1ed9f1b381eb272888d?utm_campaign=1065&utm_source=git)** | Bergen County, NJ | Hybrid | Feb 22 |
-| **[LockedIn HQ (LockedIn Sports Technologies Inc.)](https://lockedinhq.org/)** | **[Digital Media & Content Production Intern](https://jobright.ai/jobs/info/699ac10381476f6176b35b09?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Kering  Communications Intern](https://jobright.ai/jobs/info/699abe18e0bddb6acac9dd2d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Communications Specialist Intern](https://jobright.ai/jobs/info/699a9d0f81476f6176b33f11?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Merchandising Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699a8b14e0bddb6acac99c8e?utm_campaign=1065&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Feb 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Communications (Summer 2026)](https://jobright.ai/jobs/info/6993f350e0bddb6acac24137?utm_campaign=1065&utm_source=git)** | Macungie, PA | On Site | Feb 21 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69392d7056b68f3dc4e6a333?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 21 |
 | **[Aircall](https://aircall.io/)** | **[Regional Marketing Intern, LATAM (12 months)](https://jobright.ai/jobs/info/69961ac1ce78e77b4fda0f88?utm_campaign=1065&utm_source=git)** | San Francisco Office | Hybrid | Feb 21 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Communications](https://jobright.ai/jobs/info/697d60c53f57a33569674282?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Feb 21 |
-| **[GreenLeaf, a Chefs' Warehouse company](https://greenleafsf.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/697d26ba3f57a3356966e2b0?utm_campaign=1065&utm_source=git)** | Brisbane, CA | Hybrid | Feb 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cb9400ba798c1a501d1fed?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 21 |
-| ↳ | **[Product Marketing Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697d6fac727747250d585879?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
