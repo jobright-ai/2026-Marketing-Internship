@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Marketing Internship](https://jobright.ai/jobs/info/699acb4f81476f6176b36a96?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 22 |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/6959e1ed9f1b381eb272888d?utm_campaign=1065&utm_source=git)** | Bergen County, NJ | Hybrid | Feb 22 |
+| **[LockedIn HQ (LockedIn Sports Technologies Inc.)](https://lockedinhq.org/)** | **[Digital Media & Content Production Intern](https://jobright.ai/jobs/info/699ac10381476f6176b35b09?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
+| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Kering  Communications Intern](https://jobright.ai/jobs/info/699abe18e0bddb6acac9dd2d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Communications Specialist Intern](https://jobright.ai/jobs/info/699a9d0f81476f6176b33f11?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Merchandising Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699a8b14e0bddb6acac99c8e?utm_campaign=1065&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Feb 21 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer ‘26)](https://jobright.ai/jobs/info/699a871881476f6176b3177d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 21 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GLO - Communications Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a6210ce78e77b4fdf1bca?utm_campaign=1065&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Marketing Intern - Austin)](https://jobright.ai/jobs/info/699a6174ce78e77b4fdf1a4a?utm_campaign=1065&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Marketing Intern - Austin)](https://jobright.ai/jobs/info/699a5f00e0bddb6acac966ff?utm_campaign=1065&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[B2B Marketing Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/699a5504e0bddb6acac95cf3?utm_campaign=1065&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c6ead49a7695fbd033725?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | On Site | Feb 21 |
 | **[Bennett Milner Williams Consulting Ltd](https://www.bmwconsults.com)** | **[Paid Intern for Summer - Community & Scientific Communications Associate](https://jobright.ai/jobs/info/699a7c9381476f6176b30f80?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Communications Intern - Austin)](https://jobright.ai/jobs/info/699a64ad81476f6176b2f3f1?utm_campaign=1065&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
@@ -137,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/6999819cce78e77b4fde6d76?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 20 |
 | **[Strategic America](https://www.strategicamerica.com)** | **[Paid Social Media Intern](https://jobright.ai/jobs/info/69997d5181476f6176b23ff6?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | Hybrid | Feb 20 |
 | **[NETSCOUT](http://www.netscout.com)** | **[CORPORATE MARKETING INTERN - SUMMER 2026](https://jobright.ai/jobs/info/69995b56ce78e77b4fde2c82?utm_campaign=1065&utm_source=git)** | Westford, MA | On Site | Feb 20 |
+| **[Atlantic Health](http://www.atlantichealth.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/699abc6ee0bddb6acac9da99?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Feb 20 |
 | **[Jingo](https://www.jingo.app)** | **[Marketing & Growth Intern](https://jobright.ai/jobs/info/699953f4e0bddb6acac87cae?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | **[Honeywell](http://www.honeywell.com)** | **[Marketing - Summer 2026 Intern](https://jobright.ai/jobs/info/699aacd3ce78e77b4fdf73a2?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Jackson Family Wines](http://www.jacksonfamilywines.com)** | **[Marketing & Administrative Assistant](https://jobright.ai/jobs/info/699968a581476f6176b21ae9?utm_campaign=1065&utm_source=git)** | McMinnville, OR | On Site | Feb 20 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Playground](https://www.tryplayground.com/)** | **[Growth Marketing Intern: Intern-to-Hire Track](https://jobright.ai/jobs/info/69995687e0bddb6acac8818c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Client Relations Intern - 2026](https://jobright.ai/jobs/info/69994e40e0bddb6acac870ad?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Marketing & Outreach for EdTech Entrepreneur (3-5 Hrs/week)](https://jobright.ai/jobs/info/699946a181476f6176b1dfd6?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 20 |
-| **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/699961a081476f6176b20fed?utm_campaign=1065&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 20 |
+| **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6999565c81476f6176b1fbc7?utm_campaign=1065&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Feb 20 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6999490fce78e77b4fde0de4?utm_campaign=1065&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Feb 20 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6999565c81476f6176b1fbc7?utm_campaign=1065&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Feb 20 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/699961a081476f6176b20fed?utm_campaign=1065&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 20 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69994ed5e0bddb6acac87352?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 20 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69762dc537785856350feae6?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 20 |
 | **[Chewy](https://www.chewy.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69992087e0bddb6acac82252?utm_campaign=1065&utm_source=git)** | Plantation, FL | On Site | Feb 20 |
 | **[Cisco](http://www.cisco.com)** | **[Product Marketing Manager MBA (Intern) - United States](https://jobright.ai/jobs/info/6999205ce0bddb6acac82214?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Remote Digital Marketing/Social Media](https://jobright.ai/jobs/info/69991f5de0bddb6acac81ffc?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Feb 20 |
-| **[Citizen Relations](http://ca.citizenrelations.com)** | **[Internship (Public Relations)](https://jobright.ai/jobs/info/699948ba81476f6176b1e4da?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 20 |
-| **[Relay](https://relaypro.com)** | **[Content Marketing Intern (Part time, Spring Semester)](https://jobright.ai/jobs/info/69993a48e0bddb6acac84e77?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 20 |
-| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Media and Video Editing Internship – Short-Form Ads/ Sales Videos](https://jobright.ai/jobs/info/699942bee0bddb6acac85e14?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
