@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[REDLattice, Inc.](https://redlattice.com/)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/698a343e47434001cc6869bd?utm_campaign=1065&utm_source=git)** | Chantilly, VA | On Site | Feb 22 |
+| **[Zen Trading](zentraders.xyz)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/699bb50281476f6176b40987?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Feb 22 |
+| **[C&D Talent Advisory - Academy](cdtalentadvisory.com)** | **[Social Media Management Intern](https://jobright.ai/jobs/info/699bb13ee0bddb6acaca85d5?utm_campaign=1065&utm_source=git)** | Arizona, United States | Remote | Feb 22 |
 | **[Ottawa County](https://miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/699baa20e0bddb6acaca8320?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Feb 22 |
 | **[LoveLane](https://www.lovelane.co)** | **[Social media content creator, US - App Start-up (unpaid, remote)](https://jobright.ai/jobs/info/699ba41fce78e77b4fe01837?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
 | **[cdpHub™](https://www.linkedin.com/company/100846963)** | **[Marketing Intern](https://jobright.ai/jobs/info/699ba17e81476f6176b3f3e5?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Multimedia Marketing Intern - Summer](https://jobright.ai/jobs/info/698eb19e78b4502f12a5872b?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 21 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Search Analytics & Insights Intern](https://jobright.ai/jobs/info/69616abaa112b402660fecd6?utm_campaign=1065&utm_source=git)** | Littleton, CO | On Site | Feb 21 |
 | **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945adf5951654073537c825?utm_campaign=1065&utm_source=git)** | Lexington, KY | Hybrid | Feb 21 |
-| **[Kelly Tutors](www.kellytutors.com)** | **[Social Media and Marketing for Education Technology (EdTech) (3-5 Hrs/week)](https://jobright.ai/jobs/info/699946a181476f6176b1dfd6?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 21 |
-| **[Motion](https://www.motion.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697d6827137a0510256689e0?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Feb 21 |
-| **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
