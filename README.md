@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ottawa County](https://miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/699baa20e0bddb6acaca8320?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Feb 22 |
+| **[LoveLane](https://www.lovelane.co)** | **[Social media content creator, US - App Start-up (unpaid, remote)](https://jobright.ai/jobs/info/699ba41fce78e77b4fe01837?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
+| **[cdpHub™](https://www.linkedin.com/company/100846963)** | **[Marketing Intern](https://jobright.ai/jobs/info/699ba17e81476f6176b3f3e5?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 22 |
 | **[Starbeam](www.starbeam.org)** | **[Growth (Sales & Marketing) Intern](https://jobright.ai/jobs/info/699b99f1ce78e77b4fe01725?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 22 |
 | **[War Room to Board Room](https://fromwarroomtoboard.wixsite.com/my-site-1/podcast)** | **[Podcast Content Strategist & Research Intern](https://jobright.ai/jobs/info/699b9447ce78e77b4fe016a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Songmasters](https://songmasters.org/)** | **[NY Based Marketing and Research Intern](https://jobright.ai/jobs/info/699b8ce1e0bddb6acaca68c4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kelly Tutors](www.kellytutors.com)** | **[Social Media and Marketing for Education Technology (EdTech) (3-5 Hrs/week)](https://jobright.ai/jobs/info/699946a181476f6176b1dfd6?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 21 |
 | **[Motion](https://www.motion.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/697d6827137a0510256689e0?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Feb 21 |
 | **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Feb 21 |
-| **[Smith & Associates](http://www.smithweb.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/697cfd6b3f57a3356966b5c4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 21 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Workplace Support Ambassador Intern - Summer 2026](https://jobright.ai/jobs/info/6945de8563141d1884557dec?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Feb 21 |
-| **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Communications (Summer 2026)](https://jobright.ai/jobs/info/6993f350e0bddb6acac24137?utm_campaign=1065&utm_source=git)** | Macungie, PA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
