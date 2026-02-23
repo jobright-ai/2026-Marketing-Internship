@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chicken Salad Chick](http://www.chickensaladchick.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/699c5d45ce78e77b4fe11b10?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 23 |
+| **[Crazy Ant Media](https://crazyantmedia.com/)** | **[Social Media Interns for Film Production Company & Podcasts](https://jobright.ai/jobs/info/699c5cd0ce78e77b4fe11a6d?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 23 |
+| **[UnitedMasters](https://unitedmasters.com/)** | **[Data Strategy Intern - The Come Up 2026](https://jobright.ai/jobs/info/699c593681476f6176b4e45e?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
+| ↳ | **[Artist & Digital Marketing Intern - The Come Up 2026](https://jobright.ai/jobs/info/699c582f81476f6176b4e1a9?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
+| **[Motion](http://www.dragosupply.com/)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/6933a477f131d96e484652ae?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Feb 23 |
+| **[Find Community Connection Project](https://www.findccproject.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/699c52b1e0bddb6acacb52ad?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 23 |
 | **[Turlock Irrigation District](https://tid.com)** | **[2026 Student Internship - Communications-Marketing, Public Relations, Graphic Design](https://jobright.ai/jobs/info/699c516681476f6176b4d413?utm_campaign=1065&utm_source=git)** | Turlock, CA | On Site | Feb 23 |
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/699c448f81476f6176b4be95?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 23 |
 | **[The Shoshana](www.theshoshana.com)** | **[Social Media and Content Creation Intern - Spring Semester](https://jobright.ai/jobs/info/699c441081476f6176b4be23?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RealSelf](https://www.realself.com)** | **[Digital Intern (NYC)](https://jobright.ai/jobs/info/699a14edce78e77b4fdedc41?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Feb 21 |
 | **[Museum of Science](http://www.mos.org)** | **[Social Media  College Internship](https://jobright.ai/jobs/info/6986359a0f6f7e7a2ce11820?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Feb 21 |
 | **[Granite Edvance](www.graniteedvance.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/699a0cb5ce78e77b4fded874?utm_campaign=1065&utm_source=git)** | Concord, NH | On Site | Feb 21 |
-| **[WriteMed.AI](https://writemed.ai)** | **[Marketing Intern - Volunteer - HealthAI](https://jobright.ai/jobs/info/6999fec6ce78e77b4fded2a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 21 |
-| **[Leitner-Poma Of America](https://leitner-poma.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6999fb17ce78e77b4fded26b?utm_campaign=1065&utm_source=git)** | Grand Junction, CO | On Site | Feb 21 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[B2B Marketing Master's Intern](https://jobright.ai/jobs/info/6999f404e0bddb6acac92a85?utm_campaign=1065&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/697303591790715e866bef93?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Hybrid | Feb 21 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedb1a46e5b153e5a60991?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 21 |
-| ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed25746e5b153e5a605a5?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
