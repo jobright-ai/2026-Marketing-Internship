@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mead & Hunt](https://meadhunt.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/699c900be0bddb6acacbaa36?utm_campaign=1065&utm_source=git)** | Lexington, SC | On Site | Feb 23 |
+| **[VytalCare](https://vytalcare.online/)** | **[Marketing Intern](https://jobright.ai/jobs/info/699c8f2ce0bddb6acacba9b8?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 23 |
+| **[GamesBeat](https://gamesbeat.com)** | **[Event Coordinator Intern](https://jobright.ai/jobs/info/699c8d65e0bddb6acacba8f8?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 23 |
+| **[Winsupply](http://www.winsupplyinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699c8cfbe0bddb6acacba8e2?utm_campaign=1065&utm_source=git)** | Moraine, OH | On Site | Feb 23 |
+| **[TopBin90](Topbin90.com)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/699c8ac3ce78e77b4fe14c59?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Feb 23 |
+| **[Dorsia](https://www.dorsia.com)** | **[Editorial & Communications Intern](https://jobright.ai/jobs/info/699c853f81476f6176b50dfc?utm_campaign=1065&utm_source=git)** | New York City, NY | On Site | Feb 23 |
+| **[Zimmerman Advertising](https://www.zadv.com)** | **[Internship, Copywriter (Summer 2026)](https://jobright.ai/jobs/info/6995a505ce78e77b4fd9c1a5?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 23 |
+| **[Dorsia](https://www.dorsia.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699c827de0bddb6acacb8ac1?utm_campaign=1065&utm_source=git)** | New York City, NY | On Site | Feb 23 |
+| **[Paradowski Creative](https://paradowski.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/699c8004e0bddb6acacb88f6?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
+| **[New York Road Runners](http://www.nyrr.org/)** | **[Public Relations Internship (Part-Time)](https://jobright.ai/jobs/info/699c7ea3e0bddb6acacb87ca?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[Brixenta](brixenta.net)** | **[Growth and Commercial Analyst Intern](https://jobright.ai/jobs/info/699c7ac3ce78e77b4fe1352b?utm_campaign=1065&utm_source=git)** | Schenectady, NY | On Site | Feb 23 |
 | **[New York Road Runners](http://www.nyrr.org/)** | **[Social Media Internship (Part-Time)](https://jobright.ai/jobs/info/699c7a4e81476f6176b5065e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[Litchfield Wellness](https://www.litchfieldwellness.org/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699c7874e0bddb6acacb8346?utm_campaign=1065&utm_source=git)** | Litchfield County, CT | Hybrid | Feb 23 |
 | **[Lake Martin Marketing Group](https://lakemartinmarketing.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/699c6edace78e77b4fe12b04?utm_campaign=1065&utm_source=git)** | Dadeville, AL | On Site | Feb 23 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699c6e90ce78e77b4fe12a8f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 23 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699c69bcce78e77b4fe12671?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 23 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Marketing Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/690e83cf221b890c2780ee22?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 23 |
 | **[Kenneth Cole Productions](https://www.kennethcole.com/)** | **[Social Media Intern- Summer Internship](https://jobright.ai/jobs/info/699c6833ce78e77b4fe124cc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 23 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Kering  Communications Intern](https://jobright.ai/jobs/info/699abe18e0bddb6acac9dd2d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Communications Specialist Intern](https://jobright.ai/jobs/info/699a9d0f81476f6176b33f11?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Merchandising Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699a8b14e0bddb6acac99c8e?utm_campaign=1065&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Feb 21 |
-| **[Smith EMS LLC](https://www.linkedin.com/company/96937218)** | **[Content Creation/Marketing Intern](https://jobright.ai/jobs/info/699a8526ce78e77b4fdf40b7?utm_campaign=1065&utm_source=git)** | Twin Cities Area | Hybrid | Feb 21 |
-| **[Humarq Business Partners](http://www.humarq.com)** | **[Marketing Intern, Book Launch - Video Creation](https://jobright.ai/jobs/info/699a7fbb81476f6176b31158?utm_campaign=1065&utm_source=git)** | Richmond, VA | Remote | Feb 21 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Communications Intern - Austin)](https://jobright.ai/jobs/info/699a6339ce78e77b4fdf1e14?utm_campaign=1065&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
-| ↳ | **[GLO - Communications Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a6210ce78e77b4fdf1bca?utm_campaign=1065&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
-| ↳ | **[TPWD - Intern I - II - III (Marketing Intern - Austin)](https://jobright.ai/jobs/info/699a6174ce78e77b4fdf1a4a?utm_campaign=1065&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
-| ↳ | **[TPWD - Intern I - II - III (Marketing Intern - Austin)](https://jobright.ai/jobs/info/699a5f00e0bddb6acac966ff?utm_campaign=1065&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
-| **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c6ead49a7695fbd033725?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | On Site | Feb 21 |
-| **[Bennett Milner Williams Consulting Ltd](https://www.bmwconsults.com)** | **[Paid Intern for Summer - Community & Scientific Communications Associate](https://jobright.ai/jobs/info/699a7c9381476f6176b30f80?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 21 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Communications Intern - Austin)](https://jobright.ai/jobs/info/699a64ad81476f6176b2f3f1?utm_campaign=1065&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
