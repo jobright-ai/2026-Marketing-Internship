@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[War Room to Board Room](https://fromwarroomtoboard.wixsite.com/my-site-1/podcast)** | **[Podcast Content Strategist & Research Intern](https://jobright.ai/jobs/info/699b9447ce78e77b4fe016a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
+| **[Songmasters](https://songmasters.org/)** | **[NY Based Marketing and Research Intern](https://jobright.ai/jobs/info/699b8ce1e0bddb6acaca68c4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
+| **[Commvault](https://www.commvault.com)** | **[Corporate Events Intern](https://jobright.ai/jobs/info/699b892ce0bddb6acaca6837?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
 | **[XSquared Media](https://www.xsqmedia.com/)** | **[Summer 2026 Strategic Communication Intern](https://jobright.ai/jobs/info/699b852881476f6176b3e85a?utm_campaign=1065&utm_source=git)** | Pittsburgh Region | Remote | Feb 22 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern](https://jobright.ai/jobs/info/699b75a681476f6176b3e6fe?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 22 |
-| **[Gamut Apps](https://www.linkedin.com/company/108565996)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699b682481476f6176b3cbf7?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | Remote | Feb 22 |
 | **[Calgon Carbon Corporation](http://calgoncarbon.com)** | **[Marketing and Business Development Intern – ICT](https://jobright.ai/jobs/info/699b601b81476f6176b3c8c3?utm_campaign=1065&utm_source=git)** | Coraopolis, PA | Hybrid | Feb 22 |
 | **[HealthLinks Marketing](https://healthlinksmarketing.com)** | **[Digital Marketing Specialist](https://jobright.ai/jobs/info/699b4bfbce78e77b4fdfefb8?utm_campaign=1065&utm_source=git)** | Mount Pleasant, SC | On Site | Feb 22 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699b44ca81476f6176b3c337?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 22 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Communications Intern - Austin)](https://jobright.ai/jobs/info/699a64ad81476f6176b2f3f1?utm_campaign=1065&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
 | ↳ | **[GLO - Communications Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a6a6581476f6176b30202?utm_campaign=1065&utm_source=git)** | Austin GLO Main FL91700 N Congress Ave | On Site | Feb 21 |
 | **[WithRodeo](https://www.withrodeo.com)** | **[Content & Creator Marketing Intern](https://jobright.ai/jobs/info/699afbb581476f6176b38400?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 21 |
-| **[Beauty Marketing Institute](https://beautymarketinginstitute.com/)** | **[Beauty Marketing College Ambassador](https://jobright.ai/jobs/info/699afc11ce78e77b4fdfaf95?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Green Earth Distributing](greenearthdistributing.com)** | **[Marketing Intern (Internship)](https://jobright.ai/jobs/info/699a7e8ae0bddb6acac991fa?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Feb 21 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Communications and Design Intern Job ID : 272527](https://jobright.ai/jobs/info/699a21c8e0bddb6acac94f79?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Feb 21 |
 | **[Skild AI](https://www.skild.ai/)** | **[Social Media Intern](https://jobright.ai/jobs/info/699a1dc4ce78e77b4fdef72d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Workplace Support Ambassador Intern - Summer 2026](https://jobright.ai/jobs/info/6945de8563141d1884557dec?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Feb 21 |
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Communications (Summer 2026)](https://jobright.ai/jobs/info/6993f350e0bddb6acac24137?utm_campaign=1065&utm_source=git)** | Macungie, PA | On Site | Feb 21 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69392d7056b68f3dc4e6a333?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 21 |
-| **[Aircall](https://aircall.io/)** | **[Regional Marketing Intern, LATAM (12 months)](https://jobright.ai/jobs/info/69961ac1ce78e77b4fda0f88?utm_campaign=1065&utm_source=git)** | San Francisco Office | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
