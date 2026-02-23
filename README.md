@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KQT Health](http://fusionexperiences.com/)** | **[MDG Intern](https://jobright.ai/jobs/info/699bc506ce78e77b4fe03f84?utm_campaign=1065&utm_source=git)** | Bensalem, PA | On Site | Feb 22 |
+| **[GBH](http://www.wgbh.org/)** | **[Frontline Marketing and Communications Internship - Summer 2026](https://jobright.ai/jobs/info/699be165e0bddb6acacacbed?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Feb 22 |
+| ↳ | **[GBH Archives Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/699be03be0bddb6acacac9d0?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Feb 22 |
+| **[LOOK](https://findyourlook.co/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699bde7ece78e77b4fe06cb9?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Feb 22 |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Event Planning, Event Planner Coordinator Internship (3-5 Hours/Week)](https://jobright.ai/jobs/info/699bddcdce78e77b4fe062f7?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 22 |
+| **[Strengthen Our Bodies](https://strengthenourbodies.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699bdd86ce78e77b4fe05e9e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
+| **[Hatch](findyourhatch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699bd897ce78e77b4fe053c7?utm_campaign=1065&utm_source=git)** | Fort Myers, FL | On Site | Feb 22 |
+| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Luxury Marketing Internship in Paris!](https://jobright.ai/jobs/info/699bd2de81476f6176b4266a?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Feb 22 |
+| **[KQT Health](http://fusionexperiences.com/)** | **[MDG Intern](https://jobright.ai/jobs/info/699bce3ce0bddb6acaca9dc3?utm_campaign=1065&utm_source=git)** | Bedford, PA | On Site | Feb 22 |
+| **[Pittman & Co.](www.pittmannco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699bce0681476f6176b41f0d?utm_campaign=1065&utm_source=git)** | Jackson, MS | Hybrid | Feb 22 |
+| **[Hems & Brims](http://www.hemsandbrims.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699bcdcbe0bddb6acaca9d05?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
+| **[KQT Health](http://fusionexperiences.com/)** | **[MDG Intern](https://jobright.ai/jobs/info/699bcdc5e0bddb6acaca9d04?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Feb 22 |
+| ↳ | **[MDG Intern](https://jobright.ai/jobs/info/699bc506ce78e77b4fe03f84?utm_campaign=1065&utm_source=git)** | Bensalem, PA | On Site | Feb 22 |
 | **[Cubbi](https://www.cub.bi)** | **[Community Engagement & Brand Experience Intern](https://jobright.ai/jobs/info/699bbff1ce78e77b4fe03de0?utm_campaign=1065&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 22 |
 | ↳ | **[Community Engagement & Brand Experience Intern](https://jobright.ai/jobs/info/699bbfc481476f6176b41022?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 22 |
 | ↳ | **[Community Engagement & Brand Experience Intern](https://jobright.ai/jobs/info/699bbf9fce78e77b4fe03d77?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 22 |
@@ -69,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[cdpHub™](https://www.linkedin.com/company/100846963)** | **[Marketing Intern](https://jobright.ai/jobs/info/699ba17e81476f6176b3f3e5?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 22 |
 | **[Starbeam](www.starbeam.org)** | **[Growth (Sales & Marketing) Intern](https://jobright.ai/jobs/info/699b99f1ce78e77b4fe01725?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 22 |
 | **[War Room to Board Room](https://fromwarroomtoboard.wixsite.com/my-site-1/podcast)** | **[Podcast Content Strategist & Research Intern](https://jobright.ai/jobs/info/699b9447ce78e77b4fe016a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
-| **[Songmasters](https://songmasters.org/)** | **[NY Based Marketing and Research Intern](https://jobright.ai/jobs/info/699b8ce1e0bddb6acaca68c4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
 | **[Commvault](https://www.commvault.com)** | **[Corporate Events Intern](https://jobright.ai/jobs/info/699b892ce0bddb6acaca6837?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
 | **[XSquared Media](https://www.xsqmedia.com/)** | **[Summer 2026 Strategic Communication Intern](https://jobright.ai/jobs/info/699b852881476f6176b3e85a?utm_campaign=1065&utm_source=git)** | Pittsburgh Region | Remote | Feb 22 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern](https://jobright.ai/jobs/info/699b75a681476f6176b3e6fe?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 22 |
@@ -110,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Merchandising Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699a8b14e0bddb6acac99c8e?utm_campaign=1065&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Feb 21 |
 | **[Smith EMS LLC](https://www.linkedin.com/company/96937218)** | **[Content Creation/Marketing Intern](https://jobright.ai/jobs/info/699a8526ce78e77b4fdf40b7?utm_campaign=1065&utm_source=git)** | Twin Cities Area | Hybrid | Feb 21 |
 | **[Humarq Business Partners](http://www.humarq.com)** | **[Marketing Intern, Book Launch - Video Creation](https://jobright.ai/jobs/info/699a7fbb81476f6176b31158?utm_campaign=1065&utm_source=git)** | Richmond, VA | Remote | Feb 21 |
-| **[St. Croix Health](http://scrmc.org)** | **[Marketing/Social Media - Recruitment Intern](https://jobright.ai/jobs/info/699bc7c5ce78e77b4fe04116?utm_campaign=1065&utm_source=git)** | St Croix Falls, WI | On Site | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Communications Intern - Austin)](https://jobright.ai/jobs/info/699a6339ce78e77b4fdf1e14?utm_campaign=1065&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | ↳ | **[GLO - Communications Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a6210ce78e77b4fdf1bca?utm_campaign=1065&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Marketing Intern - Austin)](https://jobright.ai/jobs/info/699a6174ce78e77b4fdf1a4a?utm_campaign=1065&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Marketing Specialist](https://jobright.ai/jobs/info/6999b605ce78e77b4fdea792?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Feb 21 |
 | **[AMAROK Security](https://www.amarok.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/697d0b76137a0510256600b2?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Feb 21 |
 | **[David Yurman](http://www.davidyurman.com)** | **[PR Intern](https://jobright.ai/jobs/info/6961c5eda112b402661054cb?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
-| **[ALO](https://www.aloyoga.com/)** | **[Paid Growth Marketing Intern](https://jobright.ai/jobs/info/697dab3ace48107c0541f9c6?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
-| **[Stop & Shop](http://stopandshop.com)** | **[Merchandising Services Intern](https://jobright.ai/jobs/info/6961aac4f3f4cd132506b21d?utm_campaign=1065&utm_source=git)** | Quincy, MA | Hybrid | Feb 21 |
-| **[ROCK](http://www.rockventures.com/)** | **[Philanthropy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6945d83e63141d18845578e2?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Feb 21 |
-| **[Micron Technology](http://www.micron.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6999ac66e0bddb6acac8fcbb?utm_campaign=1065&utm_source=git)** | Meridian, OK | On Site | Feb 21 |
-| **[Stop & Shop](http://stopandshop.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69611044a112b402660f8d74?utm_campaign=1065&utm_source=git)** | Quincy, MA | Hybrid | Feb 21 |
-| **[ALO](https://www.aloyoga.com/)** | **[Site Merchandising & Web Operations Intern](https://jobright.ai/jobs/info/697daa28abff4c399a9c7fdb?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
-| **[Stop & Shop](http://stopandshop.com)** | **[Merchandising Non-Perishable Intern](https://jobright.ai/jobs/info/696110dba112b402660f8d97?utm_campaign=1065&utm_source=git)** | Quincy, MA | Hybrid | Feb 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Social Media Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6995dc2581476f6176ada403?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Feb 21 |
-| **[Stop & Shop](http://stopandshop.com)** | **[Merchandising Perishable Intern](https://jobright.ai/jobs/info/6961038af3f4cd132505fe4f?utm_campaign=1065&utm_source=git)** | Quincy, MA | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
