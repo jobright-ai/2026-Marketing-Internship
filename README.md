@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TravClan](https://www.travclan.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699c05fbce78e77b4fe09484?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
+| **[LMCU](https://www.lmcu.org/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/699572d3e0bddb6acac4089f?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Feb 22 |
 | **[GBH](http://www.wgbh.org/)** | **[Frontline Marketing and Communications Internship - Summer 2026](https://jobright.ai/jobs/info/699be165e0bddb6acacacbed?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Feb 22 |
 | ↳ | **[GBH Archives Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/699be03be0bddb6acacac9d0?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Feb 22 |
 | **[LOOK](https://findyourlook.co/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699bde7ece78e77b4fe06cb9?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Feb 22 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/6959e1ed9f1b381eb272888d?utm_campaign=1065&utm_source=git)** | Bergen County, NJ | Hybrid | Feb 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Kering  Communications Intern](https://jobright.ai/jobs/info/699abe18e0bddb6acac9dd2d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Communications Specialist Intern](https://jobright.ai/jobs/info/699a9d0f81476f6176b33f11?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 21 |
-| **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Mktg Intern](https://jobright.ai/jobs/info/699beea3e0bddb6acacad771?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Merchandising Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699a8b14e0bddb6acac99c8e?utm_campaign=1065&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Feb 21 |
 | **[Smith EMS LLC](https://www.linkedin.com/company/96937218)** | **[Content Creation/Marketing Intern](https://jobright.ai/jobs/info/699a8526ce78e77b4fdf40b7?utm_campaign=1065&utm_source=git)** | Twin Cities Area | Hybrid | Feb 21 |
 | **[Humarq Business Partners](http://www.humarq.com)** | **[Marketing Intern, Book Launch - Video Creation](https://jobright.ai/jobs/info/699a7fbb81476f6176b31158?utm_campaign=1065&utm_source=git)** | Richmond, VA | Remote | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Greylock Federal Credit Union](https://www.greylock.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6999bbb681476f6176b281f5?utm_campaign=1065&utm_source=git)** | West Street, Pittsfield, MA, US | On Site | Feb 21 |
 | **[Amazon](https://amazon.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/6961cb8ae7ed9a5731ba9b28?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 21 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Marketing Specialist](https://jobright.ai/jobs/info/6999b605ce78e77b4fdea792?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Feb 21 |
-| **[AMAROK Security](https://www.amarok.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/697d0b76137a0510256600b2?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
