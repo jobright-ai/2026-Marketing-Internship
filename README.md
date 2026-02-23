@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floatbot.AI](https://floatbot.ai)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/699c2242e0bddb6acacb02a5?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Feb 23 |
+| **[Yami](http://www.yamibuy.com/en/)** | **[Category Management Intern](https://jobright.ai/jobs/info/699c219fe0bddb6acacb0189?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Feb 23 |
+| **[Peak Energy](https://www.peakenergy.com)** | **[Growth & Content Intern (Winter 2026)](https://jobright.ai/jobs/info/6983b9c601214b4cdacb9e09?utm_campaign=1065&utm_source=git)** | Burlingame, CA | On Site | Feb 23 |
+| **[GBH](http://www.wgbh.org/)** | **[Frontline Marketing and Communications Internship - Summer 2026](https://jobright.ai/jobs/info/699c19c6ce78e77b4fe0a64c?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
+| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Media /Video Editor Intern – Short-Form Ads & Sales Videos](https://jobright.ai/jobs/info/699c193081476f6176b477a0?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 23 |
+| **[KQT Health](http://fusionexperiences.com/)** | **[MDG Intern](https://jobright.ai/jobs/info/699c17cde0bddb6acacaf21c?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Feb 23 |
+| **[GBH](http://www.wgbh.org/)** | **[GBH Archives Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/699c1791e0bddb6acacaf1e0?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
 | **[TravClan](https://www.travclan.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699c05fbce78e77b4fe09484?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 22 |
 | **[LMCU](https://www.lmcu.org/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/699572d3e0bddb6acac4089f?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Feb 22 |
 | **[GBH](http://www.wgbh.org/)** | **[Frontline Marketing and Communications Internship - Summer 2026](https://jobright.ai/jobs/info/699be165e0bddb6acacacbed?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Feb 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charles River Laboratories](http://www.criver.com)** | **[Communication Intern](https://jobright.ai/jobs/info/6999c5ee81476f6176b284e6?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 21 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Communications, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/692f8b4afa28370be26ab5a9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 21 |
 | **[Charlotte Student Hub](https://www.linkedin.com/company/108390542)** | **[Marketing Intern](https://jobright.ai/jobs/info/6999c46ae0bddb6acac90712?utm_campaign=1065&utm_source=git)** | Charlotte, AR | Remote | Feb 21 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed15146e5b153e5a60303?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Feb 21 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/6972f3c5694e99351d1438e7?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Feb 21 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed481d078b81ad160fe55?utm_campaign=1065&utm_source=git)** | Bloomington, MN | On Site | Feb 21 |
-| **[Hue.](https://poweredbyhue.com)** | **[Technical Marketing Intern](https://jobright.ai/jobs/info/697d2d42137a05102566335d?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 21 |
-| **[Greylock Federal Credit Union](https://www.greylock.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6999bbb681476f6176b281f5?utm_campaign=1065&utm_source=git)** | West Street, Pittsfield, MA, US | On Site | Feb 21 |
-| **[Amazon](https://amazon.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/6961cb8ae7ed9a5731ba9b28?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 21 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Marketing Specialist](https://jobright.ai/jobs/info/6999b605ce78e77b4fdea792?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
