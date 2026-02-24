@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TKO](https://tkogrp.com)** | **[Intern – Website & Digital Media Intern, UFC](https://jobright.ai/jobs/info/698154a549964d25b5e447b0?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
+| **[Modjeski and Masters](http://modjeski.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/699d9753e0bddb6acaccf18a?utm_campaign=1065&utm_source=git)** | Mechanicsburg PA - Mechanicsburg, PA 17050 | On Site | Feb 24 |
+| **[Xeris Pharmaceuticals, Inc.](http://xerispharma.com)** | **[Medical Communications Intern](https://jobright.ai/jobs/info/6981405a7f40342e15da31d7?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 24 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Market Research (REMOTE)](https://jobright.ai/jobs/info/699802d0e0bddb6acac708f5?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Remote | Feb 24 |
+| **[Drive IT](https://drivenash.com)** | **[Spring Marketing Intern](https://jobright.ai/jobs/info/699d90dfe0bddb6acaccea99?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 24 |
+| **[Body Graffiti USA](http://www.bodygraffiti.co)** | **[Fashion Marketing Intern](https://jobright.ai/jobs/info/699d901ae0bddb6acacce9fc?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Feb 24 |
+| **[Drive IT](https://drivenash.com)** | **[Spring Marketing Intern](https://jobright.ai/jobs/info/699d8f28e0bddb6acacce930?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 24 |
+| **[WWE](http://wwe.com)** | **[Intern - Social Media, WWE](https://jobright.ai/jobs/info/698177c449964d25b5e47060?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Feb 24 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Social Media, WWE](https://jobright.ai/jobs/info/698152b67f40342e15da5559?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Feb 24 |
+| ↳ | **[Intern – Consumer Products Marketing Intern, UFC](https://jobright.ai/jobs/info/698158197f40342e15da5aaa?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
+| ↳ | **[Intern – Website & Digital Media Intern, UFC](https://jobright.ai/jobs/info/698154a549964d25b5e447b0?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
 | **[Massanutten Resort](http://massresort.com)** | **[Owners Association Owner Engagement Intern](https://jobright.ai/jobs/info/699d8a3bce78e77b4fe29ab2?utm_campaign=1065&utm_source=git)** | McGaheysville, VA | On Site | Feb 24 |
 | **[On Location](https://onlocationexp.com/)** | **[Intern - Event & Hospitality Delivery, On Location](https://jobright.ai/jobs/info/6981685949964d25b5e45e58?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 24 |
 | **[TKO](https://tkogrp.com)** | **[Intern - Marketing, Professional Bull Riders](https://jobright.ai/jobs/info/69814e43abff4c399aa047b3?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 24 |
@@ -79,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Consumer Products Marketing Intern, UFC](https://jobright.ai/jobs/info/6981846e49964d25b5e480a5?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
 | ↳ | **[Intern – Event Development Intern, UFC](https://jobright.ai/jobs/info/6981794649964d25b5e471b4?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
 | **[TTM Technologies](https://www.ttm.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/699d7845e0bddb6acaccc88f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 24 |
+| **[Professional Bull Riders](http://www.pbr.com/)** | **[Intern - Marketing, Professional Bull Riders](https://jobright.ai/jobs/info/699a9224e0bddb6acac9b737?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Feb 24 |
 | **[Red Hat](http://www.redhat.com)** | **[Global Ecosystem Marketing Intern](https://jobright.ai/jobs/info/6965823e5ad3a93f8230ca96?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 24 |
 | **[Erie Events](https://www.erieevents.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/699d698781476f6176b63d17?utm_campaign=1065&utm_source=git)** | Erie, PA | On Site | Feb 24 |
 | **[University of Michigan](https://www.umich.edu)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/699d6768e0bddb6acaccb8c9?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 24 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Communications & Connections](https://jobright.ai/jobs/info/699d1b6ace78e77b4fe1eec7?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 23 |
 | ↳ | **[Summer Internship 2026 - Marketing](https://jobright.ai/jobs/info/699d1d3681476f6176b5c184?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 23 |
 | **[MMGY Global](http://mmgyglobal.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/699cfa8fe0bddb6acacc0a37?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 23 |
-| **[Hudl](http://www.hudl.com)** | **[Elite Marketing Intern](https://jobright.ai/jobs/info/699cf9c5ce78e77b4fe1b8ec?utm_campaign=1065&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Feb 23 |
-| **[Advantage Capital](http://www.advantagecap.com/)** | **[Communications & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/698b9bb6c5761b521a9b2bf3?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
-| **[The Roby Family of Companies](https://andrewroby.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699d1fbcce78e77b4fe1f388?utm_campaign=1065&utm_source=git)** | Andrew Roby - Charlotte, NC 28208 | On Site | Feb 23 |
-| **[Bell](https://letstalk.bell.ca/en)** | **[Communications Intern, Bell Media](https://jobright.ai/jobs/info/699cf527e0bddb6acacbfefc?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 23 |
-| **[Ensign Energy Services](https://www.ensignenergy.com/)** | **[SOCIAL MEDIA INTERN](https://jobright.ai/jobs/info/699d15a8e0bddb6acacc33ae?utm_campaign=1065&utm_source=git)** | Calgary, AB, Canada | On Site | Feb 23 |
-| **[RP Constructors, LLC](https://www.rpconstructors.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699cf4a8ce78e77b4fe1ae6c?utm_campaign=1065&utm_source=git)** | North Sioux City, SD | On Site | Feb 23 |
-| **[MMGY Global](http://mmgyglobal.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/699cf3ade0bddb6acacbfc3d?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 23 |
-| **[Enthuse Marketing Group, LLC](https://www.enthuse-marketing.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/699d14e3ce78e77b4fe1e5b9?utm_campaign=1065&utm_source=git)** | Norwalk, CT | Remote | Feb 23 |
-| **[IMFOUNDER.COM](https://imfounder.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/699d1181ce78e77b4fe1e11b?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Remote | Feb 23 |
-| **[LVT (LiveView Technologies)](https://lvt.co/)** | **[Campaigns and Project Intern](https://jobright.ai/jobs/info/699d0f0ce0bddb6acacc2af5?utm_campaign=1065&utm_source=git)** | American Fork, UT | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
