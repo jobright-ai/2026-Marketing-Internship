@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crystal Dynamics](http://crystald.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699f769681476f6176b90972?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 25 |
+| **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Corporate Growth Reference Advisors - Miami](https://jobright.ai/jobs/info/699f6fb123374b3b6e6b44e4?utm_campaign=1065&utm_source=git)** | Miami, FL, US, 33126 | Remote | Feb 25 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Field Marketing - Retail](https://jobright.ai/jobs/info/6998c60681476f6176b13132?utm_campaign=1065&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Feb 25 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Wilbert Inc Sales & Marketing Intern](https://jobright.ai/jobs/info/699f68bf23374b3b6e6b40c7?utm_campaign=1065&utm_source=git)** | Belmont, NC | On Site | Feb 25 |
 | **[Translation](http://www.translationllc.com/)** | **[Artist & Digital Marketing Intern - The 2026 Come Up Internship Program](https://jobright.ai/jobs/info/699f660723374b3b6e6b3f12?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Feb 25 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Corporate Communications Internship (Summer 2026)](https://jobright.ai/jobs/info/699f644223374b3b6e6b3dfe?utm_campaign=1065&utm_source=git)** | State College, PA | On Site | Feb 25 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699f5fb0ce78e77b4fe527d0?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Feb 25 |
 | **[FGS Global](https://fgsglobal.com)** | **[Intern, Washington, DC](https://jobright.ai/jobs/info/699f5d2ece78e77b4fe5261e?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 25 |
+| **[Artisan Partners](https://www.apam.com/)** | **[Marketing Presentations Intern](https://jobright.ai/jobs/info/699f747cce78e77b4fe535d9?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 25 |
 | **[C1](http://www.spanlink.com)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/699f578181476f6176b8f3e3?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 25 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Merchandising Sports](https://jobright.ai/jobs/info/699f521681476f6176b8f09f?utm_campaign=1065&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Feb 25 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Marketing](https://jobright.ai/jobs/info/699f5201ce78e77b4fe51eee?utm_campaign=1065&utm_source=git)** | US-TX-Austin | On Site | Feb 25 |
@@ -72,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Marketing - Marketing/Comm (ETS)](https://jobright.ai/jobs/info/699f4e9481476f6176b8ee4a?utm_campaign=1065&utm_source=git)** | US-GA-Atlanta | On Site | Feb 25 |
 | **[BritBox](https://watch.britbox.co.uk/)** | **[Media Strategy, Planning and Buying Summer Intern](https://jobright.ai/jobs/info/699f4d9d94ef206f184e780b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 25 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Marketing](https://jobright.ai/jobs/info/699f4b2b94ef206f184e7597?utm_campaign=1065&utm_source=git)** | Austin, TX, US | On Site | Feb 25 |
+| **[Mallinckrodt Pharmaceuticals](http://mallinckrodt.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/699f732d23374b3b6e6b4738?utm_campaign=1065&utm_source=git)** | Malvern, PA | Hybrid | Feb 25 |
 | **[JAM Industries](https://jamindustries.com/)** | **[AMS - Marketing Internship](https://jobright.ai/jobs/info/699f6aa681476f6176b9013f?utm_campaign=1065&utm_source=git)** | Baie-d’Urfé, Quebec, Canada | Remote | Feb 25 |
 | **[G&S Business Communications, a G&S Agency](http://gscommunications.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/699f477c94ef206f184e7391?utm_campaign=1065&utm_source=git)** | United States | On Site | Feb 25 |
 | **[The Morning Pause LLC](www.themorningpause.co)** | **[Social Media Internship / Spring 2026](https://jobright.ai/jobs/info/699f476994ef206f184e7385?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 25 |
@@ -88,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Johnsonville](http://www.johnsonville.com/)** | **[Category Leadership Internship (Marketing)](https://jobright.ai/jobs/info/699f655e23374b3b6e6b3eab?utm_campaign=1065&utm_source=git)** | Sheboygan Falls, WI, US, 53085 | On Site | Feb 25 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Digital Strategy & Partnerships](https://jobright.ai/jobs/info/6966792e5ad3a93f8231c38e?utm_campaign=1065&utm_source=git)** | Purchase, NY | Hybrid | Feb 25 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Marketing & Business Analysis KGA, Taste, Texture and Health - Princeton, NJ](https://jobright.ai/jobs/info/6983377d348f733a5c3644c2?utm_campaign=1065&utm_source=git)** | Princeton, NJ | On Site | Feb 25 |
+| **[Independence Realty Trust Inc.](https://www.irtliving.com/)** | **[Marketing Intern - Philadelphia, PA](https://jobright.ai/jobs/info/699f705fce78e77b4fe532f2?utm_campaign=1065&utm_source=git)** | Philadelphia, Pennsylvania, United States | Hybrid | Feb 25 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Marketing](https://jobright.ai/jobs/info/699f591a81476f6176b8f50d?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, US | On Site | Feb 25 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Special Events Intern - Detroit](https://jobright.ai/jobs/info/699f661cce78e77b4fe52c11?utm_campaign=1065&utm_source=git)** | Detroit, Michigan | On Site | Feb 25 |
 | **[C1](http://www.spanlink.com)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/699f6c2281476f6176b90260?utm_campaign=1065&utm_source=git)** | US-Virtual Office | Remote | Feb 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699002520cc8ea15f1da9976?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Feb 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Campaign Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6966eb06b098f4515f4e54aa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 25 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Corporate Communications](https://jobright.ai/jobs/info/6966ea4bb098f4515f4e520e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 25 |
-| **[Drive IT](https://drivenash.com)** | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/699efcf881476f6176b8834d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 25 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Digital Merchandising Intern](https://jobright.ai/jobs/info/69670c46639b452fb57ca271?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Feb 25 |
-| **[TOMS](http://www.toms.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6982c40b0f6f7e7a2cdc166e?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Feb 25 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Drinking Water Solutions (DWS) Marketing and Business Development Intern](https://jobright.ai/jobs/info/699edafe81476f6176b84f75?utm_campaign=1065&utm_source=git)** | Moon, PA | On Site | Feb 25 |
-| **[PPL Corporation](https://www.pplweb.com/)** | **[IT Communications Intern](https://jobright.ai/jobs/info/69913e010cc8ea15f1dbcfdb?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
