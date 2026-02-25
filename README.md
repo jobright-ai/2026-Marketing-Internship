@@ -57,14 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RIVIERA DINING GROUP](https://www.rivieradininggroup.com)** | **[Marketing Project Intern - RDG](https://jobright.ai/jobs/info/698269d4348f733a5c353be4?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Feb 25 |
+| **[BioMatrix Infusion Pharmacy](http://www.biomatrixsprx.com)** | **[Content Marketing Specialist Intern](https://jobright.ai/jobs/info/699f174cce78e77b4fe4e2d8?utm_campaign=1065&utm_source=git)** | United States – Remote | Remote | Feb 25 |
+| **[ALO](https://www.aloyoga.com/)** | **[MarTech Intern](https://jobright.ai/jobs/info/6982ee77348f733a5c360e0c?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 25 |
+| **[Minitab](http://www.minitab.com/en-us/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6966f804639b452fb57c870b?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
+| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/699f14e8ce78e77b4fe4da8a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 25 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/699f144d94ef206f184e363a?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 25 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/696719c6639b452fb57cb604?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
 | **[Food Lion](https://www.foodlion.com)** | **[Internship - Marketing](https://jobright.ai/jobs/info/698227430f6f7e7a2cdb4072?utm_campaign=1065&utm_source=git)** | Salisbury, NC | On Site | Feb 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Marketing Intern - Tampa](https://jobright.ai/jobs/info/69823928c3101f1400c3ea53?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 25 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Innovation Marketing Intern](https://jobright.ai/jobs/info/6966f467a135876680843959?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Feb 25 |
 | ↳ | **[Segment Marketing Intern](https://jobright.ai/jobs/info/6982a8c2348f733a5c35a17e?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Feb 25 |
 | **[Crest Vale](crestvale.us)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/699ef9dfce78e77b4fe4af54?utm_campaign=1065&utm_source=git)** | Birmingham, AL | Remote | Feb 25 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699f1887ce78e77b4fe4e358?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 25 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699f173a81476f6176b8b573?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Feb 25 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/699f159081476f6176b8adc9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 25 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/699f196881476f6176b8b69d?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 25 |
 | **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Feb 25 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Project Management Intern - Marketing](https://jobright.ai/jobs/info/69829c9f0f6f7e7a2cdbefd7?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Feb 25 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Student Associate, Marketing & Communications, CECH-IT](https://jobright.ai/jobs/info/699f15ed81476f6176b8afb8?utm_campaign=1065&utm_source=git)** | Campus, IL | On Site | Feb 25 |
 | **[Drive IT](https://drivenash.com)** | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/699ef32a94ef206f184e063e?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 25 |
 | **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Oncology Medical Communications Intern](https://jobright.ai/jobs/info/698242c40f6f7e7a2cdb6bf3?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Feb 25 |
 | **[Town Of Frederick, Colorado](https://frederickco.gov)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/699ef13f94ef206f184e049a?utm_campaign=1065&utm_source=git)** | Frederick, CO | On Site | Feb 25 |
@@ -109,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Energy Communications Intern](https://jobright.ai/jobs/info/699edad694ef206f184ddd77?utm_campaign=1065&utm_source=git)** | New York | Hybrid | Feb 25 |
 | ↳ | **[Energy Communications Intern](https://jobright.ai/jobs/info/699ee00994ef206f184de4b6?utm_campaign=1065&utm_source=git)** | Washington DC | Hybrid | Feb 25 |
 | **[University of Michigan](https://www.umich.edu)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/699efb96ce78e77b4fe4b0f7?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 24 |
-| **[Value Alpha](https://valuealpha.ai)** | **[GTM intern](https://jobright.ai/jobs/info/699ea0e0ce78e77b4fe41f5c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 24 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Wellness Communications Intern](https://jobright.ai/jobs/info/699eeb3d81476f6176b86290?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 24 |
 | **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Summer 2026 Marketing Production Internship](https://jobright.ai/jobs/info/699e9d48e0bddb6acace63c2?utm_campaign=1065&utm_source=git)** | Exeter, NH, US | Hybrid | Feb 24 |
 | **[City of Green Bay](https://www.greenbaywi.gov/)** | **[Communications/Public Events and Community Outreach Intern](https://jobright.ai/jobs/info/699e9d4381476f6176b7ea97?utm_campaign=1065&utm_source=git)** | Green Bay, WI | On Site | Feb 24 |
@@ -120,9 +130,9 @@ For a complete list, click the following sortable link below:
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Mortgage Marketing](https://jobright.ai/jobs/info/699e8186ce78e77b4fe3de66?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Feb 24 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Marketing Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/699eb63481476f6176b82aea?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 24 |
 | **[Wizards of the Coast](http://company.wizards.com/)** | **[Marketing Analytics and Measurement Internship(WOTC)](https://jobright.ai/jobs/info/699e774681476f6176b79534?utm_campaign=1065&utm_source=git)** | Renton, WA | Hybrid | Feb 24 |
-| **[MP&F Strategic Communications](http://mpf.com)** | **[Marketing Intern: Fall 2026](https://jobright.ai/jobs/info/699ea57581476f6176b7fdc2?utm_campaign=1065&utm_source=git)** | MP&amp;F Nashville Office - Nashville, TN 37203 | On Site | Feb 24 |
-| ↳ | **[Communications Intern: Fall 2026](https://jobright.ai/jobs/info/699eafaae0bddb6acace9812?utm_campaign=1065&utm_source=git)** | MP&amp;F Nashville Office - Nashville, TN 37203 | On Site | Feb 24 |
-| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Mortgage](https://jobright.ai/jobs/info/699f0e3881476f6176b8918c?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Feb 24 |
+| **[MP&F Strategic Communications](http://mpf.com)** | **[Communications Intern: Fall 2026](https://jobright.ai/jobs/info/699eafaae0bddb6acace9812?utm_campaign=1065&utm_source=git)** | MP&amp;F Nashville Office - Nashville, TN 37203 | On Site | Feb 24 |
+| ↳ | **[Marketing Intern: Fall 2026](https://jobright.ai/jobs/info/699ea57581476f6176b7fdc2?utm_campaign=1065&utm_source=git)** | MP&amp;F Nashville Office - Nashville, TN 37203 | On Site | Feb 24 |
+| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Mortgage](https://jobright.ai/jobs/info/699f16cd81476f6176b8b3a0?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Feb 24 |
 | **[Kas di Kos](www.kasdikos.co)** | **[Digital Marketing & Community Intern](https://jobright.ai/jobs/info/699e8fffe0bddb6acace47bb?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 24 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Marketing Assistant](https://jobright.ai/jobs/info/699e9daace78e77b4fe417bf?utm_campaign=1065&utm_source=git)** | Metairie, LA | On Site | Feb 24 |
 | **[Momento](http://mymomento.com)** | **[Sports Marketing & Operations Associate - Sporting KC (MLS)](https://jobright.ai/jobs/info/699e69fd81476f6176b77744?utm_campaign=1065&utm_source=git)** | Kansas City, KS | On Site | Feb 24 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The IRONMAN Group](https://www.ironman.com/)** | **[Social Media Internship](https://jobright.ai/jobs/info/699e75a3e0bddb6acace0f50?utm_campaign=1065&utm_source=git)** | Greater Tampa Bay Area | On Site | Feb 24 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Marketing Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/699e846bce78e77b4fe3e38b?utm_campaign=1065&utm_source=git)** | USA - Remote | Remote | Feb 24 |
 | **[Eataly](http://www.eataly.com/)** | **[People Content & Communications Intern](https://jobright.ai/jobs/info/699e8f36ce78e77b4fe3f796?utm_campaign=1065&utm_source=git)** | 43 W 23rd St, New York, NY 10010, USA | On Site | Feb 24 |
-| **[Upstream USA](https://upstream.org)** | **[Marketing & Communications Intern - Hybrid: Remote in Boston area with 2 days in office](https://jobright.ai/jobs/info/699e2f70ce78e77b4fe34037?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Feb 24 |
-| **[bizquick](http://www.bizquick.club)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699f068bce78e77b4fe4ba5a?utm_campaign=1065&utm_source=git)** | San José Metropolitan Area | On Site | Feb 24 |
-| **[Kelly Tutors](www.kellytutors.com)** | **[Social Media & Marketing Intern 2-5hrs/week](https://jobright.ai/jobs/info/699e892be0bddb6acace3c0a?utm_campaign=1065&utm_source=git)** | Washington, United States | Remote | Feb 24 |
-| **[ALO](https://www.aloyoga.com/)** | **[Brand Marketing Operations Intern](https://jobright.ai/jobs/info/699eaf73ce78e77b4fe44351?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 24 |
-| **[SVN International](https://svn.com/)** | **[Commercial Real Estate Marketing Intern](https://jobright.ai/jobs/info/699e8217ce78e77b4fe3e0f0?utm_campaign=1065&utm_source=git)** | Bedford, NH 03110 | Hybrid | Feb 24 |
-| **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/699e444ee0bddb6acacda990?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Feb 24 |
-| **[Donor Network of Arizona](http://www.dnaz.org)** | **[Paid Community Engagement & Communications Intern (Bilingual Preferred)](https://jobright.ai/jobs/info/699e897181476f6176b7bc8e?utm_campaign=1065&utm_source=git)** | 2010 W Rio Salado Pkwy, Tempe, Arizona, United States | On Site | Feb 24 |
-| **[Eagle River Water and Sanitation District](https://www.erwsd.org/)** | **[Government & Public Relations Intern](https://jobright.ai/jobs/info/699e863f81476f6176b7b61f?utm_campaign=1065&utm_source=git)** | Vail Administration Building - Vail, CO 81657 | Hybrid | Feb 24 |
-| **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Social Media & Communication Intern](https://jobright.ai/jobs/info/699e65bde0bddb6acacdeac4?utm_campaign=1065&utm_source=git)** | Ogden, UT | On Site | Feb 24 |
-| **[Virtualitics](https://www.virtualitics.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/699e82e481476f6176b7b25c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
