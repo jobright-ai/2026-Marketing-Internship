@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Balchem Corporation](http://balchem.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69837a5c0f6f7e7a2cdcd9dd?utm_campaign=1065&utm_source=git)** | Montvale, NJ | On Site | Feb 26 |
+| **[Velastra](velastra.us)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a06ce781476f6176baa9ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 26 |
+| **[Stream Realty Partners](http://streamrealty.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/6983e0820f6f7e7a2cddbe63?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 26 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a068395218a81676718560?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 26 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Sales & Marketing](https://jobright.ai/jobs/info/6983972a0f6f7e7a2cdd07ee?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Feb 26 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing & Sales Intern, Chartwells Higher Ed / Texas State University](https://jobright.ai/jobs/info/69a0668f81476f6176baa25c?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Feb 26 |
@@ -90,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Consumer Insight, Measurement & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a040ff5218a81676714d2a?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Feb 26 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Communications Internship](https://jobright.ai/jobs/info/6968b88df25a3800669747dc?utm_campaign=1065&utm_source=git)** | Westlake Village, CA | Hybrid | Feb 26 |
 | **[Aircall](https://aircall.io/)** | **[Regional Marketing Intern (12 months)](https://jobright.ai/jobs/info/696853fef25a38006696b99d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 26 |
-| **[Veltrana Group](veltranagroup.us)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a0397281476f6176ba5ca5?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 26 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69685aebf25a38006696c2e7?utm_campaign=1065&utm_source=git)** | Overland Park, KS | Hybrid | Feb 26 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Partnership Marketing](https://jobright.ai/jobs/info/698b731406d9b06224958b16?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Feb 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Softlines Apparel and Accessories Licensing Intern, Summer/Fall, 2026](https://jobright.ai/jobs/info/699aeadfce78e77b4fdfad10?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Feb 26 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[ESPN](http://espncareers.com)** | **[ESPN Marketing Intern, Charlotte, Summer/Fall 2026](https://jobright.ai/jobs/info/69a045c75218a8167671535f?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 26 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Atlanta](https://jobright.ai/jobs/info/69844d3d0f6f7e7a2cdea589?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 26 |
 | ↳ | **[Community Intern, Denver](https://jobright.ai/jobs/info/69844dd9348f733a5c384b05?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Feb 26 |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Digital Marketing - Summer 2026](https://jobright.ai/jobs/info/69a0575c0836fe79d86139e6?utm_campaign=1065&utm_source=git)** | Muscatine, IA | Hybrid | Feb 26 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Copy Writer Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6981036f7f40342e15d9dd01?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 26 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/69a01db981476f6176ba28ac?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Feb 26 |
 | **[Dynareon](dynareon.com)** | **[Market Operations Intern](https://jobright.ai/jobs/info/69a04b7681476f6176ba7b7b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 26 |
@@ -118,11 +119,9 @@ For a complete list, click the following sortable link below:
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69a0274381476f6176ba3921?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 26 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development Foodservice (MBA/Grad)](https://jobright.ai/jobs/info/69a037fc5218a8167671417c?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: Customer Communications and Marketing](https://jobright.ai/jobs/info/69a029215218a8167671207d?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Feb 25 |
-| **[University of Michigan](https://www.umich.edu)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69a02b920836fe79d860fc21?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 25 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Marketing - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/6995ad3cce78e77b4fd9c55a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 25 |
 | ↳ | **[Student Internship - Public Relations - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69a027225218a81676711aff?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 25 |
 | **[Egotechworld](https://egotechworld.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/699ff2eece78e77b4fe5f813?utm_campaign=1065&utm_source=git)** | Mobile, AL | Remote | Feb 25 |
-| **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Marketing Internship - Commercial Marketing](https://jobright.ai/jobs/info/69a02c525218a81676712833?utm_campaign=1065&utm_source=git)** | Peachtree Corners, GA | On Site | Feb 25 |
 | **[Silvi Materials](http://silvi.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699fe8d7ce78e77b4fe5de7a?utm_campaign=1065&utm_source=git)** | Fairless Hills, PA | On Site | Feb 25 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Brand Marketing](https://jobright.ai/jobs/info/698a570eb708d23f366c0b69?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Feb 25 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[MARKETING & COMMUNICATIONS INTERN, SYSTEMWIDE PROCUREMENT](https://jobright.ai/jobs/info/69a0052e81476f6176b9fd11?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Content Writer](https://jobright.ai/jobs/info/699facf5ce78e77b4fe59188?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Remote | Feb 25 |
 | **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Global Demand Center Intern](https://jobright.ai/jobs/info/699ff61f53d97f23ee658e38?utm_campaign=1065&utm_source=git)** | Norcross, GA | Remote | Feb 25 |
 | ↳ | **[B2B Digital Advertising Intern](https://jobright.ai/jobs/info/699ff7e981476f6176b9e548?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Feb 25 |
+| ↳ | **[B2B Digital Advertising Intern](https://jobright.ai/jobs/info/699fefcb53d97f23ee65837b?utm_campaign=1065&utm_source=git)** | Greater Houston | Remote | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
