@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinstry](http://www.mckinstry.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6943497450bbaf7650552e66?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 26 |
+| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Local Media Content & Operations](https://jobright.ai/jobs/info/69a0a68f5218a8167671d347?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Feb 26 |
+| **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/6967f104f25a3800669648ca?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Feb 26 |
 | **[Gen](https://www.gendigital.com)** | **[Brand Management Intern](https://jobright.ai/jobs/info/69a09fa15218a8167671cd9e?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 26 |
 | **[SAI](https://www.sai-med.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/69a09dbb5218a8167671ccae?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Feb 26 |
 | **[GÜDDI](http://getguddi.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69a09d330836fe79d861a18a?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Feb 26 |
@@ -78,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[National Growth Office Intern - Summer 2026](https://jobright.ai/jobs/info/69a08a605218a8167671b023?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Feb 26 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Partner Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69a08a2a0836fe79d8618789?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Feb 26 |
 | **[AVIXA](https://www.avixa.org)** | **[Expo Mktg Intern, Community Engagement](https://jobright.ai/jobs/info/69a089910836fe79d8618698?utm_campaign=1065&utm_source=git)** | Fairfax, VA, US | On Site | Feb 26 |
+| **[Professional Case Management](https://procasemanagement.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69a0a6e60836fe79d861a8db?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 26 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Commercial Marketing](https://jobright.ai/jobs/info/69a0852781476f6176bac6ee?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 26 |
 | ↳ | **[Intern, North America Marketing Operations](https://jobright.ai/jobs/info/69a0832a81476f6176bac58c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 26 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/69840888348f733a5c37c127?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Feb 26 |
@@ -106,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/6967f9d6f25a380066964eb6?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Feb 26 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Brand and Creative Intern](https://jobright.ai/jobs/info/69a0721181476f6176bab191?utm_campaign=1065&utm_source=git)** | Fort Washington, PA | On Site | Feb 26 |
 | **[eServices Payment Technology](https://eservicestech.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69a0714681476f6176bab01d?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Feb 26 |
+| **[Aypa Power](https://www.aypa.com)** | **[Origination Analyst Intern](https://jobright.ai/jobs/info/698d9230f64d441a164fb6de?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 26 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Streaming and Digital](https://jobright.ai/jobs/info/69a092e10836fe79d8619895?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Feb 26 |
 | ↳ | **[Intern, Local Media Content & Operations](https://jobright.ai/jobs/info/69a091df0836fe79d8619651?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Feb 26 |
 | **[Staples](http://www.staples.com)** | **[Supply Chain Product Marketing Intern - June 2026](https://jobright.ai/jobs/info/69a06f9881476f6176baad59?utm_campaign=1065&utm_source=git)** | Framingham, MA | On Site | Feb 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a0496f81476f6176ba7800?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Marketing Intern, Charlotte, Summer/Fall 2026](https://jobright.ai/jobs/info/69a047125218a816767154e5?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 26 |
 | ↳ | **[Consumer Insight, Measurement & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a0443281476f6176ba7074?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Feb 26 |
-| **[Precision Castparts](http://precast.com)** | **[Sales and Marketing Co-Op (Intern)](https://jobright.ai/jobs/info/68dacc256df7b8311bb12569?utm_campaign=1065&utm_source=git)** | Tukwila, WA | On Site | Feb 26 |
-| **[Legend Biotech](https://www.legendbiotech.com)** | **[Commercial Marketing Co-Op](https://jobright.ai/jobs/info/692dd64966796e3028f969f4?utm_campaign=1065&utm_source=git)** | Somerset, NJ | On Site | Feb 26 |
-| **[Hallmark Media](http://www.hallmarkchannel.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6983e0e20f6f7e7a2cddbf5a?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Feb 26 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Consumer Insight, Measurement & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a040ff5218a81676714d2a?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Feb 26 |
-| **[MannKind Corporation](http://mannkindcorp.com)** | **[Communications Internship](https://jobright.ai/jobs/info/6968b88df25a3800669747dc?utm_campaign=1065&utm_source=git)** | Westlake Village, CA | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
