@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Backlinkgen](https://backlinkgen.com)** | **[Online Social-Marketing Internship](https://jobright.ai/jobs/info/69a17c9d359fe034b1ccdc39?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 27 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a194660da45516f16afbc6?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Feb 27 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Market Operations Intern](https://jobright.ai/jobs/info/69a19159b600907a9627fe93?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 27 |
+| **[rbb Communications](https://rbbcommunications.com/)** | **[Summer 2026 Internships: PR & Communications](https://jobright.ai/jobs/info/69a1911cb600907a9627fe72?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 27 |
+| **[Velastra](velastra.us)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a18f23b600907a9627fd3a?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | Feb 27 |
+| **[Tennessee Valley Federal Credit Union (TVFCU)](http://www.tvfcu.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69a18e3fb600907a9627fcc6?utm_campaign=1065&utm_source=git)** | Corporate Headquarters - Chattanooga, TN 37402 | On Site | Feb 27 |
+| **[good2grow™](https://www.good2grow.com/#home)** | **[Licensing & Consumer Marketing Intern - Atlanta, GA](https://jobright.ai/jobs/info/69a18c68b600907a9627fc39?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Feb 27 |
+| **[Gen](https://www.gendigital.com)** | **[Brand Management Intern](https://jobright.ai/jobs/info/698542b08da7a612045fb60c?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Hulu Marketing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a1851eb600907a9627f6d2?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Feb 27 |
+| **[Veltrana Group](veltranagroup.us)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a184990da45516f16af1ac?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 27 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer Public Relations Intern](https://jobright.ai/jobs/info/69a182d7359fe034b1cce2b2?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | Feb 27 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/6985846e8da7a61204602861?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/696908e11703f05405aae22f?utm_campaign=1065&utm_source=git)** | Dayton Metropolitan Area | On Site | Feb 27 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Summer Public Relations Intern](https://jobright.ai/jobs/info/69a17a54b600907a9627e83c?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | Feb 27 |
@@ -140,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[JAM Industries](https://jamindustries.com/)** | **[Erikson Consumer Multimedia - Intern](https://jobright.ai/jobs/info/69a11d2a6b458d060735d4e2?utm_campaign=1065&utm_source=git)** | Baie-d’Urfé, Quebec, Canada | On Site | Feb 26 |
 | **[Iter Inov](https://www.iterinov.com/)** | **[Marketing & Brand Intern](https://jobright.ai/jobs/info/69a131a46b458d060735ede0?utm_campaign=1065&utm_source=git)** | Canada | Remote | Feb 26 |
 | **[Federal Signal Corporation](http://federalsignal.com)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/699e04bf81476f6176b6f271?utm_campaign=1065&utm_source=git)** | Arkansas, United States | On Site | Feb 26 |
-| **[City of Moreno Valley](https://moval.gov)** | **[Intern II (Economic Development)](https://jobright.ai/jobs/info/69a1456eb600907a96277980?utm_campaign=1065&utm_source=git)** | Moreno Valley, CA | On Site | Feb 26 |
 | **[NewStream Enterprises](https://www.newstreaming.com/)** | **[Marketing Intern - Genie Recon](https://jobright.ai/jobs/info/69a163380da45516f16abfc9?utm_campaign=1065&utm_source=git)** | Springfield, MO, US | On Site | Feb 26 |
 | **[Call Your Mother](https://www.callyourmotherdeli.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a1241181476f6176bb7d0b?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Feb 26 |
 | **[Hocking Valley Community Hospital](https://www.hvch.org)** | **[College Intern - Hospital, Marketing/Community Relations in Logan, Ohio](https://jobright.ai/jobs/info/69a16cb9359fe034b1ccbcd8?utm_campaign=1065&utm_source=git)** | Logan,OH,US | On Site | Feb 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cases by LJ](casesbylj.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69a1252a5218a81676725e92?utm_campaign=1065&utm_source=git)** | Whittier, CA | Hybrid | Feb 26 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Demand Generation Marketing Intern](https://jobright.ai/jobs/info/69a11f8c6b458d060735d82a?utm_campaign=1065&utm_source=git)** | Tampa,FL,US | Hybrid | Feb 26 |
 | **[Rich Products Corporation](https://rich.com)** | **[Health & Authenticity Intern](https://jobright.ai/jobs/info/69a1107f6b458d060735c4c7?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Feb 26 |
-| **[Virtus Investment Partners](https://www.virtus.com/)** | **[KAR-Marketing Intern (Summer 2026, Undergraduate)](https://jobright.ai/jobs/info/69a119335218a816767250db?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
-| **[Big Hype Marketing](https://bighypemarketing.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a0e1e75218a81676721573?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | On Site | Feb 26 |
-| **[Fred Hutch](http://www.fredhutch.org)** | **[Social Media Intern - Rare Cancer Community](https://jobright.ai/jobs/info/69a109dd6b458d060735bfbd?utm_campaign=1065&utm_source=git)** | US-WA-Seattle | Hybrid | Feb 26 |
-| ↳ | **[Social Media Intern - Rare Cancer Community](https://jobright.ai/jobs/info/69a117065218a81676724e4c?utm_campaign=1065&utm_source=git)** | Seattle, WA, US | Hybrid | Feb 26 |
-| **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - Carytown and Short Pump](https://jobright.ai/jobs/info/69a1276a81476f6176bb80c8?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Feb 26 |
-| ↳ | **[Student Café Ambassador (Intern) - New York City](https://jobright.ai/jobs/info/69a10acf81476f6176bb60f8?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Feb 26 |
-| ↳ | **[Student Café Ambassador (Intern) - New York City](https://jobright.ai/jobs/info/69a1101e6b458d060735c444?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 26 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26020 Digital Media Intern](https://jobright.ai/jobs/info/69a12e675218a81676726941?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
