@@ -57,15 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LERO](https://lero.finance)** | **[Crypto Marketing Intern](https://jobright.ai/jobs/info/6997d8adce78e77b4fdc49d0?utm_campaign=1065&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 26 |
+| **[Stoke Space](https://www.stokespace.com)** | **[Summer 2026 Internship - Marketing](https://jobright.ai/jobs/info/69a0f8336b458d060735b180?utm_campaign=1065&utm_source=git)** | Kent, WA | On Site | Feb 26 |
+| **[Woolpert](http://www.woolpert.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69a0f7a981476f6176bb52d1?utm_campaign=1065&utm_source=git)** | Dayton, OH | Hybrid | Feb 26 |
 | **[Federal Signal Corporation](http://federalsignal.com)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/699e04bf81476f6176b6f271?utm_campaign=1065&utm_source=git)** | Arkansas, United States | On Site | Feb 26 |
 | **[Big Hype Marketing](https://bighypemarketing.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a0e1e75218a81676721573?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | On Site | Feb 26 |
 | **[Buro Happold](http://www.burohappold.com)** | **[Marketing Intern - New York - Summer 2026](https://jobright.ai/jobs/info/69a0ddeb0836fe79d861e40a?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Feb 26 |
 | **[Schneider Electric](https://www.se.com)** | **[Marketing Support Intern](https://jobright.ai/jobs/info/69a0d86e5218a816767205f3?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 26 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Onsite Social Media Marketing Intern](https://jobright.ai/jobs/info/69a0d6985218a81676720359?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 26 |
 | **[Fi](https://tryfi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a0d59f81476f6176bb225d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69a0fa2f81476f6176bb54b1?utm_campaign=1065&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Feb 26 |
+| **[MSL (Global)](https://www.mslgroup.com)** | **[PR Summer Intern](https://jobright.ai/jobs/info/69a0fa3381476f6176bb54b8?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 26 |
+| **[Woolpert](http://www.woolpert.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69a0f62281476f6176bb51af?utm_campaign=1065&utm_source=git)** | Dayton, OH | Hybrid | Feb 26 |
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69a0cdc681476f6176bb1797?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Feb 26 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69a0cc5381476f6176bb165b?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 26 |
+| **[The Dollywood Company](https://www.dollywood.com/)** | **[Summer 2026 Social Media Intern - Dollywood Parks & Resorts - Seasonal](https://jobright.ai/jobs/info/69a0fa3b5218a816767234b0?utm_campaign=1065&utm_source=git)** | Pigeon Forge, TN | On Site | Feb 26 |
 | **[American Marketing Association](http://www.ama.org/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69a0f50281476f6176bb50cf?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 26 |
+| **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69a0f9a35218a8167672344d?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Feb 26 |
 | **[Together AI](https://www.together.ai)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69a0ecd85218a816767228f1?utm_campaign=1065&utm_source=git)** | San Francisco | On Site | Feb 26 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/697ce08d727747250d578dbe?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 26 |
 | **[Lightstone](https://www.lightstonegroup.com/)** | **[Summer Intern, Marketing](https://jobright.ai/jobs/info/69a0e96c81476f6176bb438c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 26 |
@@ -146,15 +154,7 @@ For a complete list, click the following sortable link below:
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Summer 2026 Social Media Intern - Dollywood Parks & Resorts - Seasonal](https://jobright.ai/jobs/info/69a0b7e60836fe79d861b7fd?utm_campaign=1065&utm_source=git)** | Pigeon Forge, Tennessee, United States | On Site | Feb 26 |
 | **[RIMOWA](http://www.rimowa.com/)** | **[PR & Marketing Intern](https://jobright.ai/jobs/info/69a08b335218a8167671b20d?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Feb 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Hulu Marketing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a08a9c81476f6176bad11a?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 26 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Communications Intern - UNPAID](https://jobright.ai/jobs/info/69a0c7875218a8167671f2c2?utm_campaign=1065&utm_source=git)** | Atlanta, GA USA | On Site | Feb 26 |
-| ↳ | **[Summer 2026 Communications Intern - UNPAID](https://jobright.ai/jobs/info/69a0af8a81476f6176bafc44?utm_campaign=1065&utm_source=git)** | Tallahassee, FL USA | On Site | Feb 26 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Communications Intern - UNPAID](https://jobright.ai/jobs/info/69a0af8a81476f6176bafc44?utm_campaign=1065&utm_source=git)** | Tallahassee, FL USA | On Site | Feb 26 |
+| ↳ | **[Summer 2026 Communications Intern - UNPAID](https://jobright.ai/jobs/info/69a0c7875218a8167671f2c2?utm_campaign=1065&utm_source=git)** | Atlanta, GA USA | On Site | Feb 26 |
 | **[AVIXA](https://www.avixa.org)** | **[Intern, Marketing US/Canada](https://jobright.ai/jobs/info/69a08a760836fe79d86187d2?utm_campaign=1065&utm_source=git)** | Fairfax, VA, US | Remote | Feb 26 |
-| **[HNTB](http://www.hntb.com/)** | **[National Growth Office Intern - Summer 2026](https://jobright.ai/jobs/info/69a08a605218a8167671b023?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Feb 26 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Partner Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69a08a2a0836fe79d8618789?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Feb 26 |
-| **[AVIXA](https://www.avixa.org)** | **[Expo Mktg Intern, Community Engagement](https://jobright.ai/jobs/info/69a089910836fe79d8618698?utm_campaign=1065&utm_source=git)** | Fairfax, VA, US | On Site | Feb 26 |
-| **[Professional Case Management](https://procasemanagement.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69a0a6e60836fe79d861a8db?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 26 |
-| **[MiddleGround Capital](https://www.middlegroundcapital.com/)** | **[Intern, Marketing (Summer 2026)](https://jobright.ai/jobs/info/69a0af325218a8167671dafd?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Feb 26 |
-| **[Viatris](https://www.viatris.com/en)** | **[Intern, Commercial Marketing](https://jobright.ai/jobs/info/69a0852781476f6176bac6ee?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 26 |
-| ↳ | **[Intern, North America Marketing Operations](https://jobright.ai/jobs/info/69a0832a81476f6176bac58c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 26 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/69840888348f733a5c37c127?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
