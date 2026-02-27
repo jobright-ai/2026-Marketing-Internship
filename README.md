@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a1a7900da45516f16b09e4?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 27 |
+| **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate](https://jobright.ai/jobs/info/69a1b8b7b600907a96281c93?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 27 |
+| **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Demand Generation Marketing Intern](https://jobright.ai/jobs/info/69a1b80f359fe034b1cd0d31?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Feb 27 |
+| **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/69a1b6450da45516f16b1656?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 27 |
+| **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Marketing](https://jobright.ai/jobs/info/69a1b5930da45516f16b15d9?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Feb 27 |
+| **[ReBuilt Meals](https://rebuiltmeals.com/)** | **[Event Coordinator & Social Media Intern](https://jobright.ai/jobs/info/69a1b15d359fe034b1cd081a?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 27 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69a1ae1f359fe034b1cd057d?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 27 |
+| ↳ | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/69a1ad2a0da45516f16b0f04?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 27 |
+| ↳ | **[Employee Communications Intern](https://jobright.ai/jobs/info/69a1aad70da45516f16b0cb2?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 27 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69a1a7900da45516f16b09e4?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 27 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026 Communications Intern - Pratt & Whitney (Onsite)](https://jobright.ai/jobs/info/69a1a401b600907a96280ae5?utm_campaign=1065&utm_source=git)** | East Hartford, CT | On Site | Feb 27 |
 | ↳ | **[Summer 2026 Communications Intern - Raytheon (Onsite)](https://jobright.ai/jobs/info/69a1a221359fe034b1ccfaa7?utm_campaign=1065&utm_source=git)** | Farmington, CT | On Site | Feb 27 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Strategy Intern (Summer)](https://jobright.ai/jobs/info/69850060348f733a5c391c7d?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Feb 27 |
@@ -83,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/6985846e8da7a61204602861?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/696908e11703f05405aae22f?utm_campaign=1065&utm_source=git)** | Dayton Metropolitan Area | On Site | Feb 27 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Summer Public Relations Intern](https://jobright.ai/jobs/info/69a17a54b600907a9627e83c?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | Feb 27 |
-| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Marketing Communications & Partnerships Intern (Summer)](https://jobright.ai/jobs/info/69a179e90da45516f16ae3d4?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 27 |
 | **[Brixenta](brixenta.net)** | **[Growth and Commercial Analyst Intern](https://jobright.ai/jobs/info/69a177c0b600907a9627e405?utm_campaign=1065&utm_source=git)** | Schenectady, NY | On Site | Feb 27 |
 | **[HITT Contracting Inc.](http://www.hitt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6984da6f0f6f7e7a2cdf5416?utm_campaign=1065&utm_source=git)** | Falls Church, VA | On Site | Feb 27 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[B2B Marketing Strategy Intern](https://jobright.ai/jobs/info/69854a1d8da7a612045fbf45?utm_campaign=1065&utm_source=git)** | Westlake, TX | Hybrid | Feb 27 |
@@ -125,7 +132,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship – Area Merchandising (Fall 2026)](https://jobright.ai/jobs/info/69a154bfb600907a96279fe6?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | ↳ | **[Internship – Public Relations (Fall 2026)](https://jobright.ai/jobs/info/69a15488d29bbd4d8e6b07f5?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Youtube Optimization: SEO, Social Media & Marketing Intern 2-5hrs/week](https://jobright.ai/jobs/info/69a15439d29bbd4d8e6b06b3?utm_campaign=1065&utm_source=git)** | Washington, United States | Remote | Feb 27 |
-| **[University of Michigan](https://www.umich.edu)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69a153c8b600907a96279cdc?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 27 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Social Media Content Creation (Academic Year, Fall 2026 & Spring 2027)](https://jobright.ai/jobs/info/69a15355b600907a96279bf6?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | **[Docusign](http://www.docusign.com)** | **[Communications and Content Marketing Intern](https://jobright.ai/jobs/info/69a145750da45516f16a75c9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 26 |
 | **[ITW Performance Polymers](https://itwperformancepolymers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a141710da45516f16a6b81?utm_campaign=1065&utm_source=git)** | Danvers, MA | On Site | Feb 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LERO](https://lero.finance)** | **[Crypto Marketing Intern](https://jobright.ai/jobs/info/6997d8adce78e77b4fdc49d0?utm_campaign=1065&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 26 |
 | **[Stoke Space](https://www.stokespace.com)** | **[Summer 2026 Internship - Marketing](https://jobright.ai/jobs/info/69a0f8336b458d060735b180?utm_campaign=1065&utm_source=git)** | Kent, WA | On Site | Feb 26 |
 | **[Woolpert](http://www.woolpert.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69a0f7a981476f6176bb52d1?utm_campaign=1065&utm_source=git)** | Dayton, OH | Hybrid | Feb 26 |
-| **[Kayne Anderson Rudnick](http://kayne.com)** | **[KAR-Marketing Intern (Summer 2026, Undergraduate)](https://jobright.ai/jobs/info/69a1176e6b458d060735cddf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern - Marketing & Community Relations](https://jobright.ai/jobs/info/69a131ee5218a81676726cd2?utm_campaign=1065&utm_source=git)** | Boscobel, WI | On Site | Feb 26 |
-| **[Fred Hutch](http://www.fredhutch.org)** | **[Social Media Intern - Rare Cancer Community](https://jobright.ai/jobs/info/69a120205218a8167672590f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Feb 26 |
-| **[Kabam](http://www.kabam.com)** | **[Product Marketing Co-op](https://jobright.ai/jobs/info/699916d3e0bddb6acac810e2?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 26 |
-| **[Aligned Data Centers](http://www.alignedenergy.com/)** | **[Summer Internship / Brand Strategy (Marketing)](https://jobright.ai/jobs/info/69a1161a81476f6176bb6c01?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Feb 26 |
-| **[Valorantum](valorantum.us)** | **[Mobile & Affiliate Marketing Intern](https://jobright.ai/jobs/info/69a119fb6b458d060735d0de?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
