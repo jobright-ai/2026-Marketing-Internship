@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Feb 28 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Community Engagement Intern](https://jobright.ai/jobs/info/69a314650da45516f16c6728?utm_campaign=1065&utm_source=git)** | Longwood, FL | On Site | Feb 28 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Market Operations Intern](https://jobright.ai/jobs/info/69a31406359fe034b1ce5e58?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
+| **[Central Bank](https://www.centralbank.net/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/698683088ca8121a3a68d18e?utm_campaign=1065&utm_source=git)** | Jefferson City, MO | On Site | Feb 28 |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a3108f0da45516f16c6614?utm_campaign=1065&utm_source=git)** | Birmingham, AL | Remote | Feb 28 |
+| **[Velastra](velastra.us)** | **[Growth and Commercial Analyst Intern](https://jobright.ai/jobs/info/69a3103d359fe034b1ce5d4b?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
+| **[Magna International](http://www.magna.com/)** | **[External Communications Intern- Summer 2026](https://jobright.ai/jobs/info/69a00fc453d97f23ee65c230?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
+| ↳ | **[Marketing & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/699fb8b381476f6176b9715e?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
+| ↳ | **[Marketing & Research Intern- Summer 2026](https://jobright.ai/jobs/info/696baec3db26b618950f2bce?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6986b0e48ca8121a3a69105d?utm_campaign=1065&utm_source=git)** | Tucson, AZ | On Site | Feb 28 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef33729655e4dd65876db?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/696ac17cdb26b618950e06df?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
@@ -140,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Xeris Pharmaceuticals, Inc.](http://xerispharma.com)** | **[Medical Communications Intern](https://jobright.ai/jobs/info/69a274d2b600907a9628c7fd?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Marketing & Communications (Social Media)](https://jobright.ai/jobs/info/69a273b90da45516f16bc099?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Feb 27 |
 | **[Moments By Max: Balloon Decor, Marquees & Event Rentals](www.momentsbymax.com)** | **[Social Media, Marketing & Admin Internship](https://jobright.ai/jobs/info/69a271fab600907a9628c367?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Feb 27 |
-| **[Orvanta](joinorvanta.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a27146359fe034b1cdb3b3?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 27 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Digital Strategy & Advertising Operations Intern](https://jobright.ai/jobs/info/69a26e9d0da45516f16bb6db?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 27 |
 | **[On](https://www.on-running.com/)** | **[Intern - Product Merchandising, Footwear & Apparel](https://jobright.ai/jobs/info/69a26d95b600907a9628bda7?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Feb 27 |
 | **[Almo Corporation](http://www.almo.com)** | **[Customer Marketing Intern](https://jobright.ai/jobs/info/69a26c10359fe034b1cdac47?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Feb 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Just Breathe by Imari Free](www.jstbreathe316.com)** | **[Website & Local SEO Marketing Intern](https://jobright.ai/jobs/info/69a2eb8c0da45516f16c488d?utm_campaign=1065&utm_source=git)** | Texas, United States | Hybrid | Feb 27 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Marketing – AEG Presents Zero Mile](https://jobright.ai/jobs/info/69a261eeb600907a9628ac8b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
 | **[Electro](electrogum.com)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69a25fc3b600907a9628a95f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 27 |
-| **[Vizient, Inc](https://www.vizientinc.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a25ede359fe034b1cd98ce?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 27 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Agency Communications Intern](https://jobright.ai/jobs/info/69a25ede0da45516f16ba32c?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Feb 27 |
-| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Digital Merchandising Intern](https://jobright.ai/jobs/info/69a25bfa359fe034b1cd9548?utm_campaign=1065&utm_source=git)** | The Chefs' Warehouse Midwest, LLC, 2801 S. Western Avenue, Chicago, Illinois, United States of America | On Site | Feb 27 |
-| **[Project ANA](https://www.linkedin.com/company/111473992)** | **[Outreach and Communications Intern - Highschool + College](https://jobright.ai/jobs/info/69a27672359fe034b1cdbc12?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 27 |
-| **[The Nature Conservancy](http://www.nature.org)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69a25407359fe034b1cd8dc2?utm_campaign=1065&utm_source=git)** | Hawaii, United States | Remote | Feb 27 |
-| **[Carta](https://carta.com/)** | **[Marketing Internship - PR & Communications](https://jobright.ai/jobs/info/69a25330359fe034b1cd8d13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Feb 27 |
-| **[Millerbernd](https://www.millerbernd.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6986802d8ca8121a3a68cdfe?utm_campaign=1065&utm_source=git)** | Winsted, MN | On Site | Feb 27 |
-| **[Vishay Intertechnology, Inc.](http://www.vishay.com/)** | **[Product Marketing Engineer Intern](https://jobright.ai/jobs/info/69a24fba0da45516f16b9510?utm_campaign=1065&utm_source=git)** | Columbus, NE | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
