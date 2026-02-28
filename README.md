@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veltrana Group](veltranagroup.us)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a283d2359fe034b1cdcdc8?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 27 |
+| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Marketing AIM, Global Rare Diseases - Summer 2026](https://jobright.ai/jobs/info/69a28360b600907a9628dad8?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Feb 27 |
+| **[Kelly Tutors](www.kellytutors.com)** | **[YouTube & Video Marketing Intern 2-5hrs/week](https://jobright.ai/jobs/info/69a282ca0da45516f16bd471?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 27 |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69a27db10da45516f16bcdcf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 27 |
+| **[Just Born, Inc.](http://www.justborn.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69762dc537785856350feae6?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 27 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Market Operations Intern](https://jobright.ai/jobs/info/69a2787d359fe034b1cdbfee?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 27 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/69a275a2359fe034b1cdba7d?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 27 |
 | **[Xeris Pharmaceuticals, Inc.](http://xerispharma.com)** | **[Medical Communications Intern](https://jobright.ai/jobs/info/69a274d2b600907a9628c7fd?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
@@ -79,6 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Millerbernd](https://www.millerbernd.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6986802d8ca8121a3a68cdfe?utm_campaign=1065&utm_source=git)** | Winsted, MN | On Site | Feb 27 |
 | **[Vishay Intertechnology, Inc.](http://www.vishay.com/)** | **[Product Marketing Engineer Intern](https://jobright.ai/jobs/info/69a24fba0da45516f16b9510?utm_campaign=1065&utm_source=git)** | Columbus, NE | On Site | Feb 27 |
 | **[Aurelian Labs](https://AurelianLabs.ai)** | **[Fintech Growth & Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69a24f19b600907a9628989e?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Feb 27 |
+| **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69a280190da45516f16bd02a?utm_campaign=1065&utm_source=git)** | Alexandria, VA | Hybrid | Feb 27 |
+| **[Canadian Valley Electric Cooperative](https://www.mycvec.coop)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69a27f6db600907a9628d4f0?utm_campaign=1065&utm_source=git)** | Seminole, Oklahoma, United States | On Site | Feb 27 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[MBA Brand Marketing Intern](https://jobright.ai/jobs/info/69a248070da45516f16b8ea2?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69a26b1c0da45516f16bb2a4?utm_campaign=1065&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a243620da45516f16b8a83?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 27 |
@@ -99,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[DeCrescente Dist. Co., Inc.](http://decrescente.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69a2612eb600907a9628aac9?utm_campaign=1065&utm_source=git)** | Mechanicville, NY, US | On Site | Feb 27 |
 | **[Select Markets](https://www.instagram.com/Select.markets)** | **[Event Logistics and Management Intern/Recent Grad](https://jobright.ai/jobs/info/69a235f70da45516f16b7e6e?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Feb 27 |
 | **[3xLOGIC](https://www.3xlogic.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69a26b9d0da45516f16bb30d?utm_campaign=1065&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Community Engagement Intern](https://jobright.ai/jobs/info/69a2762d0da45516f16bc45c?utm_campaign=1065&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
-| ↳ | **[Fall 2026 Community Engagement Intern](https://jobright.ai/jobs/info/69a26b6fb600907a9628ba84?utm_campaign=1065&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Community Engagement Intern](https://jobright.ai/jobs/info/69a26b6fb600907a9628ba84?utm_campaign=1065&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| ↳ | **[Summer 2026 Community Engagement Intern](https://jobright.ai/jobs/info/69a2762d0da45516f16bc45c?utm_campaign=1065&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
 | **[Brixenta](brixenta.net)** | **[Digital Merchandising Intern](https://jobright.ai/jobs/info/69a233fe0da45516f16b7c6e?utm_campaign=1065&utm_source=git)** | Birmingham, AL | Remote | Feb 27 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Growth Management](https://jobright.ai/jobs/info/69a25f22b600907a9628a7b7?utm_campaign=1065&utm_source=git)** | Altamonte Springs, FL | On Site | Feb 27 |
 | **[Topfoxx](https://www.topfoxx.com)** | **[Content & Social Media Intern / Fashion / TopFoxx Eyewear](https://jobright.ai/jobs/info/69a252bd0da45516f16b9776?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Feb 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[2026-27 Fan Experience & Marketing Assistant](https://jobright.ai/jobs/info/69a20b3cb600907a96285850?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 27 |
 | **[The Institute for Advanced Learning and Research](https://www.ialr.org/)** | **[CEA Center Marketing & Research Intern](https://jobright.ai/jobs/info/69a245ab359fe034b1cd814c?utm_campaign=1065&utm_source=git)** | The Institute for Advanced Learning and Research - Danville, VA 24540 | On Site | Feb 27 |
 | **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Healthcare Marketing Intern](https://jobright.ai/jobs/info/69a2090db600907a9628567f?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Feb 27 |
-| **[Sol Systems](http://www.solsystems.com/)** | **[Marketing & Communications Summer Intern](https://jobright.ai/jobs/info/69a208b30da45516f16b519c?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
-| **[Fremont Bank](http://www.fremontbank.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69a20793359fe034b1cd467e?utm_campaign=1065&utm_source=git)** | Livermore, CA | On Site | Feb 27 |
-| **[Dometic](https://www.dometic.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69a2062c359fe034b1cd44f6?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Feb 27 |
-| **[OmniAb, Inc.](http://www.omniab.com/)** | **[Summer Intern, Business and Market Analyst (Biotech, BSc or MSc)](https://jobright.ai/jobs/info/69a2280fb600907a962874b9?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Feb 27 |
-| **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB Sales Marketing Intern](https://jobright.ai/jobs/info/69a204250da45516f16b4d19?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Feb 27 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Direct Marketing Internship - Summer 2026 - Park City, UT](https://jobright.ai/jobs/info/69a20424b600907a96285162?utm_campaign=1065&utm_source=git)** | Park City, UT | On Site | Feb 27 |
-| **[Purdue Federal Credit Union](https://www.purduefed.com)** | **[Intern Marketing](https://jobright.ai/jobs/info/69a203fb0da45516f16b4cee?utm_campaign=1065&utm_source=git)** | West Lafayette, IN | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
