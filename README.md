@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crystal Dynamics](http://crystald.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a29f68359fe034b1cdeed6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 27 |
+| **[Bio-Techne](https://www.bio-techne.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a29c55359fe034b1cde956?utm_campaign=1065&utm_source=git)** | Newark, CA | On Site | Feb 27 |
+| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern](https://jobright.ai/jobs/info/699b75a681476f6176b3e6fe?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 27 |
 | **[Black Book](https://www.blackbook.com)** | **[Specialty Markets Analytics Intern](https://jobright.ai/jobs/info/69a29be5359fe034b1cde8ab?utm_campaign=1065&utm_source=git)** | Lawrenceville, GA | Hybrid | Feb 27 |
-| **[Schaefer](http://schaefer-inc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a29bdeb600907a9628f7f5?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 27 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Mortgage](https://jobright.ai/jobs/info/69a29a5b359fe034b1cde5f4?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Feb 27 |
 | **[JCPenney](http://jcp.com)** | **[Merchandising Intern – JCPenney](https://jobright.ai/jobs/info/69a29a5ab600907a9628f567?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 | **[Root Access](https://rootaccess.ai/)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/69a28efb0da45516f16be405?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 27 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[DeCrescente Dist. Co., Inc.](http://decrescente.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69a2612eb600907a9628aac9?utm_campaign=1065&utm_source=git)** | Mechanicville, NY, US | On Site | Feb 27 |
 | **[Select Markets](https://www.instagram.com/Select.markets)** | **[Event Logistics and Management Intern/Recent Grad](https://jobright.ai/jobs/info/69a235f70da45516f16b7e6e?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Feb 27 |
 | **[3xLOGIC](https://www.3xlogic.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69a26b9d0da45516f16bb30d?utm_campaign=1065&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Community Engagement Intern](https://jobright.ai/jobs/info/69a26b6fb600907a9628ba84?utm_campaign=1065&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Community Engagement Intern](https://jobright.ai/jobs/info/69a2762d0da45516f16bc45c?utm_campaign=1065&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Community Engagement Intern](https://jobright.ai/jobs/info/69a2762d0da45516f16bc45c?utm_campaign=1065&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| ↳ | **[Fall 2026 Community Engagement Intern](https://jobright.ai/jobs/info/69a26b6fb600907a9628ba84?utm_campaign=1065&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
 | **[Brixenta](brixenta.net)** | **[Digital Merchandising Intern](https://jobright.ai/jobs/info/69a233fe0da45516f16b7c6e?utm_campaign=1065&utm_source=git)** | Birmingham, AL | Remote | Feb 27 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Growth Management](https://jobright.ai/jobs/info/69a25f22b600907a9628a7b7?utm_campaign=1065&utm_source=git)** | Altamonte Springs, FL | On Site | Feb 27 |
 | **[Topfoxx](https://www.topfoxx.com)** | **[Content & Social Media Intern / Fashion / TopFoxx Eyewear](https://jobright.ai/jobs/info/69a252bd0da45516f16b9776?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Feb 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Nature Conservancy](http://www.nature.org)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69a23cabb600907a962887e8?utm_campaign=1065&utm_source=git)** | Remote - Hawaii | Remote | Feb 27 |
 | **[American Liver Foundation](http://www.liverfoundation.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a21447359fe034b1cd52a5?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Feb 27 |
 | **[Siemens](https://www.siemens.com)** | **[Strategic Student Program: Product Marketer Intern Summer 2026](https://jobright.ai/jobs/info/69a232d2b600907a96287f27?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Feb 27 |
-| **[Maia Wellness](https://www.retreatmaia.com/offerings)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69a24687359fe034b1cd822b?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 27 |
-| **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/69a210d7b600907a96285eac?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
