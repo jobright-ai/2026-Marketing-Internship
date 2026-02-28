@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](electrogum.com)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/69a36cc60da45516f16c910f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a34fb90da45516f16c8b58?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | Feb 28 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Communications Seasonal Internship](https://jobright.ai/jobs/info/69a34fb1b600907a96298f4b?utm_campaign=1065&utm_source=git)** | Berea, OH | On Site | Feb 28 |
+| **[UFC GYM](http://UFCGYM.com)** | **[Intern – Espanol Digital Media Intern, UFC](https://jobright.ai/jobs/info/69a36cf0359fe034b1ce878f?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Feb 28 |
 | **[Calgon Carbon Corporation](http://calgoncarbon.com)** | **[Intern](https://jobright.ai/jobs/info/69a34ccd359fe034b1ce8003?utm_campaign=1065&utm_source=git)** | Coraopolis, PA | Hybrid | Feb 28 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/69a3498b0da45516f16c863b?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Feb 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69a3495f0da45516f16c85f2?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 28 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a348b6359fe034b1ce7b90?utm_campaign=1065&utm_source=git)** | Birmingham, AL | Remote | Feb 28 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a345f30da45516f16c8228?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 28 |
 | **[Meridien Labs](meridienlabs.us)** | **[Market Operations Intern](https://jobright.ai/jobs/info/69a34429359fe034b1ce7673?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Feb 28 |
-| **[Veltrana Group](veltranagroup.us)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a33fbd0da45516f16c7b0b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 28 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Marketing Internship (unpaid)](https://jobright.ai/jobs/info/69a338c80da45516f16c79e4?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Feb 28 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a3385f359fe034b1ce7053?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 28 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Copywriter](https://jobright.ai/jobs/info/69337ac0764507023d1b621c?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Securitas Technology](https://www.securitastechnology.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69a2b32bb600907a96291d35?utm_campaign=1065&utm_source=git)** | Uniontown, OH | On Site | Feb 28 |
 | **[Ad Council](http://adcouncil.org/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/698a76b30f6f7e7a2ce59de6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Siouxland Community Health Center](https://www.slandchc.com)** | **[Marketing/Development/Public Relations Intern](https://jobright.ai/jobs/info/69a2aa75b600907a96290fab?utm_campaign=1065&utm_source=git)** | Sioux City, IA | On Site | Feb 28 |
-| **[Mile Marker](https://milemarkeragency.com)** | **[Summer Internship - Media Planning](https://jobright.ai/jobs/info/69a2a8db359fe034b1cdfeef?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
