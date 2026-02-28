@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Black Book](https://www.blackbook.com)** | **[Specialty Markets Analytics Intern](https://jobright.ai/jobs/info/69a29be5359fe034b1cde8ab?utm_campaign=1065&utm_source=git)** | Lawrenceville, GA | Hybrid | Feb 27 |
+| **[Schaefer](http://schaefer-inc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a29bdeb600907a9628f7f5?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Feb 27 |
+| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Mortgage](https://jobright.ai/jobs/info/69a29a5b359fe034b1cde5f4?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Feb 27 |
+| **[JCPenney](http://jcp.com)** | **[Merchandising Intern – JCPenney](https://jobright.ai/jobs/info/69a29a5ab600907a9628f567?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
+| **[Root Access](https://rootaccess.ai/)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/69a28efb0da45516f16be405?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 27 |
+| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Marketing HIDO, Global Rare Diseases - Summer 2026](https://jobright.ai/jobs/info/69a28746359fe034b1cdd4a3?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Feb 27 |
+| **[MacDermid Alpha Electronics Solutions](https://www.macdermidalpha.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a28716359fe034b1cdd3d7?utm_campaign=1065&utm_source=git)** | Piscataway, NJ | On Site | Feb 27 |
 | **[Veltrana Group](veltranagroup.us)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a283d2359fe034b1cdcdc8?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 27 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Marketing AIM, Global Rare Diseases - Summer 2026](https://jobright.ai/jobs/info/69a28360b600907a9628dad8?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Feb 27 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[YouTube & Video Marketing Intern 2-5hrs/week](https://jobright.ai/jobs/info/69a282ca0da45516f16bd471?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Feb 27 |
@@ -100,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[Trü Frü](https://trufru.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69a2579d359fe034b1cd9124?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 27 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/69a23778359fe034b1cd73ea?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Feb 27 |
 | **[DormCo](http://www.dormco.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69a2375f359fe034b1cd73d2?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Feb 27 |
-| **[Highridge Medical](https://www.highridgemedical.com)** | **[Marketing (MIS) Intern](https://jobright.ai/jobs/info/69a278ecb600907a9628cfbc?utm_campaign=1065&utm_source=git)** | Westminster, CO, US | On Site | Feb 27 |
-| ↳ | **[Marketing (Motion Preservation) Intern](https://jobright.ai/jobs/info/69a275f1b600907a9628ca16?utm_campaign=1065&utm_source=git)** | Westminster, CO, US | On Site | Feb 27 |
+| **[Highridge Medical](https://www.highridgemedical.com)** | **[Marketing (Motion Preservation) Intern](https://jobright.ai/jobs/info/69a275f1b600907a9628ca16?utm_campaign=1065&utm_source=git)** | Westminster, CO, US | On Site | Feb 27 |
 | ↳ | **[Marketing (Complex Spine) Intern](https://jobright.ai/jobs/info/69a26c2b359fe034b1cdac64?utm_campaign=1065&utm_source=git)** | Westminster, CO, US | On Site | Feb 27 |
+| ↳ | **[Marketing (MIS) Intern](https://jobright.ai/jobs/info/69a278ecb600907a9628cfbc?utm_campaign=1065&utm_source=git)** | Westminster, CO, US | On Site | Feb 27 |
 | **[DeCrescente Dist. Co., Inc.](http://decrescente.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69a2612eb600907a9628aac9?utm_campaign=1065&utm_source=git)** | Mechanicville, NY, US | On Site | Feb 27 |
 | **[Select Markets](https://www.instagram.com/Select.markets)** | **[Event Logistics and Management Intern/Recent Grad](https://jobright.ai/jobs/info/69a235f70da45516f16b7e6e?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Feb 27 |
 | **[3xLOGIC](https://www.3xlogic.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69a26b9d0da45516f16bb30d?utm_campaign=1065&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
@@ -113,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Topfoxx](https://www.topfoxx.com)** | **[Content & Social Media Intern / Fashion / TopFoxx Eyewear](https://jobright.ai/jobs/info/69a252bd0da45516f16b9776?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Feb 27 |
 | **[Forescout Technologies Inc.](http://www.forescout.com)** | **[Intern - Revenue (Field) Marketing](https://jobright.ai/jobs/info/69a271dd359fe034b1cdb537?utm_campaign=1065&utm_source=git)** | Dallas, Texas | Hybrid | Feb 27 |
 | **[Siouxland Community Health Center](https://www.slandchc.com)** | **[Marketing/Development/Public Relations Intern](https://jobright.ai/jobs/info/69a2644bb600907a9628affb?utm_campaign=1065&utm_source=git)** | Sioux City, Iowa, United States | On Site | Feb 27 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Summer 2026](https://jobright.ai/jobs/info/69a253e4359fe034b1cd8da2?utm_campaign=1065&utm_source=git)** | Cleveland,OH,US | On Site | Feb 27 |
-| ↳ | **[Destination Experience Internship-Summer 2026](https://jobright.ai/jobs/info/69a25a64b600907a9628a270?utm_campaign=1065&utm_source=git)** | Cleveland,OH,US | On Site | Feb 27 |
+| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Destination Experience Internship-Summer 2026](https://jobright.ai/jobs/info/69a25a64b600907a9628a270?utm_campaign=1065&utm_source=git)** | Cleveland,OH,US | On Site | Feb 27 |
+| ↳ | **[Content Internship - Summer 2026](https://jobright.ai/jobs/info/69a253e4359fe034b1cd8da2?utm_campaign=1065&utm_source=git)** | Cleveland,OH,US | On Site | Feb 27 |
 | **[Mile Marker](https://milemarkeragency.com)** | **[Summer Internship - Media Planning](https://jobright.ai/jobs/info/69a25765359fe034b1cd90ea?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 27 |
 | **[MMGY Global](http://mmgyglobal.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69a26a390da45516f16bb125?utm_campaign=1065&utm_source=git)** | Overland Park, Kansas | On Site | Feb 27 |
 | **[On](https://www.on-running.com/)** | **[Intern - Product Merchandising, Footwear & Apparel](https://jobright.ai/jobs/info/69a2527ab600907a96289b5e?utm_campaign=1065&utm_source=git)** | Portland | Hybrid | Feb 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Strategic Student Program: Product Marketer Intern Summer 2026](https://jobright.ai/jobs/info/69a232d2b600907a96287f27?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Feb 27 |
 | **[Maia Wellness](https://www.retreatmaia.com/offerings)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69a24687359fe034b1cd822b?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 27 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/69a210d7b600907a96285eac?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
-| **[Dometic](https://www.dometic.com)** | **[B2C Ecommerce Intern](https://jobright.ai/jobs/info/69a210bfb600907a96285e96?utm_campaign=1065&utm_source=git)** | Katy, TX | Hybrid | Feb 27 |
-| **[The Nature Conservancy](http://www.nature.org)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69a243a4b600907a96288e59?utm_campaign=1065&utm_source=git)** | HI | Remote | Feb 27 |
-| **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Content Marketing Intern (Summer 2026; EDA)](https://jobright.ai/jobs/info/69a22c9f359fe034b1cd6a1d?utm_campaign=1065&utm_source=git)** | Wilsonville, OR | Hybrid | Feb 27 |
-| **[Vishay Siliconix Itzehoe GmbH](www.vishay.com/itzehoe)** | **[Product Marketing Engineer Intern](https://jobright.ai/jobs/info/69a20d79359fe034b1cd4c2c?utm_campaign=1065&utm_source=git)** | Columbus, NE | On Site | Feb 27 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[2026-27 Fan Experience & Marketing Assistant](https://jobright.ai/jobs/info/69a20b3cb600907a96285850?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 27 |
-| **[The Institute for Advanced Learning and Research](https://www.ialr.org/)** | **[CEA Center Marketing & Research Intern](https://jobright.ai/jobs/info/69a245ab359fe034b1cd814c?utm_campaign=1065&utm_source=git)** | The Institute for Advanced Learning and Research - Danville, VA 24540 | On Site | Feb 27 |
-| **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Healthcare Marketing Intern](https://jobright.ai/jobs/info/69a2090db600907a9628567f?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
