@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaeser Compressors USA](http://www.kaeser.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69a3f0480da45516f16ce858?utm_campaign=1065&utm_source=git)** | Fredericksburg, VA | On Site | Feb 28 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Summer 2026](https://jobright.ai/jobs/info/69a3e686b600907a9629db31?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Feb 28 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern](https://jobright.ai/jobs/info/69a3e36e0da45516f16cd315?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
 | **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Marketing & Public Affairs Intern](https://jobright.ai/jobs/info/69a3e0090da45516f16cd23c?utm_campaign=1065&utm_source=git)** | Greenbelt, MD | Hybrid | Feb 28 |
@@ -109,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[External Communications Intern- Summer 2026](https://jobright.ai/jobs/info/69a00fc453d97f23ee65c230?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/699fb8b381476f6176b9715e?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[Marketing & Research Intern- Summer 2026](https://jobright.ai/jobs/info/696baec3db26b618950f2bce?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Community Engagement Intern](https://jobright.ai/jobs/info/69a3f209b600907a9629eda1?utm_campaign=1065&utm_source=git)** | Longwood, FL | On Site | Feb 28 |
 | **[Arevon](https://arevonenergy.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/693206044c474121999f5e67?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Feb 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6986b0e48ca8121a3a69105d?utm_campaign=1065&utm_source=git)** | Tucson, AZ | On Site | Feb 28 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef33729655e4dd65876db?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Feb 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Drinking Water Solutions (DWS) Marketing and Business Development Intern](https://jobright.ai/jobs/info/69a301bf359fe034b1ce58a1?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 28 |
 | ↳ | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69a3031f359fe034b1ce5917?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Feb 28 |
 | **[Cerrowire](http://cerrowire.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/696ae6205fc86241853a1b72?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Feb 28 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Communications Intern](https://jobright.ai/jobs/info/69867e3e0f6f7e7a2ce17d02?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 28 |
-| ↳ | **[NetSuite Paid Search Intern](https://jobright.ai/jobs/info/69867e118ca8121a3a68cacf?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
