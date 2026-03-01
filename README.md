@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coveo](http://www.coveo.com)** | **[Public Relations Intern, Summer 2026](https://jobright.ai/jobs/info/69821391c3101f1400c3bc80?utm_campaign=1065&utm_source=git)** | Montreal (Province of Quebec, Canada) | Hybrid | Feb 28 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Visual Marketing Intern, Social Media (2-5hrs/week)](https://jobright.ai/jobs/info/69a374d6359fe034b1ce8920?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Feb 28 |
 | **[Fulcrum GT](https://fulcrum-gt.com/)** | **[Junior Marketing Associate](https://jobright.ai/jobs/info/69a3720c0da45516f16c9204?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | On Site | Feb 28 |
 | **[Electro](electrogum.com)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/69a36cc60da45516f16c910f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, US Thoracic Marketing (Summer 2026)](https://jobright.ai/jobs/info/69a2b3a1b600907a96291dc6?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Feb 28 |
 | **[Securitas Technology](https://www.securitastechnology.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69a2b32bb600907a96291d35?utm_campaign=1065&utm_source=git)** | Uniontown, OH | On Site | Feb 28 |
 | **[Ad Council](http://adcouncil.org/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/698a76b30f6f7e7a2ce59de6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
-| **[Siouxland Community Health Center](https://www.slandchc.com)** | **[Marketing/Development/Public Relations Intern](https://jobright.ai/jobs/info/69a2aa75b600907a96290fab?utm_campaign=1065&utm_source=git)** | Sioux City, IA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
