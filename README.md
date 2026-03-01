@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Visual Marketing Intern, Social Media (2-5hrs/week)](https://jobright.ai/jobs/info/69a374d6359fe034b1ce8920?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Feb 28 |
+| **[Fulcrum GT](https://fulcrum-gt.com/)** | **[Junior Marketing Associate](https://jobright.ai/jobs/info/69a3720c0da45516f16c9204?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | On Site | Feb 28 |
 | **[Electro](electrogum.com)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/69a36cc60da45516f16c910f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a34fb90da45516f16c8b58?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | Feb 28 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Communications Seasonal Internship](https://jobright.ai/jobs/info/69a34fb1b600907a96298f4b?utm_campaign=1065&utm_source=git)** | Berea, OH | On Site | Feb 28 |
@@ -95,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Market Operations Intern](https://jobright.ai/jobs/info/69a31406359fe034b1ce5e58?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
 | **[Central Bank](https://www.centralbank.net/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/698683088ca8121a3a68d18e?utm_campaign=1065&utm_source=git)** | Jefferson City, MO | On Site | Feb 28 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a3108f0da45516f16c6614?utm_campaign=1065&utm_source=git)** | Birmingham, AL | Remote | Feb 28 |
-| **[Velastra](velastra.us)** | **[Growth and Commercial Analyst Intern](https://jobright.ai/jobs/info/69a3103d359fe034b1ce5d4b?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[External Communications Intern- Summer 2026](https://jobright.ai/jobs/info/69a00fc453d97f23ee65c230?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/699fb8b381476f6176b9715e?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[Marketing & Research Intern- Summer 2026](https://jobright.ai/jobs/info/696baec3db26b618950f2bce?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, US Thoracic Marketing (Summer 2026)](https://jobright.ai/jobs/info/69a2b3a1b600907a96291dc6?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Feb 28 |
 | **[Securitas Technology](https://www.securitastechnology.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69a2b32bb600907a96291d35?utm_campaign=1065&utm_source=git)** | Uniontown, OH | On Site | Feb 28 |
 | **[Ad Council](http://adcouncil.org/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/698a76b30f6f7e7a2ce59de6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
-| **[Siouxland Community Health Center](https://www.slandchc.com)** | **[Marketing/Development/Public Relations Intern](https://jobright.ai/jobs/info/69a2aa75b600907a96290fab?utm_campaign=1065&utm_source=git)** | Sioux City, IA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
