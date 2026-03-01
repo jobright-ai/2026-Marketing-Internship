@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69a44cc5b600907a962a3c0f?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69a44ca9b600907a962a3bf5?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
+| **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69a448f7359fe034b1cf2d61?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69a446850da45516f16d3869?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
+| **[Velastra](velastra.us)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a43fd90da45516f16d331c?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | Mar 01 |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69a3e7bab600907a9629ddcf?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Mar 01 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a42f71359fe034b1cf1c00?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69153b549c388539cbdf1b26?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 01 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern -Brand Management](https://jobright.ai/jobs/info/6988a49b8ca8121a3a6b2662?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 01 |
@@ -66,8 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a402d60da45516f16d0062?utm_campaign=1065&utm_source=git)** | Gillette, Wyoming | On Site | Mar 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69a40017359fe034b1cef107?utm_campaign=1065&utm_source=git)** | Gillette, WY | On Site | Mar 01 |
 | **[Montgomery Parks](https://montgomeryparks.org)** | **[Marketing & Public Affairs Intern](https://jobright.ai/jobs/info/69a3faf00da45516f16cf7f9?utm_campaign=1065&utm_source=git)** | Wheaton, MD | Hybrid | Mar 01 |
-| **[University of Michigan](https://www.umich.edu)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69a3faea359fe034b1ceecaa?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69a3fae30da45516f16cf7de?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
+| **[University of Michigan](https://www.umich.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a3fae30da45516f16cf7de?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
 | **[OMI Industries](https://omi-industries.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69a3f7ccb600907a9629f7ba?utm_campaign=1065&utm_source=git)** | Palatine, IL | On Site | Mar 01 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Owned Social Media Content (Academic Year, Fall 2026 & Spring 2027)](https://jobright.ai/jobs/info/69a3f79c0da45516f16cf3ba?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 01 |
 | **[University of Michigan](https://www.umich.edu)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69a3f514359fe034b1cee565?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
@@ -78,6 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Marketing & Public Affairs Intern](https://jobright.ai/jobs/info/69a3e0090da45516f16cd23c?utm_campaign=1065&utm_source=git)** | Greenbelt, MD | Hybrid | Feb 28 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern](https://jobright.ai/jobs/info/69a4017db600907a962a02e3?utm_campaign=1065&utm_source=git)** | Salt Lake City, Utah | On Site | Feb 28 |
 | **[Chesterton Hills Consulting](https://www.linkedin.com/company/107831627)** | **[Social Media Marketing & Communications Intern](https://jobright.ai/jobs/info/69a3d0b9359fe034b1cebe78?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Feb 28 |
+| **[WD WIAN Test Company Page](https://www.linkedin.com/company/111537035)** | **[Intern - Multiple openings](https://jobright.ai/jobs/info/69894ffc8ca8121a3a6b9232?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 28 |
+| **[Sogi](https://www.linkedin.com/company/111901466)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69a434690da45516f16d27ae?utm_campaign=1065&utm_source=git)** | Blacksburg-Christiansburg-Radford Area | On Site | Feb 28 |
 | **[cupl](www.cupl.io)** | **[Internship (Unpaid) - Sales & Growth Marketing](https://jobright.ai/jobs/info/69a3c3dbb600907a9629c2bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Spring '26)](https://jobright.ai/jobs/info/69a3bf4e359fe034b1ceb41a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Feb 28 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Corporate Communications](https://jobright.ai/jobs/info/69a3b59e359fe034b1ceabbc?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Feb 28 |
@@ -87,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Coveo](http://www.coveo.com)** | **[Public Relations Intern, Summer 2026](https://jobright.ai/jobs/info/69821391c3101f1400c3bc80?utm_campaign=1065&utm_source=git)** | Montreal (Province of Quebec, Canada) | Hybrid | Feb 28 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Visual Marketing Intern, Social Media (2-5hrs/week)](https://jobright.ai/jobs/info/69a374d6359fe034b1ce8920?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Feb 28 |
 | **[Electro](electrogum.com)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/69a36cc60da45516f16c910f?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
+| **[SeenU](www.seenu.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a43b7e0da45516f16d2d5c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Feb 28 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a34fb90da45516f16c8b58?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | Feb 28 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Communications Seasonal Internship](https://jobright.ai/jobs/info/69a34fb1b600907a96298f4b?utm_campaign=1065&utm_source=git)** | Berea, OH | On Site | Feb 28 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – Espanol Digital Media Intern, UFC](https://jobright.ai/jobs/info/69a36cf0359fe034b1ce878f?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Feb 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of San José](http://www.sanjoseca.gov/)** | **[Student Intern Communications (Unclassified) (Part-Time) - Council District 2](https://jobright.ai/jobs/info/69a01786bfee5471cdce858a?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad618db26b618950e2b25?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 28 |
 | ↳ | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696acbab350cf4380311e097?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | Hybrid | Feb 28 |
-| ↳ | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad15f350cf4380311e99b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 28 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Influencer & Content Creation](https://jobright.ai/jobs/info/696abcf2350cf4380311c7e2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 28 |
-| **[Staples](http://www.staples.com)** | **[Merchandising Intern - June 2026](https://jobright.ai/jobs/info/6914c3d66f36db06ef048bb1?utm_campaign=1065&utm_source=git)** | Framingham, MA | On Site | Feb 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68fa0a307ab77a56387e921b?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Feb 28 |
-| **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/696ad88b350cf4380311f85f?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Feb 28 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Field Marketing Intern (Association)](https://jobright.ai/jobs/info/69867e838da7a61204614cdd?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 28 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Social Media, Naturium](https://jobright.ai/jobs/info/696ab21b5fc862418539be0f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 28 |
-| **[Naapbooks Limited](http://www.naapbooks.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69a2ecfeb600907a96294d73?utm_campaign=1065&utm_source=git)** | Branch, LA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
