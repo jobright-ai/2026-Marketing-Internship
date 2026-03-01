@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Market Operations Intern](https://jobright.ai/jobs/info/69a3ad94b600907a9629b32a?utm_campaign=1065&utm_source=git)** | Birmingham, AL | Remote | Feb 28 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69a3aa510da45516f16caed7?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 28 |
+| **[Orvanta](joinorvanta.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a3a064359fe034b1ce9f5e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 28 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Market Analysis Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a39aa10da45516f16ca40f?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA | Hybrid | Feb 28 |
 | **[Coveo](http://www.coveo.com)** | **[Public Relations Intern, Summer 2026](https://jobright.ai/jobs/info/69821391c3101f1400c3bc80?utm_campaign=1065&utm_source=git)** | Montreal (Province of Quebec, Canada) | Hybrid | Feb 28 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Visual Marketing Intern, Social Media (2-5hrs/week)](https://jobright.ai/jobs/info/69a374d6359fe034b1ce8920?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Feb 28 |
 | **[Fulcrum GT](https://fulcrum-gt.com/)** | **[Junior Marketing Associate](https://jobright.ai/jobs/info/69a3720c0da45516f16c9204?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | On Site | Feb 28 |
@@ -95,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Market Operations Intern](https://jobright.ai/jobs/info/69a3187c359fe034b1ce61b2?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 28 |
 | **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Feb 28 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Market Operations Intern](https://jobright.ai/jobs/info/69a31406359fe034b1ce5e58?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Community Engagement Intern](https://jobright.ai/jobs/info/69a3b0760da45516f16cb155?utm_campaign=1065&utm_source=git)** | Longwood, FL | On Site | Feb 28 |
 | **[Central Bank](https://www.centralbank.net/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/698683088ca8121a3a68d18e?utm_campaign=1065&utm_source=git)** | Jefferson City, MO | On Site | Feb 28 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a3108f0da45516f16c6614?utm_campaign=1065&utm_source=git)** | Birmingham, AL | Remote | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[External Communications Intern- Summer 2026](https://jobright.ai/jobs/info/69a00fc453d97f23ee65c230?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NetSuite Paid Search Intern](https://jobright.ai/jobs/info/69867e118ca8121a3a68cacf?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Feb 28 |
 | **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/698656798da7a61204610c01?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Feb 28 |
 | **[MathWorks](http://www.mathworks.com)** | **[Dalhousie University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69440266dd382f5f566a222e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 28 |
-| **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Game Day Communications Intern](https://jobright.ai/jobs/info/69a2b42ab600907a96291e4f?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Feb 28 |
-| **[CooperSurgical](http://www.coopersurgical.com)** | **[Product Marketing Intern - Medical Device, Specialty Surgery](https://jobright.ai/jobs/info/69a2b40cb600907a96291e3e?utm_campaign=1065&utm_source=git)** | Trumbull, CT | On Site | Feb 28 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, US Thoracic Marketing (Summer 2026)](https://jobright.ai/jobs/info/69a2b3a1b600907a96291dc6?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Feb 28 |
-| **[Securitas Technology](https://www.securitastechnology.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69a2b32bb600907a96291d35?utm_campaign=1065&utm_source=git)** | Uniontown, OH | On Site | Feb 28 |
-| **[Ad Council](http://adcouncil.org/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/698a76b30f6f7e7a2ce59de6?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
