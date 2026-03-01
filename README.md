@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a42f71359fe034b1cf1c00?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69153b549c388539cbdf1b26?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 01 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern -Brand Management](https://jobright.ai/jobs/info/6988a49b8ca8121a3a6b2662?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 01 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696b0bf7db26b618950e86ae?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | Mar 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Field Marketing Intern (Association)](https://jobright.ai/jobs/info/69867e838da7a61204614cdd?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Feb 28 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Social Media, Naturium](https://jobright.ai/jobs/info/696ab21b5fc862418539be0f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 28 |
 | **[Naapbooks Limited](http://www.naapbooks.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69a2ecfeb600907a96294d73?utm_campaign=1065&utm_source=git)** | Branch, LA | On Site | Feb 28 |
-| **[Cerrowire](http://cerrowire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ae5145fc86241853a18f7?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
