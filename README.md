@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a4817b359fe034b1cf42fd?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Mar 01 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a4813d359fe034b1cf42cc?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 01 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a48103b600907a962a5008?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Mar 01 |
+| **[Orvanta](joinorvanta.com)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a480d00da45516f16d4d50?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 01 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/69a4809e0da45516f16d4d25?utm_campaign=1065&utm_source=git)** | Middletown, OH | On Site | Mar 01 |
+| **[POLA Marketing](https://polamarketing.com/)** | **[POLA Marketing Intern](https://jobright.ai/jobs/info/69a47ac6b600907a962a4b2c?utm_campaign=1065&utm_source=git)** | Covington, LA | On Site | Mar 01 |
 | **[WebTPA](http://webtpa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699d367d81476f6176b5f20b?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Mar 01 |
 | **[Brixenta](brixenta.net)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a47286b600907a962a4977?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | Mar 01 |
 | **[Canandaigua National Bank](http://cnbank.com)** | **[Community Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/69a471f5359fe034b1cf3c7d?utm_campaign=1065&utm_source=git)** | BASIN PARK 1150, Pittsford, NY, US | Hybrid | Mar 01 |
@@ -68,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Mobile & Affiliate Marketing Intern](https://jobright.ai/jobs/info/69a466da359fe034b1cf389d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a466b90da45516f16d43c1?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 01 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a46664359fe034b1cf386c?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 01 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a4818b0da45516f16d4e02?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 01 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a460cc0da45516f16d40ba?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69a460870da45516f16d4085?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 01 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69a46010359fe034b1cf3532?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef33729655e4dd65876db?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/696ac17cdb26b618950e06df?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986ad858ca8121a3a6909e5?utm_campaign=1065&utm_source=git)** | North York, Ontario, Canada | On Site | Feb 28 |
-| **[Keurig Dr Pepper Canada](http://www.keurig.ca)** | **[RTD Marketing Intern](https://jobright.ai/jobs/info/698f62390cc8ea15f1d9e5f3?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 28 |
-| **[Techtronic Industries Canada Inc.](https://www.ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/6986b18c8da7a6120461978f?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 28 |
-| **[RTX](http://www.raytheon.com)** | **[Summer 2026 Communications Intern - Collins (Onsite)](https://jobright.ai/jobs/info/69a303620da45516f16c6253?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 28 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Loyalty & Engagement Intern](https://jobright.ai/jobs/info/698680348da7a61204614f58?utm_campaign=1065&utm_source=git)** | Marlborough, MA | Hybrid | Feb 28 |
-| **[Flock](https://www.flocksafety.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/699153d46ea51a7610f3a26f?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
-| **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696afd48350cf43803123b23?utm_campaign=1065&utm_source=git)** | Herndon, VA | On Site | Feb 28 |
-| **[Advantage Capital](http://www.advantagecap.com/)** | **[Communications & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/698b9bb6c5761b521a9b2bf3?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
