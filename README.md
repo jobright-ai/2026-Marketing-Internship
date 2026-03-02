@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Market Operations Intern](https://jobright.ai/jobs/info/69a4ff6e359fe034b1cf9626?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
-| **[Electro](electrogum.com)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69a4feb5b600907a962aa2b4?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
+| **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Global Communications (NARS)](https://jobright.ai/jobs/info/69a506dc0da45516f16dac20?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 01 |
+| **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/69a506a40da45516f16dac01?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
+| **[Electro](electrogum.com)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69a5067a359fe034b1cf9ef3?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
+| **[Cinnamon Entertainment Group LLC](https://www.cinnamonentertainment.com)** | **[Email Marketing Non Paid (Academic Credit Only) Intern](https://jobright.ai/jobs/info/69a50670b600907a962aac50?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
 | **[MMGY Global](http://mmgyglobal.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69a4fa2ab600907a962a9a3d?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Mar 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Lucasfilm & Marvel Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a4f9dcb600907a962a99e5?utm_campaign=1065&utm_source=git)** | Celebration, FL, USA | On Site | Mar 01 |
 | **[Portola Hotel & Spa at Monterey Bay](http://portolahotel.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a4f93f359fe034b1cf8bfa?utm_campaign=1065&utm_source=git)** | Monterey, CA 93940 | On Site | Mar 01 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Email Marketing](https://jobright.ai/jobs/info/69a4c6810da45516f16d72cb?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Mar 01 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Social Media & Brand Marketing Associate (Intern)](https://jobright.ai/jobs/info/69a4c419b600907a962a747b?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Mar 01 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Political Client Strategy](https://jobright.ai/jobs/info/69a4c1be0da45516f16d71f5?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Mar 01 |
-| **[Electro](electrogum.com)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69a4b0700da45516f16d6bed?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales (Growth) Intern](https://jobright.ai/jobs/info/69a4a8eeb600907a962a6b64?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 01 |
 | **[El Centro Family Health](https://ecfh.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a4a8920da45516f16d695e?utm_campaign=1065&utm_source=git)** | Santa Fe, NM | On Site | Mar 01 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Copy Writer Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6981036f7f40342e15d9dd01?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
@@ -131,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[cupl](www.cupl.io)** | **[Internship (Unpaid) - Sales & Growth Marketing](https://jobright.ai/jobs/info/69a3c3dbb600907a9629c2bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Corporate Communications](https://jobright.ai/jobs/info/69a3b59e359fe034b1ceabbc?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Feb 28 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Market Analysis Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a39aa10da45516f16ca40f?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA | Hybrid | Feb 28 |
+| **[Ad Council](http://adcouncil.org/)** | **[Brand & Events Intern](https://jobright.ai/jobs/info/698a7bb0c5761b521a99b635?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Coveo](http://www.coveo.com)** | **[Public Relations Intern, Summer 2026](https://jobright.ai/jobs/info/69821391c3101f1400c3bc80?utm_campaign=1065&utm_source=git)** | Montreal (Province of Quebec, Canada) | Hybrid | Feb 28 |
 | **[Minit Charger](https://www.minitcharger.com)** | **[DIgital Marketing Intern](https://jobright.ai/jobs/info/69a4a8ec0da45516f16d69af?utm_campaign=1065&utm_source=git)** | Chandler, AZ | On Site | Feb 28 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Visual Marketing Intern, Social Media (2-5hrs/week)](https://jobright.ai/jobs/info/69a374d6359fe034b1ce8920?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Feb 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Marketing Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/69868f448da7a61204616173?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
 | **[BTAS, Inc.](http://www.btas.com/)** | **[DoD SkillBridge Internship – Senior Growth Strategist](https://jobright.ai/jobs/info/6960a2ce7ebc25398eb683da?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Feb 28 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Content Analytics Intern](https://jobright.ai/jobs/info/698674a80f6f7e7a2ce16e10?utm_campaign=1065&utm_source=git)** | Marlborough, MA | Hybrid | Feb 28 |
-| **[rbb Communications](https://rbbcommunications.com/)** | **[Summer 2026 Internships: PR & Communications](https://jobright.ai/jobs/info/696a94fa5fc8624185398dcd?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | Hybrid | Feb 28 |
-| **[Okta](http://www.okta.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6986902d8ca8121a3a68de40?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
