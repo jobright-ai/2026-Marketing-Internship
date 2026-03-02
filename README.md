@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Derris, an Orchestra company](http://derris.com)** | **[Summer 2026 Communications Internship](https://jobright.ai/jobs/info/69a52025b600907a962ac096?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 01 |
+| **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a51e47359fe034b1cfb1d9?utm_campaign=1065&utm_source=git)** | South San Francisco, CA | On Site | Mar 01 |
+| **[Palm Beach Psychiatry, PLLC](https://www.linkedin.com/redir/suspicious-page?url=https%3A%2F%2Fpbpsy%2ecom)** | **[Digital Operation and Growth Intern](https://jobright.ai/jobs/info/69a51add0da45516f16db8ac?utm_campaign=1065&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Mar 01 |
+| **[Jingo](https://www.jingo.app)** | **[Marketing & Growth Intern](https://jobright.ai/jobs/info/69a514210da45516f16db755?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 01 |
+| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Seniors Housing/HUD, Mortgage Banking](https://jobright.ai/jobs/info/6998cabace78e77b4fdd5c4e?utm_campaign=1065&utm_source=git)** | Chevy Chase, Maryland, United States | On Site | Mar 01 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Global Communications (NARS)](https://jobright.ai/jobs/info/69a506dc0da45516f16dac20?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 01 |
-| **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/69a506a40da45516f16dac01?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
 | **[Electro](electrogum.com)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69a5067a359fe034b1cf9ef3?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Cinnamon Entertainment Group LLC](https://www.cinnamonentertainment.com)** | **[Email Marketing Non Paid (Academic Credit Only) Intern](https://jobright.ai/jobs/info/69a50670b600907a962aac50?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
 | **[MMGY Global](http://mmgyglobal.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69a4fa2ab600907a962a9a3d?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Mar 01 |
@@ -68,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Brixenta](brixenta.net)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a4f4150da45516f16d916f?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | Mar 01 |
 | **[1P Algorithms](https://www.1palgos.io)** | **[Marketing Intern (AI Content & Editing)](https://jobright.ai/jobs/info/69a4e765b600907a962a7dd8?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Busch Vacuum Solutions](https://www.buschvacuum.com)** | **[Marketing & Sales Strategy Intern](https://jobright.ai/jobs/info/69a4e6e3b600907a962a7ccd?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Mar 01 |
-| **[Crystal Dynamics](http://crystald.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a4de80359fe034b1cf6e67?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Filter Fox](www.filterfox.com)** | **[Growth & Market Strategy Intern](https://jobright.ai/jobs/info/69a4de7a0da45516f16d79e1?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[Remote Product Marketing Intern](https://jobright.ai/jobs/info/69a4de17b600907a962a7b10?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Mar 01 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Client Services](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1311?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 01 |
@@ -91,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a48103b600907a962a5008?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Mar 01 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69a4809e0da45516f16d4d25?utm_campaign=1065&utm_source=git)** | Middletown, OH | On Site | Mar 01 |
 | **[POLA Marketing](https://polamarketing.com/)** | **[POLA Marketing Intern](https://jobright.ai/jobs/info/69a47ac6b600907a962a4b2c?utm_campaign=1065&utm_source=git)** | Covington, LA | On Site | Mar 01 |
-| **[WebTPA](http://webtpa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/699d367d81476f6176b5f20b?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Mar 01 |
 | **[Canandaigua National Bank](http://cnbank.com)** | **[Community Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/69a471f5359fe034b1cf3c7d?utm_campaign=1065&utm_source=git)** | BASIN PARK 1150, Pittsford, NY, US | Hybrid | Mar 01 |
 | ↳ | **[Social Media & Digital Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/69a47113b600907a962a48da?utm_campaign=1065&utm_source=git)** | MAIN OFFICE, Canandaigua, NY, US | Hybrid | Mar 01 |
 | **[BerkleyNet (a Berkley Company)](https://berkleynet.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69a46ac8b600907a962a4715?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | Mar 01 |
@@ -113,13 +115,13 @@ For a complete list, click the following sortable link below:
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69a448f7359fe034b1cf2d61?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69a446850da45516f16d3869?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69a3e7bab600907a9629ddcf?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Mar 01 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern -Brand Management](https://jobright.ai/jobs/info/69a517980da45516f16db79e?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69153b549c388539cbdf1b26?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 01 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696b0bf7db26b618950e86ae?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | Mar 01 |
 | **[HII](https://hii.com)** | **[Employee and Digital Communications Internship](https://jobright.ai/jobs/info/69a40ba0b600907a962a1935?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Mar 01 |
 | **[OMI Industries](https://omi-industries.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69a4075bb600907a962a0df3?utm_campaign=1065&utm_source=git)** | Palatine, Illinois | On Site | Mar 01 |
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a402d60da45516f16d0062?utm_campaign=1065&utm_source=git)** | Gillette, Wyoming | On Site | Mar 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69a40017359fe034b1cef107?utm_campaign=1065&utm_source=git)** | Gillette, WY | On Site | Mar 01 |
-| **[OMI Industries](https://omi-industries.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69a3f7ccb600907a9629f7ba?utm_campaign=1065&utm_source=git)** | Palatine, IL | On Site | Mar 01 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Owned Social Media Content (Academic Year, Fall 2026 & Spring 2027)](https://jobright.ai/jobs/info/69a3f79c0da45516f16cf3ba?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 01 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Summer 2026](https://jobright.ai/jobs/info/69a3e686b600907a9629db31?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Feb 28 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern](https://jobright.ai/jobs/info/69a3e36e0da45516f16cd315?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Communications (2 Positions)](https://jobright.ai/jobs/info/69a32a3a359fe034b1ce6a6b?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Feb 28 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/698680048da7a61204614f01?utm_campaign=1065&utm_source=git)** | Marlborough, MA | Hybrid | Feb 28 |
 | **[Okta](http://www.okta.com)** | **[Marketing Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/69868f448da7a61204616173?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
-| **[BTAS, Inc.](http://www.btas.com/)** | **[DoD SkillBridge Internship – Senior Growth Strategist](https://jobright.ai/jobs/info/6960a2ce7ebc25398eb683da?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Feb 28 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Content Analytics Intern](https://jobright.ai/jobs/info/698674a80f6f7e7a2ce16e10?utm_campaign=1065&utm_source=git)** | Marlborough, MA | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
