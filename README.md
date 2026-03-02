@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69a4f49d0da45516f16d9273?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
+| **[Brixenta](brixenta.net)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a4f4150da45516f16d916f?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | Mar 01 |
 | **[1P Algorithms](https://www.1palgos.io)** | **[Marketing Intern (AI Content & Editing)](https://jobright.ai/jobs/info/69a4e765b600907a962a7dd8?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Busch Vacuum Solutions](https://www.buschvacuum.com)** | **[Marketing & Sales Strategy Intern](https://jobright.ai/jobs/info/69a4e6e3b600907a962a7ccd?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Mar 01 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a4de80359fe034b1cf6e67?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Canandaigua National Bank](http://cnbank.com)** | **[Community Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/69a471f5359fe034b1cf3c7d?utm_campaign=1065&utm_source=git)** | BASIN PARK 1150, Pittsford, NY, US | Hybrid | Mar 01 |
 | ↳ | **[Social Media & Digital Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/69a47113b600907a962a48da?utm_campaign=1065&utm_source=git)** | MAIN OFFICE, Canandaigua, NY, US | Hybrid | Mar 01 |
 | **[BerkleyNet (a Berkley Company)](https://berkleynet.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69a46ac8b600907a962a4715?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | Mar 01 |
-| **[Arvento A](arventoa.com)** | **[Mobile & Affiliate Marketing Intern](https://jobright.ai/jobs/info/69a46a72b600907a962a46f0?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/69a46a6c0da45516f16d4517?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a467130da45516f16d4407?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
 | **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Mobile & Affiliate Marketing Intern](https://jobright.ai/jobs/info/69a466da359fe034b1cf389d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Central Bank](https://www.centralbank.net/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/698683088ca8121a3a68d18e?utm_campaign=1065&utm_source=git)** | Jefferson City, MO | On Site | Feb 28 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a3108f0da45516f16c6614?utm_campaign=1065&utm_source=git)** | Birmingham, AL | Remote | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[External Communications Intern- Summer 2026](https://jobright.ai/jobs/info/69a00fc453d97f23ee65c230?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
-| ↳ | **[Marketing & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/699fb8b381476f6176b9715e?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
