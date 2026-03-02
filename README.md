@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/693c934949a7695fbd034fed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 02 |
+| **[Onawa Pet](https://www.linkedin.com/company/97199540)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69a5acffb600907a962b5d3d?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 02 |
+| **[DVF (Diane von Furstenberg)](http://world.dvf.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69a5acbd359fe034b1d04caa?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Mar 02 |
+| **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Nestlé Health Science - MBA Marketing Internship](https://jobright.ai/jobs/info/697b950a1423772304ebb3ac?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Mar 02 |
+| **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Commercial Bank Treasury Management](https://jobright.ai/jobs/info/69a5abb8359fe034b1d04bcc?utm_campaign=1065&utm_source=git)** | NY WP Hamilton | Hybrid | Mar 02 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69407e5950bbaf76505281fe?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 02 |
+| ↳ | **[B2B Content & Events Summer Intern](https://jobright.ai/jobs/info/69a1fbc4359fe034b1cd3aeb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 02 |
+| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Summer 2026](https://jobright.ai/jobs/info/69a5a7290da45516f16e579a?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Mar 02 |
+| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Marketing Intern - Summer '26](https://jobright.ai/jobs/info/6943e09294730b7398770ea0?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Mar 02 |
 | **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[eCommerce Summer Intern](https://jobright.ai/jobs/info/69a59fc00da45516f16e4f87?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Mar 02 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a59d4b0da45516f16e4c54?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 02 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Digital Strategy & Advertising Operations Intern](https://jobright.ai/jobs/info/69a26e9d0da45516f16bb6db?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 02 |
@@ -85,8 +94,7 @@ For a complete list, click the following sortable link below:
 | **[LEVITON MANUFACTURING](https://www.linkedin.com/company/9602682)** | **[Intern, Retail Marketing](https://jobright.ai/jobs/info/69a56f9d359fe034b1d014b5?utm_campaign=1065&utm_source=git)** | Melville, NY | On Site | Mar 02 |
 | **[U.S. Green Building Council](http://www.usgbc.org)** | **[State & Local Government Market Development Intern (Remote)](https://jobright.ai/jobs/info/69a56475359fe034b1d00a36?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Mar 02 |
 | ↳ | **[Events Impact Evaluation Intern (Remote in U.S)](https://jobright.ai/jobs/info/69a56462359fe034b1d009fe?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Mar 02 |
-| **[University of Michigan](https://www.umich.edu)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69a563efb600907a962b196c?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 02 |
-| **[U.S. Green Building Council](http://www.usgbc.org)** | **[Events Impact Evaluation Intern  (Remote in U.S)](https://jobright.ai/jobs/info/69a561be359fe034b1d00709?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Mar 02 |
+| ↳ | **[Events Impact Evaluation Intern  (Remote in U.S)](https://jobright.ai/jobs/info/69a561be359fe034b1d00709?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Mar 02 |
 | **[Duolingo](https://www.duolingo.com)** | **[Influencer Marketing, Intern](https://jobright.ai/jobs/info/69335396764507023d1b4464?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[U.S. Green Building Council](http://www.usgbc.org)** | **[State & Local Government Market Development Intern (Remote)](https://jobright.ai/jobs/info/69a560f9359fe034b1d0062e?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Mar 02 |
 | **[Dinamic AS Group](https://dinamicasgroup.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69a55dcfb600907a962b0d99?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 02 |
@@ -130,8 +138,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media & Digital Content Creator Intern (Summer 2026)](https://jobright.ai/jobs/info/69a47113b600907a962a48da?utm_campaign=1065&utm_source=git)** | MAIN OFFICE, Canandaigua, NY, US | Hybrid | Mar 01 |
 | **[BerkleyNet (a Berkley Company)](https://berkleynet.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69a46ac8b600907a962a4715?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | Mar 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a467130da45516f16d4407?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
-| **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Mobile & Affiliate Marketing Intern](https://jobright.ai/jobs/info/69a466da359fe034b1cf389d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 01 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a466b90da45516f16d43c1?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 01 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a466b90da45516f16d43c1?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 01 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a46664359fe034b1cf386c?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 01 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a4818b0da45516f16d4e02?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 01 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69a460cc0da45516f16d40ba?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 01 |
@@ -139,7 +146,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69a46010359fe034b1cf3532?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 01 |
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/699e518cce78e77b4fe378d3?utm_campaign=1065&utm_source=git)** | Elizabeth, NJ | On Site | Mar 01 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Community Involvement Intern](https://jobright.ai/jobs/info/6960fff0a112b402660f8834?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Mar 01 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a4599ab600907a962a400d?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | Mar 01 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69799aa1d7df290257fbf5ae?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Mar 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a44ca9b600907a962a3bf5?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69a448f7359fe034b1cf2d61?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dometic](https://www.dometic.com)** | **[B2C Ecommerce Intern](https://jobright.ai/jobs/info/69a5632eb600907a962b1897?utm_campaign=1065&utm_source=git)** | Katy, TX | Hybrid | Mar 01 |
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a402d60da45516f16d0062?utm_campaign=1065&utm_source=git)** | Gillette, Wyoming | On Site | Mar 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69a40017359fe034b1cef107?utm_campaign=1065&utm_source=git)** | Gillette, WY | On Site | Mar 01 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Owned Social Media Content (Academic Year, Fall 2026 & Spring 2027)](https://jobright.ai/jobs/info/69a3f79c0da45516f16cf3ba?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 01 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Summer 2026](https://jobright.ai/jobs/info/69a3e686b600907a9629db31?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Feb 28 |
-| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern](https://jobright.ai/jobs/info/69a3e36e0da45516f16cd315?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Summer 2026](https://jobright.ai/jobs/info/69a40625359fe034b1cefa7b?utm_campaign=1065&utm_source=git)** | Cleveland, Ohio | On Site | Feb 28 |
-| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Marketing & Public Affairs Intern](https://jobright.ai/jobs/info/69a3e0090da45516f16cd23c?utm_campaign=1065&utm_source=git)** | Greenbelt, MD | Hybrid | Feb 28 |
-| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern](https://jobright.ai/jobs/info/69a4017db600907a962a02e3?utm_campaign=1065&utm_source=git)** | Salt Lake City, Utah | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
