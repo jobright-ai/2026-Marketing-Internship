@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atmus Filtration Technologies](https://www.atmus.com)** | **[Communications Internship- Summer 2026](https://jobright.ai/jobs/info/69a5b606359fe034b1d05581?utm_campaign=1065&utm_source=git)** | Nashville Metro | Hybrid | Mar 02 |
+| **[European Energy Exchange AG](https://www.eex.com/en)** | **[Working Student (f/m/d) Communications - Focus: Public Relations](https://jobright.ai/jobs/info/69a5b5f5359fe034b1d05573?utm_campaign=1065&utm_source=git)** | Energy, IL | Hybrid | Mar 02 |
+| **[University of Virginia](https://lvg.virginia.edu)** | **[Sustainability Summer 2026 Internship - Communications (Student Wage)](https://jobright.ai/jobs/info/69a5b5d8359fe034b1d05557?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | On Site | Mar 02 |
+| **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Events Summer Intern](https://jobright.ai/jobs/info/69a5b5be359fe034b1d05548?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Mar 02 |
+| **[Priority Payments Local](https://www.prioritypaymentslocal.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a5b39e359fe034b1d0528a?utm_campaign=1065&utm_source=git)** | Red Bank, NJ | On Site | Mar 02 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a5b3630da45516f16e6190?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | Mar 02 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Internship](https://jobright.ai/jobs/info/69a5b31c359fe034b1d051a6?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 02 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/698eb20d78b4502f12a5890f?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Mar 02 |
+| **[Rogers Electric](https://www.rogerselectric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a40839359fe034b1cefea5?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Mar 02 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/693c934949a7695fbd034fed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[Onawa Pet](https://www.linkedin.com/company/97199540)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69a5acffb600907a962b5d3d?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 02 |
 | **[DVF (Diane von Furstenberg)](http://world.dvf.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69a5acbd359fe034b1d04caa?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Mar 02 |
@@ -68,8 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Marketing Intern - Summer '26](https://jobright.ai/jobs/info/6943e09294730b7398770ea0?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Mar 02 |
 | **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[eCommerce Summer Intern](https://jobright.ai/jobs/info/69a59fc00da45516f16e4f87?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Mar 02 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a59d4b0da45516f16e4c54?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 02 |
-| **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Digital Strategy & Advertising Operations Intern](https://jobright.ai/jobs/info/69a26e9d0da45516f16bb6db?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 02 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/69a598d0b600907a962b4531?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 02 |
+| ↳ | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/69a598d0b600907a962b4531?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 02 |
 | **[Ad Council](http://adcouncil.org/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/698a76b30f6f7e7a2ce59de6?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 02 |
 | **[OMI Industries](https://omi-industries.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69a597c7359fe034b1d0342e?utm_campaign=1065&utm_source=git)** | Palatine, IL | On Site | Mar 02 |
 | **[My7on7](https://www.my7on7.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69a594c00da45516f16e3d8b?utm_campaign=1065&utm_source=git)** | Twin Cities Area | On Site | Mar 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69799aa1d7df290257fbf5ae?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Mar 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a44ca9b600907a962a3bf5?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 01 |
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69a448f7359fe034b1cf2d61?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern -Brand Management](https://jobright.ai/jobs/info/69a517980da45516f16db79e?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69153b549c388539cbdf1b26?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 01 |
-| **[The Bancorp](http://www.thebancorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696b0bf7db26b618950e86ae?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | Mar 01 |
-| **[HII](https://hii.com)** | **[Employee and Digital Communications Internship](https://jobright.ai/jobs/info/69a40ba0b600907a962a1935?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Mar 01 |
-| **[OMI Industries](https://omi-industries.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69a4075bb600907a962a0df3?utm_campaign=1065&utm_source=git)** | Palatine, Illinois | On Site | Mar 01 |
-| **[Dometic](https://www.dometic.com)** | **[B2C Ecommerce Intern](https://jobright.ai/jobs/info/69a5632eb600907a962b1897?utm_campaign=1065&utm_source=git)** | Katy, TX | Hybrid | Mar 01 |
-| **[Western Welding Academy](ApplyToWeld.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a402d60da45516f16d0062?utm_campaign=1065&utm_source=git)** | Gillette, Wyoming | On Site | Mar 01 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69a40017359fe034b1cef107?utm_campaign=1065&utm_source=git)** | Gillette, WY | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
