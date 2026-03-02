@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Market Operations Intern](https://jobright.ai/jobs/info/69a4ff6e359fe034b1cf9626?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
+| **[Electro](electrogum.com)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/69a4feb5b600907a962aa2b4?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
+| **[MMGY Global](http://mmgyglobal.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69a4fa2ab600907a962a9a3d?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Mar 01 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Lucasfilm & Marvel Marketing Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a4f9dcb600907a962a99e5?utm_campaign=1065&utm_source=git)** | Celebration, FL, USA | On Site | Mar 01 |
+| **[Portola Hotel & Spa at Monterey Bay](http://portolahotel.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a4f93f359fe034b1cf8bfa?utm_campaign=1065&utm_source=git)** | Monterey, CA 93940 | On Site | Mar 01 |
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69a4f49d0da45516f16d9273?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Brixenta](brixenta.net)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a4f4150da45516f16d916f?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | Mar 01 |
 | **[1P Algorithms](https://www.1palgos.io)** | **[Marketing Intern (AI Content & Editing)](https://jobright.ai/jobs/info/69a4e765b600907a962a7dd8?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Content Analytics Intern](https://jobright.ai/jobs/info/698674a80f6f7e7a2ce16e10?utm_campaign=1065&utm_source=git)** | Marlborough, MA | Hybrid | Feb 28 |
 | **[rbb Communications](https://rbbcommunications.com/)** | **[Summer 2026 Internships: PR & Communications](https://jobright.ai/jobs/info/696a94fa5fc8624185398dcd?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | Hybrid | Feb 28 |
 | **[Okta](http://www.okta.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6986902d8ca8121a3a68de40?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
-| **[EUA](http://www.eua.com/)** | **[Marketing Student Intern](https://jobright.ai/jobs/info/69a31bbd0da45516f16c6bef?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Feb 28 |
-| **[GSD&M](http://www.gsdm.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/696ed2a7350cf4380315ccbe?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Feb 28 |
-| **[Central Bank](https://www.centralbank.net/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/698683088ca8121a3a68d18e?utm_campaign=1065&utm_source=git)** | Jefferson City, MO | On Site | Feb 28 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Marketing Communications & Partnerships Intern](https://jobright.ai/jobs/info/69a3108f0da45516f16c6614?utm_campaign=1065&utm_source=git)** | Birmingham, AL | Remote | Feb 28 |
-| **[Magna International](http://www.magna.com/)** | **[External Communications Intern- Summer 2026](https://jobright.ai/jobs/info/69a00fc453d97f23ee65c230?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
