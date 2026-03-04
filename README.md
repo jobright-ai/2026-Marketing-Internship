@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69a7f5d876bbe83d3afb6e06?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 04 |
+| **[Dometic](https://www.dometic.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69a7f5b176bbe83d3afb6de1?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Mar 04 |
+| **[University of Michigan](https://www.umich.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a7ebb8637232443f654406?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 04 |
+| **[Privia Health](http://www.priviahealth.com)** | **[Growth Operations Intern (2027 Grads)](https://jobright.ai/jobs/info/699644c2ce78e77b4fda3fcd?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 04 |
+| **[University of Michigan](https://www.umich.edu)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/69a7e9e3637232443f6542ec?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 04 |
+| ↳ | **[Employee Communications Intern](https://jobright.ai/jobs/info/69a7e9a5637232443f6542c4?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 04 |
 | **[Trinity Logistics](https://trinitylogistics.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698a3e9847434001cc687366?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 03 |
 | **[F5](https://www.f5.com)** | **[Channel Marketing Intern (Seattle)](https://jobright.ai/jobs/info/69a7ccd7637232443f65291a?utm_campaign=1065&utm_source=git)** | Seattle | Hybrid | Mar 03 |
 | **[Skillflo](https://www.skillflo.ai/)** | **[Sales & Growth Launcher (Intern)](https://jobright.ai/jobs/info/69a7cc4d76bbe83d3afb490f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 03 |
@@ -83,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Marketing Intern (June - April)](https://jobright.ai/jobs/info/69a792012672cb0acb4c06cd?utm_campaign=1065&utm_source=git)** | Seattle, Washington, United States | On Site | Mar 03 |
 | **[Curated By Cara Travel](https://www.curatedbycaratravel.com/trip-inquiry)** | **[Paid Summer Intern / Luxury Travel Industry](https://jobright.ai/jobs/info/69a791772672cb0acb4c0629?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Mar 03 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Events Management Intern](https://jobright.ai/jobs/info/69a7914976bbe83d3afaf2e5?utm_campaign=1065&utm_source=git)** | Campus: Tempe | On Site | Mar 03 |
+| **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Talent Acquisition Branding](https://jobright.ai/jobs/info/69a7efce76bbe83d3afb68c0?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Mar 03 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[2026 BARN Program Management Internship](https://jobright.ai/jobs/info/69a78f092672cb0acb4c0379?utm_campaign=1065&utm_source=git)** | US-NY-New York | Hybrid | Mar 03 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Family Career Engagement Management Intern](https://jobright.ai/jobs/info/69a78eb176bbe83d3afaeffa?utm_campaign=1065&utm_source=git)** | Campus: Tempe | On Site | Mar 03 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Training Camp Communications Intern](https://jobright.ai/jobs/info/69a78e9676bbe83d3afaefd4?utm_campaign=1065&utm_source=git)** | Englewood, CO | On Site | Mar 03 |
@@ -99,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[BIOTRONIK](https://www.biotronik.com/de-de)** | **[Marketing Intern (Contract)](https://jobright.ai/jobs/info/69a782d82672cb0acb4bfa82?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Community Relations and Youth Hockey Internship, Boston Bruins](https://jobright.ai/jobs/info/69a7829176bbe83d3afae6a0?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 03 |
 | **[Metrolina Greenhouses](http://www.metrolinagreenhouses.com/our-story)** | **[Summer Internship - Marketing - E-Commerce](https://jobright.ai/jobs/info/699ffec053d97f23ee659dc8?utm_campaign=1065&utm_source=git)** | Huntersville, NC | On Site | Mar 03 |
+| **[4 State Trucks](https://www.4statetrucks.com/)** | **[Marketing E-Commerce Intern](https://jobright.ai/jobs/info/69a7f39c76bbe83d3afb6c02?utm_campaign=1065&utm_source=git)** | Joplin, MO | On Site | Mar 03 |
 | **[Patriot Rail](http://patriotrail.com)** | **[Summer Intern - Commercial/Social Media Team](https://jobright.ai/jobs/info/69a79e6a76bbe83d3afb0082?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Mar 03 |
 | **[UCP of Central Florida](https://www.ucpcfl.org)** | **[Intern - Marketing Visual Media](https://jobright.ai/jobs/info/69a781f576bbe83d3afae610?utm_campaign=1065&utm_source=git)** | Administration - Orlando, FL 32817 | On Site | Mar 03 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Treasury Management Communications](https://jobright.ai/jobs/info/69a781b876bbe83d3afae5d8?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Mar 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Marketing (Summer 2026)](https://jobright.ai/jobs/info/69a75dc576bbe83d3afabf52?utm_campaign=1065&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Mar 03 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Remote Marketing Intern (April 2026)](https://jobright.ai/jobs/info/69a77ea976bbe83d3afae300?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a759832672cb0acb4bcbec?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | Mar 03 |
-| ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69a7591276bbe83d3afab9f0?utm_campaign=1065&utm_source=git)** | Costa Mesa, California, United States | On Site | Mar 03 |
-| **[Newcomb & Boyd, LLP](http://www.newcomb-boyd.com)** | **[Marketing Co-op](https://jobright.ai/jobs/info/69a758f72672cb0acb4bcb62?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 03 |
-| **[BIG HAPPY](https://bighappy.co/)** | **[Sales & Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69a758e076bbe83d3afab9ca?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69a7586b76bbe83d3afab95e?utm_campaign=1065&utm_source=git)** | Costa Mesa, California, United States | On Site | Mar 03 |
-| **[Segal](https://www.segalco.com)** | **[Intern, Communications](https://jobright.ai/jobs/info/69a7583c76bbe83d3afab934?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
-| **[St. Michael's Hospital](http://www.stmichaelshospital.com/)** | **[Communications Intern - Strategic Communications](https://jobright.ai/jobs/info/69a755b476bbe83d3afab6dd?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 03 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69a755a576bbe83d3afab6c7?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | Mar 03 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69a7862b76bbe83d3afaea02?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
