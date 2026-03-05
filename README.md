@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chesterton Hills Consulting](https://www.linkedin.com/company/107831627)** | **[Social Media Marketing & Public Relations Intern](https://jobright.ai/jobs/info/69a91fbd7ac93962b7090ebe?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
+| **[A Tiger Cub](https://atigercub.com)** | **[Grant Writer & Fundraising Specialist](https://jobright.ai/jobs/info/69a91a422580d3183f015185?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Fractal](https://www.thisisfractal.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a9130d7ac93962b709051a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 04 |
 | **[Constella](https://www.constella.app/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a9112879f3f4037f43c56f?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Mar 04 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69a90a137ac93962b708fa02?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 04 |
@@ -98,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/69a8d95f7ac93962b708b4ee?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 04 |
 | **[Orvanta](joinorvanta.com)** | **[Market Operations Intern](https://jobright.ai/jobs/info/69a8d82b7ac93962b708b2d9?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | Mar 04 |
 | **[Illumination](https://www.illumination.com/)** | **[Creative Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69a8d7cc2580d3183f00f7d4?utm_campaign=1065&utm_source=git)** | Santa Monica - INTERNSHIPS | Hybrid | Mar 04 |
+| **[Fashionpreneur HUB](http://fashionpreneurhub.com)** | **[Social Media Marketing 3 Months Internships for Education & Fashion Nonprofit](https://jobright.ai/jobs/info/69a9132979f3f4037f43c700?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Relevate Health](https://www.relevatehealth.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69a8d5f32580d3183f00f505?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Charles Perry Partners, Inc.](https://cppi.com/)** | **[Intern- Marketing (Gainesville, FL)](https://jobright.ai/jobs/info/69a903de7ac93962b708ef5a?utm_campaign=1065&utm_source=git)** | Gainesville, Florida, United States | On Site | Mar 04 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Brand Marketing](https://jobright.ai/jobs/info/698a570eb708d23f366c0b69?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Mar 04 |
@@ -120,19 +123,19 @@ For a complete list, click the following sortable link below:
 | **[Wente Family Estates](https://wentefamilyestates.com/)** | **[Social Media Internship](https://jobright.ai/jobs/info/69a8f8317ac93962b708dff2?utm_campaign=1065&utm_source=git)** | Livermore, California, United States | On Site | Mar 04 |
 | **[Relevate Health](https://www.relevatehealth.com/)** | **[Copywriter Intern](https://jobright.ai/jobs/info/69a8fa2c2580d3183f0127b9?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 04 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/69a8efae79f3f4037f4387ee?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 04 |
-| **[Second Harvest Food Bank of Central Florida](https://www.feedhopenow.org)** | **[Events Intern Fall 2026 term](https://jobright.ai/jobs/info/69a8f56a79f3f4037f4393a1?utm_campaign=1065&utm_source=git)** | Orlando,FL,US | On Site | Mar 04 |
-| ↳ | **[Marketing Internship Fall 2026](https://jobright.ai/jobs/info/69a8ed112580d3183f011607?utm_campaign=1065&utm_source=git)** | Orlando,FL,US | On Site | Mar 04 |
+| **[Second Harvest Food Bank of Central Florida](https://www.feedhopenow.org)** | **[Marketing Internship Fall 2026](https://jobright.ai/jobs/info/69a8ed112580d3183f011607?utm_campaign=1065&utm_source=git)** | Orlando,FL,US | On Site | Mar 04 |
+| ↳ | **[Events Intern Fall 2026 term](https://jobright.ai/jobs/info/69a8f56a79f3f4037f4393a1?utm_campaign=1065&utm_source=git)** | Orlando,FL,US | On Site | Mar 04 |
 | **[American Prime Sustainable Solutions](https://americanprime.co)** | **[Marketing & Stakeholder Engagement Associate / Intern](https://jobright.ai/jobs/info/69a8f5a279f3f4037f4393f5?utm_campaign=1065&utm_source=git)** | Noble, OK | On Site | Mar 04 |
 | **[William Charles Construction Company, LLC,  a MasTec Company](https://www.williamcharlesconstruction.com/)** | **[Proposal Intern](https://jobright.ai/jobs/info/69a8eca379f3f4037f4381e8?utm_campaign=1065&utm_source=git)** | Rockford, IL, US | On Site | Mar 04 |
 | ↳ | **[Proposal Intern](https://jobright.ai/jobs/info/69a8f0417ac93962b708d70e?utm_campaign=1065&utm_source=git)** | US-IL-Rockford | On Site | Mar 04 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/69a8c8742580d3183f00de01?utm_campaign=1065&utm_source=git)** | Bemidji, MN | On Site | Mar 04 |
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Bachelors - Marketing Intern](https://jobright.ai/jobs/info/69a8f27479f3f4037f438e3e?utm_campaign=1065&utm_source=git)** | Massachusetts - Boston | Hybrid | Mar 04 |
 | **[The h.wood Group](https://hwoodgroup.com/)** | **[Brand Partnerships Intern](https://jobright.ai/jobs/info/69a8f5d52580d3183f012258?utm_campaign=1065&utm_source=git)** | West Hollywood ,  CA | On Site | Mar 04 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69a8e83079f3f4037f437a0a?utm_campaign=1065&utm_source=git)** | West Hollywood ,  CA | On Site | Mar 04 |
 | ↳ | **[Brand Partnerships Intern](https://jobright.ai/jobs/info/69a8eb4f79f3f4037f437f96?utm_campaign=1065&utm_source=git)** | 9229 West Sunset Blvd,                                                                                                                        West Hollywood , CA | On Site | Mar 04 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69a8f87f7ac93962b708e044?utm_campaign=1065&utm_source=git)** | West Hollywood ,  CA | On Site | Mar 04 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69a8f74f2580d3183f012422?utm_campaign=1065&utm_source=git)** | 9229 West Sunset Blvd,                                                                                                                        West Hollywood , CA | On Site | Mar 04 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69a8f4727ac93962b708dbb0?utm_campaign=1065&utm_source=git)** | 9229 West Sunset Blvd,                                                                                                                        West Hollywood , CA | On Site | Mar 04 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69a8e83079f3f4037f437a0a?utm_campaign=1065&utm_source=git)** | West Hollywood ,  CA | On Site | Mar 04 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69a8f74f2580d3183f012422?utm_campaign=1065&utm_source=git)** | 9229 West Sunset Blvd,                                                                                                                        West Hollywood , CA | On Site | Mar 04 |
 | **[Hive Collective](https://hivepalmbeach.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69a8f6ec79f3f4037f439645?utm_campaign=1065&utm_source=git)** | FL, West Palm Beach, US | On Site | Mar 04 |
 | **[Until There's A Cure Foundation](https://www.until.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a8e5b17ac93962b708c87d?utm_campaign=1065&utm_source=git)** | Woodside, CA | Hybrid | Mar 04 |
 | **[ButcherBox](https://www.butcherbox.com)** | **[Organic Social Media Summer Intern](https://jobright.ai/jobs/info/69a8c09379f3f4037f433382?utm_campaign=1065&utm_source=git)** | Greater Boston | Hybrid | Mar 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Marketing Operations Intern](https://jobright.ai/jobs/info/69a8a9197ac93962b7086629?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Mar 04 |
 | **[onsemi](http://www.onsemi.com)** | **[Summer 2026 - Product Marketing Intern](https://jobright.ai/jobs/info/69a8a9057ac93962b7086601?utm_campaign=1065&utm_source=git)** | Allen, TX | On Site | Mar 04 |
 | **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Corporate Growth Reference Advisors - Miami](https://jobright.ai/jobs/info/69a8a7fd2580d3183f00a9f3?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Mar 04 |
-| **[SixAM Strategies](https://www.sixamstrategies.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69a8a4bf7ac93962b7086134?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Mar 04 |
-| **[BetterHelp](https://www.betterhelp.com)** | **[Performance Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69a8a46b7ac93962b70860ed?utm_campaign=1065&utm_source=git)** | Mountain View, CA | Remote | Mar 04 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Strategy Intern (Summer)](https://jobright.ai/jobs/info/69a7c15676bbe83d3afb3a64?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
