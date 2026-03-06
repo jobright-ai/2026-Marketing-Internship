@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/69aa6c7a1f59c56275e345c7?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Mar 05 |
 | **[ADP](http://www.adp.com)** | **[Summer Intern – Marketing](https://jobright.ai/jobs/info/69aa67ea2ebd316bece226b2?utm_campaign=1065&utm_source=git)** | Florham Park, NJ | On Site | Mar 05 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl / Events Intern – Summer 2026](https://jobright.ai/jobs/info/69aa67c41f59c56275e34019?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Mar 05 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Spectrum News Social Media Internship — Summer 2026](https://jobright.ai/jobs/info/69aa5e729ca4e908ec65b5e8?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Mar 05 |
@@ -79,11 +80,11 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Client Services & Marketing, Football](https://jobright.ai/jobs/info/69aa440f2ebd316bece207af?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 05 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern, Internal Marketing, Road Transport US](https://jobright.ai/jobs/info/69aa437e2ebd316bece2072b?utm_campaign=1065&utm_source=git)** | Lancaster, TX | On Site | Mar 05 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Celebrity PR Spring Internship](https://jobright.ai/jobs/info/69aa43649ca4e908ec659bde?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Mar 05 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Onsite Digital Marketing Intern](https://jobright.ai/jobs/info/69aa43311f59c56275e31f3f?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 05 |
-| ↳ | **[Fall 2026 Internship - Event Planning/Marketing Intern](https://jobright.ai/jobs/info/69aa43311f59c56275e31f40?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Mar 05 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Event Planning/Marketing Intern](https://jobright.ai/jobs/info/69aa43311f59c56275e31f40?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Mar 05 |
+| ↳ | **[Fall 2026 Internship - Onsite Digital Marketing Intern](https://jobright.ai/jobs/info/69aa43311f59c56275e31f3f?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 05 |
 | ↳ | **[Fall 2026 Internship - Communications (PR) Specialist Intern](https://jobright.ai/jobs/info/69aa43129ca4e908ec659b5d?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Mar 05 |
-| ↳ | **[Fall 2026 Internship - Remote Digital Marketing/Social Media](https://jobright.ai/jobs/info/69aa430b2ebd316bece206cc?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Mar 05 |
 | ↳ | **[Fall 2026 Internship- Remote Influencer Assistant](https://jobright.ai/jobs/info/69aa430b2ebd316bece206cd?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Mar 05 |
+| ↳ | **[Fall 2026 Internship - Remote Digital Marketing/Social Media](https://jobright.ai/jobs/info/69aa430b2ebd316bece206cc?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Mar 05 |
 | ↳ | **[Fall 2026 Internship - Hybrid Digital Marketing Intern](https://jobright.ai/jobs/info/69aa42f12ebd316bece206af?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Mar 05 |
 | **[Hollywood Branded](https://hollywoodbranded.com/)** | **[Creative Pop Culture Marketing Agency Summer Internship](https://jobright.ai/jobs/info/69aa42de1f59c56275e31ed4?utm_campaign=1065&utm_source=git)** | Redondo Beach, California, United States | On Site | Mar 05 |
 | **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/69aa41e81f59c56275e31b0f?utm_campaign=1065&utm_source=git)** | 145 Broadway, Cambridge, MA, 02142, US | Hybrid | Mar 05 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Better Collective](http://bettercollective.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69aa36d49ca4e908ec658d04?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Mar 05 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Marketing Event & Communications - Summer 2026](https://jobright.ai/jobs/info/69aa35511f59c56275e30eb4?utm_campaign=1065&utm_source=git)** | Brillion, WI | On Site | Mar 05 |
 | **[Garment Valet](https://www.garmentvalet.com)** | **[SEO & Website Design Intern](https://jobright.ai/jobs/info/69aa350b9ca4e908ec658b83?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Mar 05 |
-| **[Five Guys](http://Www.fiveguys.com)** | **[Digital & Analytics Intern](https://jobright.ai/jobs/info/69aa34d11f59c56275e30e03?utm_campaign=1065&utm_source=git)** | Alexandria, Virginia, United States | On Site | Mar 05 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69aa34d11f59c56275e30e04?utm_campaign=1065&utm_source=git)** | Alexandria, Virginia, United States | On Site | Mar 05 |
+| **[Five Guys](http://Www.fiveguys.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69aa34d11f59c56275e30e04?utm_campaign=1065&utm_source=git)** | Alexandria, Virginia, United States | On Site | Mar 05 |
+| ↳ | **[Digital & Analytics Intern](https://jobright.ai/jobs/info/69aa34d11f59c56275e30e03?utm_campaign=1065&utm_source=git)** | Alexandria, Virginia, United States | On Site | Mar 05 |
 | **[Relay](https://relayfi.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69aa349d2ebd316bece1f83f?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 05 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Marketing Intern](https://jobright.ai/jobs/info/69aa34089ca4e908ec658a28?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 05 |
 | **[The Bradford Exchange](https://www.bradfordexchange.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69aa32d69ca4e908ec65886b?utm_campaign=1065&utm_source=git)** | Niles, IL, US | Hybrid | Mar 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sayles & Winnikoff Communications](https://www.sayleswinnikoff.com/)** | **[Social Media & Public Relations -  2026 Intern](https://jobright.ai/jobs/info/69aa07899ca4e908ec65556c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 05 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Marketing Event & Communications - Summer 2026](https://jobright.ai/jobs/info/69aa07302ebd316bece1c517?utm_campaign=1065&utm_source=git)** | WI - Brillion | On Site | Mar 05 |
 | **[OFS](https://ofs.com)** | **[Marketing Intern-Chicago](https://jobright.ai/jobs/info/69aa26722ebd316bece1ddc4?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
-| **[The Bradford Exchange](https://www.bradfordexchange.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69aa27ad9ca4e908ec656f13?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
