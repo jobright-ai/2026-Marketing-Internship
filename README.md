@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Epicor](https://www.epicor.com)** | **[Intern / Product Marketing](https://jobright.ai/jobs/info/698fb6410f6f7e7a2cec0273?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Mar 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/699052d56ea51a7610f2de8d?utm_campaign=1065&utm_source=git)** | Modesto, CA | On Site | Mar 07 |
+| **[dataing](https://www.dataing.io/)** | **[Marketing Intern - UGC Content ❤️❤️](https://jobright.ai/jobs/info/69ac5a7f142d5b4265fda993?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 07 |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742fba37785856350e2a25?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Mar 07 |
 | **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Social Media Manager Intern](https://jobright.ai/jobs/info/69ac4e44142d5b4265fda370?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 07 |
 | **[Apulza](https://www.linkedin.com/company/111952050)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ac4bd12747003c3d52071a?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Mar 07 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/69797e6fca92cf0d6a82a0c1?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Mar 07 |
@@ -85,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Entertainment and Lifestyle Partnerships Intern](https://jobright.ai/jobs/info/698fc5296ea51a7610f23278?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
 | ↳ | **[[Summer 2026] Event Marketing Intern](https://jobright.ai/jobs/info/6990149c6ea51a7610f27eed?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Avantis Intern](https://jobright.ai/jobs/info/692d1f2ffa28370be269c07c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
-| **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Student Design - Marketing Intern - New York](https://jobright.ai/jobs/info/69a161850da45516f16abb48?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Creative Marketing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ac10c92747003c3d51e3c8?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Mar 07 |
 | ↳ | **[DET Marketing Strategy & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ac10a6142d5b4265fd7b64?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Mar 07 |
 | ↳ | **[Disney Consumer Products Public Relations & Communications Intern, Fall 2026](https://jobright.ai/jobs/info/69ac10a47e1fab39d383c96e?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Mar 07 |
@@ -98,20 +101,18 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Resource Management) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978419e88e2b47213bc50ec?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 07 |
 | **[7 17 Credit Union](https://www.717cu.com/)** | **[MARKETING INTERN](https://jobright.ai/jobs/info/69abf94e7e1fab39d383c207?utm_campaign=1065&utm_source=git)** | Warren, OH 44483 | On Site | Mar 07 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972ff00694e99351d144487?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
-| **[University of Michigan](https://www.umich.edu)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69abf0a7142d5b4265fd726e?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 07 |
-| ↳ | **[Employee Communications Intern](https://jobright.ai/jobs/info/69abf09f142d5b4265fd725c?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 07 |
+| **[University of Michigan](https://www.umich.edu)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69abf09f142d5b4265fd725c?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 07 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Client Solutions Intern](https://jobright.ai/jobs/info/698f84d96ea51a7610f1dff3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
-| **[University of Michigan](https://www.umich.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/69abdcc87e1fab39d3839a65?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 07 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Clean Energy Communications Paid Intern / Hybrid in Boston, MA](https://jobright.ai/jobs/info/69abdc95142d5b4265fd4a78?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
 | **[Young Americans for Liberty](https://yaliberty.org/)** | **[Campus Volunteer Intern](https://jobright.ai/jobs/info/69abd4ed142d5b4265fd39f9?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 Social & Digital Marketing Intern](https://jobright.ai/jobs/info/69abc9f67e1fab39d3837fe6?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | ↳ | **[Summer 2026 Ad Ops Internship](https://jobright.ai/jobs/info/69abc9ef2747003c3d5184f6?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | ↳ | **[Summer 2026 Marketing, Pricing & Planning Inventory Internship](https://jobright.ai/jobs/info/69abc9ea2747003c3d5184e5?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Celt Salt by Nature’s Pantry](Www.CeltSalts.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69abc9bd2747003c3d5184b1?utm_campaign=1065&utm_source=git)** | Paramount, CA | Hybrid | Mar 06 |
-| **[Parkland Corporation](https://www.parkland.ca/)** | **[Sponsorships Intern (4-Month Term)](https://jobright.ai/jobs/info/69abbc10142d5b4265fd23d6?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 06 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Marketing — Influencer & UGC (Summer 2026)](https://jobright.ai/jobs/info/69abb902142d5b4265fd0b4c?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 Data & Research Internship](https://jobright.ai/jobs/info/69abb7f77e1fab39d3834c9d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications & Press Intern (Volunteer)](https://jobright.ai/jobs/info/69abb3f32747003c3d51548b?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
+| **[Nulo Pet Food](http://nulo.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69ac55707e1fab39d383f395?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 06 |
 | **[Two Rivers Marketing](http://tworiversmarketing.com)** | **[Marketing Intern - Des Moines, Iowa](https://jobright.ai/jobs/info/69abc6167e1fab39d3837d47?utm_campaign=1065&utm_source=git)** | Des Moines, IA, US | On Site | Mar 06 |
 | **[Mesabi Metallics](https://www.mesabimetallics.com)** | **[Corporate Communications and Public Relations Intern](https://jobright.ai/jobs/info/69aba01a2747003c3d512dd4?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Mar 06 |
 | **[VGM Group, Inc.](https://www.vgm.com)** | **[Events Intern](https://jobright.ai/jobs/info/69ab9c9d7e1fab39d3830fab?utm_campaign=1065&utm_source=git)** | Waterloo, IA | On Site | Mar 06 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[KCMCONNECT](https://kcmconnect.co/)** | **[PR & Event Production Internship – Luxury Brand Showroom (Los Angeles)](https://jobright.ai/jobs/info/69ab6f007e1fab39d382f623?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 Social & Digital Marketing Intern](https://jobright.ai/jobs/info/69ab98b0142d5b4265fcbbf6?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | ↳ | **[Summer 2026 Data & Research Internship](https://jobright.ai/jobs/info/69ab9a0d7e1fab39d3830d9d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
-| ↳ | **[Summer 2026  Ad Ops Internship](https://jobright.ai/jobs/info/69ab98b0142d5b4265fcbbfa?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | ↳ | **[Summer 2026 Marketing, Pricing & Planning Inventory Internship](https://jobright.ai/jobs/info/69ab99422747003c3d512337?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
+| ↳ | **[Summer 2026  Ad Ops Internship](https://jobright.ai/jobs/info/69ab98b0142d5b4265fcbbfa?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Complete Children's Health](http://www.completechildrenshealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69abb4752747003c3d515663?utm_campaign=1065&utm_source=git)** | Lincoln,NE,US | Hybrid | Mar 06 |
 | **[Emerson](http://www.emerson.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69ab6c337e1fab39d382f503?utm_campaign=1065&utm_source=git)** | Novi, MI | Hybrid | Mar 06 |
 | **[Hartmann Studios](http://hartmannstudios.com)** | **[Event Management Intern](https://jobright.ai/jobs/info/69abb1d5142d5b4265fceb32?utm_campaign=1065&utm_source=git)** | Office - Atlanta, GA, Atlanta, GA, US | On Site | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nulo Pet Food](http://nulo.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69aba8582747003c3d514151?utm_campaign=1065&utm_source=git)** | Austin, Texas | On Site | Mar 06 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Marketing — Influencer & UGC (Summer 2026)](https://jobright.ai/jobs/info/69ab98e0142d5b4265fcbc30?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Mar 06 |
 | **[Precisely](https://www.precisely.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69ab69c5142d5b4265fca2c7?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Homebase](http://www.joinhomebase.com)** | **[Lifecycle Marketing Intern (Hybrid)](https://jobright.ai/jobs/info/69ab92c67e1fab39d382fe7c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
