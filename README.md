@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenox Advisors](http://lenoxadvisors.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698fb0cd0cc8ea15f1da4a38?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 07 |
+| **[Quad City Bank & Trust](http://qcbt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69901d5c0f6f7e7a2cec6e31?utm_campaign=1065&utm_source=git)** | Davenport, IA | On Site | Mar 07 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69902c3e0f6f7e7a2cec96e2?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Mar 07 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Marketing Manager - MBA Intern](https://jobright.ai/jobs/info/69901e900f6f7e7a2cec6f5a?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/699015380f6f7e7a2cec66d1?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 07 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/6982e340348f733a5c36048f?utm_campaign=1065&utm_source=git)** | Conyers, GA | On Site | Mar 07 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Public Relations & Communications Intern, Fall 2026](https://jobright.ai/jobs/info/69ac2549142d5b4265fd904f?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Mar 07 |
+| **[Insomniac Events](http://insomniac.com)** | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69901c520cc8ea15f1dac36c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Mar 07 |
+| **[We Are Social](http://wearesocial.net)** | **[NY Summer Intern](https://jobright.ai/jobs/info/698f8df00cc8ea15f1da2031?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 07 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Copywriter, Social Intern](https://jobright.ai/jobs/info/699010000f6f7e7a2cec6202?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/698fea016ea51a7610f24d97?utm_campaign=1065&utm_source=git)** | Westerville, OH | On Site | Mar 07 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Entertainment and Lifestyle Partnerships Intern](https://jobright.ai/jobs/info/698fc5296ea51a7610f23278?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
+| ↳ | **[[Summer 2026] Event Marketing Intern](https://jobright.ai/jobs/info/6990149c6ea51a7610f27eed?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
+| **[American Century Investments](https://www.americancentury.com)** | **[Avantis Intern](https://jobright.ai/jobs/info/692d1f2ffa28370be269c07c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Student Design - Marketing Intern - New York](https://jobright.ai/jobs/info/69a161850da45516f16abb48?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Creative Marketing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ac10c92747003c3d51e3c8?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Mar 07 |
 | ↳ | **[DET Marketing Strategy & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ac10a6142d5b4265fd7b64?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Mar 07 |
 | ↳ | **[Disney Consumer Products Public Relations & Communications Intern, Fall 2026](https://jobright.ai/jobs/info/69ac10a47e1fab39d383c96e?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Mar 07 |
@@ -116,9 +131,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Communications, Remote](https://jobright.ai/jobs/info/69ab9691142d5b4265fcb8ed?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 06 |
 | **[KCMCONNECT](https://kcmconnect.co/)** | **[PR & Event Production Internship – Luxury Brand Showroom (Los Angeles)](https://jobright.ai/jobs/info/69ab6f007e1fab39d382f623?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 Social & Digital Marketing Intern](https://jobright.ai/jobs/info/69ab98b0142d5b4265fcbbf6?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
-| ↳ | **[Summer 2026 Marketing, Pricing & Planning Inventory Internship](https://jobright.ai/jobs/info/69ab99422747003c3d512337?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | ↳ | **[Summer 2026  Ad Ops Internship](https://jobright.ai/jobs/info/69ab98b0142d5b4265fcbbfa?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | ↳ | **[Summer 2026 Data & Research Internship](https://jobright.ai/jobs/info/69ab9a0d7e1fab39d3830d9d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
+| ↳ | **[Summer 2026 Marketing, Pricing & Planning Inventory Internship](https://jobright.ai/jobs/info/69ab99422747003c3d512337?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Complete Children's Health](http://www.completechildrenshealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69abb4752747003c3d515663?utm_campaign=1065&utm_source=git)** | Lincoln,NE,US | Hybrid | Mar 06 |
 | **[Emerson](http://www.emerson.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69ab6c337e1fab39d382f503?utm_campaign=1065&utm_source=git)** | Novi, MI | Hybrid | Mar 06 |
 | **[Hartmann Studios](http://hartmannstudios.com)** | **[Event Management Intern](https://jobright.ai/jobs/info/69abb1d5142d5b4265fceb32?utm_campaign=1065&utm_source=git)** | Office - Atlanta, GA, Atlanta, GA, US | On Site | Mar 06 |
@@ -130,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Marketing — Influencer & UGC (Summer 2026)](https://jobright.ai/jobs/info/69ab98e0142d5b4265fcbc30?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Mar 06 |
 | **[Precisely](https://www.precisely.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69ab69c5142d5b4265fca2c7?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Lifecycle Marketing Intern (Hybrid)](https://jobright.ai/jobs/info/69ab92c67e1fab39d382fe7c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 06 |
+| **[Victaulic](https://www.victaulic.com)** | **[2026 Summer Internship – Marketing](https://jobright.ai/jobs/info/69ac25077e1fab39d383e018?utm_campaign=1065&utm_source=git)** | Northampton County, PA | On Site | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 PR & Communications Intern](https://jobright.ai/jobs/info/69ab65f82747003c3d5103e8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Gardiner & Theobald LLC](http://www.gardiner.com/us)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ab65ab2747003c3d51024a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Mountain States Legal Foundation](https://mslegal.org/)** | **[Social Media-Marketing Fellow](https://jobright.ai/jobs/info/69ab656b2747003c3d51016b?utm_campaign=1065&utm_source=git)** | Lakewood, CO | On Site | Mar 06 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cossette](http://www.cossette.com)** | **[Chargé·e de produits, contenu (Stage)](https://jobright.ai/jobs/info/69ab51077e1fab39d382e7e8?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 06 |
 | ↳ | **[Analyste Stratégique (Stage)](https://jobright.ai/jobs/info/69ab50d5142d5b4265fc987f?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 06 |
 | ↳ | **[Coordonnateur·trice, communication (Stage)](https://jobright.ai/jobs/info/69ab50c7142d5b4265fc986e?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 06 |
-| **[Logitech](https://www.logitech.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69ab4bed7e1fab39d382e4d2?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 06 |
-| **[National Football Foundation](http://www.footballfoundation.org/)** | **[National Football Foundation 2026 Summer Internship](https://jobright.ai/jobs/info/69ab4ba12747003c3d50fa53?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/69ab66057e1fab39d382ee3a?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 06 |
-| **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Brand, Culture & Customer Experience (Summer 2026)](https://jobright.ai/jobs/info/69ab491b2747003c3d50f8fd?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Mar 06 |
-| **[Freeman Company](https://linktr.ee/freeman.events)** | **[MDG Intern](https://jobright.ai/jobs/info/69ab6516142d5b4265fc9e29?utm_campaign=1065&utm_source=git)** | Montgomery, AL | On Site | Mar 06 |
-| **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Marketing & Business Intelligence Intern](https://jobright.ai/jobs/info/69ab6524142d5b4265fc9e97?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Mar 06 |
-| **[HDR](http://www.hdrinc.com)** | **[Marketing/Human Resources Intern](https://jobright.ai/jobs/info/69ab46412747003c3d50f46b?utm_campaign=1065&utm_source=git)** | United States-South Dakota-Sioux Falls | On Site | Mar 06 |
-| **[ITA Group, Inc.](https://www.itagroup.com)** | **[Marketing & Industry Relations Intern](https://jobright.ai/jobs/info/69ab45172747003c3d50f30a?utm_campaign=1065&utm_source=git)** | Office - Des Moines, IA , West Des Moines, IA, US | On Site | Mar 06 |
-| **[Farmers National Company](https://www.farmersnational.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ab45152747003c3d50f2fb?utm_campaign=1065&utm_source=git)** | Omaha, NE, US | On Site | Mar 06 |
-| **[InFirst Federal Credit Union](https://www.infirstfcu.org/)** | **[Marketing Specialist - Intern](https://jobright.ai/jobs/info/69ab45102747003c3d50f2dc?utm_campaign=1065&utm_source=git)** | Fredericksburg, VA, US | On Site | Mar 06 |
-| **[Fountain Electric & Services LLC](https://www.fountainelectric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ab4501142d5b4265fc8f14?utm_campaign=1065&utm_source=git)** | Spindale, NC, US | On Site | Mar 06 |
-| **[InFirst Federal Credit Union](https://www.infirstfcu.org/)** | **[Marketing Specialist - Intern](https://jobright.ai/jobs/info/69ab4500142d5b4265fc8f0d?utm_campaign=1065&utm_source=git)** | King George, VA, US | On Site | Mar 06 |
-| ↳ | **[Marketing Specialist - Intern](https://jobright.ai/jobs/info/69ab428c2747003c3d50f0df?utm_campaign=1065&utm_source=git)** | Fredericksburg, VA | On Site | Mar 06 |
-| **[The Missner Group](https://www.missnergroup.com)** | **[Summer 2026 - Marketing and Communications Intern](https://jobright.ai/jobs/info/69ab42442747003c3d50f04f?utm_campaign=1065&utm_source=git)** | Des Plaines, IL | On Site | Mar 06 |
-| **[Maas Verde Landscape Restoration](http://www.MaasVerde.com)** | **[PT Social Media Intern](https://jobright.ai/jobs/info/69ab41567e1fab39d382db9e?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 06 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69ab40f6142d5b4265fc8b8c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
