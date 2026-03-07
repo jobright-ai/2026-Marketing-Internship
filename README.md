@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Independent Art Fair](http://www.independenthq.com)** | **[Seasonal Intern, Marketing](https://jobright.ai/jobs/info/69ab4e6e142d5b4265fc974e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 06 |
+| **[Logitech](https://www.logitech.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69ab4bed7e1fab39d382e4d2?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 06 |
+| **[National Football Foundation](http://www.footballfoundation.org/)** | **[National Football Foundation 2026 Summer Internship](https://jobright.ai/jobs/info/69ab4ba12747003c3d50fa53?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Brand, Culture & Customer Experience (Summer 2026)](https://jobright.ai/jobs/info/69ab491b2747003c3d50f8fd?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Mar 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing/Human Resources Intern](https://jobright.ai/jobs/info/69ab46412747003c3d50f46b?utm_campaign=1065&utm_source=git)** | United States-South Dakota-Sioux Falls | On Site | Mar 06 |
 | **[ITA Group, Inc.](https://www.itagroup.com)** | **[Marketing & Industry Relations Intern](https://jobright.ai/jobs/info/69ab45172747003c3d50f30a?utm_campaign=1065&utm_source=git)** | Office - Des Moines, IA , West Des Moines, IA, US | On Site | Mar 06 |
@@ -89,6 +92,9 @@ For a complete list, click the following sortable link below:
 | **[Method](https://methodfi.com)** | **[Growth Marketer MBA Intern](https://jobright.ai/jobs/info/69ab31312747003c3d50dc67?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 06 |
 | **[Cobb Technologies](http://www.cobbtechnologies.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ab30f9142d5b4265fc7574?utm_campaign=1065&utm_source=git)** | Glen Allen, VA, USA | On Site | Mar 06 |
 | **[Collins Community Credit Union](https://www.collinscu.org/)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/69ab2f752747003c3d50da9a?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 06 |
+| **[Arizona State University](http://www.asu.edu)** | **[Family Career Engagement Management Intern](https://jobright.ai/jobs/info/69ab4e657e1fab39d382e67d?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Mar 06 |
+| ↳ | **[Events Management Intern](https://jobright.ai/jobs/info/69ab4e7f7e1fab39d382e6a5?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Mar 06 |
+| **[Clarke](https://clarke.com)** | **[Summer Marketing Communications Intern - Mosquito Control](https://jobright.ai/jobs/info/69ab4dee2747003c3d50fc55?utm_campaign=1065&utm_source=git)** | St Charles, IL | Hybrid | Mar 06 |
 | **[Columbia Sportswear Company](http://www.columbia.com)** | **[Social Media Intern - Ski Content Strategy](https://jobright.ai/jobs/info/69ab2d362747003c3d50d551?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Mar 06 |
 | **[Coface](http://www.coface.com)** | **[Marketing and Communications (Marcomms) Intern](https://jobright.ai/jobs/info/69ab2d177e1fab39d382c031?utm_campaign=1065&utm_source=git)** | 600 College Rd E, Princeton, NJ 08540, USA | Hybrid | Mar 06 |
 | **[WMCU](https://westmichigancu.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ab2cf32747003c3d50d4ab?utm_campaign=1065&utm_source=git)** | Grand Rapids,MI,US | On Site | Mar 06 |
@@ -119,9 +125,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate -TA Plus Social Media Summer Intern](https://jobright.ai/jobs/info/69ab0e262747003c3d50b267?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 06 |
 | **[Ovative Group](http://www.ovative.com)** | **[Summer 2026 Internship - Digital Marketing & Analytics](https://jobright.ai/jobs/info/6972edd60488fd59f7d5e999?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Mar 06 |
 | **[Okta](http://www.okta.com)** | **[Events Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/698e846878b4502f12a55b81?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 06 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Community Manager Co-op, Social Media & Online Engagement (July to December)](https://jobright.ai/jobs/info/6971e490cda45e6953581033?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
-| ↳ | **[Fall 2026: Brand Marketing Co-op, Ninja (July to December)](https://jobright.ai/jobs/info/6971e4b9cda45e6953581040?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Brand Marketing Co-op, Ninja (July to December)](https://jobright.ai/jobs/info/6971e4b9cda45e6953581040?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
 | ↳ | **[Fall 2026: Integrated Marketing Communications Co-op, Shark (July to December)](https://jobright.ai/jobs/info/6971e26dcda45e6953580fac?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
+| ↳ | **[Fall 2026: Community Manager Co-op, Social Media & Online Engagement (July to December)](https://jobright.ai/jobs/info/6971e490cda45e6953581033?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Communications Product Marketing Intern -  MBA (Santa Clara, CA)](https://jobright.ai/jobs/info/698f61f80f6f7e7a2ceb940b?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Mar 06 |
 | **[Lawson Products](https://www.lawsonproducts.com/)** | **[Integrated Marketing Internship](https://jobright.ai/jobs/info/698e40200f6f7e7a2cea4afe?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 06 |
 | **[Cinnamon Entertainment Group LLC](https://www.cinnamonentertainment.com)** | **[Email Marketing Non Paid (Academic Credit Only) Intern](https://jobright.ai/jobs/info/69ab0b2c142d5b4265fc4960?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
@@ -135,26 +141,20 @@ For a complete list, click the following sortable link below:
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Global Communications and Corporate Brand](https://jobright.ai/jobs/info/69ab046b2747003c3d50ab90?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Latin America (LATAM) Marketing Co-op (July to December)](https://jobright.ai/jobs/info/6971e78acda45e69535816e1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | ↳ | **[Fall 2026: Corporate Communications Co-op (July to December)](https://jobright.ai/jobs/info/6971e6c3cda45e69535814be?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828fa7?utm_campaign=1065&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f95?utm_campaign=1065&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f99?utm_campaign=1065&utm_source=git)** | USA-VT - Vermont Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828fa0?utm_campaign=1065&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f9c?utm_campaign=1065&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Mar 06 |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f9d?utm_campaign=1065&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Mar 06 |
 | ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f9e?utm_campaign=1065&utm_source=git)** | USA-DE - Delaware Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f9b?utm_campaign=1065&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828fa1?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828fa6?utm_campaign=1065&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f98?utm_campaign=1065&utm_source=git)** | USA-AL - Alabama Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f9d?utm_campaign=1065&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828fa8?utm_campaign=1065&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Mar 06 |
 | ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828faa?utm_campaign=1065&utm_source=git)** | USA-CA - California Remote | Remote | Mar 06 |
 | ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828fa9?utm_campaign=1065&utm_source=git)** | USA-IA - Iowa Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f97?utm_campaign=1065&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Mar 06 |
 | ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f94?utm_campaign=1065&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Mar 06 |
+| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828fa6?utm_campaign=1065&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Mar 06 |
 | ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f9f?utm_campaign=1065&utm_source=git)** | USA-ID - Idaho Remote | Remote | Mar 06 |
-| **[Columbia Sportswear Company](http://www.columbia.com)** | **[Social Media Intern - Ski Content Strategy](https://jobright.ai/jobs/info/69aafd757e1fab39d3828fb0?utm_campaign=1065&utm_source=git)** | Portland, Oregon, United States of America | On Site | Mar 06 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafb01142d5b4265fc3d12?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafb01142d5b4265fc3d17?utm_campaign=1065&utm_source=git)** | USA-MT - Montana Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafb01142d5b4265fc3d18?utm_campaign=1065&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafb01142d5b4265fc3d0b?utm_campaign=1065&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Mar 06 |
+| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828fa1?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Mar 06 |
+| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828fa7?utm_campaign=1065&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Mar 06 |
+| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f98?utm_campaign=1065&utm_source=git)** | USA-AL - Alabama Remote | Remote | Mar 06 |
+| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f99?utm_campaign=1065&utm_source=git)** | USA-VT - Vermont Remote | Remote | Mar 06 |
+| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f9b?utm_campaign=1065&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Mar 06 |
+| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f9c?utm_campaign=1065&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Mar 06 |
+| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828fa8?utm_campaign=1065&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Mar 06 |
+| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828fa0?utm_campaign=1065&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Mar 06 |
+| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f95?utm_campaign=1065&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
