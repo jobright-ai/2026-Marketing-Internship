@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Okuma America Corporation](https://www.okuma.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ac7e34142d5b4265fdbdaa?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 07 |
 | **[Issue One](https://www.issueone.org/)** | **[Citizen Engagement Intern](https://jobright.ai/jobs/info/69ac7c46142d5b4265fdb348?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
-| **[Apulza](https://www.linkedin.com/company/111952050)** | **[Marketing & Design Intern (Remote)](https://jobright.ai/jobs/info/69ac789a2747003c3d521485?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Mar 07 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, Publisher Relations](https://jobright.ai/jobs/info/697262a04ccbf64f8df25d46?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Field Marketing](https://jobright.ai/jobs/info/698fb9530cc8ea15f1da571e?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 07 |
 | **[BD](https://www.bd.com)** | **[Marketing Intern (Oncology)](https://jobright.ai/jobs/info/69ac64af7e1fab39d383fa24?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Mar 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/69ab6b952747003c3d51098f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Round Hill Music](http://roundhillmusic.com/)** | **[Creative Marketing  - Paid Internship -  Summer 2026  (Hybrid; based in NY)](https://jobright.ai/jobs/info/69aba24d142d5b4265fcd05e?utm_campaign=1065&utm_source=git)** | Remote Worker - N/A | Hybrid | Mar 06 |
 | **[Tenaris](http://www.tenaris.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69ab6b5a7e1fab39d382f36e?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 06 |
+| **[Nulo Pet Food](http://nulo.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69aba8582747003c3d514151?utm_campaign=1065&utm_source=git)** | Austin, Texas | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
