@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Precisely](https://www.precisely.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69ab6b952747003c3d51098f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Brand & Label Opportunities: Operations (Multiple Locations: CA & NY)](https://jobright.ai/jobs/info/69ab7404142d5b4265fca7c9?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Mar 06 |
+| **[HDR](http://www.hdrinc.com)** | **[Marketing/Human Resources Intern](https://jobright.ai/jobs/info/69ab739f2747003c3d510c83?utm_campaign=1065&utm_source=git)** | Greater Sioux Falls Area | On Site | Mar 06 |
+| **[KCMCONNECT](https://kcmconnect.co/)** | **[PR & Event Production Internship – Luxury Brand Showroom (Los Angeles)](https://jobright.ai/jobs/info/69ab6f007e1fab39d382f623?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
+| **[Emerson](http://www.emerson.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69ab6c337e1fab39d382f503?utm_campaign=1065&utm_source=git)** | Novi, MI | Hybrid | Mar 06 |
+| **[Precisely](https://www.precisely.com)** | **[Marketing Campaigns Intern](https://jobright.ai/jobs/info/69ab6c0c7e1fab39d382f4bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
+| ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/69ab6b952747003c3d51098f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Tenaris](http://www.tenaris.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69ab6b5a7e1fab39d382f36e?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 06 |
 | **[Precisely](https://www.precisely.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69ab69c5142d5b4265fca2c7?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ab69bd142d5b4265fca2c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
@@ -139,8 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate -TA Plus Social Media Summer Intern](https://jobright.ai/jobs/info/69ab0e262747003c3d50b267?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 06 |
 | **[Ovative Group](http://www.ovative.com)** | **[Summer 2026 Internship - Digital Marketing & Analytics](https://jobright.ai/jobs/info/6972edd60488fd59f7d5e999?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Mar 06 |
 | **[Okta](http://www.okta.com)** | **[Events Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/698e846878b4502f12a55b81?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 06 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Integrated Marketing Communications Co-op, Shark (July to December)](https://jobright.ai/jobs/info/6971e26dcda45e6953580fac?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
-| ↳ | **[Fall 2026: Brand Marketing Co-op, Ninja (July to December)](https://jobright.ai/jobs/info/6971e4b9cda45e6953581040?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Brand Marketing Co-op, Ninja (July to December)](https://jobright.ai/jobs/info/6971e4b9cda45e6953581040?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
+| ↳ | **[Fall 2026: Integrated Marketing Communications Co-op, Shark (July to December)](https://jobright.ai/jobs/info/6971e26dcda45e6953580fac?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
 | ↳ | **[Fall 2026: Community Manager Co-op, Social Media & Online Engagement (July to December)](https://jobright.ai/jobs/info/6971e490cda45e6953581033?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Communications Product Marketing Intern -  MBA (Santa Clara, CA)](https://jobright.ai/jobs/info/698f61f80f6f7e7a2ceb940b?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Mar 06 |
 | **[Lawson Products](https://www.lawsonproducts.com/)** | **[Integrated Marketing Internship](https://jobright.ai/jobs/info/698e40200f6f7e7a2cea4afe?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Intern - Talent Marketing](https://jobright.ai/jobs/info/69ab08252747003c3d50ad0e?utm_campaign=1065&utm_source=git)** | USA-NY - Brooklyn (Dumbo) | On Site | Mar 06 |
 | ↳ | **[Summer 2026 Intern - Talent Marketing](https://jobright.ai/jobs/info/69ab074e7e1fab39d38295eb?utm_campaign=1065&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Mar 06 |
 | **[Historic Oakland Foundation](https://www.oaklandcemetery.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ab06cb7e1fab39d3829468?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 06 |
-| **[Viatris](https://www.viatris.com/en)** | **[Intern, Global Communications and Corporate Brand](https://jobright.ai/jobs/info/69ab046b2747003c3d50ab90?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Latin America (LATAM) Marketing Co-op (July to December)](https://jobright.ai/jobs/info/6971e78acda45e69535816e1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
-| ↳ | **[Fall 2026: Corporate Communications Co-op (July to December)](https://jobright.ai/jobs/info/6971e6c3cda45e69535814be?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f98?utm_campaign=1065&utm_source=git)** | USA-AL - Alabama Remote | Remote | Mar 06 |
-| ↳ | **[Summer 2026 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/69aafd757e1fab39d3828f9f?utm_campaign=1065&utm_source=git)** | USA-ID - Idaho Remote | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
