@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69add8c87e1fab39d3850b98?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 08 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Social Media & Content Intern - Summer 2026](https://jobright.ai/jobs/info/69adcbe3142d5b4265feb8f1?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 08 |
 | **[Loftware](http://www.loftware.com)** | **[Summer Marketing Internship - Build Skills. Solve Real Problems. Make an Impact!](https://jobright.ai/jobs/info/69adc8842747003c3d5309a3?utm_campaign=1065&utm_source=git)** | Portsmouth, New Hampshire, United States | On Site | Mar 08 |
 | **[Carta](https://carta.com/)** | **[Marketing Internship - Creative Project Management](https://jobright.ai/jobs/info/69a63cce2c0d8b0f5cd04643?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 08 |
@@ -104,9 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa81572ebd316bece237c3?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Marketing (12-month) - Milton, ON Canada](https://jobright.ai/jobs/info/69ad2bb02747003c3d52bb6e?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | Mar 08 |
 | **[Cambro Manufacturing](https://www.cambro.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ad39672747003c3d52d71b?utm_campaign=1065&utm_source=git)** | Huntington Beach, CA | On Site | Mar 08 |
-| **[University of Michigan](https://www.umich.edu)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb7?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
-| ↳ | **[Employee Communications Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb0?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
-| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/69ad2ec32747003c3d52c021?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
+| **[University of Michigan](https://www.umich.edu)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb0?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
+| ↳ | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb7?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
 | **[cupl](www.cupl.io)** | **[App Installs & Growth Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69ad25442747003c3d52b789?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 07 |
 | ↳ | **[Unpaid Internship: Growth Marketing & App Installs](https://jobright.ai/jobs/info/69ad25402747003c3d52b784?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 07 |
 | **[STICK2EARN MEDIA](stick2earn.ca)** | **[Marketing And Advertising Intern](https://jobright.ai/jobs/info/69ad1a7d142d5b4265fe3ad0?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 07 |
@@ -123,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Okuma America Corporation](https://www.okuma.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ac7e34142d5b4265fdbdaa?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 07 |
 | **[Issue One](https://www.issueone.org/)** | **[Citizen Engagement Intern](https://jobright.ai/jobs/info/69ac7c46142d5b4265fdb348?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, Publisher Relations](https://jobright.ai/jobs/info/697262a04ccbf64f8df25d46?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 07 |
+| **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/69a9fc8d2ebd316bece1bc0c?utm_campaign=1065&utm_source=git)** | Exeter, NH | Hybrid | Mar 07 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Field Marketing](https://jobright.ai/jobs/info/698fb9530cc8ea15f1da571e?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 07 |
 | **[BD](https://www.bd.com)** | **[Marketing Intern (Oncology)](https://jobright.ai/jobs/info/69ac64af7e1fab39d383fa24?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Mar 07 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Product Marketing](https://jobright.ai/jobs/info/698fb7d40f6f7e7a2cec038d?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Disney Consumer Products Public Relations & Communications Intern, Fall 2026](https://jobright.ai/jobs/info/69ac10a47e1fab39d383c96e?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Mar 07 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Growth Marketing & Digital Ads Intern](https://jobright.ai/jobs/info/6939fcc2ac80bb5492bc767a?utm_campaign=1065&utm_source=git)** | Littleton, CO | On Site | Mar 07 |
 | **[Pronghorn](https://www.pronghorn.co/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6940e66a49a7695fbd066904?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Mar 07 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/697ff1edabff4c399a9e9bba?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
