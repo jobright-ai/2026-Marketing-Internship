@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Social Media & Content Intern - Summer 2026](https://jobright.ai/jobs/info/69adcbe3142d5b4265feb8f1?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 08 |
+| **[Loftware](http://www.loftware.com)** | **[Summer Marketing Internship - Build Skills. Solve Real Problems. Make an Impact!](https://jobright.ai/jobs/info/69adc8842747003c3d5309a3?utm_campaign=1065&utm_source=git)** | Portsmouth, New Hampshire, United States | On Site | Mar 08 |
+| **[Carta](https://carta.com/)** | **[Marketing Internship - Creative Project Management](https://jobright.ai/jobs/info/69a63cce2c0d8b0f5cd04643?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 08 |
+| **[Project Brains](https://www.projectbrains.io)** | **[International Growth Intern](https://jobright.ai/jobs/info/69adc0bf7e1fab39d384fde3?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 08 |
 | **[RXO, Inc.](https://rxo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ace73a2747003c3d527a49?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 08 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69adafaa142d5b4265feabc7?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 08 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69adafa9142d5b4265feabc3?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 08 |
@@ -120,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Issue One](https://www.issueone.org/)** | **[Citizen Engagement Intern](https://jobright.ai/jobs/info/69ac7c46142d5b4265fdb348?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, Publisher Relations](https://jobright.ai/jobs/info/697262a04ccbf64f8df25d46?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Field Marketing](https://jobright.ai/jobs/info/698fb9530cc8ea15f1da571e?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 07 |
-| **[EventReels](eventreels.com)** | **[Marketing Intern (Campus Growth)](https://jobright.ai/jobs/info/69ad70a87e1fab39d384decc?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Mar 07 |
 | **[BD](https://www.bd.com)** | **[Marketing Intern (Oncology)](https://jobright.ai/jobs/info/69ac64af7e1fab39d383fa24?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Mar 07 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Product Marketing](https://jobright.ai/jobs/info/698fb7d40f6f7e7a2cec038d?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 07 |
 | ↳ | **[Intern / Product Marketing](https://jobright.ai/jobs/info/698fb6410f6f7e7a2cec0273?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Mar 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Growth Marketing & Digital Ads Intern](https://jobright.ai/jobs/info/6939fcc2ac80bb5492bc767a?utm_campaign=1065&utm_source=git)** | Littleton, CO | On Site | Mar 07 |
 | **[Pronghorn](https://www.pronghorn.co/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6940e66a49a7695fbd066904?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Mar 07 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/697ff1edabff4c399a9e9bba?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Mar 07 |
-| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Marketing](https://jobright.ai/jobs/info/698ff9ad0cc8ea15f1da91d5?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 07 |
-| **[Industrial Scientific](http://www.indsci.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6973a16c206da320f49d927a?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 07 |
-| **[VIA Rail Canada](http://www.viarail.ca/en)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a65af5e567421f42575f8f?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
