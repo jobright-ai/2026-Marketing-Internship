@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Backlinkgen](https://backlinkgen.com)** | **[Digital-Marketing Internship](https://jobright.ai/jobs/info/69ad09cc2747003c3d529883?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Mar 07 |
 | **[Planet](http://www.planet.com)** | **[Intern, Communications](https://jobright.ai/jobs/info/69acf5eb7e1fab39d3846b9f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 07 |
-| ↳ | **[Intern, Communications](https://jobright.ai/jobs/info/69acddea2747003c3d527546?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 07 |
+| **[Cases by LJ](casesbylj.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69ad034d142d5b4265fe29be?utm_campaign=1065&utm_source=git)** | Whittier, CA | Hybrid | Mar 07 |
+| **[Planet](http://www.planet.com)** | **[Intern, Communications](https://jobright.ai/jobs/info/69acddea2747003c3d527546?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 07 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[ Marketing-Gastroenterology Intern (12-Month Contract)](https://jobright.ai/jobs/info/69acd32a142d5b4265fe0734?utm_campaign=1065&utm_source=git)** | Montreal, Canada | Hybrid | Mar 07 |
 | **[MARKHAM](markham.co)** | **[Event Internship - Washington, DC](https://jobright.ai/jobs/info/69aca51b142d5b4265fdf06c?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 07 |
 | **[Requity](https://www.linkedin.com/company/111600079)** | **[Real Estate Marketing Startup Intern](https://jobright.ai/jobs/info/69acaad5142d5b4265fdf234?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 07 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Client Solutions Intern](https://jobright.ai/jobs/info/698f84d96ea51a7610f1dff3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Clean Energy Communications Paid Intern / Hybrid in Boston, MA](https://jobright.ai/jobs/info/69abdc95142d5b4265fd4a78?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
 | **[WMCU](https://westmichigancu.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69acf7c8142d5b4265fe1fb6?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Mar 06 |
-| **[Complete Children's Health](http://www.completechildrenshealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69acf80b7e1fab39d3846eab?utm_campaign=1065&utm_source=git)** | Lincoln, NE | Hybrid | Mar 06 |
 | **[Young Americans for Liberty](https://yaliberty.org/)** | **[Campus Volunteer Intern](https://jobright.ai/jobs/info/69abd4ed142d5b4265fd39f9?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 Social & Digital Marketing Intern](https://jobright.ai/jobs/info/69abc9f67e1fab39d3837fe6?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | ↳ | **[Summer 2026 Ad Ops Internship](https://jobright.ai/jobs/info/69abc9ef2747003c3d5184f6?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
@@ -136,12 +137,11 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Foundation Administrative Intern](https://jobright.ai/jobs/info/69a64307d706a731db381f71?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Mar 06 |
 | **[Steel Technologies](http://www.steeltechnologies.com)** | **[Summer 2026: Marketing Intern](https://jobright.ai/jobs/info/69ab95e22747003c3d511cbf?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Mar 06 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Influencer/Public Relations Intern (Full-Time) - Los Angeles, Spring 2026](https://jobright.ai/jobs/info/69ab94c7142d5b4265fcb1c1?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | Mar 06 |
-| ↳ | **[Public Relations Intern (Full-Time) - San Francisco, Spring 2026](https://jobright.ai/jobs/info/69ab94b2142d5b4265fcb143?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | Mar 06 |
 | ↳ | **[Public Relations Intern (Full-Time) - San Francisco, Spring 2026](https://jobright.ai/jobs/info/69ab94b2142d5b4265fcb140?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 06 |
+| ↳ | **[Public Relations Intern (Full-Time) - San Francisco, Spring 2026](https://jobright.ai/jobs/info/69ab94b2142d5b4265fcb143?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | Mar 06 |
 | ↳ | **[Influencer/Public Relations Intern (Full-Time) - Los Angeles, Spring 2026](https://jobright.ai/jobs/info/69ab94a5142d5b4265fcb0f6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 06 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Marketing Intern - College of Engineering -](https://jobright.ai/jobs/info/69ab91fa7e1fab39d382fa69?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Mar 06 |
 | **[LUZCO Technologies LLC](https://luzco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ab918a2747003c3d5110de?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Mar 06 |
-| **[Swift Supply](https://swiftsupply.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ace7852747003c3d527c19?utm_campaign=1065&utm_source=git)** | Daphne, AL | On Site | Mar 06 |
 | **[The Provider Support Group](http://theprovidersupportgroup.org/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/69ab914d2747003c3d511016?utm_campaign=1065&utm_source=git)** | Frankfort, IL | Hybrid | Mar 06 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Social Media Intern - College of Engineering - Integrated Innovation Institute](https://jobright.ai/jobs/info/69ab9141142d5b4265fca9f6?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Mar 06 |
 | **[Wesleyan College](http://www.wesleyancollege.edu/)** | **[Student - Communications Intern](https://jobright.ai/jobs/info/69abb5257e1fab39d3834000?utm_campaign=1065&utm_source=git)** | Macon, GA, US | On Site | Mar 06 |
