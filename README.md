@@ -64,10 +64,10 @@ For a complete list, click the following sortable link below:
 | **[maslansky + partners](https://maslansky.com)** | **[Language Strategy Intern](https://jobright.ai/jobs/info/69adaf0d2747003c3d5305e6?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 08 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69adaed57e1fab39d384fade?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Mar 08 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ada1e4142d5b4265fea993?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 08 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69ada1de142d5b4265fea985?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69ada1de142d5b4265fea986?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 08 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ada1cf2747003c3d530412?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 08 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69ada1de142d5b4265fea985?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ada1cf2747003c3d530413?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 08 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ada1cf2747003c3d530412?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 08 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ada1ce2747003c3d530411?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 08 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ada1c92747003c3d530402?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ada1a97e1fab39d384f93d?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 08 |
@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa81572ebd316bece237c3?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Marketing (12-month) - Milton, ON Canada](https://jobright.ai/jobs/info/69ad2bb02747003c3d52bb6e?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | Mar 08 |
 | **[Cambro Manufacturing](https://www.cambro.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ad39672747003c3d52d71b?utm_campaign=1065&utm_source=git)** | Huntington Beach, CA | On Site | Mar 08 |
-| **[University of Michigan](https://www.umich.edu)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb0?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
-| ↳ | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb7?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
+| **[University of Michigan](https://www.umich.edu)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb7?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
+| ↳ | **[Employee Communications Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb0?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
 | ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/69ad2ec32747003c3d52c021?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
 | **[cupl](www.cupl.io)** | **[App Installs & Growth Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69ad25442747003c3d52b789?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 07 |
 | ↳ | **[Unpaid Internship: Growth Marketing & App Installs](https://jobright.ai/jobs/info/69ad25402747003c3d52b784?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 07 |
