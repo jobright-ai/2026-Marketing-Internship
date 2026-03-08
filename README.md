@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MARKHAM](markham.co)** | **[Event Internship - Washington, DC](https://jobright.ai/jobs/info/69aca51b142d5b4265fdf06c?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 07 |
+| **[Requity](https://www.linkedin.com/company/111600079)** | **[Real Estate Marketing Startup Intern](https://jobright.ai/jobs/info/69acaad5142d5b4265fdf234?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 07 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Social Media & Community Management Intern](https://jobright.ai/jobs/info/69aca4a6142d5b4265fdf052?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69aca2d1142d5b4265fdee04?utm_campaign=1065&utm_source=git)** | Hopkins, MN | On Site | Mar 07 |
 | **[Okuma America Corporation](https://www.okuma.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ac7e34142d5b4265fdbdaa?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 07 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Summer Intern, Communications, Remote](https://jobright.ai/jobs/info/69ab92c67e1fab39d382fe7b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 06 |
 | ↳ | **[Summer Intern, Communications, Remote](https://jobright.ai/jobs/info/69ab9691142d5b4265fcb8ed?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 Social & Digital Marketing Intern](https://jobright.ai/jobs/info/69ab98b0142d5b4265fcbbf6?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
-| ↳ | **[Summer 2026 Data & Research Internship](https://jobright.ai/jobs/info/69ab9a0d7e1fab39d3830d9d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | ↳ | **[Summer 2026 Marketing, Pricing & Planning Inventory Internship](https://jobright.ai/jobs/info/69ab99422747003c3d512337?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | ↳ | **[Summer 2026  Ad Ops Internship](https://jobright.ai/jobs/info/69ab98b0142d5b4265fcbbfa?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
+| ↳ | **[Summer 2026 Data & Research Internship](https://jobright.ai/jobs/info/69ab9a0d7e1fab39d3830d9d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Complete Children's Health](http://www.completechildrenshealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69abb4752747003c3d515663?utm_campaign=1065&utm_source=git)** | Lincoln,NE,US | Hybrid | Mar 06 |
 | **[Emerson](http://www.emerson.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69ab6c337e1fab39d382f503?utm_campaign=1065&utm_source=git)** | Novi, MI | Hybrid | Mar 06 |
 | **[Hartmann Studios](http://hartmannstudios.com)** | **[Event Management Intern](https://jobright.ai/jobs/info/69abb1d5142d5b4265fceb32?utm_campaign=1065&utm_source=git)** | Office - Atlanta, GA, Atlanta, GA, US | On Site | Mar 06 |
 | **[Precisely](https://www.precisely.com)** | **[Marketing Campaigns Intern](https://jobright.ai/jobs/info/69ab6c0c7e1fab39d382f4bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
-| ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/69ab6b952747003c3d51098f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
