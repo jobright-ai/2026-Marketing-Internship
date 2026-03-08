@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BeloForm Craft](https://www.beloformcraft.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69ad9c777e1fab39d384f843?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 08 |
 | **[HypnoCloud](http://www.hypnocloud.com)** | **[PR & Podcast Outreach Manager (Internship / Part-Time)](https://jobright.ai/jobs/info/69ad9578142d5b4265fea831?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 08 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Go-To-Market Strategy Intern](https://jobright.ai/jobs/info/69ad8b832747003c3d5300a8?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 08 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/69ad83e9142d5b4265fea5ba?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
 | ↳ | **[Employee Communications Intern](https://jobright.ai/jobs/info/69ad83d92747003c3d52ff22?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Summer 2026 - Aerospace Group Communications Intern](https://jobright.ai/jobs/info/69219c71d1ec2c3565c454a0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Mar 08 |
-| **[Fini](https://www.usefini.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/69ad83677e1fab39d384f54f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 08 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69ad81c97e1fab39d384f4eb?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69ad8079142d5b4265fea48c?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
 | **[Her House Media](https://herhousemedia.com)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/69ad7e81142d5b4265fea45b?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Mar 08 |
@@ -76,16 +76,17 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697840a388e2b47213bc4a3b?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa5bff1f59c56275e336bc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 08 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Product Marketing](https://jobright.ai/jobs/info/69a165fa359fe034b1ccae67?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e751751852e62f00824498?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e74ba71852e62f008241a6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 08 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e74ba71852e62f008241a6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 08 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e751751852e62f00824498?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e75143e8daec61499b4542?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Drinking Water Solutions (DWS) Marketing and Business Development Intern](https://jobright.ai/jobs/info/69ad4c362747003c3d52da39?utm_campaign=1065&utm_source=git)** | Moon, PA | On Site | Mar 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/696844441703f05405a9f720?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 08 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/697856ed52f3c27ec644ad2a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa81572ebd316bece237c3?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Marketing (12-month) - Milton, ON Canada](https://jobright.ai/jobs/info/69ad2bb02747003c3d52bb6e?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | Mar 08 |
 | **[Cambro Manufacturing](https://www.cambro.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ad39672747003c3d52d71b?utm_campaign=1065&utm_source=git)** | Huntington Beach, CA | On Site | Mar 08 |
-| **[University of Michigan](https://www.umich.edu)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb0?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
-| ↳ | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb7?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
+| **[University of Michigan](https://www.umich.edu)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb7?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
+| ↳ | **[Employee Communications Intern](https://jobright.ai/jobs/info/69ad2efb142d5b4265fe5cb0?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
 | ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/69ad2ec32747003c3d52c021?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
 | **[cupl](www.cupl.io)** | **[App Installs & Growth Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69ad25442747003c3d52b789?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 07 |
 | ↳ | **[Unpaid Internship: Growth Marketing & App Installs](https://jobright.ai/jobs/info/69ad25402747003c3d52b784?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Marketing — Influencer & UGC (Summer 2026)](https://jobright.ai/jobs/info/69abb902142d5b4265fd0b4c?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 Data & Research Internship](https://jobright.ai/jobs/info/69abb7f77e1fab39d3834c9d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications & Press Intern (Volunteer)](https://jobright.ai/jobs/info/69abb3f32747003c3d51548b?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Nulo Pet Food](http://nulo.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69ac55707e1fab39d383f395?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
