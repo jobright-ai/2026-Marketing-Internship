@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699002520cc8ea15f1da9976?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Mar 08 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69adfb467e1fab39d38510c8?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 08 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Summer 2026](https://jobright.ai/jobs/info/69ade5d77e1fab39d3850d8f?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Mar 08 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69add8c87e1fab39d3850b98?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 08 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Social Media & Content Intern - Summer 2026](https://jobright.ai/jobs/info/69adcbe3142d5b4265feb8f1?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 08 |
 | **[Loftware](http://www.loftware.com)** | **[Summer Marketing Internship - Build Skills. Solve Real Problems. Make an Impact!](https://jobright.ai/jobs/info/69adc8842747003c3d5309a3?utm_campaign=1065&utm_source=git)** | Portsmouth, New Hampshire, United States | On Site | Mar 08 |
 | **[Carta](https://carta.com/)** | **[Marketing Internship - Creative Project Management](https://jobright.ai/jobs/info/69a63cce2c0d8b0f5cd04643?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 08 |
-| **[Project Brains](https://www.projectbrains.io)** | **[International Growth Intern](https://jobright.ai/jobs/info/69adc0bf7e1fab39d384fde3?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 08 |
 | **[RXO, Inc.](https://rxo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ace73a2747003c3d527a49?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 08 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69adafaa142d5b4265feabc7?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 08 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69adafa9142d5b4265feabc3?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 08 |
@@ -121,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[BD](https://www.bd.com)** | **[Marketing Intern (Oncology)](https://jobright.ai/jobs/info/69ac64af7e1fab39d383fa24?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Mar 07 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Product Marketing](https://jobright.ai/jobs/info/698fb7d40f6f7e7a2cec038d?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 07 |
 | ↳ | **[Intern / Product Marketing](https://jobright.ai/jobs/info/698fb6410f6f7e7a2cec0273?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Mar 07 |
-| **[Dimitri House](http://www.dimitri-house.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ad73137e1fab39d384df85?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Mar 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/699052d56ea51a7610f2de8d?utm_campaign=1065&utm_source=git)** | Modesto, CA | On Site | Mar 07 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742fba37785856350e2a25?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Mar 07 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/69797e6fca92cf0d6a82a0c1?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Mar 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[7 17 Credit Union](https://www.717cu.com/)** | **[MARKETING INTERN](https://jobright.ai/jobs/info/69abf94e7e1fab39d383c207?utm_campaign=1065&utm_source=git)** | Warren, OH 44483 | On Site | Mar 07 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Brand Summer Intern](https://jobright.ai/jobs/info/6972ff00694e99351d144487?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Client Solutions Intern](https://jobright.ai/jobs/info/698f84d96ea51a7610f1dff3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
+| **[Clean Water Action](https://www.cleanwateraction.org)** | **[Clean Energy Communications Paid Intern / Hybrid in Boston, MA](https://jobright.ai/jobs/info/69abdc95142d5b4265fd4a78?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
