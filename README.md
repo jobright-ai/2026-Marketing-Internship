@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CNH](http://www.cnhindustrial.com)** | **[Commercial Ag Channel Strategy and AI Intern 1](https://jobright.ai/jobs/info/698cf3a978b4502f12a367d6?utm_campaign=1065&utm_source=git)** | New Holland, PA | On Site | Mar 08 |
 | **[Feather & Blade](https://linktr.ee/featherandblade)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ae6b184f6bcc1828099575?utm_campaign=1065&utm_source=git)** | Lexington, KY | Hybrid | Mar 08 |
 | **[DiGiulio](https://digiuliogrouprealestate.com/)** | **[Sales Marketing Internship](https://jobright.ai/jobs/info/69ae66b37c309707d4afa28b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | **[Datarynx Technologies and Consulting](https://www.datarynxconsulting.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ae5adc3de6821aaccdab14?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | Mar 08 |
 | **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Marketing Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/69ae53583de6821aaccda9e7?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | Mar 08 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Volunteer Engagement Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d3?utm_campaign=1065&utm_source=git)** | Philadelphia, Pennsylvania | Remote | Mar 08 |
-| ↳ | **[Volunteer Engagement Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b4?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia | Remote | Mar 08 |
 | ↳ | **[Digital Strategy Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b6?utm_campaign=1065&utm_source=git)** | DC Home Based | Remote | Mar 08 |
+| ↳ | **[Volunteer Engagement Intern](https://jobright.ai/jobs/info/69ae4cea3de6821aaccda1b4?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia | Remote | Mar 08 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ae4a937c309707d4af8541?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 08 |
 | **[uInterview, Inc.](http://uinterview.com)** | **[Writing & Social Media Intern](https://jobright.ai/jobs/info/69ae48987c309707d4af845c?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 08 |
 | **[Chesterton Hills Consulting](https://www.linkedin.com/company/107831627)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69ae484f7c309707d4af83cc?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[Summer 2026] Event Marketing Intern](https://jobright.ai/jobs/info/6990149c6ea51a7610f27eed?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Avantis Intern](https://jobright.ai/jobs/info/692d1f2ffa28370be269c07c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Creative Marketing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ac10c92747003c3d51e3c8?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Mar 07 |
-| ↳ | **[DET Marketing Strategy & Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ac10a6142d5b4265fd7b64?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
