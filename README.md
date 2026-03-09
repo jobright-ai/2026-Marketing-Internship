@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockeroom Sports Consulting](https://www.linkedin.com/company/111657935)** | **[Content Research and Marketing Intern](https://jobright.ai/jobs/info/69aeb471bd1a716b431047ea?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Mar 09 |
+| **[Avantis Investors](https://www.avantisinvestors.com/)** | **[Avantis Intern](https://jobright.ai/jobs/info/6997ce63ce78e77b4fdc37c6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/698840338ca8121a3a6ad1ea?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Mar 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976df9a3778585635106291?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e74bdb1852e62f008241f7?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 09 |
-| **[CooTek](https://www.cootek.com/)** | **[Content Operations & Creative Strategy Intern](https://jobright.ai/jobs/info/69ae9917bd1a716b43103e17?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 09 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/69a669722c0d8b0f5cd089ad?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 09 |
 | **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Mar 09 |
 | **[Planet Fitness](http://www.planetfitness.com/)** | **[Summer Intern - Strategic Communications](https://jobright.ai/jobs/info/6992821a0cc8ea15f1dccfef?utm_campaign=1065&utm_source=git)** | Hampton, NH | Hybrid | Mar 09 |
@@ -88,9 +89,9 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699002520cc8ea15f1da9976?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Mar 08 |
 | **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Marketing Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/69aea292a4f2e119f26e0a02?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Mar 08 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Summer 2026](https://jobright.ai/jobs/info/69ade5d77e1fab39d3850d8f?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Mar 08 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69add8c87e1fab39d3850b98?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 08 |
 | **[Loftware](http://www.loftware.com)** | **[Summer Marketing Internship - Build Skills. Solve Real Problems. Make an Impact!](https://jobright.ai/jobs/info/69adc8842747003c3d5309a3?utm_campaign=1065&utm_source=git)** | Portsmouth, New Hampshire, United States | On Site | Mar 08 |
 | **[Carta](https://carta.com/)** | **[Marketing Internship - Creative Project Management](https://jobright.ai/jobs/info/69a63cce2c0d8b0f5cd04643?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 08 |
+| **[Sunfish Inc](https://sunfishinc.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/69aeca075224a240f103c848?utm_campaign=1065&utm_source=git)** | Tallahassee Metro | On Site | Mar 08 |
 | **[RXO, Inc.](https://rxo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ace73a2747003c3d527a49?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 08 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69adafaa142d5b4265feabc7?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 08 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69adafa9142d5b4265feabc3?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 08 |
@@ -144,9 +145,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern / Product Marketing](https://jobright.ai/jobs/info/698fb6410f6f7e7a2cec0273?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Mar 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/699052d56ea51a7610f2de8d?utm_campaign=1065&utm_source=git)** | Modesto, CA | On Site | Mar 07 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Private Label Product Branding and Marketing](https://jobright.ai/jobs/info/69742fba37785856350e2a25?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Mar 07 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/69797e6fca92cf0d6a82a0c1?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Mar 07 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/69797e6fca92cf0d6a82a0c1?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Mar 07 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699013660cc8ea15f1dabb1d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/69799f26ca92cf0d6a82e244?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Mar 07 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/69799f26ca92cf0d6a82e244?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Mar 07 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[PCG Internship Summer 2026](https://jobright.ai/jobs/info/693b7d835f2c001987ed714f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Media and Marketing Internship](https://jobright.ai/jobs/info/699013f70cc8ea15f1dabbb1?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Mar 07 |
 | **[Enovis](https://enovis.com)** | **[Marketing Communication Internship](https://jobright.ai/jobs/info/698f930a0cc8ea15f1da26d4?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 07 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69902c3e0f6f7e7a2cec96e2?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Mar 07 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Marketing Manager - MBA Intern](https://jobright.ai/jobs/info/69901e900f6f7e7a2cec6f5a?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/699015380f6f7e7a2cec66d1?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 07 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/6982e340348f733a5c36048f?utm_campaign=1065&utm_source=git)** | Conyers, GA | On Site | Mar 07 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Public Relations & Communications Intern, Fall 2026](https://jobright.ai/jobs/info/69ac2549142d5b4265fd904f?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Mar 07 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/6982e340348f733a5c36048f?utm_campaign=1065&utm_source=git)** | Conyers, GA | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
