@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Events Coordinator, North America Sales & Delivery Field Management (Summer 2026)](https://jobright.ai/jobs/info/69ae7a2a4f6bcc182809a385?utm_campaign=1065&utm_source=git)** | Manhasset, NY | On Site | Mar 09 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Commercial Ag Channel Strategy and AI Intern 1](https://jobright.ai/jobs/info/698cf3a978b4502f12a367d6?utm_campaign=1065&utm_source=git)** | New Holland, PA | On Site | Mar 08 |
 | **[Feather & Blade](https://linktr.ee/featherandblade)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ae6b184f6bcc1828099575?utm_campaign=1065&utm_source=git)** | Lexington, KY | Hybrid | Mar 08 |
 | **[DiGiulio](https://digiuliogrouprealestate.com/)** | **[Sales Marketing Internship](https://jobright.ai/jobs/info/69ae66b37c309707d4afa28b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 08 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Consumer Insight, Measurement & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a8cfaf79f3f4037f4352c1?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Mar 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697840a388e2b47213bc4a3b?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa5bff1f59c56275e336bc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 08 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e74ba71852e62f008241a6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 08 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e751751852e62f00824498?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e74ba71852e62f008241a6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 08 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e75143e8daec61499b4542?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Product Marketing](https://jobright.ai/jobs/info/69ae341c3de6821aaccd7202?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/696844441703f05405a9f720?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Entertainment and Lifestyle Partnerships Intern](https://jobright.ai/jobs/info/698fc5296ea51a7610f23278?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
 | ↳ | **[[Summer 2026] Event Marketing Intern](https://jobright.ai/jobs/info/6990149c6ea51a7610f27eed?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Avantis Intern](https://jobright.ai/jobs/info/692d1f2ffa28370be269c07c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Creative Marketing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ac10c92747003c3d51e3c8?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
