@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - Social Media Intern - CHSS](https://jobright.ai/jobs/info/69afae9bf63f733065b354a3?utm_campaign=1065&utm_source=git)** | Orem, UT | On Site | Mar 09 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern US Marketing (Fort Worth, TX)](https://jobright.ai/jobs/info/69afa1b3f63f733065b329a1?utm_campaign=1065&utm_source=git)** | Fort Worth | On Site | Mar 09 |
 | **[SpotHero](http://www.spothero.com)** | **[Marketing Ops & AI Intern](https://jobright.ai/jobs/info/69afa126f63f733065b328f7?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69af9ed77495006450944609?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 09 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[WG Business Enterprises, LLC](https://www.linkedin.com/company/86755920)** | **[WordPress Intern](https://jobright.ai/jobs/info/69af93bf749500645094153e?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Communications, Strategic Engagement & Change Support Intern](https://jobright.ai/jobs/info/69af90cf6b21de023e60c80c?utm_campaign=1065&utm_source=git)** | Sacramento SC | Hybrid | Mar 09 |
 | ↳ | **[Communications, Strategic Engagement & Change Support Intern](https://jobright.ai/jobs/info/69af90237495006450941065?utm_campaign=1065&utm_source=git)** | Oakland | Hybrid | Mar 09 |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69afaf23dfaeda6ff598350c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 09 |
 | **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/69af8b926b21de023e60c614?utm_campaign=1065&utm_source=git)** | Vancouver, WA | Hybrid | Mar 09 |
 | **[Emprise Bank](https://www.emprisebank.com)** | **[Marketing Co-Op Intern (Wichita, KS)](https://jobright.ai/jobs/info/69af7203749500645093e2c3?utm_campaign=1065&utm_source=git)** | Wichita, Kansas, United States | On Site | Mar 09 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Marketing Operations – Performance Team Summer Intern](https://jobright.ai/jobs/info/69af88157495006450940607?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Innovation Mortgage](Innovationmortgage.com)** | **[Internship - Social Media & Operations](https://jobright.ai/jobs/info/69af3969dfaeda6ff597584f?utm_campaign=1065&utm_source=git)** | Farmington Hills, MI | On Site | Mar 09 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Product Marketing Intern - Bachelor's Degree](https://jobright.ai/jobs/info/69af7e8a749500645093fdfe?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Mar 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Global Marketing Strategy & Campaign Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69af38fe6b21de023e6068fa?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Mar 09 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist & Promoter Relations](https://jobright.ai/jobs/info/69af38e3749500645093bb4d?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, USA | On Site | Mar 09 |
-| **[First American Equipment Finance](http://faef.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69af38e1749500645093bb35?utm_campaign=1065&utm_source=git)** | Rochester, NY | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
