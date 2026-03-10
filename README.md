@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - Social Media Intern - CHSS](https://jobright.ai/jobs/info/69afae9bf63f733065b354a3?utm_campaign=1065&utm_source=git)** | Orem, UT | On Site | Mar 09 |
+| **[Electro](electrogum.com)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/69afbd5f749500645094cb70?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 09 |
+| **[Kiewit](http://www.kiewit.com)** | **[Marketing/Proposal Intern (Summer 2026)](https://jobright.ai/jobs/info/69afb995dfaeda6ff598678e?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Mar 09 |
+| **[SOUTH CAROLINA CITIZENS FOR LIFE](http://sclife.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69afb52b749500645094aaf3?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Mar 09 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern US Marketing (Fort Worth, TX)](https://jobright.ai/jobs/info/69afa1b3f63f733065b329a1?utm_campaign=1065&utm_source=git)** | Fort Worth | On Site | Mar 09 |
 | **[SpotHero](http://www.spothero.com)** | **[Marketing Ops & AI Intern](https://jobright.ai/jobs/info/69afa126f63f733065b328f7?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69af9ed77495006450944609?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 09 |
@@ -107,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[KONG Company](http://kongcompany.com)** | **[eCommerce Intern](https://jobright.ai/jobs/info/69af67cedfaeda6ff5977aee?utm_campaign=1065&utm_source=git)** | Golden, CO | On Site | Mar 09 |
 | **[Gen](https://www.gendigital.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69af67b8749500645093ddeb?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 09 |
 | **[Mohegan Sun](http://www.mohegansun.com)** | **[Connecticut Sun Seasonal Intern](https://jobright.ai/jobs/info/69af64856b21de023e608a47?utm_campaign=1065&utm_source=git)** | Uncasville, CT | On Site | Mar 09 |
-| **[Oneblvd](oneblvd.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/69af639a749500645093db75?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
 | **[Montblanc](http://www.montblanc.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69af5eac6b21de023e608647?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Marketing](https://jobright.ai/jobs/info/69af5ea1dfaeda6ff59775ac?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Mar 09 |
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Communications Intern (Full time - Postgraduate)](https://jobright.ai/jobs/info/69af5e5d749500645093d8b1?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Mar 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Danfoss](https://www.danfoss.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69af3a59dfaeda6ff5975a1c?utm_campaign=1065&utm_source=git)** | Maumee, OH | On Site | Mar 09 |
 | **[Innovation Mortgage](Innovationmortgage.com)** | **[Internship - Social Media & Operations](https://jobright.ai/jobs/info/69af3969dfaeda6ff597584f?utm_campaign=1065&utm_source=git)** | Farmington Hills, MI | On Site | Mar 09 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Product Marketing Intern - Bachelor's Degree](https://jobright.ai/jobs/info/69af7e8a749500645093fdfe?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Mar 09 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Global Marketing Strategy & Campaign Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69af38fe6b21de023e6068fa?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
