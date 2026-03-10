@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern US Marketing (Fort Worth, TX)](https://jobright.ai/jobs/info/69afa1b3f63f733065b329a1?utm_campaign=1065&utm_source=git)** | Fort Worth | On Site | Mar 09 |
+| **[SpotHero](http://www.spothero.com)** | **[Marketing Ops & AI Intern](https://jobright.ai/jobs/info/69afa126f63f733065b328f7?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
+| **[Crystal Dynamics](http://crystald.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69af9ed77495006450944609?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 09 |
 | **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69ab33f02747003c3d50e00e?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 09 |
 | **[WG Business Enterprises, LLC](https://www.linkedin.com/company/86755920)** | **[WordPress Intern](https://jobright.ai/jobs/info/69af93bf749500645094153e?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Communications, Strategic Engagement & Change Support Intern](https://jobright.ai/jobs/info/69af90cf6b21de023e60c80c?utm_campaign=1065&utm_source=git)** | Sacramento SC | Hybrid | Mar 09 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69af87efdfaeda6ff597abee?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 09 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/69af8604dfaeda6ff597ab23?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 09 |
 | **[Life Space Digital](http://www.lifespacedigital.com)** | **[Advertising Business Intern](https://jobright.ai/jobs/info/69af8602dfaeda6ff597ab1c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 09 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Global Conferences: Digital Experiences & Strategy Intern](https://jobright.ai/jobs/info/69afa0dadfaeda6ff597f7be?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 09 |
 | **[Summit Nanotech](https://www.summitnanotech.ca/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69af8228dfaeda6ff597a884?utm_campaign=1065&utm_source=git)** | Calgary, AB, CA | On Site | Mar 09 |
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Internship - Summer](https://jobright.ai/jobs/info/69af80377495006450940000?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Mar 09 |
 | **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Digital Communications](https://jobright.ai/jobs/info/69af8024749500645093ffd3?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Mar 09 |
@@ -100,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Wis-Pak, Inc.](https://wis-pak.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69af6841dfaeda6ff5977b4d?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Mar 09 |
 | **[KONG Company](http://kongcompany.com)** | **[eCommerce Intern](https://jobright.ai/jobs/info/69af67cedfaeda6ff5977aee?utm_campaign=1065&utm_source=git)** | Golden, CO | On Site | Mar 09 |
 | **[Gen](https://www.gendigital.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69af67b8749500645093ddeb?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 09 |
-| **[SpotHero](http://www.spothero.com)** | **[Marketing Ops & AI Intern](https://jobright.ai/jobs/info/69af65096b21de023e608aa1?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
 | **[Mohegan Sun](http://www.mohegansun.com)** | **[Connecticut Sun Seasonal Intern](https://jobright.ai/jobs/info/69af64856b21de023e608a47?utm_campaign=1065&utm_source=git)** | Uncasville, CT | On Site | Mar 09 |
 | **[Oneblvd](oneblvd.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/69af639a749500645093db75?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
 | **[Montblanc](http://www.montblanc.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69af5eac6b21de023e608647?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 09 |
@@ -128,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PR Intern - Summer](https://jobright.ai/jobs/info/69af4cbe749500645093cf5d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | ↳ | **[PR Intern - Summer](https://jobright.ai/jobs/info/69af4cb2749500645093cf43?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer Marketing Internship](https://jobright.ai/jobs/info/69af4bf9749500645093cdef?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA | On Site | Mar 09 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, Internal Communications](https://jobright.ai/jobs/info/69af4bf8749500645093cdcd?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Mar 09 |
-| ↳ | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/69af4bf8749500645093cdd4?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Mar 09 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/69af4bf8749500645093cdd4?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Mar 09 |
+| ↳ | **[Summer Intern, Internal Communications](https://jobright.ai/jobs/info/69af4bf8749500645093cdcd?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Mar 09 |
 | **[DAVID AI](https://getdavid.ai/)** | **[Marketing Manager Intern](https://jobright.ai/jobs/info/69af49596b21de023e607a82?utm_campaign=1065&utm_source=git)** | Provo, UT | On Site | Mar 09 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69af4797749500645093cb45?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 09 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/69af461f6b21de023e6078e0?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Global Marketing Strategy & Campaign Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69af38fe6b21de023e6068fa?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Mar 09 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist & Promoter Relations](https://jobright.ai/jobs/info/69af38e3749500645093bb4d?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, USA | On Site | Mar 09 |
 | **[First American Equipment Finance](http://faef.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69af38e1749500645093bb35?utm_campaign=1065&utm_source=git)** | Rochester, NY | Hybrid | Mar 09 |
-| **[BBDO Atlanta](http://bbdoatl.com/)** | **[Summer Internship - Strategy](https://jobright.ai/jobs/info/69af369fdfaeda6ff5975674?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Mar 09 |
-| ↳ | **[Summer Internship - Copywriting](https://jobright.ai/jobs/info/69af3679dfaeda6ff59754b8?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Mar 09 |
-| **[Crocs, Inc.](http://www.crocs.com)** | **[Intern - Merchandising & Category Management](https://jobright.ai/jobs/info/69af33c3749500645093b081?utm_campaign=1065&utm_source=git)** | Broomfield, CO | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
