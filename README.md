@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorstech Solar](http://www.colorstech.net)** | **[Internship - Digital -Marketing - Role](https://jobright.ai/jobs/info/69aff3e5f63f733065b4285c?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 10 |
+| **[Orchestra](https://www.orchestraco.com)** | **[Summer 2026 Communications Internship](https://jobright.ai/jobs/info/6994282ece78e77b4fd81d0a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 10 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Communications Intern-Corporate](https://jobright.ai/jobs/info/6993e6f0ce78e77b4fd7bbc8?utm_campaign=1065&utm_source=git)** | Portsmouth, NH | On Site | Mar 10 |
 | **[Cyber Jurisprudence International Initiative (CyJurII)](https://www.cyjurii.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69aff042f63f733065b41cf8?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 10 |
-| **[Colorstech Solar](http://www.colorstech.net)** | **[Internship - Digital -Marketing - Role](https://jobright.ai/jobs/info/69afeba1f63f733065b4103d?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 10 |
 | **[Westwin Elements](https://www.westwinelements.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69afe0a8f63f733065b3f03e?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Mar 10 |
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Marketing & Programming](https://jobright.ai/jobs/info/69afe0a3f63f733065b3f01a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
 | **[Business Wire](http://www.businesswire.com)** | **[Newsroom Operations Intern](https://jobright.ai/jobs/info/69afde72f63f733065b3ea31?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vancity](http://www.vancity.com)** | **[Marketing & Events Intern (May Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69af42d76b21de023e6074fb?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 09 |
 | ↳ | **[Social Media Support Intern (May Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69af4217749500645093c6af?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 09 |
 | **[Holloway Health & Life Benefits, LLC](https://www.linkedin.com/company/104807125)** | **[Business & Marketing Intern (Entrepreneurship Experience)](https://jobright.ai/jobs/info/69af418d749500645093c624?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Mar 09 |
-| **[Aramark Destinations](https://thenationsvacation.com/)** | **[UNC Student Social Media Summer intern: Carolina Dining Services](https://jobright.ai/jobs/info/69af3d8b749500645093c179?utm_campaign=1065&utm_source=git)** | CHAPEL HILL, NC, US, 27599 | On Site | Mar 09 |
-| **[Tru Fragrance & Beauty](https://www.trufragrance.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69af3c45749500645093bfe6?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
