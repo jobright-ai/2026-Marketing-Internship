@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69ab33f02747003c3d50e00e?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 09 |
+| **[WG Business Enterprises, LLC](https://www.linkedin.com/company/86755920)** | **[WordPress Intern](https://jobright.ai/jobs/info/69af93bf749500645094153e?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 09 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Communications, Strategic Engagement & Change Support Intern](https://jobright.ai/jobs/info/69af90cf6b21de023e60c80c?utm_campaign=1065&utm_source=git)** | Sacramento SC | Hybrid | Mar 09 |
+| ↳ | **[Communications, Strategic Engagement & Change Support Intern](https://jobright.ai/jobs/info/69af90237495006450941065?utm_campaign=1065&utm_source=git)** | Oakland | Hybrid | Mar 09 |
 | **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/69af8b926b21de023e60c614?utm_campaign=1065&utm_source=git)** | Vancouver, WA | Hybrid | Mar 09 |
 | **[Emprise Bank](https://www.emprisebank.com)** | **[Marketing Co-Op Intern (Wichita, KS)](https://jobright.ai/jobs/info/69af7203749500645093e2c3?utm_campaign=1065&utm_source=git)** | Wichita, Kansas, United States | On Site | Mar 09 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Marketing Operations – Performance Team Summer Intern](https://jobright.ai/jobs/info/69af88157495006450940607?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BBDO Atlanta](http://bbdoatl.com/)** | **[Summer Internship - Strategy](https://jobright.ai/jobs/info/69af369fdfaeda6ff5975674?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Mar 09 |
 | ↳ | **[Summer Internship - Copywriting](https://jobright.ai/jobs/info/69af3679dfaeda6ff59754b8?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Mar 09 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Intern - Merchandising & Category Management](https://jobright.ai/jobs/info/69af33c3749500645093b081?utm_campaign=1065&utm_source=git)** | Broomfield, CO | Hybrid | Mar 09 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Football](https://jobright.ai/jobs/info/69af32e1dfaeda6ff5974b8c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Mar 09 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Marketing Summer Intern-Population Health](https://jobright.ai/jobs/info/69af32ad6b21de023e605d13?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Mar 09 |
-| **[Hilti Asia IT Services](https://careers.hilti.group/en/what-we-do/digital/)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69af31f36b21de023e605b93?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Mar 09 |
-| **[Introba](https://www.introba.com)** | **[Marketing Intern (Pursuits)](https://jobright.ai/jobs/info/69af31e86b21de023e605b6d?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
