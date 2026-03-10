@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69afd029f63f733065b3caad?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 10 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69afd006f63f733065b3ca1a?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 10 |
+| ↳ | **[Employee Communications Intern](https://jobright.ai/jobs/info/69afcfacdfaeda6ff598afaa?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 10 |
+| **[AmFirst](https://www.amfirst.org)** | **[Summer Internship 2026 - Marketing](https://jobright.ai/jobs/info/69afca41f63f733065b3ba56?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Mar 10 |
+| ↳ | **[Summer Internship 2026 - Video Content - Marketing](https://jobright.ai/jobs/info/69afc938dfaeda6ff5989dcf?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Mar 10 |
 | **[Electro](electrogum.com)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/69afbd5f749500645094cb70?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Kiewit](http://www.kiewit.com)** | **[Marketing/Proposal Intern (Summer 2026)](https://jobright.ai/jobs/info/69afb995dfaeda6ff598678e?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Mar 09 |
 | **[SOUTH CAROLINA CITIZENS FOR LIFE](http://sclife.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69afb52b749500645094aaf3?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Mar 09 |
@@ -134,8 +139,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PR Intern - Summer](https://jobright.ai/jobs/info/69af4cbe749500645093cf5d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | ↳ | **[PR Intern - Summer](https://jobright.ai/jobs/info/69af4cb2749500645093cf43?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer Marketing Internship](https://jobright.ai/jobs/info/69af4bf9749500645093cdef?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA | On Site | Mar 09 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/69af4bf8749500645093cdd4?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Mar 09 |
-| ↳ | **[Summer Intern, Internal Communications](https://jobright.ai/jobs/info/69af4bf8749500645093cdcd?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Mar 09 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, Internal Communications](https://jobright.ai/jobs/info/69af4bf8749500645093cdcd?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Mar 09 |
+| ↳ | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/69af4bf8749500645093cdd4?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Mar 09 |
 | **[DAVID AI](https://getdavid.ai/)** | **[Marketing Manager Intern](https://jobright.ai/jobs/info/69af49596b21de023e607a82?utm_campaign=1065&utm_source=git)** | Provo, UT | On Site | Mar 09 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69af4797749500645093cb45?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 09 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/69af461f6b21de023e6078e0?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vevo](http://vevo.com)** | **[Summer 2026 Data & Research Intern](https://jobright.ai/jobs/info/69ab9a0d7e1fab39d3830d9d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Drinking Water Solutions (DWS) Marketing and Business Development Intern](https://jobright.ai/jobs/info/69af766e6b21de023e60a287?utm_campaign=1065&utm_source=git)** | Moon, PA | On Site | Mar 09 |
 | **[Prison Fellowship](https://www.prisonfellowship.org/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69af3ae96b21de023e606d22?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 09 |
-| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Plymouth State University](https://jobright.ai/jobs/info/69af3a94dfaeda6ff5975aca?utm_campaign=1065&utm_source=git)** | Plymouth, NH | On Site | Mar 09 |
-| **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship, Communications - Social Impact Team](https://jobright.ai/jobs/info/69af3a5c749500645093bdca?utm_campaign=1065&utm_source=git)** | 151 West 34th Street, New York, NY, 10001, US | Hybrid | Mar 09 |
-| **[Danfoss](https://www.danfoss.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69af3a59dfaeda6ff5975a1c?utm_campaign=1065&utm_source=git)** | Maumee, OH | On Site | Mar 09 |
-| **[Innovation Mortgage](Innovationmortgage.com)** | **[Internship - Social Media & Operations](https://jobright.ai/jobs/info/69af3969dfaeda6ff597584f?utm_campaign=1065&utm_source=git)** | Farmington Hills, MI | On Site | Mar 09 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Product Marketing Intern - Bachelor's Degree](https://jobright.ai/jobs/info/69af7e8a749500645093fdfe?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
