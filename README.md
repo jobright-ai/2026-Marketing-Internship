@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/69af58f5dfaeda6ff59773b3?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 09 |
+| **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Communications Intern (Full time - Postgraduate)](https://jobright.ai/jobs/info/69af5e5d749500645093d8b1?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Mar 09 |
+| **[Cal Alumni Association | UC Berkeley](http://alumni.berkeley.edu)** | **[Student Assistant, Media and Content Creation](https://jobright.ai/jobs/info/69af5b08dfaeda6ff59773ed?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Hybrid | Mar 09 |
+| **[UCB](http://www.ucb.com)** | **[Market Access & Pricing Intern](https://jobright.ai/jobs/info/69af5afb6b21de023e6084e8?utm_campaign=1065&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Mar 09 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69af5aeb749500645093d794?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 09 |
+| ↳ | **[Marketing Operations Intern](https://jobright.ai/jobs/info/69af58f5dfaeda6ff59773b3?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 09 |
 | ↳ | **[Marketing Operations - Performance Team Summer Intern](https://jobright.ai/jobs/info/69af58d7dfaeda6ff5977394?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 09 |
 | **[Ainsworth Inc](https://www.ainsworth.com)** | **[HR Communications Intern (1-Year Contract)](https://jobright.ai/jobs/info/69af5806749500645093d59f?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 09 |
 | ↳ | **[HR Communications Intern (4‑Month Contract)](https://jobright.ai/jobs/info/69af5805749500645093d596?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 09 |
@@ -93,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Tru Fragrance & Beauty](https://www.trufragrance.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69af3c45749500645093bfe6?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
 | **[Vevo](http://vevo.com)** | **[Summer 2026 Data & Research Intern](https://jobright.ai/jobs/info/69ab9a0d7e1fab39d3830d9d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
 | **[Prison Fellowship](https://www.prisonfellowship.org/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69af3ae96b21de023e606d22?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 09 |
-| **[HAL MEDIA](https://pitch.com/v/hal-media-gcqw9a)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/69af3a986b21de023e606bf5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 09 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Plymouth State University](https://jobright.ai/jobs/info/69af3a94dfaeda6ff5975aca?utm_campaign=1065&utm_source=git)** | Plymouth, NH | On Site | Mar 09 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship, Communications - Social Impact Team](https://jobright.ai/jobs/info/69af3a5c749500645093bdca?utm_campaign=1065&utm_source=git)** | 151 West 34th Street, New York, NY, 10001, US | Hybrid | Mar 09 |
 | **[Danfoss](https://www.danfoss.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69af3a59dfaeda6ff5975a1c?utm_campaign=1065&utm_source=git)** | Maumee, OH | On Site | Mar 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Economic Development Partnership of North Carolina (EDPNC)](https://edpnc.com/)** | **[Tourism Marketing Intern](https://jobright.ai/jobs/info/69af31a0dfaeda6ff597483b?utm_campaign=1065&utm_source=git)** | Raleigh,NC,US | Hybrid | Mar 09 |
 | **[Elite Level Soccer](Elitelvlsoccer.com)** | **[Assistant Marketing Intern](https://jobright.ai/jobs/info/69af0f24dfaeda6ff597138d?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Mar 09 |
 | **[Richlynn Group](https://www.richlynngroup.com)** | **[Summer 2026 Creative Marketing & Publicity Intern](https://jobright.ai/jobs/info/69af0e80dfaeda6ff5971278?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Mar 09 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69af0de47495006450937bac?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 09 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT 2026 Summer Internship - Proposal Writer](https://jobright.ai/jobs/info/69af0d7adfaeda6ff59711ea?utm_campaign=1065&utm_source=git)** | USA VA Herndon | Hybrid | Mar 09 |
-| **[TYLin](http://www.tylin.com)** | **[Marketing Intern (Pursuits)](https://jobright.ai/jobs/info/69af0d75dfaeda6ff59711d2?utm_campaign=1065&utm_source=git)** | CA | BC | Vancouver - 200 Granville Street | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
