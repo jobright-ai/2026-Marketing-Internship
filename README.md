@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Social Media Content Creation Intern](https://jobright.ai/jobs/info/69b0e0eddfaeda6ff59ba6c1?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 10 |
+| **[Aleut](https://www.aleutcorp.com/)** | **[Comms & Marketing Intern](https://jobright.ai/jobs/info/69b0e09fdfaeda6ff59ba685?utm_campaign=1065&utm_source=git)** | Anchorage, AK | On Site | Mar 10 |
+| **[Nasdaq](https://www.nasdaq.com)** | **[MarketSite Events Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/69b0d908749500645097e068?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 10 |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/69b0d906749500645097e05e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 10 |
+| **[Transcarent](https://www.transcarent.com)** | **[Content and Social Media Intern](https://jobright.ai/jobs/info/69b0d8aa0b2db6275c058d8c?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 10 |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Intern - Talent Marketing](https://jobright.ai/jobs/info/69b0d60e0b2db6275c058877?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Mar 10 |
+| **[Qode Social](https://www.qodesocial.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69b0d5e20b2db6275c0587e9?utm_campaign=1065&utm_source=git)** | North York, Ontario, Canada | On Site | Mar 10 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Direct Marketing/Events Internship - June - January 2026 - Las Vegas](https://jobright.ai/jobs/info/69b0d5970b2db6275c0586ff?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Mar 10 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Brand & Field Medical Marketing Intern – Patient Initiatives](https://jobright.ai/jobs/info/69b0d11f749500645097d597?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 | **[McCormick Taylor, Inc.](http://www.mccormicktaylor.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69b0ce9adfaeda6ff59b5d20?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Mar 10 |
 | **[Alumni Ventures](http://www.av.vc)** | **[Nurture Marketing Intern](https://jobright.ai/jobs/info/69b0ce09dfaeda6ff59b5b67?utm_campaign=1065&utm_source=git)** | Manchester, NH | On Site | Mar 10 |
@@ -119,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Foundation For CHOICE](https://www.foundationforchoice.org)** | **[Intern for a non-profit!](https://jobright.ai/jobs/info/69b093b9dfaeda6ff59ab1ad?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Mar 10 |
 | **[Abbott](https://www.abbott.com)** | **[Corporate Internship - Global Marketing and External Affairs - Summer 2026](https://jobright.ai/jobs/info/69b090df0b2db6275c04c03a?utm_campaign=1065&utm_source=git)** | Illinois, United States | On Site | Mar 10 |
 | **[MB and Associates Public Relations](https://mbandassociatespr.com)** | **[Public Relations Intern - Summer 2025](https://jobright.ai/jobs/info/69b090760b2db6275c04bed6?utm_campaign=1065&utm_source=git)** | Marlton, NJ | On Site | Mar 10 |
-| **[dataing](https://www.dataing.io/)** | **[Marketing Intern - UGC Content 💖](https://jobright.ai/jobs/info/69b0903b0b2db6275c04bdc1?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Marketing Intern opportunity](https://jobright.ai/jobs/info/69b0902c0b2db6275c04bd79?utm_campaign=1065&utm_source=git)** | Fall River, MA | On Site | Mar 10 |
 | **[Tribune Publishing Company](https://www.tribpub.com/)** | **[Advertising Intern](https://jobright.ai/jobs/info/69b09020dfaeda6ff59aa61f?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Mar 10 |
 | **[Ardmore Roderick](http://www.ardmoreroderick.com/)** | **[Marketing and Communications Intern-2601100JKI02](https://jobright.ai/jobs/info/69b0ac900b2db6275c050d73?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Connexity, Inc.](https://connexity.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b07298dfaeda6ff59a4a8b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 10 |
 | **[Ensono](https://www.ensono.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/69b0728a0b2db6275c046005?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 10 |
 | **[CRH](http://crh.com)** | **[Communications Intern - New York City, Onsite](https://jobright.ai/jobs/info/69b07267dfaeda6ff59a49f6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 10 |
-| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/69b07234dfaeda6ff59a49c7?utm_campaign=1065&utm_source=git)** | Carmel, IN | On Site | Mar 10 |
-| **[MINA BAIE](https://minabaie.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b07228dfaeda6ff59a49b6?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Mar 10 |
-| **[Alice Mushrooms](http://alicemushrooms.com)** | **[Social Media & Community Intern](https://jobright.ai/jobs/info/69b072090b2db6275c045ec0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 10 |
-| **[Petwello宠我点](https://www.linkedin.com/company/78137900)** | **[Chinese Social Media Digital Marketing Strategist and Content Writer Intern](https://jobright.ai/jobs/info/69b071c90b2db6275c045e6e?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 10 |
-| **[Appnovation](http://www.appnovation.com)** | **[Marketing & GTM Coordinator Co-op (April to Dec)](https://jobright.ai/jobs/info/69b0717f749500645096acec?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 10 |
-| **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Marketing & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69a786142672cb0acb4bfd66?utm_campaign=1065&utm_source=git)** | Providence County, RI | Hybrid | Mar 10 |
-| **[ITHAKA](http://www.ithaka.org)** | **[Intern, Publisher Relations](https://jobright.ai/jobs/info/697262a04ccbf64f8df25d46?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
