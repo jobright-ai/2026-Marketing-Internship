@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Essex Resort & Spa](http://www.essexresort.com)** | **[Marketing & Content Intern (Part-Time) $18/Hour](https://jobright.ai/jobs/info/69b0e7f674950064509807f1?utm_campaign=1065&utm_source=git)** | Essex Junction, VT | On Site | Mar 10 |
 | **[Henkel](http://www.henkel.com)** | **[Marketing Intern - Summer & Fall 2026](https://jobright.ai/jobs/info/69b0e47cdfaeda6ff59ba9d4?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Mar 10 |
 | **[Hyatt Vacation Ownership](https://www.hyattresidenceclub.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/69b0e2df749500645097fc1b?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Mar 10 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Social Media Content Creation Intern](https://jobright.ai/jobs/info/69b0e0eddfaeda6ff59ba6c1?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 10 |
@@ -94,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[WeSuite](http://wesuite.com/)** | **[AI Marketer Intern - USA](https://jobright.ai/jobs/info/69b0b5bf7495006450978241?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Customer Engagement Intern](https://jobright.ai/jobs/info/69b0b565749500645097807b?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Mar 10 |
 | **[Stanford Health Care Tri-Valley](https://valleycare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b0e6a9749500645098036e?utm_campaign=1065&utm_source=git)** | 3373 Hillview - Blood Ctr - PALO ALTO | On Site | Mar 10 |
+| **[Troon](http://www.troon.com/)** | **[Marketing, Social Media Intern](https://jobright.ai/jobs/info/69b0ea090b2db6275c05d637?utm_campaign=1065&utm_source=git)** | Princeton, New Jersey, United States | On Site | Mar 10 |
 | **[Schneider Electric](https://www.se.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b0b234749500645097768e?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Mar 10 |
 | ↳ | **[Monetization Order Systems Intern](https://jobright.ai/jobs/info/69b0b20b7495006450977648?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Mar 10 |
 | ↳ | **[Monetization Order Systems Intern](https://jobright.ai/jobs/info/69b0b20adfaeda6ff59b0ae3?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Mar 10 |
@@ -122,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Content Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/69b0a1c30b2db6275c04e9c0?utm_campaign=1065&utm_source=git)** | Yarmouth, ME | Hybrid | Mar 10 |
 | **[FamFluence Talent Management](https://ttpmtalent.com)** | **[Influencer Marketing Intern / Fall 2026](https://jobright.ai/jobs/info/69b09ea7749500645097494b?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 10 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b09e340b2db6275c04e0e9?utm_campaign=1065&utm_source=git)** | Opa-Locka, FL | Hybrid | Mar 10 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Communications Specialist)](https://jobright.ai/jobs/info/69b0ebc40b2db6275c05d847?utm_campaign=1065&utm_source=git)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Mar 10 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Graduate Intern, Global Medical Communications (Hybrid)](https://jobright.ai/jobs/info/69b09d6474950064509745f2?utm_campaign=1065&utm_source=git)** | Acton, MA | Hybrid | Mar 10 |
 | **[Indiana University](https://www.iu.edu)** | **[Communications Intern](https://jobright.ai/jobs/info/69b09ce9dfaeda6ff59acd01?utm_campaign=1065&utm_source=git)** | Bloomington, IN | Hybrid | Mar 10 |
 | **[ABB](https://global.abb/group/en)** | **[2026 Electrification Marketing & Sales Summer Internship](https://jobright.ai/jobs/info/69087ff7bcccf20de59d0a0f?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Social Media](https://jobright.ai/jobs/info/69b07b62dfaeda6ff59a6152?utm_campaign=1065&utm_source=git)** | Topeka, KS | Hybrid | Mar 10 |
 | **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69b07b550b2db6275c048349?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Mar 10 |
 | **[LERO](https://lero.finance)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b07b070b2db6275c04814e?utm_campaign=1065&utm_source=git)** | Aliso Viejo, CA | On Site | Mar 10 |
-| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Partner Marketing](https://jobright.ai/jobs/info/69b07ab9749500645096cb70?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
