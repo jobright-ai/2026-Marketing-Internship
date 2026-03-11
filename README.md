@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Muckleroy & Falls](https://www.muckleroyfalls.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b12d560b2db6275c064979?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 11 |
+| **[N.O.L Kids Academy](nolkidsacademy.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/69b12d2cdfaeda6ff59c3061?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Mar 11 |
+| **[AAIA - Asia America Innovation Alliance](https://www.aaiatech.org)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/69b12d12dfaeda6ff59c3001?utm_campaign=1065&utm_source=git)** | Ontario, Canada | Remote | Mar 11 |
+| **[University of Michigan](https://www.umich.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b125c1dfaeda6ff59c2021?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 11 |
+| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/69b125c1dfaeda6ff59c2023?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 11 |
+| **[Balchem Corporation](http://balchem.com)** | **[Strategic Marketing Intern](https://jobright.ai/jobs/info/699f8cfa81476f6176b93551?utm_campaign=1065&utm_source=git)** | Montvale, NJ | On Site | Mar 11 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69837a5c0f6f7e7a2cdcd9dd?utm_campaign=1065&utm_source=git)** | Montvale, NJ | On Site | Mar 11 |
+| **[University of Michigan](https://www.umich.edu)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69b12216749500645098759a?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Communications Specialist)](https://jobright.ai/jobs/info/69b114e4dfaeda6ff59c05df?utm_campaign=1065&utm_source=git)** | Pensacola, FL | On Site | Mar 11 |
-| **[Colorstech Solar](http://www.colorstech.net)** | **[On- line Marketing - Intern Solar - Equipment](https://jobright.ai/jobs/info/69b1140e0b2db6275c061f06?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 11 |
 | **[Crave 8 Agency](https://www.crave8agency.com/)** | **[Marketing and PR Internship](https://jobright.ai/jobs/info/69b10835dfaeda6ff59beee9?utm_campaign=1065&utm_source=git)** | Carrollton, TX | Hybrid | Mar 10 |
 | **[Kahn Media](http://kahnmedia.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69b1040d0b2db6275c05fd46?utm_campaign=1065&utm_source=git)** | Moorpark, CA | On Site | Mar 10 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69b103e10b2db6275c05fc97?utm_campaign=1065&utm_source=git)** | Moorpark, CA | On Site | Mar 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ardmore Roderick](http://www.ardmoreroderick.com/)** | **[Marketing and Communications Intern-2601100JKI02](https://jobright.ai/jobs/info/69b0ac900b2db6275c050d73?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 10 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Advertising Intern](https://jobright.ai/jobs/info/69b0e552dfaeda6ff59bab6a?utm_campaign=1065&utm_source=git)** | Orlando, Florida | Hybrid | Mar 10 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Brand & Field Medical Marketing Intern – Patient Initiatives](https://jobright.ai/jobs/info/69b0e555dfaeda6ff59bab88?utm_campaign=1065&utm_source=git)** | US CA San Diego | On Site | Mar 10 |
-| **[Valsoft Corporation](http://www.valsoftcorp.com)** | **[AI Marketer Intern - USA](https://jobright.ai/jobs/info/69b103a20b2db6275c05fc13?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 10 |
-| ↳ | **[AI Marketer Intern - Canada](https://jobright.ai/jobs/info/69b0afc374950064509773de?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 10 |
-| **[Transcarent](https://www.transcarent.com)** | **[Content and Social Media Intern](https://jobright.ai/jobs/info/69b0876d749500645096f9ef?utm_campaign=1065&utm_source=git)** | US - Remote | Remote | Mar 10 |
-| **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Market Development](https://jobright.ai/jobs/info/69b0862edfaeda6ff59a897a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | On Site | Mar 10 |
-| **[Electra.aero](https://www.electra.aero)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b0855b0b2db6275c049ec5?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | Mar 10 |
-| **[USA Water Polo](https://usawaterpolo.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b084e90b2db6275c049c30?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Mar 10 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/69b084e9dfaeda6ff59a8672?utm_campaign=1065&utm_source=git)** | United States of America-Alabama -VanceWork Locations | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
