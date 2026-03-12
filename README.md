@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - Study Abroad Marketing and Recruitment Assistant](https://jobright.ai/jobs/info/69b24724a8ac8e70ff6618d0?utm_campaign=1065&utm_source=git)** | Orem, UT | On Site | Mar 11 |
+| **[ITW](http://www.itw.com/)** | **[Marketing Intern (Undergraduate)](https://jobright.ai/jobs/info/69b24f7eae2a534885e940af?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 11 |
+| **[ITW Performance Polymers](https://itwperformancepolymers.com)** | **[Marketing Co-Op Intern](https://jobright.ai/jobs/info/69b24ee5a8ac8e70ff662154?utm_campaign=1065&utm_source=git)** | Danvers, MA | On Site | Mar 11 |
 | **[Utopia Apps](https://www.linkedin.com/company/110144042)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b24612ad360c0340a6ffa7?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Xyra](https://www.linkedin.com/company/110134077)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/69b245b5ae2a534885e937b6?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Mar 11 |
 | **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69b23be7a8ac8e70ff661034?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 11 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Public Relations Intern for Festival Season In LA](https://jobright.ai/jobs/info/69b20732d04c69566c74ac1a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 11 |
 | **[Diligent](http://diligent.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69b204ef548f140066e83454?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 11 |
 | **[Miss Circle New York](https://misscircle.com/)** | **[Fashion Marketing Intern](https://jobright.ai/jobs/info/69b2018e548f140066e8328e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 11 |
-| **[Flagstop Car Wash](https://www.flagstopcarwash.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b20053d04c69566c74a775?utm_campaign=1065&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
-| ↳ | **[Marketing & Brand Communications Intern](https://jobright.ai/jobs/info/69b20053d04c69566c74a770?utm_campaign=1065&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
+| **[Flagstop Car Wash](https://www.flagstopcarwash.com)** | **[Marketing & Brand Communications Intern](https://jobright.ai/jobs/info/69b20053d04c69566c74a770?utm_campaign=1065&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69b20053d04c69566c74a775?utm_campaign=1065&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
 | ↳ | **[Sales & Community Relations Intern](https://jobright.ai/jobs/info/69b2004f548f140066e8315f?utm_campaign=1065&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Corporate Communications](https://jobright.ai/jobs/info/69b1ff35548f140066e82ffb?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Mar 11 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Marketing Technology and Research/Insights Intern - MD, DC, VA (Hybrid)](https://jobright.ai/jobs/info/69b1ff08d04c69566c74a5ef?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Briggs & Stratton](http://www.briggsandstratton.com/us/en)** | **[Intern - Corporate Communications - Summer 2026](https://jobright.ai/jobs/info/69b1d138548f140066e7b10d?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Mar 11 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer 2026 MA Office of Travel and Tourism Intern](https://jobright.ai/jobs/info/69b1ff2965de58104c716ef0?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Mar 11 |
 | **[Method](https://methodfi.com)** | **[Growth Hacker MBA Intern](https://jobright.ai/jobs/info/69b1d104d04c69566c742761?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 11 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 MA Office of Travel and Tourism Intern](https://jobright.ai/jobs/info/69b1ff2a65de58104c716ef1?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
