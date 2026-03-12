@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wangard Partners](https://www.wangard.com/)** | **[Intern - Digital Creative Marketing](https://jobright.ai/jobs/info/69b2a8b0ad360c0340a790ff?utm_campaign=1065&utm_source=git)** | Wauwatosa, WI | On Site | Mar 12 |
+| **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69967b1f81476f6176ae5294?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 12 |
+| **[Legends Global](http://legends.net)** | **[Merchandise Internship 2026: Indianapolis Motor Speedway](https://jobright.ai/jobs/info/69433858dd382f5f56692dca?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Mar 12 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Social Media & Community Management Intern](https://jobright.ai/jobs/info/69b2a507a8ac8e70ff66a8a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Aircall](https://aircall.io/)** | **[Regional Marketing Intern, LATAM (12 months)](https://jobright.ai/jobs/info/6996421ece78e77b4fda3bbf?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 12 |
 | **[Everus](http://www.mducsg.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6941c06814ee092a69ffda83?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Mar 12 |
@@ -116,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Dave & Buster's Inc.](http://www.daveandbusters.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b225c8548f140066e8631b?utm_campaign=1065&utm_source=git)** | Coppell, TX | Hybrid | Mar 11 |
 | **[Privia Health](http://www.priviahealth.com)** | **[Growth Operations Intern (2027 Grads)](https://jobright.ai/jobs/info/699644c2ce78e77b4fda3fcd?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 11 |
 | **[International Institute of New England](https://iine.org/)** | **[Language Services, Nonprofits Administration Internship](https://jobright.ai/jobs/info/69b222e7548f140066e85e2c?utm_campaign=1065&utm_source=git)** | Manchester, NH | On Site | Mar 11 |
-| **[VC Solutions](www.vc-solutions.net)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b222ba65de58104c7195be?utm_campaign=1065&utm_source=git)** | Tampa, FL | Remote | Mar 11 |
+| **[VCS](www.vc-solutions.net)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b222ba65de58104c7195be?utm_campaign=1065&utm_source=git)** | Tampa, FL | Remote | Mar 11 |
 | **[Stantec](http://www.stantec.com)** | **[Employee Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/69b22276548f140066e85dbf?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 11 |
 | **[OakBend Medical Center](https://www.oakbendmedcenter.org)** | **[Marketing Intern - Administration - Full Time (Summer 2026)](https://jobright.ai/jobs/info/69b21dec65de58104c7193b4?utm_campaign=1065&utm_source=git)** | US-TX-Richmond | On Site | Mar 11 |
 | **[Outlyr](http://eigermarketing.com/)** | **[BITE Food Festival Event Intern](https://jobright.ai/jobs/info/69b23e4cae2a534885e93010?utm_campaign=1065&utm_source=git)** | Arkansas, United States | On Site | Mar 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Corporate Services](https://jobright.ai/jobs/info/69b1ff0365de58104c716e13?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Mar 11 |
 | **[Northward Partners](www.northwardpartners.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b1fefc548f140066e82f78?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 11 |
 | **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69b1fb85548f140066e828dc?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 11 |
-| **[Priority Health](http://www.priorityhealth.com/)** | **[Community Relations Event Intern](https://jobright.ai/jobs/info/69b1fb2865de58104c71673e?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Mar 11 |
-| **[HORMBLES CHORMBLES](https://hormbles.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b1fadad04c69566c749e0f?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Mar 11 |
-| **[ITW](http://www.itw.com/)** | **[Marketing Co-Op Intern](https://jobright.ai/jobs/info/69b1fab4548f140066e8273c?utm_campaign=1065&utm_source=git)** | Danvers - 01923 | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
