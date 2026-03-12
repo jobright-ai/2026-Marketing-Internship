@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lansinoh Laboratories](http://lansinoh.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b27394ad360c0340a74c15?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Mar 12 |
+| **[Xeris Pharmaceuticals, Inc.](http://xerispharma.com)** | **[Medical Communications Intern](https://jobright.ai/jobs/info/69b28237a8ac8e70ff667f61?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
+| **[D.C. United](http://dcunited.com)** | **[Intern- Social Media Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2817dae2a534885e99f4e?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 12 |
+| **[CouponDonation](http://www.coupondonation.com)** | **[Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/69b27de8ad360c0340a7599b?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 12 |
+| **[Aristocrat Interactive](https://aristocratinteractive.com/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/69b27d2aae2a534885e9993a?utm_campaign=1065&utm_source=git)** | Bedford, NH | On Site | Mar 12 |
+| **[University of Michigan](https://www.umich.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b2771aad360c0340a754e3?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 12 |
+| ↳ | **[Employee Communications Intern](https://jobright.ai/jobs/info/69b2768bae2a534885e99201?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 12 |
+| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/69b27681ae2a534885e991dc?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 12 |
 | **[Zach Nunn for Congress](zachnunn.com)** | **[Campaign Internship](https://jobright.ai/jobs/info/69b2707dae2a534885e984fe?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | On Site | Mar 12 |
 | **[Wangard Partners](https://www.wangard.com/)** | **[Intern - Digital Creative Marketing](https://jobright.ai/jobs/info/69b26a3aad360c0340a7333c?utm_campaign=1065&utm_source=git)** | Wauwatosa, Wisconsin | On Site | Mar 12 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Copy Writer Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6981036f7f40342e15d9dd01?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 12 |
@@ -92,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Lansinoh Laboratories](http://lansinoh.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b21c1b548f140066e858de?utm_campaign=1065&utm_source=git)** | Alexandria,VA,US | On Site | Mar 11 |
 | **[Method](https://methodfi.com)** | **[Growth Hacker MBA Intern](https://jobright.ai/jobs/info/69b21a4cd04c69566c74c6cd?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 11 |
 | **[RUKUS AVENUE Music Group](https://www.rukusavenue.com)** | **[Media Intern(Operations & Management)](https://jobright.ai/jobs/info/69b2172565de58104c71829a?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Mar 11 |
-| **[Tenpo](www.jointenpo.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b216ff548f140066e846be?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 11 |
 | **[Utah Community Credit Union (UCCU)](http://www.uccu.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b21651d04c69566c74b89a?utm_campaign=1065&utm_source=git)** | Provo, Utah, United States | On Site | Mar 11 |
 | **[Skechers](http://www.skechers.com)** | **[Digital Content Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2162b65de58104c718181?utm_campaign=1065&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 11 |
 | **[TRG Management Company](https://trgmanagementcompany.com)** | **[Marketing Intern - TRGM](https://jobright.ai/jobs/info/69b21550548f140066e841f0?utm_campaign=1065&utm_source=git)** | Weston, Florida, United States | On Site | Mar 11 |
@@ -112,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Public Relations Intern for Festival Season In LA](https://jobright.ai/jobs/info/69b20732d04c69566c74ac1a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 11 |
 | **[Diligent](http://diligent.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69b204ef548f140066e83454?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 11 |
 | **[Miss Circle New York](https://misscircle.com/)** | **[Fashion Marketing Intern](https://jobright.ai/jobs/info/69b2018e548f140066e8328e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 11 |
-| **[Flagstop Car Wash](https://www.flagstopcarwash.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b20053d04c69566c74a775?utm_campaign=1065&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
-| ↳ | **[Marketing & Brand Communications Intern](https://jobright.ai/jobs/info/69b20053d04c69566c74a770?utm_campaign=1065&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
+| **[Flagstop Car Wash](https://www.flagstopcarwash.com)** | **[Marketing & Brand Communications Intern](https://jobright.ai/jobs/info/69b20053d04c69566c74a770?utm_campaign=1065&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69b20053d04c69566c74a775?utm_campaign=1065&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
 | ↳ | **[Sales & Community Relations Intern](https://jobright.ai/jobs/info/69b2004f548f140066e8315f?utm_campaign=1065&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Corporate Communications](https://jobright.ai/jobs/info/69b1ff35548f140066e82ffb?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Mar 11 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Marketing Technology and Research/Insights Intern - MD, DC, VA (Hybrid)](https://jobright.ai/jobs/info/69b1ff08d04c69566c74a5ef?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Mar 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Coca-Cola Bottling Company](https://www.atlanticbottling.com)** | **[Summer Marketing Internship - Des Moines, IA](https://jobright.ai/jobs/info/69b20043d04c69566c74a747?utm_campaign=1065&utm_source=git)** | Des Moines Branch - Des Moines, IA 50321 | On Site | Mar 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Talent Relatons - Part Time](https://jobright.ai/jobs/info/69b1db26548f140066e7cc57?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 11 |
 | **[Newcomb & Boyd, LLP](http://www.newcomb-boyd.com)** | **[Marketing Co-op](https://jobright.ai/jobs/info/69a758f72672cb0acb4bcb62?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 11 |
-| **[Dave & Buster's Inc.](http://www.daveandbusters.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b1fa7b548f140066e82636?utm_campaign=1065&utm_source=git)** | Coppell, TX (Corporate) | Hybrid | Mar 11 |
-| **[ITW](http://www.itw.com/)** | **[Marketing Intern (Undergraduate)](https://jobright.ai/jobs/info/69b1fa8165de58104c71649a?utm_campaign=1065&utm_source=git)** | Houston - 77084 | On Site | Mar 11 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Dissident Project Intern  - Young Voices](https://jobright.ai/jobs/info/69b1d74265de58104c710091?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 11 |
-| **[GMMB](http://gmmb.com)** | **[Digital Strategy - Summer Internship 2026, Washington, DC](https://jobright.ai/jobs/info/69b1d696d04c69566c743735?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 11 |
-| **[Northeast Shared Services](https://www.northeastgrocery.com/)** | **[ECommerce Intern](https://jobright.ai/jobs/info/69b1d68e548f140066e7bfc5?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
