@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lansinoh Laboratories](http://lansinoh.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b27394ad360c0340a74c15?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Mar 12 |
+| **[Zach Nunn for Congress](zachnunn.com)** | **[Campaign Internship](https://jobright.ai/jobs/info/69b2707dae2a534885e984fe?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | On Site | Mar 12 |
 | **[Wangard Partners](https://www.wangard.com/)** | **[Intern - Digital Creative Marketing](https://jobright.ai/jobs/info/69b26a3aad360c0340a7333c?utm_campaign=1065&utm_source=git)** | Wauwatosa, Wisconsin | On Site | Mar 12 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Copy Writer Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6981036f7f40342e15d9dd01?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Join Pomegranate](https://joinpomegranate.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b25f44ae2a534885e9641a?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Dissident Project Intern  - Young Voices](https://jobright.ai/jobs/info/69b1d74265de58104c710091?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 11 |
 | **[GMMB](http://gmmb.com)** | **[Digital Strategy - Summer Internship 2026, Washington, DC](https://jobright.ai/jobs/info/69b1d696d04c69566c743735?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 11 |
 | **[Northeast Shared Services](https://www.northeastgrocery.com/)** | **[ECommerce Intern](https://jobright.ai/jobs/info/69b1d68e548f140066e7bfc5?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Mar 11 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Celebrity PR Spring Internship](https://jobright.ai/jobs/info/69b1f61065de58104c715efb?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Mar 11 |
-| **[Apex Tool Group, LLC](http://www.apextoolgroup.com/)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69b1d5be65de58104c70fe5d?utm_campaign=1065&utm_source=git)** | Lexington, SC | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
