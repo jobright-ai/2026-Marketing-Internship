@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aureole Jewelry](https://aureolejewelry.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b3aa4ea8ac8e70ff67f6f5?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Mar 12 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69b39d23ad360c0340a8c5a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 12 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Corporate Services](https://jobright.ai/jobs/info/69b396cfae2a534885eafcf3?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Mar 12 |
 | **[Virtual Starlight](https://virtualstarlight.com/)** | **[Remote Digital Marketing Intern (SEO, Lead Generation & Social Media)](https://jobright.ai/jobs/info/69b38bd4ae2a534885eaf5e8?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | Mar 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Copywriting Intern](https://jobright.ai/jobs/info/6996427ece78e77b4fda3c6b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Summer Intern, Product Marketing](https://jobright.ai/jobs/info/69b318a9a8ac8e70ff67350a?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Mar 12 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Content Marketing](https://jobright.ai/jobs/info/69b338f5ae2a534885eaa1d1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
-| **[Lucky Brand](http://luckybrand.com)** | **[Intern - Lucky Brand: Merchandising](https://jobright.ai/jobs/info/69b339c5a8ac8e70ff677c81?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
