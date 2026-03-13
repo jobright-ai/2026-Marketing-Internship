@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virtual Starlight](https://virtualstarlight.com/)** | **[Remote Digital Marketing Intern (SEO, Lead Generation & Social Media)](https://jobright.ai/jobs/info/69b38bd4ae2a534885eaf5e8?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | Mar 12 |
 | **[Logitech](https://www.logitech.com)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69b3852ea8ac8e70ff67c8f8?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 12 |
 | **[Volo Sports](https://www.volosports.com)** | **[Summer Sports Management and Marketing Internship](https://jobright.ai/jobs/info/69b38111a8ac8e70ff67c702?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Mar 12 |
 | **[City of Fate](https://www.fatetx.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/69b37e73ad360c0340a8a73f?utm_campaign=1065&utm_source=git)** | Fate, TX | On Site | Mar 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Marketing, Communications](https://jobright.ai/jobs/info/69b335f4ae2a534885ea9f07?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Mar 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Web & SEO Specialist Intern](https://jobright.ai/jobs/info/69b334bca8ac8e70ff67748d?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Mar 12 |
 | ↳ | **[Fall 2026 Internship - Event Planning/Marketing Intern](https://jobright.ai/jobs/info/69b334bca8ac8e70ff677487?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Mar 12 |
-| ↳ | **[Fall 2026 Internship - Remote Digital Marketing/Social Media](https://jobright.ai/jobs/info/69b334bca8ac8e70ff677489?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
