@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship -  Media Planning, Paid Search](https://jobright.ai/jobs/info/699789be81476f6176af9f61?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 13 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69b4266a06c1ba00c5455e15?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 13 |
+| **[Minitab](http://www.minitab.com/en-us/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/697c14eb1136d179eeefbd89?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Equine Marketing Intern](https://jobright.ai/jobs/info/68c7c26af42a830e1c7e7587?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Mar 13 |
+| **[Samsung SDS America](http://www.samsungsds.com/us/)** | **[2026 Internship Market Research and Business Development](https://jobright.ai/jobs/info/69b422813b74eb1e2c8137e7?utm_campaign=1065&utm_source=git)** | Ridgefield Park, NJ | Hybrid | Mar 13 |
+| **[Continental](https://www.continental.com)** | **[2026 Internship - Events Planning](https://jobright.ai/jobs/info/69b421d906c1ba00c5455972?utm_campaign=1065&utm_source=git)** | 65465 IN-931, Lakeville, IN 46536, USA | Hybrid | Mar 13 |
+| **[DogiZone](https://www.dogizone.com/)** | **[Media & Marketing Intern](https://jobright.ai/jobs/info/69b41ef63b74eb1e2c812c74?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Mar 13 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Marketing Intern](https://jobright.ai/jobs/info/697c0a8e1136d179eeefad0b?utm_campaign=1065&utm_source=git)** | Strongsville, OH | On Site | Mar 13 |
 | **[EBSCO Information Services](https://www.ebsco.com)** | **[Multimedia Marketing Intern](https://jobright.ai/jobs/info/697be2e70b88cc7d6422c62c?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing (Social Media Focused) Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943693ddd382f5f56697424?utm_campaign=1065&utm_source=git)** | Portsmouth, VA | On Site | Mar 13 |
@@ -104,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69b3ca85ad360c0340a8eca6?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 13 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69b3c646ad360c0340a8e5ff?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Mar 13 |
 | **[Trybl - Find Yours](https://www.tribly.us/)** | **[Growth Intern](https://jobright.ai/jobs/info/69b40a7306c1ba00c5452db6?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 12 |
-| **[Digi International](https://www.digi.com)** | **[Intern, Marketing, SmartSense (Boston, MA or Remote)](https://jobright.ai/jobs/info/69b3e2523b74eb1e2c80e72a?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | Remote | Mar 12 |
-| ↳ | **[Marketing Intern, Infrastructure Mgmt (Hopkins, MN)](https://jobright.ai/jobs/info/69b3cb0bae2a534885eb340f?utm_campaign=1065&utm_source=git)** | Hopkins, Minnesota, United States | On Site | Mar 12 |
+| **[Digi International](https://www.digi.com)** | **[Marketing Intern, Infrastructure Mgmt (Hopkins, MN)](https://jobright.ai/jobs/info/69b3cb0bae2a534885eb340f?utm_campaign=1065&utm_source=git)** | Hopkins, Minnesota, United States | On Site | Mar 12 |
+| ↳ | **[Intern, Marketing, SmartSense (Boston, MA or Remote)](https://jobright.ai/jobs/info/69b3e2523b74eb1e2c80e72a?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | Remote | Mar 12 |
 | ↳ | **[Intern, Social Media Marketing, Opengear (Hopkins, MN)](https://jobright.ai/jobs/info/69b3cb0cae2a534885eb3410?utm_campaign=1065&utm_source=git)** | Hopkins, Minnesota, United States | On Site | Mar 12 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69b39d23ad360c0340a8c5a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 12 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Corporate Services](https://jobright.ai/jobs/info/69b396cfae2a534885eafcf3?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Mar 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leslie's](https://lesliespool.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69b35056ad360c0340a870e6?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 12 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b34dd4ad360c0340a86f03?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Mar 12 |
 | **[S&C Electric Company](https://www.sandc.com/en)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/69b34d4dad360c0340a86e81?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 12 |
-| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Communications Intern - Hourly - Albany](https://jobright.ai/jobs/info/69b34d16ad360c0340a86e0b?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Mar 12 |
-| **[Serigraph](http://www.serigraph.com)** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/69b34cd2ae2a534885eab0c6?utm_campaign=1065&utm_source=git)** | West Bend, WI | On Site | Mar 12 |
-| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/69b34b42a8ac8e70ff6786e9?utm_campaign=1065&utm_source=git)** | Bedford, NH | On Site | Mar 12 |
-| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Intranet & Internal Communications Intern - Hourly - Albany](https://jobright.ai/jobs/info/69b34b19ae2a534885eaafa4?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Mar 12 |
-| **[SourceReady](https://www.sourceready.com)** | **[Creative Marketing Intern (Video Content)](https://jobright.ai/jobs/info/69b34a7ba8ac8e70ff6785b6?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 12 |
-| **[The AZEK Company](https://azekco.com)** | **[Digital Marketing/SEO Intern](https://jobright.ai/jobs/info/69b3492cad360c0340a86ba5?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
-| **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Internship Events, Membership & Communication (12 months)](https://jobright.ai/jobs/info/69b34529ad360c0340a86a10?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
