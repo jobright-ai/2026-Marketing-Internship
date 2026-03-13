@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fini](https://www.usefini.com)** | **[Event Intern](https://jobright.ai/jobs/info/69b3cf83ae2a534885eb433c?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
+| **[Seattle Seahawks](http://www.seahawks.com)** | **[Communications Intern (Full Season)](https://jobright.ai/jobs/info/69b3cf6cad360c0340a8ff6f?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Mar 13 |
+| ↳ | **[International Markets Intern](https://jobright.ai/jobs/info/69b3cf68ae2a534885eb42dc?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Mar 13 |
+| ↳ | **[Digital Web Intern](https://jobright.ai/jobs/info/69b3cf5bad360c0340a8ff42?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Mar 13 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69b3cf59ae2a534885eb429d?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Mar 13 |
+| ↳ | **[Social Media Intern (Full Season)](https://jobright.ai/jobs/info/69b3cf30a8ac8e70ff6816d8?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Mar 13 |
+| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69b3cf26ae2a534885eb41b2?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 13 |
+| **[Seattle Seahawks](http://www.seahawks.com)** | **[Social Media Intern Offseason](https://jobright.ai/jobs/info/69b3cf23a8ac8e70ff6816c8?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Mar 13 |
+| **[University of Michigan](https://www.umich.edu)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69b3ca85ad360c0340a8eca6?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 13 |
+| **[Seattle Seahawks](http://www.seahawks.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69b3c646ad360c0340a8e5ff?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Mar 13 |
+| **[Digi International](https://www.digi.com)** | **[Marketing Intern, Infrastructure Mgmt (Hopkins, MN)](https://jobright.ai/jobs/info/69b3cb0bae2a534885eb340f?utm_campaign=1065&utm_source=git)** | Hopkins, Minnesota, United States | On Site | Mar 12 |
+| ↳ | **[Intern, Social Media Marketing, Opengear (Hopkins, MN)](https://jobright.ai/jobs/info/69b3cb0cae2a534885eb3410?utm_campaign=1065&utm_source=git)** | Hopkins, Minnesota, United States | On Site | Mar 12 |
 | **[Aureole Jewelry](https://aureolejewelry.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b3aa4ea8ac8e70ff67f6f5?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Mar 12 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69b39d23ad360c0340a8c5a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 12 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Corporate Services](https://jobright.ai/jobs/info/69b396cfae2a534885eafcf3?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Mar 12 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Airbnb](https://www.airbnb.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69b3277eae2a534885ea8861?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b3268fae2a534885ea8661?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 12 |
 | **[Northeast Shared Services](https://www.northeastgrocery.com/)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/69b3263ba8ac8e70ff675f77?utm_campaign=1065&utm_source=git)** | Schenectady, NY | On Site | Mar 12 |
-| **[Sikich](http://www.sikich.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69b325f7ad360c0340a845dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 12 |
-| **[Sportball](https://sportball.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b32509a8ac8e70ff675a00?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 12 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Celebrity PR SPRING Internship](https://jobright.ai/jobs/info/69b3221cad360c0340a83d61?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Mar 12 |
-| **[Care Collective](www.carecollective.help.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b320b5ad360c0340a8394b?utm_campaign=1065&utm_source=git)** | Rahway, NJ | Remote | Mar 12 |
-| **[Westburne](https://www.westburne.ca)** | **[Marketing Intern (Summer 2026 - 4 months)](https://jobright.ai/jobs/info/69b33d1ead360c0340a8651f?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 12 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b31e11ad360c0340a83394?utm_campaign=1065&utm_source=git)** | Inver Grove Heights, MN | Hybrid | Mar 12 |
-| **[Bumble Inc.](https://team.bumble.com)** | **[2026 Summer - Marketing Intern - BFF](https://jobright.ai/jobs/info/69b31d0bad360c0340a82f76?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 12 |
-| **[Highland Electric Fleets](https://highlandfleets.com)** | **[Market Development Data Intern](https://jobright.ai/jobs/info/69b31ab4ae2a534885ea68cb?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 12 |
-| **[BD](https://www.bd.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b319f7ad360c0340a82d21?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Mar 12 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Copywriting Intern](https://jobright.ai/jobs/info/6996427ece78e77b4fda3c6b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
-| **[Henry Schein](http://www.henryschein.com)** | **[Summer Intern, Product Marketing](https://jobright.ai/jobs/info/69b318a9a8ac8e70ff67350a?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Mar 12 |
-| **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Content Marketing](https://jobright.ai/jobs/info/69b338f5ae2a534885eaa1d1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
