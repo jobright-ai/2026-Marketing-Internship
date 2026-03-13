@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69b39d23ad360c0340a8c5a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 12 |
+| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Corporate Services](https://jobright.ai/jobs/info/69b396cfae2a534885eafcf3?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Mar 12 |
 | **[Virtual Starlight](https://virtualstarlight.com/)** | **[Remote Digital Marketing Intern (SEO, Lead Generation & Social Media)](https://jobright.ai/jobs/info/69b38bd4ae2a534885eaf5e8?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | Mar 12 |
 | **[Logitech](https://www.logitech.com)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69b3852ea8ac8e70ff67c8f8?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 12 |
 | **[Volo Sports](https://www.volosports.com)** | **[Summer Sports Management and Marketing Internship](https://jobright.ai/jobs/info/69b38111a8ac8e70ff67c702?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Mar 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Content Marketing](https://jobright.ai/jobs/info/69b338f5ae2a534885eaa1d1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 | **[Lucky Brand](http://luckybrand.com)** | **[Intern - Lucky Brand: Merchandising](https://jobright.ai/jobs/info/69b339c5a8ac8e70ff677c81?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Marketing, Communications](https://jobright.ai/jobs/info/69b335f4ae2a534885ea9f07?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Mar 12 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Web & SEO Specialist Intern](https://jobright.ai/jobs/info/69b334bca8ac8e70ff67748d?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Mar 12 |
-| ↳ | **[Fall 2026 Internship - Event Planning/Marketing Intern](https://jobright.ai/jobs/info/69b334bca8ac8e70ff677487?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
