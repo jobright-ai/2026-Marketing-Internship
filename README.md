@@ -76,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Grassroots Marketing Internship - Boston Area](https://jobright.ai/jobs/info/69b37649ad360c0340a89c40?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Mar 12 |
 | ↳ | **[Grassroots Marketing Internship - Long Island](https://jobright.ai/jobs/info/69b3761aae2a534885eae186?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | ↳ | **[Grassroots Marketing Internship - Philadelphia Area](https://jobright.ai/jobs/info/69b37610ae2a534885eae161?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
+| **[Wellspring Living](https://wellspringliving.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69b3a2edad360c0340a8ce75?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[AbilityFirst](https://www.abilityfirst.org)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/69b37357a8ac8e70ff67b9aa?utm_campaign=1065&utm_source=git)** | Pasadena, CA | On Site | Mar 12 |
 | **[University of Notre Dame](https://www.nd.edu/)** | **[Digital Marketing Assistant – Student Position (Summer 2026, Remote)](https://jobright.ai/jobs/info/69b37083ae2a534885eaddb3?utm_campaign=1065&utm_source=git)** | Notre Dame, IN | Remote | Mar 12 |
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/699fde1881476f6176b99859?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henry Schein](http://www.henryschein.com)** | **[Summer Intern, Product Marketing](https://jobright.ai/jobs/info/69b318a9a8ac8e70ff67350a?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Mar 12 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Content Marketing](https://jobright.ai/jobs/info/69b338f5ae2a534885eaa1d1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 | **[Lucky Brand](http://luckybrand.com)** | **[Intern - Lucky Brand: Merchandising](https://jobright.ai/jobs/info/69b339c5a8ac8e70ff677c81?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
-| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Marketing, Communications](https://jobright.ai/jobs/info/69b335f4ae2a534885ea9f07?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
