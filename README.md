@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/699fde1881476f6176b99859?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 12 |
+| **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Brand Marketing Social Media Manager Intern](https://jobright.ai/jobs/info/69b36cdda8ac8e70ff67b1d4?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ  (Hybrid) | Hybrid | Mar 12 |
+| **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Commercial Operations Communications](https://jobright.ai/jobs/info/69b36ba3ad360c0340a8929b?utm_campaign=1065&utm_source=git)** | Foster City, CA | On Site | Mar 12 |
+| **[Hyatt](http://www.hyatt.com/)** | **[Intern, Field Marketing (Remote Opportunity)](https://jobright.ai/jobs/info/69b36b9bad360c0340a8927e?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Mar 12 |
+| ↳ | **[Paid Media Intern](https://jobright.ai/jobs/info/69b36a71a8ac8e70ff67ab0d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Business Engagement and Communications Intern - Information Technology Div.](https://jobright.ai/jobs/info/69b36a6ea8ac8e70ff67aaee?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 12 |
 | **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[Golf Social Society Intern](https://jobright.ai/jobs/info/69b367adae2a534885eac343?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Mar 12 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Total Rewards (Summer 2026)](https://jobright.ai/jobs/info/69b365c4ae2a534885eac00d?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 12 |
 | ↳ | **[Internship, Residential Energy Growth & Marketing (Summer 2026)](https://jobright.ai/jobs/info/69b364f1a8ac8e70ff6796bf?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Mar 12 |
@@ -136,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship - Communications (PR) Specialist Intern](https://jobright.ai/jobs/info/69b334ebae2a534885ea9c29?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Mar 12 |
 | ↳ | **[Fall 2026 Internship- Remote Influencer Assistant](https://jobright.ai/jobs/info/69b334f5ae2a534885ea9c59?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Mar 12 |
 | **[Black Writers Weekend](https://blackwritersweekend.com/)** | **[Social Media Strategist Intern](https://jobright.ai/jobs/info/69b335d5ad360c0340a85cbc?utm_campaign=1065&utm_source=git)** | Smyrna, GA | Remote | Mar 12 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Hybrid Digital Marketing Intern](https://jobright.ai/jobs/info/69b334e1ae2a534885ea9c03?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Mar 12 |
-| ↳ | **[Fall 2026 Internship - Onsite Digital Marketing Intern](https://jobright.ai/jobs/info/69b334b4ad360c0340a858a2?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Onsite Digital Marketing Intern](https://jobright.ai/jobs/info/69b334b4ad360c0340a858a2?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
+| ↳ | **[Fall 2026 Internship - Hybrid Digital Marketing Intern](https://jobright.ai/jobs/info/69b334e1ae2a534885ea9c03?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Mar 12 |
 | **[Salvi](https://www.salvimedia.com/)** | **[Social Media Management Intern](https://jobright.ai/jobs/info/69b314b8ae2a534885ea5765?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Account Management Intern](https://jobright.ai/jobs/info/69965b0881476f6176ae2834?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 | **[Northeast Shared Services](https://www.northeastgrocery.com/)** | **[Merchandising Services Intern](https://jobright.ai/jobs/info/69b33597ad360c0340a85bb5?utm_campaign=1065&utm_source=git)** | Schenectady, NY | On Site | Mar 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Public Relations & Communications Intern](https://jobright.ai/jobs/info/69b30cd7ae2a534885ea5372?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Mar 12 |
 | **[Prevea Health](https://www.prevea.com/)** | **[Marketing Internship Temporary](https://jobright.ai/jobs/info/69b30ca2a8ac8e70ff672f5a?utm_campaign=1065&utm_source=git)** | Green Bay, WI | On Site | Mar 12 |
 | **[W.W. Reynolds Foundation](www.wwreynoldsfoundation.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b30c5da8ac8e70ff672ef7?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Mar 12 |
-| **[Schneider Electric](https://www.se.com)** | **[Marketing and Events Coordination Intern](https://jobright.ai/jobs/info/69b30c39a8ac8e70ff672ea1?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 12 |
-| **[Caliber Corporate Advisers](http://calibercorporate.com/)** | **[Summer Graduate Associate](https://jobright.ai/jobs/info/69b30c31a8ac8e70ff672e8d?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 12 |
-| **[HDR](http://www.hdrinc.com)** | **[Marketing Services Intern- Visual Media](https://jobright.ai/jobs/info/69b30c23a8ac8e70ff672e6f?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Mar 12 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Livability Intern](https://jobright.ai/jobs/info/693248f7a0dde7020e2e5345?utm_campaign=1065&utm_source=git)** | Anchorage, AK | Hybrid | Mar 12 |
-| **[Northeast Shared Services](https://www.northeastgrocery.com/)** | **[Market Research & Analytics Intern](https://jobright.ai/jobs/info/69b330d0a8ac8e70ff6772af?utm_campaign=1065&utm_source=git)** | Schenectady, NY | On Site | Mar 12 |
-| **[APEX Public Relations](http://apexpr.com/)** | **[Influencer Intern](https://jobright.ai/jobs/info/69b331c1ae2a534885ea99cc?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
