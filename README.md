@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b5de0106c1ba00c547c782?utm_campaign=1065&utm_source=git)** | Santa Rosa, CA | On Site | Mar 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/69b5d49656973837413b3186?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
 | **[Fengate Asset Management](https://fengate.com/businesses/private-equity/)** | **[Intern, Venture Capital](https://jobright.ai/jobs/info/69b5d17d06c1ba00c547bd39?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 14 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Marketing Internship (unpaid)](https://jobright.ai/jobs/info/69b5ce4d56973837413b2e93?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Mar 14 |
@@ -65,8 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Elara Immigration](elaraimm.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b5cc8e3b74eb1e2c8399dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/69b5cb8e56973837413b2cd8?utm_campaign=1065&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Retention Marketing Intern](https://jobright.ai/jobs/info/69b5cb8506c1ba00c547bac9?utm_campaign=1065&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 14 |
-| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69b5caf306c1ba00c547ba85?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
-| **[REVOLVE](https://www.revolve.com/)** | **[Retention Marketing Intern](https://jobright.ai/jobs/info/69b5c6f13b74eb1e2c8397ec?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
+| ↳ | **[Retention Marketing Intern](https://jobright.ai/jobs/info/69b5c6f13b74eb1e2c8397ec?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Direct Marketing Internship - Hilton Head Island](https://jobright.ai/jobs/info/69b5c4cd06c1ba00c547b969?utm_campaign=1065&utm_source=git)** | Hilton Head Island, SC | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/69b5c35606c1ba00c547b90a?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Communications Internship (Summer 2026)](https://jobright.ai/jobs/info/69b5c1da56973837413b2b31?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 14 |
@@ -103,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[SHI International Corp.](http://www.shi.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69b557f03b74eb1e2c82e553?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 14 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436a0c94730b73987682c9?utm_campaign=1065&utm_source=git)** | Portsmouth, VA | On Site | Mar 14 |
 | **[Exiger](http://www.exiger.com)** | **[Marketing Automation & AI Enablement Intern (Summer 2026)](https://jobright.ai/jobs/info/6961b576a112b40266104602?utm_campaign=1065&utm_source=git)** | McLean, VA | Hybrid | Mar 14 |
-| **[MHG Events](https://www.maschospitalitygroup.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69b54d383b74eb1e2c82e28d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
 | **[Smith & Associates](http://www.smithweb.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/697cfd6b3f57a3356966b5c4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 14 |
 | **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Mar 14 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Workplace Support Ambassador Intern - Summer 2026](https://jobright.ai/jobs/info/6945de8563141d1884557dec?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Mar 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Marketing](https://jobright.ai/jobs/info/69b4c3583b74eb1e2c822225?utm_campaign=1065&utm_source=git)** | Van Nuys, CA, US | On Site | Mar 13 |
 | **[Loblaw Companies Limited](http://www.loblaw.ca/en.html)** | **[Promo Analyst - Co-op Student](https://jobright.ai/jobs/info/69b4c2fa06c1ba00c546413a?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Mar 13 |
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4dd4806c1ba00c54667c1?utm_campaign=1065&utm_source=git)** | Gillette, WY | On Site | Mar 13 |
+| **[Stantec](http://www.stantec.com)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69b4bdfd06c1ba00c54632f0?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
