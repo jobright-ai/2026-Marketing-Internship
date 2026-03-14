@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cb9400ba798c1a501d1fed?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 14 |
+| **[Common Cause](http://www.commoncause.org/)** | **[Minnesota Internship](https://jobright.ai/jobs/info/69b52e3856973837413a5dc0?utm_campaign=1065&utm_source=git)** | St. Paul, MN | Hybrid | Mar 14 |
+| **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69956b1cce78e77b4fd9982b?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 14 |
+| ↳ | **[Marketing Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/698fdb590cc8ea15f1da71ee?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 14 |
+| ↳ | **[Channel Marketing Intern - Data & Strategy (Summer 2026)](https://jobright.ai/jobs/info/69957401e0bddb6acac40979?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 14 |
 | **[Nasuni](https://www.nasuni.com)** | **[Communications & Customer Advocacy Intern](https://jobright.ai/jobs/info/69b5267506c1ba00c546ea06?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 14 |
 | **[PetIQ](https://petiq.com)** | **[Social Strategy Intern](https://jobright.ai/jobs/info/69b523ca06c1ba00c546e6a9?utm_campaign=1065&utm_source=git)** | Eagle, ID | On Site | Mar 14 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Client Solutions Intern](https://jobright.ai/jobs/info/698f84d96ea51a7610f1dff3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
@@ -105,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern, Communications](https://jobright.ai/jobs/info/69b4ad825697383741398b49?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 | **[F5](https://www.f5.com)** | **[Product Marketing Internship for AI (Seattle)](https://jobright.ai/jobs/info/69b4ca873b74eb1e2c82269b?utm_campaign=1065&utm_source=git)** | Seattle | Hybrid | Mar 13 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Marketing](https://jobright.ai/jobs/info/69b4c4b5569738374139b59d?utm_campaign=1065&utm_source=git)** | US-CA-Van Nuys | On Site | Mar 13 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Growth Strategy Intern](https://jobright.ai/jobs/info/69b4c32d06c1ba00c54641a7?utm_campaign=1065&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
-| ↳ | **[Growth Strategy Intern](https://jobright.ai/jobs/info/69b4c4a6569738374139b51a?utm_campaign=1065&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Growth Strategy Intern](https://jobright.ai/jobs/info/69b4c4a6569738374139b51a?utm_campaign=1065&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
+| ↳ | **[Growth Strategy Intern](https://jobright.ai/jobs/info/69b4c32d06c1ba00c54641a7?utm_campaign=1065&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
 | **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4c437569738374139b465?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Mar 13 |
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4c25d06c1ba00c546405a?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Mar 13 |
 | **[quarkbooker](https://quarkbooker.com)** | **[Marketing Intern (Content, Social Media & UGC)](https://jobright.ai/jobs/info/69b4c24206c1ba00c546403d?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Mar 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CAMPUS USA Credit Union](http://campuscu.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b480473b74eb1e2c81db85?utm_campaign=1065&utm_source=git)** | Empower Park - Jonesville, FL 32669 | On Site | Mar 13 |
 | **[Green Bay Packers](http://www.packers.com/)** | **[Digital Marketing and Analytics Intern](https://jobright.ai/jobs/info/69b47f5d5697383741396134?utm_campaign=1065&utm_source=git)** | 1265 Lombardi Ave, Green Bay, WI 54304, USA | On Site | Mar 13 |
 | **[Summit Area YMCA](https://www.thesay.org)** | **[Marketing Intern (Seasonal)](https://jobright.ai/jobs/info/69b47e1006c1ba00c545f717?utm_campaign=1065&utm_source=git)** | Summit, NJ | On Site | Mar 13 |
-| **[Motom](https://www.motom.me)** | **[Affiliate & Influencer Marketing Summer Internship (Paid)](https://jobright.ai/jobs/info/69b47de15697383741395cd7?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 13 |
-| ↳ | **[Marketing Analytics Summer Internship (Paid)](https://jobright.ai/jobs/info/69b47d4a3b74eb1e2c81d4e0?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 13 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69b47d375697383741395acd?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 13 |
-| **[Highline Warren](https://highlinewarren.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69b47d1e5697383741395a89?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
-| **[IBM](http://www.ibm.com)** | **[IBV thought leadership producer intern](https://jobright.ai/jobs/info/69b47cb7569738374139599b?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
