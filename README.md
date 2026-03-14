@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BD](https://www.bd.com)** | **[Surgical Solutions Marketing Intern](https://jobright.ai/jobs/info/69b5b2833b74eb1e2c8380a1?utm_campaign=1065&utm_source=git)** | Vernon Hills, IL | Hybrid | Mar 14 |
+| ↳ | **[Marketing Intern (Vascular)](https://jobright.ai/jobs/info/69b5b2823b74eb1e2c83809b?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Mar 14 |
+| **[maslansky + partners](https://maslansky.com)** | **[Language Strategy Intern](https://jobright.ai/jobs/info/69b5ae8306c1ba00c5479eb0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b5a82a06c1ba00c5479ce6?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Mar 14 |
+| **[Change Realty LLC](http://changere.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b5a7133b74eb1e2c837a33?utm_campaign=1065&utm_source=git)** | Plano, TX | Remote | Mar 14 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Marketing Specialist](https://jobright.ai/jobs/info/6999b605ce78e77b4fdea792?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Mar 14 |
 | **[Citizen Relations](http://ca.citizenrelations.com)** | **[Internship (Public Relations)](https://jobright.ai/jobs/info/69a555b1359fe034b1cfea79?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 14 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/69a4fc28b600907a962a9eda?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Hybrid | Mar 14 |
@@ -95,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - eComm - LIC](https://jobright.ai/jobs/info/69b53aae56973837413a669b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697d6fac727747250d585879?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Mar 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Drinking Water Solutions (DWS) Marketing and Business Development Intern](https://jobright.ai/jobs/info/69b536753b74eb1e2c82d6ef?utm_campaign=1065&utm_source=git)** | Moon, PA | On Site | Mar 14 |
-| **[What's The Move](wtmofficial.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b5364b06c1ba00c546fb6b?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6960469b7ebc25398eb64be7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Community Impact Team) Hybrid Schedule](https://jobright.ai/jobs/info/6998e827e0bddb6acac7d16a?utm_campaign=1065&utm_source=git)** | Glen Allen, VA | Hybrid | Mar 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cb9400ba798c1a501d1fed?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern, Communications](https://jobright.ai/jobs/info/69b4ad825697383741398b49?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 | **[F5](https://www.f5.com)** | **[Product Marketing Internship for AI (Seattle)](https://jobright.ai/jobs/info/69b4ca873b74eb1e2c82269b?utm_campaign=1065&utm_source=git)** | Seattle | Hybrid | Mar 13 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Marketing](https://jobright.ai/jobs/info/69b4c4b5569738374139b59d?utm_campaign=1065&utm_source=git)** | US-CA-Van Nuys | On Site | Mar 13 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Growth Strategy Intern](https://jobright.ai/jobs/info/69b4c4a6569738374139b51a?utm_campaign=1065&utm_source=git)** | Richardson, TX, US | On Site | Mar 13 |
-| ↳ | **[Growth Strategy Intern](https://jobright.ai/jobs/info/69b4c32d06c1ba00c54641a7?utm_campaign=1065&utm_source=git)** | US-TX-Richardson | On Site | Mar 13 |
-| **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4c437569738374139b465?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Mar 13 |
-| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4c25d06c1ba00c546405a?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
