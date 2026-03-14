@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Media Planning](https://jobright.ai/jobs/info/6998ed56ce78e77b4fdd7dd7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
+| **[GreenLeaf, a Chefs' Warehouse company](https://greenleafsf.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/697d26ba3f57a3356966e2b0?utm_campaign=1065&utm_source=git)** | Brisbane, CA | Hybrid | Mar 14 |
+| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69b58b7606c1ba00c547788f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Direct Marketing Internship - Hilton Head Island](https://jobright.ai/jobs/info/69b586883b74eb1e2c834ec1?utm_campaign=1065&utm_source=git)** | Hilton Head Island M&S | On Site | Mar 14 |
+| **[Hearst Health](http://www.hearsthealth.com)** | **[Creative & Product Marketing Intern](https://jobright.ai/jobs/info/69a65231d706a731db3832f0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
+| **[Avant](https://www.avant.com)** | **[Card Strategy & Partnerships Summer Internship](https://jobright.ai/jobs/info/69992766e0bddb6acac83049?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 14 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/6972f3c5694e99351d1438e7?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Mar 14 |
 | **[ALO](https://www.aloyoga.com/)** | **[Marketing Planning Intern](https://jobright.ai/jobs/info/697dac4dce48107c0541fad4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Mar 14 |
 | **[McKim & Creed, Inc.](http://mckimcreed.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/69990dc9e0bddb6acac80510?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 14 |
@@ -128,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Marketing](https://jobright.ai/jobs/info/69b4c3583b74eb1e2c822225?utm_campaign=1065&utm_source=git)** | Van Nuys, CA, US | On Site | Mar 13 |
 | **[Loblaw Companies Limited](http://www.loblaw.ca/en.html)** | **[Promo Analyst - Co-op Student](https://jobright.ai/jobs/info/69b4c2fa06c1ba00c546413a?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Mar 13 |
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4dd4806c1ba00c54667c1?utm_campaign=1065&utm_source=git)** | Gillette, WY | On Site | Mar 13 |
-| **[BorderX Lab](https://www.borderxlab.com/)** | **[Intern of BeyondStyle Demand Growth](https://jobright.ai/jobs/info/69b4dc40569738374139d9c6?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Stantec](http://www.stantec.com)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69b4bdfd06c1ba00c54632f0?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 13 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Strategic Initiatives: Growth & Product (Summer 2026)](https://jobright.ai/jobs/info/69b4bde306c1ba00c5463266?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
 | ↳ | **[Intern - Strategic Initiatives: Growth & Product (Summer 2026)](https://jobright.ai/jobs/info/69b4bdc45697383741399bc8?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Mar 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4c25d06c1ba00c546405a?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Mar 13 |
 | **[quarkbooker](https://quarkbooker.com)** | **[Marketing Intern (Content, Social Media & UGC)](https://jobright.ai/jobs/info/69b4c24206c1ba00c546403d?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Mar 13 |
 | **[BLADE](https://www.blade.com)** | **[Flier Relations Intern](https://jobright.ai/jobs/info/69b4c49a569738374139b4bf?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | Mar 13 |
-| **[KryptiaNN](http://wwww.Kryptiann.com)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/69b4a4d83b74eb1e2c82005d?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
-| **[cupl](www.cupl.io)** | **[Sales & Growth Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/69b4a10c06c1ba00c5461da1?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
-| **[Dayforce](https://www.dayforce.com)** | **[Market Analytics & Intelligence Intern 8 months - Summer 2026](https://jobright.ai/jobs/info/69b49f203b74eb1e2c81faf0?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | Mar 13 |
-| **[cupl](www.cupl.io)** | **[Unpaid Sales & Growth Marketing Internship](https://jobright.ai/jobs/info/69b4bd6706c1ba00c5463072?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
-| **[Oakland County Football Club](http://www.oaklandcountyfc.com)** | **[2026 Marketing Operations and Management Internship](https://jobright.ai/jobs/info/69b4bd48569738374139983b?utm_campaign=1065&utm_source=git)** | Royal Oak, MI | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
