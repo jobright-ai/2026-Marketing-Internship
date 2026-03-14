@@ -57,13 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Retail Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69b4b1a006c1ba00c54625ff?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA | On Site | Mar 13 |
+| **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Brand Marketing](https://jobright.ai/jobs/info/69b4ae4d3b74eb1e2c820401?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
+| ↳ | **[Summer 2026 Intern, Speakers](https://jobright.ai/jobs/info/69b4adaa5697383741398b50?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
+| ↳ | **[Summer 2026 Intern, Communications](https://jobright.ai/jobs/info/69b4ad825697383741398b49?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
+| **[The ABIE Agency](http://www.theabieagency.com)** | **[Social Media Manager Intern](https://jobright.ai/jobs/info/69b4a78f06c1ba00c54621d1?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Mar 13 |
+| **[Ipsen](http://www.ipsen.com)** | **[Marketing Intern, Rare Disease, Iqirvo](https://jobright.ai/jobs/info/69b4a76d5697383741398843?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Mar 13 |
+| **[KryptiaNN](http://wwww.Kryptiann.com)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/69b4a4d83b74eb1e2c82005d?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
+| **[cupl](www.cupl.io)** | **[Sales & Growth Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/69b4a10c06c1ba00c5461da1?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
+| **[Dayforce](https://www.dayforce.com)** | **[Market Analytics & Intelligence Intern 8 months - Summer 2026](https://jobright.ai/jobs/info/69b49f203b74eb1e2c81faf0?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | Mar 13 |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69b49d2706c1ba00c5461b11?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 13 |
 | **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[Marketing Internship - Multifamily Housing Industry - (Summer 2026) - Colorado](https://jobright.ai/jobs/info/69b49bd43b74eb1e2c81f9e4?utm_campaign=1065&utm_source=git)** | Franktown, CO | On Site | Mar 13 |
 | **[George Papadakis Photography](http://www.papadakisphotography.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b4991006c1ba00c54618c8?utm_campaign=1065&utm_source=git)** | South Barrington, IL | On Site | Mar 13 |
 | **[Hanna Andersson](http://www.hannaandersson.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69b497855697383741397d7d?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Mar 13 |
 | ↳ | **[Paid Social Marketing Intern](https://jobright.ai/jobs/info/69b4975906c1ba00c54616d5?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Mar 13 |
 | **[Multnomah County](https://multco.us)** | **[District 2 Oﬃce - Community Engagement Internship](https://jobright.ai/jobs/info/69b497165697383741397ce0?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Mar 13 |
 | **[Prolaio](https://prolaio.com/)** | **[Product Market Research Intern](https://jobright.ai/jobs/info/69b4970606c1ba00c546167e?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Communications Intern](https://jobright.ai/jobs/info/69b497033b74eb1e2c81f639?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Mar 13 |
 | **[Nasuni](https://www.nasuni.com)** | **[Communications & Customer Advocacy Intern](https://jobright.ai/jobs/info/69b497033b74eb1e2c81f63d?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Mar 13 |
 | **[Game Seven Agency](https://www.gameseven.agency/)** | **[Summer 2026 Intern, CommunicationsNew](https://jobright.ai/jobs/info/69b4962d5697383741397b72?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b4961706c1ba00c5461559?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Mar 13 |
@@ -137,7 +146,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[EUG Summer Intern](https://jobright.ai/jobs/info/69b46c345697383741393ade?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | **[Motom](https://www.motom.me)** | **[Marketing Design Summer Internship (Paid)](https://jobright.ai/jobs/info/69b46c1b5697383741393a10?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 13 |
 | **[PSC Biotech® Corporation](http://biotech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b46b935697383741393691?utm_campaign=1065&utm_source=git)** | York, PA | On Site | Mar 13 |
-| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Summer 2026 - Integrated Marketing Intern](https://jobright.ai/jobs/info/69b4993b3b74eb1e2c81f860?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Mar 13 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/69b469185697383741392b67?utm_campaign=1065&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 13 |
 | **[Ipsen](http://www.ipsen.com)** | **[Marketing Intern, Rare Disease, Iqirvo](https://jobright.ai/jobs/info/69b4674756973837413926c8?utm_campaign=1065&utm_source=git)** | Cambridge (US) | Hybrid | Mar 13 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Knowledge & Content Intern](https://jobright.ai/jobs/info/6944b5b594730b739877f9a6?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Mar 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Media Planning, Paid Social](https://jobright.ai/jobs/info/6997e0fcce78e77b4fdc589f?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Mar 13 |
 | **[Arevon](https://arevonenergy.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/693206044c474121999f5e67?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Mar 13 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/689a35ad5574fd6bc0c80958?utm_campaign=1065&utm_source=git)** | Ellenton, FL | On Site | Mar 13 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/68ec6620ee50895bd70b485f?utm_campaign=1065&utm_source=git)** | Panama City Beach, FL | On Site | Mar 13 |
-| **[Ridgeline International, LLC](http://www.ridgelineintl.com)** | **[Marketing & Branding Intern](https://jobright.ai/jobs/info/69b46008569738374139212e?utm_campaign=1065&utm_source=git)** | Tysons Corner, VA | Hybrid | Mar 13 |
-| **[Gen](https://www.gendigital.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/69b45fce3b74eb1e2c819928?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 13 |
-| **[VOLT](https://volt.video)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69b45fc35697383741392102?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Mar 13 |
-| **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Media Analytics](https://jobright.ai/jobs/info/699796d081476f6176afaf5c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 13 |
-| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Summer 2026 - Influencer Marketing & Partnerships Intern](https://jobright.ai/jobs/info/69b498cc06c1ba00c5461859?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Mar 13 |
-| ↳ | **[Unpaid - Brand Marketing Intern](https://jobright.ai/jobs/info/69b498c206c1ba00c546184e?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Mar 13 |
-| **[AFM Agency](https://afmagency.net/)** | **[Mandarin-speaking Office Intern –  (TikTok Marketing)](https://jobright.ai/jobs/info/69b45c775697383741391636?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
