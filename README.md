@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/69b5d49656973837413b3186?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
+| **[Fengate Asset Management](https://fengate.com/businesses/private-equity/)** | **[Intern, Venture Capital](https://jobright.ai/jobs/info/69b5d17d06c1ba00c547bd39?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 14 |
+| **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Marketing Internship (unpaid)](https://jobright.ai/jobs/info/69b5ce4d56973837413b2e93?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Mar 14 |
+| **[Blue Mountain](http://coolblue.com)** | **[Remote Marketing Internship](https://jobright.ai/jobs/info/69b5ce4756973837413b2e8d?utm_campaign=1065&utm_source=git)** | State College, PA | Remote | Mar 14 |
+| **[Barrow Wise Consulting, LLC](https://www.barrowwise.com)** | **[Internship](https://jobright.ai/jobs/info/69b5cc9506c1ba00c547bba9?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Mar 14 |
+| **[Elara Immigration](elaraimm.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b5cc8e3b74eb1e2c8399dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
+| **[REVOLVE](https://www.revolve.com/)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/69b5cb8e56973837413b2cd8?utm_campaign=1065&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 14 |
+| ↳ | **[Retention Marketing Intern](https://jobright.ai/jobs/info/69b5cb8506c1ba00c547bac9?utm_campaign=1065&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 14 |
+| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69b5caf306c1ba00c547ba85?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
+| **[REVOLVE](https://www.revolve.com/)** | **[Retention Marketing Intern](https://jobright.ai/jobs/info/69b5c6f13b74eb1e2c8397ec?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Direct Marketing Internship - Hilton Head Island](https://jobright.ai/jobs/info/69b5c4cd06c1ba00c547b969?utm_campaign=1065&utm_source=git)** | Hilton Head Island, SC | On Site | Mar 14 |
+| **[REVOLVE](https://www.revolve.com/)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/69b5c35606c1ba00c547b90a?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Communications Internship (Summer 2026)](https://jobright.ai/jobs/info/69b5c1da56973837413b2b31?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 14 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Brand Marketing Paid Internship - Summer 2026](https://jobright.ai/jobs/info/69b5c16c3b74eb1e2c8396d7?utm_campaign=1065&utm_source=git)** | Franklin, WI | Hybrid | Mar 14 |
 | **[NetApp](http://netapp.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69b5c15856973837413b2ac3?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 14 |
-| **[Backlinkgen](https://backlinkgen.com)** | **[Online - Social - Marketing Internship](https://jobright.ai/jobs/info/69b5bc383b74eb1e2c839420?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 14 |
-| ↳ | **[Digital- Marketing- Internship](https://jobright.ai/jobs/info/69b5bc3806c1ba00c547b687?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Mar 14 |
-| ↳ | **[On-line Marketing - Internship-Work](https://jobright.ai/jobs/info/69b5bc1b3b74eb1e2c839404?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Mar 14 |
 | **[CIKA Business Management Advisory](cikaconsulting.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b5b91d06c1ba00c547b590?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | Remote | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Brand Partnerships Intern](https://jobright.ai/jobs/info/69b5b8a13b74eb1e2c83907a?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
 | **[City of New York](http://www1.nyc.gov)** | **[Social Media and Marketing Recruitment Intern, HREX](https://jobright.ai/jobs/info/69b5b3df06c1ba00c547a5ce?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
@@ -137,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Hanna Andersson](http://www.hannaandersson.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69b4cb1d569738374139bb02?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Mar 13 |
 | **[Gold Beech Construction](http://www.goldbeech.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b4dde7569738374139dcc0?utm_campaign=1065&utm_source=git)** | Lexington, MA | On Site | Mar 13 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69b4d98806c1ba00c54660e2?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 13 |
-| **[MoCo B2B Expo](mocob2bexpo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b55eb53b74eb1e2c82e813?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Mar 13 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Retail Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69b4d456569738374139c7cd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Segment Marketing Intern](https://jobright.ai/jobs/info/69b4d27306c1ba00c546530a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b4cf0d569738374139c5a3?utm_campaign=1065&utm_source=git)** | Santa Rosa, California | On Site | Mar 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Marketing](https://jobright.ai/jobs/info/69b4c3583b74eb1e2c822225?utm_campaign=1065&utm_source=git)** | Van Nuys, CA, US | On Site | Mar 13 |
 | **[Loblaw Companies Limited](http://www.loblaw.ca/en.html)** | **[Promo Analyst - Co-op Student](https://jobright.ai/jobs/info/69b4c2fa06c1ba00c546413a?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Mar 13 |
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4dd4806c1ba00c54667c1?utm_campaign=1065&utm_source=git)** | Gillette, WY | On Site | Mar 13 |
-| **[Stantec](http://www.stantec.com)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69b4bdfd06c1ba00c54632f0?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 13 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Strategic Initiatives: Growth & Product (Summer 2026)](https://jobright.ai/jobs/info/69b4bde306c1ba00c5463266?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
-| ↳ | **[Intern - Strategic Initiatives: Growth & Product (Summer 2026)](https://jobright.ai/jobs/info/69b4bdc45697383741399bc8?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Mar 13 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b4bd9006c1ba00c5463146?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 13 |
-| **[cupl](www.cupl.io)** | **[Sales & Growth Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/69b4bd3906c1ba00c546300e?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
-| **[U.S. Ski & Snowboard Team](https://www.usskiandsnowboard.org/)** | **[Marketing Operations & Experience Intern](https://jobright.ai/jobs/info/69b4e81506c1ba00c5467d78?utm_campaign=1065&utm_source=git)** | Park City, UT | Hybrid | Mar 13 |
-| ↳ | **[Marketing Operations & Experience Intern](https://jobright.ai/jobs/info/69b4bbbd06c1ba00c5462b54?utm_campaign=1065&utm_source=git)** | Park City, UT, US | Hybrid | Mar 13 |
-| **[Barrow Wise Consulting, LLC](https://www.barrowwise.com)** | **[Internship](https://jobright.ai/jobs/info/69b576b006c1ba00c547518e?utm_campaign=1065&utm_source=git)** | MD,US | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
