@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nasuni](https://www.nasuni.com)** | **[Communications & Customer Advocacy Intern](https://jobright.ai/jobs/info/69b5267506c1ba00c546ea06?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 14 |
+| **[PetIQ](https://petiq.com)** | **[Social Strategy Intern](https://jobright.ai/jobs/info/69b523ca06c1ba00c546e6a9?utm_campaign=1065&utm_source=git)** | Eagle, ID | On Site | Mar 14 |
+| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Client Solutions Intern](https://jobright.ai/jobs/info/698f84d96ea51a7610f1dff3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69a15fb1b600907a9627ba78?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Mar 14 |
+| **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69b517e806c1ba00c546d01d?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Mar 14 |
+| **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Coordinator](https://jobright.ai/jobs/info/69b5156c06c1ba00c546c9ad?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Mar 14 |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Data & Analytics - Global eCommerce & Audience Analytics](https://jobright.ai/jobs/info/69b512263b74eb1e2c82ab39?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | Remote | Mar 14 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Events Intern /  Part-Time /  Donald L Tucker Civic Center](https://jobright.ai/jobs/info/69b50dcd3b74eb1e2c829d7a?utm_campaign=1065&utm_source=git)** | US-FL-Tallahassee | On Site | Mar 14 |
 | **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b50cf03b74eb1e2c829c8d?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Mar 14 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Events Intern /  Part-Time /  Donald L Tucker Civic Center](https://jobright.ai/jobs/info/69b50c9356973837413a28b9?utm_campaign=1065&utm_source=git)** | Donald L Tucker Civic Center (Florida State U) | On Site | Mar 14 |
@@ -103,8 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4c437569738374139b465?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Mar 13 |
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4c25d06c1ba00c546405a?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Mar 13 |
 | **[quarkbooker](https://quarkbooker.com)** | **[Marketing Intern (Content, Social Media & UGC)](https://jobright.ai/jobs/info/69b4c24206c1ba00c546403d?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Mar 13 |
-| **[BLADE](https://www.blade.com)** | **[Flier Relations Intern](https://jobright.ai/jobs/info/69b4c3213b74eb1e2c822131?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Mar 13 |
-| ↳ | **[Flier Relations Intern](https://jobright.ai/jobs/info/69b4c49a569738374139b4bf?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | Mar 13 |
+| **[BLADE](https://www.blade.com)** | **[Flier Relations Intern](https://jobright.ai/jobs/info/69b4c49a569738374139b4bf?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | Mar 13 |
 | **[KryptiaNN](http://wwww.Kryptiann.com)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/69b4a4d83b74eb1e2c82005d?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
 | **[cupl](www.cupl.io)** | **[Sales & Growth Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/69b4a10c06c1ba00c5461da1?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Dayforce](https://www.dayforce.com)** | **[Market Analytics & Intelligence Intern 8 months - Summer 2026](https://jobright.ai/jobs/info/69b49f203b74eb1e2c81faf0?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | Mar 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69b47d375697383741395acd?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 13 |
 | **[Highline Warren](https://highlinewarren.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69b47d1e5697383741395a89?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
 | **[IBM](http://www.ibm.com)** | **[IBV thought leadership producer intern](https://jobright.ai/jobs/info/69b47cb7569738374139599b?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
-| **[Morrison-Maierle](http://m-m.net)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/69b4843506c1ba00c545ff44?utm_campaign=1065&utm_source=git)** | Helena, MT | On Site | Mar 13 |
-| **[Medidata Solutions](https://www.medidata.com)** | **[Marketing Operations – Performance Team Summer Intern](https://jobright.ai/jobs/info/69b47c9e06c1ba00c545f26c?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 13 |
-| **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b47a8656973837413956ac?utm_campaign=1065&utm_source=git)** | Waltham, MA, USA | Remote | Mar 13 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Data & Analytics - Global eCommerce & Audience Analytics](https://jobright.ai/jobs/info/69b47a833b74eb1e2c81cf92?utm_campaign=1065&utm_source=git)** | Santa Monica, California | Remote | Mar 13 |
-| **[City Utilities of Springfield](https://www.cityutilities.net)** | **[Communications & Community Relations Intern](https://jobright.ai/jobs/info/69b47a6b3b74eb1e2c81cf2e?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Mar 13 |
-| **[ProPharma](http://www.propharmagroup.com/)** | **[Intern: Marketing (Raleigh-based)](https://jobright.ai/jobs/info/69b47a0c06c1ba00c545ec93?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
