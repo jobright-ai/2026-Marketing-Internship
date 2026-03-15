@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945adf5951654073537c825?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Mar 15 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69392d7056b68f3dc4e6a333?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Mar 15 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/69b6679c56973837413bbc12?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Mar 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (TikTok Shop Product Marketing) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aac5952747003c3d506b05?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 15 |
+| ↳ | **[Merchandising Strategy Manager Intern (TikTok Shop Affiliate Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976df78bc8e722e7b1b5254?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 15 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Marketing Internship](https://jobright.ai/jobs/info/699acb4f81476f6176b36a96?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 15 |
 | **[Micron Technology](http://www.micron.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6999ac66e0bddb6acac8fcbb?utm_campaign=1065&utm_source=git)** | Meridian, OK | On Site | Mar 15 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/6959e1ed9f1b381eb272888d?utm_campaign=1065&utm_source=git)** | Bergen County, NJ | Hybrid | Mar 15 |
@@ -71,8 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Index - Web Marketing Agency](http://www.indexwebmarketing.com/en/)** | **[Web Marketing Coordinator, Internship 2024](https://jobright.ai/jobs/info/69b6122a06c1ba00c547e834?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 14 |
 | **[Outcast](https://thisisoutcast.com)** | **[Communications Associate (Intern)](https://jobright.ai/jobs/info/69b60f343b74eb1e2c83c52e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 14 |
 | **[Wags & Walks](http://www.wagsandwalks.org/)** | **[Brand Ambassador Internship](https://jobright.ai/jobs/info/69b5ebae3b74eb1e2c83a8de?utm_campaign=1065&utm_source=git)** | East Hampton, NY | On Site | Mar 14 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69b5e52756973837413b3b32?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
-| ↳ | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/69b5e52756973837413b3b33?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
 | **[Re-Bath, LLC](https://www.rebathfranchise.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/69acb5e37e1fab39d38445dd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b5de0106c1ba00c547c782?utm_campaign=1065&utm_source=git)** | Santa Rosa, CA | On Site | Mar 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/69b5d49656973837413b3186?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Events Intern /  Part-Time /  Donald L Tucker Civic Center](https://jobright.ai/jobs/info/69b50dcd3b74eb1e2c829d7a?utm_campaign=1065&utm_source=git)** | US-FL-Tallahassee | On Site | Mar 14 |
 | **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b50cf03b74eb1e2c829c8d?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Mar 14 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Events Intern /  Part-Time /  Donald L Tucker Civic Center](https://jobright.ai/jobs/info/69b50c9356973837413a28b9?utm_campaign=1065&utm_source=git)** | Donald L Tucker Civic Center (Florida State U) | On Site | Mar 14 |
-| **[Codan Forsikring](https://www.codan.dk/)** | **[Getty Marrow Undergraduate Summer Internship - Social Media](https://jobright.ai/jobs/info/69b668a956973837413bc471?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 14 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b50afb06c1ba00c546abdb?utm_campaign=1065&utm_source=git)** | Lower 48 United States | Remote | Mar 14 |
 | ↳ | **[Digital Campaigns Intern](https://jobright.ai/jobs/info/69b50adc56973837413a2520?utm_campaign=1065&utm_source=git)** | Lower 48 United States | Remote | Mar 14 |
 | **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69b509b806c1ba00c546a7e2?utm_campaign=1065&utm_source=git)** | Columbia, Maryland, United States | On Site | Mar 14 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Events Intern /  Part-Time /  Donald L Tucker Civic Center](https://jobright.ai/jobs/info/69b5074d06c1ba00c546a2d2?utm_campaign=1065&utm_source=git)** | Tallahassee, FL, US | On Site | Mar 13 |
-| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sr. Associate Brand Manager Intern](https://jobright.ai/jobs/info/69b64e1056973837413b94e4?utm_campaign=1065&utm_source=git)** | East Hanover, NJ | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
