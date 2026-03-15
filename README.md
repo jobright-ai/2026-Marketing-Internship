@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699002520cc8ea15f1da9976?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Mar 14 |
+| **[Gazette Gal](www.gazettegal.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69b6461106c1ba00c54823df?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/69b634b23b74eb1e2c83ea72?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Mar 14 |
 | **[The Pilot Club Inc.](https://www.thepilotclub.org)** | **[Unpaid Internship: Aviation Marketing Intern](https://jobright.ai/jobs/info/69b6307406c1ba00c5480631?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Student Intern](https://jobright.ai/jobs/info/69b637d356973837413b753c?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Wags & Walks](http://www.wagsandwalks.org/)** | **[Brand Ambassador Internship](https://jobright.ai/jobs/info/69b5ebae3b74eb1e2c83a8de?utm_campaign=1065&utm_source=git)** | East Hampton, NY | On Site | Mar 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69b5e52756973837413b3b32?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
 | ↳ | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/69b5e52756973837413b3b33?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
+| **[Re-Bath, LLC](https://www.rebathfranchise.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/69acb5e37e1fab39d38445dd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b5de0106c1ba00c547c782?utm_campaign=1065&utm_source=git)** | Santa Rosa, CA | On Site | Mar 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/69b5d49656973837413b3186?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
 | **[Fengate Asset Management](https://fengate.com/businesses/private-equity/)** | **[Intern, Venture Capital](https://jobright.ai/jobs/info/69b5d17d06c1ba00c547bd39?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 14 |
@@ -146,6 +149,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Campaigns Intern](https://jobright.ai/jobs/info/69b50adc56973837413a2520?utm_campaign=1065&utm_source=git)** | Lower 48 United States | Remote | Mar 14 |
 | **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69b509b806c1ba00c546a7e2?utm_campaign=1065&utm_source=git)** | Columbia, Maryland, United States | On Site | Mar 14 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Events Intern /  Part-Time /  Donald L Tucker Civic Center](https://jobright.ai/jobs/info/69b5074d06c1ba00c546a2d2?utm_campaign=1065&utm_source=git)** | Tallahassee, FL, US | On Site | Mar 13 |
+| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sr. Associate Brand Manager Intern](https://jobright.ai/jobs/info/69b64e1056973837413b94e4?utm_campaign=1065&utm_source=git)** | East Hanover, NJ | On Site | Mar 13 |
 | **[The Seattle Today](www.theseattletoday.com)** | **[Paid Internship: Communications Intern (Part-Time_](https://jobright.ai/jobs/info/69b4f25f56973837413a014a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 13 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Marketing](https://jobright.ai/jobs/info/69b4e57506c1ba00c5467a23?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | **[F5](https://www.f5.com)** | **[Product Marketing Internship for AI (Seattle)](https://jobright.ai/jobs/info/69b4e2ec569738374139ea4f?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | On Site | Mar 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gold Beech Construction](http://www.goldbeech.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b4dde7569738374139dcc0?utm_campaign=1065&utm_source=git)** | Lexington, MA | On Site | Mar 13 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69b4d98806c1ba00c54660e2?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[BUBBL'R Antioxidant Sparkling Water](https://www.drinkbubblr.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b634663b74eb1e2c83e9ff?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Mar 13 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Retail Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69b4d456569738374139c7cd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
-| **[Honeywell](http://www.honeywell.com)** | **[Marketing - Summer 2026 Intern](https://jobright.ai/jobs/info/69b62bd206c1ba00c54803b7?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Segment Marketing Intern](https://jobright.ai/jobs/info/69b4d27306c1ba00c546530a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 13 |
-| **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b4cf0d569738374139c5a3?utm_campaign=1065&utm_source=git)** | Santa Rosa, California | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
