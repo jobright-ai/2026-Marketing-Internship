@@ -82,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Social Media and Marketing Recruitment Intern, HREX](https://jobright.ai/jobs/info/69b5b3df06c1ba00c547a5ce?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[BD](https://www.bd.com)** | **[Surgical Solutions Marketing Intern](https://jobright.ai/jobs/info/69b5b2833b74eb1e2c8380a1?utm_campaign=1065&utm_source=git)** | Vernon Hills, IL | Hybrid | Mar 14 |
 | ↳ | **[Marketing Intern (Vascular)](https://jobright.ai/jobs/info/69b5b2823b74eb1e2c83809b?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Mar 14 |
-| **[maslansky + partners](https://maslansky.com)** | **[Language Strategy Intern](https://jobright.ai/jobs/info/69b5ae8306c1ba00c5479eb0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b5a82a06c1ba00c5479ce6?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Mar 14 |
 | **[Change Realty LLC](http://changere.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b5a7133b74eb1e2c837a33?utm_campaign=1065&utm_source=git)** | Plano, TX | Remote | Mar 14 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Marketing Specialist](https://jobright.ai/jobs/info/6999b605ce78e77b4fdea792?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Mar 14 |
@@ -154,6 +153,7 @@ For a complete list, click the following sortable link below:
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Segment Marketing Intern](https://jobright.ai/jobs/info/69b4d27306c1ba00c546530a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b4cf0d569738374139c5a3?utm_campaign=1065&utm_source=git)** | Santa Rosa, California | On Site | Mar 13 |
 | **[Christian Brothers Services](https://www.cbservices.org/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b4cda83b74eb1e2c82303c?utm_campaign=1065&utm_source=git)** | ROMEOVILLE, IL 60446 | On Site | Mar 13 |
+| **[First Community Credit Union](https://firstccu.com/)** | **[6 Month Marketing Intern](https://jobright.ai/jobs/info/69b623fc56973837413b6818?utm_campaign=1065&utm_source=git)** | Janesville, WI | On Site | Mar 13 |
 | **[Prairie Payments Joint Venture](https://prairiepaymentsinitiative.ca)** | **[Communications and Marketing Intern, PPJV](https://jobright.ai/jobs/info/69b4cb1c06c1ba00c54648a5?utm_campaign=1065&utm_source=git)** | Calgary, AB, CA | On Site | Mar 13 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b4caf506c1ba00c5464842?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 | **[Ralph L. Wadsworth Construction](https://www.wadsco.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4ca9b569738374139b9bb?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Mar 13 |
