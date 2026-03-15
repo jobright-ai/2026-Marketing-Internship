@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Black Kanyon](https://www.blackkanyon.com)** | **[Intern - Marketing & Content Creator](https://jobright.ai/jobs/info/69b7024756973837413c377d?utm_campaign=1065&utm_source=git)** | Lake Norden, SD | On Site | Mar 15 |
+| **[PaleBlueDot AI](https://palebluedot.ai)** | **[Event & Brand Marketing Intern](https://jobright.ai/jobs/info/69b7004e3b74eb1e2c84a277?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Mar 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b6f68656973837413c24cf?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Mar 15 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69b6f63e3b74eb1e2c848f4f?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Mar 15 |
 | **[Full of Grace Marketing](http://www.fullofgracemarketing.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b6eb0d56973837413c233f?utm_campaign=1065&utm_source=git)** | San Antonio, Texas Metropolitan Area | Hybrid | Mar 15 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6e56906c1ba00c548aae6?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 15 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b7066a06c1ba00c548cfc9?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 15 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6e56906c1ba00c548aae6?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 15 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69b6e55a06c1ba00c548aad0?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 15 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69b6e48456973837413c1f7a?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 15 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6e47c56973837413c1f6d?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 15 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69b6d7ec06c1ba00c548a7cb?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6d5883b74eb1e2c8486cf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 15 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69844a8b8da7a612045e67cc?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Mar 15 |
-| **[Thinkathon.com by SolutionPeople](http://www.TheSolutionPeopleNetwork.com)** | **[Community Manager](https://jobright.ai/jobs/info/69b6e2dd3b74eb1e2c8489b1?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Mar 15 |
 | **[Continental](https://www.continental.com)** | **[Intern - PLT Marketing Events, Year-Round](https://jobright.ai/jobs/info/69b6b2ad56973837413bf11b?utm_campaign=1065&utm_source=git)** | Fort Mill, SC | On Site | Mar 15 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Communications, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/692f8b4afa28370be26ab5a9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 15 |
 | **[ALO](https://www.aloyoga.com/)** | **[Paid Growth Marketing Intern](https://jobright.ai/jobs/info/697dab3ace48107c0541f9c6?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Mar 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697d6fac727747250d585879?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Mar 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Drinking Water Solutions (DWS) Marketing and Business Development Intern](https://jobright.ai/jobs/info/69b536753b74eb1e2c82d6ef?utm_campaign=1065&utm_source=git)** | Moon, PA | On Site | Mar 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6960469b7ebc25398eb64be7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
-| **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Community Impact Team) Hybrid Schedule](https://jobright.ai/jobs/info/6998e827e0bddb6acac7d16a?utm_campaign=1065&utm_source=git)** | Glen Allen, VA | Hybrid | Mar 14 |
-| **[Morrison-Maierle](http://m-m.net)** | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/69b4843506c1ba00c545ff44?utm_campaign=1065&utm_source=git)** | Helena, MT | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
