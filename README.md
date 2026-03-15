@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6d8e43b74eb1e2c848817?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 15 |
+| **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69b6d7ec06c1ba00c548a7cb?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 15 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6d5883b74eb1e2c8486cf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 15 |
+| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69b6d2cf06c1ba00c548a693?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 15 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69844a8b8da7a612045e67cc?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Mar 15 |
 | **[MAGZ MARKETING](https://www.magzsports.com)** | **[Sports Marketing Intern](https://jobright.ai/jobs/info/69b6b2c306c1ba00c5488760?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Mar 15 |
 | **[Continental](https://www.continental.com)** | **[Intern - PLT Marketing Events, Year-Round](https://jobright.ai/jobs/info/69b6b2ad56973837413bf11b?utm_campaign=1065&utm_source=git)** | Fort Mill, SC | On Site | Mar 15 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Communications, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/692f8b4afa28370be26ab5a9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 15 |
@@ -75,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/6959e1ed9f1b381eb272888d?utm_campaign=1065&utm_source=git)** | Bergen County, NJ | Hybrid | Mar 15 |
 | **[EDUopinions](https://www.eduopinions.com)** | **[Social Media Intern (Remote, Paid)](https://jobright.ai/jobs/info/69b66f2856973837413bd023?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 15 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699002520cc8ea15f1da9976?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Mar 14 |
-| **[Gazette Gal](www.gazettegal.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69b6461106c1ba00c54823df?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/69b634b23b74eb1e2c83ea72?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Mar 14 |
 | **[The Pilot Club Inc.](https://www.thepilotclub.org)** | **[Unpaid Internship: Aviation Marketing Intern](https://jobright.ai/jobs/info/69b6307406c1ba00c5480631?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Student Intern](https://jobright.ai/jobs/info/69b637d356973837413b753c?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
@@ -85,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Wags & Walks](http://www.wagsandwalks.org/)** | **[Brand Ambassador Internship](https://jobright.ai/jobs/info/69b5ebae3b74eb1e2c83a8de?utm_campaign=1065&utm_source=git)** | East Hampton, NY | On Site | Mar 14 |
 | **[Re-Bath, LLC](https://www.rebathfranchise.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/69acb5e37e1fab39d38445dd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b5de0106c1ba00c547c782?utm_campaign=1065&utm_source=git)** | Santa Rosa, CA | On Site | Mar 14 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/69b5d49656973837413b3186?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
 | **[Fengate Asset Management](https://fengate.com/businesses/private-equity/)** | **[Intern, Venture Capital](https://jobright.ai/jobs/info/69b5d17d06c1ba00c547bd39?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 14 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Marketing Internship (unpaid)](https://jobright.ai/jobs/info/69b5ce4d56973837413b2e93?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Mar 14 |
 | **[Blue Mountain](http://coolblue.com)** | **[Remote Marketing Internship](https://jobright.ai/jobs/info/69b5ce4756973837413b2e8d?utm_campaign=1065&utm_source=git)** | State College, PA | Remote | Mar 14 |
@@ -111,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Direct Marketing Internship - Hilton Head Island](https://jobright.ai/jobs/info/69b586883b74eb1e2c834ec1?utm_campaign=1065&utm_source=git)** | Hilton Head Island M&S | On Site | Mar 14 |
 | **[Hearst Health](http://www.hearsthealth.com)** | **[Creative & Product Marketing Intern](https://jobright.ai/jobs/info/69a65231d706a731db3832f0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
 | **[Avant](https://www.avant.com)** | **[Card Strategy & Partnerships Summer Internship](https://jobright.ai/jobs/info/69992766e0bddb6acac83049?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 14 |
+| **[Rentokil Réunion - Les experts de la lutte contre les nuisibles partout  à la Réunion](https://www.rentokil.re)** | **[Internal Communications and Change Specialist](https://jobright.ai/jobs/info/69b6d7543b74eb1e2c848791?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Mar 14 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/6972f3c5694e99351d1438e7?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Mar 14 |
 | **[ALO](https://www.aloyoga.com/)** | **[Marketing Planning Intern](https://jobright.ai/jobs/info/697dac4dce48107c0541fad4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Mar 14 |
 | **[McKim & Creed, Inc.](http://mckimcreed.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/69990dc9e0bddb6acac80510?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Client Solutions Intern](https://jobright.ai/jobs/info/698f84d96ea51a7610f1dff3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
 | **[Stantec](http://www.stantec.com)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69b53e4706c1ba00c546fe12?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Mar 14 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69a15fb1b600907a9627ba78?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Mar 14 |
-| **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69b517e806c1ba00c546d01d?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Mar 14 |
-| **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Coordinator](https://jobright.ai/jobs/info/69b5156c06c1ba00c546c9ad?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Mar 14 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/69b6755056973837413bd5c7?utm_campaign=1065&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 14 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Data & Analytics - Global eCommerce & Audience Analytics](https://jobright.ai/jobs/info/69b512263b74eb1e2c82ab39?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | Remote | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
