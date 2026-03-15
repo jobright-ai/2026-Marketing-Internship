@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CULTA](https://www.culta.io/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b71f5256973837413c516c?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Mar 15 |
+| **[Corii Burns](https://www.coriiburns.com)** | **[Social Media/Collaboration Intern Remote](https://jobright.ai/jobs/info/69b71b3356973837413c4c0e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 15 |
+| **[Meridian Waste](http://www.MeridianWaste.com)** | **[Intern](https://jobright.ai/jobs/info/69b7150756973837413c4ab6?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 15 |
 | **[SERHANT.](https://www.serhant.com)** | **[Social Media Intern – Jade Shenker](https://jobright.ai/jobs/info/69b7125c06c1ba00c548de39?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 15 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Brand Marketing Paid Internship - Summer 2026](https://jobright.ai/jobs/info/69b712193b74eb1e2c84be81?utm_campaign=1065&utm_source=git)** | Franklin, WI | Hybrid | Mar 15 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Marketing, AI and Customer Segmentation](https://jobright.ai/jobs/info/698656898ca8121a3a688c0b?utm_campaign=1065&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 15 |
@@ -115,14 +118,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retention Marketing Intern](https://jobright.ai/jobs/info/69b5c6f13b74eb1e2c8397ec?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Direct Marketing Internship - Hilton Head Island](https://jobright.ai/jobs/info/69b5c4cd06c1ba00c547b969?utm_campaign=1065&utm_source=git)** | Hilton Head Island, SC | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/69b5c35606c1ba00c547b90a?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
-| **[D.C. United](http://dcunited.com)** | **[Intern- Communications Internship (Summer 2026)](https://jobright.ai/jobs/info/69b5c1da56973837413b2b31?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 14 |
 | **[NetApp](http://netapp.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69b5c15856973837413b2ac3?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 14 |
 | **[CIKA Business Advisory](cikaconsulting.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b5b91d06c1ba00c547b590?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | Remote | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Brand Partnerships Intern](https://jobright.ai/jobs/info/69b5b8a13b74eb1e2c83907a?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
 | **[City of New York](http://www1.nyc.gov)** | **[Social Media and Marketing Recruitment Intern, HREX](https://jobright.ai/jobs/info/69b5b3df06c1ba00c547a5ce?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[BD](https://www.bd.com)** | **[Surgical Solutions Marketing Intern](https://jobright.ai/jobs/info/69b5b2833b74eb1e2c8380a1?utm_campaign=1065&utm_source=git)** | Vernon Hills, IL | Hybrid | Mar 14 |
 | ↳ | **[Marketing Intern (Vascular)](https://jobright.ai/jobs/info/69b5b2823b74eb1e2c83809b?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Mar 14 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b5a82a06c1ba00c5479ce6?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Mar 14 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Marketing Specialist](https://jobright.ai/jobs/info/6999b605ce78e77b4fdea792?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Mar 14 |
 | **[Citizen Relations](http://ca.citizenrelations.com)** | **[Internship (Public Relations)](https://jobright.ai/jobs/info/69a555b1359fe034b1cfea79?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 14 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/69a4fc28b600907a962a9eda?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Hybrid | Mar 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BerlinRosen, an Orchestra company](https://berlinrosen.com)** | **[Summer 2026 Communications Internship](https://jobright.ai/jobs/info/69a52d80359fe034b1cfb947?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
 | **[M18, an Orchestra company](https://www.m18pr.com)** | **[Summer 2026 Communications Internship](https://jobright.ai/jobs/info/6998e57881476f6176b14ae1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
 | **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6880cd7a29ad6b2744adc425?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Mar 14 |
-| **[KLA](https://www.kla.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/694334f7dd382f5f56692858?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
