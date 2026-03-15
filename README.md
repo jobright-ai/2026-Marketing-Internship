@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b6f68656973837413c24cf?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Mar 15 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69b6f63e3b74eb1e2c848f4f?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Mar 15 |
 | **[Full of Grace Marketing](http://www.fullofgracemarketing.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b6eb0d56973837413c233f?utm_campaign=1065&utm_source=git)** | San Antonio, Texas Metropolitan Area | Hybrid | Mar 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6e56906c1ba00c548aae6?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 15 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69b6e55a06c1ba00c548aad0?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6960469b7ebc25398eb64be7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Community Impact Team) Hybrid Schedule](https://jobright.ai/jobs/info/6998e827e0bddb6acac7d16a?utm_campaign=1065&utm_source=git)** | Glen Allen, VA | Hybrid | Mar 14 |
 | **[Morrison-Maierle](http://m-m.net)** | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/69b4843506c1ba00c545ff44?utm_campaign=1065&utm_source=git)** | Helena, MT | On Site | Mar 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cb9400ba798c1a501d1fed?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 14 |
-| **[Common Cause](http://www.commoncause.org/)** | **[Minnesota Internship](https://jobright.ai/jobs/info/69b52e3856973837413a5dc0?utm_campaign=1065&utm_source=git)** | St. Paul, MN | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
