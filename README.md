@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Marketing Internship](https://jobright.ai/jobs/info/699acb4f81476f6176b36a96?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 15 |
 | **[Micron Technology](http://www.micron.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6999ac66e0bddb6acac8fcbb?utm_campaign=1065&utm_source=git)** | Meridian, OK | On Site | Mar 15 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/6959e1ed9f1b381eb272888d?utm_campaign=1065&utm_source=git)** | Bergen County, NJ | Hybrid | Mar 15 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Brand Marketing Paid Internship - Summer 2026](https://jobright.ai/jobs/info/69b6765306c1ba00c5486ceb?utm_campaign=1065&utm_source=git)** | Franklin, WI | Hybrid | Mar 15 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Index - Web Marketing Agency](http://www.indexwebmarketing.com/en/)** | **[Web Marketing Coordinator, Internship 2024](https://jobright.ai/jobs/info/69b6122a06c1ba00c547e834?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 14 |
 | **[Outcast](https://thisisoutcast.com)** | **[Communications Associate (Intern)](https://jobright.ai/jobs/info/69b60f343b74eb1e2c83c52e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 14 |
 | **[Wags & Walks](http://www.wagsandwalks.org/)** | **[Brand Ambassador Internship](https://jobright.ai/jobs/info/69b5ebae3b74eb1e2c83a8de?utm_campaign=1065&utm_source=git)** | East Hampton, NY | On Site | Mar 14 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/69b5e52756973837413b3b33?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
-| ↳ | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69b5e52756973837413b3b32?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69b5e52756973837413b3b32?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
+| ↳ | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/69b5e52756973837413b3b33?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
 | **[Re-Bath, LLC](https://www.rebathfranchise.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/69acb5e37e1fab39d38445dd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b5de0106c1ba00c547c782?utm_campaign=1065&utm_source=git)** | Santa Rosa, CA | On Site | Mar 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/69b5d49656973837413b3186?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69b509b806c1ba00c546a7e2?utm_campaign=1065&utm_source=git)** | Columbia, Maryland, United States | On Site | Mar 14 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Events Intern /  Part-Time /  Donald L Tucker Civic Center](https://jobright.ai/jobs/info/69b5074d06c1ba00c546a2d2?utm_campaign=1065&utm_source=git)** | Tallahassee, FL, US | On Site | Mar 13 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sr. Associate Brand Manager Intern](https://jobright.ai/jobs/info/69b64e1056973837413b94e4?utm_campaign=1065&utm_source=git)** | East Hanover, NJ | On Site | Mar 13 |
-| **[The Seattle Today](www.theseattletoday.com)** | **[Paid Internship: Communications Intern (Part-Time_](https://jobright.ai/jobs/info/69b4f25f56973837413a014a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
