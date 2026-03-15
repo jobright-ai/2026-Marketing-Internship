@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyatt](http://www.hyatt.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/69b634b23b74eb1e2c83ea72?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Mar 14 |
 | **[The Pilot Club Inc.](https://www.thepilotclub.org)** | **[Unpaid Internship: Aviation Marketing Intern](https://jobright.ai/jobs/info/69b6307406c1ba00c5480631?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
+| **[CommonSpirit Health](https://www.commonspirit.org)** | **[Student Intern](https://jobright.ai/jobs/info/69b637d356973837413b753c?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
 | **[Outcast](https://thisisoutcast.com)** | **[Communications Associate (Intern)](https://jobright.ai/jobs/info/69b6123406c1ba00c547e848?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 14 |
 | **[Index - Web Marketing Agency](http://www.indexwebmarketing.com/en/)** | **[Web Marketing Coordinator, Internship 2024](https://jobright.ai/jobs/info/69b6122a06c1ba00c547e834?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 14 |
 | **[Outcast](https://thisisoutcast.com)** | **[Communications Associate (Intern)](https://jobright.ai/jobs/info/69b60f343b74eb1e2c83c52e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 14 |
 | **[Wags & Walks](http://www.wagsandwalks.org/)** | **[Brand Ambassador Internship](https://jobright.ai/jobs/info/69b5ebae3b74eb1e2c83a8de?utm_campaign=1065&utm_source=git)** | East Hampton, NY | On Site | Mar 14 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/69b5e52756973837413b3b33?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
-| ↳ | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69b5e52756973837413b3b32?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69b5e52756973837413b3b32?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
+| ↳ | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/69b5e52756973837413b3b33?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b5de0106c1ba00c547c782?utm_campaign=1065&utm_source=git)** | Santa Rosa, CA | On Site | Mar 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/69b5d49656973837413b3186?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
 | **[Fengate Asset Management](https://fengate.com/businesses/private-equity/)** | **[Intern, Venture Capital](https://jobright.ai/jobs/info/69b5d17d06c1ba00c547bd39?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 14 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Hanna Andersson](http://www.hannaandersson.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69b4cb1d569738374139bb02?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Mar 13 |
 | **[Gold Beech Construction](http://www.goldbeech.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b4dde7569738374139dcc0?utm_campaign=1065&utm_source=git)** | Lexington, MA | On Site | Mar 13 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69b4d98806c1ba00c54660e2?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 13 |
+| **[BUBBL'R Antioxidant Sparkling Water](https://www.drinkbubblr.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b634663b74eb1e2c83e9ff?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Mar 13 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Retail Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69b4d456569738374139c7cd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | **[Honeywell](http://www.honeywell.com)** | **[Marketing - Summer 2026 Intern](https://jobright.ai/jobs/info/69b62bd206c1ba00c54803b7?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Segment Marketing Intern](https://jobright.ai/jobs/info/69b4d27306c1ba00c546530a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b4cf0d569738374139c5a3?utm_campaign=1065&utm_source=git)** | Santa Rosa, California | On Site | Mar 13 |
-| **[Christian Brothers Services](https://www.cbservices.org/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b4cda83b74eb1e2c82303c?utm_campaign=1065&utm_source=git)** | ROMEOVILLE, IL 60446 | On Site | Mar 13 |
-| **[Prairie Payments Joint Venture](https://prairiepaymentsinitiative.ca)** | **[Communications and Marketing Intern, PPJV](https://jobright.ai/jobs/info/69b4cb1c06c1ba00c54648a5?utm_campaign=1065&utm_source=git)** | Calgary, AB, CA | On Site | Mar 13 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b4caf506c1ba00c5464842?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
