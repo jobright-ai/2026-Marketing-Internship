@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Wags & Walks](http://www.wagsandwalks.org/)** | **[Brand Ambassador Internship](https://jobright.ai/jobs/info/69b5ebae3b74eb1e2c83a8de?utm_campaign=1065&utm_source=git)** | East Hampton, NY | On Site | Mar 14 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69b5e52756973837413b3b32?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
-| ↳ | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/69b5e52756973837413b3b33?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/69b5e52756973837413b3b33?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
+| ↳ | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69b5e52756973837413b3b32?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69b5de0106c1ba00c547c782?utm_campaign=1065&utm_source=git)** | Santa Rosa, CA | On Site | Mar 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/69b5d49656973837413b3186?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
 | **[Fengate Asset Management](https://fengate.com/businesses/private-equity/)** | **[Intern, Venture Capital](https://jobright.ai/jobs/info/69b5d17d06c1ba00c547bd39?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 14 |
@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Direct Marketing Internship - Hilton Head Island](https://jobright.ai/jobs/info/69b5c4cd06c1ba00c547b969?utm_campaign=1065&utm_source=git)** | Hilton Head Island, SC | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/69b5c35606c1ba00c547b90a?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Communications Internship (Summer 2026)](https://jobright.ai/jobs/info/69b5c1da56973837413b2b31?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 14 |
-| **[Central Garden & Pet](http://www.central.com)** | **[Brand Marketing Paid Internship - Summer 2026](https://jobright.ai/jobs/info/69b5c16c3b74eb1e2c8396d7?utm_campaign=1065&utm_source=git)** | Franklin, WI | Hybrid | Mar 14 |
 | **[NetApp](http://netapp.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69b5c15856973837413b2ac3?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 14 |
 | **[CIKA Business Management Advisory](cikaconsulting.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b5b91d06c1ba00c547b590?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | Remote | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Brand Partnerships Intern](https://jobright.ai/jobs/info/69b5b8a13b74eb1e2c83907a?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ralph L. Wadsworth Construction](https://www.wadsco.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4ca9b569738374139b9bb?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Mar 13 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4ca203b74eb1e2c8225bd?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | On Site | Mar 13 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Marketing](https://jobright.ai/jobs/info/69b4c3583b74eb1e2c822225?utm_campaign=1065&utm_source=git)** | Van Nuys, CA, US | On Site | Mar 13 |
+| **[Loblaw Companies Limited](http://www.loblaw.ca/en.html)** | **[Promo Analyst - Co-op Student](https://jobright.ai/jobs/info/69b4c2fa06c1ba00c546413a?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
