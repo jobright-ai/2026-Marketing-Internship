@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6d8e43b74eb1e2c848817?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 15 |
+| **[Full of Grace Marketing](http://www.fullofgracemarketing.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b6eb0d56973837413c233f?utm_campaign=1065&utm_source=git)** | San Antonio, Texas Metropolitan Area | Hybrid | Mar 15 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6e56906c1ba00c548aae6?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 15 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69b6e55a06c1ba00c548aad0?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 15 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69b6e48456973837413c1f7a?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 15 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6e47c56973837413c1f6d?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 15 |
+| **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6881d6e141fbda106ee6da2f?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 15 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6e2e93b74eb1e2c8489bf?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 15 |
+| **[Oakland University](http://www.oakland.edu)** | **[Summer Student Communication Internship for Baby PEACE (Fixed-term)](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7c08?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Mar 15 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6dc2356973837413c1e93?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 15 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6d8e43b74eb1e2c848817?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 15 |
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69b6d7ec06c1ba00c548a7cb?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69b6d5883b74eb1e2c8486cf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 15 |
-| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69b6d2cf06c1ba00c548a693?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 15 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69844a8b8da7a612045e67cc?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Mar 15 |
-| **[MAGZ MARKETING](https://www.magzsports.com)** | **[Sports Marketing Intern](https://jobright.ai/jobs/info/69b6b2c306c1ba00c5488760?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Mar 15 |
+| **[Thinkathon.com by SolutionPeople](http://www.TheSolutionPeopleNetwork.com)** | **[Community Manager](https://jobright.ai/jobs/info/69b6e2dd3b74eb1e2c8489b1?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Mar 15 |
 | **[Continental](https://www.continental.com)** | **[Intern - PLT Marketing Events, Year-Round](https://jobright.ai/jobs/info/69b6b2ad56973837413bf11b?utm_campaign=1065&utm_source=git)** | Fort Mill, SC | On Site | Mar 15 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Communications, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/692f8b4afa28370be26ab5a9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 15 |
 | **[ALO](https://www.aloyoga.com/)** | **[Paid Growth Marketing Intern](https://jobright.ai/jobs/info/697dab3ace48107c0541f9c6?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Mar 15 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Morrison-Maierle](http://m-m.net)** | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/69b4843506c1ba00c545ff44?utm_campaign=1065&utm_source=git)** | Helena, MT | On Site | Mar 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cb9400ba798c1a501d1fed?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 14 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Minnesota Internship](https://jobright.ai/jobs/info/69b52e3856973837413a5dc0?utm_campaign=1065&utm_source=git)** | St. Paul, MN | Hybrid | Mar 14 |
-| **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69956b1cce78e77b4fd9982b?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 14 |
-| ↳ | **[Marketing Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/698fdb590cc8ea15f1da71ee?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 14 |
-| ↳ | **[Channel Marketing Intern - Data & Strategy (Summer 2026)](https://jobright.ai/jobs/info/69957401e0bddb6acac40979?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 14 |
-| **[Nasuni](https://www.nasuni.com)** | **[Communications & Customer Advocacy Intern](https://jobright.ai/jobs/info/69b5267506c1ba00c546ea06?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 14 |
-| **[PetIQ](https://petiq.com)** | **[Social Strategy Intern](https://jobright.ai/jobs/info/69b523ca06c1ba00c546e6a9?utm_campaign=1065&utm_source=git)** | Eagle, ID | On Site | Mar 14 |
-| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Client Solutions Intern](https://jobright.ai/jobs/info/698f84d96ea51a7610f1dff3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
-| **[Stantec](http://www.stantec.com)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69b53e4706c1ba00c546fe12?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Mar 14 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69a15fb1b600907a9627ba78?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
