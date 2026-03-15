@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MAGZ MARKETING](https://www.magzsports.com)** | **[Sports Marketing Intern](https://jobright.ai/jobs/info/69b6b2c306c1ba00c5488760?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Mar 15 |
+| **[Continental](https://www.continental.com)** | **[Intern - PLT Marketing Events, Year-Round](https://jobright.ai/jobs/info/69b6b2ad56973837413bf11b?utm_campaign=1065&utm_source=git)** | Fort Mill, SC | On Site | Mar 15 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Communications, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/692f8b4afa28370be26ab5a9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 15 |
+| **[ALO](https://www.aloyoga.com/)** | **[Paid Growth Marketing Intern](https://jobright.ai/jobs/info/697dab3ace48107c0541f9c6?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Mar 15 |
+| ↳ | **[Site Merchandising & Web Operations Intern](https://jobright.ai/jobs/info/697daa28abff4c399a9c7fdb?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Mar 15 |
 | **[Motion](http://www.dragosupply.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/697d6827137a0510256689e0?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Mar 15 |
 | **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945b560d1953b5d11beb345?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | On Site | Mar 15 |
 | **[Skild AI](https://www.skild.ai/)** | **[Social Media Intern](https://jobright.ai/jobs/info/699a1dc4ce78e77b4fdef72d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Mar 15 |
@@ -68,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Marketing Internship](https://jobright.ai/jobs/info/699acb4f81476f6176b36a96?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 15 |
 | **[Micron Technology](http://www.micron.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6999ac66e0bddb6acac8fcbb?utm_campaign=1065&utm_source=git)** | Meridian, OK | On Site | Mar 15 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/6959e1ed9f1b381eb272888d?utm_campaign=1065&utm_source=git)** | Bergen County, NJ | Hybrid | Mar 15 |
-| **[Central Garden & Pet](http://www.central.com)** | **[Brand Marketing Paid Internship - Summer 2026](https://jobright.ai/jobs/info/69b6765306c1ba00c5486ceb?utm_campaign=1065&utm_source=git)** | Franklin, WI | Hybrid | Mar 15 |
 | **[EDUopinions](https://www.eduopinions.com)** | **[Social Media Intern (Remote, Paid)](https://jobright.ai/jobs/info/69b66f2856973837413bd023?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 15 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699002520cc8ea15f1da9976?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Mar 14 |
 | **[Gazette Gal](www.gazettegal.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69b6461106c1ba00c54823df?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
@@ -85,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Fengate Asset Management](https://fengate.com/businesses/private-equity/)** | **[Intern, Venture Capital](https://jobright.ai/jobs/info/69b5d17d06c1ba00c547bd39?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 14 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Marketing Internship (unpaid)](https://jobright.ai/jobs/info/69b5ce4d56973837413b2e93?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Mar 14 |
 | **[Blue Mountain](http://coolblue.com)** | **[Remote Marketing Internship](https://jobright.ai/jobs/info/69b5ce4756973837413b2e8d?utm_campaign=1065&utm_source=git)** | State College, PA | Remote | Mar 14 |
-| **[Barrow Wise Consulting, LLC](https://www.barrowwise.com)** | **[Internship](https://jobright.ai/jobs/info/69b5cc9506c1ba00c547bba9?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Mar 14 |
 | **[Elara Immigration](elaraimm.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b5cc8e3b74eb1e2c8399dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/69b5cb8e56973837413b2cd8?utm_campaign=1065&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Retention Marketing Intern](https://jobright.ai/jobs/info/69b5cb8506c1ba00c547bac9?utm_campaign=1065&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 14 |
@@ -139,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Drinking Water Solutions (DWS) Marketing and Business Development Intern](https://jobright.ai/jobs/info/69b536753b74eb1e2c82d6ef?utm_campaign=1065&utm_source=git)** | Moon, PA | On Site | Mar 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6960469b7ebc25398eb64be7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Community Impact Team) Hybrid Schedule](https://jobright.ai/jobs/info/6998e827e0bddb6acac7d16a?utm_campaign=1065&utm_source=git)** | Glen Allen, VA | Hybrid | Mar 14 |
+| **[Morrison-Maierle](http://m-m.net)** | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/69b4843506c1ba00c545ff44?utm_campaign=1065&utm_source=git)** | Helena, MT | On Site | Mar 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cb9400ba798c1a501d1fed?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 14 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Minnesota Internship](https://jobright.ai/jobs/info/69b52e3856973837413a5dc0?utm_campaign=1065&utm_source=git)** | St. Paul, MN | Hybrid | Mar 14 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69956b1cce78e77b4fd9982b?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Coordinator](https://jobright.ai/jobs/info/69b5156c06c1ba00c546c9ad?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Mar 14 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Marketing Summer Internship 2026](https://jobright.ai/jobs/info/69b6755056973837413bd5c7?utm_campaign=1065&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 14 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Data & Analytics - Global eCommerce & Audience Analytics](https://jobright.ai/jobs/info/69b512263b74eb1e2c82ab39?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | Remote | Mar 14 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Events Intern /  Part-Time /  Donald L Tucker Civic Center](https://jobright.ai/jobs/info/69b50dcd3b74eb1e2c829d7a?utm_campaign=1065&utm_source=git)** | US-FL-Tallahassee | On Site | Mar 14 |
-| **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b50cf03b74eb1e2c829c8d?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Mar 14 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Events Intern /  Part-Time /  Donald L Tucker Civic Center](https://jobright.ai/jobs/info/69b50c9356973837413a28b9?utm_campaign=1065&utm_source=git)** | Donald L Tucker Civic Center (Florida State U) | On Site | Mar 14 |
-| **[Common Cause](http://www.commoncause.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b50afb06c1ba00c546abdb?utm_campaign=1065&utm_source=git)** | Lower 48 United States | Remote | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
