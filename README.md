@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SERHANT.](https://www.serhant.com)** | **[Social Media Intern – Jade Shenker](https://jobright.ai/jobs/info/69b7125c06c1ba00c548de39?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 15 |
+| **[Central Garden & Pet](http://www.central.com)** | **[Brand Marketing Paid Internship - Summer 2026](https://jobright.ai/jobs/info/69b712193b74eb1e2c84be81?utm_campaign=1065&utm_source=git)** | Franklin, WI | Hybrid | Mar 15 |
+| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Marketing, AI and Customer Segmentation](https://jobright.ai/jobs/info/698656898ca8121a3a688c0b?utm_campaign=1065&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 15 |
+| ↳ | **[Summer Intern- Display Marketing, Marketing Communications](https://jobright.ai/jobs/info/698562bc348f733a5c39c083?utm_campaign=1065&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 15 |
+| **[Serigraph](http://www.serigraph.com)** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/69b70f8456973837413c4860?utm_campaign=1065&utm_source=git)** | West Bend, WI | On Site | Mar 15 |
 | **[Black Kanyon](https://www.blackkanyon.com)** | **[Intern - Marketing & Content Creator](https://jobright.ai/jobs/info/69b7024756973837413c377d?utm_campaign=1065&utm_source=git)** | Lake Norden, SD | On Site | Mar 15 |
 | **[PaleBlueDot AI](https://palebluedot.ai)** | **[Event & Brand Marketing Intern](https://jobright.ai/jobs/info/69b7004e3b74eb1e2c84a277?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Mar 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b6f68656973837413c24cf?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Mar 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[M18, an Orchestra company](https://www.m18pr.com)** | **[Summer 2026 Communications Internship](https://jobright.ai/jobs/info/6998e57881476f6176b14ae1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
 | **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6880cd7a29ad6b2744adc425?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Mar 14 |
 | **[KLA](https://www.kla.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/694334f7dd382f5f56692858?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Mar 14 |
-| **[Derris, an Orchestra company](http://derris.com)** | **[Summer 2026 Communications Internship](https://jobright.ai/jobs/info/69a69406708b430a607af94a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - eComm - LIC](https://jobright.ai/jobs/info/69b53aae56973837413a669b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697d6fac727747250d585879?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Mar 14 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Drinking Water Solutions (DWS) Marketing and Business Development Intern](https://jobright.ai/jobs/info/69b536753b74eb1e2c82d6ef?utm_campaign=1065&utm_source=git)** | Moon, PA | On Site | Mar 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6960469b7ebc25398eb64be7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
