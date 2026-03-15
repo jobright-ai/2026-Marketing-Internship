@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Outcast](https://thisisoutcast.com)** | **[Communications Associate (Intern)](https://jobright.ai/jobs/info/69b6123406c1ba00c547e848?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 14 |
+| **[Index - Web Marketing Agency](http://www.indexwebmarketing.com/en/)** | **[Web Marketing Coordinator, Internship 2024](https://jobright.ai/jobs/info/69b6122a06c1ba00c547e834?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 14 |
+| **[Outcast](https://thisisoutcast.com)** | **[Communications Associate (Intern)](https://jobright.ai/jobs/info/69b60f343b74eb1e2c83c52e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 14 |
 | **[Wags & Walks](http://www.wagsandwalks.org/)** | **[Brand Ambassador Internship](https://jobright.ai/jobs/info/69b5ebae3b74eb1e2c83a8de?utm_campaign=1065&utm_source=git)** | East Hampton, NY | On Site | Mar 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing and Business Development Intern – Diversified Applications](https://jobright.ai/jobs/info/69b5e52756973837413b3b33?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
 | ↳ | **[Business Development & Technical Marketing Intern - Innovative Carbon Tech](https://jobright.ai/jobs/info/69b5e52756973837413b3b32?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Prairie Payments Joint Venture](https://prairiepaymentsinitiative.ca)** | **[Communications and Marketing Intern, PPJV](https://jobright.ai/jobs/info/69b4cb1c06c1ba00c54648a5?utm_campaign=1065&utm_source=git)** | Calgary, AB, CA | On Site | Mar 13 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b4caf506c1ba00c5464842?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 | **[Ralph L. Wadsworth Construction](https://www.wadsco.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4ca9b569738374139b9bb?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Mar 13 |
-| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4ca203b74eb1e2c8225bd?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | On Site | Mar 13 |
-| **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Marketing](https://jobright.ai/jobs/info/69b4c3583b74eb1e2c822225?utm_campaign=1065&utm_source=git)** | Van Nuys, CA, US | On Site | Mar 13 |
-| **[Loblaw Companies Limited](http://www.loblaw.ca/en.html)** | **[Promo Analyst - Co-op Student](https://jobright.ai/jobs/info/69b4c2fa06c1ba00c546413a?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
