@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Value Aligners](Valuealigners.com)** | **[Cyber Security Sales & Marketing Intern](https://jobright.ai/jobs/info/69b763c006c1ba00c549205c?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 15 |
 | **[Gift](https://www.shine.gift)** | **[Kpop Intern - Growth / Field Marketing](https://jobright.ai/jobs/info/69b737e256973837413c5734?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 15 |
 | **[Robometrics® Machines](https://www.robometricsagi.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b735d206c1ba00c548eade?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 15 |
 | **[Fitnescity Health](https://www.fitnescity.com/)** | **[Social Media Specialist (Intern)](https://jobright.ai/jobs/info/69b7308a06c1ba00c548e977?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAAS](http://www.aaas.org/)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/6998ff4d81476f6176b17254?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 14 |
 | **[Glen Echo Group, an Orchestra company](https://www.glenechogroup.com)** | **[Summer 2026 Communications Internship](https://jobright.ai/jobs/info/699f2149ce78e77b4fe4e92f?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 14 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/69b543d73b74eb1e2c82de20?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
-| **[BerlinRosen, an Orchestra company](https://berlinrosen.com)** | **[Summer 2026 Communications Internship](https://jobright.ai/jobs/info/69a52d80359fe034b1cfb947?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
