@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[B. Braun Interventional Systems Inc.](https://bisusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/69ad0f19142d5b4265fe31e8?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Mar 16 |
+| **[Rock Events](https://rockevents.com/)** | **[Event Venues Intern - Summer 2026](https://jobright.ai/jobs/info/6945cfb7d1953b5d11bed585?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Mar 16 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b7c4f906c1ba00c5499a3b?utm_campaign=1065&utm_source=git)** | Vienna, VA | On Site | Mar 16 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69b7c1f306c1ba00c5499993?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 16 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Publicity Intern (Adult)](https://jobright.ai/jobs/info/69b7bc0906c1ba00c5498cab?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
@@ -126,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6999ac66e0bddb6acac8fcbb?utm_campaign=1065&utm_source=git)** | Meridian, OK | On Site | Mar 15 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/6959e1ed9f1b381eb272888d?utm_campaign=1065&utm_source=git)** | Bergen County, NJ | Hybrid | Mar 15 |
 | **[EDUopinions](https://www.eduopinions.com)** | **[Social Media Intern (Remote, Paid)](https://jobright.ai/jobs/info/69b66f2856973837413bd023?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 15 |
+| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Marketing/ Trading](https://jobright.ai/jobs/info/69433cf394730b739876462f?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Mar 15 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699002520cc8ea15f1da9976?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Mar 14 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/69b634b23b74eb1e2c83ea72?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Mar 14 |
 | **[The Pilot Club Inc.](https://www.thepilotclub.org)** | **[Unpaid Internship: Aviation Marketing Intern](https://jobright.ai/jobs/info/69b6307406c1ba00c5480631?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citizen Relations](http://ca.citizenrelations.com)** | **[Internship (Public Relations)](https://jobright.ai/jobs/info/69a555b1359fe034b1cfea79?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 14 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/69a4fc28b600907a962a9eda?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Hybrid | Mar 14 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Media Planning](https://jobright.ai/jobs/info/6998ed56ce78e77b4fdd7dd7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
-| **[GreenLeaf, a Chefs' Warehouse company](https://greenleafsf.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/697d26ba3f57a3356966e2b0?utm_campaign=1065&utm_source=git)** | Brisbane, CA | Hybrid | Mar 14 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Direct Marketing Internship - Hilton Head Island](https://jobright.ai/jobs/info/69b586883b74eb1e2c834ec1?utm_campaign=1065&utm_source=git)** | Hilton Head Island M&S | On Site | Mar 14 |
-| **[Hearst Health](http://www.hearsthealth.com)** | **[Creative & Product Marketing Intern](https://jobright.ai/jobs/info/69a65231d706a731db3832f0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
