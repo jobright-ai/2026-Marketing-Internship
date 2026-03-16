@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ABRAMS](http://www.abramsbooks.com)** | **[Marketing Intern (Children's)](https://jobright.ai/jobs/info/69b7b8733b74eb1e2c85643e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b7c4f906c1ba00c5499a3b?utm_campaign=1065&utm_source=git)** | Vienna, VA | On Site | Mar 16 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69b7c1f306c1ba00c5499993?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 16 |
+| **[ABRAMS](http://www.abramsbooks.com)** | **[Publicity Intern (Adult)](https://jobright.ai/jobs/info/69b7bc0906c1ba00c5498cab?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
+| ↳ | **[Marketing Intern (Children's)](https://jobright.ai/jobs/info/69b7b8733b74eb1e2c85643e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
 | ↳ | **[Digital & Social Media Intern (Marketing)](https://jobright.ai/jobs/info/69b7b86f06c1ba00c5498435?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
 | ↳ | **[Marketing Intern (School & Library)](https://jobright.ai/jobs/info/69b7b86c3b74eb1e2c85642a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
 | **[Super Soccer Stars](http://supersoccerstars.com)** | **[Soccer Stars - Marketing Intern](https://jobright.ai/jobs/info/69b79cad06c1ba00c5495333?utm_campaign=1065&utm_source=git)** | Naperville, IL | On Site | Mar 15 |
@@ -75,12 +78,10 @@ For a complete list, click the following sortable link below:
 | **[NerdsToGo](https://www.nerdstogo.com/)** | **[IT MSP Sales & Marketing Intern](https://jobright.ai/jobs/info/69b77da706c1ba00c54930bf?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Mar 15 |
 | **[Electro](electrogum.com)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/69b77b6756973837413c9b1a?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 15 |
 | **[Rubenstein Public Relations](https://www.rubensteinpr.com/)** | **[Summer PR Internship](https://jobright.ai/jobs/info/69b7791b3b74eb1e2c8510dc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 15 |
-| **[TE'AMO BOBA & DESSERT](https://www.teamobobabar.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b777b806c1ba00c5492f38?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Mar 15 |
-| **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern - Multi-Channel Marketing - Parsippany, NJ](https://jobright.ai/jobs/info/69b771c63b74eb1e2c850967?utm_campaign=1065&utm_source=git)** | Parsippany, United States, New Jersey, 07054 | On Site | Mar 15 |
-| ↳ | **[Intern - Innovative Medicines Marketing - Parsippany, NJ](https://jobright.ai/jobs/info/69b771c63b74eb1e2c850966?utm_campaign=1065&utm_source=git)** | Parsippany, United States, New Jersey, 07054 | Hybrid | Mar 15 |
+| **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern - Innovative Medicines Marketing - Parsippany, NJ](https://jobright.ai/jobs/info/69b771c63b74eb1e2c850966?utm_campaign=1065&utm_source=git)** | Parsippany, United States, New Jersey, 07054 | Hybrid | Mar 15 |
+| ↳ | **[Intern - Multi-Channel Marketing - Parsippany, NJ](https://jobright.ai/jobs/info/69b771c63b74eb1e2c850967?utm_campaign=1065&utm_source=git)** | Parsippany, United States, New Jersey, 07054 | On Site | Mar 15 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Client Services](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1311?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 15 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69b7708106c1ba00c54927ec?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Mar 15 |
-| **[Gazette Gal](www.gazettegal.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69b7706e3b74eb1e2c85087a?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 15 |
 | **[Value Aligners](Valuealigners.com)** | **[Cyber Security Sales & Marketing Intern](https://jobright.ai/jobs/info/69b763c006c1ba00c549205c?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 15 |
 | **[Gift](https://www.shine.gift)** | **[Kpop Intern - Growth / Field Marketing](https://jobright.ai/jobs/info/69b737e256973837413c5734?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 15 |
 | **[Robometrics® Machines](https://www.robometricsagi.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b735d206c1ba00c548eade?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GreenLeaf, a Chefs' Warehouse company](https://greenleafsf.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/697d26ba3f57a3356966e2b0?utm_campaign=1065&utm_source=git)** | Brisbane, CA | Hybrid | Mar 14 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Direct Marketing Internship - Hilton Head Island](https://jobright.ai/jobs/info/69b586883b74eb1e2c834ec1?utm_campaign=1065&utm_source=git)** | Hilton Head Island M&S | On Site | Mar 14 |
 | **[Hearst Health](http://www.hearsthealth.com)** | **[Creative & Product Marketing Intern](https://jobright.ai/jobs/info/69a65231d706a731db3832f0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
-| **[Avant](https://www.avant.com)** | **[Card Strategy & Partnerships Summer Internship](https://jobright.ai/jobs/info/69992766e0bddb6acac83049?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
