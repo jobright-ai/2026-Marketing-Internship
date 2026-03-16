@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Grind By Faith Music Group](http://GrindByFaith.org)** | **[Social Media and Brand Intern](https://jobright.ai/jobs/info/69b812f456973837413d40e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 16 |
+| **[EN-POWER GROUP](http://www.en-powergroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b81f933b74eb1e2c85c283?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Marketing Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/690e83cf221b890c2780ee22?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Mar 16 |
+| **[Crocs, Inc.](http://www.crocs.com)** | **[Intern - Marketing (HEYDUDE)](https://jobright.ai/jobs/info/69b818543b74eb1e2c85be76?utm_campaign=1065&utm_source=git)** | Westwood, MA | Hybrid | Mar 16 |
+| **[ShyftLabs](https://shyftlabs.io/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69b8185006c1ba00c549e21a?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | On Site | Mar 16 |
+| **[PIADA ITALIAN STREET FOOD](http://www.mypiada.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b815953b74eb1e2c85bc90?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Mar 16 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Marketing & Communications Manager](https://jobright.ai/jobs/info/69b8156e3b74eb1e2c85bc67?utm_campaign=1065&utm_source=git)** | Triangle Area | On Site | Mar 16 |
+| **[First Quality](http://firstquality.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b814d906c1ba00c549deab?utm_campaign=1065&utm_source=git)** | US PA Lewistown | On Site | Mar 16 |
 | **[Specialty Restoration](http://www.specialtyrestorationoftexas.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b812ba06c1ba00c549d99d?utm_campaign=1065&utm_source=git)** | Waco, TX | On Site | Mar 16 |
 | **[CrossPaths](https://crosspaths.love)** | **[Campus Ambassador / Growth Marketing Intern](https://jobright.ai/jobs/info/69b80f8056973837413d3fab?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69b80c5156973837413d3d5e?utm_campaign=1065&utm_source=git)** | US-DE-Wilmington | Hybrid | Mar 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elara Immigration](elaraimm.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b5cc8e3b74eb1e2c8399dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/69b5cb8e56973837413b2cd8?utm_campaign=1065&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Retention Marketing Intern](https://jobright.ai/jobs/info/69b5cb8506c1ba00c547bac9?utm_campaign=1065&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 14 |
-| ↳ | **[Retention Marketing Intern](https://jobright.ai/jobs/info/69b5c6f13b74eb1e2c8397ec?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Direct Marketing Internship - Hilton Head Island](https://jobright.ai/jobs/info/69b5c4cd06c1ba00c547b969?utm_campaign=1065&utm_source=git)** | Hilton Head Island, SC | On Site | Mar 14 |
-| **[REVOLVE](https://www.revolve.com/)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/69b5c35606c1ba00c547b90a?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
-| **[NetApp](http://netapp.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69b5c15856973837413b2ac3?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 14 |
-| **[CIKA Business Advisory](cikaconsulting.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b5b91d06c1ba00c547b590?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | Remote | Mar 14 |
-| **[REVOLVE](https://www.revolve.com/)** | **[Brand Partnerships Intern](https://jobright.ai/jobs/info/69b5b8a13b74eb1e2c83907a?utm_campaign=1065&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
