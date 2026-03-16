@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABRAMS](http://www.abramsbooks.com)** | **[Marketing Intern (Children's)](https://jobright.ai/jobs/info/69b7b8733b74eb1e2c85643e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
+| ↳ | **[Digital & Social Media Intern (Marketing)](https://jobright.ai/jobs/info/69b7b86f06c1ba00c5498435?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
+| ↳ | **[Marketing Intern (School & Library)](https://jobright.ai/jobs/info/69b7b86c3b74eb1e2c85642a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
 | **[Super Soccer Stars](http://supersoccerstars.com)** | **[Soccer Stars - Marketing Intern](https://jobright.ai/jobs/info/69b79cad06c1ba00c5495333?utm_campaign=1065&utm_source=git)** | Naperville, IL | On Site | Mar 15 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Corporate Services](https://jobright.ai/jobs/info/69b798153b74eb1e2c85321f?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Mar 15 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Digital & Social Media Intern (Marketing)](https://jobright.ai/jobs/info/69b794763b74eb1e2c852d19?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Mar 15 |
@@ -73,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[Social Media & NIL Outreach](https://jobright.ai/jobs/info/69b77b6756973837413c9b1a?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 15 |
 | **[Rubenstein Public Relations](https://www.rubensteinpr.com/)** | **[Summer PR Internship](https://jobright.ai/jobs/info/69b7791b3b74eb1e2c8510dc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 15 |
 | **[TE'AMO BOBA & DESSERT](https://www.teamobobabar.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b777b806c1ba00c5492f38?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Mar 15 |
-| **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern - Innovative Medicines Marketing - Parsippany, NJ](https://jobright.ai/jobs/info/69b771c63b74eb1e2c850966?utm_campaign=1065&utm_source=git)** | Parsippany, United States, New Jersey, 07054 | Hybrid | Mar 15 |
-| ↳ | **[Intern - Multi-Channel Marketing - Parsippany, NJ](https://jobright.ai/jobs/info/69b771c63b74eb1e2c850967?utm_campaign=1065&utm_source=git)** | Parsippany, United States, New Jersey, 07054 | On Site | Mar 15 |
+| **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern - Multi-Channel Marketing - Parsippany, NJ](https://jobright.ai/jobs/info/69b771c63b74eb1e2c850967?utm_campaign=1065&utm_source=git)** | Parsippany, United States, New Jersey, 07054 | On Site | Mar 15 |
+| ↳ | **[Intern - Innovative Medicines Marketing - Parsippany, NJ](https://jobright.ai/jobs/info/69b771c63b74eb1e2c850966?utm_campaign=1065&utm_source=git)** | Parsippany, United States, New Jersey, 07054 | Hybrid | Mar 15 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Client Services](https://jobright.ai/jobs/info/6987888d8ca8121a3a6a1311?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 15 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69b7708106c1ba00c54927ec?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Mar 15 |
 | **[Gazette Gal](www.gazettegal.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69b7706e3b74eb1e2c85087a?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 15 |
@@ -123,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/6959e1ed9f1b381eb272888d?utm_campaign=1065&utm_source=git)** | Bergen County, NJ | Hybrid | Mar 15 |
 | **[EDUopinions](https://www.eduopinions.com)** | **[Social Media Intern (Remote, Paid)](https://jobright.ai/jobs/info/69b66f2856973837413bd023?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 15 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699002520cc8ea15f1da9976?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Mar 14 |
-| **[Microbiologics](http://www.microbiologics.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b7976306c1ba00c5494fc0?utm_campaign=1065&utm_source=git)** | St Cloud, MN | On Site | Mar 14 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/69b634b23b74eb1e2c83ea72?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Mar 14 |
 | **[The Pilot Club Inc.](https://www.thepilotclub.org)** | **[Unpaid Internship: Aviation Marketing Intern](https://jobright.ai/jobs/info/69b6307406c1ba00c5480631?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Student Intern](https://jobright.ai/jobs/info/69b637d356973837413b753c?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Direct Marketing Internship - Hilton Head Island](https://jobright.ai/jobs/info/69b586883b74eb1e2c834ec1?utm_campaign=1065&utm_source=git)** | Hilton Head Island M&S | On Site | Mar 14 |
 | **[Hearst Health](http://www.hearsthealth.com)** | **[Creative & Product Marketing Intern](https://jobright.ai/jobs/info/69a65231d706a731db3832f0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
 | **[Avant](https://www.avant.com)** | **[Card Strategy & Partnerships Summer Internship](https://jobright.ai/jobs/info/69992766e0bddb6acac83049?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 14 |
-| **[Rentokil Réunion - Les experts de la lutte contre les nuisibles partout  à la Réunion](https://www.rentokil.re)** | **[Internal Communications and Change Specialist](https://jobright.ai/jobs/info/69b6d7543b74eb1e2c848791?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Mar 14 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/6972f3c5694e99351d1438e7?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
