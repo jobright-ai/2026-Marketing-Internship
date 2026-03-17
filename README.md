@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[silvr](https://www.silvr.ai)** | **[Fashion Marketing Intern (Fully Remote)](https://jobright.ai/jobs/info/69b8c6bf3b74eb1e2c86d0f6?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 16 |
-| **[Minor Football League](http://www.mflishere.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b8bf4806c1ba00c54aee9c?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 16 |
+| **[silvr](https://www.silvr.ai)** | **[Fashion Marketing Intern (Fully Remote)](https://jobright.ai/jobs/info/69b8f8ee06c1ba00c54b06c2?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b8bf3356973837413e5f60?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Young & Laramore](http://yandl.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b8bd6156973837413e5dbc?utm_campaign=1065&utm_source=git)** | Indianapolis, 407 Fulton Street, US | Hybrid | Mar 16 |
 | **[Nasuni](https://www.nasuni.com)** | **[MBA Product Marketing Intern](https://jobright.ai/jobs/info/69b8bacb06c1ba00c54ae9cc?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Mar 16 |
@@ -68,11 +67,10 @@ For a complete list, click the following sortable link below:
 | **[Sugar Shane's](http://sugarshanes.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69b8a7e83b74eb1e2c869332?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Mar 16 |
 | **[NCTA - The Internet & Television Association](https://www.ncta.com)** | **[Strategic Communications Intern](https://jobright.ai/jobs/info/69b8a7df3b74eb1e2c86931f?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 16 |
 | **[99 Yards](https://99yards.app)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b8a1123b74eb1e2c8683c5?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Mar 16 |
-| **[DataBridge Insights & Solutions, LLC](www.databridgeinsights.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69b89f7f3b74eb1e2c867eda?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 16 |
 | **[Twin State Technical Services](https://www.tsts.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b8ba513b74eb1e2c86c68b?utm_campaign=1065&utm_source=git)** | Davenport,IA,US | On Site | Mar 16 |
 | **[Sound Physicians](http://www.soundphysicians.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69b8c38f56973837413e6129?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 16 |
-| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b8bd0a56973837413e5ca6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 16 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69b8bcb006c1ba00c54aec63?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Mar 16 |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b8bcb006c1ba00c54aec63?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Mar 16 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69b8bd0a56973837413e5ca6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 16 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Brand & Label Opportunities: Creative (Onsite: NY))](https://jobright.ai/jobs/info/69b89b4e3b74eb1e2c8672fb?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Mar 16 |
 | **[Sloane](http://www.sloanepr.com/)** | **[PR Internship, Sloane and Company- Summer 2026](https://jobright.ai/jobs/info/69b8bce556973837413e5b64?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Mar 16 |
 | ↳ | **[PR Internship, Sloane and Company- Summer 2026](https://jobright.ai/jobs/info/69b8bc2d06c1ba00c54aeae9?utm_campaign=1065&utm_source=git)** | US-NY-New York | Hybrid | Mar 16 |
@@ -81,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Brand & Label Opportunities: Creative (Onsite: CA)](https://jobright.ai/jobs/info/69b8903256973837413deef3?utm_campaign=1065&utm_source=git)** | Santa Monica, California | On Site | Mar 16 |
 | ↳ | **[Universal Music Group 2026 Summer Internship Program: Brand & Label Opportunities: Creative (Onsite: CA)](https://jobright.ai/jobs/info/69b890313b74eb1e2c8664d3?utm_campaign=1065&utm_source=git)** | Hollywood, California | On Site | Mar 16 |
 | **[Schneider Electric](https://www.se.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b88fb706c1ba00c54a86c2?utm_campaign=1065&utm_source=git)** | Columbia, MD | Hybrid | Mar 16 |
-| **[VML HEALTH](http://vml.com)** | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885b206c1ba00c54a8219?utm_campaign=1065&utm_source=git)** | Seattle, Washington, United States | Hybrid | Mar 16 |
-| ↳ | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885b206c1ba00c54a8216?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 16 |
+| **[VML HEALTH](http://vml.com)** | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885b206c1ba00c54a8216?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 16 |
+| ↳ | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885b206c1ba00c54a8219?utm_campaign=1065&utm_source=git)** | Seattle, Washington, United States | Hybrid | Mar 16 |
 | ↳ | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885b206c1ba00c54a8217?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 16 |
 | ↳ | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885a706c1ba00c54a81d6?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 16 |
 | ↳ | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885a706c1ba00c54a81d8?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | Hybrid | Mar 16 |
@@ -117,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Medidata Solutions](https://www.medidata.com)** | **[Growth Marketing, Content Marketer (Summer Intern)(NYC)](https://jobright.ai/jobs/info/69b876883b74eb1e2c8647db?utm_campaign=1065&utm_source=git)** | New Jersey, United States | On Site | Mar 16 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverPro - Marketing Internship (Remote, US)](https://jobright.ai/jobs/info/69b8749356973837413dce75?utm_campaign=1065&utm_source=git)** | Remote- US | Remote | Mar 16 |
 | **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/69b8747d06c1ba00c54a67ed?utm_campaign=1065&utm_source=git)** | Woodbridge, Ontario | On Site | Mar 16 |
-| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Event Services](https://jobright.ai/jobs/info/69b874733b74eb1e2c864441?utm_campaign=1065&utm_source=git)** | Williamsville, NY, United States of America | Hybrid | Mar 16 |
-| ↳ | **[Summer Intern - Marketing Analyst](https://jobright.ai/jobs/info/69b874733b74eb1e2c864437?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Mar 16 |
+| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Marketing Analyst](https://jobright.ai/jobs/info/69b874733b74eb1e2c864437?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Mar 16 |
+| ↳ | **[Summer Intern - Event Services](https://jobright.ai/jobs/info/69b874733b74eb1e2c864441?utm_campaign=1065&utm_source=git)** | Williamsville, NY, United States of America | Hybrid | Mar 16 |
 | **[Logitech](https://www.logitech.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b8747006c1ba00c54a67b4?utm_campaign=1065&utm_source=git)** | San Jose, California - USA | Hybrid | Mar 16 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69b8746f3b74eb1e2c864428?utm_campaign=1065&utm_source=git)** | Irvine, California - USA | Hybrid | Mar 16 |
 | **[Sully-Miller Contracting Co.](http://sully-miller.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b32fc3ad360c0340a854ed?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Mar 16 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Summer 2026 Digital Internship](https://jobright.ai/jobs/info/69b85c6e56973837413d9df1?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 16 |
 | ↳ | **[Summer 2026 Communications Internship](https://jobright.ai/jobs/info/69b85bde3b74eb1e2c8611a9?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 16 |
 | ↳ | **[Summer 2026 Fundraising Internship](https://jobright.ai/jobs/info/69b85bb606c1ba00c54a3553?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 16 |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Marketing – Jr. Marketing Coordinator (NFWS)](https://jobright.ai/jobs/info/69b85b3006c1ba00c54a33ea?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 16 |
+| **[GameChanger](https://gc.com/)** | **[Social Media Summer Intern](https://jobright.ai/jobs/info/69b85ac906c1ba00c54a321d?utm_campaign=1065&utm_source=git)** | Syracuse-Auburn Area | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
