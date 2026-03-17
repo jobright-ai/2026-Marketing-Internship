@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Everytown for Gun Safety](https://www.everytown.org/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69b9acb456973837413f20c5?utm_campaign=1065&utm_source=git)** | DC Office, Washington, DC, US | Hybrid | Mar 17 |
+| ↳ | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69b9aca006c1ba00c54bad13?utm_campaign=1065&utm_source=git)** | New York, New York, NY, US | Hybrid | Mar 17 |
+| **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern- Marketing](https://jobright.ai/jobs/info/69b9ac8206c1ba00c54bacee?utm_campaign=1065&utm_source=git)** | 2251 Newlins Road, Easton, PA, 18045, US | On Site | Mar 17 |
 | **[Ion Bank](http://ionbank.com)** | **[Marketing Intern - Summer](https://jobright.ai/jobs/info/69b9abb406c1ba00c54bac4f?utm_campaign=1065&utm_source=git)** | Naugatuck, Connecticut, United States | On Site | Mar 17 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Philanthropy Intern](https://jobright.ai/jobs/info/69b9ab1406c1ba00c54bab26?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Mar 17 |
 | **[LG Electronics](http://www.lg.com)** | **[Public Relations Intern (PR/Marketing)](https://jobright.ai/jobs/info/69b99cfb56973837413f1720?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 17 |
@@ -69,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - IT Communications Specialist](https://jobright.ai/jobs/info/69b99aa756973837413f13c6?utm_campaign=1065&utm_source=git)** | 4299 NW Urbandale Dr, Urbandale, IA, 50322, US | On Site | Mar 17 |
 | **[PHI Air Medical](https://www.phiairmedical.com)** | **[Communication & Marketing Intern](https://jobright.ai/jobs/info/69b999d556973837413f12c5?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Mar 17 |
 | **[Zendesk](http://zendesk.com)** | **[Summer 2026 Internship - Associate Product Marketing Specialist](https://jobright.ai/jobs/info/69b999cd3b74eb1e2c87806d?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States of America | Hybrid | Mar 17 |
-| **[mtheory LLC](https://mtheory.com/artist-partnerships/)** | **[Summer Nashville Content Marketing Internship / 2026](https://jobright.ai/jobs/info/69b9989856973837413f11b0?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Mar 17 |
-| ↳ | **[Summer Nashville Marketing Analytics Internship / 2026](https://jobright.ai/jobs/info/69b9989856973837413f11af?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Mar 17 |
+| **[mtheory LLC](https://mtheory.com/artist-partnerships/)** | **[Summer Nashville Marketing Analytics Internship / 2026](https://jobright.ai/jobs/info/69b9989856973837413f11af?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Mar 17 |
+| ↳ | **[Summer Nashville Content Marketing Internship / 2026](https://jobright.ai/jobs/info/69b9989856973837413f11b0?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Mar 17 |
 | ↳ | **[Summer Nashville Tour Marketing Internship / 2026](https://jobright.ai/jobs/info/69b998713b74eb1e2c877f1e?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Mar 17 |
 | **[Englewood Marketing Group](https://www.emg-usa.com)** | **[Digital Content & Marketing Intern](https://jobright.ai/jobs/info/69b98ecd06c1ba00c54b9601?utm_campaign=1065&utm_source=git)** | Green Bay, WI, US | On Site | Mar 17 |
 | **[Logitech](https://www.logitech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b98dac56973837413f03fe?utm_campaign=1065&utm_source=git)** | San Jose, California - USA | On Site | Mar 17 |
@@ -130,10 +133,10 @@ For a complete list, click the following sortable link below:
 | **[VML HEALTH](http://vml.com)** | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885b206c1ba00c54a8218?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 16 |
 | ↳ | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885b206c1ba00c54a8219?utm_campaign=1065&utm_source=git)** | Seattle, Washington, United States | Hybrid | Mar 16 |
 | ↳ | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885b206c1ba00c54a8217?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 16 |
-| ↳ | **[Intern - Copywriter](https://jobright.ai/jobs/info/69b885a706c1ba00c54a81dd?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 16 |
 | ↳ | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885a706c1ba00c54a81d6?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 16 |
-| ↳ | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885a706c1ba00c54a81d9?utm_campaign=1065&utm_source=git)** | Rogers, Arkansas, United States | Hybrid | Mar 16 |
 | ↳ | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885a706c1ba00c54a81d8?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | Hybrid | Mar 16 |
+| ↳ | **[Intern - Account & Social Media](https://jobright.ai/jobs/info/69b885a706c1ba00c54a81d9?utm_campaign=1065&utm_source=git)** | Rogers, Arkansas, United States | Hybrid | Mar 16 |
+| ↳ | **[Intern - Copywriter](https://jobright.ai/jobs/info/69b885a706c1ba00c54a81dd?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 16 |
 | **[ABB](https://global.abb/group/en)** | **[Marketing, Program and Analytics - Intern Summer 2026](https://jobright.ai/jobs/info/69b8850c3b74eb1e2c865eab?utm_campaign=1065&utm_source=git)** | Remote, New Jersey, United States of America | Remote | Mar 16 |
 | **[VML HEALTH](http://vml.com)** | **[Intern - Copywriter](https://jobright.ai/jobs/info/69b884c43b74eb1e2c865e68?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 16 |
 | ↳ | **[Intern - Copywriter](https://jobright.ai/jobs/info/69b884b33b74eb1e2c865e17?utm_campaign=1065&utm_source=git)** | Costa Mesa, California, United States | Hybrid | Mar 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Icertis](https://www.icertis.com)** | **[Marketing Operations Intern – Data Management & AI Workflows](https://jobright.ai/jobs/info/69b87cc556973837413dded8?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 16 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Housing Conference and Marketing Coordinator](https://jobright.ai/jobs/info/69b87bc63b74eb1e2c865272?utm_campaign=1065&utm_source=git)** | Greater Orlando | On Site | Mar 16 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Strategic Marketing Intern 2-5hrs/week](https://jobright.ai/jobs/info/69b87bc33b74eb1e2c865262?utm_campaign=1065&utm_source=git)** | Washington, United States | Remote | Mar 16 |
-| **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Marketing & Social Media Intern (Hybrid in CA)](https://jobright.ai/jobs/info/69b87b8606c1ba00c54a76c1?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 16 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Communications and Events Specialist [Vancouver]](https://jobright.ai/jobs/info/69b8799d06c1ba00c54a7281?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Mar 16 |
-| **[Logitech](https://www.logitech.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69b877c53b74eb1e2c864b08?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
