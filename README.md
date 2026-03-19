@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IW Group Inc.](http://iwgroupinc.com)** | **[Intern](https://jobright.ai/jobs/info/699fdf76ce78e77b4fe5cb3a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 19 |
+| **[Fifth & Cor](https://www.fifthandcor.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69bc380c5b89c002acf18d12?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Hybrid | Mar 19 |
+| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69bc37ef5b89c002acf18c35?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 19 |
+| **[ATRA](https://www.megethosdigital.com/)** | **[Paid Media Intern](https://jobright.ai/jobs/info/69bc37d25b89c002acf18b5b?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Mar 19 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Operations Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69bc379b5b89c002acf189fd?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Mar 19 |
+| **[SCAN](https://www.thescangroup.org/)** | **[Public Relations & Social Media Content Developer Intern](https://jobright.ai/jobs/info/69bc36c34828227293fdbbc0?utm_campaign=1065&utm_source=git)** | Long Beach Office 3800 | On Site | Mar 19 |
+| **[Atlas Arena](https://www.atlasarena.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69bc35dd5b89c002acf1832c?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 19 |
+| **[Hanna Andersson](http://www.hannaandersson.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69b4cb1d569738374139bb02?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Mar 19 |
+| **[C1](http://www.spanlink.com)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/699f578181476f6176b8f3e3?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Together AI](https://www.together.ai)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc32cd4828227293fdb2dc?utm_campaign=1065&utm_source=git)** | San Francisco | On Site | Mar 19 |
 | **[Hanna Andersson](http://www.hannaandersson.com)** | **[Paid Social Marketing Intern](https://jobright.ai/jobs/info/69b48ef206c1ba00c5460f3a?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Mar 19 |
 | **[Carter Bank](https://carterbank.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69bc30874828227293fdaf16?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Mar 19 |
@@ -87,16 +96,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc13a75b89c002acf10e4d?utm_campaign=1065&utm_source=git)** | Maple Ridge, BC | On Site | Mar 19 |
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc13a65b89c002acf10e42?utm_campaign=1065&utm_source=git)** | Etobicoke, ON | On Site | Mar 19 |
 | **[Trinity Western University](http://Twu.ca)** | **[Manager, Enrolment Marketing (Undergraduate)](https://jobright.ai/jobs/info/694c66ac5d7312113470d81b?utm_campaign=1065&utm_source=git)** | Langley, BC | On Site | Mar 19 |
-| **[Premium Retail Services](http://premiumretail.com)** | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc132f4828227293fd3aab?utm_campaign=1065&utm_source=git)** | Thunder Bay, ON | On Site | Mar 19 |
-| ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc132f4828227293fd3aaa?utm_campaign=1065&utm_source=git)** | Whitby, ON | On Site | Mar 19 |
-| ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc132a4828227293fd3a98?utm_campaign=1065&utm_source=git)** | Bolton, ON | On Site | Mar 19 |
+| **[Premium Retail Services](http://premiumretail.com)** | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc132f4828227293fd3aaa?utm_campaign=1065&utm_source=git)** | Whitby, ON | On Site | Mar 19 |
+| ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc132f4828227293fd3aab?utm_campaign=1065&utm_source=git)** | Thunder Bay, ON | On Site | Mar 19 |
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc132a4828227293fd3a9a?utm_campaign=1065&utm_source=git)** | Grande Prairie, AB | On Site | Mar 19 |
+| ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc132a4828227293fd3a98?utm_campaign=1065&utm_source=git)** | Bolton, ON | On Site | Mar 19 |
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc13204828227293fd3a78?utm_campaign=1065&utm_source=git)** | Ancaster, ON | On Site | Mar 19 |
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc13144828227293fd3a57?utm_campaign=1065&utm_source=git)** | Campbell River, BC | On Site | Mar 19 |
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc13074828227293fd3a36?utm_campaign=1065&utm_source=git)** | Dartmouth, NS | On Site | Mar 19 |
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc13074828227293fd3a38?utm_campaign=1065&utm_source=git)** | Burlington, ON | On Site | Mar 19 |
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc13074828227293fd3a32?utm_campaign=1065&utm_source=git)** | London, ON | On Site | Mar 19 |
 | **[Gold Beech Construction](http://www.goldbeech.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69bc305d4828227293fdae8b?utm_campaign=1065&utm_source=git)** | Lexington, MA | On Site | Mar 19 |
+| **[NetApp](http://netapp.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69bc37985b89c002acf189e4?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 19 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Social Media](https://jobright.ai/jobs/info/69bc0fcb45e08b3dc1f7fe5a?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Mar 19 |
 | **[Premium Retail Services](http://premiumretail.com)** | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc0f5345e08b3dc1f7fce6?utm_campaign=1065&utm_source=git)** | Victoria, BC | On Site | Mar 19 |
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc0f5245e08b3dc1f7fce5?utm_campaign=1065&utm_source=git)** | Sarnia, ON | On Site | Mar 19 |
@@ -109,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69bc0e515b89c002acf106b5?utm_campaign=1065&utm_source=git)** | Katy, TX | On Site | Mar 19 |
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[PR Intern](https://jobright.ai/jobs/info/69bc0bca45e08b3dc1f7fa9e?utm_campaign=1065&utm_source=git)** | Division 4, Subdivision E, Newfoundland and Labrador, Canada | On Site | Mar 19 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[Marketing & Communications Student Intern](https://jobright.ai/jobs/info/69bc0a7c45e08b3dc1f7f707?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Mar 19 |
+| **[Assured Consulting Solutions](http://www.assured-consulting.com)** | **[2026 Intern: Marketing, Social Media, and Communications](https://jobright.ai/jobs/info/69bc36435b89c002acf18444?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | Mar 19 |
 | **[Cedar & Cactus](www.cedarandcactus.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69bc03304828227293fd1997?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Mar 19 |
 | **[Time Out Group plc](http://www.timeout.com)** | **[Creative Solutions Paid Internship](https://jobright.ai/jobs/info/69bc032b45e08b3dc1f7e23a?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 19 |
 | **[JAM Industries](https://jamindustries.com/)** | **[AMS - Marketing Internship](https://jobright.ai/jobs/info/699f6aa681476f6176b9013f?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 19 |
@@ -127,11 +138,11 @@ For a complete list, click the following sortable link below:
 | **[Planet](http://www.planet.com)** | **[Global Performance Marketing Manager](https://jobright.ai/jobs/info/6984086d01214b4cdacc6502?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Mar 19 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Commercial Marketing Co-Op](https://jobright.ai/jobs/info/692dd64966796e3028f969f4?utm_campaign=1065&utm_source=git)** | Somerset, NJ | On Site | Mar 19 |
 | **[VB Spine](https://vbspineco.com)** | **[Intern, Marketing (IBD)](https://jobright.ai/jobs/info/69a585430da45516f16e2f44?utm_campaign=1065&utm_source=git)** | Leesburg, VA | On Site | Mar 19 |
-| **[Premium Retail Services](http://premiumretail.com)** | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc316845e08b3dc1f87866?utm_campaign=1065&utm_source=git)** | Medicine Hat, AB | On Site | Mar 19 |
-| ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc329f5b89c002acf17f4c?utm_campaign=1065&utm_source=git)** | Niagara Falls, ON | On Site | Mar 19 |
+| **[Premium Retail Services](http://premiumretail.com)** | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc32a15b89c002acf17f50?utm_campaign=1065&utm_source=git)** | Orleans, ON | On Site | Mar 19 |
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc32a05b89c002acf17f4d?utm_campaign=1065&utm_source=git)** | Maple, ON | On Site | Mar 19 |
-| ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc32a15b89c002acf17f50?utm_campaign=1065&utm_source=git)** | Orleans, ON | On Site | Mar 19 |
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc32a05b89c002acf17f4f?utm_campaign=1065&utm_source=git)** | Bedford, NS | On Site | Mar 19 |
+| ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc329f5b89c002acf17f4c?utm_campaign=1065&utm_source=git)** | Niagara Falls, ON | On Site | Mar 19 |
+| ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc316845e08b3dc1f87866?utm_campaign=1065&utm_source=git)** | Medicine Hat, AB | On Site | Mar 19 |
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc32a05b89c002acf17f4e?utm_campaign=1065&utm_source=git)** | Saskatoon, SK | On Site | Mar 19 |
 | ↳ | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bc329f5b89c002acf17f4b?utm_campaign=1065&utm_source=git)** | Kanata, ON | On Site | Mar 19 |
 | **[Aircall](https://aircall.io/)** | **[Regional Marketing Intern (12 months)](https://jobright.ai/jobs/info/696853fef25a38006696b99d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 19 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crohn's & Colitis Foundation](https://www.crohnscolitisfoundation.org/)** | **[Intern, Social Media & Corporate Communicatio](https://jobright.ai/jobs/info/699f7b6681476f6176b90f35?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[VB Spine](https://vbspineco.com)** | **[Intern, Marketing (TL Fixation)](https://jobright.ai/jobs/info/699fddde53d97f23ee65651d?utm_campaign=1065&utm_source=git)** | Leesburg, VA | On Site | Mar 19 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699f5fb0ce78e77b4fe527d0?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Mar 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Campaign Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6966eb06b098f4515f4e54aa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 19 |
-| **[Sei Labs](https://www.seinetwork.io)** | **[Crypto Twitter - Marketing Intern](https://jobright.ai/jobs/info/69bbd3694828227293fcb749?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 19 |
-| **[Reyes Coca-Cola Bottling](https://www.reyescocacola.com/)** | **[Campus Marketing Representative (University of Michigan)](https://jobright.ai/jobs/info/698401d2348f733a5c37b1be?utm_campaign=1065&utm_source=git)** | New Hudson, MI | On Site | Mar 19 |
-| **[Wills Group](http://www.willsgroup.com)** | **[Rising Talent Intern - Summer 2026](https://jobright.ai/jobs/info/69bbcebf78a5df4797fd7069?utm_campaign=1065&utm_source=git)** | La Plata, MD | Hybrid | Mar 19 |
-| **[Ferrovial](http://www.ferrovial.com/en)** | **[US Communications Intern](https://jobright.ai/jobs/info/699d0be9ce78e77b4fe1d9cb?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Mar 19 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/69bbefcc4828227293fcfb2d?utm_campaign=1065&utm_source=git)** | Georgia, United States | On Site | Mar 19 |
-| ↳ | **[MARKETING INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/699fd0c5ce78e77b4fe5bb28?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 19 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Marketing & Business Development Intern – Industrial Solutions](https://jobright.ai/jobs/info/69bc19a84828227293fd4cf5?utm_campaign=1065&utm_source=git)** | Moon, PA | Hybrid | Mar 19 |
-| **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern – Social Media, TikTok Shop](https://jobright.ai/jobs/info/699fdb40ce78e77b4fe5c561?utm_campaign=1065&utm_source=git)** | Rosemont, IL | Hybrid | Mar 19 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Digital Strategy and Enablement Intern](https://jobright.ai/jobs/info/699fbc77ce78e77b4fe5a0c1?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 19 |
-| **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern (Canada) - Summer 2026](https://jobright.ai/jobs/info/69bbc14806c1ba00c54e4fa4?utm_campaign=1065&utm_source=git)** | Ontario, Canada | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
