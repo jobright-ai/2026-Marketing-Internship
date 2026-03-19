@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Social Media & Content Intern - Summer 2026](https://jobright.ai/jobs/info/69bba7653b74eb1e2c8a2608?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 19 |
+| **[LPGA](http://www.lpga.com)** | **[FM Championship Volunteer and Social Media Intern (Boston, MA)](https://jobright.ai/jobs/info/69bba4813b74eb1e2c8a2520?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 19 |
+| **[Devil Dog Marketplace ](https://devildogmarketplace.com/)** | **[LinkedIn Outreach Intern – Paid Per Approved Loan](https://jobright.ai/jobs/info/69bb9cf43b74eb1e2c8a1d54?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Groma](https://groma.com/)** | **[Marketing Summer Associate](https://jobright.ai/jobs/info/69bb91af3b74eb1e2c8a1769?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Mar 18 |
 | **[DormDish](https://dormdish.ai)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69bb91083b74eb1e2c8a16cd?utm_campaign=1065&utm_source=git)** | Lyndhurst, NJ | On Site | Mar 18 |
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69bb904906c1ba00c54e2d57?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 18 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[OpenX](https://www.openx.com/)** | **[Publisher Development Intern](https://jobright.ai/jobs/info/69bb7b37569738374141822a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 18 |
 | **[Video Rebirth](https://videorebirth.com/)** | **[Social Media Operations Intern –  AI Video Generation Startup](https://jobright.ai/jobs/info/69bb7a9106c1ba00c54df45c?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 18 |
 | **[Carlos Rosario International Public Charter School](https://www.carlosrosario.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69bb782f5697383741417f2c?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | Mar 18 |
+| **[City Detect](https://citydetect.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69bb96e03b74eb1e2c8a1b61?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Schraad Sales & Marketing](http://schraadinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bb75d406c1ba00c54df150?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Mar 18 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Product Marketing](https://jobright.ai/jobs/info/69bb71e25697383741417519?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 18 |
 | **[RJ Lee Group](https://rjlg.com/)** | **[Internship Marketing](https://jobright.ai/jobs/info/69bb6eb43b74eb1e2c89d9aa?utm_campaign=1065&utm_source=git)** | Plum, PA | Hybrid | Mar 18 |
@@ -134,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69bb4dac06c1ba00c54dc472?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Remote | Mar 18 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Community & Special Events Intern, WRAL](https://jobright.ai/jobs/info/69bb2c975697383741412b33?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Mar 18 |
 | ↳ | **[Advertising Operations Media Coordinator Intern, WRAL-TV Sales](https://jobright.ai/jobs/info/69bb2c1f3b74eb1e2c899ae6?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Mar 18 |
-| **[BrainPOP](http://www.brainpop.com)** | **[Brand and Product Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69bb2adc5697383741412a4c?utm_campaign=1065&utm_source=git)** | New York, NY (Hybrid) | Hybrid | Mar 18 |
-| ↳ | **[Growth Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69bb2adc5697383741412a4f?utm_campaign=1065&utm_source=git)** | New York, NY (Hybrid) | Hybrid | Mar 18 |
+| **[BrainPOP](http://www.brainpop.com)** | **[Growth Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69bb2adc5697383741412a4f?utm_campaign=1065&utm_source=git)** | New York, NY (Hybrid) | Hybrid | Mar 18 |
+| ↳ | **[Brand and Product Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69bb2adc5697383741412a4c?utm_campaign=1065&utm_source=git)** | New York, NY (Hybrid) | Hybrid | Mar 18 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Brand Marketing Lifestyle Summer Intern](https://jobright.ai/jobs/info/69bb2acf5697383741412a1b?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Mar 18 |
 | **[ALO](https://www.aloyoga.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69bb2a363b74eb1e2c899a02?utm_campaign=1065&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 18 |
 | **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern (Canada) - Summer 2026](https://jobright.ai/jobs/info/69bb2a293b74eb1e2c8999c7?utm_campaign=1065&utm_source=git)** | Ontario, Canada | On Site | Mar 18 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Re-Bath, LLC](https://www.rebathfranchise.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/69acb5e37e1fab39d38445dd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 18 |
 | **[Alaska Behavioral Health](https://alaskabehavioralhealth.org/)** | **[Communications & Marketing Intern (Part-Time)](https://jobright.ai/jobs/info/69bb250056973837414123e3?utm_campaign=1065&utm_source=git)** | Anchorage, AK, US | On Site | Mar 18 |
 | **[American Red Cross](http://redcross.org)** | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245e56973837414122f4?utm_campaign=1065&utm_source=git)** | Texas, United States | Hybrid | Mar 18 |
-| ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245856973837414122dd?utm_campaign=1065&utm_source=git)** | Tennessee, United States | Hybrid | Mar 18 |
-| ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245856973837414122de?utm_campaign=1065&utm_source=git)** | Oregon, United States | Hybrid | Mar 18 |
-| ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245856973837414122dc?utm_campaign=1065&utm_source=git)** | Iowa, United States | Hybrid | Mar 18 |
 | ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245856973837414122df?utm_campaign=1065&utm_source=git)** | Oklahoma, United States | Hybrid | Mar 18 |
+| ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245856973837414122dd?utm_campaign=1065&utm_source=git)** | Tennessee, United States | Hybrid | Mar 18 |
+| ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245856973837414122dc?utm_campaign=1065&utm_source=git)** | Iowa, United States | Hybrid | Mar 18 |
+| ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245856973837414122de?utm_campaign=1065&utm_source=git)** | Oregon, United States | Hybrid | Mar 18 |
 | ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb24533b74eb1e2c8991e6?utm_campaign=1065&utm_source=git)** | Montana, United States | Hybrid | Mar 18 |
-| ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245056973837414122cd?utm_campaign=1065&utm_source=git)** | West Virginia, United States | Hybrid | Mar 18 |
-| ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245056973837414122cf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 18 |
-| ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245056973837414122ce?utm_campaign=1065&utm_source=git)** | Baldwin Park, CA | Hybrid | Mar 18 |
 | ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245056973837414122cb?utm_campaign=1065&utm_source=git)** | Washington, United States | Hybrid | Mar 18 |
-| ↳ | **[Junior Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/69bb245056973837414122cc?utm_campaign=1065&utm_source=git)** | Michigan, United States | Hybrid | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
