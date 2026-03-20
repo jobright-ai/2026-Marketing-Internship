@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barstool Sports](http://www.barstoolsports.com)** | **[Partnership Marketing Intern](https://jobright.ai/jobs/info/69bd69d54828227293ff9c10?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Rich Products Corporation](https://rich.com)** | **[Health & Authenticity Intern](https://jobright.ai/jobs/info/69a1107f6b458d060735c4c7?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Mar 20 |
 | **[JAM Industries](https://jamindustries.com/)** | **[Erikson Consumer Multimedia - Intern](https://jobright.ai/jobs/info/69a11d2a6b458d060735d4e2?utm_campaign=1065&utm_source=git)** | Baie-d’Urfé, QC | On Site | Mar 20 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Sales & Marketing](https://jobright.ai/jobs/info/6983972a0f6f7e7a2cdd07ee?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 20 |
@@ -73,6 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Fifth & Cor](https://www.fifthandcor.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69bd52234828227293ff90c6?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Hybrid | Mar 20 |
 | **[Pure Storage](http://www.purestorage.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69844bee0f6f7e7a2cdea534?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Mar 20 |
 | **[Concept Reply US](https://www.reply.com/concept-reply/en/)** | **[Social Network Intern](https://jobright.ai/jobs/info/6967f0841703f05405a98f53?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Mar 20 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bd69884828227293ff9b5d?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Mar 20 |
+| ↳ | **[LN Concerts, Tour Marketing Intern](https://jobright.ai/jobs/info/69bd6846b106024562824b68?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Mar 20 |
 | **[Empower](https://www.empower.com)** | **[Sr Marketing Videographer & Editor](https://jobright.ai/jobs/info/69bd46464828227293ff814e?utm_campaign=1065&utm_source=git)** | Greenwood Village, CO | Hybrid | Mar 20 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Summer Public Relations Intern](https://jobright.ai/jobs/info/69a17a54b600907a9627e83c?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | Mar 20 |
 | **[Learning Commons](https://learningcommons.org/)** | **[Staff Brand Experience Designer](https://jobright.ai/jobs/info/6969a95c639b452fb57f9a20?utm_campaign=1065&utm_source=git)** | Redwood City, CA | Hybrid | Mar 20 |
@@ -125,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Rally Enterprises](http://www.rallycamps.com/)** | **[Solana Beach - Padres Camps - Customer Experience & Marketing Coordinator - Paid Summer Internship](https://jobright.ai/jobs/info/69bd1d0d45e08b3dc1fa3819?utm_campaign=1065&utm_source=git)** | Solana Beach, CA | Hybrid | Mar 19 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bce49be6a0d97925850f89?utm_campaign=1065&utm_source=git)** | Austin, TX, USA | On Site | Mar 19 |
 | ↳ | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bce48b4828227293fef55b?utm_campaign=1065&utm_source=git)** | Dallas, TX, USA | On Site | Mar 19 |
-| **[Integrity](https://www.integritymarketing.com)** | **[Marketing & Media Process Intern](https://jobright.ai/jobs/info/69bce108e6a0d97925850c7b?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Mar 19 |
 | **[Priority Health](http://www.priorityhealth.com/)** | **[Community Relations Event Intern](https://jobright.ai/jobs/info/69bd1c30b10602456282077a?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Mar 19 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Content Creation Intern - Summer 2026](https://jobright.ai/jobs/info/69bcdc3d4828227293fee93b?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Mar 19 |
 | **[State of Utah](http://www.utah.gov/)** | **[Social Media & Civic Impact Intern](https://jobright.ai/jobs/info/69bcdbf8e6a0d97925850324?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Marketing Representative (University of Michigan)](https://jobright.ai/jobs/info/69bc9e9d4828227293fe80de?utm_campaign=1065&utm_source=git)** | New Hudson, MI | On Site | Mar 19 |
 | **[Havas Edge](http://www.havasedge.com)** | **[Media Intern](https://jobright.ai/jobs/info/69bc9a714828227293fe7c9c?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Mar 19 |
 | **[DESIGNME HAIR](https://designmehair.com/)** | **[Product Development & Product Marketing Intern](https://jobright.ai/jobs/info/69bc98a245e08b3dc1f959ee?utm_campaign=1065&utm_source=git)** | Montreal, QC | Remote | Mar 19 |
-| **[Vevo](http://vevo.com)** | **[Summer 2026  Ad Ops Intern](https://jobright.ai/jobs/info/69ab98b0142d5b4265fcbbfa?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
-| **[Arjo](https://www.arjo.com/int/)** | **[Marketing Support Specialist (Summer Intern) (Healthcare) - Mississauga, ON](https://jobright.ai/jobs/info/69bc951445e08b3dc1f956ec?utm_campaign=1065&utm_source=git)** | Ontario, Canada | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
