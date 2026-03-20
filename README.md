@@ -57,10 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bce49be6a0d97925850f89?utm_campaign=1065&utm_source=git)** | Austin, TX, USA | On Site | Mar 19 |
+| ↳ | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bce48b4828227293fef55b?utm_campaign=1065&utm_source=git)** | Dallas, TX, USA | On Site | Mar 19 |
+| **[Integrity](https://www.integritymarketing.com)** | **[Marketing & Media Process Intern](https://jobright.ai/jobs/info/69bce108e6a0d97925850c7b?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Mar 19 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Content Creation Intern - Summer 2026](https://jobright.ai/jobs/info/69bcdc3d4828227293fee93b?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Mar 19 |
+| **[State of Utah](http://www.utah.gov/)** | **[Social Media & Civic Impact Intern](https://jobright.ai/jobs/info/69bcdbf8e6a0d97925850324?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 19 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bcda6545e08b3dc1f9bacf?utm_campaign=1065&utm_source=git)** | Wallingford, CT, USA | On Site | Mar 19 |
+| **[NSK](https://www.nskamericas.com)** | **[Marketing Summer Internship](https://jobright.ai/jobs/info/69a772b676bbe83d3afad6a5?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 19 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bcd8264828227293fedb95?utm_campaign=1065&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Mar 19 |
 | **[First Street](https://firststreet.org/)** | **[GTM Internship](https://jobright.ai/jobs/info/69bcc180e6a0d9792584cc37?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Marketing Intern (Part-time) (Clayton, MO)](https://jobright.ai/jobs/info/69bcc178e6a0d9792584cc10?utm_campaign=1065&utm_source=git)** | Clayton, MO | On Site | Mar 19 |
 | **[IEEE](http://www.ieee.org)** | **[Marketing Automation Intern](https://jobright.ai/jobs/info/69bcc0ba45e08b3dc1f98aeb?utm_campaign=1065&utm_source=git)** | Piscataway, NJ | On Site | Mar 19 |
 | **[Specialityvalve](https://www.specialityvalve.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bcbfc44828227293fea91e?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Mar 19 |
+| **[Prime Secured](https://primesecured.com)** | **[Social Media & Event Coordinator College Intern](https://jobright.ai/jobs/info/69bcd745e6a0d9792584f801?utm_campaign=1065&utm_source=git)** | Elkhorn, NE | On Site | Mar 19 |
 | **[Stantec](http://www.stantec.com)** | **[North America Growth Business Analyst](https://jobright.ai/jobs/info/69bcb82845e08b3dc1f977fa?utm_campaign=1065&utm_source=git)** | Mississauga, ON | On Site | Mar 19 |
 | ↳ | **[North America Growth Business Analyst](https://jobright.ai/jobs/info/69bcb7814828227293fe99c8?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 19 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Sports Marketing - Part Time](https://jobright.ai/jobs/info/69bcb7324828227293fe997e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allegiant](https://www.allegiantair.com/)** | **[Loyalty Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc5f765b89c002acf1fb79?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Mar 19 |
 | **[Coffman Engineers](http://www.coffman.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bc5f4a5b89c002acf1fad4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 19 |
 | **[Sealed Air Corporation](https://www.sealedair.com)** | **[Marketing Communications & Brand Experience Intern](https://jobright.ai/jobs/info/69bc5f015b89c002acf1f9d6?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 19 |
-| **[Worcester Railers HC](https://www.railershc.com)** | **[Summer 2026 Community Relations & Fan Engagement Intern](https://jobright.ai/jobs/info/69bc5e9845e08b3dc1f8f49a?utm_campaign=1065&utm_source=git)** | Worcester, MA | On Site | Mar 19 |
-| **[PROJXON](www.projxon.com)** | **[SEO Intern](https://jobright.ai/jobs/info/69bc89a05b89c002acf24643?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 19 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Digital Marketing Summer Internship](https://jobright.ai/jobs/info/699f940b81476f6176b943f3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
-| **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/69bc5aa85b89c002acf1ed43?utm_campaign=1065&utm_source=git)** | Fresno,CA,US | Remote | Mar 19 |
-| **[WS Development](http://wsdevelopment.com)** | **[Marketing Intern, Stuyvesant Plaza](https://jobright.ai/jobs/info/69bc5a8d4828227293fe169f?utm_campaign=1065&utm_source=git)** | Albany, New York, United States | On Site | Mar 19 |
-| **[University of Arkansas](http://uark.edu)** | **[Communications Intern](https://jobright.ai/jobs/info/69bc5a484828227293fe159c?utm_campaign=1065&utm_source=git)** | Fayetteville, AR | On Site | Mar 19 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69bc5a394828227293fe1555?utm_campaign=1065&utm_source=git)** | Spring, TX | On Site | Mar 19 |
-| **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Intern, Communications and Marketing](https://jobright.ai/jobs/info/69bc5a324828227293fe152b?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 19 |
-| **[Champion](https://www.championmgt.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69bc58a745e08b3dc1f8dfef?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
