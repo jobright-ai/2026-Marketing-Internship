@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vacheron Constantin](https://www.vacheron-constantin.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69a1e1640da45516f16b330d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Creator Team](https://jobright.ai/jobs/info/69a2a2e4b600907a962902ec?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| **[Donor Network of Arizona](http://www.dnaz.org)** | **[Paid Community Engagement & Communications Intern (Bilingual Preferred)](https://jobright.ai/jobs/info/699e621181476f6176b767e8?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Mar 21 |
+| **[Authentic Brands Group](https://authentic.com)** | **[Global Marketing - Operations & Production Summer Intern](https://jobright.ai/jobs/info/69baee6f06c1ba00c54d4096?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Mar 21 |
+| **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69a20f1d0da45516f16b5882?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Mar 21 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Windsor, ON](https://jobright.ai/jobs/info/694cc4cad4a7df7a0672145d?utm_campaign=1065&utm_source=git)** | Windsor, ON | On Site | Mar 21 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Communications Intern](https://jobright.ai/jobs/info/69867e3e0f6f7e7a2ce17d02?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 21 |
 | **[Grove City College](http://www.gcc.edu/)** | **[Marketing](https://jobright.ai/jobs/info/6986b51e8ca8121a3a6913f7?utm_campaign=1065&utm_source=git)** | Grove City, PA | On Site | Mar 21 |
 | **[Cerrowire](http://cerrowire.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/696ae6205fc86241853a1b72?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Mar 21 |
@@ -86,14 +92,14 @@ For a complete list, click the following sortable link below:
 | **[FJDZ INTERNATIONAL,INC.](http://www.fjdzinc.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69be48cf393a1008f74430cf?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | On Site | Mar 20 |
 | **[GMMB](http://gmmb.com)** | **[Digital Strategy - Summer Internship 2026, Washington, DC](https://jobright.ai/jobs/info/69b1d696d04c69566c743735?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 20 |
 | **[International](https://www.international.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69be1cbd393a1008f743fbf6?utm_campaign=1065&utm_source=git)** | Lisle, IL | On Site | Mar 20 |
-| **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa09?utm_campaign=1065&utm_source=git)** | Sioux Falls, South Dakota, United States | Hybrid | Mar 20 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442053?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa0a?utm_campaign=1065&utm_source=git)** | Boise, Idaho, United States | Hybrid | Mar 20 |
+| **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442053?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442050?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Mar 20 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa08?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Mar 20 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa09?utm_campaign=1065&utm_source=git)** | Sioux Falls, South Dakota, United States | Hybrid | Mar 20 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa0a?utm_campaign=1065&utm_source=git)** | Boise, Idaho, United States | Hybrid | Mar 20 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa06?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442057?utm_campaign=1065&utm_source=git)** | Manassas Park, Virginia, United States | Hybrid | Mar 20 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa08?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Mar 20 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f744205a?utm_campaign=1065&utm_source=git)** | Cheyenne, Wyoming, United States | Hybrid | Mar 20 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442057?utm_campaign=1065&utm_source=git)** | Manassas Park, Virginia, United States | Hybrid | Mar 20 |
 | **[Re-Bath, LLC](https://www.rebathfranchise.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/69acb5e37e1fab39d38445dd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 20 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Marketing Intern - Univ. of Central Ark](https://jobright.ai/jobs/info/69be393b393a1008f74420a9?utm_campaign=1065&utm_source=git)** | Conway, AR, US, 72035 | On Site | Mar 20 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Marketing Intern](https://jobright.ai/jobs/info/69be1586482822729300cac3?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Shopper Marketing Internship](https://jobright.ai/jobs/info/69bdd0feb1060245628312a3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | ↳ | **[Merchandising Internship](https://jobright.ai/jobs/info/69bdd0c04828227293005d97?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[RJ Lee Group](https://rjlg.com/)** | **[Applied Data Scientist & Market Research Analyst Internship](https://jobright.ai/jobs/info/69bdd07d393a1008f7437f4b?utm_campaign=1065&utm_source=git)** | Plum, PA | Hybrid | Mar 20 |
-| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Market Access & Patient Services Analytics Intern](https://jobright.ai/jobs/info/69bdd07a393a1008f7437f26?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Mar 20 |
-| **[National Women's Law Center](http://www.nwlc.org/)** | **[Social Media and Digital Engagement Internship](https://jobright.ai/jobs/info/69bdd06b4828227293005c11?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
-| **[Primo Brands](https://primowatercorp.com)** | **[Sales Event Operations Intern](https://jobright.ai/jobs/info/69bdd042b106024562830f7d?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Mar 20 |
-| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Market Development Intern](https://jobright.ai/jobs/info/69bdcdba4828227293005295?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Mar 20 |
-| **[La Vie En Rose](https://www.lavieenrose.com)** | **[INTERNSHIP, E-MAIL MARKETING](https://jobright.ai/jobs/info/69bdcc8bb1060245628307ec?utm_campaign=1065&utm_source=git)** | Montreal, QC | On Site | Mar 20 |
-| **[BHcare](https://bhcare.org)** | **[Intern- Social Media](https://jobright.ai/jobs/info/69bdcc12b1060245628306a2?utm_campaign=1065&utm_source=git)** | North Haven, CT | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
