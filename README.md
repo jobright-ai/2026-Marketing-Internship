@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benchmark](http://www.bench.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69bdfb2db1060245628360b3?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Mar 20 |
+| **[McCain Foods](http://www.mccain.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69bdf89d393a1008f743d213?utm_campaign=1065&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Mar 20 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdf23a393a1008f743c29f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 20 |
 | **[Intersect](https://www.intersectpower.com)** | **[Market Analyst Intern](https://jobright.ai/jobs/info/69bdf053b106024562834ec4?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69bdeeb44828227293009d18?utm_campaign=1065&utm_source=git)** | Glendale, CA | Hybrid | Mar 20 |
@@ -80,9 +82,7 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69bddeb8393a1008f743b4a6?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Mar 20 |
 | **[Angels of Care Pediatric Home Health](https://angelsofcare.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bdde8eb106024562834465?utm_campaign=1065&utm_source=git)** | McKinney, Texas | Remote | Mar 20 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69bdde12b106024562834381?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Mar 20 |
-| **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Marketing Intern (Horseshoe Bossier)](https://jobright.ai/jobs/info/69bddb394828227293008a3b?utm_campaign=1065&utm_source=git)** | Bossier City, LA | On Site | Mar 20 |
 | **[Angels of Care Pediatric Home Health](https://angelsofcare.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bddb2348282272930089f1?utm_campaign=1065&utm_source=git)** | McKinney, TX | Remote | Mar 20 |
-| **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Publicity Advertising Intern - Seasonal (Caesars Atlantic City/CES)](https://jobright.ai/jobs/info/69bdda60b1060245628333de?utm_campaign=1065&utm_source=git)** | Atlantic City, NJ | On Site | Mar 20 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Onsite Marketing Administrative Internship (Spring 2026)](https://jobright.ai/jobs/info/69bdd8ecb106024562832f4d?utm_campaign=1065&utm_source=git)** | Marriott's Shadow Ridge | On Site | Mar 20 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern (External Communications)](https://jobright.ai/jobs/info/69bdd8754828227293007d16?utm_campaign=1065&utm_source=git)** | US DC 9th St NW | Hybrid | Mar 20 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate or Graduate, Communications)](https://jobright.ai/jobs/info/69bdd7f948282272930079d7?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 20 |
@@ -123,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[The University of South Dakota Knudson School of Law](http://www.usd.edu/law)** | **[Enrollment Marketing Specialist](https://jobright.ai/jobs/info/69bdb83f393a1008f74328b8?utm_campaign=1065&utm_source=git)** | Vermillion, SD | On Site | Mar 20 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/69bdb83e393a1008f74328b6?utm_campaign=1065&utm_source=git)** | Queens, NY | Hybrid | Mar 20 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Marketing Intern](https://jobright.ai/jobs/info/69bdd81d393a1008f7439bdc?utm_campaign=1065&utm_source=git)** | US | MA | Remote | Remote | Mar 20 |
-| **[Bravura Security](https://www.bravurasecurity.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bdd817393a1008f7439ba7?utm_campaign=1065&utm_source=git)** | Canada - Calgary, AB | On Site | Mar 20 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69bdd8174828227293007ab9?utm_campaign=1065&utm_source=git)** | Canada - Remote | Remote | Mar 20 |
+| **[Bravura Security](https://www.bravurasecurity.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bdd8174828227293007ab9?utm_campaign=1065&utm_source=git)** | Canada - Remote | Remote | Mar 20 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69bdd817393a1008f7439ba7?utm_campaign=1065&utm_source=git)** | Canada - Calgary, AB | On Site | Mar 20 |
 | **[Bill360](https://www.bill360.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bdb785393a1008f7432454?utm_campaign=1065&utm_source=git)** | Greater Tampa Bay Area | On Site | Mar 20 |
 | **[Parallel18](http://www.parallel18.com)** | **[Parallel18 Intern (Temporary Internship)](https://jobright.ai/jobs/info/69bdd9ffb106024562833132?utm_campaign=1065&utm_source=git)** | Forward Center, San Juan, PR, US | On Site | Mar 20 |
 | **[Colliers](http://www.colliers.com)** | **[Summer 2026 - Corporate Communications Intern](https://jobright.ai/jobs/info/69bdb67a48282272930001c6?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 20 |
@@ -137,11 +137,9 @@ For a complete list, click the following sortable link below:
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[Scheduling & Event Coordinator](https://jobright.ai/jobs/info/69bdddefb106024562834352?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Mar 20 |
 | **[State Of Vermont Dept Health](https://www.healthvermont.gov/)** | **[Outreach Intern (Paid)](https://jobright.ai/jobs/info/69bdccb0b1060245628308c1?utm_campaign=1065&utm_source=git)** | Montpelier | On Site | Mar 20 |
 | **[ITW](http://www.itw.com/)** | **[Marketing Intern (Class of 2027 and 2028)](https://jobright.ai/jobs/info/69bc71b44828227293fe4fe5?utm_campaign=1065&utm_source=git)** | Lake Forest, IL | On Site | Mar 20 |
-| **[JCPenney](http://jcp.com)** | **[Intern: Marketing](https://jobright.ai/jobs/info/69bdab954828227293ffebc7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 20 |
 | **[Marquee Brands](http://www.marqueebrands.com)** | **[PR Intern](https://jobright.ai/jobs/info/69bdab60b10602456282a168?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 20 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69bdab60b10602456282a169?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 20 |
 | ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69bdab2e4828227293ffea8b?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 20 |
-| **[End No Sleep, Inc.](https://endnosleep.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69bdab044828227293ffea3e?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Mar 20 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69bdc6de48282272930037d0?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
 | **[Rosenbauer America](http://rosenbaueramerica.com)** | **[RBA Marketing Intern](https://jobright.ai/jobs/info/69bdcc6eb10602456283076b?utm_campaign=1065&utm_source=git)** | Rosenbauer Minnesota - Wyoming, MN 55092 | On Site | Mar 20 |
 | **[La Vie En Rose](https://www.lavieenrose.com)** | **[INTERNSHIP, E-MAIL MARKETING](https://jobright.ai/jobs/info/69bdcc184828227293004cca?utm_campaign=1065&utm_source=git)** | SIEGE SOCIAL, 3055 VIAU, MONTREAL, Quebec, Canada | On Site | Mar 20 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Latin Marketing Intern](https://jobright.ai/jobs/info/69bda510b10602456282915e?utm_campaign=1065&utm_source=git)** | Miami, FL, USA | On Site | Mar 20 |
 | **[GWL Realty Advisors](http://www.gwlrealtyadvisors.com/)** | **[Social Media Specialist Summer Student](https://jobright.ai/jobs/info/69bda50e393a1008f742fd31?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | On Site | Mar 20 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Social Media/ Digital Marketing](https://jobright.ai/jobs/info/69bda4cab106024562829098?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 20 |
+| **[Maverick MKG](https://www.maverickmkg.com/)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/69bdc30eb10602456282e3c4?utm_campaign=1065&utm_source=git)** | Greater Philadelphia | On Site | Mar 20 |
+| **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/69bda38f4828227293ffd9d9?utm_campaign=1065&utm_source=git)** | 76 Lou Groza Boulevard, Berea, OH, USA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
