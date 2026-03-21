@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[Assistant Director, Guest Services & Marketing, Randy Owens Center for the Performing Arts](https://jobright.ai/jobs/info/69be59c54828227293013216?utm_campaign=1065&utm_source=git)** | Jacksonville, AL | On Site | Mar 21 |
+| **[Bourns, Inc.](http://www.bourns.com/)** | **[Intern Industrial Marketing - SR](https://jobright.ai/jobs/info/69be533c4828227293011fa1?utm_campaign=1065&utm_source=git)** | Carrollton, TX | On Site | Mar 21 |
+| ↳ | **[Intern Industrial Marketing - JR](https://jobright.ai/jobs/info/69be51294828227293011b8a?utm_campaign=1065&utm_source=git)** | Carrollton, TX | On Site | Mar 21 |
+| **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be47b0393a1008f74430cd?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 21 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Social Media & Content Intern - Summer 2026](https://jobright.ai/jobs/info/69be41ff4828227293010804?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 21 |
 | **[Arena](https://arena.im)** | **[Marketing Intern](https://jobright.ai/jobs/info/69be3eb4482822729300fe66?utm_campaign=1065&utm_source=git)** | Cupertino, CA | On Site | Mar 20 |
 | **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be3313482822729300ed4a?utm_campaign=1065&utm_source=git)** | Cheyenne, Wyoming, United States | Hybrid | Mar 20 |
@@ -64,18 +68,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be330f482822729300ed47?utm_campaign=1065&utm_source=git)** | Sioux Falls, South Dakota, United States | Hybrid | Mar 20 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be330e482822729300ed44?utm_campaign=1065&utm_source=git)** | Boise, Idaho, United States | Hybrid | Mar 20 |
 | **[Think Together](https://thinktogether.org/)** | **[Intern - Marketing & Communications](https://jobright.ai/jobs/info/69be3087393a1008f7440f66?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 20 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/69bb7ae606c1ba00c54df4e9?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Remote | Mar 20 |
 | **[Fashion Institute of Technology](http://www.fitnyc.edu/)** | **[Chief Marketing Officer](https://jobright.ai/jobs/info/69be29ee482822729300e437?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Mar 20 |
+| **[FJDZ INTERNATIONAL,INC.](http://www.fjdzinc.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69be48cf393a1008f74430cf?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | On Site | Mar 20 |
 | **[GMMB](http://gmmb.com)** | **[Digital Strategy - Summer Internship 2026, Washington, DC](https://jobright.ai/jobs/info/69b1d696d04c69566c743735?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 20 |
 | **[International](https://www.international.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69be1cbd393a1008f743fbf6?utm_campaign=1065&utm_source=git)** | Lisle, IL | On Site | Mar 20 |
-| **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa09?utm_campaign=1065&utm_source=git)** | Sioux Falls, South Dakota, United States | Hybrid | Mar 20 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa0a?utm_campaign=1065&utm_source=git)** | Boise, Idaho, United States | Hybrid | Mar 20 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442053?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
+| **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa0a?utm_campaign=1065&utm_source=git)** | Boise, Idaho, United States | Hybrid | Mar 20 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa09?utm_campaign=1065&utm_source=git)** | Sioux Falls, South Dakota, United States | Hybrid | Mar 20 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442050?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Mar 20 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442053?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442057?utm_campaign=1065&utm_source=git)** | Manassas Park, Virginia, United States | Hybrid | Mar 20 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa06?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f744205a?utm_campaign=1065&utm_source=git)** | Cheyenne, Wyoming, United States | Hybrid | Mar 20 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa08?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Mar 20 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa06?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442057?utm_campaign=1065&utm_source=git)** | Manassas Park, Virginia, United States | Hybrid | Mar 20 |
 | **[Re-Bath, LLC](https://www.rebathfranchise.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/69acb5e37e1fab39d38445dd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 20 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Marketing Intern - Univ. of Central Ark](https://jobright.ai/jobs/info/69be393b393a1008f74420a9?utm_campaign=1065&utm_source=git)** | Conway, AR, US, 72035 | On Site | Mar 20 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Marketing Intern](https://jobright.ai/jobs/info/69be1586482822729300cac3?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbd79b10602456282d30a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 20 |
 | **[What's The Word](https://www.linkedin.com/company/111274184)** | **[Social Media Intern (Part-Time)](https://jobright.ai/jobs/info/69bdbc68393a1008f7433caa?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 20 |
 | **[LG Electronics](http://www.lg.com)** | **[SEO/GEO Specialist - Intern](https://jobright.ai/jobs/info/69bdbbcb4828227293001a23?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 20 |
-| **[Pacvue](https://www.pacvue.com/)** | **[Digital Marketing (Web & SEO) Summer Intern](https://jobright.ai/jobs/info/69bdba80482822729300143e?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 20 |
-| **[ITW](http://www.itw.com/)** | **[Strategic Market Analyst Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/69b1a59365de58104c70ab43?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Mar 20 |
-| **[The University of South Dakota Knudson School of Law](http://www.usd.edu/law)** | **[Enrollment Marketing Specialist](https://jobright.ai/jobs/info/69bdb83f393a1008f74328b8?utm_campaign=1065&utm_source=git)** | Vermillion, SD | On Site | Mar 20 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/69bdb83e393a1008f74328b6?utm_campaign=1065&utm_source=git)** | Queens, NY | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
