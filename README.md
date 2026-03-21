@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Social Media & Content Intern - Summer 2026](https://jobright.ai/jobs/info/69be41ff4828227293010804?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 21 |
+| **[Arena](https://arena.im)** | **[Marketing Intern](https://jobright.ai/jobs/info/69be3eb4482822729300fe66?utm_campaign=1065&utm_source=git)** | Cupertino, CA | On Site | Mar 20 |
 | **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be3313482822729300ed4a?utm_campaign=1065&utm_source=git)** | Cheyenne, Wyoming, United States | Hybrid | Mar 20 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be3312482822729300ed48?utm_campaign=1065&utm_source=git)** | Manassas Park, Virginia, United States | Hybrid | Mar 20 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be330f482822729300ed47?utm_campaign=1065&utm_source=git)** | Sioux Falls, South Dakota, United States | Hybrid | Mar 20 |
@@ -66,7 +68,16 @@ For a complete list, click the following sortable link below:
 | **[Fashion Institute of Technology](http://www.fitnyc.edu/)** | **[Chief Marketing Officer](https://jobright.ai/jobs/info/69be29ee482822729300e437?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Mar 20 |
 | **[GMMB](http://gmmb.com)** | **[Digital Strategy - Summer Internship 2026, Washington, DC](https://jobright.ai/jobs/info/69b1d696d04c69566c743735?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 20 |
 | **[International](https://www.international.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69be1cbd393a1008f743fbf6?utm_campaign=1065&utm_source=git)** | Lisle, IL | On Site | Mar 20 |
+| **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa09?utm_campaign=1065&utm_source=git)** | Sioux Falls, South Dakota, United States | Hybrid | Mar 20 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa0a?utm_campaign=1065&utm_source=git)** | Boise, Idaho, United States | Hybrid | Mar 20 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442053?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442050?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Mar 20 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f744205a?utm_campaign=1065&utm_source=git)** | Cheyenne, Wyoming, United States | Hybrid | Mar 20 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa08?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Mar 20 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa06?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442057?utm_campaign=1065&utm_source=git)** | Manassas Park, Virginia, United States | Hybrid | Mar 20 |
 | **[Re-Bath, LLC](https://www.rebathfranchise.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/69acb5e37e1fab39d38445dd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 20 |
+| **[Aramark Destinations](https://thenationsvacation.com/)** | **[Marketing Intern - Univ. of Central Ark](https://jobright.ai/jobs/info/69be393b393a1008f74420a9?utm_campaign=1065&utm_source=git)** | Conway, AR, US, 72035 | On Site | Mar 20 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Marketing Intern](https://jobright.ai/jobs/info/69be1586482822729300cac3?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 20 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Onsite Marketing Administrative Internship (Spring 2026)](https://jobright.ai/jobs/info/69be1340b1060245628376e9?utm_campaign=1065&utm_source=git)** | Palm Desert, CA | On Site | Mar 20 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - NIL Marketing, Baseball](https://jobright.ai/jobs/info/69be133b482822729300c93d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 20 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ITW](http://www.itw.com/)** | **[Strategic Market Analyst Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/69b1a59365de58104c70ab43?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Mar 20 |
 | **[The University of South Dakota Knudson School of Law](http://www.usd.edu/law)** | **[Enrollment Marketing Specialist](https://jobright.ai/jobs/info/69bdb83f393a1008f74328b8?utm_campaign=1065&utm_source=git)** | Vermillion, SD | On Site | Mar 20 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/69bdb83e393a1008f74328b6?utm_campaign=1065&utm_source=git)** | Queens, NY | Hybrid | Mar 20 |
-| **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Marketing Intern](https://jobright.ai/jobs/info/69bdd81d393a1008f7439bdc?utm_campaign=1065&utm_source=git)** | US | MA | Remote | Remote | Mar 20 |
-| **[Bravura Security](https://www.bravurasecurity.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bdd817393a1008f7439ba7?utm_campaign=1065&utm_source=git)** | Canada - Calgary, AB | On Site | Mar 20 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69bdd8174828227293007ab9?utm_campaign=1065&utm_source=git)** | Canada - Remote | Remote | Mar 20 |
-| **[Bill360](https://www.bill360.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bdb785393a1008f7432454?utm_campaign=1065&utm_source=git)** | Greater Tampa Bay Area | On Site | Mar 20 |
-| **[Parallel18](http://www.parallel18.com)** | **[Parallel18 Intern (Temporary Internship)](https://jobright.ai/jobs/info/69bdd9ffb106024562833132?utm_campaign=1065&utm_source=git)** | Forward Center, San Juan, PR, US | On Site | Mar 20 |
-| **[Colliers](http://www.colliers.com)** | **[Summer 2026 - Corporate Communications Intern](https://jobright.ai/jobs/info/69bdb67a48282272930001c6?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 20 |
-| **[TYLin](http://www.tylin.com)** | **[Intern, Strategic Communications & Engagement](https://jobright.ai/jobs/info/69bdb6064828227293fffef0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 20 |
-| **[American Liver Foundation](http://www.liverfoundation.org/)** | **[Events Summer Intern](https://jobright.ai/jobs/info/69bdb5b3b10602456282b27c?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Appian](http://www.appian.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bb0074569738374140d3b2?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Mar 20 |
-| **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Community Relations Intern](https://jobright.ai/jobs/info/69bde3eeb1060245628347ae?utm_campaign=1065&utm_source=git)** | Crosby, MN | On Site | Mar 20 |
-| **[Appian](http://www.appian.com)** | **[Workplace Events Intern](https://jobright.ai/jobs/info/6998d38781476f6176b13cb8?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
