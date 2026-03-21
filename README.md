@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[Marketing Events Intern- Summer 2026](https://jobright.ai/jobs/info/696ab14bdb26b618950de845?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Mar 21 |
+| ↳ | **[External Communications Intern- Summer 2026](https://jobright.ai/jobs/info/69a00fc453d97f23ee65c230?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Mar 21 |
+| ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/696ac17cdb26b618950e06df?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Mar 21 |
+| **[Manhattan Construction Company](https://manhattanconstructiongroup.com/manhattan-construction-company)** | **[Marketing Internship - Construction](https://jobright.ai/jobs/info/69a1da5c359fe034b1cd2360?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Mar 21 |
 | **[Flex](https://getflex.com)** | **[Director, Marketing Data Science](https://jobright.ai/jobs/info/698570e60f6f7e7a2ce03679?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 21 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (On-Site)](https://jobright.ai/jobs/info/69beaf58b1060245628426b3?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Mar 21 |
 | **[Carta](https://carta.com/)** | **[Marketing Internship - PR & Communications](https://jobright.ai/jobs/info/69a25330359fe034b1cd8d13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 21 |
@@ -105,13 +109,13 @@ For a complete list, click the following sortable link below:
 | **[FJDZ INTERNATIONAL,INC.](http://www.fjdzinc.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69be48cf393a1008f74430cf?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | On Site | Mar 20 |
 | **[GMMB](http://gmmb.com)** | **[Digital Strategy - Summer Internship 2026, Washington, DC](https://jobright.ai/jobs/info/69b1d696d04c69566c743735?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 20 |
 | **[International](https://www.international.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69be1cbd393a1008f743fbf6?utm_campaign=1065&utm_source=git)** | Lisle, IL | On Site | Mar 20 |
-| **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa09?utm_campaign=1065&utm_source=git)** | Sioux Falls, South Dakota, United States | Hybrid | Mar 20 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442053?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa0a?utm_campaign=1065&utm_source=git)** | Boise, Idaho, United States | Hybrid | Mar 20 |
+| **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa0a?utm_campaign=1065&utm_source=git)** | Boise, Idaho, United States | Hybrid | Mar 20 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa09?utm_campaign=1065&utm_source=git)** | Sioux Falls, South Dakota, United States | Hybrid | Mar 20 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442050?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Mar 20 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442057?utm_campaign=1065&utm_source=git)** | Manassas Park, Virginia, United States | Hybrid | Mar 20 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa08?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Mar 20 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442053?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa06?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa08?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Mar 20 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442057?utm_campaign=1065&utm_source=git)** | Manassas Park, Virginia, United States | Hybrid | Mar 20 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f744205a?utm_campaign=1065&utm_source=git)** | Cheyenne, Wyoming, United States | Hybrid | Mar 20 |
 | **[Re-Bath, LLC](https://www.rebathfranchise.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/69acb5e37e1fab39d38445dd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 20 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Marketing Intern - Univ. of Central Ark](https://jobright.ai/jobs/info/69be393b393a1008f74420a9?utm_campaign=1065&utm_source=git)** | Conway, AR, US, 72035 | On Site | Mar 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69bdde12b106024562834381?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Mar 20 |
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Publicity Advertising Intern - Seasonal (Caesars Atlantic City/CES)](https://jobright.ai/jobs/info/69be1bceb106024562838207?utm_campaign=1065&utm_source=git)** | Atlantic City, NJ | On Site | Mar 20 |
 | ↳ | **[Marketing Intern (Horseshoe Bossier)](https://jobright.ai/jobs/info/69be1ce5482822729300d5c5?utm_campaign=1065&utm_source=git)** | Bossier City, LA | On Site | Mar 20 |
-| **[Angels of Care Pediatric Home Health](https://angelsofcare.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bddb2348282272930089f1?utm_campaign=1065&utm_source=git)** | McKinney, TX | Remote | Mar 20 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Onsite Marketing Administrative Internship (Spring 2026)](https://jobright.ai/jobs/info/69bdd8ecb106024562832f4d?utm_campaign=1065&utm_source=git)** | Marriott's Shadow Ridge | On Site | Mar 20 |
-| **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern (External Communications)](https://jobright.ai/jobs/info/69bdd8754828227293007d16?utm_campaign=1065&utm_source=git)** | US DC 9th St NW | Hybrid | Mar 20 |
-| **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate or Graduate, Communications)](https://jobright.ai/jobs/info/69bdd7f948282272930079d7?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
