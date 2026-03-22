@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colliers](http://www.colliers.com)** | **[Summer Intern - National Data Center](https://jobright.ai/jobs/info/6986982a0f6f7e7a2ce1a073?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 22 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Social Media, Well People](https://jobright.ai/jobs/info/696ab478db26b618950df276?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 22 |
+| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Demand Generation Intern](https://jobright.ai/jobs/info/698670d30f6f7e7a2ce16aa6?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Mar 22 |
+| **[MathWorks](http://www.mathworks.com)** | **[Rutgers University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69863dc20f6f7e7a2ce11fb9?utm_campaign=1065&utm_source=git)** | Natick, MA | On Site | Mar 22 |
+| **[Brookfield Residential](https://www.brookfieldresidential.com/)** | **[Marketing Intern (PNW)](https://jobright.ai/jobs/info/696aa828db26b618950dcf78?utm_campaign=1065&utm_source=git)** | Bonney Lake, WA | On Site | Mar 22 |
+| **[MathWorks](http://www.mathworks.com)** | **[University of Alabama, Tuscaloosa MATLAB Ambassador](https://jobright.ai/jobs/info/6986483f8da7a6120460fa91?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Mar 22 |
 | **[Berri Goldfarb Public Relations](https://www.berrigoldfarbpr.com)** | **[Fashion Public Relations Intern](https://jobright.ai/jobs/info/69bfa89f2c312363dcd26d52?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Mar 22 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Digital Marketing Products Intern](https://jobright.ai/jobs/info/69bf9c5079e36d3a847c3b78?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Mar 22 |
 | **[Aramark](http://www.aramark.com)** | **[Marketing Intern - Univ. of Central Ark](https://jobright.ai/jobs/info/69bf8dfa2c312363dcd24a82?utm_campaign=1065&utm_source=git)** | Conway, AR | On Site | Mar 21 |
@@ -70,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Toys4Two](https://www.linkedin.com/company/111814056)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bf3907393a1008f744f1d6?utm_campaign=1065&utm_source=git)** | Edmonton, AB | Hybrid | Mar 21 |
 | **[CrossPaths](https://crosspaths.love)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bf31ac393a1008f744f040?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 21 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69bf1f53b106024562846fac?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Mar 21 |
+| **[Arena](https://arena.run/)** | **[Summer 2026 Fundraising Internship](https://jobright.ai/jobs/info/69bfbc857798f73e35e499ae?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 21 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Editorial Intern (Marketing & Communications)](https://jobright.ai/jobs/info/69bf0b65b1060245628465ca?utm_campaign=1065&utm_source=git)** | Falmouth, MA | Hybrid | Mar 21 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Social Media Coordinator I](https://jobright.ai/jobs/info/69bf093e393a1008f744dad0?utm_campaign=1065&utm_source=git)** | Beaver Falls, PA | On Site | Mar 21 |
 | **[Gold Beech Construction](http://www.goldbeech.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69bf01a2393a1008f744cd40?utm_campaign=1065&utm_source=git)** | Lexington, MA | On Site | Mar 21 |
@@ -127,6 +134,8 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Social Media Intern](https://jobright.ai/jobs/info/69867cc58ca8121a3a68c8cb?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 21 |
 | ↳ | **[NetSuite Field Marketing Intern (Association)](https://jobright.ai/jobs/info/69867e838da7a61204614cdd?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 21 |
 | ↳ | **[NetSuite Paid Search Intern](https://jobright.ai/jobs/info/69867e118ca8121a3a68cacf?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Mar 21 |
+| **[Arena](https://arena.run/)** | **[Summer 2024 Equity + Inclusion-Marketing Internship](https://jobright.ai/jobs/info/69bfbc542c312363dcd28361?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 21 |
+| ↳ | **[Summer 2026 Communications Internship](https://jobright.ai/jobs/info/69bfbc602c312363dcd2838b?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 21 |
 | **[MathWorks](http://www.mathworks.com)** | **[Dalhousie University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69440266dd382f5f566a222e?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Mar 21 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Marketing Intern, Menage a Trois - Summer 2026](https://jobright.ai/jobs/info/6969c0981703f05405abbe58?utm_campaign=1065&utm_source=git)** | Napa, CA | Hybrid | Mar 21 |
 | **[Colliers](http://www.colliers.com)** | **[Summer Intern - National Data Center](https://jobright.ai/jobs/info/698694688da7a61204616ac4?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 21 |
@@ -147,14 +156,5 @@ For a complete list, click the following sortable link below:
 | **[FJDZ INTERNATIONAL,INC.](http://www.fjdzinc.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69be48cf393a1008f74430cf?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | On Site | Mar 20 |
 | **[GMMB](http://gmmb.com)** | **[Digital Strategy - Summer Internship 2026, Washington, DC](https://jobright.ai/jobs/info/69b1d696d04c69566c743735?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 20 |
 | **[International](https://www.international.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69be1cbd393a1008f743fbf6?utm_campaign=1065&utm_source=git)** | Lisle, IL | On Site | Mar 20 |
-| **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa0a?utm_campaign=1065&utm_source=git)** | Boise, Idaho, United States | Hybrid | Mar 20 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa09?utm_campaign=1065&utm_source=git)** | Sioux Falls, South Dakota, United States | Hybrid | Mar 20 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442050?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Mar 20 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442053?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f744205a?utm_campaign=1065&utm_source=git)** | Cheyenne, Wyoming, United States | Hybrid | Mar 20 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442057?utm_campaign=1065&utm_source=git)** | Manassas Park, Virginia, United States | Hybrid | Mar 20 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa06?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be391cb10602456283aa08?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | Hybrid | Mar 20 |
-| **[Re-Bath, LLC](https://www.rebathfranchise.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/69acb5e37e1fab39d38445dd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Mar 20 |
-| **[Aramark Destinations](https://thenationsvacation.com/)** | **[Marketing Intern - Univ. of Central Ark](https://jobright.ai/jobs/info/69be393b393a1008f74420a9?utm_campaign=1065&utm_source=git)** | Conway, AR, US, 72035 | On Site | Mar 20 |
+| **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be38fc393a1008f7442053?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
