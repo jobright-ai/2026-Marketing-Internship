@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6986acd78da7a612046190cb?utm_campaign=1065&utm_source=git)** | Tucson, AZ | On Site | Mar 22 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern -Brand Management](https://jobright.ai/jobs/info/69be28c5393a1008f7440694?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Mar 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Social Media, Naturium](https://jobright.ai/jobs/info/696ab21b5fc862418539be0f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 22 |
 | **[Cerrowire](http://cerrowire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ae5145fc86241853a18f7?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Mar 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcd0a3e6a0d9792584ebbb?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 22 |
@@ -78,12 +80,10 @@ For a complete list, click the following sortable link below:
 | **[Aramark Student Nutrition](http://www.aramarkeducation.com)** | **[Marketing Intern - Univ. of Central Ark](https://jobright.ai/jobs/info/69bf93c97798f73e35e4602a?utm_campaign=1065&utm_source=git)** | Conway, AR | On Site | Mar 21 |
 | **[Toys4Two](https://www.linkedin.com/company/111814056)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bf3907393a1008f744f1d6?utm_campaign=1065&utm_source=git)** | Edmonton, AB | Hybrid | Mar 21 |
 | **[CrossPaths](https://crosspaths.love)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bf31ac393a1008f744f040?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 21 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69bf1f53b106024562846fac?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Mar 21 |
 | **[Arena](https://arena.run/)** | **[Summer 2026 Fundraising Internship](https://jobright.ai/jobs/info/69bfbc857798f73e35e499ae?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 21 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Editorial Intern (Marketing & Communications)](https://jobright.ai/jobs/info/69bf0b65b1060245628465ca?utm_campaign=1065&utm_source=git)** | Falmouth, MA | Hybrid | Mar 21 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Social Media Coordinator I](https://jobright.ai/jobs/info/69bf093e393a1008f744dad0?utm_campaign=1065&utm_source=git)** | Beaver Falls, PA | On Site | Mar 21 |
 | **[Gold Beech Construction](http://www.goldbeech.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69bf01a2393a1008f744cd40?utm_campaign=1065&utm_source=git)** | Lexington, MA | On Site | Mar 21 |
-| **[AAIA - Asia America Innovation Alliance](https://www.aaiatech.org)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/69befa1c482822729301a731?utm_campaign=1065&utm_source=git)** | Alberta, Canada | Remote | Mar 21 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Broadcasting Ops Intern](https://jobright.ai/jobs/info/69bef009393a1008f744c414?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Mar 21 |
 | **[State of Vermont](http://vermont.gov/portal/)** | **[Outreach Intern (Paid)](https://jobright.ai/jobs/info/69bf0d4f393a1008f744e020?utm_campaign=1065&utm_source=git)** | Montpelier, VT | On Site | Mar 21 |
 | **[BroadPress](https://broadpress.org)** | **[Social Media Manager - Intern](https://jobright.ai/jobs/info/69beedb24828227293019a1c?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 21 |
