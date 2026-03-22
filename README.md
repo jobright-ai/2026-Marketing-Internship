@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (ON-SITE)](https://jobright.ai/jobs/info/69c00c4879e36d3a847c8e2f?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Mar 22 |
+| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69c00c4279e36d3a847c8e1f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 22 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6986abf90f6f7e7a2ce1ba5e?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Mar 22 |
+| **[The Points Guy](https://thepointsguy.com/)** | **[Social Media Partnerships Manager / The Points Guy](https://jobright.ai/jobs/info/698641a88da7a6120460f28b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
 | **[Premium Retail Services](http://premiumretail.com)** | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bfeecf2c312363dcd2a741?utm_campaign=1065&utm_source=git)** | St Thomas, ON | On Site | Mar 22 |
 | **[Mortenson](https://www.mortenson.com)** | **[Marketing Intern - Denver](https://jobright.ai/jobs/info/69a222e70da45516f16b6bbd?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Marketing & Research Intern- Summer 2026](https://jobright.ai/jobs/info/696baec3db26b618950f2bce?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Mar 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Assistant Director, Guest Services & Marketing, Randy Owens Center for the Performing Arts](https://jobright.ai/jobs/info/69be59c54828227293013216?utm_campaign=1065&utm_source=git)** | Jacksonville, AL | On Site | Mar 21 |
 | **[Bourns, Inc.](http://www.bourns.com/)** | **[Intern Industrial Marketing - SR](https://jobright.ai/jobs/info/69be533c4828227293011fa1?utm_campaign=1065&utm_source=git)** | Carrollton, TX | On Site | Mar 21 |
 | ↳ | **[Intern Industrial Marketing - JR](https://jobright.ai/jobs/info/69be51294828227293011b8a?utm_campaign=1065&utm_source=git)** | Carrollton, TX | On Site | Mar 21 |
-| **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be47b0393a1008f74430cd?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 21 |
-| **[Arena](https://arena.im)** | **[Marketing Intern](https://jobright.ai/jobs/info/69be3eb4482822729300fe66?utm_campaign=1065&utm_source=git)** | Cupertino, CA | On Site | Mar 20 |
-| **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be3313482822729300ed4a?utm_campaign=1065&utm_source=git)** | Cheyenne, Wyoming, United States | Hybrid | Mar 20 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be3312482822729300ed48?utm_campaign=1065&utm_source=git)** | Manassas Park, Virginia, United States | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
