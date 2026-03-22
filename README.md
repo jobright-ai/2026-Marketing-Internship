@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Premium Retail Services](http://premiumretail.com)** | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bfeecf2c312363dcd2a741?utm_campaign=1065&utm_source=git)** | St Thomas, ON | On Site | Mar 22 |
+| **[Mortenson](https://www.mortenson.com)** | **[Marketing Intern - Denver](https://jobright.ai/jobs/info/69a222e70da45516f16b6bbd?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Mar 22 |
+| **[Magna International](http://www.magna.com/)** | **[Marketing & Research Intern- Summer 2026](https://jobright.ai/jobs/info/696baec3db26b618950f2bce?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Mar 22 |
+| **[Octaura](https://www.octaura.com)** | **[Intern, Product and Marketing Rotation](https://jobright.ai/jobs/info/695c2e52aa05c26e7ab580a5?utm_campaign=1065&utm_source=git)** | New York | On Site | Mar 22 |
+| **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Promotion & Creative Services Intern](https://jobright.ai/jobs/info/69bfe04e79e36d3a847c76d0?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Mar 22 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6986acd78da7a612046190cb?utm_campaign=1065&utm_source=git)** | Tucson, AZ | On Site | Mar 22 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern -Brand Management](https://jobright.ai/jobs/info/69be28c5393a1008f7440694?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Mar 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Social Media, Naturium](https://jobright.ai/jobs/info/696ab21b5fc862418539be0f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 22 |
 | **[Cerrowire](http://cerrowire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ae5145fc86241853a18f7?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Mar 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcd0a3e6a0d9792584ebbb?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 22 |
+| **[Arkansas Cooperative Extension Service](uaex.uada.edu)** | **[Communications Intern](https://jobright.ai/jobs/info/69bfe03c7798f73e35e4b115?utm_campaign=1065&utm_source=git)** | Fayetteville, AR | On Site | Mar 22 |
 | **[Colliers](http://www.colliers.com)** | **[Summer Intern - National Data Center](https://jobright.ai/jobs/info/6986982a0f6f7e7a2ce1a073?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Social Media, Well People](https://jobright.ai/jobs/info/696ab478db26b618950df276?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 22 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Demand Generation Intern](https://jobright.ai/jobs/info/698670d30f6f7e7a2ce16aa6?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Mar 22 |
@@ -147,14 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Assistant Director, Guest Services & Marketing, Randy Owens Center for the Performing Arts](https://jobright.ai/jobs/info/69be59c54828227293013216?utm_campaign=1065&utm_source=git)** | Jacksonville, AL | On Site | Mar 21 |
 | **[Bourns, Inc.](http://www.bourns.com/)** | **[Intern Industrial Marketing - SR](https://jobright.ai/jobs/info/69be533c4828227293011fa1?utm_campaign=1065&utm_source=git)** | Carrollton, TX | On Site | Mar 21 |
 | ↳ | **[Intern Industrial Marketing - JR](https://jobright.ai/jobs/info/69be51294828227293011b8a?utm_campaign=1065&utm_source=git)** | Carrollton, TX | On Site | Mar 21 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Global Markets Intern/Co-op](https://jobright.ai/jobs/info/69bfa8977798f73e35e481db?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 21 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be47b0393a1008f74430cd?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 21 |
 | **[Arena](https://arena.im)** | **[Marketing Intern](https://jobright.ai/jobs/info/69be3eb4482822729300fe66?utm_campaign=1065&utm_source=git)** | Cupertino, CA | On Site | Mar 20 |
 | **[DEFENSEWERX](https://defensewerx.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be3313482822729300ed4a?utm_campaign=1065&utm_source=git)** | Cheyenne, Wyoming, United States | Hybrid | Mar 20 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69be3312482822729300ed48?utm_campaign=1065&utm_source=git)** | Manassas Park, Virginia, United States | Hybrid | Mar 20 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be330f482822729300ed47?utm_campaign=1065&utm_source=git)** | Sioux Falls, South Dakota, United States | Hybrid | Mar 20 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69be330e482822729300ed44?utm_campaign=1065&utm_source=git)** | Boise, Idaho, United States | Hybrid | Mar 20 |
-| **[Think Together](https://thinktogether.org/)** | **[Intern - Marketing & Communications](https://jobright.ai/jobs/info/69be3087393a1008f7440f66?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 20 |
-| **[Fashion Institute of Technology](http://www.fitnyc.edu/)** | **[Chief Marketing Officer](https://jobright.ai/jobs/info/69be29ee482822729300e437?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Mar 20 |
-| **[FJDZ INTERNATIONAL,INC.](http://www.fjdzinc.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69be48cf393a1008f74430cf?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
