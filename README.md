@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holly Picano Digital Marketing](https://holly-picano-digital-marketing.business.site/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c06a442c312363dcd2e3a2?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 22 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Communications Specialist Intern (remote)](https://jobright.ai/jobs/info/69c05ac67798f73e35e4eb95?utm_campaign=1065&utm_source=git)** | South Carolina, United States | Remote | Mar 22 |
 | ↳ | **[Undergraduate Intern - Marketing (Hybrid)](https://jobright.ai/jobs/info/69c05ab47798f73e35e4eb4e?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 22 |
 | **[Puerto Rico Science, Technology & Research Trust](https://prsciencetrust.org)** | **[Parallel18 Intern (Temporary Internship)](https://jobright.ai/jobs/info/69c054c279e36d3a847caf65?utm_campaign=1065&utm_source=git)** | San Juan, TX | On Site | Mar 22 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c027aa2c312363dcd2c352?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 22 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c027a92c312363dcd2c34b?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
 | **[Mind Friend](https://mindfriend.com/)** | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c025a07798f73e35e4d743?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Mar 22 |
-| ↳ | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c025842c312363dcd2c20b?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Mar 22 |
 | ↳ | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c025842c312363dcd2c20a?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Remote | Mar 22 |
+| ↳ | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c025842c312363dcd2c20b?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Mar 22 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Press Communications Intern](https://jobright.ai/jobs/info/69c023b62c312363dcd2bb6b?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Mar 22 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/69c0164979e36d3a847c90c9?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Mar 22 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c015392c312363dcd2b96f?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Mar 22 |
@@ -91,9 +92,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c0120f2c312363dcd2b82f?utm_campaign=1065&utm_source=git)** | San Jose, CA | Remote | Mar 22 |
 | ↳ | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c0120f2c312363dcd2b82e?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 22 |
 | ↳ | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c012072c312363dcd2b81c?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Remote | Mar 22 |
+| ↳ | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c0120179e36d3a847c8f7b?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Mar 22 |
 | ↳ | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c0120179e36d3a847c8f7d?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | Remote | Mar 22 |
 | ↳ | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c0120179e36d3a847c8f7e?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Mar 22 |
-| ↳ | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c0120179e36d3a847c8f7b?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Mar 22 |
 | ↳ | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c011fe79e36d3a847c8f77?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Remote | Mar 22 |
 | ↳ | **[Digital & Social Media Intern In Psychology Tech Company (Remote)](https://jobright.ai/jobs/info/69c011fe79e36d3a847c8f78?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Marketing & Communications Intern - Summer 2026](https://jobright.ai/jobs/info/699fb8b381476f6176b9715e?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Mar 22 |
@@ -102,10 +103,10 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6986abf90f6f7e7a2ce1ba5e?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Mar 22 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/69c0280d7798f73e35e4d8d5?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 22 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c027bb79e36d3a847c9b78?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 22 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c028027798f73e35e4d8ba?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c027aa2c312363dcd2c351?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 22 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c0280c7798f73e35e4d8d4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 22 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c028027798f73e35e4d8ba?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69c027bb79e36d3a847c9b79?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 22 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c0280c7798f73e35e4d8d4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 22 |
 | **[The Points Guy](https://thepointsguy.com/)** | **[Social Media Partnerships Manager / The Points Guy](https://jobright.ai/jobs/info/698641a88da7a6120460f28b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
 | **[Premium Retail Services](http://premiumretail.com)** | **[Royal Canin Pet Ambassador – EVENT](https://jobright.ai/jobs/info/69bfeecf2c312363dcd2a741?utm_campaign=1065&utm_source=git)** | St Thomas, ON | On Site | Mar 22 |
 | **[Mortenson](https://www.mortenson.com)** | **[Marketing Intern - Denver](https://jobright.ai/jobs/info/69a222e70da45516f16b6bbd?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Mar 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Merchandising Operations Intern](https://jobright.ai/jobs/info/69852562348f733a5c395395?utm_campaign=1065&utm_source=git)** | Marlborough, MA | Hybrid | Mar 21 |
 | **[MOTOR Information Systems](http://motor.com)** | **[Marketing Intern - Data, AI & Market Intelligence (Revenue Marketing Operations)](https://jobright.ai/jobs/info/69bf776079e36d3a847c104f?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | Mar 21 |
 | **[Arena](https://arena.im)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69beca7ab1060245628438de?utm_campaign=1065&utm_source=git)** | Cupertino, CA | On Site | Mar 21 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bec5f1b1060245628437f4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
