@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Brand Strategy Summer Internship (Summer 2026)](https://jobright.ai/jobs/info/69c216fc2c312363dcd5a771?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Mar 23 |
-| **[Edited Companies](editedstudio.co)** | **[Intern - Personal / Executive Assistant (PR, Marketing, Partnerships)](https://jobright.ai/jobs/info/69c2157b75f7ff1cd810cdaf?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 23 |
+| **[Intersect](https://www.intersectpower.com)** | **[Market Analyst Intern](https://jobright.ai/jobs/info/69c22115c9ad035e829adb2d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
+| **[Readrise Education](https://www.linkedin.com/company/104867811)** | **[Social Media Intern, National Nonprofit](https://jobright.ai/jobs/info/69c2200175f7ff1cd810e447?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 23 |
 | **[Henkel](http://www.henkel.com)** | **[Market & Customer Activation Intern - Fall 2026](https://jobright.ai/jobs/info/69b0dacc749500645097e1e9?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | Hybrid | Mar 23 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Marketing and Corporate Affairs Intern](https://jobright.ai/jobs/info/69c20baf75f7ff1cd810b56a?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Mar 23 |
 | **[Hoverla F.C.](www.hoverlafc.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c208ae75f7ff1cd81090f0?utm_campaign=1065&utm_source=git)** | Warren, MI | Hybrid | Mar 23 |
@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Market Research Master's Intern](https://jobright.ai/jobs/info/69c2067e2c312363dcd55a0e?utm_campaign=1065&utm_source=git)** | Oregon-Portland-Kaiser Permanente Building | Hybrid | Mar 23 |
 | **[Marquee Brands](http://www.marqueebrands.com)** | **[PR Intern](https://jobright.ai/jobs/info/69c206742c312363dcd559ef?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
 | **[Neuroly](neurolyai.com)** | **[UGC / Social Media Marketing Intern](https://jobright.ai/jobs/info/69c2058cc9ad035e829a73d0?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 23 |
+| **[Jungle Kind](junglekind.com/max)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c224cc75f7ff1cd810e9d3?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Mar 23 |
 | **[Xyra](https://www.linkedin.com/company/110134077)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/69c2047d75f7ff1cd8107a9d?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Mar 23 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Advertising Platform Analyst AdTech Intern: ATL - Summer 2026](https://jobright.ai/jobs/info/69c201ff2c312363dcd5500a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Mar 23 |
 | **[City of Richmond, Virginia](http://www.rva.gov/)** | **[Mayor's Fellows Program - 2026 Economic Development Intern](https://jobright.ai/jobs/info/69c2005d2c312363dcd54d34?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Mar 23 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[The San Francisco Standard](https://sfstandard.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69c1d73679e36d3a847ee83c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 23 |
 | **[Lycée Français de New York](https://www.lfny.org/#)** | **[Internship - Communications Office](https://jobright.ai/jobs/info/69c1d38b79e36d3a847ee713?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Partnerships & Promotions Intern](https://jobright.ai/jobs/info/69c1d30b79e36d3a847ee5f9?utm_campaign=1065&utm_source=git)** | Work From Home - Pennsylvania | Remote | Mar 23 |
+| **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, Employer Branding - Summer 2026](https://jobright.ai/jobs/info/69c240122c312363dcd5db48?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Mar 23 |
 | **[DEX Imaging](https://www.deximaging.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69c1cfe22c312363dcd50aba?utm_campaign=1065&utm_source=git)** | Tampa, Florida | On Site | Mar 23 |
 | **[Food For Thought](https://www.fftfoodbank.org)** | **[Marketing and Social Media Internship](https://jobright.ai/jobs/info/69c1cf9e2c312363dcd50a40?utm_campaign=1065&utm_source=git)** | FORESTVILLE, CA 95436 | On Site | Mar 23 |
 | **[RETTEW](http://rettew.com)** | **[Marketing & Communication Internship](https://jobright.ai/jobs/info/69c1cf1a2c312363dcd509a9?utm_campaign=1065&utm_source=git)** | Lancaster,PA,US | Hybrid | Mar 23 |
@@ -145,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Sugar Shane's](http://sugarshanes.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69c1aae82c312363dcd4d4cd?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Mar 23 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69c1aae22c312363dcd4d4c9?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Concentra](http://www.concentra.com)** | **[Concentra Corporate Summer Intern - Marketing Innovation](https://jobright.ai/jobs/info/69c1aaa679e36d3a847eb28f?utm_campaign=1065&utm_source=git)** | Addison, TX | On Site | Mar 23 |
-| **[Doodli AI](https://doodli.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c1aa9b75f7ff1cd80ff9b5?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Macmillan](http://macmillan.com)** | **[Performance Marketing and Operations Intern](https://jobright.ai/jobs/info/69c1a85f2c312363dcd4d0b9?utm_campaign=1065&utm_source=git)** | New Boston, TX | Hybrid | Mar 23 |
 | **[NAMI Florida](http://namiflorida.org)** | **[Event Planning Internship (paid)](https://jobright.ai/jobs/info/69c1a84a2c312363dcd4d058?utm_campaign=1065&utm_source=git)** | Florida, United States | Hybrid | Mar 23 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Brand Experience Marketing Intern](https://jobright.ai/jobs/info/69c1a7c82c312363dcd4ce9f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Twelve](https://twelvenyc.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69c1bdc475f7ff1cd8101391?utm_campaign=1065&utm_source=git)** | Brooklyn, New York, United States | On Site | Mar 23 |
 | **[Care to Learn](https://caretolearn.org)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/69c1c13d2c312363dcd4f1c7?utm_campaign=1065&utm_source=git)** | Springfield, Missouri, United States | On Site | Mar 23 |
 | **[Heartland Food Products Group](http://heartlandfpg.com/)** | **[Social Media Marketing Intern - Java House Brands](https://jobright.ai/jobs/info/69c1a06d75f7ff1cd80fe88b?utm_campaign=1065&utm_source=git)** | Carmel, IN, US | On Site | Mar 23 |
-| **[Cosmo](https://cosmoai.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c19ffd79e36d3a847e9ebc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
