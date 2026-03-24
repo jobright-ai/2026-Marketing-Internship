@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Brand Strategy Summer Internship (Summer 2026)](https://jobright.ai/jobs/info/69c216fc2c312363dcd5a771?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Mar 23 |
+| **[Edited Companies](editedstudio.co)** | **[Intern - Personal / Executive Assistant (PR, Marketing, Partnerships)](https://jobright.ai/jobs/info/69c2157b75f7ff1cd810cdaf?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 23 |
+| **[Henkel](http://www.henkel.com)** | **[Market & Customer Activation Intern - Fall 2026](https://jobright.ai/jobs/info/69b0dacc749500645097e1e9?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | Hybrid | Mar 23 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Marketing and Corporate Affairs Intern](https://jobright.ai/jobs/info/69c20baf75f7ff1cd810b56a?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Mar 23 |
 | **[Hoverla F.C.](www.hoverlafc.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c208ae75f7ff1cd81090f0?utm_campaign=1065&utm_source=git)** | Warren, MI | Hybrid | Mar 23 |
 | **[Specialityvalve](https://www.specialityvalve.com/)** | **[International Marketing Intern](https://jobright.ai/jobs/info/69c208a3c9ad035e829a787f?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Mar 23 |
@@ -74,6 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Marketing Intern - Steamboat Springs](https://jobright.ai/jobs/info/69c1fe5175f7ff1cd8107317?utm_campaign=1065&utm_source=git)** | Steamboat Springs, CO | On Site | Mar 23 |
 | **[Trellis Foundation](http://www.trellisfoundation.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69c1f91775f7ff1cd810629b?utm_campaign=1065&utm_source=git)** | Round Rock, TX | Hybrid | Mar 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing](https://jobright.ai/jobs/info/69c1f3c879e36d3a847f0d6d?utm_campaign=1065&utm_source=git)** | Wickliffe, OH | On Site | Mar 23 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Marketing & Events Internship](https://jobright.ai/jobs/info/69c2113fc9ad035e829abb49?utm_campaign=1065&utm_source=git)** | Sierra Vista, AZ | On Site | Mar 23 |
+| ↳ | **[Social Media & Content Coordinator](https://jobright.ai/jobs/info/69c212292c312363dcd59f8a?utm_campaign=1065&utm_source=git)** | Pullman, WA | On Site | Mar 23 |
 | **[Steel Sports](https://steelsports.com)** | **[Sports Marketing Intern](https://jobright.ai/jobs/info/69c1ecff2c312363dcd521c5?utm_campaign=1065&utm_source=git)** | United States | On Site | Mar 23 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Community Marketing Summer Intern](https://jobright.ai/jobs/info/69c1eaab75f7ff1cd81047fc?utm_campaign=1065&utm_source=git)** | Williamsburg, VA | On Site | Mar 23 |
 | **[TheFutureSociety](https://www.thefuturesocietyllc.com/)** | **[PR & Partnerships Intern (Part-time, Remote)](https://jobright.ai/jobs/info/69c1ea312c312363dcd51e1e?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 23 |
@@ -112,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Little, Brown Marketing & Publicity Internship](https://jobright.ai/jobs/info/69c202c9c9ad035e829a6a89?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Market Research & Analysis Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c26575f7ff1cd81019e0?utm_campaign=1065&utm_source=git)** | Austin, Texas (Remote) | Remote | Mar 23 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - PR and Communications](https://jobright.ai/jobs/info/69c1c04e79e36d3a847ecca0?utm_campaign=1065&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Mar 23 |
-| **[Red Hat](http://www.redhat.com)** | **[Technical Marketing Manager Intern](https://jobright.ai/jobs/info/69c1c04379e36d3a847ecc60?utm_campaign=1065&utm_source=git)** | Raleigh | On Site | Mar 23 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Advertising Platform Analyst AdTech Intern: ATL - Summer 2026](https://jobright.ai/jobs/info/69c1c02b79e36d3a847ecbe0?utm_campaign=1065&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Mar 23 |
 | **[Lumafield](https://www.lumafield.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69c1bf152c312363dcd4ec35?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
 | **[Old World Industries](https://www.owi.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c1bef42c312363dcd4eb7a?utm_campaign=1065&utm_source=git)** | Northbrook, IL | On Site | Mar 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Care to Learn](https://caretolearn.org)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/69c1c13d2c312363dcd4f1c7?utm_campaign=1065&utm_source=git)** | Springfield, Missouri, United States | On Site | Mar 23 |
 | **[Heartland Food Products Group](http://heartlandfpg.com/)** | **[Social Media Marketing Intern - Java House Brands](https://jobright.ai/jobs/info/69c1a06d75f7ff1cd80fe88b?utm_campaign=1065&utm_source=git)** | Carmel, IN, US | On Site | Mar 23 |
 | **[Cosmo](https://cosmoai.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c19ffd79e36d3a847e9ebc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 23 |
-| **[South Jersey Industries](https://www.sjindustries.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c19fcc2c312363dcd4b9c7?utm_campaign=1065&utm_source=git)** | Atlantic City, NJ | Hybrid | Mar 23 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Marketing Intern - Steamboat Springs](https://jobright.ai/jobs/info/69c19fad2c312363dcd4b8c1?utm_campaign=1065&utm_source=git)** | Sheraton Steamboat Resort Villas | On Site | Mar 23 |
-| ↳ | **[Summer 2026 Marketing Intern - South Lake Tahoe](https://jobright.ai/jobs/info/69c19fa879e36d3a847e9c83?utm_campaign=1065&utm_source=git)** | Marriott's Timber Lodge | On Site | Mar 23 |
-| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Orbit Marketing and Publicity Internship](https://jobright.ai/jobs/info/69c1bc0979e36d3a847ec6d4?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
