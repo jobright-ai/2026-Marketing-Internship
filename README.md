@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TixTrack](http://tixtrack.com)** | **[Marketing Manager (Remote - NY Tri-state Area)](https://jobright.ai/jobs/info/69c365fc753c101b21572538?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 24 |
+| **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c35d377a7a0045db8910c8?utm_campaign=1065&utm_source=git)** | US-RI-Newport | On Site | Mar 24 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c35d2c753c101b2157198a?utm_campaign=1065&utm_source=git)** | Newport, RI, US | On Site | Mar 24 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69c3530f7a7a0045db88ebd4?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Remote | Mar 24 |
 | **[Salt Lake County](https://www.slco.org)** | **[Communications and Multimedia Intern - Office of Regional Development](https://jobright.ai/jobs/info/69c351f494007a2195dfa260?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 24 |
 | **[Maze Therapeutics](https://www.mazetx.com)** | **[Digital Media Intern, Patient Advocacy](https://jobright.ai/jobs/info/69c351d0753c101b2156f5e7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
@@ -67,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Intern, Korean Market](https://jobright.ai/jobs/info/69c3441894007a2195df97fa?utm_campaign=1065&utm_source=git)** | Brea, California, United States | On Site | Mar 24 |
 | **[Akima](https://www.akima.com)** | **[NANA Shareholder College Summer Intern - Competitive & Market](https://jobright.ai/jobs/info/69c33e59097a024c43d9443d?utm_campaign=1065&utm_source=git)** | Herndon, VA | On Site | Mar 24 |
 | **[Calavo Growers](http://www.calavo.com/)** | **[Student Internship](https://jobright.ai/jobs/info/69c1adaa75f7ff1cd80ffb2d?utm_campaign=1065&utm_source=git)** | Santa Paula, CA | On Site | Mar 24 |
+| **[Addis Enterprises](https://aenow.com)** | **[Marketing & Design Internship](https://jobright.ai/jobs/info/69c35c60753c101b21571509?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | Mar 24 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Running Press Marketing and Publicity Internship](https://jobright.ai/jobs/info/69c339f9753c101b2156de5f?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 24 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Marketing Project Management Intern](https://jobright.ai/jobs/info/69c331d0753c101b2156d95d?utm_campaign=1065&utm_source=git)** | Plano, TX | Hybrid | Mar 24 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 Digital Organizing Intern](https://jobright.ai/jobs/info/69c32eacec22f8310ab16548?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 24 |
@@ -109,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Communications & Engagement Intern](https://jobright.ai/jobs/info/69c30da4753c101b21568a62?utm_campaign=1065&utm_source=git)** | Oakland | Hybrid | Mar 24 |
 | ↳ | **[EV Customer Programs Marketing, Education & Outreach Intern](https://jobright.ai/jobs/info/69c30da4753c101b21568a61?utm_campaign=1065&utm_source=git)** | Oakland | Hybrid | Mar 24 |
 | ↳ | **[EV Customer Programs Marketing, Education & Outreach Intern](https://jobright.ai/jobs/info/69c30d9594007a2195df356a?utm_campaign=1065&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 24 |
-| ↳ | **[Enterprise Communications & Engagement Intern](https://jobright.ai/jobs/info/69c30d9494007a2195df3569?utm_campaign=1065&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 24 |
 | ↳ | **[Marketing & Communications AI Agent Intern](https://jobright.ai/jobs/info/69c30d9494007a2195df3567?utm_campaign=1065&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 24 |
+| ↳ | **[Enterprise Communications & Engagement Intern](https://jobright.ai/jobs/info/69c30d9494007a2195df3569?utm_campaign=1065&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 24 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Brand Marketing (Communications)](https://jobright.ai/jobs/info/69c30c2dec22f8310ab119de?utm_campaign=1065&utm_source=git)** | Montvale, NJ | Hybrid | Mar 24 |
 | **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Communications Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161cb?utm_campaign=1065&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 24 |
 | ↳ | **[Communications Intern - Office of Homelessness and Criminal Justice Reform](https://jobright.ai/jobs/info/69c32b0d753c101b2156c96a?utm_campaign=1065&utm_source=git)** | 2001 S STATE ST | Hybrid | Mar 24 |
@@ -143,18 +147,14 @@ For a complete list, click the following sortable link below:
 | **[JDA Worldwide](http://www.jdaworldwide.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69c2f412ec22f8310ab0f84d?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 24 |
 | **[Holden Industries, Inc.](https://www.holdenindustriesinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c2f33094007a2195df0d64?utm_campaign=1065&utm_source=git)** | Waukesha, WI | On Site | Mar 24 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Marketing Event Planning & Logistics](https://jobright.ai/jobs/info/69c2f118753c101b215660d5?utm_campaign=1065&utm_source=git)** | 5100 Patrick Henry Drive, Santa Clara, CA, 95054, US | On Site | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Communications and Multimedia Intern - Office of Regional Development](https://jobright.ai/jobs/info/69c2f07a94007a2195df0b91?utm_campaign=1065&utm_source=git)** | 84190-1001 | Hybrid | Mar 24 |
-| ↳ | **[Communications and Multimedia Intern - Office of Regional Development](https://jobright.ai/jobs/info/69c2f07a94007a2195df0b8e?utm_campaign=1065&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Communications and Multimedia Intern - Office of Regional Development](https://jobright.ai/jobs/info/69c2f07a94007a2195df0b8e?utm_campaign=1065&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
+| ↳ | **[Communications and Multimedia Intern - Office of Regional Development](https://jobright.ai/jobs/info/69c2f07a94007a2195df0b91?utm_campaign=1065&utm_source=git)** | 84190-1001 | Hybrid | Mar 24 |
 | ↳ | **[Communications and Multimedia Intern - Office of Regional Development](https://jobright.ai/jobs/info/69c2f054ec22f8310ab0f445?utm_campaign=1065&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 24 |
 | ↳ | **[Communications and  Multimedia Intern - Mayor Operations](https://jobright.ai/jobs/info/69c3147794007a2195df41d5?utm_campaign=1065&utm_source=git)** | 2001 S STATE ST | Hybrid | Mar 24 |
-| ↳ | **[Communications and  Multimedia Intern - Mayor Operations](https://jobright.ai/jobs/info/69c31477753c101b215694c1?utm_campaign=1065&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 24 |
 | ↳ | **[Communications and  Multimedia Intern - Mayor Operations](https://jobright.ai/jobs/info/69c314deec22f8310ab12bf9?utm_campaign=1065&utm_source=git)** | 84114 | Hybrid | Mar 24 |
 | ↳ | **[Communications and  Multimedia Intern - Mayor Operations](https://jobright.ai/jobs/info/69c314deec22f8310ab12bf4?utm_campaign=1065&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
+| ↳ | **[Communications and  Multimedia Intern - Mayor Operations](https://jobright.ai/jobs/info/69c31477753c101b215694c1?utm_campaign=1065&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 24 |
 | **[Droisys](http://www.droisys.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c2efc194007a2195df0a46?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 24 |
 | **[Merrell Bros., Inc.](https://merrellbros.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c30d83753c101b21568a2d?utm_campaign=1065&utm_source=git)** | Corporate Headquarters - Kokomo, IN 46901 | On Site | Mar 24 |
 | **[The Goddard School](http://goddardschool.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69c2ef42ec22f8310ab0f321?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Mar 24 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[PR & Integrated Communications Intern](https://jobright.ai/jobs/info/69c31540ec22f8310ab12dd3?utm_campaign=1065&utm_source=git)** | Detroit, Michigan | On Site | Mar 24 |
-| **[Berwyn Development Corporation](https://www.berwyn.net/)** | **[Retail Incubator Intern](https://jobright.ai/jobs/info/69c3108cec22f8310ab12162?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Communications and Multimedia Intern - Office of Regional Development](https://jobright.ai/jobs/info/69c2ed44753c101b21565b1d?utm_campaign=1065&utm_source=git)** | 2001 S STATE ST | Hybrid | Mar 24 |
-| **[Broadcast Management Group, Inc.](https://www.broadcastmgmt.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69c2ebf4753c101b2156588a?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
