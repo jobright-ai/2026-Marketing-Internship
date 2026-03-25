@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Treasury Management Communications](https://jobright.ai/jobs/info/69a7961d637232443f64d82a?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Mar 25 |
+| **[Dal-Tile LLC](http://dal-tile.com)** | **[BRAND MARKETING INTERN](https://jobright.ai/jobs/info/69a89b9479f3f4037f42ad08?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 25 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68c5140b7d0db41142732369?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Mar 25 |
+| **[AAAS](http://www.aaas.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/698be12c06d9b06224960d07?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68cef5bedbd9fb154ede3d78?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Mar 25 |
 | **[Crayola](http://www.crayola.com/)** | **[Crayola Experience Intern](https://jobright.ai/jobs/info/69a7b1d21fc3d83b78095173?utm_campaign=1065&utm_source=git)** | Easton, PA | On Site | Mar 25 |
 | **[AAAS](http://www.aaas.org/)** | **[Engagement Intern](https://jobright.ai/jobs/info/698bebb006d9b06224961fac?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[GCMS Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69bc722a4828227293fe527c?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Mar 24 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Content & Growth Intern](https://jobright.ai/jobs/info/69c31cd2753c101b2156ae1a?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Direct Marketing/Guest Relations Internship Summer 2026 - Kapolei, HI (Japanese/English Required)](https://jobright.ai/jobs/info/69c31c7d753c101b2156ada5?utm_campaign=1065&utm_source=git)** | Kapolei, HI | On Site | Mar 24 |
-| **[Level Up USA](http://leveluppromotionsinc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c31c74753c101b2156ad9d?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Mar 24 |
-| **[The Nature Conservancy](http://www.nature.org)** | **[Science Communications & Social Media Intern](https://jobright.ai/jobs/info/69c3199fec22f8310ab13ee2?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 24 |
-| **[Clark Associates](http://clarkassociatesinc.biz)** | **[Procurement Merchandising Intern](https://jobright.ai/jobs/info/69c3199c753c101b2156aaa4?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Mar 24 |
-| **[Tencent](https://www.tencent.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69c31577753c101b2156991b?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
