@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neuraci Labs](www.neuracilabs.com)** | **[Content Intern - Social Media](https://jobright.ai/jobs/info/69c4a86633eecf3107950cb2?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Communications and Events Paid Intern (full time - one year)](https://jobright.ai/jobs/info/69c49a5bd5a1016e98dbe8bd?utm_campaign=1065&utm_source=git)** | Riverton, UT | Hybrid | Mar 25 |
 | **[Magic City Collectibles](www.magiccitycollectibles.com)** | **[Marketing/Business Intern – Magic City Collectibles](https://jobright.ai/jobs/info/69c49690d5a1016e98dbe08c?utm_campaign=1065&utm_source=git)** | Homewood, AL | On Site | Mar 25 |
 | **[SeeSaw](https://www.linkedin.com/company/105641351)** | **[Brand Partnerships & Growth Intern Clap (Virtual Playgrounds, Inc.)](https://jobright.ai/jobs/info/69c494a06f4f855eeda72693?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Mar 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Enterprise Communications & Engagement Intern](https://jobright.ai/jobs/info/69c42839d5a1016e98db3361?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Mar 25 |
 | **[NORWICH PHARMACEUTICALS, INC.](http://saveonpainmedicine.com)** | **[Marketing/Sales Operations Intern](https://jobright.ai/jobs/info/69c450b96f4f855eeda6c3d7?utm_campaign=1065&utm_source=git)** | Various, Pennsylvania, US | On Site | Mar 25 |
 | **[Mediaocean](http://www.mediaocean.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69c4276533eecf31079445aa?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 25 |
-| **[Care to Learn](https://caretolearn.org)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/69c45181d5a1016e98db7466?utm_campaign=1065&utm_source=git)** | Springfield, Missouri, United States | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
