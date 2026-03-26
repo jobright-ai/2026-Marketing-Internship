@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Communications and Events Paid Intern (full time - one year)](https://jobright.ai/jobs/info/69c49a5bd5a1016e98dbe8bd?utm_campaign=1065&utm_source=git)** | Riverton, UT | Hybrid | Mar 25 |
 | **[Magic City Collectibles](www.magiccitycollectibles.com)** | **[Marketing/Business Intern – Magic City Collectibles](https://jobright.ai/jobs/info/69c49690d5a1016e98dbe08c?utm_campaign=1065&utm_source=git)** | Homewood, AL | On Site | Mar 25 |
 | **[SeeSaw](https://www.linkedin.com/company/105641351)** | **[Brand Partnerships & Growth Intern Clap (Virtual Playgrounds, Inc.)](https://jobright.ai/jobs/info/69c494a06f4f855eeda72693?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Mar 25 |
 | **[L'Oréal](https://www.loreal.com/en/malaysia/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69a0d11b81476f6176bb1c46?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 25 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Hype and Vice](http://www.hypeandvice.com)** | **[Social Media/TikTok intern](https://jobright.ai/jobs/info/69c47ef36f4f855eeda70ef6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 25 |
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c476c833eecf310794c9b4?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Mar 25 |
 | **[THINK Surgical](http://thinksurgical.com)** | **[Digital Marketing & Communications - Intern](https://jobright.ai/jobs/info/69c4762d6f4f855eeda70190?utm_campaign=1065&utm_source=git)** | Fremont, CA | On Site | Mar 25 |
+| **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Social Media](https://jobright.ai/jobs/info/69c499d0d5a1016e98dbe81f?utm_campaign=1065&utm_source=git)** | Cary, NC | Hybrid | Mar 25 |
 | **[ODK Media](https://www.odkmedia.net/)** | **[Social Media Content Intern (Unpaid)](https://jobright.ai/jobs/info/69c496a0d5a1016e98dbe0bd?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Mar 25 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Marketing, AI and Customer Segmentation](https://jobright.ai/jobs/info/69c473606f4f855eeda6fef6?utm_campaign=1065&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 25 |
 | ↳ | **[Summer Intern- Display Marketing, Marketing Communications](https://jobright.ai/jobs/info/69c4720dd5a1016e98dbad32?utm_campaign=1065&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 25 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Salt Lake Crossing Work Club](https://slxworkclub.com/)** | **[Social Media Intern - HAVN SLC & Lehi](https://jobright.ai/jobs/info/69c44b50d5a1016e98db6b59?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Mar 25 |
 | **[Vascular Solutions of North Carolina](https://vascularsolutions.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69c44b2b33eecf31079482d3?utm_campaign=1065&utm_source=git)** | Cary, NC | Hybrid | Mar 25 |
 | **[AIV L.P.](https://www.aivinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c44adbd5a1016e98db691d?utm_campaign=1065&utm_source=git)** | Greater Houston | On Site | Mar 25 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Celebrity March - May PR Internship](https://jobright.ai/jobs/info/69c44a5f6f4f855eeda6bc38?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Mar 25 |
 | **[End No Sleep, Inc.](https://endnosleep.org)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69c44a3633eecf31079480a1?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Mar 25 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Marketing & Digital Marketing Intern](https://jobright.ai/jobs/info/69c449cc6f4f855eeda6b9b5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Marketing)](https://jobright.ai/jobs/info/69c467a933eecf310794b9f1?utm_campaign=1065&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Mar 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NORWICH PHARMACEUTICALS, INC.](http://saveonpainmedicine.com)** | **[Marketing/Sales Operations Intern](https://jobright.ai/jobs/info/69c450b96f4f855eeda6c3d7?utm_campaign=1065&utm_source=git)** | Various, Pennsylvania, US | On Site | Mar 25 |
 | **[Mediaocean](http://www.mediaocean.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69c4276533eecf31079445aa?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 25 |
 | **[Care to Learn](https://caretolearn.org)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/69c45181d5a1016e98db7466?utm_campaign=1065&utm_source=git)** | Springfield, Missouri, United States | On Site | Mar 25 |
-| **[Hendrick Medical Center Brownwood](https://prevcare.se/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/69c425cad5a1016e98db3251?utm_campaign=1065&utm_source=git)** | Brownwood, TX | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
