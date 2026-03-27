@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[19 Media Group](https://19mediagroup.com/)** | **[Social Media Intern (non-paid)](https://jobright.ai/jobs/info/69c5fb7f1818a24cd84bd039?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 26 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69c5f3fee565c26a70016e44?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 26 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Content Marketing](https://jobright.ai/jobs/info/69c5f234aa9a29199e80bd06?utm_campaign=1065&utm_source=git)** | United States | On Site | Mar 26 |
 | **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5cf35aa9a29199e80abe8?utm_campaign=1065&utm_source=git)** | Utah, United States | Hybrid | Mar 26 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c49a83ea553769fcf531?utm_campaign=1065&utm_source=git)** | Utah | Remote | Mar 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c498aa9a29199e809ce5?utm_campaign=1065&utm_source=git)** | Massachusetts | Remote | Mar 26 |
 | **[Starbeam](www.starbeam.org)** | **[Growth (Sales & Marketing) Intern](https://jobright.ai/jobs/info/69c5c493e565c26a70014a77?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 26 |
-| **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c4931818a24cd84ba764?utm_campaign=1065&utm_source=git)** | Nevada | Remote | Mar 26 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c4931818a24cd84ba765?utm_campaign=1065&utm_source=git)** | California | Remote | Mar 26 |
+| **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c4931818a24cd84ba765?utm_campaign=1065&utm_source=git)** | California | Remote | Mar 26 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c4931818a24cd84ba764?utm_campaign=1065&utm_source=git)** | Nevada | Remote | Mar 26 |
 | **[Paybox Corp](http://gopaybox.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c488e565c26a700149f5?utm_campaign=1065&utm_source=git)** | Carol Stream, IL, US | On Site | Mar 26 |
 | **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c487aa3c2c1995e03f98?utm_campaign=1065&utm_source=git)** | Washington | Remote | Mar 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c468e565c26a70014944?utm_campaign=1065&utm_source=git)** | Colorado | Remote | Mar 26 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Ferrero](https://www.ferrero.com)** | **[Shopper Marketing Intern](https://jobright.ai/jobs/info/69c5d22a1818a24cd84bb7c6?utm_campaign=1065&utm_source=git)** | North York, ON | Hybrid | Mar 26 |
 | **[PROJXON](www.projxon.com)** | **[Social Media Specialist Intern](https://jobright.ai/jobs/info/69c5a482aa9a29199e808516?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Performance Marketing and Operations Intern](https://jobright.ai/jobs/info/69c5a3521b5ad02887377587?utm_campaign=1065&utm_source=git)** | Austin County, TX | Hybrid | Mar 26 |
-| **[Attend Wealth: Financial Solutions For Doctors](https://helloattend.com)** | **[Summer 2026 Marketing Internship](https://jobright.ai/jobs/info/69c5a18f1b5ad0288737752d?utm_campaign=1065&utm_source=git)** | Atlanta Metro | On Site | Mar 26 |
 | **[F&W Style](https://www.fwstyle.com)** | **[Fashion Marketing/ Social Media Intern](https://jobright.ai/jobs/info/69c59df5aa3c2c1995e0220a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[Mutual of America Financial Group](http://www.mutualofamerica.com)** | **[Customer Experience, Marketing Research & Insights – 2026 Summer Internship](https://jobright.ai/jobs/info/69c59d98aa9a29199e807a07?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Internal Marketing Intern - Denver, CO](https://jobright.ai/jobs/info/69c59d90aa9a29199e8079da?utm_campaign=1065&utm_source=git)** | Denver, CO, 80205 | Hybrid | Mar 26 |
