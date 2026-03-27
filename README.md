@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRG](https://trg.agency)** | **[Brand Management Intern (2026 Summer)](https://jobright.ai/jobs/info/69c605dee565c26a700178d4?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 26 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Internal Marketing Intern - Denver, CO](https://jobright.ai/jobs/info/69c6028a1818a24cd84bd50e?utm_campaign=1065&utm_source=git)** | Denver Metropolitan Area | Hybrid | Mar 26 |
 | **[19 Media Group](https://19mediagroup.com/)** | **[Social Media Intern (non-paid)](https://jobright.ai/jobs/info/69c5fb7f1818a24cd84bd039?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 26 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69c5f3fee565c26a70016e44?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 26 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Content Marketing](https://jobright.ai/jobs/info/69c5f234aa9a29199e80bd06?utm_campaign=1065&utm_source=git)** | United States | On Site | Mar 26 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Perry Ellis International](http://www.pery.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69c5cd0a83ea553769fd0363?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Intern - Marketing & Communications](https://jobright.ai/jobs/info/69c5cbcbaa3c2c1995e04d5f?utm_campaign=1065&utm_source=git)** | West Nyack, NY | Hybrid | Mar 26 |
 | **[Leidos](https://www.leidos.com)** | **[Content Strategist Intern](https://jobright.ai/jobs/info/69c5cbb8aa3c2c1995e04d48?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 26 |
-| **[Combe Incorporated](http://www.combe.com)** | **[Marketing Intern - Astroglide](https://jobright.ai/jobs/info/69c5cb671b5ad02887379b29?utm_campaign=1065&utm_source=git)** | White Plains, NY | Hybrid | Mar 26 |
 | **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69c5cb661818a24cd84bb38b?utm_campaign=1065&utm_source=git)** | Chippewa Falls, WI | Hybrid | Mar 26 |
 | **[Benchmark](http://www.bench.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c967aa9a29199e80a90e?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Mar 26 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/69c5c65ce565c26a70014cc3?utm_campaign=1065&utm_source=git)** | Bedford, NH | On Site | Mar 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MGT](http://www.mgtconsulting.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c58f9caa9a29199e8072af?utm_campaign=1065&utm_source=git)** | Livermore, California, United States | On Site | Mar 26 |
 | **[NAACP](http://www.naacp.org/)** | **[HB/FedEx Summer PR/Communications Intern](https://jobright.ai/jobs/info/69c58f99e565c26a7001222b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 26 |
 | **[Visions Federal Credit Union](https://www.visionsfcu.org)** | **[PROSPER Micro-Intern- Saddle Brook, NJ](https://jobright.ai/jobs/info/69c58f871818a24cd84b7c7c?utm_campaign=1065&utm_source=git)** | Saddle Brook, New Jersey, United States | On Site | Mar 26 |
-| **[Reesey Shaw Curatorial](https://www.reeseyshawcuratorial.com/)** | **[Marketing & Curatorial Intern](https://jobright.ai/jobs/info/69c5b00baa9a29199e808c26?utm_campaign=1065&utm_source=git)** | San Diego County, CA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
