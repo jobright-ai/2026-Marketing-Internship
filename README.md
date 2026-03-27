@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lawson Products](https://www.lawsonproducts.com/)** | **[Integrated Marketing Internship](https://jobright.ai/jobs/info/698e40200f6f7e7a2cea4afe?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Marketing Strategy - New Markets](https://jobright.ai/jobs/info/69c6bf5c83ea553769fdd301?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Mar 27 |
 | **[AAA Northeast](http://www.aaa.com)** | **[Social Media Intern (58403)](https://jobright.ai/jobs/info/69c6bd1cb773006330b727ed?utm_campaign=1065&utm_source=git)** | Providence, RI 02904 | On Site | Mar 27 |
 | **[Ovative Group](http://www.ovative.com)** | **[Summer 2026 Internship - Digital Marketing & Analytics](https://jobright.ai/jobs/info/6972e78298522904c697ba40?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - Marketing Strategy - New Markets](https://jobright.ai/jobs/info/69c6babcb773006330b722d9?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Mar 27 |
@@ -89,6 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Community Fundraising](https://jobright.ai/jobs/info/69c6a3dce565c26a700218d2?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
 | **[8am](https://www.8am.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b32ff6ae2a534885ea956a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[Digi Security Systems](https://www.digiss.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69c6a2791818a24cd84c74f3?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Mar 27 |
+| **[Drive IT](https://drivenash.com)** | **[Spring Marketing Intern](https://jobright.ai/jobs/info/69c6c30ab773006330b72a21?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Mar 27 |
+| ↳ | **[Spring Marketing Intern](https://jobright.ai/jobs/info/69c6c30a1b5ad02887386c0c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Transworld Business Advisors Boston](http://www.tworldma.com)** | **[Marketing Specialist](https://jobright.ai/jobs/info/69c6a0ef1818a24cd84c7475?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Mar 27 |
 | **[Marcus Theatres](https://www.marcustheatres.com/)** | **[Marketing Media Intern, Part Time](https://jobright.ai/jobs/info/69c68828e565c26a70020f1c?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Mar 27 |
 | **[AAA Northeast](http://www.aaa.com)** | **[Travel Marketing Intern (58385)](https://jobright.ai/jobs/info/69c69b9eaa3c2c1995e10da4?utm_campaign=1065&utm_source=git)** | Providence, RI 02904 | On Site | Mar 27 |
@@ -98,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[American Society of Civil Engineers](http://www.asce.org)** | **[Publishing Pathways Intern](https://jobright.ai/jobs/info/69c68e25b773006330b710a1?utm_campaign=1065&utm_source=git)** | Reston, VA, USA | Hybrid | Mar 27 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Marketing Event & Communications - Summer 2026](https://jobright.ai/jobs/info/69aa35511f59c56275e30eb4?utm_campaign=1065&utm_source=git)** | Brillion, WI | On Site | Mar 27 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Trade Marketing & Operations Intern - Saint Louis, (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fc592ebd316bece1bbce?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Mar 27 |
+| **[Neu Tool & Supply Corporation](https://neutool.com)** | **[Marketing Summer Intern - Content Creation](https://jobright.ai/jobs/info/69c6c491e565c26a700227da?utm_campaign=1065&utm_source=git)** | Waukesha, WI | On Site | Mar 27 |
 | **[HIP Video Promo](http://www.hipvideopromo.com/)** | **[Marketing Intern / Video Production Intern](https://jobright.ai/jobs/info/69c6b707b773006330b721a3?utm_campaign=1065&utm_source=git)** | South River, NJ | On Site | Mar 27 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Merchandising Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69aa26c12ebd316bece1de51?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Morton Buildings, Inc.](https://mortonbuildings.com/)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/6967efb3639b452fb57d7f02?utm_campaign=1065&utm_source=git)** | Morton, IL | On Site | Mar 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Marketing Content Coordinator Intern](https://jobright.ai/jobs/info/69b423833b74eb1e2c8139b4?utm_campaign=1065&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 26 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Loyalty Marketing Analytics Intern](https://jobright.ai/jobs/info/69c60c57aa9a29199e80cd8d?utm_campaign=1065&utm_source=git)** | Remote, Remote, United States | Remote | Mar 26 |
 | **[TRG](https://trg.agency)** | **[Brand Management Intern (2026 Summer)](https://jobright.ai/jobs/info/69c605dee565c26a700178d4?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 26 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Internal Marketing Intern - Denver, CO](https://jobright.ai/jobs/info/69c6028a1818a24cd84bd50e?utm_campaign=1065&utm_source=git)** | Denver Metropolitan Area | Hybrid | Mar 26 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69c5f3fee565c26a70016e44?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 26 |
-| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Content Marketing](https://jobright.ai/jobs/info/69c5f234aa9a29199e80bd06?utm_campaign=1065&utm_source=git)** | United States | On Site | Mar 26 |
-| **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5cf35aa9a29199e80abe8?utm_campaign=1065&utm_source=git)** | Utah, United States | Hybrid | Mar 26 |
-| **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[MarCom College Intern](https://jobright.ai/jobs/info/69c5ea7aaa9a29199e80bb14?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
