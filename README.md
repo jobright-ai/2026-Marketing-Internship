@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bain & Company](https://www.bain.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c63de4e565c26a7001c479?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 27 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c63dcfaa9a29199e8115d6?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Mar 27 |
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Strategic Communication Intern](https://jobright.ai/jobs/info/69c62d73aa9a29199e810534?utm_campaign=1065&utm_source=git)** | Midland, TX | On Site | Mar 27 |
 | **[Forsyth County](http://www.forsyth.cc)** | **[CTAE Program- Marketing Intern](https://jobright.ai/jobs/info/69c626061818a24cd84c0786?utm_campaign=1065&utm_source=git)** | Cumming, GA | On Site | Mar 26 |
+| **[Ottawa County](https://miottawa.org)** | **[Communications Intern - Fall 2026](https://jobright.ai/jobs/info/69c642511818a24cd84c20b5?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Mar 26 |
 | **[New Balance](http://www.newbalance.com)** | **[Team Sports Digital Marketing Intern](https://jobright.ai/jobs/info/69c61cc51818a24cd84bf21c?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 26 |
 | **[Big Brothers Big Sisters of Eastern Massachusetts](http://www.emassbigs.org)** | **[Internship - Hyannis; Big Brothers Big Sisters Events Intern](https://jobright.ai/jobs/info/69c60e26aa9a29199e80cdf7?utm_campaign=1065&utm_source=git)** | Hyannis, MA | Hybrid | Mar 26 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Marketing Content Coordinator Intern](https://jobright.ai/jobs/info/69b423833b74eb1e2c8139b4?utm_campaign=1065&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 26 |
@@ -94,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/69c5c65ce565c26a70014cc3?utm_campaign=1065&utm_source=git)** | Bedford, NH | On Site | Mar 26 |
 | **[Environment for the Americas](http://www.environmentamericas.org)** | **[Conservation Communication Intern - ONSITE – Indiana Ecological Services Field Office](https://jobright.ai/jobs/info/69c5c5031818a24cd84ba98c?utm_campaign=1065&utm_source=git)** | Bloomington, Indiana, United States | On Site | Mar 26 |
 | **[Mountain Housing Opportunities](https://mtnhousing.org)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/69c5c4d7e565c26a70014c62?utm_campaign=1065&utm_source=git)** | Asheville, NC | On Site | Mar 26 |
-| **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c49a83ea553769fcf533?utm_campaign=1065&utm_source=git)** | Texas | Remote | Mar 26 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c49a83ea553769fcf531?utm_campaign=1065&utm_source=git)** | Utah | Remote | Mar 26 |
+| **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c49a83ea553769fcf531?utm_campaign=1065&utm_source=git)** | Utah | Remote | Mar 26 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c49a83ea553769fcf533?utm_campaign=1065&utm_source=git)** | Texas | Remote | Mar 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c498aa9a29199e809ce5?utm_campaign=1065&utm_source=git)** | Massachusetts | Remote | Mar 26 |
 | **[Starbeam](www.starbeam.org)** | **[Growth (Sales & Marketing) Intern](https://jobright.ai/jobs/info/69c5c493e565c26a70014a77?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 26 |
 | **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c4931818a24cd84ba764?utm_campaign=1065&utm_source=git)** | Nevada | Remote | Mar 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cadent](http://www.cadent.tv)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69c591fee565c26a700124e3?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Marketing, Shows & Events (Summer 2026)](https://jobright.ai/jobs/info/69aad3697e1fab39d3827603?utm_campaign=1065&utm_source=git)** | Dorval, QC | Hybrid | Mar 26 |
 | **[Genesys](https://www.genesys.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69c5918faa3c2c1995e0198b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Remote | Mar 26 |
-| **[OpenX](https://www.openx.com/)** | **[Intern - Product Marketing](https://jobright.ai/jobs/info/69c5905faa9a29199e807566?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 26 |
-| **[AdTheorent](http://www.adtheorent.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69c590191818a24cd84b7f80?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Mar 26 |
-| ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/69c5901283ea553769fccdd8?utm_campaign=1065&utm_source=git)** | US-NY-New York | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
