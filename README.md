@@ -94,12 +94,12 @@ For a complete list, click the following sortable link below:
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/69c5c65ce565c26a70014cc3?utm_campaign=1065&utm_source=git)** | Bedford, NH | On Site | Mar 26 |
 | **[Environment for the Americas](http://www.environmentamericas.org)** | **[Conservation Communication Intern - ONSITE – Indiana Ecological Services Field Office](https://jobright.ai/jobs/info/69c5c5031818a24cd84ba98c?utm_campaign=1065&utm_source=git)** | Bloomington, Indiana, United States | On Site | Mar 26 |
 | **[Mountain Housing Opportunities](https://mtnhousing.org)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/69c5c4d7e565c26a70014c62?utm_campaign=1065&utm_source=git)** | Asheville, NC | On Site | Mar 26 |
-| **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c49a83ea553769fcf531?utm_campaign=1065&utm_source=git)** | Utah | Remote | Mar 26 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c49a83ea553769fcf533?utm_campaign=1065&utm_source=git)** | Texas | Remote | Mar 26 |
+| **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c49a83ea553769fcf533?utm_campaign=1065&utm_source=git)** | Texas | Remote | Mar 26 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c49a83ea553769fcf531?utm_campaign=1065&utm_source=git)** | Utah | Remote | Mar 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c498aa9a29199e809ce5?utm_campaign=1065&utm_source=git)** | Massachusetts | Remote | Mar 26 |
 | **[Starbeam](www.starbeam.org)** | **[Growth (Sales & Marketing) Intern](https://jobright.ai/jobs/info/69c5c493e565c26a70014a77?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 26 |
-| **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c4931818a24cd84ba765?utm_campaign=1065&utm_source=git)** | California | Remote | Mar 26 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c4931818a24cd84ba764?utm_campaign=1065&utm_source=git)** | Nevada | Remote | Mar 26 |
+| **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c4931818a24cd84ba764?utm_campaign=1065&utm_source=git)** | Nevada | Remote | Mar 26 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c4931818a24cd84ba765?utm_campaign=1065&utm_source=git)** | California | Remote | Mar 26 |
 | **[Paybox Corp](http://gopaybox.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c488e565c26a700149f5?utm_campaign=1065&utm_source=git)** | Carol Stream, IL, US | On Site | Mar 26 |
 | **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c487aa3c2c1995e03f98?utm_campaign=1065&utm_source=git)** | Washington | Remote | Mar 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c468e565c26a70014944?utm_campaign=1065&utm_source=git)** | Colorado | Remote | Mar 26 |
