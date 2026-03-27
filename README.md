@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midea RAC North America](http://www.midea.com/global/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/69c5de381b5ad0288737a6e7?utm_campaign=1065&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Mar 26 |
+| **[Let Us Lead](letuslead.org)** | **[Let Us Lead Summer Intern](https://jobright.ai/jobs/info/69c5de1b1b5ad0288737a6a7?utm_campaign=1065&utm_source=git)** | Triangle Area | Remote | Mar 26 |
+| **[Celebrity Pupz](https://celebritypupz.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69c5db93aa3c2c1995e056d5?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 26 |
+| **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69c5db78aa9a29199e80b45c?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Mar 26 |
+| **[Fusion100](http://Fusion100co.com)** | **[Growth Intern](https://jobright.ai/jobs/info/69c5da1f1b5ad0288737a55e?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 26 |
+| **[Stand Together](https://standtogether.org/)** | **[KAP 2026-2027 - Strategic Marketing Associate - Principled Business](https://jobright.ai/jobs/info/69c5d8e91b5ad0288737a532?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | Remote | Mar 26 |
+| **[DC Housing Finance Agency](https://www.dchfa.org/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69c5d688e565c26a70015f44?utm_campaign=1065&utm_source=git)** | Washington,DC,US | On Site | Mar 26 |
+| **[Canadian Red Cross](http://www.redcross.ca/)** | **[Creative Copywriter Specialist](https://jobright.ai/jobs/info/69c5d2561818a24cd84bb7e2?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 26 |
 | **[Midea Canada](https://www.midea.com/ca)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/69c5d20daa3c2c1995e04fdc?utm_campaign=1065&utm_source=git)** | Markham, ON | On Site | Mar 26 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Celebrity PR Internship FOR SPRING](https://jobright.ai/jobs/info/69c5d0d9aa3c2c1995e04fc0?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Mar 26 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69c5d0caaa9a29199e80acab?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Mar 26 |
@@ -114,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Marketing Leadership Development Program](https://jobright.ai/jobs/info/69c5a7fb1b5ad028873777eb?utm_campaign=1065&utm_source=git)** | Hartford, CT | On Site | Mar 26 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Manager, Marketing and Communications](https://jobright.ai/jobs/info/69c5a7b2aa9a29199e808649?utm_campaign=1065&utm_source=git)** | Prairie View, TX | On Site | Mar 26 |
 | **[OSG](https://osgconnect.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5c48983ea553769fcf4ce?utm_campaign=1065&utm_source=git)** | Carol Stream, IL | On Site | Mar 26 |
+| **[Ferrero](https://www.ferrero.com)** | **[Shopper Marketing Intern](https://jobright.ai/jobs/info/69c5d22a1818a24cd84bb7c6?utm_campaign=1065&utm_source=git)** | North York, ON | Hybrid | Mar 26 |
 | **[PROJXON](www.projxon.com)** | **[Social Media Specialist Intern](https://jobright.ai/jobs/info/69c5a482aa9a29199e808516?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Performance Marketing and Operations Intern](https://jobright.ai/jobs/info/69c5a3521b5ad02887377587?utm_campaign=1065&utm_source=git)** | Austin County, TX | Hybrid | Mar 26 |
 | **[Attend Wealth: Financial Solutions For Doctors](https://helloattend.com)** | **[Summer 2026 Marketing Internship](https://jobright.ai/jobs/info/69c5a18f1b5ad0288737752d?utm_campaign=1065&utm_source=git)** | Atlanta Metro | On Site | Mar 26 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Troubadour Golf and Field Club](https://thetroubadourclub.com)** | **[Events Intern](https://jobright.ai/jobs/info/69c586b81b5ad02887375fdf?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Mar 26 |
 | **[Genesys](https://www.genesys.com)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/69c58531e565c26a70011c9a?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Mar 26 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Venture Platform & Growth Marketing Intern](https://jobright.ai/jobs/info/69c5851e1818a24cd84b77f2?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Mar 26 |
-| **[Group 1001](https://group1001.com/)** | **[Market Research Intern](https://jobright.ai/jobs/info/69c584f9aa3c2c1995e011ef?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Mar 26 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/69c5831b83ea553769fcbdd7?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Mar 26 |
-| ↳ | **[Copywriting Intern](https://jobright.ai/jobs/info/69c582a4e565c26a70011329?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | Mar 26 |
-| **[TreviPay](https://www.trevipay.com/)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/69c58190e565c26a70010b14?utm_campaign=1065&utm_source=git)** | Overland Park, KS | Hybrid | Mar 26 |
-| **[Charter Steel](http://www.chartersteel.com/)** | **[Product Marketing Intern (Year-Round)](https://jobright.ai/jobs/info/693fa52650bbaf765051debd?utm_campaign=1065&utm_source=git)** | Saukville, WI | Hybrid | Mar 26 |
-| **[BPCM](http://www.bpcm.com)** | **[Summer Internship - Fashion PR](https://jobright.ai/jobs/info/69c57fc8aa9a29199e805a70?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 26 |
-| **[Genesys](https://www.genesys.com)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/69c57d0a1818a24cd84b5fa1?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Mar 26 |
-| **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Concur Product Marketing - Market Insights (Alpharetta)](https://jobright.ai/jobs/info/69a8bc6c79f3f4037f432a94?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Mar 26 |
-| ↳ | **[SAP iXP Intern - Corporate Growth Reference Advisors - Miami](https://jobright.ai/jobs/info/69a8a7fd2580d3183f00a9f3?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
