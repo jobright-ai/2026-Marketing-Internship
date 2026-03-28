@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c789ae1818a24cd84cf728?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Mar 28 |
 | **[BioSpace](http://www.biospace.com/)** | **[Communications & Multimedia Internship](https://jobright.ai/jobs/info/69c77b09aa3c2c1995e18649?utm_campaign=1065&utm_source=git)** | West Lebanon, NH | On Site | Mar 27 |
 | **[Reach3 Insights](https://www.reach3insights.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c7783d1b5ad0288738d089?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development Foodservice (MBA/Grad)](https://jobright.ai/jobs/info/69c76e3de565c26a70028c87?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
@@ -131,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Toronto Region Board of Trade](https://www.bot.com)** | **[Intern, Events](https://jobright.ai/jobs/info/69c71b1483ea553769fe0ccd?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Intern - Marketing & Communications](https://jobright.ai/jobs/info/69c6fa6c83ea553769fdf5a0?utm_campaign=1065&utm_source=git)** | West Nyack, NY | Hybrid | Mar 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69c6f8deb773006330b74b35?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Mar 27 |
+| **[U.S. Naval Academy Alumni Association & Foundation](http://www.usna.com/)** | **[Foundation Marketing and Communications Intern](https://jobright.ai/jobs/info/69c78a001b5ad0288738e014?utm_campaign=1065&utm_source=git)** | 301 King George Street, Annapolis, MD 21402, USA | On Site | Mar 27 |
 | **[Grand Touring Automobiles](http://www.grandtouringautos.com)** | **[MARKETING MANAGER - MARKETING TEAM](https://jobright.ai/jobs/info/69c7150e1818a24cd84cb6d2?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
 | **[Palona AI](https://palona.ai/pizza-expo)** | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c6f6d2b773006330b74a36?utm_campaign=1065&utm_source=git)** | Los Altos, CA | On Site | Mar 27 |
 | ↳ | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c6f6a7aa3c2c1995e13eb6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trellix](http://www.trellix.com)** | **[Intern](https://jobright.ai/jobs/info/69c6ea75e565c26a70023f43?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69c6ea3ab773006330b74175?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Greenspoon Marder LLP](https://www.gmlaw.com/)** | **[Marketing Executive Assistant - Downtown Fort Lauderdale - 0296](https://jobright.ai/jobs/info/69c6ea36b773006330b7416e?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Mar 27 |
-| **[OHLA USA](https://www.ohla-usa.com)** | **[Marketing & Proposal-2026 INTERNSHIP](https://jobright.ai/jobs/info/69c6e848e565c26a70023e09?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Mar 27 |
-| **[Tenpoint Therapeutics, Ltd.](https://www.visustx.com/)** | **[Director, ECP Marketing](https://jobright.ai/jobs/info/69c7048c83ea553769fdfcda?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
