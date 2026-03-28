@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Transit](https://www.communitytransit.org/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69c74750e565c26a70027803?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Mar 27 |
+| **[Flighthouse Media](https://www.flighthousemedia.com)** | **[Music Marketing Intern - Fanpages](https://jobright.ai/jobs/info/69c746a383ea553769fe1ea6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 27 |
+| **[FloSports](http://www.flosports.tv/)** | **[Summer Internship - Audience Development](https://jobright.ai/jobs/info/69c73b2e1818a24cd84ccbe1?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 27 |
+| ↳ | **[Summer Internship - Social Media](https://jobright.ai/jobs/info/69c73b2c1818a24cd84ccbde?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 27 |
+| **[Crunch Fitness, Primetime Fitness LLC](https://linktr.ee/primetimefitnessllc)** | **[Brand Ambassador Online Hiring Event](https://jobright.ai/jobs/info/69c735c21b5ad0288738b25d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 27 |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69c7345aaa3c2c1995e1663e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
+| **[Gela Wesh](https://gela-wesh.com/)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/69c734461b5ad0288738b1de?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Mar 27 |
 | **[Keenova](https://www.keenova.com)** | **[HCP Marketing Intern](https://jobright.ai/jobs/info/699d0e6281476f6176b5aeba?utm_campaign=1065&utm_source=git)** | Malvern, PA | Hybrid | Mar 27 |
 | **[GALLO](http://www.gallocareers.com)** | **[Director - Brand Management - Spirits](https://jobright.ai/jobs/info/69c72d9b83ea553769fe16bd?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Mar 27 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, IT Organizational Change Management](https://jobright.ai/jobs/info/69c72c1fb773006330b76ad5?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 27 |
@@ -91,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Mirion Technologies](https://www.mirion.com/about/mirion-technologies)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c70f44aa3c2c1995e14e9b?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Community Transit](https://www.communitytransit.org/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69c70ec61818a24cd84cb3ad?utm_campaign=1065&utm_source=git)** | US-WA-Everett | On Site | Mar 27 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Digital Media](https://jobright.ai/jobs/info/69c70ec51818a24cd84cb3a2?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | Hybrid | Mar 27 |
-| **[iWorks Corporation](https://iworkscorp.com/)** | **[Product Marketing Internship](https://jobright.ai/jobs/info/69c70ebdb773006330b75659?utm_campaign=1065&utm_source=git)** | USA, 00000 | Remote | Mar 27 |
 | **[U.S. Naval Academy Alumni Association & Foundation](http://www.usna.com/)** | **[Foundation Marketing and Communications Intern](https://jobright.ai/jobs/info/69c70ebd1b5ad028873898e3?utm_campaign=1065&utm_source=git)** | 301 King George Street, Annapolis, MD 21402, USA | On Site | Mar 27 |
 | **[Toronto Region Board of Trade](https://www.bot.com)** | **[Intern, Events](https://jobright.ai/jobs/info/69c70e5a1818a24cd84cb0c2?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | Mar 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Public Relations Internship](https://jobright.ai/jobs/info/69c70e4b83ea553769fe00bc?utm_campaign=1065&utm_source=git)** | Support Center, 1707 Market Place Blvd., Suite 200, Irving, TX | Hybrid | Mar 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genesys](https://www.genesys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e05a1b5ad02887387c3b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Remote | Mar 27 |
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e030b773006330b73a75?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Remote | Mar 27 |
 | **[Getinge](https://www.getinge.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c6e028aa3c2c1995e12e20?utm_campaign=1065&utm_source=git)** | Wayne, NJ | Remote | Mar 27 |
-| **[Happy Hollow Club](https://www.happyhollowclub.com)** | **[Summer Communications & Digital Content Intern](https://jobright.ai/jobs/info/69c6de2c1b5ad02887387ad0?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Mar 27 |
-| **[Sapochetti Brands](sapbrands.shop)** | **[Business / Management Intern, Engagements](https://jobright.ai/jobs/info/69c6dc66b773006330b738fa?utm_campaign=1065&utm_source=git)** | Greater Boston | Hybrid | Mar 27 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Premium Marketing Analytics (Crypto.com Arena)](https://jobright.ai/jobs/info/69c6db21aa3c2c1995e12c7a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
-| **[Cumberland Farms](http://www.cumberlandfarms.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69c707fb83ea553769fdfe00?utm_campaign=1065&utm_source=git)** | Westborough, MA | On Site | Mar 27 |
-| **[AFL](http://www.AFLglobal.com)** | **[AFL Marketing Internship- Summer 2026](https://jobright.ai/jobs/info/698d260a0f6f7e7a2ce8e97e?utm_campaign=1065&utm_source=git)** | Duncan, SC | On Site | Mar 27 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Talent Marketing Intern](https://jobright.ai/jobs/info/69c6da5db773006330b7385a?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
