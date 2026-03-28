@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Events Intern - Raising Cane's River Center](https://jobright.ai/jobs/info/698e7e950f6f7e7a2cea99f6?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Mar 28 |
+| **[Zeno Group](http://www.zenogroup.com)** | **[Sports & Entertainment Summer Intern](https://jobright.ai/jobs/info/69c7ad731818a24cd84d0812?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
+| **[Precisely](https://www.precisely.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69ab6b952747003c3d51098f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Ellucian](http://www.ellucian.com)** | **[Campaign Marketing Intern](https://jobright.ai/jobs/info/69aae3df2747003c3d5097c5?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | Mar 28 |
 | **[Precisely](https://www.precisely.com)** | **[Marketing Campaigns Intern](https://jobright.ai/jobs/info/69ab6c0c7e1fab39d382f4bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Reach3 Insights](https://www.reach3insights.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c79d2ee565c26a7002a870?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
@@ -144,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Palona AI](https://palona.ai/pizza-expo)** | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c6f6d2b773006330b74a36?utm_campaign=1065&utm_source=git)** | Los Altos, CA | On Site | Mar 27 |
 | ↳ | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c6f6a7aa3c2c1995e13eb6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69c46edf33eecf310794c1e6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 27 |
+| **[iWorks Corporation](https://iworkscorp.com/)** | **[Product Marketing Internship](https://jobright.ai/jobs/info/69c7aa96b773006330b7aec3?utm_campaign=1065&utm_source=git)** | USA, 00000 | Remote | Mar 27 |
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Marketing Intern - Europe](https://jobright.ai/jobs/info/69c749d9aa3c2c1995e16edb?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Media Internship Program](https://jobright.ai/jobs/info/69c6f3caaa3c2c1995e13d6d?utm_campaign=1065&utm_source=git)** | CA-ON-Toronto | On Site | Mar 27 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69c6f3c31818a24cd84ca333?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Premium Marketing Analytics (Crypto.com Arena)](https://jobright.ai/jobs/info/69c6f38e1b5ad02887388b8d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | **[Dr. Phillips Center for the Performing Arts](http://www.drphillipscenter.org/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69c6f382b773006330b748de?utm_campaign=1065&utm_source=git)** | Dr. Phillips Center, 155 E ANDERSON ST, Orlando, Florida, United States of America | On Site | Mar 27 |
 | **[Brainlabs](http://www.brainlabsdigital.com/)** | **[Manager, SEO Content](https://jobright.ai/jobs/info/69c71338aa3c2c1995e151ef?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 27 |
-| **[Palona AI](https://palona.ai/pizza-expo)** | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c6f34f1818a24cd84ca13b?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Mar 27 |
-| **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/69c6f2b8e565c26a70024209?utm_campaign=1065&utm_source=git)** | Nonstore B049 Tampa FL | On Site | Mar 27 |
-| **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern US Marketing (Fort Worth, TX)](https://jobright.ai/jobs/info/69c6ee41aa3c2c1995e135fe?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 27 |
-| **[Tyler Technologies](https://www.tylertech.com)** | **[Content Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/69b0a1c30b2db6275c04e9c0?utm_campaign=1065&utm_source=git)** | Yarmouth, ME | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
