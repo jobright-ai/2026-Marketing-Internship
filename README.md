@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Workstations Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69ab1aaa7e1fab39d382a34d?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Mar 28 |
+| **[Leviton](https://www.leviton.com)** | **[Marketing Intern (Summer)](https://jobright.ai/jobs/info/698e2f5e78b4502f12a4fa84?utm_campaign=1065&utm_source=git)** | Melville, NY | On Site | Mar 28 |
+| **[BEUMER Group](https://www.beumergroup.com)** | **[Regional Corporate Communications Intern](https://jobright.ai/jobs/info/69ab234e2747003c3d50c2c6?utm_campaign=1065&utm_source=git)** | Somerset, NJ | On Site | Mar 28 |
 | **[NAES](http://www.naes.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c80bc4e565c26a7002d3b5?utm_campaign=1065&utm_source=git)** | Issaquah, Washington, United States | On Site | Mar 28 |
 | **[Cossette](http://www.cossette.com)** | **[Coordonnateur·trice, communication (Stage)](https://jobright.ai/jobs/info/69ab50c7142d5b4265fc986e?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
 | **[NAES](http://www.naes.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c80648aa3c2c1995e1c9d1?utm_campaign=1065&utm_source=git)** | Issaquah, WA | On Site | Mar 28 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Smart Mirror.LLC](http://www.getsmartmirror.com)** | **[Digital Marketing intern- AI platforms](https://jobright.ai/jobs/info/69c7ec11aa3c2c1995e1bfd0?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Mar 28 |
 | **[Cossette](http://www.cossette.com)** | **[Analyste Stratégique (Stage)](https://jobright.ai/jobs/info/69ab50d5142d5b4265fc987f?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
 | ↳ | **[Chargé·e de produits, contenu (Stage)](https://jobright.ai/jobs/info/69ab51077e1fab39d382e7e8?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69c7e37b1818a24cd84d23a2?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 28 |
 | **[Antora Energy](https://www.antoraenergy.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69ab3bff142d5b4265fc84b1?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing](https://jobright.ai/jobs/info/69b0e7587495006450980710?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 28 |
 | **[Insomniac Events](http://insomniac.com)** | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69901c520cc8ea15f1dac36c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Mar 28 |
@@ -95,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[Unpaid Communications Specialist intern](https://jobright.ai/jobs/info/69c7b547b773006330b7b230?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Cookiy AI](https://cookiy.ai/)** | **[AI Content & Growth Intern](https://jobright.ai/jobs/info/69c78f6aaa3c2c1995e195c5?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Mar 28 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Marketing Intern - Fanpages](https://jobright.ai/jobs/info/69c78df1aa3c2c1995e19583?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 28 |
-| **[Everyday Health Group](https://www.everydayhealthgroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c78c7083ea553769fe4aea?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c789ae1818a24cd84cf728?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Mar 28 |
 | **[Angus Reid Group](https://www.angusreid.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c7bf4eaa3c2c1995e1ac27?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 28 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Business Analyst – Digital Marketing & Content Management Intern](https://jobright.ai/jobs/info/69c79e9a83ea553769fe54b8?utm_campaign=1065&utm_source=git)** | St Paul, MN | Hybrid | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Digitial Marketing Internship](https://jobright.ai/jobs/info/69c7332983ea553769fe198a?utm_campaign=1065&utm_source=git)** | Buffalo, NY | Hybrid | Mar 27 |
 | **[Health Alliance Plan](https://www.hap.org)** | **[College Intern - Digital Marketing/Social Media (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69c704761818a24cd84cacda?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | Mar 27 |
 | **[SPX Technologies](https://www.spx.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69c7031f83ea553769fdfc70?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
-| **[The Plug Drink](https://theplugdrink.com/)** | **[TikTok Shop & Live Streaming Internship](https://jobright.ai/jobs/info/69c702fc83ea553769fdfc17?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
