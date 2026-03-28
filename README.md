@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAES](http://www.naes.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c80bc4e565c26a7002d3b5?utm_campaign=1065&utm_source=git)** | Issaquah, Washington, United States | On Site | Mar 28 |
+| **[Cossette](http://www.cossette.com)** | **[Coordonnateur·trice, communication (Stage)](https://jobright.ai/jobs/info/69ab50c7142d5b4265fc986e?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
+| **[NAES](http://www.naes.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c80648aa3c2c1995e1c9d1?utm_campaign=1065&utm_source=git)** | Issaquah, WA | On Site | Mar 28 |
+| **[Tulypp Capital Partners](tulypp.com)** | **[Growth Equity Intern: EnergyTech & SpaceTech](https://jobright.ai/jobs/info/69c8055ae565c26a7002d318?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
+| **[Homebase](http://www.joinhomebase.com)** | **[Lifecycle Marketing Intern (Hybrid)](https://jobright.ai/jobs/info/69ab92c67e1fab39d382fe7c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
+| **[Britannica Capital](http://britannicacapital.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/6894a0f273b3a600fe880c12?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[LiftedViz](http://www.liftedviz.com)** | **[AI Marketing & Growth Analytics Intern – SaaS Product Launch](https://jobright.ai/jobs/info/69c7f3141b5ad028873913b8?utm_campaign=1065&utm_source=git)** | Washington, United States | Remote | Mar 28 |
 | **[Flex](https://getflex.com)** | **[Integrated Marketing Manager](https://jobright.ai/jobs/info/69ab92ae7e1fab39d382fdd8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[OptionsRobot](http://optionsrobot.com)** | **[Marketing & B2B Intern](https://jobright.ai/jobs/info/69c7f2cc1818a24cd84d2929?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
@@ -65,8 +71,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Chargé·e de produits, contenu (Stage)](https://jobright.ai/jobs/info/69ab51077e1fab39d382e7e8?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69c7e37b1818a24cd84d23a2?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 28 |
 | **[Antora Energy](https://www.antoraenergy.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69ab3bff142d5b4265fc84b1?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing](https://jobright.ai/jobs/info/69b0e7587495006450980710?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 28 |
 | **[Insomniac Events](http://insomniac.com)** | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69901c520cc8ea15f1dac36c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Mar 28 |
 | **[Stepful](https://www.stepful.com/)** | **[Director, Product Marketing & GTM Strategy](https://jobright.ai/jobs/info/69ab66352747003c3d510535?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 28 |
+| **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Marketing Internship (Remote)](https://jobright.ai/jobs/info/69c80024aa3c2c1995e1c920?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Flex](https://getflex.com)** | **[Integrated Marketing Manager](https://jobright.ai/jobs/info/69ab92f87e1fab39d382ff4a?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | **[Babette Home Care](https://www.babettehomecare.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69c7c7b41818a24cd84d1842?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 28 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Corporate Communications](https://jobright.ai/jobs/info/69c7c5d8b773006330b7bfaf?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Mar 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Health Alliance Plan](https://www.hap.org)** | **[College Intern - Digital Marketing/Social Media (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69c704761818a24cd84cacda?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | Mar 27 |
 | **[SPX Technologies](https://www.spx.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69c7031f83ea553769fdfc70?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[TikTok Shop & Live Streaming Internship](https://jobright.ai/jobs/info/69c702fc83ea553769fdfc17?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 27 |
-| **[The Lacek Group](http://www.lacek.com)** | **[Copywriter Internship](https://jobright.ai/jobs/info/69c7017d83ea553769fdfba8?utm_campaign=1065&utm_source=git)** | Minneapolis, Minnesota | Hybrid | Mar 27 |
-| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[Copywriter Internship](https://jobright.ai/jobs/info/69c70163b773006330b7516f?utm_campaign=1065&utm_source=git)** | Minneapolis, Minnesota | Hybrid | Mar 27 |
-| **[Palona AI](https://palona.ai/pizza-expo)** | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c70149b773006330b750cc?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 27 |
-| **[Henry Schein](http://www.henryschein.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c7007b1818a24cd84ca7ab?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Mar 27 |
-| **[Novant Health](https://www.novanthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/69c71e201b5ad0288738a579?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
-| **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[Marketing/Administrative Intern](https://jobright.ai/jobs/info/69c6fe8aaa3c2c1995e1417c?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Mar 27 |
-| **[Rosenbauer America](http://rosenbaueramerica.com)** | **[RBA Marketing Intern](https://jobright.ai/jobs/info/69bdc8ed393a1008f74365fb?utm_campaign=1065&utm_source=git)** | Wyoming, MN | On Site | Mar 27 |
-| **[Business Advice Centre at the University of East London (BAC)](https://www.uel.ac.uk/about/our-schools/royal-docks-school-business-law/business-advice-centre)** | **[Internal Communications Manager (Staff) (Maternity Cover)](https://jobright.ai/jobs/info/69c6fc2de565c26a70024b08?utm_campaign=1065&utm_source=git)** | Campus, IL | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
