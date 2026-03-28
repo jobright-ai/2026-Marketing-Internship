@@ -144,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Edelman DXI](https://www.edelmandxi.com)** | **[AI Product Marketing Intern](https://jobright.ai/jobs/info/69c7deb783ea553769fe73aa?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Public Relations Internship](https://jobright.ai/jobs/info/69c711a81818a24cd84cb49b?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Mar 27 |
 | **[Innovative Ag Services](https://www.innovativeag.com)** | **[2026 Summer Internship - Marketing & Communications](https://jobright.ai/jobs/info/69c71049aa3c2c1995e14f7c?utm_campaign=1065&utm_source=git)** | Hubbard, IA | On Site | Mar 27 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[URGENTLY HIRING Celebrity PR Internship SPRING](https://jobright.ai/jobs/info/69c72d53b773006330b76c27?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Mar 27 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/699f5fb0ce78e77b4fe527d0?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Mar 27 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Digital Media](https://jobright.ai/jobs/info/69c70f4eaa3c2c1995e14ebc?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | Hybrid | Mar 27 |
 | **[Community Transit](https://www.communitytransit.org/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69c70f4daa3c2c1995e14eaa?utm_campaign=1065&utm_source=git)** | Everett, WA, US | On Site | Mar 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Digitial Marketing Internship](https://jobright.ai/jobs/info/69c7332983ea553769fe198a?utm_campaign=1065&utm_source=git)** | Buffalo, NY | Hybrid | Mar 27 |
 | **[Health Alliance Plan](https://www.hap.org)** | **[College Intern - Digital Marketing/Social Media (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69c704761818a24cd84cacda?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | Mar 27 |
 | **[SPX Technologies](https://www.spx.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69c7031f83ea553769fdfc70?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
+| **[The Plug Drink](https://theplugdrink.com/)** | **[TikTok Shop & Live Streaming Internship](https://jobright.ai/jobs/info/69c702fc83ea553769fdfc17?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
