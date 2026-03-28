@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Marketing & Publicity - Summer 2026](https://jobright.ai/jobs/info/69c831901818a24cd84d3cc5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 28 |
+| **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[Marketing/Communications Intern](https://jobright.ai/jobs/info/69c82b641b5ad0288739249c?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Mar 28 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Workstations Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69ab1aaa7e1fab39d382a34d?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Mar 28 |
 | **[Leviton](https://www.leviton.com)** | **[Marketing Intern (Summer)](https://jobright.ai/jobs/info/698e2f5e78b4502f12a4fa84?utm_campaign=1065&utm_source=git)** | Melville, NY | On Site | Mar 28 |
 | **[BEUMER Group](https://www.beumergroup.com)** | **[Regional Corporate Communications Intern](https://jobright.ai/jobs/info/69ab234e2747003c3d50c2c6?utm_campaign=1065&utm_source=git)** | Somerset, NJ | On Site | Mar 28 |
 | **[NAES](http://www.naes.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c80bc4e565c26a7002d3b5?utm_campaign=1065&utm_source=git)** | Issaquah, Washington, United States | On Site | Mar 28 |
 | **[Cossette](http://www.cossette.com)** | **[Coordonnateur·trice, communication (Stage)](https://jobright.ai/jobs/info/69ab50c7142d5b4265fc986e?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
 | **[NAES](http://www.naes.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c80648aa3c2c1995e1c9d1?utm_campaign=1065&utm_source=git)** | Issaquah, WA | On Site | Mar 28 |
-| **[Tulypp Capital Partners](tulypp.com)** | **[Growth Equity Intern: EnergyTech & SpaceTech](https://jobright.ai/jobs/info/69c8055ae565c26a7002d318?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c82d59aa3c2c1995e1d8ac?utm_campaign=1065&utm_source=git)** | Royal Oak, MI | On Site | Mar 28 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Lifecycle Marketing Intern (Hybrid)](https://jobright.ai/jobs/info/69ab92c67e1fab39d382fe7c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | **[Britannica Capital](http://britannicacapital.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/6894a0f273b3a600fe880c12?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[LiftedViz](http://www.liftedviz.com)** | **[AI Marketing & Growth Analytics Intern – SaaS Product Launch](https://jobright.ai/jobs/info/69c7f3141b5ad028873913b8?utm_campaign=1065&utm_source=git)** | Washington, United States | Remote | Mar 28 |
@@ -121,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, IT Organizational Change Management](https://jobright.ai/jobs/info/69c72c1fb773006330b76ad5?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 27 |
 | **[Mirion Technologies](https://www.mirion.com/about/mirion-technologies)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c72c111818a24cd84cc4e2?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Samba TV](http://www.samba.tv)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c72abb1b5ad0288738acee?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
-| **[KCMCONNECT](https://kcmconnect.co/)** | **[Hollywood: PR & Event Production Internship](https://jobright.ai/jobs/info/69c7292eb773006330b76a1f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | **[Third Way](http://www.thirdway.org/)** | **[Events and Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69c72872e565c26a70026aac?utm_campaign=1065&utm_source=git)** | Washington, US | On Site | Mar 27 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Arena Marketing & Sales Intern/ Part-Time / NOW Arena](https://jobright.ai/jobs/info/69c72828b773006330b76a06?utm_campaign=1065&utm_source=git)** | NOW Arena | On Site | Mar 27 |
 | ↳ | **[Arena Marketing & Sales Intern/ Part-Time / NOW Arena](https://jobright.ai/jobs/info/69c7281d1818a24cd84cc400?utm_campaign=1065&utm_source=git)** | 5333 Prairie Stone Parkway | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Digitial Marketing Internship](https://jobright.ai/jobs/info/69c7332983ea553769fe198a?utm_campaign=1065&utm_source=git)** | Buffalo, NY | Hybrid | Mar 27 |
 | **[Health Alliance Plan](https://www.hap.org)** | **[College Intern - Digital Marketing/Social Media (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69c704761818a24cd84cacda?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | Mar 27 |
 | **[SPX Technologies](https://www.spx.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69c7031f83ea553769fdfc70?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
-| **[The Plug Drink](https://theplugdrink.com/)** | **[TikTok Shop & Live Streaming Internship](https://jobright.ai/jobs/info/69c702fc83ea553769fdfc17?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
