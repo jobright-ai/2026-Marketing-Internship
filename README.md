@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LiftedViz](http://www.liftedviz.com)** | **[AI Marketing & Growth Analytics Intern – SaaS Product Launch](https://jobright.ai/jobs/info/69c7f3141b5ad028873913b8?utm_campaign=1065&utm_source=git)** | Washington, United States | Remote | Mar 28 |
+| **[Flex](https://getflex.com)** | **[Integrated Marketing Manager](https://jobright.ai/jobs/info/69ab92ae7e1fab39d382fdd8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
+| **[OptionsRobot](http://optionsrobot.com)** | **[Marketing & B2B Intern](https://jobright.ai/jobs/info/69c7f2cc1818a24cd84d2929?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Smart Mirror.LLC](http://www.getsmartmirror.com)** | **[Digital Marketing intern- AI platforms](https://jobright.ai/jobs/info/69c7ec11aa3c2c1995e1bfd0?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Mar 28 |
 | **[Cossette](http://www.cossette.com)** | **[Analyste Stratégique (Stage)](https://jobright.ai/jobs/info/69ab50d5142d5b4265fc987f?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
 | ↳ | **[Chargé·e de produits, contenu (Stage)](https://jobright.ai/jobs/info/69ab51077e1fab39d382e7e8?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69c7345aaa3c2c1995e1663e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | **[Keenova](https://www.keenova.com)** | **[HCP Marketing Intern](https://jobright.ai/jobs/info/699d0e6281476f6176b5aeba?utm_campaign=1065&utm_source=git)** | Malvern, PA | Hybrid | Mar 27 |
 | **[Arena](https://arena.run/)** | **[Digital Advocacy & Influence Intern](https://jobright.ai/jobs/info/69c7deceb773006330b7caae?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
-| **[Sunshine Sachs Morgan & Lylis](http://sunshinesachs.com)** | **[PR Intern - Summer](https://jobright.ai/jobs/info/69c7dee41b5ad02887390ba4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | **[GALLO](http://www.gallocareers.com)** | **[Director - Brand Management - Spirits](https://jobright.ai/jobs/info/69c72d9b83ea553769fe16bd?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Mar 27 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, IT Organizational Change Management](https://jobright.ai/jobs/info/69c72c1fb773006330b76ad5?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 27 |
 | **[Mirion Technologies](https://www.mirion.com/about/mirion-technologies)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c72c111818a24cd84cc4e2?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[Marketing/Administrative Intern](https://jobright.ai/jobs/info/69c6fe8aaa3c2c1995e1417c?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Mar 27 |
 | **[Rosenbauer America](http://rosenbaueramerica.com)** | **[RBA Marketing Intern](https://jobright.ai/jobs/info/69bdc8ed393a1008f74365fb?utm_campaign=1065&utm_source=git)** | Wyoming, MN | On Site | Mar 27 |
 | **[Business Advice Centre at the University of East London (BAC)](https://www.uel.ac.uk/about/our-schools/royal-docks-school-business-law/business-advice-centre)** | **[Internal Communications Manager (Staff) (Maternity Cover)](https://jobright.ai/jobs/info/69c6fc2de565c26a70024b08?utm_campaign=1065&utm_source=git)** | Campus, IL | On Site | Mar 27 |
-| **[Prometric](https://www.prometric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c6fc1a1818a24cd84ca71d?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Remote | Mar 27 |
-| **[InvoiceCloud, Inc.](http://www.invoicecloud.net)** | **[Marketing Operations MBA Summer Intern](https://jobright.ai/jobs/info/69c6fc0eb773006330b74ca7?utm_campaign=1065&utm_source=git)** | Greater Boston | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
