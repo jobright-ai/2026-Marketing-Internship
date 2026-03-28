@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Communications & Multimedia Internship](https://jobright.ai/jobs/info/69c77b09aa3c2c1995e18649?utm_campaign=1065&utm_source=git)** | West Lebanon, NH | On Site | Mar 27 |
+| **[Reach3 Insights](https://www.reach3insights.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c7783d1b5ad0288738d089?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development Foodservice (MBA/Grad)](https://jobright.ai/jobs/info/69c76e3de565c26a70028c87?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
+| **[Marcus Theatres](https://www.marcustheatres.com/)** | **[Marketing Studio Relations Intern, Part Time](https://jobright.ai/jobs/info/69c783161818a24cd84cf584?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Mar 27 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/69c32d36753c101b2156cd09?utm_campaign=1065&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Mar 27 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69c75c001818a24cd84cd8c4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 27 |
 | **[Arena](https://arena.im)** | **[Content Strategist Intern](https://jobright.ai/jobs/info/69c759dcaa3c2c1995e17594?utm_campaign=1065&utm_source=git)** | Cupertino, CA | On Site | Mar 27 |
@@ -127,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[Marketing Intern, Project Management](https://jobright.ai/jobs/info/69c6fc03b773006330b74c99?utm_campaign=1065&utm_source=git)** | Issaquah, WA | Hybrid | Mar 27 |
 | **[Toronto Region Board of Trade](https://www.bot.com)** | **[Intern, Events](https://jobright.ai/jobs/info/69c71b1483ea553769fe0ccd?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Intern - Marketing & Communications](https://jobright.ai/jobs/info/69c6fa6c83ea553769fdf5a0?utm_campaign=1065&utm_source=git)** | West Nyack, NY | Hybrid | Mar 27 |
-| **[Innovative Ag Services](https://www.innovativeag.com)** | **[2026 Summer Internship - Marketing & Communications](https://jobright.ai/jobs/info/69c6f8e383ea553769fdf501?utm_campaign=1065&utm_source=git)** | Hubbard, IA | On Site | Mar 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69c6f8deb773006330b74b35?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Mar 27 |
 | **[Grand Touring Automobiles](http://www.grandtouringautos.com)** | **[MARKETING MANAGER - MARKETING TEAM](https://jobright.ai/jobs/info/69c7150e1818a24cd84cb6d2?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
 | **[Palona AI](https://palona.ai/pizza-expo)** | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c6f6d2b773006330b74a36?utm_campaign=1065&utm_source=git)** | Los Altos, CA | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Greenspoon Marder LLP](https://www.gmlaw.com/)** | **[Marketing Executive Assistant - Downtown Fort Lauderdale - 0296](https://jobright.ai/jobs/info/69c6ea36b773006330b7416e?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Mar 27 |
 | **[OHLA USA](https://www.ohla-usa.com)** | **[Marketing & Proposal-2026 INTERNSHIP](https://jobright.ai/jobs/info/69c6e848e565c26a70023e09?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Mar 27 |
 | **[Tenpoint Therapeutics, Ltd.](https://www.visustx.com/)** | **[Director, ECP Marketing](https://jobright.ai/jobs/info/69c7048c83ea553769fdfcda?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
-| **[Palona AI](https://palona.ai/pizza-expo)** | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c702bdaa3c2c1995e14624?utm_campaign=1065&utm_source=git)** | Los Altos, California, United States | Hybrid | Mar 27 |
-| ↳ | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c7022d1b5ad028873894c2?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
