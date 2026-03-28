@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PaintLab](www.paintlabbeauty.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69c8456c1818a24cd84d42ed?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Mar 28 |
+| **[Batory Foods](http://www.batoryfoods.com/)** | **[Market Development Intern](https://jobright.ai/jobs/info/69c83e6ce565c26a7002e4d1?utm_campaign=1065&utm_source=git)** | Des Plaines, IL | On Site | Mar 28 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Marketing & Publicity - Summer 2026](https://jobright.ai/jobs/info/69c831901818a24cd84d3cc5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[Marketing/Communications Intern](https://jobright.ai/jobs/info/69c82b641b5ad0288739249c?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Mar 28 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Workstations Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69ab1aaa7e1fab39d382a34d?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Mar 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Public Relations Internship](https://jobright.ai/jobs/info/69c70e4b83ea553769fe00bc?utm_campaign=1065&utm_source=git)** | Support Center, 1707 Market Place Blvd., Suite 200, Irving, TX | Hybrid | Mar 27 |
 | **[AAAS](http://www.aaas.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/698be12c06d9b06224960d07?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Digitial Marketing Internship](https://jobright.ai/jobs/info/69c7332983ea553769fe198a?utm_campaign=1065&utm_source=git)** | Buffalo, NY | Hybrid | Mar 27 |
-| **[Health Alliance Plan](https://www.hap.org)** | **[College Intern - Digital Marketing/Social Media (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69c704761818a24cd84cacda?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | Mar 27 |
-| **[SPX Technologies](https://www.spx.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69c7031f83ea553769fdfc70?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
