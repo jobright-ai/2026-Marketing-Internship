@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arena](https://arena.im)** | **[Content Strategist Intern](https://jobright.ai/jobs/info/69c759dcaa3c2c1995e17594?utm_campaign=1065&utm_source=git)** | Cupertino, CA | On Site | Mar 27 |
+| **[MannKind Corporation](http://mannkindcorp.com)** | **[Marketing Intern- FUROSCIX](https://jobright.ai/jobs/info/69c758491818a24cd84cd7c4?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Mar 27 |
 | **[GALLO](http://www.gallocareers.com)** | **[Director - Brand Management - Spirits](https://jobright.ai/jobs/info/69c748ec1818a24cd84cd1c4?utm_campaign=1065&utm_source=git)** | Modesto, CA | Hybrid | Mar 27 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Director, Marketing, The Dial Press (Hybrid)](https://jobright.ai/jobs/info/69c747d61818a24cd84cd1b4?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
 | **[Community Transit](https://www.communitytransit.org/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69c74750e565c26a70027803?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Mar 27 |
@@ -67,9 +69,6 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69c7345aaa3c2c1995e1663e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | **[Gela Wesh](https://gela-wesh.com/)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/69c734461b5ad0288738b1de?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Mar 27 |
 | **[Keenova](https://www.keenova.com)** | **[HCP Marketing Intern](https://jobright.ai/jobs/info/699d0e6281476f6176b5aeba?utm_campaign=1065&utm_source=git)** | Malvern, PA | Hybrid | Mar 27 |
-| **[Sunshine Sachs Morgan & Lylis](http://sunshinesachs.com)** | **[PR Intern - Summer](https://jobright.ai/jobs/info/69c74f6caa3c2c1995e16fba?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 27 |
-| ↳ | **[PR Intern - Summer](https://jobright.ai/jobs/info/69c74eea1b5ad0288738bad8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
-| ↳ | **[PR Intern - Summer](https://jobright.ai/jobs/info/69c74e901818a24cd84cd2cc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[GALLO](http://www.gallocareers.com)** | **[Director - Brand Management - Spirits](https://jobright.ai/jobs/info/69c72d9b83ea553769fe16bd?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Mar 27 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, IT Organizational Change Management](https://jobright.ai/jobs/info/69c72c1fb773006330b76ad5?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 27 |
 | **[Mirion Technologies](https://www.mirion.com/about/mirion-technologies)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c72c111818a24cd84cc4e2?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
@@ -130,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Grand Touring Automobiles](http://www.grandtouringautos.com)** | **[MARKETING MANAGER - MARKETING TEAM](https://jobright.ai/jobs/info/69c7150e1818a24cd84cb6d2?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
 | **[Palona AI](https://palona.ai/pizza-expo)** | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c6f6d2b773006330b74a36?utm_campaign=1065&utm_source=git)** | Los Altos, CA | On Site | Mar 27 |
 | ↳ | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c6f6a7aa3c2c1995e13eb6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 27 |
+| **[iWorks Corporation](https://iworkscorp.com/)** | **[Product Marketing Internship](https://jobright.ai/jobs/info/69c755c5b773006330b77d32?utm_campaign=1065&utm_source=git)** | USA, 00000 | Remote | Mar 27 |
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Marketing Intern - Europe](https://jobright.ai/jobs/info/69c749d9aa3c2c1995e16edb?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Media Internship Program](https://jobright.ai/jobs/info/69c6f3caaa3c2c1995e13d6d?utm_campaign=1065&utm_source=git)** | CA-ON-Toronto | On Site | Mar 27 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69c6f3c31818a24cd84ca333?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
@@ -151,8 +151,8 @@ For a complete list, click the following sortable link below:
 | **[Greenspoon Marder LLP](https://www.gmlaw.com/)** | **[Marketing Executive Assistant - Downtown Fort Lauderdale - 0296](https://jobright.ai/jobs/info/69c6ea36b773006330b7416e?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Mar 27 |
 | **[OHLA USA](https://www.ohla-usa.com)** | **[Marketing & Proposal-2026 INTERNSHIP](https://jobright.ai/jobs/info/69c6e848e565c26a70023e09?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Mar 27 |
 | **[Tenpoint Therapeutics, Ltd.](https://www.visustx.com/)** | **[Director, ECP Marketing](https://jobright.ai/jobs/info/69c7048c83ea553769fdfcda?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
-| **[Palona AI](https://palona.ai/pizza-expo)** | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c702bdaa3c2c1995e14624?utm_campaign=1065&utm_source=git)** | Los Altos, California, United States | Hybrid | Mar 27 |
-| ↳ | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c7022d1b5ad028873894c2?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 27 |
+| **[Palona AI](https://palona.ai/pizza-expo)** | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c7022d1b5ad028873894c2?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 27 |
+| ↳ | **[Content & Growth Analyst Intern](https://jobright.ai/jobs/info/69c702bdaa3c2c1995e14624?utm_campaign=1065&utm_source=git)** | Los Altos, California, United States | Hybrid | Mar 27 |
 | **[1Milk2Sugars Inc.](https://1milk2sugars.com/)** | **[PR Student Intern - (New York) Summer 2026 Term](https://jobright.ai/jobs/info/69c6e55f1b5ad02887388136?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Mar 27 |
 | **[Fetch Pet Insurance](https://www.fetchpet.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69c6e52d83ea553769fde7cb?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
 | **[SanMar](http://www.sanmar.com)** | **[Marketing Intern, Project Management](https://jobright.ai/jobs/info/69c6e5291b5ad02887387ffd?utm_campaign=1065&utm_source=git)** | Issaquah, WA | Hybrid | Mar 27 |
