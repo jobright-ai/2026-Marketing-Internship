@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LVLup Props](https://linktr.ee/lvlup.sports)** | **[Social Media Coordinator (Internship)](https://jobright.ai/jobs/info/69c966171b5ad028873993ca?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 29 |
 | **[Value Aligners](Valuealigners.com)** | **[Cyber Security Marketing Intern](https://jobright.ai/jobs/info/69c9588ee565c26a70034e7f?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 29 |
 | **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Strategic Marketing](https://jobright.ai/jobs/info/69c956a283ea553769fef858?utm_campaign=1065&utm_source=git)** | Westmont, IL | On Site | Mar 29 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c953271818a24cd84da8f3?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cookiy AI](https://cookiy.ai/)** | **[AI Content & Growth Intern](https://jobright.ai/jobs/info/69c78f6aaa3c2c1995e195c5?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Mar 28 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Marketing Intern - Fanpages](https://jobright.ai/jobs/info/69c78df1aa3c2c1995e19583?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 28 |
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c789ae1818a24cd84cf728?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Mar 28 |
-| **[Angus Reid Group](https://www.angusreid.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c7bf4eaa3c2c1995e1ac27?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
