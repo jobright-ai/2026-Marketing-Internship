@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[PCG Internship Summer 2026](https://jobright.ai/jobs/info/693b7d835f2c001987ed714f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 29 |
+| **[Play N' Kick](https://www.playnkick.com/)** | **[Assistant Marketing Intern](https://jobright.ai/jobs/info/69c922b31818a24cd84d9c8f?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Mar 29 |
+| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/6990ef296ea51a7610f3631c?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 29 |
+| **[Enovis](https://enovis.com)** | **[Marketing Communication Internship](https://jobright.ai/jobs/info/698f930a0cc8ea15f1da26d4?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 29 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Marketing Manager - MBA Intern](https://jobright.ai/jobs/info/69901e900f6f7e7a2cec6f5a?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Mar 29 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69902c3e0f6f7e7a2cec96e2?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Mar 29 |
+| **[Lenox Advisors](http://lenoxadvisors.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698fb0cd0cc8ea15f1da4a38?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/698fea016ea51a7610f24d97?utm_campaign=1065&utm_source=git)** | Westerville, OH | On Site | Mar 29 |
 | **[Planet](http://www.planet.com)** | **[Intern, Communications](https://jobright.ai/jobs/info/69acf5eb7e1fab39d3846b9f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 29 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Product Marketing](https://jobright.ai/jobs/info/69c0c2dd79e36d3a847d0d5c?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 29 |
@@ -75,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69c8c1d9aa3c2c1995e204d9?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Mar 28 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[TRC Marketing Intern](https://jobright.ai/jobs/info/69c8b948e565c26a70030aaa?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[BillBoss](https://billboss.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c8b9361818a24cd84d6697?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69c88a6c83ea553769fea55d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 28 |
 | **[Frilliance](https://frilliance.com/)** | **[Creator Economy Intern Fellowship / Social, Community & Creator Partnerships](https://jobright.ai/jobs/info/69c88392aa3c2c1995e1ef5d?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Iterative Health](https://iterative.health)** | **[Summer MBA Marketing Intern](https://jobright.ai/jobs/info/69c872ea83ea553769fe9e14?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Mar 28 |
 | **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Promotion & Creative Services Intern](https://jobright.ai/jobs/info/69c85b701818a24cd84d46b8?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Mar 28 |
@@ -120,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Precisely](https://www.precisely.com)** | **[Marketing Campaigns Intern](https://jobright.ai/jobs/info/69ab6c0c7e1fab39d382f4bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Reach3 Insights](https://www.reach3insights.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c79d2ee565c26a7002a870?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Global Integrated Campaign Marketing](https://jobright.ai/jobs/info/6972b0c39b83b424830eb98e?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Downstream Marketing (Marcom)](https://jobright.ai/jobs/info/69c796711b5ad0288738e424?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Mar 28 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[Unpaid Communications Specialist intern](https://jobright.ai/jobs/info/69c7b547b773006330b7b230?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Cookiy AI](https://cookiy.ai/)** | **[AI Content & Growth Intern](https://jobright.ai/jobs/info/69c78f6aaa3c2c1995e195c5?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Mar 28 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Marketing Intern - Fanpages](https://jobright.ai/jobs/info/69c78df1aa3c2c1995e19583?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Arena Marketing & Sales Intern/ Part-Time / NOW Arena](https://jobright.ai/jobs/info/69c72828b773006330b76a06?utm_campaign=1065&utm_source=git)** | NOW Arena | On Site | Mar 27 |
 | ↳ | **[Arena Marketing & Sales Intern/ Part-Time / NOW Arena](https://jobright.ai/jobs/info/69c7281d1818a24cd84cc400?utm_campaign=1065&utm_source=git)** | 5333 Prairie Stone Parkway | On Site | Mar 27 |
 | ↳ | **[Arena Marketing & Sales Intern/ Part-Time / NOW Arena](https://jobright.ai/jobs/info/69c727c81b5ad0288738ac27?utm_campaign=1065&utm_source=git)** | US-IL-Hoffman Estates | On Site | Mar 27 |
-| ↳ | **[Arena Marketing & Sales Intern/ Part-Time / NOW Arena](https://jobright.ai/jobs/info/69c727c283ea553769fe1466?utm_campaign=1065&utm_source=git)** | 60192 | On Site | Mar 27 |
-| **[UNICO Group](http://unicogroup.com)** | **[Marketing & Design Intern](https://jobright.ai/jobs/info/69c727c1e565c26a700267aa?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Mar 27 |
-| **[CUES Inc.](http://cuesinc.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69c727b983ea553769fe1428?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina (NC), US | On Site | Mar 27 |
-| **[Phoenix East Aviation](http://www.pea.com)** | **[Social Media Content Creator - Student](https://jobright.ai/jobs/info/69c7278eb773006330b766a7?utm_campaign=1065&utm_source=git)** | Daytona Beach, FL | On Site | Mar 27 |
-| **[Blackfoot Communications](http://www.blackfoot.com)** | **[Marketing & Community Engagement Intern  (Temp Summer Position)](https://jobright.ai/jobs/info/69c72773e565c26a700265fd?utm_campaign=1065&utm_source=git)** | Missoula, MT, US | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
