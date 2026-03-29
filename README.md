@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69c852e4aa3c2c1995e1e284?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
 | **[PaintLab](www.paintlabbeauty.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69c8456c1818a24cd84d42ed?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Mar 28 |
 | **[Batory Foods](http://www.batoryfoods.com/)** | **[Market Development Intern](https://jobright.ai/jobs/info/69c83e6ce565c26a7002e4d1?utm_campaign=1065&utm_source=git)** | Des Plaines, IL | On Site | Mar 28 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Marketing & Publicity - Summer 2026](https://jobright.ai/jobs/info/69c831901818a24cd84d3cc5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 28 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing](https://jobright.ai/jobs/info/69b0e7587495006450980710?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 28 |
 | **[Insomniac Events](http://insomniac.com)** | **[VibeeU: Hotel EDC Immersive Marketing Intern](https://jobright.ai/jobs/info/69901c520cc8ea15f1dac36c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Mar 28 |
 | **[Stepful](https://www.stepful.com/)** | **[Director, Product Marketing & GTM Strategy](https://jobright.ai/jobs/info/69ab66352747003c3d510535?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Mar 28 |
-| **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Marketing Internship (Remote)](https://jobright.ai/jobs/info/69c80024aa3c2c1995e1c920?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Flex](https://getflex.com)** | **[Integrated Marketing Manager](https://jobright.ai/jobs/info/69ab92f87e1fab39d382ff4a?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | **[Babette Home Care](https://www.babettehomecare.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69c7c7b41818a24cd84d1842?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 28 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Corporate Communications](https://jobright.ai/jobs/info/69c7c5d8b773006330b7bfaf?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Mar 28 |
