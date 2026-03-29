@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94adb1b5ad02887398dff?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 29 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c94ad71b5ad02887398df7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94ad71b5ad02887398df9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24177?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24178?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 29 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24177?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949fcb773006330b84e37?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949f8b773006330b84e28?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949f21818a24cd84da7f9?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 29 |
@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69c94889b773006330b84e06?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Mar 29 |
 | **[Mulbah](https://mulbahmedia.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c9486d1b5ad02887398db7?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 29 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69aca2d1142d5b4265fdee04?utm_campaign=1065&utm_source=git)** | Hopkins, MN | On Site | Mar 29 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Blog Writing, SEO, and Website Optimization Internship](https://jobright.ai/jobs/info/69c9408183ea553769fef616?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 29 |
 | **[Flex](https://getflex.com)** | **[Head of Performance Marketing](https://jobright.ai/jobs/info/69a4f827359fe034b1cf8b68?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 29 |
 | **[Realm Health](https://realmhealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c93f4aaa3c2c1995e23bc3?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 29 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699013660cc8ea15f1dabb1d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 29 |
@@ -95,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/696844441703f05405a9f720?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e76d5515da181e7e4ecdf9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
 | ↳ | **[Strategy Intern (TikTok Shop Resource Management) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd156db10602456281f750?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697848b852f3c27ec6448b39?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697848b852f3c27ec6448b39?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/697ff1edabff4c399a9e9bba?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Mar 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcc8bde6a0d9792584d1c9?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Comm and Community Relations - Communications and Community Relations Coordinator](https://jobright.ai/jobs/info/69c8ee0baa3c2c1995e21eea?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Mar 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Communications & Multimedia Internship](https://jobright.ai/jobs/info/69c77b09aa3c2c1995e18649?utm_campaign=1065&utm_source=git)** | West Lebanon, NH | On Site | Mar 27 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development Foodservice (MBA/Grad)](https://jobright.ai/jobs/info/69c76e3de565c26a70028c87?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | **[Marcus Theatres](https://www.marcustheatres.com/)** | **[Marketing Studio Relations Intern, Part Time](https://jobright.ai/jobs/info/69c783161818a24cd84cf584?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Mar 27 |
+| **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/69c32d36753c101b2156cd09?utm_campaign=1065&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
