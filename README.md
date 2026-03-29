@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Comm and Community Relations - Communications and Community Relations Coordinator](https://jobright.ai/jobs/info/69c8ee0baa3c2c1995e21eea?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Mar 29 |
+| **[City of Grand Prairie](https://www.gptx.org/Home)** | **[Marketing and Multi-Media Specialist Intern – Part Time](https://jobright.ai/jobs/info/69c8e8e583ea553769fed2b1?utm_campaign=1065&utm_source=git)** | Grand Prairie, TX | On Site | Mar 29 |
+| **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern Austin (Summer 2026)](https://jobright.ai/jobs/info/69c8e8121b5ad02887396936?utm_campaign=1065&utm_source=git)** | Austin, Texas (Remote) | Remote | Mar 29 |
+| **[Hustle House PR & Media](www.hustlehouse.ca)** | **[Junior PR Executive](https://jobright.ai/jobs/info/69c8df1b1818a24cd84d80b3?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 29 |
 | **[Dorm Room LLC](dormroomllc.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c8cf21aa3c2c1995e20903?utm_campaign=1065&utm_source=git)** | Toluca Lake, CA | Hybrid | Mar 29 |
 | **[Olive Extra](oliveextra.com)** | **[Marketing Intern (Content, Social Media & UGC)](https://jobright.ai/jobs/info/69c8c24083ea553769febb44?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69c8c1d9aa3c2c1995e204d9?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Mar 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c71af21b5ad0288738a427?utm_campaign=1065&utm_source=git)** | Fully Remote | Remote | Mar 27 |
 | **[UNICO Group](http://unicogroup.com)** | **[Marketing & Design Intern](https://jobright.ai/jobs/info/69c71aefb773006330b761e5?utm_campaign=1065&utm_source=git)** | Lincoln,NE,US | On Site | Mar 27 |
 | **[Street Smart](https://www.streetsmartrental.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c71aeb83ea553769fe0c44?utm_campaign=1065&utm_source=git)** | Minnesota - COLUMBUS, MN 55025 | Hybrid | Mar 27 |
-| **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/69c71ae6e565c26a70025d42?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 27 |
-| **[Edelman](http://www.edelman.com)** | **[AI Product Marketing Intern](https://jobright.ai/jobs/info/69c71a3caa3c2c1995e153e1?utm_campaign=1065&utm_source=git)** | New York, New York, USA | Hybrid | Mar 27 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c7130f83ea553769fe0719?utm_campaign=1065&utm_source=git)** | SD Metro Area | Hybrid | Mar 27 |
-| **[Edelman DXI](https://www.edelmandxi.com)** | **[AI Product Marketing Intern](https://jobright.ai/jobs/info/69c7deb783ea553769fe73aa?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
