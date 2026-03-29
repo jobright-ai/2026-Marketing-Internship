@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Onsite Property Restoration](https://firstonsite.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c8a84f83ea553769feb245?utm_campaign=1065&utm_source=git)** | Mississauga, ON | On Site | Mar 28 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69c88a6c83ea553769fea55d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 28 |
 | **[Frilliance](https://frilliance.com/)** | **[Creator Economy Intern Fellowship / Social, Community & Creator Partnerships](https://jobright.ai/jobs/info/69c88392aa3c2c1995e1ef5d?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Iterative Health](https://iterative.health)** | **[Summer MBA Marketing Intern](https://jobright.ai/jobs/info/69c872ea83ea553769fe9e14?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Mar 28 |
@@ -126,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Crunch Fitness, Primetime Fitness LLC](https://linktr.ee/primetimefitnessllc)** | **[Brand Ambassador Online Hiring Event](https://jobright.ai/jobs/info/69c735c21b5ad0288738b25d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69c7345aaa3c2c1995e1663e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | **[Keenova](https://www.keenova.com)** | **[HCP Marketing Intern](https://jobright.ai/jobs/info/699d0e6281476f6176b5aeba?utm_campaign=1065&utm_source=git)** | Malvern, PA | Hybrid | Mar 27 |
-| **[Arena](https://arena.run/)** | **[Digital Advocacy & Influence Intern](https://jobright.ai/jobs/info/69c7deceb773006330b7caae?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
 | **[GALLO](http://www.gallocareers.com)** | **[Director - Brand Management - Spirits](https://jobright.ai/jobs/info/69c72d9b83ea553769fe16bd?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Mar 27 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, IT Organizational Change Management](https://jobright.ai/jobs/info/69c72c1fb773006330b76ad5?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 27 |
 | **[Mirion Technologies](https://www.mirion.com/about/mirion-technologies)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c72c111818a24cd84cc4e2?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
