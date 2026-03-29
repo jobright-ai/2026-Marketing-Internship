@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Realm Health](https://realmhealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c9967d1818a24cd84dd73b?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 29 |
+| **[Forsyth County](http://www.forsyth.cc)** | **[CTAE Program- Marketing Intern](https://jobright.ai/jobs/info/69c99656aa3c2c1995e26efb?utm_campaign=1065&utm_source=git)** | Cumming, GA | On Site | Mar 29 |
+| **[Street Smart](https://www.streetsmartrental.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c99008aa3c2c1995e26e31?utm_campaign=1065&utm_source=git)** | Forest Lake, MN | Hybrid | Mar 29 |
+| **[Thryv](https://www.thryv.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c98f13b773006330b87b41?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 29 |
+| **[San Diego State University](http://www.sdsu.edu)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c98a6d1818a24cd84dbe13?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Mar 29 |
 | **[LVLup Props](https://linktr.ee/lvlup.sports)** | **[Social Media Coordinator (Internship)](https://jobright.ai/jobs/info/69c966171b5ad028873993ca?utm_campaign=1065&utm_source=git)** | Canada | Remote | Mar 29 |
 | **[Value Aligners](Valuealigners.com)** | **[Cyber Security Marketing Intern](https://jobright.ai/jobs/info/69c9588ee565c26a70034e7f?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Mar 29 |
 | **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Strategic Marketing](https://jobright.ai/jobs/info/69c956a283ea553769fef858?utm_campaign=1065&utm_source=git)** | Westmont, IL | On Site | Mar 29 |
@@ -65,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94adb1b5ad02887398dff?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 29 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c94ad71b5ad02887398df7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94ad71b5ad02887398df9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24178?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 29 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24177?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 29 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24178?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949fcb773006330b84e37?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949f8b773006330b84e28?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949f21818a24cd84da7f9?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 29 |
@@ -76,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Mulbah](https://mulbahmedia.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c9486d1b5ad02887398db7?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 29 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69aca2d1142d5b4265fdee04?utm_campaign=1065&utm_source=git)** | Hopkins, MN | On Site | Mar 29 |
 | **[Flex](https://getflex.com)** | **[Head of Performance Marketing](https://jobright.ai/jobs/info/69a4f827359fe034b1cf8b68?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 29 |
-| **[Realm Health](https://realmhealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c93f4aaa3c2c1995e23bc3?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 29 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699013660cc8ea15f1dabb1d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Mar 29 |
 | **[VML HEALTH](http://vml.com)** | **[Intern - Copywriter](https://jobright.ai/jobs/info/69c9349daa3c2c1995e23b0d?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Mar 29 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c92ffc1b5ad028873987fb?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Mar 29 |
@@ -106,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69c8c1d9aa3c2c1995e204d9?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Mar 28 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[TRC Marketing Intern](https://jobright.ai/jobs/info/69c8b948e565c26a70030aaa?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[BillBoss](https://billboss.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c8b9361818a24cd84d6697?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
-| **[Frilliance](https://frilliance.com/)** | **[Creator Economy Intern Fellowship / Social, Community & Creator Partnerships](https://jobright.ai/jobs/info/69c88392aa3c2c1995e1ef5d?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Iterative Health](https://iterative.health)** | **[Summer MBA Marketing Intern](https://jobright.ai/jobs/info/69c872ea83ea553769fe9e14?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Mar 28 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Seniors Housing/HUD, Mortgage Banking](https://jobright.ai/jobs/info/6998cabace78e77b4fdd5c4e?utm_campaign=1065&utm_source=git)** | Chevy Chase, Maryland, United States | On Site | Mar 28 |
 | **[PaintLab](www.paintlabbeauty.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69c8456c1818a24cd84d42ed?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Mar 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c789ae1818a24cd84cf728?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Mar 28 |
 | **[Angus Reid Group](https://www.angusreid.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c7bf4eaa3c2c1995e1ac27?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 28 |
 | **[BioSpace](http://www.biospace.com/)** | **[Communications & Multimedia Internship](https://jobright.ai/jobs/info/69c77b09aa3c2c1995e18649?utm_campaign=1065&utm_source=git)** | West Lebanon, NH | On Site | Mar 27 |
-| **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development Foodservice (MBA/Grad)](https://jobright.ai/jobs/info/69c76e3de565c26a70028c87?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
-| **[Marcus Theatres](https://www.marcustheatres.com/)** | **[Marketing Studio Relations Intern, Part Time](https://jobright.ai/jobs/info/69c783161818a24cd84cf584?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Mar 27 |
-| **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/69c32d36753c101b2156cd09?utm_campaign=1065&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
