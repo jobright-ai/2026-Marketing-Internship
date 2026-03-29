@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Business Analyst – Digital Marketing & Content Management Intern](https://jobright.ai/jobs/info/69c79e9a83ea553769fe54b8?utm_campaign=1065&utm_source=git)** | St Paul, MN | Hybrid | Mar 28 |
 | **[BioSpace](http://www.biospace.com/)** | **[Communications & Multimedia Internship](https://jobright.ai/jobs/info/69c77b09aa3c2c1995e18649?utm_campaign=1065&utm_source=git)** | West Lebanon, NH | On Site | Mar 27 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development Foodservice (MBA/Grad)](https://jobright.ai/jobs/info/69c76e3de565c26a70028c87?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Group Product Marketing Manager – Liquid Chromatography Consumables](https://jobright.ai/jobs/info/69c8c933aa3c2c1995e206df?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Mar 27 |
 | **[Marcus Theatres](https://www.marcustheatres.com/)** | **[Marketing Studio Relations Intern, Part Time](https://jobright.ai/jobs/info/69c783161818a24cd84cf584?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Mar 27 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/69c32d36753c101b2156cd09?utm_campaign=1065&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Mar 27 |
 | **[Arena](https://arena.im)** | **[Content Strategist Intern](https://jobright.ai/jobs/info/69c759dcaa3c2c1995e17594?utm_campaign=1065&utm_source=git)** | Cupertino, CA | On Site | Mar 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/69c71ae6e565c26a70025d42?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 27 |
 | **[Edelman](http://www.edelman.com)** | **[AI Product Marketing Intern](https://jobright.ai/jobs/info/69c71a3caa3c2c1995e153e1?utm_campaign=1065&utm_source=git)** | New York, New York, USA | Hybrid | Mar 27 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c7130f83ea553769fe0719?utm_campaign=1065&utm_source=git)** | SD Metro Area | Hybrid | Mar 27 |
+| **[Edelman DXI](https://www.edelmandxi.com)** | **[AI Product Marketing Intern](https://jobright.ai/jobs/info/69c7deb783ea553769fe73aa?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
