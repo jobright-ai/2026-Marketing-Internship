@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Promotion & Creative Services Intern](https://jobright.ai/jobs/info/69c85b701818a24cd84d46b8?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Mar 28 |
+| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Seniors Housing/HUD, Mortgage Banking](https://jobright.ai/jobs/info/6998cabace78e77b4fdd5c4e?utm_campaign=1065&utm_source=git)** | Chevy Chase, Maryland, United States | On Site | Mar 28 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69c852e4aa3c2c1995e1e284?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
 | **[PaintLab](www.paintlabbeauty.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69c8456c1818a24cd84d42ed?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Mar 28 |
 | **[Batory Foods](http://www.batoryfoods.com/)** | **[Market Development Intern](https://jobright.ai/jobs/info/69c83e6ce565c26a7002e4d1?utm_campaign=1065&utm_source=git)** | Des Plaines, IL | On Site | Mar 28 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[Marketing/Communications Intern](https://jobright.ai/jobs/info/69c82b641b5ad0288739249c?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Mar 28 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Workstations Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69ab1aaa7e1fab39d382a34d?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Mar 28 |
 | **[Leviton](https://www.leviton.com)** | **[Marketing Intern (Summer)](https://jobright.ai/jobs/info/698e2f5e78b4502f12a4fa84?utm_campaign=1065&utm_source=git)** | Melville, NY | On Site | Mar 28 |
+| **[Gift](https://www.shine.gift)** | **[Kpop Intern - Growth / Field Marketing](https://jobright.ai/jobs/info/69c85d88b773006330b7ee1d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 28 |
 | **[BEUMER Group](https://www.beumergroup.com)** | **[Regional Corporate Communications Intern](https://jobright.ai/jobs/info/69ab234e2747003c3d50c2c6?utm_campaign=1065&utm_source=git)** | Somerset, NJ | On Site | Mar 28 |
 | **[NAES](http://www.naes.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c80bc4e565c26a7002d3b5?utm_campaign=1065&utm_source=git)** | Issaquah, Washington, United States | On Site | Mar 28 |
 | **[Cossette](http://www.cossette.com)** | **[Coordonnateur·trice, communication (Stage)](https://jobright.ai/jobs/info/69ab50c7142d5b4265fc986e?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c82d59aa3c2c1995e1d8ac?utm_campaign=1065&utm_source=git)** | Royal Oak, MI | On Site | Mar 28 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Lifecycle Marketing Intern (Hybrid)](https://jobright.ai/jobs/info/69ab92c67e1fab39d382fe7c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | **[Britannica Capital](http://britannicacapital.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/6894a0f273b3a600fe880c12?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
-| **[LiftedViz](http://www.liftedviz.com)** | **[AI Marketing & Growth Analytics Intern – SaaS Product Launch](https://jobright.ai/jobs/info/69c7f3141b5ad028873913b8?utm_campaign=1065&utm_source=git)** | Washington, United States | Remote | Mar 28 |
 | **[Flex](https://getflex.com)** | **[Integrated Marketing Manager](https://jobright.ai/jobs/info/69ab92ae7e1fab39d382fdd8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[OptionsRobot](http://optionsrobot.com)** | **[Marketing & B2B Intern](https://jobright.ai/jobs/info/69c7f2cc1818a24cd84d2929?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Smart Mirror.LLC](http://www.getsmartmirror.com)** | **[Digital Marketing intern- AI platforms](https://jobright.ai/jobs/info/69c7ec11aa3c2c1995e1bfd0?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Mar 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Digital Media](https://jobright.ai/jobs/info/69c70ec51818a24cd84cb3a2?utm_campaign=1065&utm_source=git)** | US-IL-Chicago | Hybrid | Mar 27 |
 | **[Toronto Region Board of Trade](https://www.bot.com)** | **[Intern, Events](https://jobright.ai/jobs/info/69c70e5a1818a24cd84cb0c2?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | Mar 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Public Relations Internship](https://jobright.ai/jobs/info/69c70e4b83ea553769fe00bc?utm_campaign=1065&utm_source=git)** | Support Center, 1707 Market Place Blvd., Suite 200, Irving, TX | Hybrid | Mar 27 |
-| **[AAAS](http://www.aaas.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/698be12c06d9b06224960d07?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
-| **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Digitial Marketing Internship](https://jobright.ai/jobs/info/69c7332983ea553769fe198a?utm_campaign=1065&utm_source=git)** | Buffalo, NY | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
