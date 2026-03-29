@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Resource Management) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd156db10602456281f750?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697848b852f3c27ec6448b39?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/697ff1edabff4c399a9e9bba?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Mar 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcc8bde6a0d9792584d1c9?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Comm and Community Relations - Communications and Community Relations Coordinator](https://jobright.ai/jobs/info/69c8ee0baa3c2c1995e21eea?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Mar 29 |
 | **[City of Grand Prairie](https://www.gptx.org/Home)** | **[Marketing and Multi-Media Specialist Intern – Part Time](https://jobright.ai/jobs/info/69c8e8e583ea553769fed2b1?utm_campaign=1065&utm_source=git)** | Grand Prairie, TX | On Site | Mar 29 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern Austin (Summer 2026)](https://jobright.ai/jobs/info/69c8e8121b5ad02887396936?utm_campaign=1065&utm_source=git)** | Austin, Texas (Remote) | Remote | Mar 29 |
@@ -66,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/69c8c1d9aa3c2c1995e204d9?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Mar 28 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[TRC Marketing Intern](https://jobright.ai/jobs/info/69c8b948e565c26a70030aaa?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[BillBoss AI](https://billboss.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c8b9361818a24cd84d6697?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
-| **[First Onsite Property Restoration](https://firstonsite.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c8a84f83ea553769feb245?utm_campaign=1065&utm_source=git)** | Mississauga, ON | On Site | Mar 28 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69c88a6c83ea553769fea55d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 28 |
 | **[Frilliance](https://frilliance.com/)** | **[Creator Economy Intern Fellowship / Social, Community & Creator Partnerships](https://jobright.ai/jobs/info/69c88392aa3c2c1995e1ef5d?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Iterative Health](https://iterative.health)** | **[Summer MBA Marketing Intern](https://jobright.ai/jobs/info/69c872ea83ea553769fe9e14?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Mar 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Lacek Group](http://www.lacek.com)** | **[Copywriter Internship](https://jobright.ai/jobs/info/69c722cd83ea553769fe0f4b?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 27 |
 | **[Project ANA](https://www.linkedin.com/company/111473992)** | **[Growth Intern - Highschool & College](https://jobright.ai/jobs/info/69c722acaa3c2c1995e15a73?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Prouty Intern – Customer Service/Fundraising](https://jobright.ai/jobs/info/69c7decae565c26a7002c6d7?utm_campaign=1065&utm_source=git)** | Hanover, NH | On Site | Mar 27 |
-| **[CUSG](http://cusolutionsgroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c71bd4e565c26a700261e1?utm_campaign=1065&utm_source=git)** | Remote - Michigan Only | Remote | Mar 27 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c71af21b5ad0288738a427?utm_campaign=1065&utm_source=git)** | Fully Remote | Remote | Mar 27 |
-| **[UNICO Group](http://unicogroup.com)** | **[Marketing & Design Intern](https://jobright.ai/jobs/info/69c71aefb773006330b761e5?utm_campaign=1065&utm_source=git)** | Lincoln,NE,US | On Site | Mar 27 |
-| **[Street Smart](https://www.streetsmartrental.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c71aeb83ea553769fe0c44?utm_campaign=1065&utm_source=git)** | Minnesota - COLUMBUS, MN 55025 | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
