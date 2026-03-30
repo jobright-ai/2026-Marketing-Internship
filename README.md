@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69c9d458b773006330b88f51?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 29 |
 | **[GMMB](http://gmmb.com)** | **[Digital Strategy - Summer Internship 2026, Washington, DC](https://jobright.ai/jobs/info/69b1d696d04c69566c743735?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 29 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[TikTok / Short-Form Video Marketing Intern](https://jobright.ai/jobs/info/69c9c097aa3c2c1995e279af?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Mar 29 |
 | **[Secret Doors](https://www.linkedin.com/company/111068087)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c9bb9f1b5ad0288739c77a?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Mar 29 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94adb1b5ad02887398dff?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94ad71b5ad02887398df9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c94ad71b5ad02887398df7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24177?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24178?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 29 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24177?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949fcb773006330b84e37?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949f8b773006330b84e28?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949f21818a24cd84da7f9?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 29 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/696844441703f05405a9f720?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e76d5515da181e7e4ecdf9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
 | ↳ | **[Strategy Intern (TikTok Shop Resource Management) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd156db10602456281f750?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697848b852f3c27ec6448b39?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/697ff1edabff4c399a9e9bba?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Mar 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcc8bde6a0d9792584d1c9?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Comm and Community Relations - Communications and Community Relations Coordinator](https://jobright.ai/jobs/info/69c8ee0baa3c2c1995e21eea?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ellucian](http://www.ellucian.com)** | **[Campaign Marketing Intern](https://jobright.ai/jobs/info/69aae3df2747003c3d5097c5?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | Mar 28 |
 | **[Precisely](https://www.precisely.com)** | **[Marketing Campaigns Intern](https://jobright.ai/jobs/info/69ab6c0c7e1fab39d382f4bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Reach3 Insights](https://www.reach3insights.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c79d2ee565c26a7002a870?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Global Integrated Campaign Marketing](https://jobright.ai/jobs/info/6972b0c39b83b424830eb98e?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
