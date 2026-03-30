@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TREALT](https://trealt.ca/)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/69c9a8dc83ea553769ff2b7c?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Mar 29 |
+| **[LangPal](www.lang-pal.com)** | **[Marketing Student](https://jobright.ai/jobs/info/69c9a5c3e565c26a70037e80?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Celebrity Pupz](https://celebritypupz.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c9a043aa3c2c1995e2731b?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 29 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69c5db93aa3c2c1995e056d5?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Realm Health](https://realmhealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c9967d1818a24cd84dd73b?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 29 |
@@ -96,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/698fb0cd0cc8ea15f1da4a38?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/698fea016ea51a7610f24d97?utm_campaign=1065&utm_source=git)** | Westerville, OH | On Site | Mar 29 |
 | **[Planet](http://www.planet.com)** | **[Intern, Communications](https://jobright.ai/jobs/info/69acf5eb7e1fab39d3846b9f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 29 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Product Marketing](https://jobright.ai/jobs/info/69c9a4b2e565c26a70037e61?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/696844441703f05405a9f720?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e76d5515da181e7e4ecdf9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
 | ↳ | **[Strategy Intern (TikTok Shop Resource Management) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd156db10602456281f750?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Global Integrated Campaign Marketing](https://jobright.ai/jobs/info/6972b0c39b83b424830eb98e?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[Unpaid Communications Specialist intern](https://jobright.ai/jobs/info/69c7b547b773006330b7b230?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Cookiy AI](https://cookiy.ai/)** | **[AI Content & Growth Intern](https://jobright.ai/jobs/info/69c78f6aaa3c2c1995e195c5?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Mar 28 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Marketing Intern - Fanpages](https://jobright.ai/jobs/info/69c78df1aa3c2c1995e19583?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 28 |
-| **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c789ae1818a24cd84cf728?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Mar 28 |
-| **[Angus Reid Group](https://www.angusreid.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c7bf4eaa3c2c1995e1ac27?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
