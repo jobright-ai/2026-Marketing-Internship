@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspen Fiber Networks](https://aspenfibernetworks.com/)** | **[Marketing Specialist Intern (Part-Time)](https://jobright.ai/jobs/info/69c9e5061818a24cd84dea6f?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69c9d458b773006330b88f51?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 29 |
 | **[GMMB](http://gmmb.com)** | **[Digital Strategy - Summer Internship 2026, Washington, DC](https://jobright.ai/jobs/info/69b1d696d04c69566c743735?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 29 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[TikTok / Short-Form Video Marketing Intern](https://jobright.ai/jobs/info/69c9c097aa3c2c1995e279af?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Mar 29 |
@@ -74,10 +75,10 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c953271818a24cd84da8f3?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Mar 29 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69c94af8e565c26a70034d89?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94adb1b5ad02887398dff?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 29 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94ad71b5ad02887398df9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c94ad71b5ad02887398df7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24178?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 29 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94ad71b5ad02887398df9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24177?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 29 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24178?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949fcb773006330b84e37?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949f8b773006330b84e28?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949f21818a24cd84da7f9?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precisely](https://www.precisely.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69ab6b952747003c3d51098f?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Ellucian](http://www.ellucian.com)** | **[Campaign Marketing Intern](https://jobright.ai/jobs/info/69aae3df2747003c3d5097c5?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | Mar 28 |
 | **[Precisely](https://www.precisely.com)** | **[Marketing Campaigns Intern](https://jobright.ai/jobs/info/69ab6c0c7e1fab39d382f4bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
-| **[Reach3 Insights](https://www.reach3insights.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c79d2ee565c26a7002a870?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
