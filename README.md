@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sparks Village Academy](sparksvillage.com)** | **[Videographer/Social Media Manager](https://jobright.ai/jobs/info/69cad527e565c26a7004136d?utm_campaign=1065&utm_source=git)** | Belleville, IL | On Site | Mar 30 |
+| **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Intern - Digital Marketing Design Intern](https://jobright.ai/jobs/info/69cad3cfa8c1822476e2093e?utm_campaign=1065&utm_source=git)** | Lewisville, TX | On Site | Mar 30 |
+| **[Juiced Fuel](https://juicedfuel.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69cad3908fc6090c5d4517ea?utm_campaign=1065&utm_source=git)** | Charleston County, SC | On Site | Mar 30 |
+| **[Edelman](http://www.edelman.com)** | **[Creative Intern, Copywriting](https://jobright.ai/jobs/info/69cad211aa3c2c1995e30862?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Music and Audio Marketing Intern (remote, 2-5hrs/week)](https://jobright.ai/jobs/info/69cad1c78fc6090c5d45175b?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Mar 30 |
+| **[Mighty](https://www.mighty.com)** | **[MBA Summer Marketing Intern](https://jobright.ai/jobs/info/69cad06d1b5ad028873a53b7?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Mar 30 |
+| **[TRG](https://trg.agency)** | **[Copywriter Intern (Summer 2026)](https://jobright.ai/jobs/info/69cace561b5ad028873a52b9?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69cacb6caa3c2c1995e30553?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
-| **[Momentic Studios](https://momenticstudios.com)** | **[STRONG Pilates- Campus Brand Ambassador](https://jobright.ai/jobs/info/69cacb56aa3c2c1995e30535?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[Besty AI](https://getbesty.ai)** | **[Growth Intern](https://jobright.ai/jobs/info/69cacb55aa3c2c1995e30534?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 30 |
 | **[AVARA](http://shopavara.com)** | **[Social Media & Influencer Marketing Intern](https://jobright.ai/jobs/info/69cacb24a8c1822476e203a4?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | Mar 30 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Demand Generation Intern](https://jobright.ai/jobs/info/69cacad0e565c26a70040bef?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Mar 30 |
@@ -91,9 +97,7 @@ For a complete list, click the following sortable link below:
 | **[GALLO](http://www.gallocareers.com)** | **[Brand Marketing Manager - Barefoot](https://jobright.ai/jobs/info/69cab337e565c26a7003fd23?utm_campaign=1065&utm_source=git)** | Modesto, CA | Hybrid | Mar 30 |
 | **[Besty AI](https://getbesty.ai)** | **[Content & Social Media Intern](https://jobright.ai/jobs/info/69cab1a6466f1e133aac61d1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 30 |
 | **[Fifth & Cor](https://www.fifthandcor.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69caaff8466f1e133aac615c?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Hybrid | Mar 30 |
-| **[R. Couri Hay Creative PR](https://rcourihay.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69caaf9c1b5ad028873a3f42?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 30 |
 | **[Collective Measures | Media & Analytics](https://www.collectivemeasures.com)** | **[Project Management Intern - Marketing](https://jobright.ai/jobs/info/69caae57a8c1822476e1f240?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 30 |
-| **[Weis Markets](https://www.weismarkets.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69caae271b5ad028873a3eda?utm_campaign=1065&utm_source=git)** | Sunbury, PA | On Site | Mar 30 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Paid Search Intern](https://jobright.ai/jobs/info/69caacdb8fc6090c5d4500a8?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | Mar 30 |
 | ↳ | **[Paid Search Intern](https://jobright.ai/jobs/info/69caacbbe565c26a7003fb12?utm_campaign=1065&utm_source=git)** | CA-ON-Toronto | On Site | Mar 30 |
 | **[Mascoma Bank](https://www.mascomabank.com/business-banking/mascoma-community-development/)** | **[Innovation & Brand Intern](https://jobright.ai/jobs/info/69caaca01b5ad028873a3df4?utm_campaign=1065&utm_source=git)** | Lebanon,NH,US | On Site | Mar 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TREYA Digital](treyadigital.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69ca1072e565c26a7003a489?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Mar 29 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Copy Writer Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6981036f7f40342e15d9dd01?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Nasuni](https://www.nasuni.com)** | **[Product Marketing Intern - Undergrad](https://jobright.ai/jobs/info/69c4bc38d5a1016e98dc13c9?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Mar 29 |
-| **[Austin AI Hub](austinaihub.com)** | **[Content & Social Media Intern](https://jobright.ai/jobs/info/69ca29b8b773006330b8b1fc?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Mar 29 |
-| **[City of Fate](https://www.fatetx.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/69ca2cc41818a24cd84e1453?utm_campaign=1065&utm_source=git)** | Fate, TX | On Site | Mar 29 |
-| **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69c9d458b773006330b88f51?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 29 |
-| **[GMMB](http://gmmb.com)** | **[Digital Strategy - Summer Internship 2026, Washington, DC](https://jobright.ai/jobs/info/69b1d696d04c69566c743735?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
