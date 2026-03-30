@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kelly Tutors](www.kellytutors.com)** | **[TikTok / Short-Form Video Marketing Intern](https://jobright.ai/jobs/info/69c9c097aa3c2c1995e279af?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Mar 29 |
+| **[Secret Doors](https://www.linkedin.com/company/111068087)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c9bb9f1b5ad0288739c77a?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Mar 29 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69c9b056b773006330b884db?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Mar 29 |
 | **[TREALT](https://trealt.ca/)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/69c9a8dc83ea553769ff2b7c?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Mar 29 |
 | **[LangPal](www.lang-pal.com)** | **[Marketing Student](https://jobright.ai/jobs/info/69c9a5c3e565c26a70037e80?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Celebrity Pupz](https://celebritypupz.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69c9a043aa3c2c1995e2731b?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 29 |
@@ -73,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94adb1b5ad02887398dff?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 29 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c94ad71b5ad02887398df7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94ad71b5ad02887398df9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 29 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24178?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 29 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24177?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Mar 29 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c94a02aa3c2c1995e24178?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949fcb773006330b84e37?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949f8b773006330b84e28?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 29 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69c949f21818a24cd84da7f9?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Mar 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ellucian](http://www.ellucian.com)** | **[Campaign Marketing Intern](https://jobright.ai/jobs/info/69aae3df2747003c3d5097c5?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | Mar 28 |
 | **[Precisely](https://www.precisely.com)** | **[Marketing Campaigns Intern](https://jobright.ai/jobs/info/69ab6c0c7e1fab39d382f4bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Reach3 Insights](https://www.reach3insights.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c79d2ee565c26a7002a870?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Global Integrated Campaign Marketing](https://jobright.ai/jobs/info/6972b0c39b83b424830eb98e?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
-| **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[Unpaid Communications Specialist intern](https://jobright.ai/jobs/info/69c7b547b773006330b7b230?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 28 |
-| **[Cookiy AI](https://cookiy.ai/)** | **[AI Content & Growth Intern](https://jobright.ai/jobs/info/69c78f6aaa3c2c1995e195c5?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
