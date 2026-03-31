@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aqua Star](https://www.aquastar.com/)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69cb3a73a8c1822476e2509e?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 30 |
+| **[MarkitAds](https://markitads.com/)** | **[Summer Marketing Intern (Campus Events / Brand Ambassador)](https://jobright.ai/jobs/info/69cb391e1b5ad028873a99dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 30 |
+| **[Aegis Living](https://www.aegisliving.com/about/)** | **[Marketing/Sales Director Trainee](https://jobright.ai/jobs/info/69cb353ae565c26a70045989?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 30 |
+| ↳ | **[Marketing/Sales Director Trainee](https://jobright.ai/jobs/info/69cb34fea8c1822476e24d0c?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Mar 30 |
+| ↳ | **[Marketing/Sales Director Trainee](https://jobright.ai/jobs/info/69cb33a68fc6090c5d455ab2?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Mar 30 |
+| **[Peabody Energy](http://www.peabodyenergy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cb33a5e565c26a7004594d?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Mar 30 |
+| **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern: Growth & Innovation (G&I)](https://jobright.ai/jobs/info/69cb2eb61b5ad028873a9703?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 30 |
+| ↳ | **[2026 Summer Intern - Copywriter/Creative](https://jobright.ai/jobs/info/69cb2e948fc6090c5d4558f6?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 30 |
+| **[YINAN NEW YORK](yinan.us)** | **[Fashion Social Media Intern - On site](https://jobright.ai/jobs/info/69cb2e8baa3c2c1995e34ccd?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Mar 30 |
 | **[Calix](http://www.calix.com)** | **[Field and Partner Marketing Intern](https://jobright.ai/jobs/info/69cb242ce565c26a70045200?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 30 |
 | **[DECIEM | THE ABNORMAL BEAUTY COMPANY](http://deciem.com)** | **[Intern, Social Impact - Global](https://jobright.ai/jobs/info/69cb22441b5ad028873a915d?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Mar 30 |
 | **[C • L • E Cotton Candy](http://www.clecottoncandy.com)** | **[Event Planning, Social Media and Public Relations Intern](https://jobright.ai/jobs/info/69cb2224e565c26a70045199?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Mar 30 |
@@ -64,8 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Loenbro](http://loenbro.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cb16a3aa3c2c1995e33f49?utm_campaign=1065&utm_source=git)** | Centennial, CO | On Site | Mar 30 |
 | **[goop](https://goop.com)** | **[Summer Intern, PR & Influencer](https://jobright.ai/jobs/info/69cb16978fc6090c5d454b92?utm_campaign=1065&utm_source=git)** | Santa Monica, CA (Corp HQ) | Hybrid | Mar 30 |
 | **[Reach3 Insights](https://www.reach3insights.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c7783d1b5ad0288738d089?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
+| **[Leader Dogs for the Blind](https://www.leaderdog.org/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69cb3201466f1e133aacbb79?utm_campaign=1065&utm_source=git)** | Rochester Hills, MI | On Site | Mar 30 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69cb11e5466f1e133aaca91d?utm_campaign=1065&utm_source=git)** | US - Massachusetts (Acton - Office) | On Site | Mar 30 |
 | **[O.C. Tanner](http://octanner.com)** | **[Brand Marketing Internship](https://jobright.ai/jobs/info/69cb11271b5ad028873a860f?utm_campaign=1065&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters | On Site | Mar 30 |
+| **[Loenbro](http://loenbro.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cb2eaca8c1822476e24ac5?utm_campaign=1065&utm_source=git)** | Centennial, CO | On Site | Mar 30 |
 | **[8am](https://www.8am.com)** | **[Marketing Project Coordinator Intern](https://jobright.ai/jobs/info/69cb10a1e565c26a700444e0?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 30 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Marketing & Public Relations Intern](https://jobright.ai/jobs/info/69cb0f21aa3c2c1995e33a5f?utm_campaign=1065&utm_source=git)** | Oklahoma County, OK | On Site | Mar 30 |
 | **[KCMCONNECT](https://kcmconnect.co/)** | **[Los Angeles: PR & Event Production Internship](https://jobright.ai/jobs/info/69cb0eaf8fc6090c5d4546ab?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - Partnership Marketing (Omaha, NE)](https://jobright.ai/jobs/info/69cad89faa3c2c1995e30a74?utm_campaign=1065&utm_source=git)** | Omaha - FN Tower | On Site | Mar 30 |
 | **[Qranc](https://www.linkedin.com/redir/suspicious-page?url=https%3A%2F%2Fqranc%2ecom%2F)** | **[Marketing Intern](https://jobright.ai/jobs/info/69caf403aa3c2c1995e32525?utm_campaign=1065&utm_source=git)** | Provo, UT | Hybrid | Mar 30 |
 | **[Sparks Village Academy](sparksvillage.com)** | **[Videographer/Social Media Manager](https://jobright.ai/jobs/info/69cad527e565c26a7004136d?utm_campaign=1065&utm_source=git)** | Belleville, IL | On Site | Mar 30 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[Assistant Director, Guest Services & Marketing, Randy Owen Center for the Performing Arts](https://jobright.ai/jobs/info/69caf4a68fc6090c5d45339b?utm_campaign=1065&utm_source=git)** | Jacksonville, AL | On Site | Mar 30 |
-| **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Intern - Digital Marketing Design Intern](https://jobright.ai/jobs/info/69cad3cfa8c1822476e2093e?utm_campaign=1065&utm_source=git)** | Lewisville, TX | On Site | Mar 30 |
-| **[Juiced Fuel](https://juicedfuel.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69cad3908fc6090c5d4517ea?utm_campaign=1065&utm_source=git)** | Charleston County, SC | On Site | Mar 30 |
-| **[New Jersey Resources](http://www.njresources.com/)** | **[NJR Home Services Intern](https://jobright.ai/jobs/info/69caf27d8fc6090c5d453283?utm_campaign=1065&utm_source=git)** | Farmingdale, NJ | Hybrid | Mar 30 |
-| **[Edelman](http://www.edelman.com)** | **[Creative Intern, Copywriting](https://jobright.ai/jobs/info/69cad211aa3c2c1995e30862?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
-| **[Kelly Tutors](www.kellytutors.com)** | **[Music and Audio Marketing Intern (remote, 2-5hrs/week)](https://jobright.ai/jobs/info/69cad1c78fc6090c5d45175b?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Mar 30 |
-| **[H&H Group | B Corp™](https://www.hh.global)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69caf0bc8fc6090c5d452fdb?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Mar 30 |
-| **[Mighty](https://www.mighty.com)** | **[MBA Summer Marketing Intern](https://jobright.ai/jobs/info/69cad06d1b5ad028873a53b7?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Mar 30 |
-| **[TRG](https://trg.agency)** | **[Copywriter Intern (Summer 2026)](https://jobright.ai/jobs/info/69cace561b5ad028873a52b9?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69cacb6caa3c2c1995e30553?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
-| **[Besty AI](https://getbesty.ai)** | **[Growth Intern](https://jobright.ai/jobs/info/69cacb55aa3c2c1995e30534?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
