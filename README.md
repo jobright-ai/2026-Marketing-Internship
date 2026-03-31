@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MarkitAds](https://markitads.com/)** | **[Campus Marketing Intern — UT Austin](https://jobright.ai/jobs/info/69cb50901b5ad028873aa8ac?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 30 |
+| **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/69cb4d5e8fc6090c5d45692d?utm_campaign=1065&utm_source=git)** | Vancouver, WA | Hybrid | Mar 30 |
 | **[Sports Endeavors](http://sportsendeavors.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cb45a08fc6090c5d4566fd?utm_campaign=1065&utm_source=git)** | Hillsborough, NC | On Site | Mar 30 |
 | **[Aqua Star](https://www.aquastar.com/)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69cb3a73a8c1822476e2509e?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 30 |
 | **[MarkitAds](https://markitads.com/)** | **[Summer Marketing Intern (Campus Events / Brand Ambassador)](https://jobright.ai/jobs/info/69cb391e1b5ad028873a99dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 30 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern: Growth & Innovation (G&I)](https://jobright.ai/jobs/info/69cb2eb61b5ad028873a9703?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 30 |
 | ↳ | **[2026 Summer Intern - Copywriter/Creative](https://jobright.ai/jobs/info/69cb2e948fc6090c5d4558f6?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 30 |
 | **[YINAN NEW YORK](yinan.us)** | **[Fashion Social Media Intern - On site](https://jobright.ai/jobs/info/69cb2e8baa3c2c1995e34ccd?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Mar 30 |
+| **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern: Digital Media](https://jobright.ai/jobs/info/69cb4ac91b5ad028873aa5ee?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 30 |
 | **[Calix](http://www.calix.com)** | **[Field and Partner Marketing Intern](https://jobright.ai/jobs/info/69cb242ce565c26a70045200?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 30 |
 | **[DECIEM | THE ABNORMAL BEAUTY COMPANY](http://deciem.com)** | **[Intern, Social Impact - Global](https://jobright.ai/jobs/info/69cb22441b5ad028873a915d?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Mar 30 |
 | **[C • L • E Cotton Candy](http://www.clecottoncandy.com)** | **[Event Planning, Social Media and Public Relations Intern](https://jobright.ai/jobs/info/69cb2224e565c26a70045199?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Mar 30 |
@@ -112,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Social Media Intern](https://jobright.ai/jobs/info/69caf0b28fc6090c5d452f94?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Mar 30 |
 | **[Joliet Public Library](https://www.jolietlibrary.org/index.php/en/)** | **[Communications Intern](https://jobright.ai/jobs/info/69caf061e565c26a700428bc?utm_campaign=1065&utm_source=git)** | Joliet, IL | On Site | Mar 30 |
 | **[Cleveland Guardians](https://www.mlb.com/guardians)** | **[2026 Intern, Social Impact](https://jobright.ai/jobs/info/69cb0d718fc6090c5d454679?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Mar 30 |
-| **[Genesys](https://www.genesys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6da01b773006330b7380b?utm_campaign=1065&utm_source=git)** | Durham, NC | Remote | Mar 30 |
-| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e030b773006330b73a75?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Remote | Mar 30 |
+| **[Genesys](https://www.genesys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e030b773006330b73a75?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Remote | Mar 30 |
+| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6da01b773006330b7380b?utm_campaign=1065&utm_source=git)** | Durham, NC | Remote | Mar 30 |
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e05a1b5ad02887387c3b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Remote | Mar 30 |
 | **[Electra.aero](https://www.electra.aero)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c3614e94007a2195dfd0af?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | Mar 30 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69caec2ee565c26a70042774?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Saatchi & Saatchi Canada](https://www.saatchi.ca/)** | **[SEO Intern](https://jobright.ai/jobs/info/69cad9161b5ad028873a593f?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 30 |
 | **[Sandisk](https://www.sandisk.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69cad9128fc6090c5d451cb7?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[CTA Web Content Intern](https://jobright.ai/jobs/info/69cad8af8fc6090c5d451a66?utm_campaign=1065&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - Partnership Marketing (Omaha, NE)](https://jobright.ai/jobs/info/69cad89faa3c2c1995e30a74?utm_campaign=1065&utm_source=git)** | Omaha - FN Tower | On Site | Mar 30 |
-| **[Qranc](https://www.linkedin.com/redir/suspicious-page?url=https%3A%2F%2Fqranc%2ecom%2F)** | **[Marketing Intern](https://jobright.ai/jobs/info/69caf403aa3c2c1995e32525?utm_campaign=1065&utm_source=git)** | Provo, UT | Hybrid | Mar 30 |
-| **[Sparks Village Academy](sparksvillage.com)** | **[Videographer/Social Media Manager](https://jobright.ai/jobs/info/69cad527e565c26a7004136d?utm_campaign=1065&utm_source=git)** | Belleville, IL | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
