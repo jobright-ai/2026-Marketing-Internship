@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Calix](http://www.calix.com)** | **[Field and Partner Marketing Intern](https://jobright.ai/jobs/info/69cb242ce565c26a70045200?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 30 |
+| **[DECIEM | THE ABNORMAL BEAUTY COMPANY](http://deciem.com)** | **[Intern, Social Impact - Global](https://jobright.ai/jobs/info/69cb22441b5ad028873a915d?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Mar 30 |
+| **[C • L • E Cotton Candy](http://www.clecottoncandy.com)** | **[Event Planning, Social Media and Public Relations Intern](https://jobright.ai/jobs/info/69cb2224e565c26a70045199?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Mar 30 |
 | **[FNBO](https://www.fnbo.com)** | **[Summer Intern - Partnership Marketing (Omaha, NE)](https://jobright.ai/jobs/info/69cb1b871b5ad028873a8c38?utm_campaign=1065&utm_source=git)** | Omaha Metropolitan Area | On Site | Mar 30 |
 | **[Loenbro](http://loenbro.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cb16a3aa3c2c1995e33f49?utm_campaign=1065&utm_source=git)** | Centennial, CO | On Site | Mar 30 |
 | **[goop](https://goop.com)** | **[Summer Intern, PR & Influencer](https://jobright.ai/jobs/info/69cb16978fc6090c5d454b92?utm_campaign=1065&utm_source=git)** | Santa Monica, CA (Corp HQ) | Hybrid | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TRG](https://trg.agency)** | **[Copywriter Intern (Summer 2026)](https://jobright.ai/jobs/info/69cace561b5ad028873a52b9?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69cacb6caa3c2c1995e30553?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
 | **[Besty AI](https://getbesty.ai)** | **[Growth Intern](https://jobright.ai/jobs/info/69cacb55aa3c2c1995e30534?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 30 |
-| **[AVARA](http://shopavara.com)** | **[Social Media & Influencer Marketing Intern](https://jobright.ai/jobs/info/69cacb24a8c1822476e203a4?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | Mar 30 |
-| **[KnowBe4](http://www.KnowBe4.com)** | **[Demand Generation Intern](https://jobright.ai/jobs/info/69cacad0e565c26a70040bef?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Mar 30 |
-| **[Bat City Promotions](https://batcitypromos.com/)** | **[Paid Internship/ Marketing and Sales Intern](https://jobright.ai/jobs/info/69cacaa41b5ad028873a503d?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
