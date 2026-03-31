@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69b0854c749500645096f13d?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Mar 31 |
+| **[Ellucian](http://www.ellucian.com)** | **[Industry Engagement & Content Strategy Intern](https://jobright.ai/jobs/info/69aedada7495006450933b65?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | Mar 31 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/69cb969600b127665e58113b?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 31 |
 | **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | Hybrid | Mar 31 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Experience Planning/Strategy Intern](https://jobright.ai/jobs/info/69bb8e2a06c1ba00c54e24a8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | ↳ | **[2026 Bold Beginners - Copywriting Intern](https://jobright.ai/jobs/info/6996427ece78e77b4fda3c6b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
@@ -136,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Social Media Intern](https://jobright.ai/jobs/info/69caf0b28fc6090c5d452f94?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Mar 30 |
 | **[Joliet Public Library](https://www.jolietlibrary.org/index.php/en/)** | **[Communications Intern](https://jobright.ai/jobs/info/69caf061e565c26a700428bc?utm_campaign=1065&utm_source=git)** | Joliet, IL | On Site | Mar 30 |
 | **[Cleveland Guardians](https://www.mlb.com/guardians)** | **[2026 Intern, Social Impact](https://jobright.ai/jobs/info/69cb0d718fc6090c5d454679?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Mar 30 |
-| **[Genesys](https://www.genesys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6da01b773006330b7380b?utm_campaign=1065&utm_source=git)** | Durham, NC | Remote | Mar 30 |
-| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e030b773006330b73a75?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Remote | Mar 30 |
+| **[Genesys](https://www.genesys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e030b773006330b73a75?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Remote | Mar 30 |
+| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6da01b773006330b7380b?utm_campaign=1065&utm_source=git)** | Durham, NC | Remote | Mar 30 |
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e05a1b5ad02887387c3b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Remote | Mar 30 |
 | **[Electra.aero](https://www.electra.aero)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c3614e94007a2195dfd0af?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | Mar 30 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69caec2ee565c26a70042774?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[SEO Intern](https://jobright.ai/jobs/info/69cae4e1466f1e133aac883d?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | Mar 30 |
 | **[Lakeside Book Company](https://www.lakesidebookcompany.com/)** | **[Dover Publishing Internship 2026](https://jobright.ai/jobs/info/69cae4cea8c1822476e2196f?utm_campaign=1065&utm_source=git)** | Garden City, NY, USA | Remote | Mar 30 |
 | ↳ | **[Dover Publishing Internship 2026](https://jobright.ai/jobs/info/69cae4caa8c1822476e21948?utm_campaign=1065&utm_source=git)** | Garden City, NY | Remote | Mar 30 |
-| **[SCOR](https://www.scor.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cae3681b5ad028873a60eb?utm_campaign=1065&utm_source=git)** | 28 Liberty Street, New York, NY, 10005, US | Hybrid | Mar 30 |
-| **[Volo Sports](https://www.volosports.com)** | **[Summer Sports Marketing Internship](https://jobright.ai/jobs/info/69cae2e6a8c1822476e21413?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
-| **[Varmodel](https://www.linkedin.com/company/79943374)** | **[Digital Marketing & Business Development Intern](https://jobright.ai/jobs/info/69cb01428fc6090c5d453a65?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
