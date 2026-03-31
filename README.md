@@ -62,8 +62,8 @@ For a complete list, click the following sortable link below:
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/69cb969600b127665e58113b?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 31 |
 | **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | Hybrid | Mar 31 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Experience Planning/Strategy Intern](https://jobright.ai/jobs/info/69bb8e2a06c1ba00c54e24a8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 31 |
-| ↳ | **[2026 Bold Beginners - Medical Strategy Intern](https://jobright.ai/jobs/info/699646f0ce78e77b4fda4315?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
 | ↳ | **[2026 Bold Beginners - Copywriting Intern](https://jobright.ai/jobs/info/6996427ece78e77b4fda3c6b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
+| ↳ | **[2026 Bold Beginners - Medical Strategy Intern](https://jobright.ai/jobs/info/699646f0ce78e77b4fda4315?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
 | ↳ | **[2026 Bold Beginners - Account Management Intern](https://jobright.ai/jobs/info/69965b0881476f6176ae2834?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
 | **[AARP](http://www.aarp.org)** | **[Integrated Communications and Engagement Intern](https://jobright.ai/jobs/info/69cb7c8ca8c1822476e27e7e?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Mar 31 |
 | **[Angus Reid](https://www.angusreid.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69cb6748e565c26a700473f8?utm_campaign=1065&utm_source=git)** | Vancouver, BC | On Site | Mar 30 |
@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Sports Endeavors](http://sportsendeavors.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cb45a08fc6090c5d4566fd?utm_campaign=1065&utm_source=git)** | Hillsborough, NC | On Site | Mar 30 |
 | **[Genesys](https://www.genesys.com)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/69c58531e565c26a70011c9a?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Mar 30 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69c5918faa3c2c1995e0198b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Remote | Mar 30 |
-| ↳ | **[Marketing Events Intern](https://jobright.ai/jobs/info/69c57d0a1818a24cd84b5fa1?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Mar 30 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69c5790983ea553769fca7ac?utm_campaign=1065&utm_source=git)** | Durham, NC | Remote | Mar 30 |
+| ↳ | **[Marketing Events Intern](https://jobright.ai/jobs/info/69c57d0a1818a24cd84b5fa1?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Mar 30 |
 | **[PANO Marketing](https://pano-marketing.com)** | **[Marketing and Operations Intern](https://jobright.ai/jobs/info/69cb59d28fc6090c5d457171?utm_campaign=1065&utm_source=git)** | Wichita, KS | Hybrid | Mar 30 |
 | **[Aqua Star](https://www.aquastar.com/)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69cb3a73a8c1822476e2509e?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 30 |
 | **[MarkitAds](https://markitads.com/)** | **[Summer Marketing Intern (Campus Events / Brand Ambassador)](https://jobright.ai/jobs/info/69cb391e1b5ad028873a99dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 30 |
@@ -139,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Social Media Intern](https://jobright.ai/jobs/info/69caf0b28fc6090c5d452f94?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Mar 30 |
 | **[Joliet Public Library](https://www.jolietlibrary.org/index.php/en/)** | **[Communications Intern](https://jobright.ai/jobs/info/69caf061e565c26a700428bc?utm_campaign=1065&utm_source=git)** | Joliet, IL | On Site | Mar 30 |
 | **[Cleveland Guardians](https://www.mlb.com/guardians)** | **[2026 Intern, Social Impact](https://jobright.ai/jobs/info/69cb0d718fc6090c5d454679?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Mar 30 |
-| **[Genesys](https://www.genesys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e030b773006330b73a75?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Remote | Mar 30 |
-| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6da01b773006330b7380b?utm_campaign=1065&utm_source=git)** | Durham, NC | Remote | Mar 30 |
+| **[Genesys](https://www.genesys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6da01b773006330b7380b?utm_campaign=1065&utm_source=git)** | Durham, NC | Remote | Mar 30 |
+| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e030b773006330b73a75?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Remote | Mar 30 |
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e05a1b5ad02887387c3b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Remote | Mar 30 |
 | **[Electra.aero](https://www.electra.aero)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c3614e94007a2195dfd0af?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | Mar 30 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69caec2ee565c26a70042774?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 30 |
