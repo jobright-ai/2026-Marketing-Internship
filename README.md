@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sports Endeavors](http://sportsendeavors.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cb45a08fc6090c5d4566fd?utm_campaign=1065&utm_source=git)** | Hillsborough, NC | On Site | Mar 30 |
 | **[Aqua Star](https://www.aquastar.com/)** | **[Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/69cb3a73a8c1822476e2509e?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 30 |
 | **[MarkitAds](https://markitads.com/)** | **[Summer Marketing Intern (Campus Events / Brand Ambassador)](https://jobright.ai/jobs/info/69cb391e1b5ad028873a99dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Aegis Living](https://www.aegisliving.com/about/)** | **[Marketing/Sales Director Trainee](https://jobright.ai/jobs/info/69cb353ae565c26a70045989?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 30 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[KCMCONNECT](https://kcmconnect.co/)** | **[Los Angeles: PR & Event Production Internship](https://jobright.ai/jobs/info/69cb0eaf8fc6090c5d4546ab?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | **[Elevare Branding](https://www.elevarebranding.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69cb0d1b8fc6090c5d454654?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | **[Crimson Consulting](https://thecrimsonconsulting.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cb096e466f1e133aaca30a?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
-| **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/69cb07b9aa3c2c1995e3354d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Mar 30 |
 | **[FUJIFILM Cellular Dynamics, Inc](https://www.fujifilmcdi.com)** | **[Marketing Assistant- Intern](https://jobright.ai/jobs/info/69cb077eaa3c2c1995e33517?utm_campaign=1065&utm_source=git)** | US-CA-Santa Ana | On Site | Mar 30 |
 | ↳ | **[Marketing Assistant- Intern](https://jobright.ai/jobs/info/69cb0741a8c1822476e233be?utm_campaign=1065&utm_source=git)** | Santa Ana, CA, US | On Site | Mar 30 |
 | **[FUJIFILM America](http://www.fujifilmusa.com/index.html)** | **[Marketing Assistant- Intern](https://jobright.ai/jobs/info/69cb073da8c1822476e233a4?utm_campaign=1065&utm_source=git)** | US-CA-Santa Ana | On Site | Mar 30 |
