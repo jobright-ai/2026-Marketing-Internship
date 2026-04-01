@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MathWorks](http://www.mathworks.com)** | **[University of Central Florida MATLAB Student Ambassador](https://jobright.ai/jobs/info/695da6c3f1f8465b79f3ee88?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 01 |
+| **[We. Communications](https://www.wecommunications.com)** | **[Spring 2026 Public Relations Internship Program: Healthcare](https://jobright.ai/jobs/info/69c0c2d27798f73e35e5473b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 01 |
+| **[MathWorks](http://www.mathworks.com)** | **[Michigan Technological University MATLAB Student Ambassador](https://jobright.ai/jobs/info/6921a1343f782d2f1afd3352?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 01 |
+| **[OMI Industries](https://omi-industries.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69cce173366bb95ba54f7fe2?utm_campaign=1065&utm_source=git)** | Palatine, IL | On Site | Apr 01 |
 | **[Cookiy AI](https://cookiy.ai/)** | **[AI Content & Growth Creator(Internship)](https://jobright.ai/jobs/info/69ccda7ccfdc6132f9414832?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Viral Marketing Intern](https://jobright.ai/jobs/info/69ccd815366bb95ba54f7856?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Apr 01 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/69ccb6fae1921223acc7c017?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 31 |
@@ -98,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9173cdb525785fb7f24e?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 31 |
 | ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc916bcdb525785fb7f246?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
 | ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9173cdb525785fb7f24f?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Mar 31 |
-| ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc91438130af1ac833c115?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 31 |
 | ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9173cdb525785fb7f24d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 31 |
+| ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc91438130af1ac833c115?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 31 |
 | **[W.E. O'Neil Construction](http://www.weoneil.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cc71ef366bb95ba54ef7c2?utm_campaign=1065&utm_source=git)** | Ontario, CA | On Site | Mar 31 |
 | **[Elevations Credit Union](http://elevationscu.com)** | **[Member Expansion Intern](https://jobright.ai/jobs/info/69cca25d891d7b11cfcb1627?utm_campaign=1065&utm_source=git)** | Broomfield, CO | On Site | Mar 31 |
 | **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Marketing and Sales Support Intern](https://jobright.ai/jobs/info/69cc9f00cdb525785fb80722?utm_campaign=1065&utm_source=git)** | Fresno, CA | On Site | Mar 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kidsave](https://www.kidsave.org)** | **[Fundraising and Events Intern](https://jobright.ai/jobs/info/69cc8d17cfdc6132f940fc67?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Mar 31 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Market Strategy and Insights Intern](https://jobright.ai/jobs/info/69cc3d9e891d7b11cfcab4a2?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
 | **[Financial Health Network](https://finhealthnetwork.org)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69cc7994cfdc6132f940c755?utm_campaign=1065&utm_source=git)** | Boston, NY | On Site | Mar 31 |
-| **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69cc3c9d891d7b11cfcab3f3?utm_campaign=1065&utm_source=git)** | California - High Bluff | Hybrid | Mar 31 |
-| **[Little Rock Water Reclamation Authority](https://www.lrwra.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69cc7a7c366bb95ba54efae8?utm_campaign=1065&utm_source=git)** | Little Rock, AR | On Site | Mar 31 |
-| **[Level Up USA](http://leveluppromotionsinc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cc5a69366bb95ba54ef200?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Mar 31 |
-| **[Collectors Expo](www.collectorsexpo.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69cc7549891d7b11cfcac741?utm_campaign=1065&utm_source=git)** | Rosemead, CA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
