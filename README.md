@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Melander Marketing & Communications](https://www.melandermc.com/)** | **[Beauty PR Intern](https://jobright.ai/jobs/info/69ccfb83cfdc6132f941546d?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Apr 01 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Influencer Marketing, Naturium](https://jobright.ai/jobs/info/697830a439f7f96cc6d078ba?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Marketing Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/699558ed81476f6176ad41c6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
 | **[SPX Technologies](https://www.spx.com)** | **[Marketing Video Production Intern](https://jobright.ai/jobs/info/6977bf8b52f3c27ec643e236?utm_campaign=1065&utm_source=git)** | East Stroudsburg, PA | On Site | Apr 01 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Amazon, Naturium](https://jobright.ai/jobs/info/69783e2339f7f96cc6d08bb8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Toronto Tempo](https://tempo.wnba.com)** | **[Intern, Marketing & Events](https://jobright.ai/jobs/info/69ccacdf8130af1ac833e42c?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 31 |
 | **[Subway](https://www.subway.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cca6028130af1ac833ddae?utm_campaign=1065&utm_source=git)** | Miami, FL, USA | On Site | Mar 31 |
 | **[UCP of Central Florida](https://www.ucpcfl.org)** | **[Intern - Marketing Storytelling](https://jobright.ai/jobs/info/69cca5ece1921223acc7b452?utm_campaign=1065&utm_source=git)** | Administration - Orlando, FL 32817 | On Site | Mar 31 |
-| **[City of Grand Prairie](https://www.gptx.org/Home)** | **[Marketing and Multi-Media Specialist Intern – Part Time](https://jobright.ai/jobs/info/69cc93b2366bb95ba54f3180?utm_campaign=1065&utm_source=git)** | Grand Prairie, TX | On Site | Mar 31 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9184366bb95ba54f30b5?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Mar 31 |
 | ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc917d366bb95ba54f30af?utm_campaign=1065&utm_source=git)** | Tacoma, WA | On Site | Mar 31 |
 | ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc915de1921223acc7991e?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Mar 31 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc90ce8130af1ac833c0c9?utm_campaign=1065&utm_source=git)** | Herndon, VA | On Site | Mar 31 |
 | ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc90c18130af1ac833c0bf?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Mar 31 |
 | **[MarkitAds](https://markitads.com/)** | **[Campus Marketing Intern — Texas A&M](https://jobright.ai/jobs/info/69cc8fc5e1921223acc7983a?utm_campaign=1065&utm_source=git)** | College Station, TX | On Site | Mar 31 |
-| ↳ | **[Campus Marketing Intern — University of South Carolina](https://jobright.ai/jobs/info/69cc8ef78130af1ac833bfb7?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Mar 31 |
 | ↳ | **[Campus Marketing Intern — FSU](https://jobright.ai/jobs/info/69cc8ef78130af1ac833bfb4?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | Mar 31 |
+| ↳ | **[Campus Marketing Intern — University of South Carolina](https://jobright.ai/jobs/info/69cc8ef78130af1ac833bfb7?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Mar 31 |
 | **[Chicago Sky WNBA](http://chicagosky.net)** | **[Community Marketing Intern](https://jobright.ai/jobs/info/69cc8ce7cdb525785fb7eedc?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Summer Health](https://www.summerhealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cc8c0d891d7b11cfcafc31?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
 | **[Veeam Software](http://www.veeam.com)** | **[Launch Strategy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc8b68cdb525785fb7eb28?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Mar 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Centralized Marketing & Leasing Intern- The Mark Athens](https://jobright.ai/jobs/info/69cc42e3cfdc6132f940b413?utm_campaign=1065&utm_source=git)** | Athens, GA, USA | On Site | Mar 31 |
 | **[Comcast](https://corporate.comcast.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cc42c5366bb95ba54ee7ce?utm_campaign=1065&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Mar 31 |
 | **[CrossPaths](https://crosspaths.love)** | **[Campus Ambassador](https://jobright.ai/jobs/info/69cc97d7e1921223acc79ee4?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 31 |
-| **[S&S Activewear](https://www.ssactivewear.com)** | **[Merchandising Intern (Hybrid) Bolingbrook](https://jobright.ai/jobs/info/69cc5f8c366bb95ba54ef308?utm_campaign=1065&utm_source=git)** | Bolingbrook, IL | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
