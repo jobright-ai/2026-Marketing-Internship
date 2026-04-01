@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc90ce8130af1ac833c0c9?utm_campaign=1065&utm_source=git)** | Herndon, VA | On Site | Mar 31 |
 | ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc90c18130af1ac833c0bf?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Mar 31 |
 | **[MarkitAds](https://markitads.com/)** | **[Campus Marketing Intern — Texas A&M](https://jobright.ai/jobs/info/69cc8fc5e1921223acc7983a?utm_campaign=1065&utm_source=git)** | College Station, TX | On Site | Mar 31 |
-| ↳ | **[Campus Marketing Intern — University of South Carolina](https://jobright.ai/jobs/info/69cc8ef78130af1ac833bfb7?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Mar 31 |
 | ↳ | **[Campus Marketing Intern — FSU](https://jobright.ai/jobs/info/69cc8ef78130af1ac833bfb4?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | Mar 31 |
+| ↳ | **[Campus Marketing Intern — University of South Carolina](https://jobright.ai/jobs/info/69cc8ef78130af1ac833bfb7?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Mar 31 |
 | **[Chicago Sky WNBA](http://chicagosky.net)** | **[Community Marketing Intern](https://jobright.ai/jobs/info/69cc8ce7cdb525785fb7eedc?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Summer Health](https://www.summerhealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cc8c0d891d7b11cfcafc31?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
 | **[Veeam Software](http://www.veeam.com)** | **[Launch Strategy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc8b68cdb525785fb7eb28?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Mar 31 |
@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Champion](https://www.championmgt.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69cc7964cfdc6132f940c732?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Mar 31 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Customer Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/69cc7742cdb525785fb7b9bf?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 31 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc916bcdb525785fb7f246?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
-| ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9173cdb525785fb7f24f?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Mar 31 |
 | ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9173cdb525785fb7f24e?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 31 |
+| ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9173cdb525785fb7f24f?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Mar 31 |
 | ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9173cdb525785fb7f24d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc91438130af1ac833c115?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 31 |
 | **[W.E. O'Neil Construction](http://www.weoneil.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cc71ef366bb95ba54ef7c2?utm_campaign=1065&utm_source=git)** | Ontario, CA | On Site | Mar 31 |
@@ -147,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[S&S Activewear](https://www.ssactivewear.com)** | **[Merchandising Intern (Hybrid) Bolingbrook](https://jobright.ai/jobs/info/69cc5f8c366bb95ba54ef308?utm_campaign=1065&utm_source=git)** | Bolingbrook, IL | Hybrid | Mar 31 |
 | **[Spin Master Games](http://www.spinmaster.com)** | **[Melissa & Doug Marketing Intern](https://jobright.ai/jobs/info/69cc8b94cfdc6132f940faad?utm_campaign=1065&utm_source=git)** | Wilton, CT | Hybrid | Mar 31 |
 | **[Coinflow](https://coinflow.cash)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c30088753c101b215672d6?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
-| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Social Media](https://jobright.ai/jobs/info/69cc80f9e1921223acc7733a?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Mar 31 |
 | **[Kidsave](https://www.kidsave.org)** | **[Fundraising and Events Intern](https://jobright.ai/jobs/info/69cc8d17cfdc6132f940fc67?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Mar 31 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Market Strategy and Insights Intern](https://jobright.ai/jobs/info/69cc3d9e891d7b11cfcab4a2?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
 | **[Financial Health Network](https://finhealthnetwork.org)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69cc7994cfdc6132f940c755?utm_campaign=1065&utm_source=git)** | Boston, NY | On Site | Mar 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Collectors Expo](www.collectorsexpo.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69cc7549891d7b11cfcac741?utm_campaign=1065&utm_source=git)** | Rosemead, CA | On Site | Mar 31 |
 | **[USA Football](http://usafootball.com)** | **[Intern, Events](https://jobright.ai/jobs/info/69cc382f891d7b11cfcab1e4?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Mar 31 |
 | **[FreshDirect](http://freshdirect.com)** | **[Growth & Marketing Analytics Intern](https://jobright.ai/jobs/info/69cc630ae1921223acc75a39?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Mar 31 |
+| **[Jeu de paume](jeudepaume.com)** | **[Wholesale Tennis Activewear Brand Intern](https://jobright.ai/jobs/info/69cc621fcdb525785fb7b367?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
