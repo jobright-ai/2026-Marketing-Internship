@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cookiy AI](https://cookiy.ai/)** | **[AI Content & Growth Creator(Internship)](https://jobright.ai/jobs/info/69ccda7ccfdc6132f9414832?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 01 |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Viral Marketing Intern](https://jobright.ai/jobs/info/69ccd815366bb95ba54f7856?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Apr 01 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/69ccb6fae1921223acc7c017?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 31 |
 | **[Zeno Group Canada](https://www.zenogroup.com/)** | **[Intern, Brand](https://jobright.ai/jobs/info/69ccb249366bb95ba54f56f6?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 31 |
+| **[Eurofins US Food, Feed, & Supplement Testing](https://www.eurofinsus.com/food-testing/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69ccd576cfdc6132f9413f7c?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Mar 31 |
 | **[Toronto Tempo](https://tempo.wnba.com)** | **[Intern, Marketing & Events](https://jobright.ai/jobs/info/69ccacdf8130af1ac833e42c?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Mar 31 |
 | **[Subway](https://www.subway.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cca6028130af1ac833ddae?utm_campaign=1065&utm_source=git)** | Miami, FL, USA | On Site | Mar 31 |
 | **[UCP of Central Florida](https://www.ucpcfl.org)** | **[Intern - Marketing Storytelling](https://jobright.ai/jobs/info/69cca5ece1921223acc7b452?utm_campaign=1065&utm_source=git)** | Administration - Orlando, FL 32817 | On Site | Mar 31 |
@@ -76,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc90ce8130af1ac833c0c9?utm_campaign=1065&utm_source=git)** | Herndon, VA | On Site | Mar 31 |
 | ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc90c18130af1ac833c0bf?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Mar 31 |
 | **[MarkitAds](https://markitads.com/)** | **[Campus Marketing Intern — Texas A&M](https://jobright.ai/jobs/info/69cc8fc5e1921223acc7983a?utm_campaign=1065&utm_source=git)** | College Station, TX | On Site | Mar 31 |
-| ↳ | **[Campus Marketing Intern — FSU](https://jobright.ai/jobs/info/69cc8ef78130af1ac833bfb4?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | Mar 31 |
 | ↳ | **[Campus Marketing Intern — University of South Carolina](https://jobright.ai/jobs/info/69cc8ef78130af1ac833bfb7?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Mar 31 |
+| ↳ | **[Campus Marketing Intern — FSU](https://jobright.ai/jobs/info/69cc8ef78130af1ac833bfb4?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | Mar 31 |
 | **[Chicago Sky WNBA](http://chicagosky.net)** | **[Community Marketing Intern](https://jobright.ai/jobs/info/69cc8ce7cdb525785fb7eedc?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Summer Health](https://www.summerhealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cc8c0d891d7b11cfcafc31?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
 | **[Veeam Software](http://www.veeam.com)** | **[Launch Strategy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc8b68cdb525785fb7eb28?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Mar 31 |
@@ -92,11 +95,11 @@ For a complete list, click the following sortable link below:
 | **[Golden Pet Brands](www.goldenpetbrands.com)** | **[Intern, eCommerce Insights - Summer 2026](https://jobright.ai/jobs/info/69cc7c20891d7b11cfcaca05?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Mar 31 |
 | **[Champion](https://www.championmgt.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69cc7964cfdc6132f940c732?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Mar 31 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Customer Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/69cc7742cdb525785fb7b9bf?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Mar 31 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc916bcdb525785fb7f246?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
-| ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9173cdb525785fb7f24e?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 31 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9173cdb525785fb7f24e?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 31 |
+| ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc916bcdb525785fb7f246?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
 | ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9173cdb525785fb7f24f?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Mar 31 |
-| ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9173cdb525785fb7f24d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc91438130af1ac833c115?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 31 |
+| ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc9173cdb525785fb7f24d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[W.E. O'Neil Construction](http://www.weoneil.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cc71ef366bb95ba54ef7c2?utm_campaign=1065&utm_source=git)** | Ontario, CA | On Site | Mar 31 |
 | **[Elevations Credit Union](http://elevationscu.com)** | **[Member Expansion Intern](https://jobright.ai/jobs/info/69cca25d891d7b11cfcb1627?utm_campaign=1065&utm_source=git)** | Broomfield, CO | On Site | Mar 31 |
 | **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Marketing and Sales Support Intern](https://jobright.ai/jobs/info/69cc9f00cdb525785fb80722?utm_campaign=1065&utm_source=git)** | Fresno, CA | On Site | Mar 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Little Rock Water Reclamation Authority](https://www.lrwra.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69cc7a7c366bb95ba54efae8?utm_campaign=1065&utm_source=git)** | Little Rock, AR | On Site | Mar 31 |
 | **[Level Up USA](http://leveluppromotionsinc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cc5a69366bb95ba54ef200?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Mar 31 |
 | **[Collectors Expo](www.collectorsexpo.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69cc7549891d7b11cfcac741?utm_campaign=1065&utm_source=git)** | Rosemead, CA | On Site | Mar 31 |
-| **[USA Football](http://usafootball.com)** | **[Intern, Events](https://jobright.ai/jobs/info/69cc382f891d7b11cfcab1e4?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Mar 31 |
-| **[FreshDirect](http://freshdirect.com)** | **[Growth & Marketing Analytics Intern](https://jobright.ai/jobs/info/69cc630ae1921223acc75a39?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Mar 31 |
-| **[Jeu de paume](jeudepaume.com)** | **[Wholesale Tennis Activewear Brand Intern](https://jobright.ai/jobs/info/69cc621fcdb525785fb7b367?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
