@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRG](https://trg.agency)** | **[Communications Strategy Intern (2026 Summer)](https://jobright.ai/jobs/info/69ce1b58cfdc6132f9424d6c?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[Conzia](https://conzia.com/)** | **[Internship Growth Marketing](https://jobright.ai/jobs/info/69ce0f00366bb95ba550725b?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Sendbird](https://sendbird.com)** | **[Social Media Marketing Intern (Part-time)](https://jobright.ai/jobs/info/69cdfcc3cdb525785fb92991?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Apr 01 |
 | **[Homefield Fund](http://www.homefieldfund.com)** | **[Content & Communications Intern](https://jobright.ai/jobs/info/69cdf764398fb071abf7fedc?utm_campaign=1065&utm_source=git)** | Troy, NY | On Site | Apr 01 |
@@ -83,6 +84,9 @@ For a complete list, click the following sortable link below:
 | **[Concentric](https://www.concentricadvisors.com/)** | **[Internship, Marketing Summer 2026 (Remote)](https://jobright.ai/jobs/info/69cdcb7c366bb95ba55029c7?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Haleon](http://www.haleon.com/)** | **[Shopper Marketing Coordinator (12-month Internship)](https://jobright.ai/jobs/info/69cdcaf4891d7b11cfcbfb7e?utm_campaign=1065&utm_source=git)** | Mississauga Standish Court | Hybrid | Apr 01 |
 | **[S&P Global](https://www.spglobal.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cdcaebcfdc6132f941f6c0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
+| **[Volunteer Success](http://volunteersuccess.com)** | **[Public Relations Volunteer](https://jobright.ai/jobs/info/69ce1785cfdc6132f942495b?utm_campaign=1065&utm_source=git)** | Opportunity 17, AB | Remote | Apr 01 |
+| ↳ | **[Social Media Specialist](https://jobright.ai/jobs/info/69ce180254f00230c6cfbb4b?utm_campaign=1065&utm_source=git)** | Opportunity 17, AB | Remote | Apr 01 |
+| ↳ | **[Digital Marketing Volunteer](https://jobright.ai/jobs/info/69ce180354f00230c6cfbb50?utm_campaign=1065&utm_source=git)** | Opportunity 17, AB | Remote | Apr 01 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Digital Growth & Content](https://jobright.ai/jobs/info/69cde81554f00230c6cf80d7?utm_campaign=1065&utm_source=git)** | Harrison, NJ | On Site | Apr 01 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Youth Social Media Content Creators](https://jobright.ai/jobs/info/69cde836cfdc6132f9421082?utm_campaign=1065&utm_source=git)** | Opportunity 17, AB | On Site | Apr 01 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69cdc0c6cfdc6132f941f49b?utm_campaign=1065&utm_source=git)** | White Plains, NY | On Site | Apr 01 |
@@ -137,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Kings](http://lakings.com)** | **[Summer Intern, Marketing (LA Kings)](https://jobright.ai/jobs/info/69cd980354f00230c6cf4680?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Apr 01 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Communications Intern](https://jobright.ai/jobs/info/69c2d0ff94007a2195decf0a?utm_campaign=1065&utm_source=git)** | Montvale, NJ | On Site | Apr 01 |
 | **[Pennsylvania Horticultural Society (PHS)](http://www.phsonline.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cd94ea54f00230c6cf458d?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, US | On Site | Apr 01 |
-| **[Sarah’s Social Strategy](https://www.sarahsocialstrategy.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69ce0a03366bb95ba550700f?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Apr 01 |
 | **[Tampa Bay Sun FC](https://www.tampabaysunfc.com)** | **[Summer Community Impact for Nonprofit Intern](https://jobright.ai/jobs/info/69cd9311398fb071abf7a2fa?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 01 |
 | **[GoodRx](https://www.goodrx.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69cd92ab891d7b11cfcbda72?utm_campaign=1065&utm_source=git)** | CA HQ | Hybrid | Apr 01 |
 | **[State Street](https://www.statestreet.com/)** | **[Investment Management Marketing, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69c588e0aa3c2c1995e013ca?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cd85f1cdb525785fb8a8ab?utm_campaign=1065&utm_source=git)** | San Antonio, TX, USA | On Site | Apr 01 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Apr 01 |
 | **[Amentum](https://www.amentum.com/)** | **[Communications / Recruitment Marketing Intern](https://jobright.ai/jobs/info/69cda58acfdc6132f941e27a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 01 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Community Marketing Agent Internship](https://jobright.ai/jobs/info/69cd84b2cdb525785fb89ab5?utm_campaign=1065&utm_source=git)** | Midtown 45 Sales | On Site | Apr 01 |
-| **[AI Made Fun](https://www.linkedin.com/company/109611111)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69cdd558398fb071abf7cb6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 01 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Web & SEO Specialist Intern](https://jobright.ai/jobs/info/69cdb5d4cfdc6132f941ec51?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
