@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KCI](http://www.kci.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/699508bd81476f6176ace6c6?utm_campaign=1065&utm_source=git)** | Cayce, SC | On Site | Apr 02 |
+| **[Briggs & Stratton](http://www.briggsandstratton.com/us/en)** | **[Intern - Corporate Communications - Summer 2026](https://jobright.ai/jobs/info/69b1d138548f140066e7b10d?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
+| **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6994beb5ce78e77b4fd8c0e0?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Apr 02 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Social Commerce](https://jobright.ai/jobs/info/697938fb39f7f96cc6d1a51b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
+| ↳ | **[Summer Intern, Brand Marketing, Well People](https://jobright.ai/jobs/info/697adf54c532c4768fe0961b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
+| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69953cbde0bddb6acac3c75d?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Loyalty & CRM](https://jobright.ai/jobs/info/697ae29917b11b1c2e41b2f9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | ↳ | **[Summer Intern, Influencer Marketing, e.l.f. SKIN & New Verticals](https://jobright.ai/jobs/info/69783ed352f3c27ec6447a80?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68ce831bfb49c96ca6ea116f?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 02 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68eae5a476a1db7c5985c6a2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
-| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Signature Events Intern](https://jobright.ai/jobs/info/69ce416c366bb95ba55099b8?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 02 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Brand & Label Opportunities: Operations (Onsite: CA)](https://jobright.ai/jobs/info/69b1ba0b548f140066e78130?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Apr 02 |
 | **[MathWorks](http://www.mathworks.com)** | **[Université de Sherbrooke MATLAB Student Ambassador](https://jobright.ai/jobs/info/691df68c3f782d2f1afaf167?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Apr 02 |
 | ↳ | **[McGill University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69a297a60da45516f16bece3?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empire State Realty Trust](https://www.esrtreit.com/)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69cd9c1154f00230c6cf48f7?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Apr 01 |
 | **[IBM](http://www.ibm.com)** | **[Portfolio Development Intern](https://jobright.ai/jobs/info/69cd9b55891d7b11cfcbdf3a?utm_campaign=1065&utm_source=git)** | Armonk, NY | On Site | Apr 01 |
 | **[Cerity Partners](https://ceritypartners.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cd9ae2366bb95ba5500c3f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 01 |
-| **[Central Garden & Pet](http://www.central.com)** | **[Brand Marketing Paid Internship - Summer 2026](https://jobright.ai/jobs/info/69cd9a1acfdc6132f941d9a4?utm_campaign=1065&utm_source=git)** | Franklin, WI | Hybrid | Apr 01 |
-| **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern, Strategy](https://jobright.ai/jobs/info/69cd99f7398fb071abf7a5ac?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
-| **[Tampa Bay Sun FC](https://www.tampabaysunfc.com)** | **[Marketing & Social Media for Nonprofit and Community Engagement](https://jobright.ai/jobs/info/69cd985fcdb525785fb8ccba?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 01 |
-| **[Los Angeles Kings](http://lakings.com)** | **[Summer Intern, Marketing (LA Kings)](https://jobright.ai/jobs/info/69cd980354f00230c6cf4680?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Apr 01 |
-| **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Communications Intern](https://jobright.ai/jobs/info/69c2d0ff94007a2195decf0a?utm_campaign=1065&utm_source=git)** | Montvale, NJ | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
