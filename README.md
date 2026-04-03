@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Marketing Insights](https://jobright.ai/jobs/info/697938c588e2b47213bd5fa1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Sales & Marketing Intern Summer 2026](https://jobright.ai/jobs/info/691ab51ebcdbf3560c9d9f7b?utm_campaign=1065&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 03 |
+| **[Harold Grinspoon Foundation](http://www.hgf.org)** | **[Events Intern](https://jobright.ai/jobs/info/69b31131ae2a534885ea55ca?utm_campaign=1065&utm_source=git)** | Agawam, MA | On Site | Apr 03 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Community Management](https://jobright.ai/jobs/info/697adddfc532c4768fe09475?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
+| ↳ | **[Summer Intern, Social Media, e.l.f. Beauty](https://jobright.ai/jobs/info/697adc47c532c4768fe092c7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
+| ↳ | **[Summer Intern, Community Management](https://jobright.ai/jobs/info/697ae45317b11b1c2e41b60d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Services Intern- Visual Media](https://jobright.ai/jobs/info/69b30c23a8ac8e70ff672e6f?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Apr 03 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Social Media, e.l.f. SKIN](https://jobright.ai/jobs/info/69792bd888e2b47213bd49d8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
-| ↳ | **[Summer Intern, Creative & Brand Copywriting, Naturium](https://jobright.ai/jobs/info/69793a9e88e2b47213bd645b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Creative & Brand Copywriting, Naturium](https://jobright.ai/jobs/info/69793a9e88e2b47213bd645b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
+| ↳ | **[Summer Intern, Social Media, e.l.f. SKIN](https://jobright.ai/jobs/info/69792bd888e2b47213bd49d8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69abb0a9142d5b4265fce4c4?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6967c95bf25a380066961cf2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Brand Marketing, e.l.f. Cosmetics](https://jobright.ai/jobs/info/697adfd71423772304eac4a3?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
@@ -70,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Communication Intern (Marketing/Outreach/Public Relations)](https://jobright.ai/jobs/info/69cf879acfdc6132f94344cc?utm_campaign=1065&utm_source=git)** | Carson, CA | On Site | Apr 03 |
 | **[Digital Collegium](https://digicol.org/)** | **[2026 Minnesota Regional Committee: Social Media Coordinator](https://jobright.ai/jobs/info/69cf8187398fb071abf90da9?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Watchfire](https://www.watchfiresigns.com/)** | **[Intern Marketing](https://jobright.ai/jobs/info/698111437f40342e15d9ebbe?utm_campaign=1065&utm_source=git)** | Danville, IL | On Site | Apr 03 |
+| **[White Bear Mitsubishi](https://www.whitebearmitsubishi.com)** | **[Events & Marketing Intern](https://jobright.ai/jobs/info/69cfa69ecfdc6132f9434eb5?utm_campaign=1065&utm_source=git)** | White Bear Lake, MN | On Site | Apr 03 |
 | **[Zscaler](https://www.zscaler.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/69cf767654f00230c6d0a6c0?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Apr 03 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Student Intern](https://jobright.ai/jobs/info/69cf7640366bb95ba5516ccd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Apr 03 |
 | **[Authentic](https://authentic.org)** | **[Managing Strategist, Paid Media (Temporary)](https://jobright.ai/jobs/info/69cf5dac54f00230c6d0940e?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Apr 02 |
@@ -146,15 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Brand Go To Market (GTM)](https://jobright.ai/jobs/info/69ceec71366bb95ba5511166?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | ↳ | **[Internship -Strategic Brands (REIGN)](https://jobright.ai/jobs/info/69ceec66366bb95ba551113e?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | ↳ | **[Internship - International Marketing Operations](https://jobright.ai/jobs/info/69ceec6154f00230c6d04dbb?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
-| ↳ | **[Internship - Social Content Creator](https://jobright.ai/jobs/info/69ceec6054f00230c6d04db7?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | ↳ | **[Internship - Strategic Brands (STORM)](https://jobright.ai/jobs/info/69ceec6054f00230c6d04db5?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
+| ↳ | **[Internship - Social Content Creator](https://jobright.ai/jobs/info/69ceec6054f00230c6d04db7?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | ↳ | **[Internship - Events Marketing (Rialto CA)](https://jobright.ai/jobs/info/69ceec21891d7b11cfcce52a?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Strategy & Communications Summer Internship](https://jobright.ai/jobs/info/69ceeb0a54f00230c6d04d22?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Apr 02 |
-| **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Digital Operations – Marketing Automation Intern](https://jobright.ai/jobs/info/69ceeb07cfdc6132f942dec7?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 02 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Marketing Analyst](https://jobright.ai/jobs/info/69ceeab8366bb95ba5511055?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
-| ↳ | **[Internship - Marketing Technology](https://jobright.ai/jobs/info/69ceeab7366bb95ba551104e?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
-| **[Cheil USA](https://us.cheil.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/69ceeab5cdb525785fb9d087?utm_campaign=1065&utm_source=git)** | Plano, TX | Hybrid | Apr 02 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Brand Content](https://jobright.ai/jobs/info/69ceeaa4cfdc6132f942de8c?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
-| **[Mascoma Bank](https://www.mascomabank.com/business-banking/mascoma-community-development/)** | **[Innovation & Brand Intern](https://jobright.ai/jobs/info/69caa0b08fc6090c5d44f3bd?utm_campaign=1065&utm_source=git)** | Lebanon, NH | On Site | Apr 02 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Brand Marketing - Green](https://jobright.ai/jobs/info/69ceea6e891d7b11cfcce455?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
