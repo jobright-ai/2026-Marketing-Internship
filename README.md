@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Communications Internship](https://jobright.ai/jobs/info/69cf4c23cdb525785fba12ca?utm_campaign=1065&utm_source=git)** | 1015 N Quincy St, Arlington, VA, 22201, US | Hybrid | Apr 02 |
 | **[OpenWav](https://op3n.world)** | **[Intern](https://jobright.ai/jobs/info/69cf4396366bb95ba5514bb1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
 | **[Zscaler](https://www.zscaler.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/69cf421354f00230c6d08742?utm_campaign=1065&utm_source=git)** | San Jose, California, USA | Hybrid | Apr 02 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cf408d891d7b11cfcd1ed9?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Apr 02 |
-| ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cf408d891d7b11cfcd1edb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 02 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cf408d891d7b11cfcd1edb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 02 |
+| ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cf408d891d7b11cfcd1ed9?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Apr 02 |
 | ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cf408854f00230c6d086f6?utm_campaign=1065&utm_source=git)** | Glastonbury, CT | On Site | Apr 02 |
 | ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cf4048cdb525785fba0af8?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Apr 02 |
 | **[SVR Global LLC](https://www.svrglobal.net)** | **[International Marketing Intern](https://jobright.ai/jobs/info/69cf3eadcdb525785fba0a68?utm_campaign=1065&utm_source=git)** | Canada | Remote | Apr 02 |
@@ -102,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Brand Marketing](https://jobright.ai/jobs/info/698a570eb708d23f366c0b69?utm_campaign=1065&utm_source=git)** | Toronto | Hybrid | Apr 02 |
 | **[Tevora](http://www.tevora.com/)** | **[Digital Marketing Intern (Part Time) Summer](https://jobright.ai/jobs/info/69cf06eb54f00230c6d05dcf?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Apr 02 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Study Abroad Communications & Marketing Intern (Center for Global Engagement) - IE](https://jobright.ai/jobs/info/69cf068d54f00230c6d05da0?utm_campaign=1065&utm_source=git)** | Harrisonburg, VA | On Site | Apr 02 |
-| **[MathWorks](http://www.mathworks.com)** | **[Texas A&M University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69cf051d54f00230c6d05d33?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 02 |
-| ↳ | **[Case Western Reserve University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69cf051d54f00230c6d05d35?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 02 |
+| **[MathWorks](http://www.mathworks.com)** | **[Case Western Reserve University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69cf051d54f00230c6d05d35?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 02 |
+| ↳ | **[Texas A&M University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69cf051d54f00230c6d05d33?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 02 |
 | ↳ | **[Cornell University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69cf0501398fb071abf8babf?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 02 |
 | ↳ | **[Brown University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69cf04f8cfdc6132f942ee60?utm_campaign=1065&utm_source=git)** | Natick, MA | On Site | Apr 02 |
 | ↳ | **[University of Connecticut MATLAB Student Ambassador](https://jobright.ai/jobs/info/69cf04f6cfdc6132f942ee55?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 02 |
@@ -144,11 +144,11 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Brand Marketing - Green](https://jobright.ai/jobs/info/69ceea6e891d7b11cfcce455?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Marketing & Communications](https://jobright.ai/jobs/info/69cee76ccdb525785fb9cfe5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Analyst 1-3, Marketing](https://jobright.ai/jobs/info/69cee742cfdc6132f942dd93?utm_campaign=1065&utm_source=git)** | Avon, OH | Hybrid | Apr 02 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Gaming and Esports](https://jobright.ai/jobs/info/69cf0646cdb525785fb9e17e?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
-| ↳ | **[Internship - International Trade Marketing](https://jobright.ai/jobs/info/69cf05fc366bb95ba55120df?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Collegiate Marketing](https://jobright.ai/jobs/info/69cf05fb366bb95ba55120da?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
+| ↳ | **[Internship - Gaming and Esports](https://jobright.ai/jobs/info/69cf0646cdb525785fb9e17e?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | ↳ | **[Internship - Social Media Intern (FLRT Brand)](https://jobright.ai/jobs/info/69cf067e891d7b11cfccf587?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
+| ↳ | **[Internship - International Trade Marketing](https://jobright.ai/jobs/info/69cf05fc366bb95ba55120df?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | ↳ | **[Internship - Social Content Creator (MCLAW Brands)](https://jobright.ai/jobs/info/69cf0646cdb525785fb9e17a?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
-| ↳ | **[Internship - Collegiate Marketing](https://jobright.ai/jobs/info/69cf05fb366bb95ba55120da?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | **[Level Up USA](http://leveluppromotionsinc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cee6fd366bb95ba5510e01?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Apr 02 |
 | **[Perry Ellis International](http://www.pery.com)** | **[Summer 2026 Merchandising Internship](https://jobright.ai/jobs/info/69cee6d7891d7b11cfcce22c?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Apr 02 |
 | **[BankNewport](http://banknewport.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69cee6c154f00230c6d04a60?utm_campaign=1065&utm_source=git)** | Middletown, RI | On Site | Apr 02 |
