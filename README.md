@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Virtual Marketing Intern](https://jobright.ai/jobs/info/69d07b46366bb95ba551ecb1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Actian](http://www.actian.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d07614cdb525785fbaa7cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
+| **[HNTB](http://www.hntb.com/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69d071dccdb525785fbaa674?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Apr 03 |
+| **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Associate Director of Marketing & Communications, UNLV Senior Vice Provost - Marketing and Communications [R0151157]](https://jobright.ai/jobs/info/69d0701e366bb95ba551e458?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 03 |
+| ↳ | **[Communications & Social Media Coordinator, UNLV Research Administration [R0151223]](https://jobright.ai/jobs/info/69d0701d366bb95ba551e450?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Marketing Specialist](https://jobright.ai/jobs/info/69d068e5366bb95ba551e190?utm_campaign=1065&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[Cosm](https://www.cosm.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69d0627a891d7b11cfcdb145?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Apr 03 |
 | ↳ | **[Creative Services Intern](https://jobright.ai/jobs/info/69d0625b891d7b11cfcdb07e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Search Engine Marketing Intern](https://jobright.ai/jobs/info/65077c75c5d6d59a6ff93e23?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Apr 03 |
 | **[NEP Group, Inc.](https://www.nepgroup.com/)** | **[Summer Marketing Intern (Digital & Content Operations)](https://jobright.ai/jobs/info/69cff8430b098b7a67075549?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Apr 03 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Summer Intern - Marketing and Communications](https://jobright.ai/jobs/info/69cff831366bb95ba551a471?utm_campaign=1065&utm_source=git)** | Camden, NJ, US | On Site | Apr 03 |
-| ↳ | **[Summer Intern - Marketing and Communications](https://jobright.ai/jobs/info/69cff82fcdb525785fba64f4?utm_campaign=1065&utm_source=git)** | US-NJ-Camden | On Site | Apr 03 |
-| **[VGM Group, Inc.](https://www.vgm.com)** | **[Digital Media Intern - Two Rivers Marketing](https://jobright.ai/jobs/info/69cff811cdb525785fba644c?utm_campaign=1065&utm_source=git)** | Des Moines, IA, US | On Site | Apr 03 |
-| **[Two Rivers Marketing](http://tworiversmarketing.com)** | **[Digital Media Intern - Two Rivers Marketing](https://jobright.ai/jobs/info/69cff811891d7b11cfcd7733?utm_campaign=1065&utm_source=git)** | Des Moines, IA, US | On Site | Apr 03 |
-| **[Project Petals](http://projectpetals.org/)** | **[Administrative and Communications Intern](https://jobright.ai/jobs/info/69d01aca891d7b11cfcd89b7?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Slim Chickens](http://slimchickens.com/)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/69cff55f891d7b11cfcd7626?utm_campaign=1065&utm_source=git)** | Fayetteville, AR | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
