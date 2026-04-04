@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - MARKETING AND COMMUNICATIONS](https://jobright.ai/jobs/info/69d130e80b098b7a670802df?utm_campaign=1065&utm_source=git)** | Camden, NJ | On Site | Apr 04 |
+| **[Medidata Solutions](https://www.medidata.com)** | **[Marketing Operations – Performance Team Summer Intern](https://jobright.ai/jobs/info/69b47c9e06c1ba00c545f26c?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Apr 04 |
+| **[San Antonio Express-News](https://www.expressnews.com)** | **[Digital Audience Stanford Rebele Intern](https://jobright.ai/jobs/info/6997a5b981476f6176afc426?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Apr 04 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[School of Medicine &amp;#8211; Communications Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/69d126f90b098b7a670801c1?utm_campaign=1065&utm_source=git)** | Pasadena, CA | Hybrid | Apr 04 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Media Planning, Paid Social](https://jobright.ai/jobs/info/6997e0fcce78e77b4fdc589f?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Apr 04 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69bce4ef4828227293fef698?utm_campaign=1065&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4ca203b74eb1e2c8225bd?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | On Site | Apr 04 |
@@ -110,9 +114,7 @@ For a complete list, click the following sortable link below:
 | **[NOCO Style](https://nocostyle.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d087250b098b7a6707a4e1?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Apr 03 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
 | ↳ | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
-| **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Growth Intern](https://jobright.ai/jobs/info/69d07e2ccdb525785fbaaf7a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Julius AI](https://julius.codes)** | **[Growth Intern](https://jobright.ai/jobs/info/69d07cc60b098b7a6707a013?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
-| **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Virtual Marketing Intern](https://jobright.ai/jobs/info/69d07b46366bb95ba551ecb1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d07614cdb525785fbaa7cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Associate Director of Marketing & Communications, UNLV Senior Vice Provost - Marketing and Communications [R0151157]](https://jobright.ai/jobs/info/69d0701e366bb95ba551e458?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 03 |
 | ↳ | **[Communications & Social Media Coordinator, UNLV Research Administration [R0151223]](https://jobright.ai/jobs/info/69d0701d366bb95ba551e450?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBC Real Estate](https://www.cbcrealestate.com/)** | **[Baseball Sponsorship Intern](https://jobright.ai/jobs/info/69d031bf54f00230c6d103e1?utm_campaign=1065&utm_source=git)** | Durham, NC, US | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Shopper Insights](https://jobright.ai/jobs/info/69d031b254f00230c6d1039e?utm_campaign=1065&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | ↳ | **[Internship - Communications Specialist](https://jobright.ai/jobs/info/69d031b054f00230c6d1038b?utm_campaign=1065&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
-| **[Merit Sensor Systems, Inc.](https://meritsensor.com)** | **[Marketing Intern I](https://jobright.ai/jobs/info/69d03159891d7b11cfcd9a1c?utm_campaign=1065&utm_source=git)** | South Jordan, UT | On Site | Apr 03 |
-| **[Kris Lindahl Real Estate](https://www.krislindahl.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d0311d366bb95ba551c759?utm_campaign=1065&utm_source=git)** | Twin Cities Area | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
