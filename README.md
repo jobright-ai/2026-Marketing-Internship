@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loyal Locker](https://www.joinloyallocker.com)** | **[Marketing & Community Growth Intern](https://jobright.ai/jobs/info/69d1696f366bb95ba5526711?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 04 |
+| **[Triangle Offense, LLC](https://teamtriangleoffense.com)** | **[Social Media and Content Coordinator](https://jobright.ai/jobs/info/69d16928cdb525785fbb2655?utm_campaign=1065&utm_source=git)** | Manchester, NH | Hybrid | Apr 04 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Email Marketing](https://jobright.ai/jobs/info/69a692d5708b430a607af76a?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Apr 04 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68ec6620ee50895bd70b485f?utm_campaign=1065&utm_source=git)** | Panama City Beach, FL | On Site | Apr 04 |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Segment Marketing Intern](https://jobright.ai/jobs/info/69b4d27306c1ba00c546530a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Media Planning](https://jobright.ai/jobs/info/6998ed56ce78e77b4fdd7dd7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
+| **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Knowledge & Content Intern](https://jobright.ai/jobs/info/6944b5b594730b739877f9a6?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 04 |
 | **[Kiewit](http://www.kiewit.com)** | **[Marketing/Proposal Intern (Summer 2026)](https://jobright.ai/jobs/info/69d157fdcdb525785fbb1f76?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Apr 04 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/6997e87b81476f6176b02ef0?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Apr 04 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Market Research Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69d1542f366bb95ba5525f22?utm_campaign=1065&utm_source=git)** | Covington, GA | On Site | Apr 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d050e5cfdc6132f943a715?utm_campaign=1065&utm_source=git)** | Silicon Valley | Hybrid | Apr 03 |
 | **[Successful Black Parenting Magazine](https://SuccessfulBlackParenting.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d04c4bcfdc6132f943a618?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Options For All](http://optionsforall.org)** | **[Marketing and Social Media Intern (Summer 2026)](https://jobright.ai/jobs/info/69d068f2cdb525785fbaa1e9?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
-| **[Capitol Broadcasting Company](http://www.capitolbroadcasting.com)** | **[Baseball Sponsorship Intern](https://jobright.ai/jobs/info/69d046600b098b7a670781a9?utm_campaign=1065&utm_source=git)** | Triangle Area | On Site | Apr 03 |
-| **[Bernardus Winery](https://www.bernardus.com/)** | **[Marketing & Digital Design Internship](https://jobright.ai/jobs/info/69d0435a891d7b11cfcda11d?utm_campaign=1065&utm_source=git)** | Carmel Valley, CA | On Site | Apr 03 |
-| **[Mangone Law Firm, LLC](https://www.mangonelawfirmllc.com/)** | **[Bilingual Social Media Intern](https://jobright.ai/jobs/info/69d05f8e366bb95ba551daca?utm_campaign=1065&utm_source=git)** | Morris Plains, NJ | On Site | Apr 03 |
-| **[Merit Medical Systems, Inc.](http://www.merit.com/)** | **[Marketing Intern I](https://jobright.ai/jobs/info/69d03da554f00230c6d108bb?utm_campaign=1065&utm_source=git)** | South Jordan, UT | On Site | Apr 03 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Ecommerce](https://jobright.ai/jobs/info/69d03d1fcfdc6132f9439b88?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
-| ↳ | **[Internship - Omni Channel and Digital Commerce](https://jobright.ai/jobs/info/69d03bf0891d7b11cfcd9e2e?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
-| **[VGM Group, Inc.](https://www.vgm.com)** | **[Digital Media Intern - Two Rivers Marketing](https://jobright.ai/jobs/info/69d0372c54f00230c6d10695?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
