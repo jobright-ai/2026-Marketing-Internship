@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Strategic Analytics](https://jobright.ai/jobs/info/699789b381476f6176af9f59?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 04 |
+| **[GreenLeaf, a Chefs' Warehouse company](https://greenleafsf.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/697d26ba3f57a3356966e2b0?utm_campaign=1065&utm_source=git)** | Brisbane, CA | Hybrid | Apr 04 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6997536e81476f6176af7a67?utm_campaign=1065&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Apr 04 |
+| **[IW Group Inc.](http://iwgroupinc.com)** | **[Intern](https://jobright.ai/jobs/info/699fdf76ce78e77b4fe5cb3a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | **[Honeywell](http://www.honeywell.com)** | **[Marketing - Summer 2026 Intern](https://jobright.ai/jobs/info/69b62bd206c1ba00c54803b7?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 04 |
 | **[Hearst Health](http://www.hearsthealth.com)** | **[Creative & Product Marketing Intern](https://jobright.ai/jobs/info/69a65231d706a731db3832f0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 04 |
@@ -101,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[UEG Summer Intern](https://jobright.ai/jobs/info/69b46c3d5697383741393b0a?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
 | **[ProPharma](http://www.propharmagroup.com/)** | **[Intern: Marketing (Raleigh-based)](https://jobright.ai/jobs/info/69b47a0c06c1ba00c545ec93?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Apr 04 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Marketing Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/69c0b5157798f73e35e53a8e?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 04 |
-| **[Snohomish County, WA](https://www.snohomishcountywa.gov/)** | **[Intern - Communications (Fair, Parks & Recreation) - Seasonal](https://jobright.ai/jobs/info/69d0dcbd891d7b11cfce0277?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Apr 04 |
 | **[Logitech](https://www.logitech.com)** | **[Affiliate & Creator Marketing Intern](https://jobright.ai/jobs/info/69b4856b5697383741396919?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Apr 04 |
 | **[Edelman](http://www.edelman.com)** | **[UEG Summer Intern](https://jobright.ai/jobs/info/69b46c345697383741393ade?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
 | **[Icertis](https://www.icertis.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be1315b1060245628376ca?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta-Montrose Electric Association](https://www.dmea.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d0370e366bb95ba551ca5d?utm_campaign=1065&utm_source=git)** | Montrose,CO,US | On Site | Apr 03 |
 | **[TD SYNNEX Multi-Country Area (English)](https://lac.tdsynnex.com/mca/en/)** | **[Public Sector Intern, Market Research - DLT](https://jobright.ai/jobs/info/69d036e554f00230c6d105a8?utm_campaign=1065&utm_source=git)** | Herndon, Virginia, United States | On Site | Apr 03 |
 | ↳ | **[Public Sector Intern, Market Research - DLT](https://jobright.ai/jobs/info/69d036cc0b098b7a67077a54?utm_campaign=1065&utm_source=git)** | Greenville, South Carolina, United States | On Site | Apr 03 |
-| **[MarkitAds](https://markitads.com/)** | **[AI & Marketing Strategy Intern — Remote (Summer 2026)](https://jobright.ai/jobs/info/69d03416891d7b11cfcd9c27?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
-| **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (Immediate and ON-SITE)](https://jobright.ai/jobs/info/69d033f7cdb525785fba896c?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 03 |
-| **[CBC New Media Group, LLC](https://www.linkedin.com/company/5866674)** | **[Baseball Sponsorship Intern](https://jobright.ai/jobs/info/69d031e6cfdc6132f94396ed?utm_campaign=1065&utm_source=git)** | Durham, NC, US | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
