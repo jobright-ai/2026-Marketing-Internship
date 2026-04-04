@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Premium Marketing Analytics (Crypto.com Arena)](https://jobright.ai/jobs/info/69c6f38e1b5ad02887388b8d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
+| **[Vail Valley Foundation](http://vvf.org/)** | **[Development Events Internship](https://jobright.ai/jobs/info/69d0b068cfdc6132f943e48b?utm_campaign=1065&utm_source=git)** | Avon, CO | On Site | Apr 03 |
 | **[Clerkie](https://clerkie.io)** | **[GTM Intern](https://jobright.ai/jobs/info/69d0a49acfdc6132f943d7e9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[CPG Innovation & Insights Intern](https://jobright.ai/jobs/info/69d09f630b098b7a6707b54a?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Apr 03 |
 | **[Harvey Media](www.harveymediallc.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69d095a7366bb95ba551fca3?utm_campaign=1065&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Marketing Specialist](https://jobright.ai/jobs/info/69d08f560b098b7a6707a9c4?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[UJA Federation of Greater Toronto](https://www.jewishtoronto.com/)** | **[Walk with Israel Intern](https://jobright.ai/jobs/info/69d08bc9366bb95ba551f857?utm_campaign=1065&utm_source=git)** | North York, ON | On Site | Apr 03 |
-| **[Ottawa County](https://miottawa.org)** | **[Communications Intern - Fall 2026](https://jobright.ai/jobs/info/69d088d354f00230c6d13076?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Apr 03 |
 | **[Crunch Fitness, Primetime Fitness LLC](https://linktr.ee/primetimefitnessllc)** | **[Brand Ambassador In Person Hiring Event](https://jobright.ai/jobs/info/69d0a77c0b098b7a6707b967?utm_campaign=1065&utm_source=git)** | Rochester Hills, MI | On Site | Apr 03 |
 | **[NOCO Style](https://nocostyle.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d087250b098b7a6707a4e1?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Apr 03 |
-| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
-| ↳ | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
+| ↳ | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
 | **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Growth Intern](https://jobright.ai/jobs/info/69d07e2ccdb525785fbaaf7a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Julius AI](https://julius.codes)** | **[Growth Intern](https://jobright.ai/jobs/info/69d07cc60b098b7a6707a013?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Virtual Marketing Intern](https://jobright.ai/jobs/info/69d07b46366bb95ba551ecb1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship -  Media Planning, Paid Search](https://jobright.ai/jobs/info/699789be81476f6176af9f61?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
 | **[Airbnb](https://www.airbnb.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69b3277eae2a534885ea8861?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Kaleidoscope Park](https://linktr.ee/kaleidoscopepark)** | **[INTERN - Marketing and Communications](https://jobright.ai/jobs/info/69d001ae891d7b11cfcd7b3c?utm_campaign=1065&utm_source=git)** | Dallas, TX, US | On Site | Apr 03 |
-| **[KCRW](http://www.kcrw.com)** | **[Audience Intern](https://jobright.ai/jobs/info/69d001a2cfdc6132f943773d?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, US | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
