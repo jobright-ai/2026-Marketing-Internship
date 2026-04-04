@@ -63,9 +63,10 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Marketing Specialist](https://jobright.ai/jobs/info/69d08f560b098b7a6707a9c4?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[UJA Federation of Greater Toronto](https://www.jewishtoronto.com/)** | **[Walk with Israel Intern](https://jobright.ai/jobs/info/69d08bc9366bb95ba551f857?utm_campaign=1065&utm_source=git)** | North York, ON | On Site | Apr 03 |
 | **[Ottawa County](https://miottawa.org)** | **[Communications Intern - Fall 2026](https://jobright.ai/jobs/info/69d088d354f00230c6d13076?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Apr 03 |
+| **[Crunch Fitness, Primetime Fitness LLC](https://linktr.ee/primetimefitnessllc)** | **[Brand Ambassador In Person Hiring Event](https://jobright.ai/jobs/info/69d0a77c0b098b7a6707b967?utm_campaign=1065&utm_source=git)** | Rochester Hills, MI | On Site | Apr 03 |
 | **[NOCO Style](https://nocostyle.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d087250b098b7a6707a4e1?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Apr 03 |
-| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
-| ↳ | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
+| ↳ | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
 | **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Growth Intern](https://jobright.ai/jobs/info/69d07e2ccdb525785fbaaf7a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Julius AI](https://julius.codes)** | **[Growth Intern](https://jobright.ai/jobs/info/69d07cc60b098b7a6707a013?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Virtual Marketing Intern](https://jobright.ai/jobs/info/69d07b46366bb95ba551ecb1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Airbnb](https://www.airbnb.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69b3277eae2a534885ea8861?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Kaleidoscope Park](https://linktr.ee/kaleidoscopepark)** | **[INTERN - Marketing and Communications](https://jobright.ai/jobs/info/69d001ae891d7b11cfcd7b3c?utm_campaign=1065&utm_source=git)** | Dallas, TX, US | On Site | Apr 03 |
 | **[KCRW](http://www.kcrw.com)** | **[Audience Intern](https://jobright.ai/jobs/info/69d001a2cfdc6132f943773d?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, US | Hybrid | Apr 03 |
-| **[Atlas Post Acute](https://atlas-pa.com/)** | **[Web Operations Intern](https://jobright.ai/jobs/info/69d00193891d7b11cfcd7abd?utm_campaign=1065&utm_source=git)** | Remote - Utah | Remote | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
