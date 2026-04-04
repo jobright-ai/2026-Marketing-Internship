@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69ccbd12366bb95ba54f5fb9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b495a806c1ba00c5461453?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Apr 04 |
+| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Seniors Housing/HUD, Mortgage Banking](https://jobright.ai/jobs/info/6998cabace78e77b4fdd5c4e?utm_campaign=1065&utm_source=git)** | Chevy Chase, Maryland, United States | On Site | Apr 04 |
+| **[Edelman](http://www.edelman.com)** | **[UEG Summer Intern](https://jobright.ai/jobs/info/69b46cff06c1ba00c545dbba?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| **[Network Health WI](https://networkhealth.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69b479e206c1ba00c545ec55?utm_campaign=1065&utm_source=git)** | Menasha, WI | On Site | Apr 04 |
+| **[Nasuni](https://www.nasuni.com)** | **[Communications & Customer Advocacy Intern](https://jobright.ai/jobs/info/69b5267506c1ba00c546ea06?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Apr 04 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69b47d375697383741395acd?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 04 |
+| **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcasters](https://jobright.ai/jobs/info/69b4430b06c1ba00c5457915?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Apr 04 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Spend Management and Finance, Global Events](https://jobright.ai/jobs/info/69d0e267366bb95ba552359f?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Apr 04 |
+| **[Lennox](http://www.lennox.com)** | **[Growth Strategy Intern](https://jobright.ai/jobs/info/69b48d5e56973837413973d6?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Apr 04 |
+| **[Edelman](http://www.edelman.com)** | **[UEG Summer Intern](https://jobright.ai/jobs/info/69b46c3d5697383741393b0a?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
+| **[ProPharma](http://www.propharmagroup.com/)** | **[Intern: Marketing (Raleigh-based)](https://jobright.ai/jobs/info/69b47a0c06c1ba00c545ec93?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Apr 04 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Marketing Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/69c0b5157798f73e35e53a8e?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 04 |
 | **[Snohomish County, WA](https://www.snohomishcountywa.gov/)** | **[Intern - Communications (Fair, Parks & Recreation) - Seasonal](https://jobright.ai/jobs/info/69d0dcbd891d7b11cfce0277?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Apr 04 |
 | **[Logitech](https://www.logitech.com)** | **[Affiliate & Creator Marketing Intern](https://jobright.ai/jobs/info/69b4856b5697383741396919?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Apr 04 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waters Edge Winery Midlothian](https://wew.wine/midlothian/)** | **[Social Media Intern (Internship Credit Only)](https://jobright.ai/jobs/info/69d015e10b098b7a6707656c?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Apr 03 |
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/699fde1881476f6176b99859?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 03 |
 | **[Hirebotics](http://www.hirebotics.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d01561366bb95ba551b440?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Apr 03 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69d0111b366bb95ba551b1d0?utm_campaign=1065&utm_source=git)** | Newport, RI | On Site | Apr 03 |
-| **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - MARKETING](https://jobright.ai/jobs/info/69d01115366bb95ba551b1b4?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Apr 03 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Merchandising Buying Intern](https://jobright.ai/jobs/info/69d00ff354f00230c6d0edee?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 03 |
-| **[Kerkering Barberio](http://kbpensionservices.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d00fe854f00230c6d0eddc?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Apr 03 |
-| **[Terma Group](https://www.terma.com)** | **[Market Analysis Intern](https://jobright.ai/jobs/info/69d00f5854f00230c6d0eda0?utm_campaign=1065&utm_source=git)** | Warner Robins, GA | On Site | Apr 03 |
-| **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Intern - MARCOMM](https://jobright.ai/jobs/info/69d00f44366bb95ba551b0f8?utm_campaign=1065&utm_source=git)** | Sanford, FL | On Site | Apr 03 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/689a35ad5574fd6bc0c80958?utm_campaign=1065&utm_source=git)** | Ellenton, FL | On Site | Apr 03 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Equine Marketing Intern](https://jobright.ai/jobs/info/68c7c26af42a830e1c7e7587?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Apr 03 |
-| **[Conner Prairie](http://www.connerprairie.org)** | **[Audience Research and Evaluation Intern - Summer 2026 - $14/hour up to 180 hours](https://jobright.ai/jobs/info/69d00d0954f00230c6d0ec7b?utm_campaign=1065&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038 | On Site | Apr 03 |
-| **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Intern - MARCOMM](https://jobright.ai/jobs/info/69d00d02cdb525785fba7037?utm_campaign=1065&utm_source=git)** | Sanford Office, 750 Monroe Road, Sanford, Florida, United States of America | On Site | Apr 03 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69d00c07891d7b11cfcd7dd1?utm_campaign=1065&utm_source=git)** | Newport Rhode Island Area | On Site | Apr 03 |
-| **[Rubrik](http://rubrik.com)** | **[Product Marketing Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/69d00654891d7b11cfcd7d11?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
