@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - eComm - LIC](https://jobright.ai/jobs/info/69d0f33dcdb525785fbafc58?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
+| **[Genesys](https://www.genesys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e05a1b5ad02887387c3b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Remote | Apr 04 |
+| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6da01b773006330b7380b?utm_campaign=1065&utm_source=git)** | Durham, NC | Remote | Apr 04 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69ccbd12366bb95ba54f5fb9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b495a806c1ba00c5461453?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Apr 04 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Seniors Housing/HUD, Mortgage Banking](https://jobright.ai/jobs/info/6998cabace78e77b4fdd5c4e?utm_campaign=1065&utm_source=git)** | Chevy Chase, Maryland, United States | On Site | Apr 04 |
@@ -91,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Julius AI](https://julius.codes)** | **[Growth Intern](https://jobright.ai/jobs/info/69d07cc60b098b7a6707a013?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Virtual Marketing Intern](https://jobright.ai/jobs/info/69d07b46366bb95ba551ecb1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d07614cdb525785fbaa7cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
-| **[HNTB](http://www.hntb.com/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69d071dccdb525785fbaa674?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Apr 03 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Associate Director of Marketing & Communications, UNLV Senior Vice Provost - Marketing and Communications [R0151157]](https://jobright.ai/jobs/info/69d0701e366bb95ba551e458?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 03 |
 | ↳ | **[Communications & Social Media Coordinator, UNLV Research Administration [R0151223]](https://jobright.ai/jobs/info/69d0701d366bb95ba551e450?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Marketing Specialist](https://jobright.ai/jobs/info/69d068e5366bb95ba551e190?utm_campaign=1065&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Capitol Broadcasting Company](http://www.capitolbroadcasting.com)** | **[Baseball Sponsorship Intern](https://jobright.ai/jobs/info/69d046600b098b7a670781a9?utm_campaign=1065&utm_source=git)** | Triangle Area | On Site | Apr 03 |
 | **[Bernardus Winery](https://www.bernardus.com/)** | **[Marketing & Digital Design Internship](https://jobright.ai/jobs/info/69d0435a891d7b11cfcda11d?utm_campaign=1065&utm_source=git)** | Carmel Valley, CA | On Site | Apr 03 |
 | **[Mangone Law Firm, LLC](https://www.mangonelawfirmllc.com/)** | **[Bilingual Social Media Intern](https://jobright.ai/jobs/info/69d05f8e366bb95ba551daca?utm_campaign=1065&utm_source=git)** | Morris Plains, NJ | On Site | Apr 03 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69d0408e891d7b11cfcda07e?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 03 |
 | **[Merit Medical Systems, Inc.](http://www.merit.com/)** | **[Marketing Intern I](https://jobright.ai/jobs/info/69d03da554f00230c6d108bb?utm_campaign=1065&utm_source=git)** | South Jordan, UT | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Ecommerce](https://jobright.ai/jobs/info/69d03d1fcfdc6132f9439b88?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | ↳ | **[Internship - Omni Channel and Digital Commerce](https://jobright.ai/jobs/info/69d03bf0891d7b11cfcd9e2e?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Danaher Corporation](https://www.danaher.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d01956366bb95ba551b4bb?utm_campaign=1065&utm_source=git)** | Deer Park, Illinois, United States | On Site | Apr 03 |
 | **[Waters Edge Winery Midlothian](https://wew.wine/midlothian/)** | **[Social Media Intern (Internship Credit Only)](https://jobright.ai/jobs/info/69d015e10b098b7a6707656c?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Apr 03 |
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/699fde1881476f6176b99859?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 03 |
-| **[Hirebotics](http://www.hirebotics.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d01561366bb95ba551b440?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
