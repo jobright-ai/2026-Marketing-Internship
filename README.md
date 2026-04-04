@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clerkie](https://clerkie.io)** | **[GTM Intern](https://jobright.ai/jobs/info/69d0a49acfdc6132f943d7e9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
+| **[Peet's Coffee](http://www.peets.com/)** | **[CPG Innovation & Insights Intern](https://jobright.ai/jobs/info/69d09f630b098b7a6707b54a?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Apr 03 |
+| **[Harvey Media](www.harveymediallc.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69d095a7366bb95ba551fca3?utm_campaign=1065&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Apr 03 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Marketing Specialist](https://jobright.ai/jobs/info/69d08f560b098b7a6707a9c4?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
+| **[UJA Federation of Greater Toronto](https://www.jewishtoronto.com/)** | **[Walk with Israel Intern](https://jobright.ai/jobs/info/69d08bc9366bb95ba551f857?utm_campaign=1065&utm_source=git)** | North York, ON | On Site | Apr 03 |
 | **[Ottawa County](https://miottawa.org)** | **[Communications Intern - Fall 2026](https://jobright.ai/jobs/info/69d088d354f00230c6d13076?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Apr 03 |
-| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Social Media](https://jobright.ai/jobs/info/69d088d354f00230c6d13072?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Apr 03 |
 | **[NOCO Style](https://nocostyle.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d087250b098b7a6707a4e1?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Apr 03 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
 | ↳ | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
@@ -132,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69d01a450b098b7a670765fd?utm_campaign=1065&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Apr 03 |
 | **[Danaher Corporation](https://www.danaher.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d01956366bb95ba551b4bb?utm_campaign=1065&utm_source=git)** | Deer Park, Illinois, United States | On Site | Apr 03 |
 | **[Waters Edge Winery Midlothian](https://wew.wine/midlothian/)** | **[Social Media Intern (Internship Credit Only)](https://jobright.ai/jobs/info/69d015e10b098b7a6707656c?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Apr 03 |
-| **[Sabel Systems](https://sabelsystems.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69d015cc366bb95ba551b46e?utm_campaign=1065&utm_source=git)** | Tysons Corner, VA | Hybrid | Apr 03 |
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/699fde1881476f6176b99859?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 03 |
 | **[Hirebotics](http://www.hirebotics.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d01561366bb95ba551b440?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Apr 03 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69d0111b366bb95ba551b1d0?utm_campaign=1065&utm_source=git)** | Newport, RI | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kaleidoscope Park](https://linktr.ee/kaleidoscopepark)** | **[INTERN - Marketing and Communications](https://jobright.ai/jobs/info/69d001ae891d7b11cfcd7b3c?utm_campaign=1065&utm_source=git)** | Dallas, TX, US | On Site | Apr 03 |
 | **[KCRW](http://www.kcrw.com)** | **[Audience Intern](https://jobright.ai/jobs/info/69d001a2cfdc6132f943773d?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, US | Hybrid | Apr 03 |
 | **[Atlas Post Acute](https://atlas-pa.com/)** | **[Web Operations Intern](https://jobright.ai/jobs/info/69d00193891d7b11cfcd7abd?utm_campaign=1065&utm_source=git)** | Remote - Utah | Remote | Apr 03 |
-| **[SKDK](http://skdknick.com)** | **[PR Internship, Sloane and Company- Summer 2026](https://jobright.ai/jobs/info/69b3521ea8ac8e70ff678b8e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
-| **[Singapore Math](https://www.singaporemath.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cfff28366bb95ba551a70d?utm_campaign=1065&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Apr 03 |
-| **[Interpret](https://interpret.la/)** | **[Market Research Intern-to-hire – Gaming & Technology Insights (LA – In-Person)](https://jobright.ai/jobs/info/69cfff13891d7b11cfcd7a4f?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
