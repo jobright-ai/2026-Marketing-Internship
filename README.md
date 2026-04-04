@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Marketing Specialist](https://jobright.ai/jobs/info/69d068e5366bb95ba551e190?utm_campaign=1065&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
+| **[Cosm](https://www.cosm.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69d0627a891d7b11cfcdb145?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Apr 03 |
+| ↳ | **[Creative Services Intern](https://jobright.ai/jobs/info/69d0625b891d7b11cfcdb07e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
+| **[SUMMITHOUSE](summithousehq.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d06208891d7b11cfcdae04?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Clerkie](https://clerkie.io)** | **[GTM Intern](https://jobright.ai/jobs/info/69d05d2dcfdc6132f943a9b5?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Marketing Manager](https://jobright.ai/jobs/info/69bc820e5b89c002acf240d9?utm_campaign=1065&utm_source=git)** | United States Remote | Remote | Apr 03 |
 | **[TexL Campaigns](https://texlcampaigns.com/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69d05b7b0b098b7a67078a82?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 03 |
@@ -74,11 +78,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d050f3366bb95ba551d75b?utm_campaign=1065&utm_source=git)** | San Francisco | Hybrid | Apr 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d050e5cfdc6132f943a715?utm_campaign=1065&utm_source=git)** | Silicon Valley | Hybrid | Apr 03 |
 | **[Successful Black Parenting Magazine](https://SuccessfulBlackParenting.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d04c4bcfdc6132f943a618?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Options For All](http://optionsforall.org)** | **[Marketing and Social Media Intern (Summer 2026)](https://jobright.ai/jobs/info/69d068f2cdb525785fbaa1e9?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
 | **[Capitol Broadcasting Company](http://www.capitolbroadcasting.com)** | **[Baseball Sponsorship Intern](https://jobright.ai/jobs/info/69d046600b098b7a670781a9?utm_campaign=1065&utm_source=git)** | Triangle Area | On Site | Apr 03 |
 | **[Bernardus Winery](https://www.bernardus.com/)** | **[Marketing & Digital Design Internship](https://jobright.ai/jobs/info/69d0435a891d7b11cfcda11d?utm_campaign=1065&utm_source=git)** | Carmel Valley, CA | On Site | Apr 03 |
 | **[Mangone Law Firm, LLC](https://www.mangonelawfirmllc.com/)** | **[Bilingual Social Media Intern](https://jobright.ai/jobs/info/69d05f8e366bb95ba551daca?utm_campaign=1065&utm_source=git)** | Morris Plains, NJ | On Site | Apr 03 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69d0408e891d7b11cfcda07e?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 03 |
-| **[State of Michigan](http://www.michigan.gov)** | **[MDCR - Communications Division Intern](https://jobright.ai/jobs/info/69d03f020b098b7a67077d8d?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Apr 03 |
 | **[Merit Medical Systems, Inc.](http://www.merit.com/)** | **[Marketing Intern I](https://jobright.ai/jobs/info/69d03da554f00230c6d108bb?utm_campaign=1065&utm_source=git)** | South Jordan, UT | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Ecommerce](https://jobright.ai/jobs/info/69d03d1fcfdc6132f9439b88?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | ↳ | **[Internship - Omni Channel and Digital Commerce](https://jobright.ai/jobs/info/69d03bf0891d7b11cfcd9e2e?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
@@ -105,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[SPRING Q2 Celebrity PR Internship](https://jobright.ai/jobs/info/69d029dacdb525785fba7d8b?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d02724cfdc6132f9438b00?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | Apr 03 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Commercial Operations Communications](https://jobright.ai/jobs/info/69b327dea8ac8e70ff67659a?utm_campaign=1065&utm_source=git)** | Foster City | On Site | Apr 03 |
+| **[Mid-Ohio Food Collective](http://www.mofc.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d068e0366bb95ba551e16a?utm_campaign=1065&utm_source=git)** | Grove City,OH,US | On Site | Apr 03 |
 | **[Communities Foundation of Texas](http://www.cftexas.org)** | **[INTERN - Marketing and Communications](https://jobright.ai/jobs/info/69d022d80b098b7a67076aae?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
 | **[Locus Robotics](http://www.locusrobotics.com)** | **[Marketing Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/69b9bc7406c1ba00c54bd615?utm_campaign=1065&utm_source=git)** | Wilmington, MA | Hybrid | Apr 03 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Shareholder Relations Intern Paid Internship](https://jobright.ai/jobs/info/69d01f770b098b7a670768a3?utm_campaign=1065&utm_source=git)** | Anchorage, AK | On Site | Apr 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Two Rivers Marketing](http://tworiversmarketing.com)** | **[Digital Media Intern - Two Rivers Marketing](https://jobright.ai/jobs/info/69cff811891d7b11cfcd7733?utm_campaign=1065&utm_source=git)** | Des Moines, IA, US | On Site | Apr 03 |
 | **[Project Petals](http://projectpetals.org/)** | **[Administrative and Communications Intern](https://jobright.ai/jobs/info/69d01aca891d7b11cfcd89b7?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Slim Chickens](http://slimchickens.com/)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/69cff55f891d7b11cfcd7626?utm_campaign=1065&utm_source=git)** | Fayetteville, AR | On Site | Apr 03 |
-| **[Kansas State University](http://www.k-state.edu/)** | **[Communications and Marketing Specialist](https://jobright.ai/jobs/info/69d022facdb525785fba79c0?utm_campaign=1065&utm_source=git)** | Manhattan, KS | Hybrid | Apr 03 |
-| **[Westchester Network for Professionals](https://www.wnfp.org)** | **[NextGen Event Marketing & Communications Internship (Remote)](https://jobright.ai/jobs/info/69cff28ccdb525785fba622d?utm_campaign=1065&utm_source=git)** | 119 Pondfield Rd, Bronxville, NY 10708, USA | Remote | Apr 03 |
-| **[Peoples Bank](http://www.peoplesbank-wa.com)** | **[Peoples Bank Marketing & Events Intern](https://jobright.ai/jobs/info/69cff282cfdc6132f9437141?utm_campaign=1065&utm_source=git)** | Bellingham,WA,US | On Site | Apr 03 |
-| **[Ashley Global Retail](https://www.ashleyfurniture.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69cff1bccfdc6132f9436c85?utm_campaign=1065&utm_source=git)** | Arcadia, Wisconsin, United States | On Site | Apr 03 |
-| **[Warner Bros. Discovery](https://wbd.com)** | **[CRM Marketing Operations LATAM Intern: Miami Summer 2026](https://jobright.ai/jobs/info/69cff1a2cdb525785fba5d49?utm_campaign=1065&utm_source=git)** | FL Miami 6505 Blue Lagoon Dri | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
