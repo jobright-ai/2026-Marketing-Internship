@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ottawa County](https://miottawa.org)** | **[Communications Intern - Fall 2026](https://jobright.ai/jobs/info/69d088d354f00230c6d13076?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Apr 03 |
+| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Social Media](https://jobright.ai/jobs/info/69d088d354f00230c6d13072?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Apr 03 |
+| **[NOCO Style](https://nocostyle.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d087250b098b7a6707a4e1?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Apr 03 |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
+| ↳ | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
+| **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Growth Intern](https://jobright.ai/jobs/info/69d07e2ccdb525785fbaaf7a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Julius AI](https://julius.codes)** | **[Growth Intern](https://jobright.ai/jobs/info/69d07cc60b098b7a6707a013?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Virtual Marketing Intern](https://jobright.ai/jobs/info/69d07b46366bb95ba551ecb1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d07614cdb525785fbaa7cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[HNTB](http://www.hntb.com/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69d071dccdb525785fbaa674?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Apr 03 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SKDK](http://skdknick.com)** | **[PR Internship, Sloane and Company- Summer 2026](https://jobright.ai/jobs/info/69b3521ea8ac8e70ff678b8e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Singapore Math](https://www.singaporemath.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cfff28366bb95ba551a70d?utm_campaign=1065&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Apr 03 |
 | **[Interpret](https://interpret.la/)** | **[Market Research Intern-to-hire – Gaming & Technology Insights (LA – In-Person)](https://jobright.ai/jobs/info/69cfff13891d7b11cfcd7a4f?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Apr 03 |
-| **[Rubrik](http://rubrik.com)** | **[Social Media Intern, Summer 2026](https://jobright.ai/jobs/info/69cffdb9891d7b11cfcd7a0b?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Apr 03 |
-| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69d01f6d0b098b7a6707684f?utm_campaign=1065&utm_source=git)** | United States | On Site | Apr 03 |
-| **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69cff889cfdc6132f943743e?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | Apr 03 |
-| **[King Features - A unit of Hearst](https://kingfeatures.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6997f9a481476f6176b05e07?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Search Engine Marketing Intern](https://jobright.ai/jobs/info/65077c75c5d6d59a6ff93e23?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Apr 03 |
-| **[NEP Group, Inc.](https://www.nepgroup.com/)** | **[Summer Marketing Intern (Digital & Content Operations)](https://jobright.ai/jobs/info/69cff8430b098b7a67075549?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Apr 03 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Summer Intern - Marketing and Communications](https://jobright.ai/jobs/info/69cff831366bb95ba551a471?utm_campaign=1065&utm_source=git)** | Camden, NJ, US | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
