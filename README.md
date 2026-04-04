@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kansas City Chiefs](https://www.chiefs.com)** | **[LoneBear/H.Roe Bartle Rotational Intern](https://jobright.ai/jobs/info/69d1774acfdc6132f94439bc?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Apr 04 |
+| **[Middle Seat](https://middleseat.co/)** | **[Digital Ads Intern (Summer 2026)](https://jobright.ai/jobs/info/69d1774854f00230c6d1a3d8?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 04 |
+| **[Silver Sentinel](https://www.linkedin.com/company/108054754)** | **[Fundraising & Strategy Intern](https://jobright.ai/jobs/info/69d16c190b098b7a670818dd?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
+| **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Branding Insights and Marketing Coordinator](https://jobright.ai/jobs/info/69d16bf754f00230c6d1a2e3?utm_campaign=1065&utm_source=git)** | Boothbay, ME | On Site | Apr 04 |
+| **[H&K Group](https://hk-ksa.com/)** | **[Sales and Marketing Summer Intern 2026](https://jobright.ai/jobs/info/69d16bd7366bb95ba552678f?utm_campaign=1065&utm_source=git)** | Skippack, PA | On Site | Apr 04 |
 | **[Loyal Locker](https://www.joinloyallocker.com)** | **[Marketing & Community Growth Intern](https://jobright.ai/jobs/info/69d1696f366bb95ba5526711?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 04 |
 | **[Triangle Offense, LLC](https://teamtriangleoffense.com)** | **[Social Media and Content Coordinator](https://jobright.ai/jobs/info/69d16928cdb525785fbb2655?utm_campaign=1065&utm_source=git)** | Manchester, NH | Hybrid | Apr 04 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Email Marketing](https://jobright.ai/jobs/info/69a692d5708b430a607af76a?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Apr 04 |
@@ -122,15 +127,14 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Spend Management and Finance, Global Events](https://jobright.ai/jobs/info/69d0d53c366bb95ba5522fd4?utm_campaign=1065&utm_source=git)** | Alpharetta, GA, US, 30009 | On Site | Apr 04 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Premium Marketing Analytics (Crypto.com Arena)](https://jobright.ai/jobs/info/69c6f38e1b5ad02887388b8d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Vail Valley Foundation](http://vvf.org/)** | **[Development Events Internship](https://jobright.ai/jobs/info/69d0b068cfdc6132f943e48b?utm_campaign=1065&utm_source=git)** | Avon, CO | On Site | Apr 03 |
-| **[Clerkie](https://clerkie.io)** | **[GTM Intern](https://jobright.ai/jobs/info/69d0a49acfdc6132f943d7e9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[CPG Innovation & Insights Intern](https://jobright.ai/jobs/info/69d09f630b098b7a6707b54a?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Apr 03 |
 | **[Harvey Media](www.harveymediallc.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69d095a7366bb95ba551fca3?utm_campaign=1065&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Marketing Specialist](https://jobright.ai/jobs/info/69d08f560b098b7a6707a9c4?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[UJA Federation of Greater Toronto](https://www.jewishtoronto.com/)** | **[Walk with Israel Intern](https://jobright.ai/jobs/info/69d08bc9366bb95ba551f857?utm_campaign=1065&utm_source=git)** | North York, ON | On Site | Apr 03 |
 | **[Crunch Fitness, Primetime Fitness LLC](https://linktr.ee/primetimefitnessllc)** | **[Brand Ambassador In Person Hiring Event](https://jobright.ai/jobs/info/69d0a77c0b098b7a6707b967?utm_campaign=1065&utm_source=git)** | Rochester Hills, MI | On Site | Apr 03 |
 | **[NOCO Style](https://nocostyle.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d087250b098b7a6707a4e1?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Apr 03 |
-| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
-| ↳ | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
+| ↳ | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
 | **[Julius AI](https://julius.codes)** | **[Growth Intern](https://jobright.ai/jobs/info/69d07cc60b098b7a6707a013?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d07614cdb525785fbaa7cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Associate Director of Marketing & Communications, UNLV Senior Vice Provost - Marketing and Communications [R0151157]](https://jobright.ai/jobs/info/69d0701e366bb95ba551e458?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d050ff54f00230c6d112fc?utm_campaign=1065&utm_source=git)** | Santa Monica | Hybrid | Apr 03 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[CPG Innovation & Insights Intern](https://jobright.ai/jobs/info/69d050fecdb525785fba97af?utm_campaign=1065&utm_source=git)** | Emeryville, California | On Site | Apr 03 |
 | **[Fenwick & West](http://fenwick.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d050f8cdb525785fba977a?utm_campaign=1065&utm_source=git)** | Seattle | Hybrid | Apr 03 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d050f3366bb95ba551d75b?utm_campaign=1065&utm_source=git)** | San Francisco | Hybrid | Apr 03 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d050e5cfdc6132f943a715?utm_campaign=1065&utm_source=git)** | Silicon Valley | Hybrid | Apr 03 |
-| **[Successful Black Parenting Magazine](https://SuccessfulBlackParenting.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d04c4bcfdc6132f943a618?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Options For All](http://optionsforall.org)** | **[Marketing and Social Media Intern (Summer 2026)](https://jobright.ai/jobs/info/69d068f2cdb525785fbaa1e9?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
