@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell](http://www.honeywell.com)** | **[Marketing - Summer 2026 Intern](https://jobright.ai/jobs/info/69b62bd206c1ba00c54803b7?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 04 |
+| **[Hearst Health](http://www.hearsthealth.com)** | **[Creative & Product Marketing Intern](https://jobright.ai/jobs/info/69a65231d706a731db3832f0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 04 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69475f317d506e3808f2aa4d?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Apr 04 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - MARKETING AND COMMUNICATIONS](https://jobright.ai/jobs/info/69d130e80b098b7a670802df?utm_campaign=1065&utm_source=git)** | Camden, NJ | On Site | Apr 04 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Marketing Operations – Performance Team Summer Intern](https://jobright.ai/jobs/info/69b47c9e06c1ba00c545f26c?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Apr 04 |
 | **[San Antonio Express-News](https://www.expressnews.com)** | **[Digital Audience Stanford Rebele Intern](https://jobright.ai/jobs/info/6997a5b981476f6176afc426?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Apr 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MarkitAds](https://markitads.com/)** | **[AI & Marketing Strategy Intern — Remote (Summer 2026)](https://jobright.ai/jobs/info/69d03416891d7b11cfcd9c27?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (Immediate and ON-SITE)](https://jobright.ai/jobs/info/69d033f7cdb525785fba896c?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 03 |
 | **[CBC New Media Group, LLC](https://www.linkedin.com/company/5866674)** | **[Baseball Sponsorship Intern](https://jobright.ai/jobs/info/69d031e6cfdc6132f94396ed?utm_campaign=1065&utm_source=git)** | Durham, NC, US | On Site | Apr 03 |
-| **[AET](http://amengtest.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69d031dc0b098b7a6707787d?utm_campaign=1065&utm_source=git)** | Saint Paul, MN, US | On Site | Apr 03 |
-| **[CBC Real Estate](https://www.cbcrealestate.com/)** | **[Baseball Sponsorship Intern](https://jobright.ai/jobs/info/69d031bf54f00230c6d103e1?utm_campaign=1065&utm_source=git)** | Durham, NC, US | On Site | Apr 03 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Shopper Insights](https://jobright.ai/jobs/info/69d031b254f00230c6d1039e?utm_campaign=1065&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
-| ↳ | **[Internship - Communications Specialist](https://jobright.ai/jobs/info/69d031b054f00230c6d1038b?utm_campaign=1065&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
