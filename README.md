@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été E-Commerce Summer Internship - Montreal](https://jobright.ai/jobs/info/69991feae0bddb6acac82124?utm_campaign=1065&utm_source=git)** | Montreal, QC | On Site | Apr 04 |
+| **[Matthews™](https://www.matthews.com/)** | **[PR & Publications Intern (PHX)](https://jobright.ai/jobs/info/68f089f8eb273a32d97692f3?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Apr 04 |
+| **[Essex Brownell](https://www.essexbrownell.com)** | **[Marketing & Customer Experience Internship](https://jobright.ai/jobs/info/69d10b0dcdb525785fbb0647?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Apr 04 |
+| **[Storm Guard Roofing](https://stormguardrc.com)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/69d10adf366bb95ba5524653?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Apr 04 |
+| **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Marketing & Promotions Intern](https://jobright.ai/jobs/info/6944d4b9a7227b3ece6679b8?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Apr 04 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/69b45fce3b74eb1e2c819928?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Marketing/Communications Intern](https://jobright.ai/jobs/info/69977c23ce78e77b4fdbd1ae?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Apr 04 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Summer 2026](https://jobright.ai/jobs/info/69cd6a57891d7b11cfcb8b17?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Apr 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Commercial Operations Communications](https://jobright.ai/jobs/info/69b327dea8ac8e70ff67659a?utm_campaign=1065&utm_source=git)** | Foster City | On Site | Apr 03 |
 | **[Mid-Ohio Food Collective](http://www.mofc.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d068e0366bb95ba551e16a?utm_campaign=1065&utm_source=git)** | Grove City,OH,US | On Site | Apr 03 |
 | **[Communities Foundation of Texas](http://www.cftexas.org)** | **[INTERN - Marketing and Communications](https://jobright.ai/jobs/info/69d022d80b098b7a67076aae?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
-| **[Locus Robotics](http://www.locusrobotics.com)** | **[Marketing Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/69b9bc7406c1ba00c54bd615?utm_campaign=1065&utm_source=git)** | Wilmington, MA | Hybrid | Apr 03 |
-| **[Apex Water and Process](https://teamapex.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d01c0b891d7b11cfcd8a44?utm_campaign=1065&utm_source=git)** | St Michael, MN | On Site | Apr 03 |
-| **[Leica Biosystems](http://www.leicabiosystems.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d01baa366bb95ba551b63a?utm_campaign=1065&utm_source=git)** | Deer Park, IL | On Site | Apr 03 |
-| **[California Coast University](http://www.calcoast.edu)** | **[Content & Social Media Intern](https://jobright.ai/jobs/info/69d01ac754f00230c6d0f2c0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 03 |
-| **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69d01abd54f00230c6d0f2ac?utm_campaign=1065&utm_source=git)** | Arcadia, WI | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
