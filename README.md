@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gen](https://www.gendigital.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/69b45fce3b74eb1e2c819928?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Marketing/Communications Intern](https://jobright.ai/jobs/info/69977c23ce78e77b4fdbd1ae?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Apr 04 |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Summer 2026](https://jobright.ai/jobs/info/69cd6a57891d7b11cfcb8b17?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Apr 04 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3ed4828227293ff047c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - eComm - LIC](https://jobright.ai/jobs/info/69d0f33dcdb525785fbafc58?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | **[Genesys](https://www.genesys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e05a1b5ad02887387c3b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Remote | Apr 04 |
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6da01b773006330b7380b?utm_campaign=1065&utm_source=git)** | Durham, NC | Remote | Apr 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leica Biosystems](http://www.leicabiosystems.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d01baa366bb95ba551b63a?utm_campaign=1065&utm_source=git)** | Deer Park, IL | On Site | Apr 03 |
 | **[California Coast University](http://www.calcoast.edu)** | **[Content & Social Media Intern](https://jobright.ai/jobs/info/69d01ac754f00230c6d0f2c0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69d01abd54f00230c6d0f2ac?utm_campaign=1065&utm_source=git)** | Arcadia, WI | On Site | Apr 03 |
-| **[HNTB](http://www.hntb.com/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69d01a450b098b7a670765fd?utm_campaign=1065&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Apr 03 |
-| **[Danaher Corporation](https://www.danaher.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d01956366bb95ba551b4bb?utm_campaign=1065&utm_source=git)** | Deer Park, Illinois, United States | On Site | Apr 03 |
-| **[Waters Edge Winery Midlothian](https://wew.wine/midlothian/)** | **[Social Media Intern (Internship Credit Only)](https://jobright.ai/jobs/info/69d015e10b098b7a6707656c?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Apr 03 |
-| **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/699fde1881476f6176b99859?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
