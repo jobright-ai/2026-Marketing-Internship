@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Multimedia Marketing Intern - Summer](https://jobright.ai/jobs/info/698eb19e78b4502f12a5872b?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 05 |
+| **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945adf5951654073537c825?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Apr 05 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Advertising Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69aeffd87495006450936dc9?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Apr 05 |
+| **[Nasuni](https://www.nasuni.com)** | **[Product Marketing Intern - Undergrad](https://jobright.ai/jobs/info/69c4bc38d5a1016e98dc13c9?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Apr 05 |
+| **[Hyatt](http://www.hyatt.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/69b634b23b74eb1e2c83ea72?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Apr 05 |
+| **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Apr 05 |
 | **[Dr.'s REMEDY Enriched Nail Care](https://www.remedynails.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d2448d366bb95ba552ce10?utm_campaign=1065&utm_source=git)** | Huntington, NY | On Site | Apr 05 |
 | **[Legends Global](http://legends.net)** | **[Events Services Intern](https://jobright.ai/jobs/info/69d1fb180b098b7a67085e16?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6880cd7a29ad6b2744adc425?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Apr 05 |
@@ -64,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6960469b7ebc25398eb64be7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 05 |
 | **[Ottawa County](https://miottawa.org)** | **[Communications Intern - Fall 2026](https://jobright.ai/jobs/info/69d22a4b891d7b11cfce9830?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Apr 05 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bcca4b4828227293fec128?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 05 |
-| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Social Media](https://jobright.ai/jobs/info/69d2279f54f00230c6d20345?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Apr 05 |
 | **[Vibes Meet LLC](vibesmeet.com)** | **[BizOps Growth Intern (Creator & Event Partnerships)](https://jobright.ai/jobs/info/69d225dacdb525785fbb8583?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 05 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69d206ea366bb95ba552b888?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Jeremy Li for Bridgewater](https://www.linkedin.com/company/111309264)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69d1de16cdb525785fbb5d46?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Apr 04 |
@@ -73,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Development Analyst](https://jobright.ai/jobs/info/69d1d5b0cfdc6132f9446c0d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
 | **[Stars and Stripes Storage](http://starsandstripesstorage.com)** | **[(Unpaid) Social Media Management Intern](https://jobright.ai/jobs/info/69d1d211cfdc6132f9446acc?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69c6f3c31818a24cd84ca333?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
-| **[H&K Group](https://hk-ksa.com/)** | **[Sales and Marketing Summer Intern 2026](https://jobright.ai/jobs/info/69d1b1d954f00230c6d1bab6?utm_campaign=1065&utm_source=git)** | Skippack, PA | On Site | Apr 04 |
 | **[goop Kitchen](https://www.goopkitchen.com)** | **[Local Marketing Summer Internship (PAID)](https://jobright.ai/jobs/info/69d1b1bd366bb95ba5527f14?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 04 |
 | **[IntelliShade](https://www.mdintellishade.com/)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69d1b14fcfdc6132f9444b91?utm_campaign=1065&utm_source=git)** | Oklahoma City, Oklahoma, United States | On Site | Apr 04 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/69d19a130b098b7a670828d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Marketing Specialist](https://jobright.ai/jobs/info/69d08f560b098b7a6707a9c4?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[Crunch Fitness, Primetime Fitness LLC](https://linktr.ee/primetimefitnessllc)** | **[Brand Ambassador In Person Hiring Event](https://jobright.ai/jobs/info/69d0a77c0b098b7a6707b967?utm_campaign=1065&utm_source=git)** | Rochester Hills, MI | On Site | Apr 03 |
 | **[NOCO Style](https://nocostyle.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d087250b098b7a6707a4e1?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Apr 03 |
-| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
-| ↳ | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
-| **[Julius AI](https://julius.codes)** | **[Growth Intern](https://jobright.ai/jobs/info/69d07cc60b098b7a6707a013?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
-| **[Actian](http://www.actian.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d07614cdb525785fbaa7cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
-| **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Associate Director of Marketing & Communications, UNLV Senior Vice Provost - Marketing and Communications [R0151157]](https://jobright.ai/jobs/info/69d0701e366bb95ba551e458?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 03 |
-| ↳ | **[Communications & Social Media Coordinator, UNLV Research Administration [R0151223]](https://jobright.ai/jobs/info/69d0701d366bb95ba551e450?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 03 |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
+| ↳ | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
