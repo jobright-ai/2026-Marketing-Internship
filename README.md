@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[White Bear Mitsubishi](https://www.whitebearmitsubishi.com)** | **[Events & Marketing Intern](https://jobright.ai/jobs/info/69d27202cfdc6132f944adb2?utm_campaign=1065&utm_source=git)** | White Bear Lake, MN | On Site | Apr 05 |
+| **[ALO](https://www.aloyoga.com/)** | **[Marketing Planning Intern](https://jobright.ai/jobs/info/697dac4dce48107c0541fad4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Apr 05 |
+| ↳ | **[Paid Growth Marketing Intern](https://jobright.ai/jobs/info/697dab3ace48107c0541f9c6?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Apr 05 |
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69d265f754f00230c6d21572?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
 | **[ALO](https://www.aloyoga.com/)** | **[Site Merchandising & Web Operations Intern](https://jobright.ai/jobs/info/697daa28abff4c399a9c7fdb?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Apr 05 |
 | **[AgileGrid Solutions](https://www.agilegridsolution.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d26495cfdc6132f944ac84?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Premium Marketing Analytics (Crypto.com Arena)](https://jobright.ai/jobs/info/69c6f38e1b5ad02887388b8d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Vail Valley Foundation](http://vvf.org/)** | **[Development Events Internship](https://jobright.ai/jobs/info/69d0b068cfdc6132f943e48b?utm_campaign=1065&utm_source=git)** | Avon, CO | On Site | Apr 03 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[CPG Innovation & Insights Intern](https://jobright.ai/jobs/info/69d09f630b098b7a6707b54a?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Apr 03 |
-| **[Harvey Media](www.harveymediallc.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69d095a7366bb95ba551fca3?utm_campaign=1065&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Apr 03 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Marketing Specialist](https://jobright.ai/jobs/info/69d08f560b098b7a6707a9c4?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
-| **[Crunch Fitness, Primetime Fitness LLC](https://linktr.ee/primetimefitnessllc)** | **[Brand Ambassador In Person Hiring Event](https://jobright.ai/jobs/info/69d0a77c0b098b7a6707b967?utm_campaign=1065&utm_source=git)** | Rochester Hills, MI | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
