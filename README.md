@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H&K Group](https://hk-ksa.com/)** | **[Sales and Marketing Summer Intern 2026](https://jobright.ai/jobs/info/69d1b1d954f00230c6d1bab6?utm_campaign=1065&utm_source=git)** | Skippack, PA | On Site | Apr 04 |
+| **[goop Kitchen](https://www.goopkitchen.com)** | **[Local Marketing Summer Internship (PAID)](https://jobright.ai/jobs/info/69d1b1bd366bb95ba5527f14?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 04 |
 | **[IntelliShade](https://www.mdintellishade.com/)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69d1b14fcfdc6132f9444b91?utm_campaign=1065&utm_source=git)** | Oklahoma City, Oklahoma, United States | On Site | Apr 04 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/69d19a130b098b7a670828d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Fort Pierce Utilities Authority](https://fpua.com)** | **[Communications & Digital Storytelling Intern](https://jobright.ai/jobs/info/69d194a8366bb95ba55274dc?utm_campaign=1065&utm_source=git)** | Fort Pierce, FL | On Site | Apr 04 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Nasuni](https://www.nasuni.com)** | **[Communications & Customer Advocacy Intern](https://jobright.ai/jobs/info/69b5267506c1ba00c546ea06?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Apr 04 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69b47d375697383741395acd?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 04 |
 | **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcasters](https://jobright.ai/jobs/info/69b4430b06c1ba00c5457915?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Apr 04 |
-| **[My Alive Link](https://myalive.link/)** | **[CA Marketing Internship - TikTok](https://jobright.ai/jobs/info/69d1062ecfdc6132f94412c0?utm_campaign=1065&utm_source=git)** | Canada | Remote | Apr 04 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Spend Management and Finance, Global Events](https://jobright.ai/jobs/info/69d0e267366bb95ba552359f?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Apr 04 |
 | **[Lennox](http://www.lennox.com)** | **[Growth Strategy Intern](https://jobright.ai/jobs/info/69b48d5e56973837413973d6?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Apr 04 |
 | **[Edelman](http://www.edelman.com)** | **[UEG Summer Intern](https://jobright.ai/jobs/info/69b46c3d5697383741393b0a?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Marketing Specialist](https://jobright.ai/jobs/info/69d08f560b098b7a6707a9c4?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[Crunch Fitness, Primetime Fitness LLC](https://linktr.ee/primetimefitnessllc)** | **[Brand Ambassador In Person Hiring Event](https://jobright.ai/jobs/info/69d0a77c0b098b7a6707b967?utm_campaign=1065&utm_source=git)** | Rochester Hills, MI | On Site | Apr 03 |
 | **[NOCO Style](https://nocostyle.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d087250b098b7a6707a4e1?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Apr 03 |
-| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
-| ↳ | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Internal Communications](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f07f?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
+| ↳ | **[Intern, Marketing Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfed?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
 | **[Julius AI](https://julius.codes)** | **[Growth Intern](https://jobright.ai/jobs/info/69d07cc60b098b7a6707a013?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d07614cdb525785fbaa7cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Associate Director of Marketing & Communications, UNLV Senior Vice Provost - Marketing and Communications [R0151157]](https://jobright.ai/jobs/info/69d0701e366bb95ba551e458?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GrowthExpertz](https://growthexpertz.com)** | **[Digital Marketing Internship w/ Tons of Training](https://jobright.ai/jobs/info/69d05142366bb95ba551d81c?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Rubrik](http://rubrik.com)** | **[Product Marketing Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/69d0513ecdb525785fba9803?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Apr 03 |
 | **[NoteSight](www.notesight.co)** | **[Content Marketing Intern — AI Video & Media](https://jobright.ai/jobs/info/69d05135cdb525785fba97e2?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Fenwick & West](http://fenwick.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d05103891d7b11cfcda99f?utm_campaign=1065&utm_source=git)** | Washington, D.C. | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
