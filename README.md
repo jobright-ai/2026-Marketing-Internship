@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697d6fac727747250d585879?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
+| ↳ | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6960469b7ebc25398eb64be7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 05 |
 | **[Ottawa County](https://miottawa.org)** | **[Communications Intern - Fall 2026](https://jobright.ai/jobs/info/69d22a4b891d7b11cfce9830?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Apr 05 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bcca4b4828227293fec128?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 05 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Social Media](https://jobright.ai/jobs/info/69d2279f54f00230c6d20345?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Apr 05 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Marketing/Proposal Intern (Summer 2026)](https://jobright.ai/jobs/info/69d157fdcdb525785fbb1f76?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Apr 04 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/6997e87b81476f6176b02ef0?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Apr 04 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Market Research Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69d1542f366bb95ba5525f22?utm_campaign=1065&utm_source=git)** | Covington, GA | On Site | Apr 04 |
+| **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d16bdc366bb95ba55267ae?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Strategic Analytics](https://jobright.ai/jobs/info/699789b381476f6176af9f59?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 04 |
 | **[GreenLeaf, a Chefs' Warehouse company](https://greenleafsf.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/697d26ba3f57a3356966e2b0?utm_campaign=1065&utm_source=git)** | Brisbane, CA | Hybrid | Apr 04 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6997536e81476f6176af7a67?utm_campaign=1065&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Apr 04 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - MARKETING AND COMMUNICATIONS](https://jobright.ai/jobs/info/69d130e80b098b7a670802df?utm_campaign=1065&utm_source=git)** | Camden, NJ | On Site | Apr 04 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Marketing Operations – Performance Team Summer Intern](https://jobright.ai/jobs/info/69b47c9e06c1ba00c545f26c?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Apr 04 |
 | **[San Antonio Express-News](https://www.expressnews.com)** | **[Digital Audience Stanford Rebele Intern](https://jobright.ai/jobs/info/6997a5b981476f6176afc426?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Apr 04 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[School of Medicine &amp;#8211; Communications Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/69d126f90b098b7a670801c1?utm_campaign=1065&utm_source=git)** | Pasadena, CA | Hybrid | Apr 04 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Media Planning, Paid Social](https://jobright.ai/jobs/info/6997e0fcce78e77b4fdc589f?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Apr 04 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69bce4ef4828227293fef698?utm_campaign=1065&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4ca203b74eb1e2c8225bd?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | On Site | Apr 04 |
@@ -139,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Icertis](https://www.icertis.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69be1315b1060245628376ca?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Genesys](https://www.genesys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e030b773006330b73a75?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Apr 04 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Spend Management and Finance, Global Events](https://jobright.ai/jobs/info/69d0d53c366bb95ba5522fd4?utm_campaign=1065&utm_source=git)** | Alpharetta, GA, US, 30009 | On Site | Apr 04 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69bf86b77798f73e35e45b45?utm_campaign=1065&utm_source=git)** | Westlake Village, CA | On Site | Apr 04 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Premium Marketing Analytics (Crypto.com Arena)](https://jobright.ai/jobs/info/69c6f38e1b5ad02887388b8d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Vail Valley Foundation](http://vvf.org/)** | **[Development Events Internship](https://jobright.ai/jobs/info/69d0b068cfdc6132f943e48b?utm_campaign=1065&utm_source=git)** | Avon, CO | On Site | Apr 03 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[CPG Innovation & Insights Intern](https://jobright.ai/jobs/info/69d09f630b098b7a6707b54a?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Communications & Social Media Coordinator, UNLV Research Administration [R0151223]](https://jobright.ai/jobs/info/69d0701d366bb95ba551e450?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Marketing Specialist](https://jobright.ai/jobs/info/69d068e5366bb95ba551e190?utm_campaign=1065&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[Cosm](https://www.cosm.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69d0627a891d7b11cfcdb145?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Apr 03 |
-| ↳ | **[Creative Services Intern](https://jobright.ai/jobs/info/69d0625b891d7b11cfcdb07e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
-| **[SUMMITHOUSE](summithousehq.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d06208891d7b11cfcdae04?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Clerkie](https://clerkie.io)** | **[GTM Intern](https://jobright.ai/jobs/info/69d05d2dcfdc6132f943a9b5?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
