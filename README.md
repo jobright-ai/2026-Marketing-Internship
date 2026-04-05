@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mednevo](https://mednevo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d2e6570b098b7a6708b0bb?utm_campaign=1065&utm_source=git)** | Texas, United States | Hybrid | Apr 05 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69d2e372cdb525785fbbb848?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 05 |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Marketing Podcast and Speaker Booking Internship (2-5hrs/week, remote)](https://jobright.ai/jobs/info/69d2de050b098b7a6708a705?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Apr 05 |
 | **[July Digital Studio](Julydigitalstudio.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d2d512cfdc6132f944bc59?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Apr 05 |
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Strategic Communication Intern](https://jobright.ai/jobs/info/69d2d344891d7b11cfceb957?utm_campaign=1065&utm_source=git)** | Midland, TX | On Site | Apr 05 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Department Assistant Intern](https://jobright.ai/jobs/info/69d2cfc00b098b7a67089abf?utm_campaign=1065&utm_source=git)** | Markham, ON | On Site | Apr 05 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Loudoun United Football Club](https://www.loudoununitedfc.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d2c0ddcdb525785fbba7fb?utm_campaign=1065&utm_source=git)** | Leesburg, VA | On Site | Apr 05 |
 | **[LangPal](www.lang-pal.com)** | **[Student Marketing Intern](https://jobright.ai/jobs/info/69d2c0bfcfdc6132f944bb20?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sorority Marketing and Sales Intern](https://jobright.ai/jobs/info/69d2bbaf54f00230c6d2241a?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Apr 05 |
-| **[We Eat Here](weeathere.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69d2bb39891d7b11cfceb7ec?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 05 |
 | **[Varsity Health & Training Solutions, DBA N.I.C.E.](www.niceheart.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d2b22acfdc6132f944ba8d?utm_campaign=1065&utm_source=git)** | Ronkonkoma, NY | On Site | Apr 05 |
 | **[Prospect Soccer Academy](www.prospectsocceracademy.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d2ab1a54f00230c6d222fd?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | On Site | Apr 05 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing + Sales (Growth) Intern](https://jobright.ai/jobs/info/69d29a8d891d7b11cfceb63c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Apr 05 |
@@ -142,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4ca203b74eb1e2c8225bd?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | On Site | Apr 04 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing (Social Media Focused) Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943693ddd382f5f56697424?utm_campaign=1065&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/697c14eb1136d179eeefbd89?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
-| **[Mednevo](https://mednevo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d11ce70b098b7a6707f978?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Apr 04 |
 | **[McKim & Creed, Inc.](http://mckimcreed.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/69990bb681476f6176b18145?utm_campaign=1065&utm_source=git)** | Wilmington, NC | On Site | Apr 04 |
 | **[Carta](https://carta.com/)** | **[Marketing Internship - Policy](https://jobright.ai/jobs/info/6997c76ae0bddb6acac68b57?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 04 |
 | ↳ | **[Marketing Internship - Product & Customer Marketing](https://jobright.ai/jobs/info/6997c58081476f6176aff1ba?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Summer 2026](https://jobright.ai/jobs/info/69cd6a57891d7b11cfcb8b17?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Apr 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3ed4828227293ff047c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - eComm - LIC](https://jobright.ai/jobs/info/69d0f33dcdb525785fbafc58?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
-| **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Promotion & Creative Services Intern](https://jobright.ai/jobs/info/69d1212dcdb525785fbb097d?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
