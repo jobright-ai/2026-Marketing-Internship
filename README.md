@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jeremy Li for Bridgewater](https://www.linkedin.com/company/111309264)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69d1de16cdb525785fbb5d46?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Apr 04 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing/Sales Intern @ Lodge Alley](https://jobright.ai/jobs/info/69d1da14366bb95ba5529d0f?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Apr 04 |
 | **[TORQ Coatings](www.torqcoatings.com)** | **[Video Marketing Intern](https://jobright.ai/jobs/info/69d1d9e20b098b7a67084dcc?utm_campaign=1065&utm_source=git)** | Lombard, IL | Hybrid | Apr 04 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Development Analyst](https://jobright.ai/jobs/info/69d1d5b0cfdc6132f9446c0d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[H&K Group](https://hk-ksa.com/)** | **[Sales and Marketing Summer Intern 2026](https://jobright.ai/jobs/info/69d1b1d954f00230c6d1bab6?utm_campaign=1065&utm_source=git)** | Skippack, PA | On Site | Apr 04 |
 | **[goop Kitchen](https://www.goopkitchen.com)** | **[Local Marketing Summer Internship (PAID)](https://jobright.ai/jobs/info/69d1b1bd366bb95ba5527f14?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 04 |
 | **[IntelliShade](https://www.mdintellishade.com/)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69d1b14fcfdc6132f9444b91?utm_campaign=1065&utm_source=git)** | Oklahoma City, Oklahoma, United States | On Site | Apr 04 |
+| **[M-D Building Products](http://www.mdteam.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d1e8a0cdb525785fbb5fe9?utm_campaign=1065&utm_source=git)** | OKC Metro Area | On Site | Apr 04 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/69d19a130b098b7a670828d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Fort Pierce Utilities Authority](https://fpua.com)** | **[Communications & Digital Storytelling Intern](https://jobright.ai/jobs/info/69d194a8366bb95ba55274dc?utm_campaign=1065&utm_source=git)** | Fort Pierce, FL | On Site | Apr 04 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69d19003891d7b11cfce3f6e?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 04 |
@@ -83,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Marketing/Proposal Intern (Summer 2026)](https://jobright.ai/jobs/info/69d157fdcdb525785fbb1f76?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Apr 04 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/6997e87b81476f6176b02ef0?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Apr 04 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Market Research Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69d1542f366bb95ba5525f22?utm_campaign=1065&utm_source=git)** | Covington, GA | On Site | Apr 04 |
-| **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d16bdc366bb95ba55267ae?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Strategic Analytics](https://jobright.ai/jobs/info/699789b381476f6176af9f59?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 04 |
 | **[GreenLeaf, a Chefs' Warehouse company](https://greenleafsf.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/697d26ba3f57a3356966e2b0?utm_campaign=1065&utm_source=git)** | Brisbane, CA | Hybrid | Apr 04 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6997536e81476f6176af7a67?utm_campaign=1065&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clerkie](https://clerkie.io)** | **[GTM Intern](https://jobright.ai/jobs/info/69d05d2dcfdc6132f943a9b5?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Marketing Manager](https://jobright.ai/jobs/info/69bc820e5b89c002acf240d9?utm_campaign=1065&utm_source=git)** | United States Remote | Remote | Apr 03 |
 | **[TexL Campaigns](https://texlcampaigns.com/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69d05b7b0b098b7a67078a82?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 03 |
-| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Client Solutions Intern](https://jobright.ai/jobs/info/698f84d96ea51a7610f1dff3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
