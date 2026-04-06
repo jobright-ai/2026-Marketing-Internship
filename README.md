@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lung Cancer Initiative](https://lungcancerinitiative.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d3b7d654f00230c6d29a4d?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Apr 06 |
+| **[UVM Health - UVM Medical Center](http://www.UVMhealth.org/MedCenter)** | **[Intern, Events](https://jobright.ai/jobs/info/69d3b719891d7b11cfcf2d01?utm_campaign=1065&utm_source=git)** | South Burlington, VT | On Site | Apr 06 |
+| **[Motion](https://www.motion.com)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/69d0b64c0b098b7a6707ccc7?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
+| **[Big Hype Marketing](https://bighypemarketing.com/)** | **[Spring/Summer Marketing Intern](https://jobright.ai/jobs/info/69d3b288e63cea7a8b652254?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Apr 06 |
 | **[OMI Industries](https://omi-industries.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69d3a4d9366bb95ba553577b?utm_campaign=1065&utm_source=git)** | Palatine, IL | On Site | Apr 06 |
 | **[7th Peak Marketing](https://www.7thpeakmarketing.com/)** | **[Social Media Manager Summer Internship](https://jobright.ai/jobs/info/69d39d2b366bb95ba55354d8?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Apr 06 |
 | **[Xometry](https://www.xometry.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6945b560d1953b5d11beb345?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | On Site | Apr 06 |
@@ -96,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d28cc0366bb95ba552e384?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 05 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Communications, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/692f8b4afa28370be26ab5a9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27c250b098b7a6708919d?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 05 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27a02891d7b11cfceaf69?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 05 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27a02891d7b11cfceaf6c?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 05 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27a02891d7b11cfceaf69?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 05 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d27a01891d7b11cfceaf66?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d279fd891d7b11cfceaf60?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69d279f154f00230c6d21b4d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[San Antonio Express-News](https://www.expressnews.com)** | **[Digital Audience Stanford Rebele Intern](https://jobright.ai/jobs/info/6997a5b981476f6176afc426?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Apr 04 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Media Planning, Paid Social](https://jobright.ai/jobs/info/6997e0fcce78e77b4fdc589f?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Apr 04 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69bce4ef4828227293fef698?utm_campaign=1065&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
-| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69b4ca203b74eb1e2c8225bd?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | On Site | Apr 04 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing (Social Media Focused) Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943693ddd382f5f56697424?utm_campaign=1065&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
-| **[Minitab](http://www.minitab.com/en-us/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/697c14eb1136d179eeefbd89?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
-| **[McKim & Creed, Inc.](http://mckimcreed.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/69990bb681476f6176b18145?utm_campaign=1065&utm_source=git)** | Wilmington, NC | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
