@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spherix Global Insights](http://www.spherixglobalinsights.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/69d3c756366bb95ba553651c?utm_campaign=1065&utm_source=git)** | Exton, PA | On Site | Apr 06 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Marketing Strategy & Operations](https://jobright.ai/jobs/info/69cac05de565c26a70040779?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Apr 06 |
+| **[Spherix Global Insights](http://www.spherixglobalinsights.com/)** | **[Market Research Insights Internship](https://jobright.ai/jobs/info/69d3c45a891d7b11cfcf31ae?utm_campaign=1065&utm_source=git)** | Exton, PA | On Site | Apr 06 |
+| **[Paramax Corporation](https://paramaxcorp.com)** | **[Marketing Intern - Fall 2026 (In-Person, Williamsville, NY)](https://jobright.ai/jobs/info/69d3c16be63cea7a8b6526a5?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Apr 06 |
+| **[Oakland University](http://www.oakland.edu)** | **[Summer Student Communication Internship for Baby PEACE (Fixed-term)](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7c08?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Apr 06 |
+| **[UNDP Careers](https://www.undp.org)** | **[UNDP Internship roster (call for applications - Social Media and Multimedia Interns, home-based, report to office in New York, USA)](https://jobright.ai/jobs/info/69d3bfeb366bb95ba55363d6?utm_campaign=1065&utm_source=git)** | Home, KS | Hybrid | Apr 06 |
+| **[Dewey Square Group](http://deweysquare.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69d3bb60891d7b11cfcf2e16?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Hybrid | Apr 06 |
 | **[Lung Cancer Initiative](https://lungcancerinitiative.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d3b7d654f00230c6d29a4d?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Apr 06 |
 | **[UVM Health - UVM Medical Center](http://www.UVMhealth.org/MedCenter)** | **[Intern, Events](https://jobright.ai/jobs/info/69d3b719891d7b11cfcf2d01?utm_campaign=1065&utm_source=git)** | South Burlington, VT | On Site | Apr 06 |
 | **[Motion](https://www.motion.com)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/69d0b64c0b098b7a6707ccc7?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
@@ -83,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Polaris Logistics Group](https://polarislogisticsgroup.com)** | **[Marketing Intern (Toledo, OH)](https://jobright.ai/jobs/info/69d308c80b098b7a6708bafa?utm_campaign=1065&utm_source=git)** | Toledo, Ohio Metropolitan Area | On Site | Apr 05 |
 | **[ABANA (abana.co)](https://www.abana.co)** | **[Programs and Event Planning Internship](https://jobright.ai/jobs/info/69d392a5891d7b11cfcf1ee4?utm_campaign=1065&utm_source=git)** | Indiana, United States | On Site | Apr 05 |
 | **[Green Building Education Services (GBES)](https://www.gbes.com)** | **[CC INTERN](https://jobright.ai/jobs/info/69d39203366bb95ba55352f5?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 05 |
+| **[Acts 29](http://acts29.com)** | **[Events and Ministry Coordinator (Onsite, Volunteer)](https://jobright.ai/jobs/info/69d3ad2e366bb95ba5535c1b?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Apr 05 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69d2ffc6891d7b11cfced674?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Cyber Operatives](cyberoperatives.org)** | **[Volunteer / Unpaid Intern – Fundraising, Strategy & Compliance (Cybersecurity Nonprofit)](https://jobright.ai/jobs/info/69d2fedb366bb95ba55306a8?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Arizona Sustainability Alliance](https://www.azsustainabilityalliance.com)** | **[Marketing And Communications Intern](https://jobright.ai/jobs/info/69d392a4891d7b11cfcf1ee1?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 05 |
@@ -93,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Multnomah County](https://multco.us)** | **[Health - Engagement and Outreach Internship](https://jobright.ai/jobs/info/69d2ca68cdb525785fbba87b?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Apr 05 |
 | **[WyoTech](http://www.wyotech.edu/)** | **[Marketing Manager](https://jobright.ai/jobs/info/69d2c30a0b098b7a670899f6?utm_campaign=1065&utm_source=git)** | Laramie, WY | On Site | Apr 05 |
 | **[Loudoun United Football Club](https://www.loudoununitedfc.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d2c0ddcdb525785fbba7fb?utm_campaign=1065&utm_source=git)** | Leesburg, VA | On Site | Apr 05 |
+| **[Sapling](https://saplinglearn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d3a916891d7b11cfcf2408?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Apr 05 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d28cdb0b098b7a67089356?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 05 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d28cd70b098b7a67089354?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d28cd154f00230c6d21db3?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 05 |
@@ -100,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d28cc0366bb95ba552e384?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 05 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Communications, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/692f8b4afa28370be26ab5a9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27c250b098b7a6708919d?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 05 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27a02891d7b11cfceaf6c?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 05 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27a02891d7b11cfceaf69?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 05 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27a02891d7b11cfceaf6c?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 05 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d27a01891d7b11cfceaf66?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d279fd891d7b11cfceaf60?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69d279f154f00230c6d21b4d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GreenLeaf, a Chefs' Warehouse company](https://greenleafsf.com )** | **[Marketing Intern](https://jobright.ai/jobs/info/697d26ba3f57a3356966e2b0?utm_campaign=1065&utm_source=git)** | Brisbane, CA | Hybrid | Apr 04 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6997536e81476f6176af7a67?utm_campaign=1065&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Apr 04 |
 | **[IW Group Inc.](http://iwgroupinc.com)** | **[Intern](https://jobright.ai/jobs/info/699fdf76ce78e77b4fe5cb3a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| **[Honeywell](http://www.honeywell.com)** | **[Marketing - Summer 2026 Intern](https://jobright.ai/jobs/info/69b62bd206c1ba00c54803b7?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 04 |
-| **[Hearst Health](http://www.hearsthealth.com)** | **[Creative & Product Marketing Intern](https://jobright.ai/jobs/info/69a65231d706a731db3832f0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 04 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69475f317d506e3808f2aa4d?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Apr 04 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - MARKETING AND COMMUNICATIONS](https://jobright.ai/jobs/info/69d130e80b098b7a670802df?utm_campaign=1065&utm_source=git)** | Camden, NJ | On Site | Apr 04 |
-| **[Medidata Solutions](https://www.medidata.com)** | **[Marketing Operations – Performance Team Summer Intern](https://jobright.ai/jobs/info/69b47c9e06c1ba00c545f26c?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Apr 04 |
-| **[San Antonio Express-News](https://www.expressnews.com)** | **[Digital Audience Stanford Rebele Intern](https://jobright.ai/jobs/info/6997a5b981476f6176afc426?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Apr 04 |
-| **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Media Planning, Paid Social](https://jobright.ai/jobs/info/6997e0fcce78e77b4fdc589f?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Apr 04 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69bce4ef4828227293fef698?utm_campaign=1065&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
