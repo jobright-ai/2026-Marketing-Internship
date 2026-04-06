@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USANA Health Sciences](http://www.usana.com)** | **[Campaign Automation Intern (Marketing Technology & Lifecycle)](https://jobright.ai/jobs/info/69d31ea9cfdc6132f944e4e1?utm_campaign=1065&utm_source=git)** | Salt Lake City, Utah | Hybrid | Apr 05 |
+| **[SHOE-INN](http://shoeinn.com)** | **[SOCIAL MEDIA INTERN — HAMPTONS](https://jobright.ai/jobs/info/69d318870b098b7a6708bcf6?utm_campaign=1065&utm_source=git)** | East Hampton, NY | On Site | Apr 05 |
+| **[Editory](https://www.stringer.news/)** | **[Social Media News Creator (Content Internship)](https://jobright.ai/jobs/info/69d311f9cdb525785fbbca09?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Polaris Logistics Group](https://polarislogisticsgroup.com)** | **[Marketing Intern (Toledo, OH)](https://jobright.ai/jobs/info/69d308c80b098b7a6708bafa?utm_campaign=1065&utm_source=git)** | Toledo, Ohio Metropolitan Area | On Site | Apr 05 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69d2ffc6891d7b11cfced674?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Cyber Operatives](cyberoperatives.org)** | **[Volunteer / Unpaid Intern – Fundraising, Strategy & Compliance (Cybersecurity Nonprofit)](https://jobright.ai/jobs/info/69d2fedb366bb95ba55306a8?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
@@ -111,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69c6f3c31818a24cd84ca333?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
 | **[goop Kitchen](https://www.goopkitchen.com)** | **[Local Marketing Summer Internship (PAID)](https://jobright.ai/jobs/info/69d1b1bd366bb95ba5527f14?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 04 |
 | **[IntelliShade](https://www.mdintellishade.com/)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69d1b14fcfdc6132f9444b91?utm_campaign=1065&utm_source=git)** | Oklahoma City, Oklahoma, United States | On Site | Apr 04 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/69d19a130b098b7a670828d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[AI Marketing Internship (Summer 2026) / Run Real Growth Experiments](https://jobright.ai/jobs/info/69d18db70b098b7a67082111?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Apr 04 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Baseball Sponsorship Intern](https://jobright.ai/jobs/info/69d189dd0b098b7a670820e3?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Apr 04 |
 | **[Kansas City Chiefs](https://www.chiefs.com)** | **[LoneBear/H.Roe Bartle Rotational Intern](https://jobright.ai/jobs/info/69d1774acfdc6132f94439bc?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Apr 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Summer 2026](https://jobright.ai/jobs/info/69cd6a57891d7b11cfcb8b17?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Apr 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3ed4828227293ff047c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - eComm - LIC](https://jobright.ai/jobs/info/69d0f33dcdb525785fbafc58?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
-| **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Promotion & Creative Services Intern](https://jobright.ai/jobs/info/69d1212dcdb525785fbb097d?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 04 |
-| **[Genesys](https://www.genesys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c6e05a1b5ad02887387c3b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Remote | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
