@@ -57,17 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CouponDonation](http://www.coupondonation.com)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69d2ffc6891d7b11cfced674?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
+| **[Cyber Operatives](cyberoperatives.org)** | **[Volunteer / Unpaid Intern – Fundraising, Strategy & Compliance (Cybersecurity Nonprofit)](https://jobright.ai/jobs/info/69d2fedb366bb95ba55306a8?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Department Assistant Intern](https://jobright.ai/jobs/info/69d2cfc00b098b7a67089abf?utm_campaign=1065&utm_source=git)** | Markham, ON | On Site | Apr 05 |
 | **[Mednevo](https://mednevo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d2e6570b098b7a6708b0bb?utm_campaign=1065&utm_source=git)** | Texas, United States | Hybrid | Apr 05 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69d2e372cdb525785fbbb848?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 05 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Marketing Podcast and Speaker Booking Internship (2-5hrs/week, remote)](https://jobright.ai/jobs/info/69d2de050b098b7a6708a705?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Apr 05 |
 | **[July Digital Studio](Julydigitalstudio.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d2d512cfdc6132f944bc59?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Apr 05 |
-| **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Strategic Communication Intern](https://jobright.ai/jobs/info/69d2d344891d7b11cfceb957?utm_campaign=1065&utm_source=git)** | Midland, TX | On Site | Apr 05 |
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d2ca70cfdc6132f944bbcb?utm_campaign=1065&utm_source=git)** | Breckenridge, CO | On Site | Apr 05 |
 | **[Multnomah County](https://multco.us)** | **[Health - Engagement and Outreach Internship](https://jobright.ai/jobs/info/69d2ca68cdb525785fbba87b?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Apr 05 |
 | **[WyoTech](http://www.wyotech.edu/)** | **[Marketing Manager](https://jobright.ai/jobs/info/69d2c30a0b098b7a670899f6?utm_campaign=1065&utm_source=git)** | Laramie, WY | On Site | Apr 05 |
 | **[Loudoun United Football Club](https://www.loudoununitedfc.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d2c0ddcdb525785fbba7fb?utm_campaign=1065&utm_source=git)** | Leesburg, VA | On Site | Apr 05 |
-| **[LangPal](www.lang-pal.com)** | **[Student Marketing Intern](https://jobright.ai/jobs/info/69d2c0bfcfdc6132f944bb20?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sorority Marketing and Sales Intern](https://jobright.ai/jobs/info/69d2bbaf54f00230c6d2241a?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Apr 05 |
 | **[Varsity Health & Training Solutions, DBA N.I.C.E.](www.niceheart.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d2b22acfdc6132f944ba8d?utm_campaign=1065&utm_source=git)** | Ronkonkoma, NY | On Site | Apr 05 |
 | **[Prospect Soccer Academy](www.prospectsocceracademy.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d2ab1a54f00230c6d222fd?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | On Site | Apr 05 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6960469b7ebc25398eb64be7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 05 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bcca4b4828227293fec128?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 05 |
 | **[Vibes Meet LLC](vibesmeet.com)** | **[BizOps Growth Intern (Creator & Event Partnerships)](https://jobright.ai/jobs/info/69d225dacdb525785fbb8583?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 05 |
-| **[Jeremy Li for Bridgewater](https://www.linkedin.com/company/111309264)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69d1de16cdb525785fbb5d46?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Apr 04 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing/Sales Intern @ Lodge Alley](https://jobright.ai/jobs/info/69d1da14366bb95ba5529d0f?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Apr 04 |
 | **[TORQ Coatings](www.torqcoatings.com)** | **[Video Marketing Intern](https://jobright.ai/jobs/info/69d1d9e20b098b7a67084dcc?utm_campaign=1065&utm_source=git)** | Lombard, IL | Hybrid | Apr 04 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Development Analyst](https://jobright.ai/jobs/info/69d1d5b0cfdc6132f9446c0d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Summer 2026](https://jobright.ai/jobs/info/69cd6a57891d7b11cfcb8b17?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Apr 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3ed4828227293ff047c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - eComm - LIC](https://jobright.ai/jobs/info/69d0f33dcdb525785fbafc58?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
+| **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Promotion & Creative Services Intern](https://jobright.ai/jobs/info/69d1212dcdb525785fbb097d?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
