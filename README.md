@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Merchandising Strategy Manager Intern (TikTok Shop Affiliate Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976df78bc8e722e7b1b5254?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 06 |
+| ↳ | **[Product Marketing Manager Intern (TikTok Shop Product Marketing) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aac5952747003c3d506b05?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 06 |
 | **[Duke University](http://www.duke.edu)** | **[Communications & Marketing Intern, Pratt School of Engineering](https://jobright.ai/jobs/info/69d3750f891d7b11cfcf129a?utm_campaign=1065&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 06 |
 | **[Cornell Global Inc.](www.cornellglobalinc.com)** | **[Direct Marketing Intern](https://jobright.ai/jobs/info/69d35e960b098b7a6708e9fc?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 06 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Marketing Manager](https://jobright.ai/jobs/info/69bc820e5b89c002acf240d9?utm_campaign=1065&utm_source=git)** | United States Remote | Remote | Apr 05 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d28cc0366bb95ba552e384?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 05 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Communications, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/692f8b4afa28370be26ab5a9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27c250b098b7a6708919d?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 05 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27a02891d7b11cfceaf69?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 05 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27a02891d7b11cfceaf6c?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 05 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27a02891d7b11cfceaf69?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 05 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d27a01891d7b11cfceaf66?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d279fd891d7b11cfceaf60?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69d279f154f00230c6d21b4d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Essex Brownell](https://www.essexbrownell.com)** | **[Marketing & Customer Experience Internship](https://jobright.ai/jobs/info/69d10b0dcdb525785fbb0647?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Apr 04 |
 | **[Storm Guard Roofing](https://stormguardrc.com)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/69d10adf366bb95ba5524653?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Marketing & Promotions Intern](https://jobright.ai/jobs/info/6944d4b9a7227b3ece6679b8?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Apr 04 |
-| **[Gen](https://www.gendigital.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/69b45fce3b74eb1e2c819928?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Marketing/Communications Intern](https://jobright.ai/jobs/info/69977c23ce78e77b4fdbd1ae?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
