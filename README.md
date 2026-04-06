@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexus Law, PLLC](https://nexuslaw.us)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d332380b098b7a6708c9bd?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Apr 05 |
 | **[USANA Health Sciences](http://www.usana.com)** | **[Campaign Automation Intern (Marketing Technology & Lifecycle)](https://jobright.ai/jobs/info/69d327b0cfdc6132f944e59d?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 05 |
 | **[City of Fate](https://www.fatetx.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/69d327ac0b098b7a6708c451?utm_campaign=1065&utm_source=git)** | Fate, TX | On Site | Apr 05 |
 | **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[STUDENT INTERN - COMMUNICATIONS](https://jobright.ai/jobs/info/69d3279c54f00230c6d24f68?utm_campaign=1065&utm_source=git)** | Martinez, CA | On Site | Apr 05 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d28cc0366bb95ba552e384?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 05 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Communications, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/692f8b4afa28370be26ab5a9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27c250b098b7a6708919d?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 05 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27a02891d7b11cfceaf6c?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 05 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27a02891d7b11cfceaf69?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 05 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d27a02891d7b11cfceaf6c?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 05 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69d27a01891d7b11cfceaf66?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d279fd891d7b11cfceaf60?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69d279f154f00230c6d21b4d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 05 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Nasuni](https://www.nasuni.com)** | **[Product Marketing Intern - Undergrad](https://jobright.ai/jobs/info/69c4bc38d5a1016e98dc13c9?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Apr 05 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/69b634b23b74eb1e2c83ea72?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Apr 05 |
 | **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Apr 05 |
-| **[Dr.'s REMEDY Enriched Nail Care](https://www.remedynails.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d2448d366bb95ba552ce10?utm_campaign=1065&utm_source=git)** | Huntington, NY | On Site | Apr 05 |
 | **[Legends Global](http://legends.net)** | **[Events Services Intern](https://jobright.ai/jobs/info/69d1fb180b098b7a67085e16?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6880cd7a29ad6b2744adc425?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Apr 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697d6fac727747250d585879?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
