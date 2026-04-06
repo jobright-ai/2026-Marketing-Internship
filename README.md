@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cornell Global Inc.](www.cornellglobalinc.com)** | **[Direct Marketing Intern](https://jobright.ai/jobs/info/69d35e960b098b7a6708e9fc?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 06 |
+| **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Marketing Manager](https://jobright.ai/jobs/info/69bc820e5b89c002acf240d9?utm_campaign=1065&utm_source=git)** | United States Remote | Remote | Apr 05 |
 | **[The HEINEKEN Company](http://www.theHEINEKENcompany.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d35079891d7b11cfceff85?utm_campaign=1065&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Apr 05 |
 | **[Nexus Law, PLLC](https://nexuslaw.us)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d332380b098b7a6708c9bd?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Apr 05 |
 | **[USANA Health Sciences](http://www.usana.com)** | **[Campaign Automation Intern (Marketing Technology & Lifecycle)](https://jobright.ai/jobs/info/69d327b0cfdc6132f944e59d?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Storm Guard Roofing](https://stormguardrc.com)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/69d10adf366bb95ba5524653?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Marketing & Promotions Intern](https://jobright.ai/jobs/info/6944d4b9a7227b3ece6679b8?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Apr 04 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/69b45fce3b74eb1e2c819928?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Marketing/Communications Intern](https://jobright.ai/jobs/info/69977c23ce78e77b4fdbd1ae?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Apr 04 |
-| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Summer 2026](https://jobright.ai/jobs/info/69cd6a57891d7b11cfcb8b17?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
