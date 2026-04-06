@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USANA Health Sciences](http://www.usana.com)** | **[Campaign Automation Intern (Marketing Technology & Lifecycle)](https://jobright.ai/jobs/info/69d327b0cfdc6132f944e59d?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 05 |
+| **[City of Fate](https://www.fatetx.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/69d327ac0b098b7a6708c451?utm_campaign=1065&utm_source=git)** | Fate, TX | On Site | Apr 05 |
+| **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[STUDENT INTERN - COMMUNICATIONS](https://jobright.ai/jobs/info/69d3279c54f00230c6d24f68?utm_campaign=1065&utm_source=git)** | Martinez, CA | On Site | Apr 05 |
+| **[Gift](https://www.shine.gift)** | **[Kpop Intern - Growth / Field Marketing](https://jobright.ai/jobs/info/69d326f3cdb525785fbbd1da?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Apr 05 |
 | **[USANA Health Sciences](http://www.usana.com)** | **[Campaign Automation Intern (Marketing Technology & Lifecycle)](https://jobright.ai/jobs/info/69d31ea9cfdc6132f944e4e1?utm_campaign=1065&utm_source=git)** | Salt Lake City, Utah | Hybrid | Apr 05 |
 | **[SHOE-INN](http://shoeinn.com)** | **[SOCIAL MEDIA INTERN — HAMPTONS](https://jobright.ai/jobs/info/69d318870b098b7a6708bcf6?utm_campaign=1065&utm_source=git)** | East Hampton, NY | On Site | Apr 05 |
 | **[Editory](https://www.stringer.news/)** | **[Social Media News Creator (Content Internship)](https://jobright.ai/jobs/info/69d311f9cdb525785fbbca09?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Storm Guard Roofing](https://stormguardrc.com)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/69d10adf366bb95ba5524653?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Marketing & Promotions Intern](https://jobright.ai/jobs/info/6944d4b9a7227b3ece6679b8?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Apr 04 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/69b45fce3b74eb1e2c819928?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Marketing/Communications Intern](https://jobright.ai/jobs/info/69977c23ce78e77b4fdbd1ae?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Apr 04 |
-| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Summer 2026](https://jobright.ai/jobs/info/69cd6a57891d7b11cfcb8b17?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Apr 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3ed4828227293ff047c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - eComm - LIC](https://jobright.ai/jobs/info/69d0f33dcdb525785fbafc58?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
