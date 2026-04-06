@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The HEINEKEN Company](http://www.theHEINEKENcompany.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d35079891d7b11cfceff85?utm_campaign=1065&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Apr 05 |
 | **[Nexus Law, PLLC](https://nexuslaw.us)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d332380b098b7a6708c9bd?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Apr 05 |
 | **[USANA Health Sciences](http://www.usana.com)** | **[Campaign Automation Intern (Marketing Technology & Lifecycle)](https://jobright.ai/jobs/info/69d327b0cfdc6132f944e59d?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 05 |
-| **[City of Fate](https://www.fatetx.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/69d327ac0b098b7a6708c451?utm_campaign=1065&utm_source=git)** | Fate, TX | On Site | Apr 05 |
 | **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[STUDENT INTERN - COMMUNICATIONS](https://jobright.ai/jobs/info/69d3279c54f00230c6d24f68?utm_campaign=1065&utm_source=git)** | Martinez, CA | On Site | Apr 05 |
 | **[Gift](https://www.shine.gift)** | **[Kpop Intern - Growth / Field Marketing](https://jobright.ai/jobs/info/69d326f3cdb525785fbbd1da?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Apr 05 |
 | **[USANA Health Sciences](http://www.usana.com)** | **[Campaign Automation Intern (Marketing Technology & Lifecycle)](https://jobright.ai/jobs/info/69d31ea9cfdc6132f944e4e1?utm_campaign=1065&utm_source=git)** | Salt Lake City, Utah | Hybrid | Apr 05 |
@@ -78,8 +78,6 @@ For a complete list, click the following sortable link below:
 | **[WyoTech](http://www.wyotech.edu/)** | **[Marketing Manager](https://jobright.ai/jobs/info/69d2c30a0b098b7a670899f6?utm_campaign=1065&utm_source=git)** | Laramie, WY | On Site | Apr 05 |
 | **[Loudoun United Football Club](https://www.loudoununitedfc.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d2c0ddcdb525785fbba7fb?utm_campaign=1065&utm_source=git)** | Leesburg, VA | On Site | Apr 05 |
 | **[Varsity Health & Training Solutions, DBA N.I.C.E.](www.niceheart.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d2b22acfdc6132f944ba8d?utm_campaign=1065&utm_source=git)** | Ronkonkoma, NY | On Site | Apr 05 |
-| **[Prospect Soccer Academy](www.prospectsocceracademy.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d2ab1a54f00230c6d222fd?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | On Site | Apr 05 |
-| **[Starbeam](www.starbeam.org)** | **[Marketing + Sales (Growth) Intern](https://jobright.ai/jobs/info/69d29a8d891d7b11cfceb63c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Apr 05 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d28cdb0b098b7a67089356?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 05 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d28cd70b098b7a67089354?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69d28cd154f00230c6d21db3?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 05 |
@@ -107,7 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Nasuni](https://www.nasuni.com)** | **[Product Marketing Intern - Undergrad](https://jobright.ai/jobs/info/69c4bc38d5a1016e98dc13c9?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Apr 05 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/69b634b23b74eb1e2c83ea72?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Apr 05 |
 | **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6945b65163141d188455458b?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Apr 05 |
-| **[Legends Global](http://legends.net)** | **[Events Services Intern](https://jobright.ai/jobs/info/69d1fb180b098b7a67085e16?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
+| **[Legends Global](http://legends.net)** | **[Marketing Intern -Lake Charles Event Center](https://jobright.ai/jobs/info/69c7948ce565c26a7002a0c2?utm_campaign=1065&utm_source=git)** | Center, IN | On Site | Apr 05 |
+| ↳ | **[Events Services Intern](https://jobright.ai/jobs/info/69d1fb180b098b7a67085e16?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6880cd7a29ad6b2744adc425?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Apr 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697d6fac727747250d585879?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
 | ↳ | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6960469b7ebc25398eb64be7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 05 |
@@ -129,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Segment Marketing Intern](https://jobright.ai/jobs/info/69b4d27306c1ba00c546530a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Media Planning](https://jobright.ai/jobs/info/6998ed56ce78e77b4fdd7dd7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Knowledge & Content Intern](https://jobright.ai/jobs/info/6944b5b594730b739877f9a6?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 04 |
-| **[Kiewit](http://www.kiewit.com)** | **[Marketing/Proposal Intern (Summer 2026)](https://jobright.ai/jobs/info/69d157fdcdb525785fbb1f76?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Apr 04 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/6997e87b81476f6176b02ef0?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Apr 04 |
 | **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d16bdc366bb95ba55267ae?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Strategic Analytics](https://jobright.ai/jobs/info/699789b381476f6176af9f59?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 04 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Storm Guard Roofing](https://stormguardrc.com)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/69d10adf366bb95ba5524653?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Marketing & Promotions Intern](https://jobright.ai/jobs/info/6944d4b9a7227b3ece6679b8?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Apr 04 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/69b45fce3b74eb1e2c819928?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Marketing/Communications Intern](https://jobright.ai/jobs/info/69977c23ce78e77b4fdbd1ae?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Apr 04 |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Summer 2026](https://jobright.ai/jobs/info/69cd6a57891d7b11cfcb8b17?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
