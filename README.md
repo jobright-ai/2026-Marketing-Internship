@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69d2ffc6891d7b11cfced674?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Cyber Operatives](cyberoperatives.org)** | **[Volunteer / Unpaid Intern – Fundraising, Strategy & Compliance (Cybersecurity Nonprofit)](https://jobright.ai/jobs/info/69d2fedb366bb95ba55306a8?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Department Assistant Intern](https://jobright.ai/jobs/info/69d2cfc00b098b7a67089abf?utm_campaign=1065&utm_source=git)** | Markham, ON | On Site | Apr 05 |
-| **[Mednevo](https://mednevo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d2e6570b098b7a6708b0bb?utm_campaign=1065&utm_source=git)** | Texas, United States | Hybrid | Apr 05 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69d2e372cdb525785fbbb848?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 05 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Marketing Podcast and Speaker Booking Internship (2-5hrs/week, remote)](https://jobright.ai/jobs/info/69d2de050b098b7a6708a705?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Apr 05 |
 | **[July Digital Studio](Julydigitalstudio.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d2d512cfdc6132f944bc59?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Apr 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Storm Guard Roofing](https://stormguardrc.com)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/69d10adf366bb95ba5524653?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Marketing & Promotions Intern](https://jobright.ai/jobs/info/6944d4b9a7227b3ece6679b8?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Apr 04 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/69b45fce3b74eb1e2c819928?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Marketing/Communications Intern](https://jobright.ai/jobs/info/69977c23ce78e77b4fdbd1ae?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
