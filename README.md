@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lamar Advertising Company](http://www.lamar.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69d49537366bb95ba553f39f?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Apr 06 |
+| **[Flowable](https://flowable.com/)** | **[TikTok Commerce B2B Marketing Internship](https://jobright.ai/jobs/info/69d48e38e63cea7a8b65b156?utm_campaign=1065&utm_source=git)** | Madrid, Iowa, United States | On Site | Apr 06 |
 | **[Editory](https://www.stringer.news/)** | **[Social Media News Creator (Content Internship)](https://jobright.ai/jobs/info/69d48981cfdc6132f945bbe3?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
 | **[AffiniPay](https://www.8am.com)** | **[Marketing Project Coordinator Intern](https://jobright.ai/jobs/info/69cadef5e565c26a70041c39?utm_campaign=1065&utm_source=git)** | Remote- US | Remote | Apr 06 |
 | **[Cortif Technologies](https://www.hollanoah.com/)** | **[Growth & Marketing Intern](https://jobright.ai/jobs/info/69d48423cdb525785fbca26b?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
@@ -71,6 +73,8 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Communications & Marketing Part-Time Internship – Summer 2026](https://jobright.ai/jobs/info/69d46d5454f00230c6d30cf2?utm_campaign=1065&utm_source=git)** | Newark, NJ | Hybrid | Apr 06 |
 | **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[SEO Marketing Intern](https://jobright.ai/jobs/info/69c32564ec22f8310ab15567?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 06 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Brand Ambassador - Grocery Store Outreach](https://jobright.ai/jobs/info/69d46780cfdc6132f945a49d?utm_campaign=1065&utm_source=git)** | Kitchener, ON | On Site | Apr 06 |
+| **[Solenis](http://solenis.com/)** | **[Marketing Intern - BSC/Edgov](https://jobright.ai/jobs/info/69d4951254f00230c6d32c55?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 06 |
+| ↳ | **[Marketing Intern - BSC/Edgov](https://jobright.ai/jobs/info/69d49528366bb95ba553f384?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | Apr 06 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69d4637154f00230c6d309d3?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
 | **[A Better Way, Inc](https://votejtf.org/)** | **[Online Crowdfunding Intern](https://jobright.ai/jobs/info/69d460d0366bb95ba553d00a?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Apr 06 |
 | **[The Junkluggers](http://junkluggers.com)** | **[Marketing Intern (Field & Local Marketing) – Summer Internship (1 Mont](https://jobright.ai/jobs/info/69d45b49366bb95ba553ced6?utm_campaign=1065&utm_source=git)** | Garden City, GA, US | On Site | Apr 06 |
@@ -145,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Parfums Christian Dior](https://www.dior.com)** | **[Field Visual Merchandising Intern, Travel Retail Americas](https://jobright.ai/jobs/info/69d4408f891d7b11cfcf8dae?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 06 |
 | **[FC Miami City](http://www.fcmiamicity.com/)** | **[Marketing & Media Assistant](https://jobright.ai/jobs/info/69d4223fcdb525785fbc6997?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 06 |
 | **[Dean Dorton](http://www.deandorton.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69d420facdb525785fbc6967?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Apr 06 |
-| **[Little Rock Water Reclamation Authority](https://www.lrwra.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69d420a2e63cea7a8b656ef8?utm_campaign=1065&utm_source=git)** | Little Rock, AR | On Site | Apr 06 |
 | **[goop Kitchen](https://www.goopkitchen.com)** | **[Local Marketing Summer Internship (PAID)](https://jobright.ai/jobs/info/69d42070e63cea7a8b656ece?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 06 |
 | **[Netwrix Corporation](http://www.netwrix.com)** | **[Internal Communications Intern [Summer Internship]](https://jobright.ai/jobs/info/69d41e2bcfdc6132f9457e0f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Visit Shreveport-Bossier](https://www.shreveport-bossier.org/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69d41db1891d7b11cfcf791a?utm_campaign=1065&utm_source=git)** | Shreveport, LA | On Site | Apr 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arch City Collective](https://archcitycollective.com/)** | **[Marketing and Sales Paid Internship](https://jobright.ai/jobs/info/69d41c5254f00230c6d2e339?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 06 |
 | **[Zscaler](https://www.zscaler.com)** | **[Marketing Intern, LabThreatz](https://jobright.ai/jobs/info/69d418f9366bb95ba553a4fa?utm_campaign=1065&utm_source=git)** | San Jose, California, USA | Hybrid | Apr 06 |
 | **[Cenergistic](https://cenergistic.com)** | **[Internship - Energy Specialist](https://jobright.ai/jobs/info/69d43665cdb525785fbc7369?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Apr 06 |
-| **[MyStandard](https://mystandard.io/)** | **[Marketing & Investment Internship](https://jobright.ai/jobs/info/69d4184d54f00230c6d2dec3?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
-| **[Shake Shack](careers.shakeshack.com)** | **[Intern - PR and Communications](https://jobright.ai/jobs/info/69d41779cdb525785fbc60a2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
-| **[Rise Realty DFW, LLC](http://risedfw.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d41741891d7b11cfcf71d3?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
