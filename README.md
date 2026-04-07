@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moments By Max: Balloon Decor, Marquees & Event Rentals](www.momentsbymax.com)** | **[Social Media, Marketing & Admin Internship](https://jobright.ai/jobs/info/69d47c29cdb525785fbc9e8b?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Apr 06 |
+| **[MagnaFlow](http://www.magnaflow.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d47c26cdb525785fbc9e80?utm_campaign=1065&utm_source=git)** | Oceanside, CA | On Site | Apr 06 |
+| **[+57](https://plusfiveseven.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d47a5a891d7b11cfcfac26?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | Apr 06 |
+| **[The E.W. Scripps Company](http://www.scripps.com)** | **[National Media & Marketing Intern](https://jobright.ai/jobs/info/69d474ee891d7b11cfcfa8cf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
+| **[Forsyth County](http://www.forsyth.cc)** | **[CTAE Program- Marketing Intern](https://jobright.ai/jobs/info/69d474b454f00230c6d3164f?utm_campaign=1065&utm_source=git)** | Cumming, GA | On Site | Apr 06 |
 | **[Signal Group DC](https://signaldc.com/)** | **[Communications Internship (Summer 2026)](https://jobright.ai/jobs/info/69d47015cfdc6132f945a851?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Apr 06 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Sales & Marketing Intern, Digital Assets](https://jobright.ai/jobs/info/69d47009e63cea7a8b65980f?utm_campaign=1065&utm_source=git)** | Kansas City, MO | Hybrid | Apr 06 |
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Communications & Marketing Part-Time Internship – Summer 2026](https://jobright.ai/jobs/info/69d46d5454f00230c6d30cf2?utm_campaign=1065&utm_source=git)** | Newark, NJ | Hybrid | Apr 06 |
 | **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[SEO Marketing Intern](https://jobright.ai/jobs/info/69c32564ec22f8310ab15567?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 06 |
-| **[Solenis](http://solenis.com/)** | **[Marketing Intern - BSC/Edgov](https://jobright.ai/jobs/info/69d46b8b54f00230c6d30c65?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 06 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Brand Ambassador - Grocery Store Outreach](https://jobright.ai/jobs/info/69d46780cfdc6132f945a49d?utm_campaign=1065&utm_source=git)** | Kitchener, ON | On Site | Apr 06 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69d4637154f00230c6d309d3?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
 | **[A Better Way, Inc](https://votejtf.org/)** | **[Online Crowdfunding Intern](https://jobright.ai/jobs/info/69d460d0366bb95ba553d00a?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Apr 06 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Pretium Packaging](http://www.pretiumpkg.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/69d455a3e63cea7a8b6589af?utm_campaign=1065&utm_source=git)** | Birmingham, Michigan, United States | On Site | Apr 06 |
 | **[THE SHARPE ALLIANCE](https://www.sharpealliance.com/)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/69d4559b366bb95ba553c990?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Apr 06 |
 | **[Pronghorn](https://www.pronghorn.co/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d4553f366bb95ba553c785?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Apr 06 |
-| **[AKKI](https://www.akkinewyork.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d45218cdb525785fbc83a9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699002520cc8ea15f1da9976?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Hybrid | Apr 06 |
 | **[Cornerstone OnDemand](http://www.cornerstoneondemand.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69d44f9454f00230c6d2ffe0?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69d44f50e63cea7a8b65889f?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Apr 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Meriton](https://meriton.com/)** | **[Summer Internship – Marketing and Communications](https://jobright.ai/jobs/info/69c1881a79e36d3a847e6784?utm_campaign=1065&utm_source=git)** | Irving, Texas | On Site | Apr 06 |
 | **[Zscaler](https://www.zscaler.com)** | **[Marketing Intern, LabThreatz](https://jobright.ai/jobs/info/69d4143dcdb525785fbc5fc6?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Apr 06 |
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/69d4143ccfdc6132f9457552?utm_campaign=1065&utm_source=git)** | Westminster, CO | On Site | Apr 06 |
-| **[Camping World](https://investor.campingworld.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d4102e891d7b11cfcf6fb3?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 06 |
-| **[Bridge Learning Center](https://www.bridgelearningcenter.org)** | **[Community & Marketing Intern (Summer)](https://jobright.ai/jobs/info/69d40fdde63cea7a8b6563c9?utm_campaign=1065&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 06 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Burlington, ON](https://jobright.ai/jobs/info/69d40f0954f00230c6d2db82?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
