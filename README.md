@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SupportPay](https://supportpay.com)** | **[Marketing / Data Intern](https://jobright.ai/jobs/info/69d4bce4cdb525785fbcc6bc?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 07 |
+| **[Shezza](http://shezzasocks.com)** | **[Social Media Intern (Personal Brand Content, Directly Reporting to Founder)](https://jobright.ai/jobs/info/69d4bcb3cfdc6132f945de03?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Apr 07 |
 | **[IW Group Inc.](http://iwgroupinc.com)** | **[Intern](https://jobright.ai/jobs/info/699fe93381476f6176b9b749?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 06 |
 | **[Ignite Music Marketing](http://ignitemymusic-apply.carrd.co/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d4a0f9e63cea7a8b65bc84?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Lamar Advertising Company](http://www.lamar.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69d49537366bb95ba553f39f?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Apr 06 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[MagnaFlow](http://www.magnaflow.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d47c26cdb525785fbc9e80?utm_campaign=1065&utm_source=git)** | Oceanside, CA | On Site | Apr 06 |
 | **[+57](https://plusfiveseven.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d47a5a891d7b11cfcfac26?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | Apr 06 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[National Media & Marketing Intern](https://jobright.ai/jobs/info/69d474ee891d7b11cfcfa8cf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
-| **[Forsyth County](http://www.forsyth.cc)** | **[CTAE Program- Marketing Intern](https://jobright.ai/jobs/info/69d474b454f00230c6d3164f?utm_campaign=1065&utm_source=git)** | Cumming, GA | On Site | Apr 06 |
 | **[Signal Group DC](https://signaldc.com/)** | **[Communications Internship (Summer 2026)](https://jobright.ai/jobs/info/69d47015cfdc6132f945a851?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Apr 06 |
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Sales & Marketing Intern, Digital Assets](https://jobright.ai/jobs/info/69d47009e63cea7a8b65980f?utm_campaign=1065&utm_source=git)** | Kansas City, MO | Hybrid | Apr 06 |
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Communications & Marketing Part-Time Internship – Summer 2026](https://jobright.ai/jobs/info/69d46d5454f00230c6d30cf2?utm_campaign=1065&utm_source=git)** | Newark, NJ | Hybrid | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roberts Wesleyan University](http://www.roberts.edu)** | **[Athletics Strategic Projects Intern](https://jobright.ai/jobs/info/69d43abc54f00230c6d2f7e2?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Apr 06 |
 | **[Arch City Collective](https://archcitycollective.com/)** | **[Marketing and Sales Paid Internship](https://jobright.ai/jobs/info/69d41c5254f00230c6d2e339?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 06 |
 | **[Zscaler](https://www.zscaler.com)** | **[Marketing Intern, LabThreatz](https://jobright.ai/jobs/info/69d418f9366bb95ba553a4fa?utm_campaign=1065&utm_source=git)** | San Jose, California, USA | Hybrid | Apr 06 |
-| **[MyStandard](https://mystandard.io/)** | **[Marketing & Investment Internship](https://jobright.ai/jobs/info/69d4184d54f00230c6d2dec3?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
