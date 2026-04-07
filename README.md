@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Icertis](https://www.icertis.com)** | **[Marketing Operations Intern – Data Management & AI Workflows](https://jobright.ai/jobs/info/69b87cc556973837413dded8?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 07 |
+| **[MathWorks](http://www.mathworks.com)** | **[Brigham Young University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69b8438656973837413d6cb4?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 07 |
+| **[Fendi](http://www.fendi.com)** | **[Intern, Private Client Relations](https://jobright.ai/jobs/info/69b864d006c1ba00c54a4ccf?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 07 |
+| **[Alex's Lemonade Stand Foundation](https://www.alexslemonade.org/)** | **[Content Writer - intern](https://jobright.ai/jobs/info/69d4c8ff366bb95ba5541041?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 07 |
 | **[SupportPay](https://supportpay.com)** | **[Marketing / Data Intern](https://jobright.ai/jobs/info/69d4bce4cdb525785fbcc6bc?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Shezza](http://shezzasocks.com)** | **[Social Media Intern (Personal Brand Content, Directly Reporting to Founder)](https://jobright.ai/jobs/info/69d4bcb3cfdc6132f945de03?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Apr 07 |
 | **[IW Group Inc.](http://iwgroupinc.com)** | **[Intern](https://jobright.ai/jobs/info/699fe93381476f6176b9b749?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 06 |
@@ -116,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Nutanix](http://www.nutanix.com)** | **[Product and Solutions Marketing Intern (Undergrad - LOCAL ONLY)](https://jobright.ai/jobs/info/69d4393454f00230c6d2f75d?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Apr 06 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Marketing and Stewardship Coordinator](https://jobright.ai/jobs/info/69d4392254f00230c6d2f6be?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | Apr 06 |
 | **[CG Financial Services](http://mycgfinancial.com)** | **[Insurance Internship](https://jobright.ai/jobs/info/69d43921cdb525785fbc79db?utm_campaign=1065&utm_source=git)** | Haslett,MI,US | On Site | Apr 06 |
-| **[Wayne Metropolitan Community Action Agency](https://www.waynemetro.org/)** | **[Media & Events Intern- Paid](https://jobright.ai/jobs/info/69d4391d891d7b11cfcf89c4?utm_campaign=1065&utm_source=git)** | Lakeshore Office - Detroit, MI 48202 | Hybrid | Apr 06 |
-| ↳ | **[Social Media and Special Event Intern- Paid](https://jobright.ai/jobs/info/69d4391d891d7b11cfcf89cd?utm_campaign=1065&utm_source=git)** | Lakeshore Office - Detroit, MI 48202 | Hybrid | Apr 06 |
+| **[Wayne Metropolitan Community Action Agency](https://www.waynemetro.org/)** | **[Social Media and Special Event Intern- Paid](https://jobright.ai/jobs/info/69d4391d891d7b11cfcf89cd?utm_campaign=1065&utm_source=git)** | Lakeshore Office - Detroit, MI 48202 | Hybrid | Apr 06 |
+| ↳ | **[Media & Events Intern- Paid](https://jobright.ai/jobs/info/69d4391d891d7b11cfcf89c4?utm_campaign=1065&utm_source=git)** | Lakeshore Office - Detroit, MI 48202 | Hybrid | Apr 06 |
 | **[Harvest Events](harvesteventsclt.com)** | **[Sales & Marketing Associate Internship](https://jobright.ai/jobs/info/69d4369a366bb95ba553b708?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 06 |
 | **[Lunar Energy](https://www.lunarenergy.com)** | **[GTM Intern, Gridshare](https://jobright.ai/jobs/info/69a326950da45516f16c7075?utm_campaign=1065&utm_source=git)** | Santa Clara County, CA | On Site | Apr 06 |
 | **[Burrell Communications](http://www.burrell.com)** | **[Intern, Copywriting](https://jobright.ai/jobs/info/69be206a393a1008f7440399?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
@@ -132,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[KRM Development, LLC](https://krmcustomhomes.com/)** | **[Part Time Marketing Intern](https://jobright.ai/jobs/info/69d42d2354f00230c6d2ed57?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Apr 06 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 - Marketing & Communications Intern](https://jobright.ai/jobs/info/69d42d18cdb525785fbc6fbc?utm_campaign=1065&utm_source=git)** | California - San Francisco | On Site | Apr 06 |
 | **[Enovis](https://enovis.com)** | **[Enabling Technology Marketing Intern](https://jobright.ai/jobs/info/69d42cfae63cea7a8b657493?utm_campaign=1065&utm_source=git)** | USA, Texas, Austin | On Site | Apr 06 |
-| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Lasell University](https://jobright.ai/jobs/info/69d44b1de63cea7a8b6586bb?utm_campaign=1065&utm_source=git)** | Auburndale, MA | On Site | Apr 06 |
-| ↳ | **[Marketing Intern, Chartwells Higher Ed / Pace University](https://jobright.ai/jobs/info/69d44af3366bb95ba553c441?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 06 |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Pace University](https://jobright.ai/jobs/info/69d44af3366bb95ba553c441?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 06 |
+| ↳ | **[Marketing Intern, Chartwells Higher Ed / Lasell University](https://jobright.ai/jobs/info/69d44b1de63cea7a8b6586bb?utm_campaign=1065&utm_source=git)** | Auburndale, MA | On Site | Apr 06 |
 | **[Enovis](https://enovis.com)** | **[Enabling Technology Marketing Intern](https://jobright.ai/jobs/info/69d4286d54f00230c6d2eb9a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 06 |
 | **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Consumer Insights & Innovation Summer Internship](https://jobright.ai/jobs/info/69d4264754f00230c6d2eaa6?utm_campaign=1065&utm_source=git)** | Racine, WI | On Site | Apr 06 |
 | **[Dean Dorton](http://www.deandorton.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69d42542cdb525785fbc6c90?utm_campaign=1065&utm_source=git)** | Fort Wright, Kentucky | On Site | Apr 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dean Dorton](http://www.deandorton.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69d420facdb525785fbc6967?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Apr 06 |
 | **[goop Kitchen](https://www.goopkitchen.com)** | **[Local Marketing Summer Internship (PAID)](https://jobright.ai/jobs/info/69d42070e63cea7a8b656ece?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 06 |
 | **[Netwrix Corporation](http://www.netwrix.com)** | **[Internal Communications Intern [Summer Internship]](https://jobright.ai/jobs/info/69d41e2bcfdc6132f9457e0f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
-| **[Visit Shreveport-Bossier](https://www.shreveport-bossier.org/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69d41db1891d7b11cfcf791a?utm_campaign=1065&utm_source=git)** | Shreveport, LA | On Site | Apr 06 |
-| **[Roberts Wesleyan University](http://www.roberts.edu)** | **[Athletics Strategic Projects Intern](https://jobright.ai/jobs/info/69d43abc54f00230c6d2f7e2?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Apr 06 |
-| **[Arch City Collective](https://archcitycollective.com/)** | **[Marketing and Sales Paid Internship](https://jobright.ai/jobs/info/69d41c5254f00230c6d2e339?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 06 |
-| **[Zscaler](https://www.zscaler.com)** | **[Marketing Intern, LabThreatz](https://jobright.ai/jobs/info/69d418f9366bb95ba553a4fa?utm_campaign=1065&utm_source=git)** | San Jose, California, USA | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
