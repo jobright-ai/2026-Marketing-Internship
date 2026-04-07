@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sloane](http://www.sloanepr.com/)** | **[PR Internship, Sloane and Company- Summer 2026](https://jobright.ai/jobs/info/69ba88d106c1ba00c54c9559?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
+| **[BPM-PR Firm](http://bpm-prfirm.com/)** | **[Part Time Public Relations Intern](https://jobright.ai/jobs/info/69d515a7706f771673ba0759?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
+| **[Starbeam](www.starbeam.org)** | **[Growth (Marketing & Sales) Intern](https://jobright.ai/jobs/info/69d5143acdb525785fbce2a8?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Apr 07 |
+| **[Candescent](https://www.candescent.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69d51411891d7b11cfcff3d7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 07 |
+| **[Fezzora, Inc.](fezzorainc.com)** | **[Entry Level Marketing 2026 Internship](https://jobright.ai/jobs/info/69d51404366bb95ba55425dc?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 07 |
+| **[QuidelOrtho](http://QuidelOrtho.com)** | **[AI Marketing Operations Intern](https://jobright.ai/jobs/info/69ba96333b74eb1e2c88a4ad?utm_campaign=1065&utm_source=git)** | Kings County, NY | Hybrid | Apr 07 |
+| **[The Junkluggers](http://junkluggers.com)** | **[Marketing Intern (Field & Local Marketing) – Summer Internship (1 Mont](https://jobright.ai/jobs/info/69d513d8366bb95ba55425ad?utm_campaign=1065&utm_source=git)** | Garden City, GA | On Site | Apr 07 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69c4d74233eecf31079544d5?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Apr 07 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69d50a85891d7b11cfcff1be?utm_campaign=1065&utm_source=git)** | Inver Grove Heights, MN | On Site | Apr 07 |
 | **[The HEINEKEN Company](http://www.theHEINEKENcompany.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d50a76cfdc6132f945f680?utm_campaign=1065&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Apr 07 |
 | **[Provation](https://www.provationmedical.com)** | **[Customer and Market Engagement Intern](https://jobright.ai/jobs/info/69d50a76e63cea7a8b65e695?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 07 |
@@ -76,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Agentio](https://www.agentio.com)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/69499c5b63141d18845939a3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[Pronghorn](https://www.pronghorn.co/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d4ec7b706f771673b9fb43?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Apr 07 |
 | **[Fragrance Du Bois](https://fragrancedubois.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d4eb74366bb95ba5541a01?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 07 |
-| **[Unique Vacations, Inc.](https://www.linkedin.com/company/79788490)** | **[Paid Social Media Intern](https://jobright.ai/jobs/info/699ce5ce81476f6176b56e45?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 07 |
 | **[VideoForce.ai](https://cipio.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d4e8c6e63cea7a8b65db5f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Stepful](https://www.stepful.com/)** | **[Director, Growth Marketing](https://jobright.ai/jobs/info/69d4e8a2e63cea7a8b65db4c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/69cac0a9aa3c2c1995e2fd31?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Apr 07 |
@@ -127,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/69d44e6b891d7b11cfcf932d?utm_campaign=1065&utm_source=git)** | Westminster, CO | On Site | Apr 06 |
 | **[Razer Inc.](https://www.razer.com)** | **[Marketing Influencer/Community Intern](https://jobright.ai/jobs/info/69d44e5454f00230c6d2ff7b?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Apr 06 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Burlington, ON](https://jobright.ai/jobs/info/69d44e4354f00230c6d2ff35?utm_campaign=1065&utm_source=git)** | Burlington, ON | On Site | Apr 06 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 - Marketing & Communications Intern](https://jobright.ai/jobs/info/69d44afc366bb95ba553c47b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 06 |
 | **[Wieland Small Tube Products](http://www.smalltubeproducts.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69d44ad2e63cea7a8b658581?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Apr 06 |
 | **[Razer Inc.](https://www.razer.com)** | **[Marketing Influencer/Community Intern](https://jobright.ai/jobs/info/69d44abc891d7b11cfcf903c?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Apr 06 |
 | **[Bubble](https://hellobubble.com/)** | **[Social Media Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/69d440cdcfdc6132f9459393?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Apr 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lunar Energy](https://www.lunarenergy.com)** | **[GTM Intern, Gridshare](https://jobright.ai/jobs/info/69a326950da45516f16c7075?utm_campaign=1065&utm_source=git)** | Santa Clara County, CA | On Site | Apr 06 |
 | **[Burrell Communications](http://www.burrell.com)** | **[Intern, Copywriting](https://jobright.ai/jobs/info/69be206a393a1008f7440399?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Social Media Professional I](https://jobright.ai/jobs/info/69d43406cdb525785fbc72b2?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | Apr 06 |
-| **[Greenspoon Marder LLP](https://www.gmlaw.com/)** | **[Marketing Communications Specialist - Downtown Fort Lauderdale - 0299](https://jobright.ai/jobs/info/69d433a8cfdc6132f945881c?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Apr 06 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69d43395891d7b11cfcf8347?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 06 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Consumer Insights Intern (September to December)](https://jobright.ai/jobs/info/69d43225891d7b11cfcf82f3?utm_campaign=1065&utm_source=git)** | Needham, MA, United States | On Site | Apr 06 |
-| **[Bubble](https://hellobubble.com/)** | **[Social Media Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/69d43225891d7b11cfcf82ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Corporate Communications Intern (September to December)](https://jobright.ai/jobs/info/69d43209cfdc6132f9458797?utm_campaign=1065&utm_source=git)** | Needham, MA, United States | On Site | Apr 06 |
-| **[Stevans Commercial Interiors](https://www.stevansinc.com/)** | **[Business & Marketing Co-op / Summer Internship](https://jobright.ai/jobs/info/69d4304554f00230c6d2eef6?utm_campaign=1065&utm_source=git)** | Brantford, ON | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
