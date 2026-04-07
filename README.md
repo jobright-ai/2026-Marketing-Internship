@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Signal Group DC](https://signaldc.com/)** | **[Communications Internship (Summer 2026)](https://jobright.ai/jobs/info/69d47015cfdc6132f945a851?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Apr 06 |
+| **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Sales & Marketing Intern, Digital Assets](https://jobright.ai/jobs/info/69d47009e63cea7a8b65980f?utm_campaign=1065&utm_source=git)** | Kansas City, MO | Hybrid | Apr 06 |
+| **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Communications & Marketing Part-Time Internship – Summer 2026](https://jobright.ai/jobs/info/69d46d5454f00230c6d30cf2?utm_campaign=1065&utm_source=git)** | Newark, NJ | Hybrid | Apr 06 |
+| **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[SEO Marketing Intern](https://jobright.ai/jobs/info/69c32564ec22f8310ab15567?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 06 |
+| **[Solenis](http://solenis.com/)** | **[Marketing Intern - BSC/Edgov](https://jobright.ai/jobs/info/69d46b8b54f00230c6d30c65?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 06 |
+| **[Volunteer Success](http://volunteersuccess.com)** | **[Brand Ambassador - Grocery Store Outreach](https://jobright.ai/jobs/info/69d46780cfdc6132f945a49d?utm_campaign=1065&utm_source=git)** | Kitchener, ON | On Site | Apr 06 |
+| **[HealthEdge](http://www.healthedge.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69d4637154f00230c6d309d3?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
 | **[A Better Way, Inc](https://votejtf.org/)** | **[Online Crowdfunding Intern](https://jobright.ai/jobs/info/69d460d0366bb95ba553d00a?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Apr 06 |
 | **[The Junkluggers](http://junkluggers.com)** | **[Marketing Intern (Field & Local Marketing) – Summer Internship (1 Mont](https://jobright.ai/jobs/info/69d45b49366bb95ba553ced6?utm_campaign=1065&utm_source=git)** | Garden City, GA, US | On Site | Apr 06 |
 | **[MarkitAds](https://markitads.com/)** | **[Campus Brand Ambassador — University of Florida](https://jobright.ai/jobs/info/69d45a71cfdc6132f945a05c?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Apr 06 |
@@ -84,8 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Workman Marketing & Publicity Internship](https://jobright.ai/jobs/info/69d4409acfdc6132f9459322?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Apr 06 |
 | **[Nutanix](http://www.nutanix.com)** | **[Product and Solutions Marketing Intern (Undergrad - LOCAL ONLY)](https://jobright.ai/jobs/info/69d44090366bb95ba553c0ca?utm_campaign=1065&utm_source=git)** | San Jose, California | Hybrid | Apr 06 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern 1 - AE Career Pathways Ambassador (Hourly)](https://jobright.ai/jobs/info/69d4407fe63cea7a8b658304?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 06 |
-| **[Solenis](http://solenis.com/)** | **[Marketing Intern - BSC/Edgov](https://jobright.ai/jobs/info/69d44046891d7b11cfcf8c14?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States of America | Remote | Apr 06 |
-| ↳ | **[Marketing Intern - BSC/Edgov](https://jobright.ai/jobs/info/69d44046cdb525785fbc7bb1?utm_campaign=1065&utm_source=git)** | Wilmington, Delaware, United States of America | Remote | Apr 06 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Workman Marketing & Publicity Internship](https://jobright.ai/jobs/info/69d43e06891d7b11cfcf8bb9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Communications Coordinator - LAS Office of Marketing & Communications](https://jobright.ai/jobs/info/69d43d6d54f00230c6d2f859?utm_campaign=1065&utm_source=git)** | Urbana, IL | Hybrid | Apr 06 |
 | **[Central Bank](https://www.centralbank.net/)** | **[2026 Denver Marketing Intern](https://jobright.ai/jobs/info/69d43c85891d7b11cfcf8b60?utm_campaign=1065&utm_source=git)** | Englewood, CO | On Site | Apr 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d4102e891d7b11cfcf6fb3?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 06 |
 | **[Bridge Learning Center](https://www.bridgelearningcenter.org)** | **[Community & Marketing Intern (Summer)](https://jobright.ai/jobs/info/69d40fdde63cea7a8b6563c9?utm_campaign=1065&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 06 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Burlington, ON](https://jobright.ai/jobs/info/69d40f0954f00230c6d2db82?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | On Site | Apr 06 |
-| **[Topgolf](https://topgolf.com/us/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69d40ef7e63cea7a8b656301?utm_campaign=1065&utm_source=git)** | CGC - HQ - Carlsbad | On Site | Apr 06 |
-| **[Solutions by Sam](www.solutionsbysam.com)** | **[PR & Influencer Marketing Intern](https://jobright.ai/jobs/info/69d40a70891d7b11cfcf6d3a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 06 |
-| **[GPC Beverage](https://www.gillettepepsicola.com)** | **[Business Intern - Marketing & Social Media](https://jobright.ai/jobs/info/69d408ea54f00230c6d2d89e?utm_campaign=1065&utm_source=git)** | La Crosse,WI,US | On Site | Apr 06 |
-| **[Cosm](https://www.cosm.com)** | **[Intern - Programming Strategy](https://jobright.ai/jobs/info/69d408d3cfdc6132f9456fd8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Apr 06 |
-| **[Proforma](http://www.proforma.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69d408b0e63cea7a8b655ef2?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
