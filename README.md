@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IQM Corporation](http://iqm.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69d6b92452a5bf580012b662?utm_campaign=1065&utm_source=git)** | Denver Metropolitan Area | On Site | Apr 08 |
+| **[Jabil](https://www.jabil.com)** | **[Recruitment Marketing Intern](https://jobright.ai/jobs/info/69d6b91b52a5bf580012b656?utm_campaign=1065&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 08 |
+| **[CalCo Design & Renovation](www.calcodesign.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d6b90f52a5bf580012b649?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Apr 08 |
+| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern - Marketing Analytics](https://jobright.ai/jobs/info/69d6b7a448f0c8161d2fa716?utm_campaign=1065&utm_source=git)** | Berkeley Heights, NJ | On Site | Apr 08 |
+| **[UNDP Careers](https://www.undp.org)** | **[RBA Communications Intern](https://jobright.ai/jobs/info/69d6b79448f0c8161d2fa6f1?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 08 |
+| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d6b74f48f0c8161d2fa659?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 08 |
+| **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Knowledge & Content Intern](https://jobright.ai/jobs/info/6944b5b594730b739877f9a6?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 08 |
+| **[Eleven Six PR](https://www.elevensixpr.com/)** | **[Public Relations & Social Media Intern](https://jobright.ai/jobs/info/69d6b615cfdc6132f946c7e4?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Apr 08 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Brand Marketing & Social Intern (Toronto Hybrid)](https://jobright.ai/jobs/info/69d6b608cfdc6132f946c7bd?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Apr 08 |
+| **[Vote](https://vote.ad)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d6b606cfdc6132f946c7ba?utm_campaign=1065&utm_source=git)** | Toronto, ON | Remote | Apr 08 |
+| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Gear Marketing Intern / Titleist](https://jobright.ai/jobs/info/69d6b1bb52a5bf580012b37e?utm_campaign=1065&utm_source=git)** | New Bedford, MA | On Site | Apr 08 |
+| **[Corpay](https://payments.corpay.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d6b190706f771673bad2b0?utm_campaign=1065&utm_source=git)** | Buckhead, GA | On Site | Apr 08 |
+| **[Connection](http://www.pcconnection.com)** | **[Corporate Marketing and Events Intern- PCC](https://jobright.ai/jobs/info/69d6b18c52a5bf580012b332?utm_campaign=1065&utm_source=git)** | Merrimack, NH | On Site | Apr 08 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Communication Intern (Marketing/Outreach/Public Relations)](https://jobright.ai/jobs/info/69d6ae2248f0c8161d2fa451?utm_campaign=1065&utm_source=git)** | Carson, CA | On Site | Apr 08 |
 | **[South Asian Business Council of Virginia](https://sabcva.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d6ae1052a5bf580012b300?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Apr 08 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern - Marketing Analytics](https://jobright.ai/jobs/info/69d6acdb706f771673bad17f?utm_campaign=1065&utm_source=git)** | Berkeley Heights | On Site | Apr 08 |
@@ -93,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[The Design Group](http://www.thedesigngrouponline.com)** | **[Social Media and Content Marketing Intern](https://jobright.ai/jobs/info/69d69c5b706f771673babb7b?utm_campaign=1065&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Hybrid | Apr 08 |
 | **[DecisionHR](https://www.decisionhr.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69d69c55e63cea7a8b669eb8?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | Hybrid | Apr 08 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[MARKETING INTERN](https://jobright.ai/jobs/info/69d69c13cfdc6132f946af2b?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
-| **[1P Algorithms](https://www.1palgos.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d69c0f366bb95ba554da78?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 08 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Social Media Intern (CXM)](https://jobright.ai/jobs/info/69badd083b74eb1e2c8913d7?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 08 |
 | **[Universal Technical Institute, Inc.](https://www.uti.edu)** | **[Social Media Intern - Aurora](https://jobright.ai/jobs/info/69825ef2348f733a5c352ef7?utm_campaign=1065&utm_source=git)** | Aurora, CO | On Site | Apr 08 |
 | **[One Million by One Million (1Mby1M)](http://1mby1m.com)** | **[Researching & Writing About Regional Startup Accelerators Summer Internship](https://jobright.ai/jobs/info/69d6984a706f771673baba39?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Remote | Apr 08 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d6734a366bb95ba554cad6?utm_campaign=1065&utm_source=git)** | Rose 9, New York, NY, US | On Site | Apr 08 |
 | **[BGIS](https://www.bgis.com)** | **[Summer Intern, Events/Marketing](https://jobright.ai/jobs/info/69d67344366bb95ba554cab3?utm_campaign=1065&utm_source=git)** | Markham, ON, Canada | Hybrid | Apr 08 |
 | **[Las Vegas Motor Speedway](http://lvms.com)** | **[Field Marketing Summer Internship](https://jobright.ai/jobs/info/69d671f6cfdc6132f9469f62?utm_campaign=1065&utm_source=git)** | Hampton, GA, US | On Site | Apr 08 |
-| **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Ecommerce Marketplace Intern](https://jobright.ai/jobs/info/69d671f652a5bf5800128cae?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 08 |
-| **[Leviton](https://www.leviton.com)** | **[Intern, Retail Marketing](https://jobright.ai/jobs/info/699ec8ef81476f6176b83ce5?utm_campaign=1065&utm_source=git)** | Melville, NY | On Site | Apr 08 |
-| **[Smith+Nephew](http://www.smith-nephew.com)** | **[Marketing Intern (Pittsburgh, PA - Memphis, TN)](https://jobright.ai/jobs/info/69bb868b5697383741418679?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Apr 08 |
-| **[Cornell Global Inc.](www.cornellglobalinc.com)** | **[Direct Marketing Intern](https://jobright.ai/jobs/info/69d35e960b098b7a6708e9fc?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 08 |
-| **[Get Engaged](https://getengagedmedia.com/)** | **[Internship](https://jobright.ai/jobs/info/689c8b4afaa4e875e8268c63?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Brand Marketing & Social Intern (Toronto Hybrid)](https://jobright.ai/jobs/info/69d66b4d52a5bf5800128a08?utm_campaign=1065&utm_source=git)** | CA-ON-Toronto | Hybrid | Apr 08 |
-| ↳ | **[Brand Marketing & Social Intern (Toronto Hybrid)](https://jobright.ai/jobs/info/69d66a7848f0c8161d2f7ad5?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | Hybrid | Apr 08 |
-| **[Digital Cheddar](https://digitalcheddar.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d66a4a366bb95ba554c7ab?utm_campaign=1065&utm_source=git)** | East Lansing, MI | On Site | Apr 08 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Marketing Intern - Metairie, LA](https://jobright.ai/jobs/info/6965906c5ad3a93f8230d6dd?utm_campaign=1065&utm_source=git)** | Metairie, LA | On Site | Apr 08 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual Spanish Marketing Intern](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b8c6?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Apr 08 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern- Marketing](https://jobright.ai/jobs/info/69ba852e5697383741400a3e?utm_campaign=1065&utm_source=git)** | Easton, PA | On Site | Apr 08 |
-| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Brand Management, SquishPillows](https://jobright.ai/jobs/info/69d666ac366bb95ba554c67d?utm_campaign=1065&utm_source=git)** | Bristol, PA | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
