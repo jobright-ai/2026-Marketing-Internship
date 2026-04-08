@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ba86185697383741400f92?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 08 |
+| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa56bc2ebd316bece219c8?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 08 |
+| **[Unique Vacations, Inc.](https://www.linkedin.com/company/79788490)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/699cf09481476f6176b57b46?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 08 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Content Insights](https://jobright.ai/jobs/info/699e1bf8e0bddb6acacd7aa5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 08 |
+| **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Provider Relations Intern - Retail](https://jobright.ai/jobs/info/699eb4a9ce78e77b4fe45b7d?utm_campaign=1065&utm_source=git)** | Lewisville, TX | Remote | Apr 08 |
+| **[Hudl](http://www.hudl.com)** | **[College & Professional Marketing Intern](https://jobright.ai/jobs/info/699cf9c5ce78e77b4fe1b8ec?utm_campaign=1065&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Apr 08 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Publicity](https://jobright.ai/jobs/info/69a854ee1dfc787e9aa3558a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 08 |
+| **[Fort Pierce Utilities Authority](https://fpua.com)** | **[Digital Media Generalist Intern](https://jobright.ai/jobs/info/69d6284852a5bf58001279ed?utm_campaign=1065&utm_source=git)** | Fort Pierce, FL | On Site | Apr 08 |
 | **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[STUDENT INTERN - COMMUNICATIONS](https://jobright.ai/jobs/info/69d61a5072c86e289ed80334?utm_campaign=1065&utm_source=git)** | Martinez, CA | On Site | Apr 08 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/69d618ef366bb95ba554b70a?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Communications & Home Run](https://jobright.ai/jobs/info/69d618df72c86e289ed80317?utm_campaign=1065&utm_source=git)** | West Sacramento, CA | On Site | Apr 08 |
@@ -131,8 +139,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Relations Intern](https://jobright.ai/jobs/info/69d58c0f706f771673ba413e?utm_campaign=1065&utm_source=git)** | Houston, TX, US | Hybrid | Apr 07 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (On-Site)](https://jobright.ai/jobs/info/69d58c03891d7b11cfd02d9d?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 07 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern  Global Marketing (Pittsburgh, PA)](https://jobright.ai/jobs/info/69d58bc5706f771673ba3fef?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Apr 07 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d58bc3706f771673ba3fe4?utm_campaign=1065&utm_source=git)** | Shelby Township, MI | On Site | Apr 07 |
-| ↳ | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d58bc3366bb95ba5545e71?utm_campaign=1065&utm_source=git)** | Chesterfield, MI | On Site | Apr 07 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d58bc3366bb95ba5545e71?utm_campaign=1065&utm_source=git)** | Chesterfield, MI | On Site | Apr 07 |
+| ↳ | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d58bc3706f771673ba3fe4?utm_campaign=1065&utm_source=git)** | Shelby Township, MI | On Site | Apr 07 |
 | **[Oberto Snacks Inc.](http://www.oberto.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d589aacdb525785fbd1a88?utm_campaign=1065&utm_source=git)** | Kent, WA | On Site | Apr 07 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Sales/Marketing Summer Internship](https://jobright.ai/jobs/info/69d58676e63cea7a8b661fb0?utm_campaign=1065&utm_source=git)** | United States (Remote) | Remote | Apr 07 |
 | **[Stepful](https://www.stepful.com/)** | **[Head of Performance Marketing & Acquisition](https://jobright.ai/jobs/info/69d5863ce63cea7a8b661f6f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
@@ -146,15 +154,7 @@ For a complete list, click the following sortable link below:
 | **[THE·TEAM](http://the.team)** | **[Summer 2026 Internship - Media, Next Gen](https://jobright.ai/jobs/info/69d57d73cfdc6132f9462cdc?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Creator Partnerships, Next Gen](https://jobright.ai/jobs/info/69d57d3fe63cea7a8b661ce1?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Apr 07 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Trade Marketing](https://jobright.ai/jobs/info/69cf05fc366bb95ba55120df?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 07 |
-| **[OneSource Virtual](http://www.onesourcevirtual.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d57bde891d7b11cfd02563?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | Apr 07 |
 | **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Athletic Communications & Social Media](https://jobright.ai/jobs/info/69d57bdc366bb95ba55456e5?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Apr 07 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Community Relations Event Intern](https://jobright.ai/jobs/info/69d57bd9891d7b11cfd02523?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 07 |
 | ↳ | **[Community Relations Event Intern](https://jobright.ai/jobs/info/69d57bd4cdb525785fbd13dd?utm_campaign=1065&utm_source=git)** | SITE - Corewell Health Southfield Center - 26901 Beaumont Blvd | Hybrid | Apr 07 |
-| **[Placer Mosquito and Vector Control District](https://placermosquito.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d57bc5366bb95ba5545657?utm_campaign=1065&utm_source=git)** | Roseville, CA | Hybrid | Apr 07 |
-| **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Marketing Intern](https://jobright.ai/jobs/info/69d57bc2706f771673ba37c5?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Apr 07 |
-| **[MassMedia Marketing, Advertising, PR](https://www.massmediacc.com/)** | **[Paid Media Intern](https://jobright.ai/jobs/info/69d5794a891d7b11cfd0237d?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Apr 07 |
-| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69c5cb661818a24cd84bb38b?utm_campaign=1065&utm_source=git)** | Chippewa Falls, WI | Hybrid | Apr 07 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69d5764e706f771673ba35da?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 07 |
-| **[Natural Heaven](https://eatnaturalheaven.com)** | **[🚨 Social Media & Marketing Internship Opportunity 🚨](https://jobright.ai/jobs/info/69d57515cdb525785fbd1063?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 07 |
-| **[NUR - Protein For Daily Hydration](nurprotein.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d574b6cfdc6132f946278f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
