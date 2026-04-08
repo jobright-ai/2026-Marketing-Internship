@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chimes](https://chimes.org/)** | **[Summer Intern - Social Media and Marketing](https://jobright.ai/jobs/info/69d5b79bcdb525785fbd2bf3?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 07 |
+| **[Novaflow (YC S25)](https://www.novaflowapp.com/)** | **[Growth Intern - Summer 2026](https://jobright.ai/jobs/info/69d5b753e63cea7a8b66325d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 07 |
+| **[PECO Pallet, Inc.](http://www.pecopallet.com/)** | **[Intern - Temp (Marketing Coordinator)](https://jobright.ai/jobs/info/69d5b66ce63cea7a8b663230?utm_campaign=1065&utm_source=git)** | Itasca, IL | Remote | Apr 07 |
+| **[Versaunt](https://www.versaunt.com)** | **[Go-to market intern (GTM)](https://jobright.ai/jobs/info/69d5b499706f771673ba4f1b?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Apr 07 |
 | **[PRISM Plastics, Inc.](http://www.prismplastics.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d5b003891d7b11cfd03a55?utm_campaign=1065&utm_source=git)** | Chesterfield, MI | On Site | Apr 07 |
 | **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69d5afea366bb95ba5546c94?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Sales/Marketing Summer Internship](https://jobright.ai/jobs/info/69d5ada1cfdc6132f9463f84?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 07 |
@@ -102,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d58bc3366bb95ba5545e71?utm_campaign=1065&utm_source=git)** | Chesterfield, MI | On Site | Apr 07 |
 | ↳ | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d58bc3706f771673ba3fe4?utm_campaign=1065&utm_source=git)** | Shelby Township, MI | On Site | Apr 07 |
 | **[Oberto Snacks Inc.](http://www.oberto.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d589aacdb525785fbd1a88?utm_campaign=1065&utm_source=git)** | Kent, WA | On Site | Apr 07 |
-| **[Sarah’s Social Strategy](https://www.sarahsocialstrategy.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d588b1cfdc6132f94630ec?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Apr 07 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Sales/Marketing Summer Internship](https://jobright.ai/jobs/info/69d58676e63cea7a8b661fb0?utm_campaign=1065&utm_source=git)** | United States (Remote) | Remote | Apr 07 |
 | **[Stepful](https://www.stepful.com/)** | **[Head of Performance Marketing & Acquisition](https://jobright.ai/jobs/info/69d5863ce63cea7a8b661f6f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[AMIRI](https://amiri.com/)** | **[PR Intern](https://jobright.ai/jobs/info/69d5a4eecdb525785fbd24ba?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 07 |
@@ -146,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Corporate Communications Summer Intern 2026](https://jobright.ai/jobs/info/69d5691fcfdc6132f94620e3?utm_campaign=1065&utm_source=git)** | Brisbane, CA | On Site | Apr 07 |
 | **[University of Michigan](https://www.umich.edu)** | **[Sustainability Communications & Engagement Intern](https://jobright.ai/jobs/info/69d568e4cfdc6132f94620b8?utm_campaign=1065&utm_source=git)** | Dearborn, MI | On Site | Apr 07 |
 | **[Linea Energy](https://www.lineaenergy.com/)** | **[Renewable Energy Undergraduate Intern - Communications](https://jobright.ai/jobs/info/69d56835e63cea7a8b66103e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 07 |
-| **[Cape Cod Commercial Fishermen's Alliance](https://capecodfishermen.org)** | **[Fisheries Communication and Community Engagement Intern](https://jobright.ai/jobs/info/69d5675ecfdc6132f9462047?utm_campaign=1065&utm_source=git)** | Chatham, MA | On Site | Apr 07 |
 | **[Pacific Asian Consortium in Employment (PACE)](https://pacela.org)** | **[Business Summer Internship 2026 - Marketing and Outreach Team](https://jobright.ai/jobs/info/69d56746cfdc6132f946200d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 07 |
 | **[White Bear Mitsubishi](https://www.whitebearmitsubishi.com)** | **[Events & Marketing Intern](https://jobright.ai/jobs/info/69d561b4cfdc6132f9461df2?utm_campaign=1065&utm_source=git)** | White Bear Lake, MN | On Site | Apr 07 |
 | **[D'Addario & Company, Inc.](http://daddario.com)** | **[National Accounts Marketing and Merchandising Intern](https://jobright.ai/jobs/info/69d560b8366bb95ba55449e5?utm_campaign=1065&utm_source=git)** | US-NY-Farmingdale | Hybrid | Apr 07 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Development Events Intern](https://jobright.ai/jobs/info/69d5604c891d7b11cfd015ee?utm_campaign=1065&utm_source=git)** | Bethlehem, PA - 800 Ostrum St | Hybrid | Apr 07 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Customer Data and Insights](https://jobright.ai/jobs/info/69d56046e63cea7a8b660b3e?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Apr 07 |
 | **[CME Group](http://www.cmegroup.com)** | **[Customer Marketing Internship - Year Round](https://jobright.ai/jobs/info/69d5603d366bb95ba55447da?utm_campaign=1065&utm_source=git)** | Chicago - 20 S. Wacker | Hybrid | Apr 07 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2026 Internship - Brands & Properties](https://jobright.ai/jobs/info/69d56030706f771673ba28b7?utm_campaign=1065&utm_source=git)** | USA-FL - Florida Remote | Remote | Apr 07 |
-| ↳ | **[Fall 2026 Internship - Brands & Properties](https://jobright.ai/jobs/info/69d56030706f771673ba28b9?utm_campaign=1065&utm_source=git)** | USA-NC - Raleigh Office | On Site | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Media, Next Gen](https://jobright.ai/jobs/info/69d56030cdb525785fbd0418?utm_campaign=1065&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Apr 07 |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Media, Next Gen](https://jobright.ai/jobs/info/69d56030cdb525785fbd0417?utm_campaign=1065&utm_source=git)** | USA-CA - California Remote | Remote | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
