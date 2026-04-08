@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ba86185697383741400f92?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 08 |
+| **[Octave](https://www.octave.com/)** | **[Global Demand Center Intern](https://jobright.ai/jobs/info/69d136a0cdb525785fbb1291?utm_campaign=1065&utm_source=git)** | Madison, AL | Remote | Apr 08 |
+| ↳ | **[GTM Enablement Intern](https://jobright.ai/jobs/info/69ce09bacdb525785fb930a2?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 08 |
+| **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Community Engagement Summer Internship](https://jobright.ai/jobs/info/69d0c7c7891d7b11cfcdf77e?utm_campaign=1065&utm_source=git)** | Trenton, NJ | Hybrid | Apr 08 |
+| **[Octave](https://www.octave.com/)** | **[GTM Enablement Intern](https://jobright.ai/jobs/info/69d17f60366bb95ba5526e5d?utm_campaign=1065&utm_source=git)** | Madison, AL | Remote | Apr 08 |
+| ↳ | **[GTM Enablement Intern](https://jobright.ai/jobs/info/69d636f1cfdc6132f94691b1?utm_campaign=1065&utm_source=git)** | Greater Houston | Remote | Apr 08 |
+| **[EnerSys](http://enersys.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69a877942580d3183f0086f1?utm_campaign=1065&utm_source=git)** | Bellingham, WA | On Site | Apr 08 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ba8ef306c1ba00c54ca468?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 08 |
+| ↳ | **[MBA Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ba86185697383741400f92?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa56bc2ebd316bece219c8?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 08 |
 | **[Unique Vacations, Inc.](https://www.linkedin.com/company/79788490)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/699cf09481476f6176b57b46?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 08 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Content Insights](https://jobright.ai/jobs/info/699e1bf8e0bddb6acacd7aa5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 08 |
@@ -69,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/69d618ef366bb95ba554b70a?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Communications & Home Run](https://jobright.ai/jobs/info/69d618df72c86e289ed80317?utm_campaign=1065&utm_source=git)** | West Sacramento, CA | On Site | Apr 08 |
 | **[PNC](http://www.pnc.com)** | **[Vice President - Solebury - Corporate Communications](https://jobright.ai/jobs/info/69d6179172c86e289ed80271?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 08 |
+| ↳ | **[Vice President - Solebury - Corporate Communications](https://jobright.ai/jobs/info/69d635cde63cea7a8b668197?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Apr 08 |
 | **[Logitech](https://www.logitech.com)** | **[Customer Marketing Intern](https://jobright.ai/jobs/info/69a9f5e41f59c56275e2c5a0?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Apr 08 |
 | ↳ | **[Affiliate & Creator Marketing Intern](https://jobright.ai/jobs/info/69b4856b5697383741396919?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Apr 08 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69ab4bed7e1fab39d382e4d2?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Apr 08 |
@@ -99,14 +107,15 @@ For a complete list, click the following sortable link below:
 | **[PECO Pallet, Inc.](http://www.pecopallet.com/)** | **[Intern - Temp (Marketing Coordinator)](https://jobright.ai/jobs/info/69d5e63e891d7b11cfd06b3b?utm_campaign=1065&utm_source=git)** | Itasca, IL, US | Remote | Apr 07 |
 | **[Chimes](https://chimes.org/)** | **[Summer Intern - Social Media and Marketing](https://jobright.ai/jobs/info/69d5b79bcdb525785fbd2bf3?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 07 |
 | **[Novaflow (YC S25)](https://www.novaflowapp.com/)** | **[Growth Intern - Summer 2026](https://jobright.ai/jobs/info/69d5b753e63cea7a8b66325d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 07 |
+| **[FICUS HEALTH](https://www.ficus-health.de/)** | **[@FICUS Founder's Associate Intern: Marketing (3-6 Monate) (m/w/d)](https://jobright.ai/jobs/info/69d6358d48f0c8161d2f7077?utm_campaign=1065&utm_source=git)** | Remote / Hybrid | Remote | Apr 07 |
 | **[PRISM Plastics, Inc.](http://www.prismplastics.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d5b003891d7b11cfd03a55?utm_campaign=1065&utm_source=git)** | Chesterfield, MI | On Site | Apr 07 |
 | **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69d5afea366bb95ba5546c94?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
 | **[Global Asian Entertainment Summit](www.gaesummit.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/69d5f863366bb95ba554a5f2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 07 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Sales/Marketing Summer Internship](https://jobright.ai/jobs/info/69d5ada1cfdc6132f9463f84?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 07 |
 | **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/69d5ad76cdb525785fbd2920?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Apr 07 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Corporate Communications Summer Intern 2026](https://jobright.ai/jobs/info/69d5a8f9cfdc6132f9463d94?utm_campaign=1065&utm_source=git)** | Brisbane, CA | On Site | Apr 07 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Cultural Strategist](https://jobright.ai/jobs/info/69d5a7af891d7b11cfd0376e?utm_campaign=1065&utm_source=git)** | El Segundo, CA, US | Hybrid | Apr 07 |
-| ↳ | **[Intern, Cultural Strategist](https://jobright.ai/jobs/info/69d5a7afcfdc6132f9463cf4?utm_campaign=1065&utm_source=git)** | US-CA-El Segundo | Hybrid | Apr 07 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Cultural Strategist](https://jobright.ai/jobs/info/69d5a7afcfdc6132f9463cf4?utm_campaign=1065&utm_source=git)** | US-CA-El Segundo | Hybrid | Apr 07 |
+| ↳ | **[Intern, Cultural Strategist](https://jobright.ai/jobs/info/69d5a7af891d7b11cfd0376e?utm_campaign=1065&utm_source=git)** | El Segundo, CA, US | Hybrid | Apr 07 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d5a794891d7b11cfd036da?utm_campaign=1065&utm_source=git)** | Fargo, North Dakota, United States | On Site | Apr 07 |
 | **[SB Telecom America Corp.](https://usa.sb-telecom.com)** | **[MBA Summer Intern – AI-RAN & AI-Apps](https://jobright.ai/jobs/info/69d5a39f366bb95ba55467a6?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Apr 07 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d5a10d366bb95ba5546712?utm_campaign=1065&utm_source=git)** | Eatontown, NJ | On Site | Apr 07 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cossette](http://www.cossette.com)** | **[Coordonnateur·trice, communication (Stage)](https://jobright.ai/jobs/info/69d5836ce63cea7a8b661eb9?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Apr 07 |
 | ↳ | **[Analyste Stratégique (Stage)](https://jobright.ai/jobs/info/69d5832ccfdc6132f9462e6e?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Apr 07 |
 | **[Elevare Branding](https://www.elevarebranding.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69d582d5cdb525785fbd17d4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 07 |
-| **[Cossette](http://www.cossette.com)** | **[Chargé·e de produits, contenu (Stage)](https://jobright.ai/jobs/info/69d582d1cdb525785fbd17cc?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Apr 07 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Shopper Marketing Intern](https://jobright.ai/jobs/info/69d581ed706f771673ba3bb8?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 07 |
-| **[M&D](https://www.thedieselstore.com/)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/69d580b3e63cea7a8b661d6e?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 07 |
-| **[THE·TEAM](http://the.team)** | **[Summer 2026 Internship - Media, Next Gen](https://jobright.ai/jobs/info/69d57d73cfdc6132f9462cdc?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Creator Partnerships, Next Gen](https://jobright.ai/jobs/info/69d57d3fe63cea7a8b661ce1?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Apr 07 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Trade Marketing](https://jobright.ai/jobs/info/69cf05fc366bb95ba55120df?utm_campaign=1065&utm_source=git)** | Corona, CA | On Site | Apr 07 |
-| **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Athletic Communications & Social Media](https://jobright.ai/jobs/info/69d57bdc366bb95ba55456e5?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Apr 07 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Community Relations Event Intern](https://jobright.ai/jobs/info/69d57bd9891d7b11cfd02523?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 07 |
-| ↳ | **[Community Relations Event Intern](https://jobright.ai/jobs/info/69d57bd4cdb525785fbd13dd?utm_campaign=1065&utm_source=git)** | SITE - Corewell Health Southfield Center - 26901 Beaumont Blvd | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
