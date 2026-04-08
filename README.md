@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Abe's Muffins](https://www.abesmuffins.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69d5a4b6891d7b11cfd035bb?utm_campaign=1065&utm_source=git)** | West Nyack, NY | On Site | Apr 07 |
+| **[PRISM Plastics, Inc.](http://www.prismplastics.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d5b003891d7b11cfd03a55?utm_campaign=1065&utm_source=git)** | Chesterfield, MI | On Site | Apr 07 |
+| **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69d5afea366bb95ba5546c94?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
+| **[Everstream Analytics](https://www.everstream.ai)** | **[Sales/Marketing Summer Internship](https://jobright.ai/jobs/info/69d5ada1cfdc6132f9463f84?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 07 |
+| **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/69d5ad76cdb525785fbd2920?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Apr 07 |
+| **[Secret Doors](https://www.linkedin.com/company/111068087)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d5ab66cdb525785fbd27d2?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Apr 07 |
+| **[Daiko Health](https://daikohealth.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d5ab57cfdc6132f9463e24?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 07 |
+| **[CareDx, Inc.](https://www.caredx.com/)** | **[Corporate Communications Summer Intern 2026](https://jobright.ai/jobs/info/69d5a8f9cfdc6132f9463d94?utm_campaign=1065&utm_source=git)** | Brisbane, CA | On Site | Apr 07 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Cultural Strategist](https://jobright.ai/jobs/info/69d5a7afcfdc6132f9463cf4?utm_campaign=1065&utm_source=git)** | US-CA-El Segundo | Hybrid | Apr 07 |
+| ↳ | **[Intern, Cultural Strategist](https://jobright.ai/jobs/info/69d5a7af891d7b11cfd0376e?utm_campaign=1065&utm_source=git)** | El Segundo, CA, US | Hybrid | Apr 07 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d5a794891d7b11cfd036da?utm_campaign=1065&utm_source=git)** | Fargo, North Dakota, United States | On Site | Apr 07 |
 | **[SB Telecom America Corp.](https://usa.sb-telecom.com)** | **[MBA Summer Intern – AI-RAN & AI-Apps](https://jobright.ai/jobs/info/69d5a39f366bb95ba55467a6?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Apr 07 |
 | **[Maia Wellness](https://www.retreatmaia.com/offerings)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/69d5a37f706f771673ba48ce?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 07 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d5a10d366bb95ba5546712?utm_campaign=1065&utm_source=git)** | Eatontown, NJ | On Site | Apr 07 |
@@ -119,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69d5764e706f771673ba35da?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 07 |
 | **[Natural Heaven](https://eatnaturalheaven.com)** | **[🚨 Social Media & Marketing Internship Opportunity 🚨](https://jobright.ai/jobs/info/69d57515cdb525785fbd1063?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 07 |
 | **[NUR - Protein For Daily Hydration](nurprotein.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d574b6cfdc6132f946278f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 07 |
-| **[StreamScoop](https://streamscoop.substack.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/69d57368706f771673ba3492?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Audience Activation - Summer 2026](https://jobright.ai/jobs/info/69d57353891d7b11cfd02151?utm_campaign=1065&utm_source=git)** | United States | On Site | Apr 07 |
 | **[Van Tec Marketing](https://vantecmarketing.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d5734c706f771673ba347c?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Apr 07 |
 | **[LMA Marketing & Advertising](http://www.lmaworldwide.com)** | **[Marketing Internship (Summer 2026- Unpaid/For School Credit)](https://jobright.ai/jobs/info/69d5734acfdc6132f9462682?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 07 |
@@ -146,15 +154,7 @@ For a complete list, click the following sortable link below:
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Development Events Intern](https://jobright.ai/jobs/info/69d5604c891d7b11cfd015ee?utm_campaign=1065&utm_source=git)** | Bethlehem, PA - 800 Ostrum St | Hybrid | Apr 07 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Customer Data and Insights](https://jobright.ai/jobs/info/69d56046e63cea7a8b660b3e?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Apr 07 |
 | **[CME Group](http://www.cmegroup.com)** | **[Customer Marketing Internship - Year Round](https://jobright.ai/jobs/info/69d5603d366bb95ba55447da?utm_campaign=1065&utm_source=git)** | Chicago - 20 S. Wacker | Hybrid | Apr 07 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2026 Internship - Brands & Properties](https://jobright.ai/jobs/info/69d56030cdb525785fbd041e?utm_campaign=1065&utm_source=git)** | USA-OH - Ohio Remote | Remote | Apr 07 |
-| ↳ | **[Fall 2026 Internship - Brands & Properties](https://jobright.ai/jobs/info/69d56030cdb525785fbd0422?utm_campaign=1065&utm_source=git)** | USA-WA - Washington Remote | Remote | Apr 07 |
-| ↳ | **[Fall 2026 Internship - Brands & Properties](https://jobright.ai/jobs/info/69d56030706f771673ba28b6?utm_campaign=1065&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Media, Next Gen](https://jobright.ai/jobs/info/69d56030cdb525785fbd041a?utm_campaign=1065&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Media, Next Gen](https://jobright.ai/jobs/info/69d56030cdb525785fbd0417?utm_campaign=1065&utm_source=git)** | USA-CA - California Remote | Remote | Apr 07 |
-| ↳ | **[Fall 2026 Internship - Brands & Properties](https://jobright.ai/jobs/info/69d56030cdb525785fbd0421?utm_campaign=1065&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Apr 07 |
-| ↳ | **[Fall 2026 Internship - Brands & Properties](https://jobright.ai/jobs/info/69d56030cdb525785fbd041b?utm_campaign=1065&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Media, Next Gen](https://jobright.ai/jobs/info/69d56030cdb525785fbd0416?utm_campaign=1065&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Apr 07 |
-| ↳ | **[Fall 2026 Internship - Brands & Properties](https://jobright.ai/jobs/info/69d56030cdb525785fbd0423?utm_campaign=1065&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Apr 07 |
-| ↳ | **[Fall 2026 Internship - Brands & Properties](https://jobright.ai/jobs/info/69d56030cdb525785fbd0420?utm_campaign=1065&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Apr 07 |
-| ↳ | **[Fall 2026 Internship - Brands & Properties](https://jobright.ai/jobs/info/69d56030706f771673ba28ba?utm_campaign=1065&utm_source=git)** | USA-IA - Iowa Remote | Remote | Apr 07 |
+| **[Wasserman](http://www.teamwass.com)** | **[Fall 2026 Internship - Brands & Properties](https://jobright.ai/jobs/info/69d56030706f771673ba28b7?utm_campaign=1065&utm_source=git)** | USA-FL - Florida Remote | Remote | Apr 07 |
+| ↳ | **[Fall 2026 Internship - Brands & Properties](https://jobright.ai/jobs/info/69d56030706f771673ba28b9?utm_campaign=1065&utm_source=git)** | USA-NC - Raleigh Office | On Site | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Media, Next Gen](https://jobright.ai/jobs/info/69d56030cdb525785fbd0418?utm_campaign=1065&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
