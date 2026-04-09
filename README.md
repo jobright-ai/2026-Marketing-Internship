@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Digital Content, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/69d73c36cfdc6132f9471192?utm_campaign=1065&utm_source=git)** | Hawthorne, CA | On Site | Apr 08 |
-| **[JANDÉ HAIR](jandehair.com)** | **[AI Creative Marketing Intern — JANDÉ Hair (Remote- Hybrid)](https://jobright.ai/jobs/info/69d72ae7366bb95ba555231c?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Apr 08 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69d726bbcfdc6132f946f7a6?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | Hybrid | Apr 08 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Public & Media Relations (Fall 2026)](https://jobright.ai/jobs/info/69d722da48f0c8161d2fd2a5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
 | **[Gearbox Technologies LLC](https://gearboxtechnologies.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d722c2e63cea7a8b66e38b?utm_campaign=1065&utm_source=git)** | Auburn, AL | Remote | Apr 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[South Asian Business Council of Virginia](https://sabcva.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d6ae1052a5bf580012b300?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Apr 08 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern - Marketing Analytics](https://jobright.ai/jobs/info/69d6acdb706f771673bad17f?utm_campaign=1065&utm_source=git)** | Berkeley Heights | On Site | Apr 08 |
 | **[Network Connex](https://www.networkconnex.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69d6acd3cfdc6132f946c527?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | Apr 08 |
+| **[National Technologies (NTI), a Network Connex Company](https://www.ntitech.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69d6aca052a5bf580012b184?utm_campaign=1065&utm_source=git)** | Remote, Remote, US | Remote | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
