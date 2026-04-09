@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Digital Content, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/69d73c36cfdc6132f9471192?utm_campaign=1065&utm_source=git)** | Hawthorne, CA | On Site | Apr 08 |
 | **[JANDÉ HAIR](jandehair.com)** | **[AI Creative Marketing Intern — JANDÉ Hair (Remote- Hybrid)](https://jobright.ai/jobs/info/69d72ae7366bb95ba555231c?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Apr 08 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69d726bbcfdc6132f946f7a6?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | Hybrid | Apr 08 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Public & Media Relations (Fall 2026)](https://jobright.ai/jobs/info/69d722da48f0c8161d2fd2a5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
@@ -113,22 +114,21 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Services - Summer Analyst Program, New York City - US, 2027](https://jobright.ai/jobs/info/69d6d224706f771673bae368?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Marketing Analytics](https://jobright.ai/jobs/info/69d6d1a0366bb95ba5550255?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
 | **[PIDC](https://pidcphila.com/)** | **[Marketing, Communications, & Community Engagement Intern](https://jobright.ai/jobs/info/69d6d172cfdc6132f946d7c1?utm_campaign=1065&utm_source=git)** | Greater Philadelphia | Hybrid | Apr 08 |
-| **[Ottawa County](https://miottawa.org)** | **[Communications Intern - Fall 2026](https://jobright.ai/jobs/info/69d6d169cfdc6132f946d790?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Apr 08 |
 | **[VHB](https://www.vhb.com/)** | **[Marketing and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69d6d12b48f0c8161d2fb4f7?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Apr 08 |
 | **[Greenlight Networks](https://www.greenlightnetworks.com)** | **[Intern - Marketing Specialist](https://jobright.ai/jobs/info/69d6d04b52a5bf580012c482?utm_campaign=1065&utm_source=git)** | Vestal, NY | On Site | Apr 08 |
 | **[Katy's Cat Cafe](https://www.katyscatcafe.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d6cffa52a5bf580012c394?utm_campaign=1065&utm_source=git)** | Sarasota, FL | Remote | Apr 08 |
 | **[The deFIANT](https://www.thedefiant.com)** | **[Event Intern- Special Event Team April 22nd, 2026](https://jobright.ai/jobs/info/69d6cfe8366bb95ba5550135?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | Apr 08 |
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Specialty Marketing (Specialty Commercial) Bridgewater, NJ](https://jobright.ai/jobs/info/69d6ccd6706f771673bae24e?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Apr 08 |
 | ↳ | **[2026 Summer Internship - Institutional Marketing (Commercial Generics) Bridgewater, NJ](https://jobright.ai/jobs/info/69d6ccd0cfdc6132f946d59d?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Apr 08 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Hybrid Digital Marketing Intern](https://jobright.ai/jobs/info/69d6cca848f0c8161d2fb356?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Apr 08 |
-| ↳ | **[Fall 2026 Internship - Onsite Digital Marketing Intern](https://jobright.ai/jobs/info/69d6cca848f0c8161d2fb357?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 08 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Onsite Digital Marketing Intern](https://jobright.ai/jobs/info/69d6cca848f0c8161d2fb357?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 08 |
+| ↳ | **[Fall 2026 Internship - Hybrid Digital Marketing Intern](https://jobright.ai/jobs/info/69d6cca848f0c8161d2fb356?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Apr 08 |
 | ↳ | **[Fall 2026 Internship - Web & SEO Specialist Intern](https://jobright.ai/jobs/info/69d6cc9252a5bf580012c21c?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Apr 08 |
 | **[Topcon Positioning Systems](https://www.topconpositioning.com/)** | **[Digital Marketing Data Intern](https://jobright.ai/jobs/info/69d6cc8852a5bf580012c1d3?utm_campaign=1065&utm_source=git)** | Oakland, NJ | On Site | Apr 08 |
 | **[Albertus Magnus College](http://www.albertus.edu)** | **[Graduate Assistant - Marketing & Community Relations](https://jobright.ai/jobs/info/69d6ee1e366bb95ba5550b6e?utm_campaign=1065&utm_source=git)** | New Haven, CT | On Site | Apr 08 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69d6c8fccfdc6132f946d457?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Apr 08 |
 | **[Prairie Meadows](https://www.prairiemeadows.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d72adb366bb95ba555230f?utm_campaign=1065&utm_source=git)** | Altoona, IA | On Site | Apr 08 |
-| **[Azurity Pharmaceuticals](https://azurity.com/)** | **[Marketing Intern – Pharmaceutical Marketing](https://jobright.ai/jobs/info/69d6c744366bb95ba554fe2b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Apr 08 |
-| ↳ | **[Marketing Intern – Pharmaceutical Marketing](https://jobright.ai/jobs/info/69d6c744366bb95ba554fe2a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
+| **[Azurity Pharmaceuticals](https://azurity.com/)** | **[Marketing Intern – Pharmaceutical Marketing](https://jobright.ai/jobs/info/69d6c744366bb95ba554fe2a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
+| ↳ | **[Marketing Intern – Pharmaceutical Marketing](https://jobright.ai/jobs/info/69d6c744366bb95ba554fe2b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Apr 08 |
 | **[Genesys](https://www.genesys.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69d6c71d366bb95ba554fdf5?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Hybrid | Apr 08 |
 | **[Azurity Pharmaceuticals](https://azurity.com/)** | **[Marketing Intern – Pharmaceutical Marketing](https://jobright.ai/jobs/info/69d6c6a7cfdc6132f946d3e3?utm_campaign=1065&utm_source=git)** | Woburn, MA | Hybrid | Apr 08 |
 | **[Mission Wealth](https://missionwealth.com)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/69d6c664cfdc6132f946d376?utm_campaign=1065&utm_source=git)** | Houston, TX, US | On Site | Apr 08 |
