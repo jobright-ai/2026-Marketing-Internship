@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meriton](https://meriton.com/)** | **[Summer Internship – Marketing and Communications](https://jobright.ai/jobs/info/69c1881a79e36d3a847e6784?utm_campaign=1065&utm_source=git)** | Irving, Texas | On Site | Apr 09 |
+| **[Novicue](www.novicue.com)** | **[Publisher Development Intern](https://jobright.ai/jobs/info/69d76192706f771673bb30ad?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Apr 09 |
+| **[Toucans Creative Collective](Toucanscreative.com)** | **[Music marketing internship](https://jobright.ai/jobs/info/69d7617ae63cea7a8b671276?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69c6f3c31818a24cd84ca333?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
+| **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d75e7d950d1a0760b7ea4b?utm_campaign=1065&utm_source=git)** | Janesville, WI | On Site | Apr 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Digital Content, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/69d73c36cfdc6132f9471192?utm_campaign=1065&utm_source=git)** | Hawthorne, CA | On Site | Apr 08 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69d726bbcfdc6132f946f7a6?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | Hybrid | Apr 08 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Public & Media Relations (Fall 2026)](https://jobright.ai/jobs/info/69d722da48f0c8161d2fd2a5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
@@ -126,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Albertus Magnus College](http://www.albertus.edu)** | **[Graduate Assistant - Marketing & Community Relations](https://jobright.ai/jobs/info/69d6ee1e366bb95ba5550b6e?utm_campaign=1065&utm_source=git)** | New Haven, CT | On Site | Apr 08 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69d6c8fccfdc6132f946d457?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Apr 08 |
 | **[Prairie Meadows](https://www.prairiemeadows.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d72adb366bb95ba555230f?utm_campaign=1065&utm_source=git)** | Altoona, IA | On Site | Apr 08 |
-| **[Azurity Pharmaceuticals](https://azurity.com/)** | **[Marketing Intern – Pharmaceutical Marketing](https://jobright.ai/jobs/info/69d6c744366bb95ba554fe2a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
-| ↳ | **[Marketing Intern – Pharmaceutical Marketing](https://jobright.ai/jobs/info/69d6c744366bb95ba554fe2b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Apr 08 |
+| **[Azurity Pharmaceuticals](https://azurity.com/)** | **[Marketing Intern – Pharmaceutical Marketing](https://jobright.ai/jobs/info/69d6c744366bb95ba554fe2b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Apr 08 |
+| ↳ | **[Marketing Intern – Pharmaceutical Marketing](https://jobright.ai/jobs/info/69d6c744366bb95ba554fe2a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
 | **[Genesys](https://www.genesys.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69d6c71d366bb95ba554fdf5?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Hybrid | Apr 08 |
 | **[Azurity Pharmaceuticals](https://azurity.com/)** | **[Marketing Intern – Pharmaceutical Marketing](https://jobright.ai/jobs/info/69d6c6a7cfdc6132f946d3e3?utm_campaign=1065&utm_source=git)** | Woburn, MA | Hybrid | Apr 08 |
 | **[Mission Wealth](https://missionwealth.com)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/69d6c664cfdc6132f946d376?utm_campaign=1065&utm_source=git)** | Houston, TX, US | On Site | Apr 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Gear Marketing Intern / Titleist](https://jobright.ai/jobs/info/69d6b1bb52a5bf580012b37e?utm_campaign=1065&utm_source=git)** | New Bedford, MA | On Site | Apr 08 |
 | **[Corpay](https://payments.corpay.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d6b190706f771673bad2b0?utm_campaign=1065&utm_source=git)** | Buckhead, GA | On Site | Apr 08 |
 | **[Connection](http://www.pcconnection.com)** | **[Corporate Marketing and Events Intern- PCC](https://jobright.ai/jobs/info/69d6b18c52a5bf580012b332?utm_campaign=1065&utm_source=git)** | Merrimack, NH | On Site | Apr 08 |
-| **[Gordon C. James Public Relations](https://www.gcjpr.com/)** | **[Social Media Intern (Public Relations & Digital Media) - Summer 2026](https://jobright.ai/jobs/info/69d6d00552a5bf580012c3b1?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Apr 08 |
-| **[South Asian Business Council of Virginia](https://sabcva.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d6ae1052a5bf580012b300?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Apr 08 |
-| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern - Marketing Analytics](https://jobright.ai/jobs/info/69d6acdb706f771673bad17f?utm_campaign=1065&utm_source=git)** | Berkeley Heights | On Site | Apr 08 |
-| **[Network Connex](https://www.networkconnex.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69d6acd3cfdc6132f946c527?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | Apr 08 |
-| **[National Technologies (NTI), a Network Connex Company](https://www.ntitech.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69d6aca052a5bf580012b184?utm_campaign=1065&utm_source=git)** | Remote, Remote, US | Remote | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
