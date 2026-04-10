@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Professional  Intern - Marketing](https://jobright.ai/jobs/info/69d8430ff4ea471a51fe4d9e?utm_campaign=1065&utm_source=git)** | Louisville, KY, US | On Site | Apr 09 |
+| ↳ | **[Leadership Development Professional  Intern - Marketing](https://jobright.ai/jobs/info/69d841cd9f97a42dc9c1b4e2?utm_campaign=1065&utm_source=git)** | US-KY-Louisville | On Site | Apr 09 |
+| **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Marketing Assistant, Putnam - (Hybrid)](https://jobright.ai/jobs/info/69d83b67869c7e25d859486d?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Apr 09 |
 | **[Medica](https://www.medica.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d83773869c7e25d8594793?utm_campaign=1065&utm_source=git)** | Hopkins, MN | Hybrid | Apr 09 |
 | **[Priority Health](http://www.priorityhealth.com/)** | **[Content B2B Marketing Intern](https://jobright.ai/jobs/info/69d83729738f2f099e89b6b2?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Apr 09 |
 | **[TexL Campaigns](https://texlcampaigns.com/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69d8339eb67cec4f9b09b579?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 09 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69d833659f97a42dc9c1b020?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 09 |
 | **[OpenX](https://www.openx.com/)** | **[Intern - Communications](https://jobright.ai/jobs/info/69d83335738f2f099e89b528?utm_campaign=1065&utm_source=git)** | US - Remote | Remote | Apr 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Marketing & Social Media Intern - Latin America](https://jobright.ai/jobs/info/69d8324c738f2f099e89b437?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 09 |
-| **[OC Consulting](www.osmundcharles.com)** | **[Public Relations & Brand Strategy Intern](https://jobright.ai/jobs/info/69d8310bb67cec4f9b09b411?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Apr 09 |
 | **[EMARKETER](http://emarketer.com)** | **[Summer Intern, Product Marketing](https://jobright.ai/jobs/info/69d82b649f97a42dc9c1ae39?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Apr 09 |
 | ↳ | **[Summer Intern - Media](https://jobright.ai/jobs/info/69d82b31b67cec4f9b09b276?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Apr 09 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship, BeOne Corporate Brand and Reputation Intern](https://jobright.ai/jobs/info/69d82ac7b861c42857c4924d?utm_campaign=1065&utm_source=git)** | Remote (US) | Remote | Apr 09 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Marketing Communications](https://jobright.ai/jobs/info/69d82417b67cec4f9b09acda?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d8217d9f97a42dc9c1a84a?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Apr 09 |
 | **[Glow Recipe](http://www.glowrecipe.com)** | **[Paid PR Intern](https://jobright.ai/jobs/info/69d82173869c7e25d8593ce7?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Apr 09 |
-| **[Cherry Computer](https://www.linkedin.com/company/87398258)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d80f039f97a42dc9c1a28b?utm_campaign=1065&utm_source=git)** | Woodbridge, VA | Remote | Apr 09 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Digital Media and Content Internship](https://jobright.ai/jobs/info/69d821449f97a42dc9c1a778?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
 | **[GrowthExpertz](https://growthexpertz.com)** | **[Digital Marketing Internship w/ Tons of Training](https://jobright.ai/jobs/info/69d82135869c7e25d8593c36?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Chicago Sky WNBA](http://chicagosky.net)** | **[Chicago Sky Marketing Intern (FOR EDUCATIONAL CREDIT)](https://jobright.ai/jobs/info/69d82135869c7e25d8593c34?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Finance & Spend Management Product Marketing - Communications Intern](https://jobright.ai/jobs/info/699fdfd053d97f23ee656829?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Apr 09 |
 | **[C1](http://www.spanlink.com)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/69cb7902aa3c2c1995e378b0?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Genesys](https://www.genesys.com)** | **[Demand Generation Analytics Intern](https://jobright.ai/jobs/info/69d7ebe39f97a42dc9c18d4a?utm_campaign=1065&utm_source=git)** | California, USA | On Site | Apr 09 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Intern, Digital Advertising Summer Associate](https://jobright.ai/jobs/info/69d7ebe0738f2f099e899129?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
