@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sweetgrass Pharmacy and Compounding](https://www.sweetgrasspharmacy.com)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69d8c3ad869c7e25d8597b02?utm_campaign=1065&utm_source=git)** | Mount Pleasant, SC | On Site | Apr 10 |
 | **[Bourns, Inc.](http://www.bourns.com/)** | **[Marcom Intern, Digital Marketing - Sr](https://jobright.ai/jobs/info/69d8b44ef748bc5d08a4553f?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Apr 10 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Marketing Communications Student Intern](https://jobright.ai/jobs/info/69d8b1fbb861c42857c4c575?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 10 |
 | **[BAZZAAL](https://bazzaal.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d8b16c869c7e25d8597298?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Apr 10 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a1e738f2f099e89c5b2?utm_campaign=1065&utm_source=git)** | Helena, MT | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a1e738f2f099e89c5b1?utm_campaign=1065&utm_source=git)** | Salem, OR | On Site | Apr 09 |
 | **[IFF](http://iff.com)** | **[Intern - Consumer Insights](https://jobright.ai/jobs/info/69d86a1ef4ea471a51fe59a9?utm_campaign=1065&utm_source=git)** | Holmdel, NJ | On Site | Apr 09 |
-| **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a1d738f2f099e89c5af?utm_campaign=1065&utm_source=git)** | Frankfort, KY | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a1d738f2f099e89c5b0?utm_campaign=1065&utm_source=git)** | Jackson, MS | On Site | Apr 09 |
+| **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a1d738f2f099e89c5b0?utm_campaign=1065&utm_source=git)** | Jackson, MS | On Site | Apr 09 |
+| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a1d738f2f099e89c5af?utm_campaign=1065&utm_source=git)** | Frankfort, KY | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a0b869c7e25d85955d6?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a0b869c7e25d85955d7?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a0ab67cec4f9b09c542?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
@@ -93,38 +94,38 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85f94869c7e25d8595263?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85e219f97a42dc9c1bc39?utm_campaign=1065&utm_source=git)** | Annapolis, MD | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85e0d9f97a42dc9c1bc1e?utm_campaign=1065&utm_source=git)** | Montgomery, AL | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85e0c9f97a42dc9c1bc1d?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85e0c9f97a42dc9c1bc1b?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | Apr 09 |
+| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85e0c9f97a42dc9c1bc1d?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dfdb67cec4f9b09c09e?utm_campaign=1065&utm_source=git)** | Pierre, SD | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dfdb67cec4f9b09c0a0?utm_campaign=1065&utm_source=git)** | Concord, NH | On Site | Apr 09 |
 | **[Swisher](http://www.swisher.com/)** | **[Consumer Insights Intern (Marketing)](https://jobright.ai/jobs/info/69d85df9738f2f099e89c107?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 09 |
-| **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df9b861c42857c4a0b4?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df9869c7e25d8595112?utm_campaign=1065&utm_source=git)** | Springfield, IL | On Site | Apr 09 |
+| **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df9869c7e25d8595112?utm_campaign=1065&utm_source=git)** | Springfield, IL | On Site | Apr 09 |
+| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df9b861c42857c4a0b4?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df9869c7e25d8595113?utm_campaign=1065&utm_source=git)** | Santa Fe, NM | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df8b861c42857c4a0b3?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df4738f2f099e89c102?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df3869c7e25d8595107?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df1b67cec4f9b09c085?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df1b67cec4f9b09c086?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df1b67cec4f9b09c089?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Apr 09 |
+| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df1b67cec4f9b09c086?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df1b67cec4f9b09c088?utm_campaign=1065&utm_source=git)** | Juneau, AK | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df1b67cec4f9b09c084?utm_campaign=1065&utm_source=git)** | Carson City, NV | On Site | Apr 09 |
+| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df1b67cec4f9b09c085?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dee869c7e25d85950fa?utm_campaign=1065&utm_source=git)** | Montpelier, VT | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dee869c7e25d85950f8?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dee869c7e25d85950f9?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dec738f2f099e89c0f2?utm_campaign=1065&utm_source=git)** | Honolulu, HI | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dec738f2f099e89c0f4?utm_campaign=1065&utm_source=git)** | Jefferson City, MO | On Site | Apr 09 |
+| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dec738f2f099e89c0f2?utm_campaign=1065&utm_source=git)** | Honolulu, HI | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85deb738f2f099e89c0f1?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85de9b861c42857c4a093?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85de9b861c42857c4a095?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Apr 09 |
+| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dcef4ea471a51fe545d?utm_campaign=1065&utm_source=git)** | Charleston, WV | On Site | Apr 09 |
+| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dcef4ea471a51fe545e?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dcef4ea471a51fe5460?utm_campaign=1065&utm_source=git)** | Augusta, ME | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dcef4ea471a51fe545f?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dcef4ea471a51fe545e?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dcef4ea471a51fe5461?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dcef4ea471a51fe545d?utm_campaign=1065&utm_source=git)** | Charleston, WV | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dcdf4ea471a51fe545c?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dcbf4ea471a51fe5453?utm_campaign=1065&utm_source=git)** | Little Rock, AR | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dcbf4ea471a51fe5455?utm_campaign=1065&utm_source=git)** | Providence, RI | On Site | Apr 09 |
+| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dcbf4ea471a51fe5453?utm_campaign=1065&utm_source=git)** | Little Rock, AR | On Site | Apr 09 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Market Development Internship](https://jobright.ai/jobs/info/69d85b31738f2f099e89be7d?utm_campaign=1065&utm_source=git)** | Atlanta,Georgia,United States | On Site | Apr 09 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Community Marketing Summer Intern](https://jobright.ai/jobs/info/69d85393869c7e25d8594d77?utm_campaign=1065&utm_source=git)** | Williamsburg, VA | On Site | Apr 09 |
 | **[Planet DDS](https://www.planetdds.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/69d85368b67cec4f9b09bd41?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern NYC (Summer 2026)](https://jobright.ai/jobs/info/69d824cfb861c42857c48f41?utm_campaign=1065&utm_source=git)** | NYC, New York (Remote) | Remote | Apr 09 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Marketing Event Assistant Internship (May - August 2026) - Myrtle Beach](https://jobright.ai/jobs/info/69d824abf4ea471a51fe3fd9?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | Apr 09 |
 | **[iSpot](http://www.ispot.tv)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d82457b67cec4f9b09adc7?utm_campaign=1065&utm_source=git)** | Bellevue, WA | Hybrid | Apr 09 |
-| **[DEPT®](https://www.deptagency.com)** | **[Copy Intern](https://jobright.ai/jobs/info/69d8241f869c7e25d8593f5f?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
