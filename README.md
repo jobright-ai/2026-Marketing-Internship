@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com)** | **[Content Strategist Intern](https://jobright.ai/jobs/info/69d9281f9f97a42dc9c1fe22?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 10 |
+| **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Ecommerce Intern](https://jobright.ai/jobs/info/69d927cdb67cec4f9b0a0468?utm_campaign=1065&utm_source=git)** | Durham, North Carolina | On Site | Apr 10 |
+| **[Haag, a Salas O'Brien Company](https://haagglobal.com/)** | **[Marketing Intern (Spring 2026)](https://jobright.ai/jobs/info/69d927bb738f2f099e8a0124?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 10 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d926119f97a42dc9c1fc3d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
+| **[City of Kenmore](http://www.kenmorewa.gov)** | **[Climate Communications & Outreach Intern](https://jobright.ai/jobs/info/69d924895356a60f40fd7e45?utm_campaign=1065&utm_source=git)** | Kenmore, WA | Hybrid | Apr 10 |
+| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Social Media](https://jobright.ai/jobs/info/69d924715356a60f40fd7e0c?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Apr 10 |
+| **[Astrin Biosciences](https://astrinbio.com)** | **[Marketing & Social Media Strategy Intern](https://jobright.ai/jobs/info/69d9236cf748bc5d08a48f28?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Apr 10 |
+| **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69d922835356a60f40fd7c62?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 10 |
+| **[SanMar](http://www.sanmar.com)** | **[Marketing Intern, Digital Analytics](https://jobright.ai/jobs/info/69bca16f4828227293fe8218?utm_campaign=1065&utm_source=git)** | Issaquah, WA | Hybrid | Apr 10 |
+| **[Washington Penn](https://washingtonpenn.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d9212f738f2f099e89ff01?utm_campaign=1065&utm_source=git)** | Washington, PA | On Site | Apr 10 |
+| **[SAVENCIA](https://www.savencia.com)** | **[Marketing & Communication Intern](https://jobright.ai/jobs/info/69d9201bf748bc5d08a48d1f?utm_campaign=1065&utm_source=git)** | NEW YORK, NY, United States | On Site | Apr 10 |
+| **[WorkVille](http://www.workvillenyc.com)** | **[Community Manager/ Social Media Internship](https://jobright.ai/jobs/info/69d91ffef748bc5d08a48d10?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[Inspire](https://inspirebrands.com)** | **[Audience Planning Intern](https://jobright.ai/jobs/info/69d9196cf748bc5d08a48b38?utm_campaign=1065&utm_source=git)** | Atlanta Support Center | On Site | Apr 10 |
 | **[Columbus Regional Airport Authority](https://columbusairports.com)** | **[Intern, Digital Media](https://jobright.ai/jobs/info/69d91958f748bc5d08a48b04?utm_campaign=1065&utm_source=git)** | Columbus, Ohio | On Site | Apr 10 |
 | **[Brampton Board of Trade](http://www.bramptonbot.com)** | **[Marketing Coordinator Intern (Summer)](https://jobright.ai/jobs/info/69d918da9f97a42dc9c1f866?utm_campaign=1065&utm_source=git)** | Brampton, ON | On Site | Apr 10 |
@@ -94,7 +106,9 @@ For a complete list, click the following sortable link below:
 | **[Balchem Corporation](http://balchem.com)** | **[Strategic Marketing Intern](https://jobright.ai/jobs/info/69d8f0ef9f97a42dc9c1eea7?utm_campaign=1065&utm_source=git)** | Montvale, NJ | On Site | Apr 10 |
 | **[JAM Industries](https://jamindustries.com/)** | **[AMS - Marketing Internship](https://jobright.ai/jobs/info/699f6aa681476f6176b9013f?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 10 |
 | **[Gen](https://www.gendigital.com)** | **[Partner Marketing Intern](https://jobright.ai/jobs/info/69a09a5081476f6176baeb2b?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Apr 10 |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Publicity Intern, HBG Canada](https://jobright.ai/jobs/info/69d9255df748bc5d08a49482?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Apr 10 |
 | **[Planet](http://www.planet.com)** | **[Events Marketing Manager, North America](https://jobright.ai/jobs/info/699f8c21ce78e77b4fe55d9c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
+| **[Electro](electrogum.com)** | **[NIL Partnerships Intern](https://jobright.ai/jobs/info/69d9254af748bc5d08a49419?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 10 |
 | **[Stepful](https://www.stepful.com/)** | **[Head of Marketing (B2B)](https://jobright.ai/jobs/info/69bca5294828227293fe8b7c?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Apr 10 |
 | **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bc76714828227293fe57e4?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 10 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing: AI Discoverability & Optimization Intern (Summer 2026)](https://jobright.ai/jobs/info/69bca83445e08b3dc1f96dd6?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 10 |
@@ -105,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Priority Health](http://www.priorityhealth.com/)** | **[Community Relations Event Intern](https://jobright.ai/jobs/info/69d8ddf5738f2f099e89ed71?utm_campaign=1065&utm_source=git)** | Southfield, MI | On Site | Apr 10 |
 | **[Genesys](https://www.genesys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69d5e078e63cea7a8b665d3d?utm_campaign=1065&utm_source=git)** | Durham, NC | Remote | Apr 10 |
 | **[Wills Group](http://www.willsgroup.com)** | **[Rising Talent Intern - Summer 2026](https://jobright.ai/jobs/info/69d787f5366bb95ba5556066?utm_campaign=1065&utm_source=git)** | La Plata, MD | Hybrid | Apr 10 |
-| **[TikTok](https://www.tiktok.com)** | **[Short Video Strategy Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696998a3639b452fb57f8a13?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 10 |
-| ↳ | **[Creator Campaign Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6966eb06b098f4515f4e54aa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Campaign Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6966eb06b098f4515f4e54aa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
+| ↳ | **[Short Video Strategy Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696998a3639b452fb57f8a13?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 10 |
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69a0cdc681476f6176bb1797?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
 | **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern (Canada) - Summer 2026](https://jobright.ai/jobs/info/69bbc14806c1ba00c54e4fa4?utm_campaign=1065&utm_source=git)** | Ontario, Canada | On Site | Apr 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Brand and Communications Project Intern (Brand and Creative) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a125be5218a81676725eff?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 10 |
@@ -129,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a1e738f2f099e89c5b2?utm_campaign=1065&utm_source=git)** | Helena, MT | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a1e738f2f099e89c5b1?utm_campaign=1065&utm_source=git)** | Salem, OR | On Site | Apr 09 |
 | **[IFF](http://iff.com)** | **[Intern - Consumer Insights](https://jobright.ai/jobs/info/69d86a1ef4ea471a51fe59a9?utm_campaign=1065&utm_source=git)** | Holmdel, NJ | On Site | Apr 09 |
-| **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a1d738f2f099e89c5af?utm_campaign=1065&utm_source=git)** | Frankfort, KY | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a1d738f2f099e89c5b0?utm_campaign=1065&utm_source=git)** | Jackson, MS | On Site | Apr 09 |
+| **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a1d738f2f099e89c5b0?utm_campaign=1065&utm_source=git)** | Jackson, MS | On Site | Apr 09 |
+| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a1d738f2f099e89c5af?utm_campaign=1065&utm_source=git)** | Frankfort, KY | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a0b869c7e25d85955d7?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a0b869c7e25d85955d6?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d86a0ab67cec4f9b09c542?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
@@ -139,22 +153,8 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Marketing & Social Media Intern - Latin America](https://jobright.ai/jobs/info/69d86149b67cec4f9b09c26e?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 09 |
 | **[Onuvia Cloud](https://onuviacloud.com)** | **[Digital Marketing unpaid internship](https://jobright.ai/jobs/info/69d86144b67cec4f9b09c269?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85fdd9f97a42dc9c1bd70?utm_campaign=1065&utm_source=git)** | Olympia, WA | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85fbab861c42857c4a20c?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85fbab861c42857c4a20b?utm_campaign=1065&utm_source=git)** | Trenton, NJ | On Site | Apr 09 |
+| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85fbab861c42857c4a20c?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85fb7738f2f099e89c260?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Apr 09 |
 | ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85fb2b67cec4f9b09c210?utm_campaign=1065&utm_source=git)** | Cheyenne, WY | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85fab738f2f099e89c259?utm_campaign=1065&utm_source=git)** | Topeka, KS | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85f94869c7e25d8595263?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85e219f97a42dc9c1bc39?utm_campaign=1065&utm_source=git)** | Annapolis, MD | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85e0d9f97a42dc9c1bc1e?utm_campaign=1065&utm_source=git)** | Montgomery, AL | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85e0c9f97a42dc9c1bc1b?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85e0c9f97a42dc9c1bc1d?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dfdb67cec4f9b09c0a0?utm_campaign=1065&utm_source=git)** | Concord, NH | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85dfdb67cec4f9b09c09e?utm_campaign=1065&utm_source=git)** | Pierre, SD | On Site | Apr 09 |
-| **[Swisher](http://www.swisher.com/)** | **[Consumer Insights Intern (Marketing)](https://jobright.ai/jobs/info/69d85df9738f2f099e89c107?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 09 |
-| **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df9b861c42857c4a0b4?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df9869c7e25d8595112?utm_campaign=1065&utm_source=git)** | Springfield, IL | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df9869c7e25d8595113?utm_campaign=1065&utm_source=git)** | Santa Fe, NM | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df8b861c42857c4a0b3?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
-| ↳ | **[Advanced Specialist, Strategy (Education Market Strategy)](https://jobright.ai/jobs/info/69d85df4738f2f099e89c102?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
