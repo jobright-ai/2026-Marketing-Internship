@@ -74,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69daa4909f97a42dc9c2bacd?utm_campaign=1065&utm_source=git)** | Waynesboro, VA | Hybrid | Apr 11 |
 | **[Witch Kitty Records, LLC](http://www.lilbruhgwop.com)** | **[Employer Branding Intern](https://jobright.ai/jobs/info/69daa48b738f2f099e8abc72?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Remote | Apr 11 |
 | **[SAP](https://www.sap.com)** | **[SAP Delivery iXp Intern - Strategic Content and Communications](https://jobright.ai/jobs/info/69a0ce6f81476f6176bb1860?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 11 |
+| **[Clique Hospitality](https://cliquehospitality.com/)** | **[Marketing Intern - Clique Hospitality](https://jobright.ai/jobs/info/69dac69c5356a60f40fe3e09?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - Carytown and Short Pump](https://jobright.ai/jobs/info/69a1eb95359fe034b1cd2ce6?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Apr 11 |
 | **[X UP Brands](https://www.xupbrands.com/)** | **[TikTok Content & Creator Partnerships Intern](https://jobright.ai/jobs/info/69da9337b67cec4f9b0aa049?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Apr 11 |
 | **[AIRE](https://withaire.framer.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69da93075356a60f40fe1aa9?utm_campaign=1065&utm_source=git)** | Vancouver, BC | Remote | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Entegra](https://entegraps.fr/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d990d5869c7e25d859b8d9?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Research Communications and Outreach Manager](https://jobright.ai/jobs/info/69d990cb5356a60f40fda469?utm_campaign=1065&utm_source=git)** | Guelph, ON | On Site | Apr 10 |
 | **[AfterQuery](https://www.afterquery.com)** | **[Growth Intern](https://jobright.ai/jobs/info/69d990c7738f2f099e8a2672?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
-| **[Novo Holdings](http://www.novoholdings.dk)** | **[Undergraduate Intern, Growth Investments](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd75?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
