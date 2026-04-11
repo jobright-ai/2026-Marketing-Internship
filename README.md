@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM Expressions](https://www.fmexpressions.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69daa4a49f97a42dc9c2baef?utm_campaign=1065&utm_source=git)** | Fork Union, VA | Hybrid | Apr 11 |
+| ↳ | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69daa4909f97a42dc9c2bacd?utm_campaign=1065&utm_source=git)** | Waynesboro, VA | Hybrid | Apr 11 |
+| **[Witch Kitty Records, LLC](http://www.lilbruhgwop.com)** | **[Employer Branding Intern](https://jobright.ai/jobs/info/69daa48b738f2f099e8abc72?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Remote | Apr 11 |
+| **[SAP](https://www.sap.com)** | **[SAP Delivery iXp Intern - Strategic Content and Communications](https://jobright.ai/jobs/info/69a0ce6f81476f6176bb1860?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 11 |
+| **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - Carytown and Short Pump](https://jobright.ai/jobs/info/69a1eb95359fe034b1cd2ce6?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Apr 11 |
 | **[X UP Brands](https://www.xupbrands.com/)** | **[TikTok Content & Creator Partnerships Intern](https://jobright.ai/jobs/info/69da9337b67cec4f9b0aa049?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Apr 11 |
 | **[AIRE](https://withaire.framer.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69da93075356a60f40fe1aa9?utm_campaign=1065&utm_source=git)** | Vancouver, BC | Remote | Apr 11 |
 | **[McCain Foods](http://www.mccain.com)** | **[Marketing Internship - North America Food Service Portfolio Strategy](https://jobright.ai/jobs/info/69bdf89d393a1008f743d213?utm_campaign=1065&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Apr 11 |
@@ -67,9 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Swine Marketing Intern](https://jobright.ai/jobs/info/68c8fa44f9c6ff7aedf15829?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Apr 11 |
 | **[MOTOR Information Systems](http://motor.com)** | **[Marketing Intern - Data, AI & Market Intelligence (Revenue Marketing Operations)](https://jobright.ai/jobs/info/69bf776079e36d3a847c104f?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | Apr 11 |
 | **[Merrimack College](http://www.merrimack.edu/)** | **[Enrollment Marketing Specialist - Graduate Marketing](https://jobright.ai/jobs/info/69a0b8ce5218a8167671e3b2?utm_campaign=1065&utm_source=git)** | North Andover, MA | On Site | Apr 11 |
-| **[Fort Pierce Utilities Authority](https://fpua.com)** | **[Communications & Digital Storytelling Intern](https://jobright.ai/jobs/info/69da72a35356a60f40fe1344?utm_campaign=1065&utm_source=git)** | Fort Pierce, FL | On Site | Apr 11 |
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Communications & Home Run](https://jobright.ai/jobs/info/69da72a35356a60f40fe1354?utm_campaign=1065&utm_source=git)** | West Sacramento, CA | On Site | Apr 11 |
-| **[Snohomish County, WA](https://www.snohomishcountywa.gov/)** | **[Intern - Communications (Fair, Parks & Recreation) - Seasonal](https://jobright.ai/jobs/info/69da7291f748bc5d08a52e3f?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Apr 11 |
 | **[Piggy Bank Profit](piggybankprofits.squarespace.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69da725ff748bc5d08a52d94?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Sales & Marketing](https://jobright.ai/jobs/info/6983972a0f6f7e7a2cdd07ee?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 11 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - eCommerce Third Party Marketplaces](https://jobright.ai/jobs/info/69da8f4df748bc5d08a53311?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Apr 11 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Appian](http://www.appian.com)** | **[Social Media & Content Marketing Intern](https://jobright.ai/jobs/info/69bb0074569738374140d3b2?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 11 |
 | **[Benchmark](http://www.bench.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69bdfb2db1060245628360b3?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer Public Relations Intern](https://jobright.ai/jobs/info/69a182d7359fe034b1cce2b2?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | Apr 11 |
-| **[Williamsburg Garment Company](http://madeinusajeans.us/)** | **[PR & Content Intern – Denim / Fashion (Brooklyn, NY)](https://jobright.ai/jobs/info/69da72d0869c7e25d85a27c5?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Apr 11 |
 | **[Grove City College](http://www.gcc.edu/)** | **[Marketing](https://jobright.ai/jobs/info/6986b51e8ca8121a3a6913f7?utm_campaign=1065&utm_source=git)** | Grove City, PA | On Site | Apr 11 |
 | **[G5 Sports Group](www.g5sportsgroup.com)** | **[Summer 2026 Internship – Sports, Sponsorships & Luxury Experiences (G5 Sports)](https://jobright.ai/jobs/info/69da40ddf748bc5d08a519fb?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bd69884828227293ff9b5d?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Apr 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Communications Internship (Part-time, Remote, North Carolina Based)](https://jobright.ai/jobs/info/69d988875356a60f40fda2b0?utm_campaign=1065&utm_source=git)** | Morrisville, NC | Remote | Apr 10 |
 | **[The deFIANT](https://www.thedefiant.com)** | **[Brand Partnerships & Events Internship](https://jobright.ai/jobs/info/69d98864869c7e25d859b624?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | Apr 10 |
 | **[Novocure](http://www.novocure.com/)** | **[AI Innovation Intern - Marketing](https://jobright.ai/jobs/info/69d9885a738f2f099e8a24a6?utm_campaign=1065&utm_source=git)** | Wayne, PA | Hybrid | Apr 10 |
-| **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d988585356a60f40fda239?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | Apr 10 |
-| **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/69af040f749500645093732a?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
