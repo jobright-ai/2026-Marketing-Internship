@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California Water Service Group](https://www.calwatergroup.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69d994eab67cec4f9b0a2bd4?utm_campaign=1065&utm_source=git)** | Selma, CA | On Site | Apr 10 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d9938d738f2f099e8a285b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 10 |
+| **[Entegra](https://entegraps.fr/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d990d5869c7e25d859b8d9?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
+| **[University of Guelph](http://www.uoguelph.ca/)** | **[Research Communications and Outreach Manager](https://jobright.ai/jobs/info/69d990cb5356a60f40fda469?utm_campaign=1065&utm_source=git)** | Guelph, ON | On Site | Apr 10 |
+| **[AfterQuery](https://www.afterquery.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/69d990c7738f2f099e8a2672?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
+| **[Novo Holdings](https://www.novoholdings.dk)** | **[Undergraduate Intern, Growth Investments](https://jobright.ai/jobs/info/69d990a5f748bc5d08a4bd75?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
+| **[Commerce](http://commerce.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d990a59f97a42dc9c2229f?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Apr 10 |
+| **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/69d99073b67cec4f9b0a29c7?utm_campaign=1065&utm_source=git)** | Williamsport, PA | On Site | Apr 10 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/69d988cf738f2f099e8a2591?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[Nexthink](http://www.nexthink.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69d988cf869c7e25d859b77f?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Apr 10 |
 | **[University of Southern California](http://www.usc.edu)** | **[Digital Media and Marketing Specialist](https://jobright.ai/jobs/info/69d988ccb67cec4f9b0a297d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jeu de paume](jeudepaume.com)** | **[Influencers Expansion Tennis Activewear Internship](https://jobright.ai/jobs/info/69d940765356a60f40fd8702?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[Versaterm](https://www.versaterm.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69d9405ab67cec4f9b0a0d2f?utm_campaign=1065&utm_source=git)** | Lexington, SC | On Site | Apr 10 |
 | **[TowerBrook Capital Partners L.P.](http://www.towerbrook.com)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/69d94016b67cec4f9b0a0c54?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 10 |
-| **[OC Consulting](www.osmundcharles.com)** | **[Public Relations & Brand Strategy Intern](https://jobright.ai/jobs/info/69d94016b67cec4f9b0a0c55?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Apr 10 |
-| **[MathWorks](http://www.mathworks.com)** | **[Ecole de Technologie Supérieure MATLAB Student Ambassador](https://jobright.ai/jobs/info/69d95afb5356a60f40fd90bc?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Apr 10 |
-| **[CLEAResult](http://www.clearesult.com)** | **[Market Outreach Assistant Intern](https://jobright.ai/jobs/info/69d93cf2b67cec4f9b0a09be?utm_campaign=1065&utm_source=git)** | Greater Vancouver Metropolitan Area | On Site | Apr 10 |
-| **[AnnieMac Home Mortgage](http://www.annie-mac.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d93ce0f748bc5d08a49f16?utm_campaign=1065&utm_source=git)** | Providence, RI | Hybrid | Apr 10 |
-| **[AIAA](http://www.aiaa.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69d93cd1738f2f099e8a078e?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | Apr 10 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Marketing](https://jobright.ai/jobs/info/69d93cb19f97a42dc9c2042e?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 10 |
-| **[Janji](http://janji.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/69d93cae5356a60f40fd85f9?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Apr 10 |
-| **[APVSA](https://www.apvsa.ca/)** | **[Stagiaire en marketing et communication](https://jobright.ai/jobs/info/69d93c8d5356a60f40fd857e?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
