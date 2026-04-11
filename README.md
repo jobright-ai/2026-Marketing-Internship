@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benchmark](http://www.bench.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69bdfb2db1060245628360b3?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Apr 11 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer Public Relations Intern](https://jobright.ai/jobs/info/69a182d7359fe034b1cce2b2?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | Apr 11 |
+| **[Grove City College](http://www.gcc.edu/)** | **[Marketing](https://jobright.ai/jobs/info/6986b51e8ca8121a3a6913f7?utm_campaign=1065&utm_source=git)** | Grove City, PA | On Site | Apr 11 |
 | **[G5 Sports Group](www.g5sportsgroup.com)** | **[Summer 2026 Internship – Sports, Sponsorships & Luxury Experiences (G5 Sports)](https://jobright.ai/jobs/info/69da40ddf748bc5d08a519fb?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bd69884828227293ff9b5d?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Apr 11 |
 | **[Acadia Pharmaceuticals](https://www.acadia-pharm.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69a20f1d0da45516f16b5882?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Apr 11 |
@@ -67,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Promotion & Creative Services Intern](https://jobright.ai/jobs/info/69da3ab89f97a42dc9c27b2a?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 11 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbd79b10602456282d30a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
 | ↳ | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdf23a393a1008f743c29f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
-| ↳ | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbdddb10602456282d415?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | ↳ | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdc0db4828227293002728?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
+| ↳ | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbdddb10602456282d415?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69bdde12b106024562834381?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Apr 11 |
 | **[MathWorks](http://www.mathworks.com)** | **[Dalhousie University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69440266dd382f5f566a222e?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Tour Marketing Intern](https://jobright.ai/jobs/info/69bd6846b106024562824b68?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Apr 11 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Travel Leaders Network](https://www.travelleaders.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d9ae96f748bc5d08a4d322?utm_campaign=1065&utm_source=git)** | Plymouth, MN | Hybrid | Apr 10 |
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Social Media Growth Intern](https://jobright.ai/jobs/info/69d9ae59f748bc5d08a4d2aa?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Apr 10 |
 | **[Interpret](https://interpret.la/)** | **[Market Research Intern-to-hire – Gaming & Technology Insights (LA – In-Person)](https://jobright.ai/jobs/info/69da3c01f748bc5d08a5189e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
-| ↳ | **[Market Research Intern-to-hire – Gaming & Technology Insights (Dallas – In-Person)](https://jobright.ai/jobs/info/69da3bea869c7e25d85a1240?utm_campaign=1065&utm_source=git)** | Plano, Texas - USA | On Site | Apr 10 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Marketing Internship](https://jobright.ai/jobs/info/69d9a501b67cec4f9b0a39ff?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | Apr 10 |
 | **[Thryve](https://usethryve.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d9a4ee9f97a42dc9c23356?utm_campaign=1065&utm_source=git)** | Vaughan, ON | Hybrid | Apr 10 |
 | **[Faculty of Applied Sciences & Technology at Humber Polytechnic](https://appliedtechnology.humber.ca/)** | **[Associate Director, Marketing - UGH - FT Admin](https://jobright.ai/jobs/info/69d9a49b738f2f099e8a37e8?utm_campaign=1065&utm_source=git)** | Etobicoke, ON | On Site | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, International Marketing Partnerships- Summer 2026](https://jobright.ai/jobs/info/69d9661a9f97a42dc9c214a7?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Apr 10 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Marketing Internship](https://jobright.ai/jobs/info/69d965d5738f2f099e8a19d7?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Volto Santo](voltosantoclothing.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69d96211b67cec4f9b0a1bf6?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Apr 10 |
-| **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Social Media Growth Intern](https://jobright.ai/jobs/info/69d960bcf748bc5d08a4b0cd?utm_campaign=1065&utm_source=git)** | Durham, North Carolina | On Site | Apr 10 |
-| **[Arthritis Foundation](http://www.arthritis.org)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69d96035f748bc5d08a4b09d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
