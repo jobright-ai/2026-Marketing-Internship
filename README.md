@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exus Renewables North America](www.exus.us)** | **[Marketing Intern](https://jobright.ai/jobs/info/69da067e5356a60f40fdf7be?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Apr 11 |
+| **[Bread](https://www.breadpayments.com/)** | **[Marketing Strategist - Acquisition or ECM](https://jobright.ai/jobs/info/69da05ebf748bc5d08a51128?utm_campaign=1065&utm_source=git)** | Marion County, IN | Hybrid | Apr 11 |
+| **[The State University of New York](http://www.suny.edu/)** | **[Research Communications & Content Intern](https://jobright.ai/jobs/info/69da02fe869c7e25d85a07f4?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | **[Urban Unity INC](https://www.urbanunity.us)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69d9e7be738f2f099e8a5917?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Apr 10 |
 | **[Electro](electrogum.com)** | **[NIL Athlete Outreach Intern](https://jobright.ai/jobs/info/69d9e34ef748bc5d08a4f006?utm_campaign=1065&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
 | **[LXN Creative](http://LXNPhotography.com/)** | **[SEO + SEM Intern (Unpaid)](https://jobright.ai/jobs/info/69d9cadd738f2f099e8a4915?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Apr 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fondaction](http://www.fondaction.com)** | **[Étudiant.e (Stagiaire), Marketing](https://jobright.ai/jobs/info/69d976a2738f2f099e8a1cf1?utm_campaign=1065&utm_source=git)** | Montreal, QC | Hybrid | Apr 10 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d9536a738f2f099e8a1112?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Apr 10 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[New Roots Markets Intern](https://jobright.ai/jobs/info/69d6847b706f771673bab19b?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 10 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Distribution](https://jobright.ai/jobs/info/69d950bdb67cec4f9b0a110b?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Apr 10 |
-| **[Symrise AG](http://www.symrise.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d94a1af748bc5d08a4a601?utm_campaign=1065&utm_source=git)** | Teterboro, NJ | Remote | Apr 10 |
-| **[Fulton Market Holiday Events](https://www.linkedin.com/company/113424099)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d949e5f748bc5d08a4a5a1?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
