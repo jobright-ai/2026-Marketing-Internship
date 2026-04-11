@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Interpret](https://interpret.la/)** | **[Market Research Intern-to-hire – Gaming & Technology Insights (Dallas – In-Person)](https://jobright.ai/jobs/info/69d9b387869c7e25d859cf8a?utm_campaign=1065&utm_source=git)** | Plano, Texas - USA | On Site | Apr 10 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d9b03e869c7e25d859cec2?utm_campaign=1065&utm_source=git)** | Selma, CA | On Site | Apr 10 |
+| **[Travel Leaders Network](https://www.travelleaders.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d9ae96f748bc5d08a4d322?utm_campaign=1065&utm_source=git)** | Plymouth, MN | Hybrid | Apr 10 |
+| **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Social Media Growth Intern](https://jobright.ai/jobs/info/69d9ae59f748bc5d08a4d2aa?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Apr 10 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Marketing Internship](https://jobright.ai/jobs/info/69d9a501b67cec4f9b0a39ff?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | Apr 10 |
 | **[Thryve](https://usethryve.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d9a4ee9f97a42dc9c23356?utm_campaign=1065&utm_source=git)** | Vaughan, ON | Hybrid | Apr 10 |
 | **[Faculty of Applied Sciences & Technology at Humber Polytechnic](https://appliedtechnology.humber.ca/)** | **[Associate Director, Marketing - UGH - FT Admin](https://jobright.ai/jobs/info/69d9a49b738f2f099e8a37e8?utm_campaign=1065&utm_source=git)** | Etobicoke, ON | On Site | Apr 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexthink](http://www.nexthink.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69d94962738f2f099e8a0dd5?utm_campaign=1065&utm_source=git)** | Boston, MA, USA | Hybrid | Apr 10 |
 | **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Strategic Communications, Internal Communications](https://jobright.ai/jobs/info/69d94953869c7e25d8599f4b?utm_campaign=1065&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 10 |
 | ↳ | **[Intern, Strategic Communications, Digital](https://jobright.ai/jobs/info/69d94952869c7e25d8599f45?utm_campaign=1065&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 10 |
-| **[CourtAvenue](http://www.courtavenue.com)** | **[Intern, Organic Social & Influencer Marketing at MODIFLY](https://jobright.ai/jobs/info/69d97a8b738f2f099e8a215e?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 10 |
-| **[Kao EMEA & Americas](http://www.kao.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d944839f97a42dc9c208a7?utm_campaign=1065&utm_source=git)** | Cincinnati | Hybrid | Apr 10 |
-| **[Demetres](https://demetres.com/)** | **[Social Media Marketing / Content Creation Summer Intern](https://jobright.ai/jobs/info/69d9443b9f97a42dc9c20821?utm_campaign=1065&utm_source=git)** | Woodbrige, Ontario, Canada | On Site | Apr 10 |
-| **[Chmura Economics & Analytics](https://www.chmura.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69d943d69f97a42dc9c207aa?utm_campaign=1065&utm_source=git)** | Richmond,VA,US | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
