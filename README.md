@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdf23a393a1008f743c29f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
+| ↳ | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbdddb10602456282d415?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
+| ↳ | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdc0db4828227293002728?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
+| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69bdde12b106024562834381?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Apr 11 |
+| **[MathWorks](http://www.mathworks.com)** | **[Dalhousie University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69440266dd382f5f566a222e?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Apr 11 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbebf393a1008f7434253?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69bdbd41393a1008f7433eb5?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Apr 11 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbe10393a1008f743407f?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, US Neuropsychiatry Franchise](https://jobright.ai/jobs/info/69d95cc2b67cec4f9b0a17c1?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Apr 10 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Civic Engagement / Scheduling Intern](https://jobright.ai/jobs/info/69d95b865356a60f40fd9223?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Sales & Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69d95b85869c7e25d859a60a?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Apr 10 |
-| **[Western Welding Academy](ApplyToWeld.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d95b2bf748bc5d08a4abdd?utm_campaign=1065&utm_source=git)** | Gillette, WY | On Site | Apr 10 |
-| **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69d95ace869c7e25d859a470?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Apr 10 |
-| ↳ | **[Ecommerce Intern](https://jobright.ai/jobs/info/69d95acc869c7e25d859a46d?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Apr 10 |
-| **[City Colleges of Chicago-Kennedy-King College](http://www.ccc.edu/colleges/kennedy/pages/default.aspx)** | **[Civic Engagement / Scheduling Intern](https://jobright.ai/jobs/info/69d95a859f97a42dc9c20f97?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
-| **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Marketing Intern (Spring 2026)](https://jobright.ai/jobs/info/69d95a835356a60f40fd8faf?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
