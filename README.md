@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d9b03e869c7e25d859cec2?utm_campaign=1065&utm_source=git)** | Selma, CA | On Site | Apr 10 |
 | **[Travel Leaders Network](https://www.travelleaders.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d9ae96f748bc5d08a4d322?utm_campaign=1065&utm_source=git)** | Plymouth, MN | Hybrid | Apr 10 |
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Social Media Growth Intern](https://jobright.ai/jobs/info/69d9ae59f748bc5d08a4d2aa?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Apr 10 |
-| **[Interpret](https://interpret.la/)** | **[Market Research Intern-to-hire – Gaming & Technology Insights (Dallas – In-Person)](https://jobright.ai/jobs/info/69da787d869c7e25d85a290b?utm_campaign=1065&utm_source=git)** | Plano, Texas - USA | On Site | Apr 10 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Marketing Internship](https://jobright.ai/jobs/info/69d9a501b67cec4f9b0a39ff?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | Apr 10 |
 | **[Thryve](https://usethryve.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d9a4ee9f97a42dc9c23356?utm_campaign=1065&utm_source=git)** | Vaughan, ON | Hybrid | Apr 10 |
 | **[Faculty of Applied Sciences & Technology at Humber Polytechnic](https://appliedtechnology.humber.ca/)** | **[Associate Director, Marketing - UGH - FT Admin](https://jobright.ai/jobs/info/69d9a49b738f2f099e8a37e8?utm_campaign=1065&utm_source=git)** | Etobicoke, ON | On Site | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Communications Intern](https://jobright.ai/jobs/info/69cde3a654f00230c6cf7e66?utm_campaign=1065&utm_source=git)** | Greater Edmonton Metropolitan Area | Hybrid | Apr 10 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Onsite Marketing Intern (Miami, FL)](https://jobright.ai/jobs/info/69d97887f748bc5d08a4b8be?utm_campaign=1065&utm_source=git)** | Miami South Beach M&S | On Site | Apr 10 |
 | **[Humber College](http://www.humber.ca/)** | **[Associate Director, Marketing - UGH - FT Admin](https://jobright.ai/jobs/info/69d976d4738f2f099e8a1d9d?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
+| **[AJCEO Business Coaching Group](http://Www.ajceobc.com)** | **[Intern](https://jobright.ai/jobs/info/69d97658b67cec4f9b0a21b7?utm_campaign=1065&utm_source=git)** | Fairburn, GA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
