@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LXN Creative](http://LXNPhotography.com/)** | **[SEO + SEM Intern (Unpaid)](https://jobright.ai/jobs/info/69d9cadd738f2f099e8a4915?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Apr 10 |
+| **[Inspire](https://inspirebrands.com)** | **[Audience Planning Intern](https://jobright.ai/jobs/info/69d9cabbf748bc5d08a4e132?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 10 |
+| **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Community Insights](https://jobright.ai/jobs/info/69d9ca9b869c7e25d859da08?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Apr 10 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Onsite Marketing Intern (Miami, FL)](https://jobright.ai/jobs/info/69d9c01d9f97a42dc9c24094?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | On Site | Apr 10 |
-| **[Interpret](https://interpret.la/)** | **[Market Research Intern-to-hire – Gaming & Technology Insights (Los Angeles– In-Person)](https://jobright.ai/jobs/info/69d9bfb2869c7e25d859d54a?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Apr 10 |
 | **[Radian](https://www.radian.com/)** | **[Marketing Operations Intern - Remote with East Coast hours](https://jobright.ai/jobs/info/69d9ba2a9f97a42dc9c23c4e?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | Remote | Apr 10 |
-| **[Inspire](https://inspirebrands.com)** | **[Audience Planning Intern](https://jobright.ai/jobs/info/69d9b9f89f97a42dc9c23bfa?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 10 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d9b03e869c7e25d859cec2?utm_campaign=1065&utm_source=git)** | Selma, CA | On Site | Apr 10 |
 | **[Travel Leaders Network](https://www.travelleaders.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d9ae96f748bc5d08a4d322?utm_campaign=1065&utm_source=git)** | Plymouth, MN | Hybrid | Apr 10 |
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Social Media Growth Intern](https://jobright.ai/jobs/info/69d9ae59f748bc5d08a4d2aa?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Apr 10 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[SACC Chicago (Swedish American Chamber of Commerce Chicago)](http://www.sacc-chicago.org/)** | **[Marketing Intern, Axis Communications, Fall 2026](https://jobright.ai/jobs/info/69d9a46ab67cec4f9b0a38b3?utm_campaign=1065&utm_source=git)** | Chelmsford, MA | On Site | Apr 10 |
 | **[ACCEL Schools](http://www.accelschools.com)** | **[Marketing Intern - Cleveland](https://jobright.ai/jobs/info/69d9a461738f2f099e8a370c?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Apr 10 |
 | ↳ | **[Marketing Intern - Columbus](https://jobright.ai/jobs/info/69d9a4439f97a42dc9c2323d?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 10 |
+| **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Intern, Marketing Liaison (Rangelands) Part-time](https://jobright.ai/jobs/info/69d9cade738f2f099e8a4918?utm_campaign=1065&utm_source=git)** | Falmouth, MA | Hybrid | Apr 10 |
 | **[Chmura Economics & Analytics](https://www.chmura.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69d99e7c738f2f099e8a35d9?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Apr 10 |
 | **[Kao EMEA & Americas](http://www.kao.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d99e7a738f2f099e8a35ce?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 10 |
 | **[The Brand Agency: Creative Communications and Public Relations Firm](http://thebrand-agency.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d99e57738f2f099e8a359b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Distribution](https://jobright.ai/jobs/info/69d950bdb67cec4f9b0a110b?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Apr 10 |
 | **[Symrise AG](http://www.symrise.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d94a1af748bc5d08a4a601?utm_campaign=1065&utm_source=git)** | Teterboro, NJ | Remote | Apr 10 |
 | **[Fulton Market Holiday Events](https://www.linkedin.com/company/113424099)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69d949e5f748bc5d08a4a5a1?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
-| **[Sandisk](https://www.sandisk.com)** | **[Marketing Intern (Bachelors, Summer 2026)](https://jobright.ai/jobs/info/69d9496bf748bc5d08a4a551?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Apr 10 |
-| **[Novo Holdings](https://www.novoholdings.dk)** | **[Undergraduate Intern, Growth Investments](https://jobright.ai/jobs/info/69d9496b5356a60f40fd8bb6?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
