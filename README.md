@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Promotion & Creative Services Intern](https://jobright.ai/jobs/info/69da3ab89f97a42dc9c27b2a?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 11 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbd79b10602456282d30a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
 | ↳ | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdf23a393a1008f743c29f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
-| ↳ | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdc0db4828227293002728?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | ↳ | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbdddb10602456282d415?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
+| ↳ | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdc0db4828227293002728?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69bdde12b106024562834381?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Apr 11 |
 | **[MathWorks](http://www.mathworks.com)** | **[Dalhousie University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69440266dd382f5f566a222e?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Tour Marketing Intern](https://jobright.ai/jobs/info/69bd6846b106024562824b68?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Apr 11 |
