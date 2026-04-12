@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[cside](https://cside.com)** | **[Intern - Social Media Manager](https://jobright.ai/jobs/info/69dbfddd9f97a42dc9c2faa9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 12 |
+| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Brand Marketing Intern](https://jobright.ai/jobs/info/69dbfd0d738f2f099e8afc86?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
+| **[MANITOU Group](http://www.manitou-group.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dbfd0b738f2f099e8afc7f?utm_campaign=1065&utm_source=git)** | West Bend, WI | On Site | Apr 12 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Content Creation Intern - Summer 2026](https://jobright.ai/jobs/info/69dbfcbf9f97a42dc9c2fa15?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 12 |
+| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Summer 2026 - Influencer Marketing & Partnerships Intern](https://jobright.ai/jobs/info/69dbfca2f748bc5d08a59407?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
+| ↳ | **[Unpaid - Public Relations & Communications Intern](https://jobright.ai/jobs/info/69dbfc12869c7e25d85a8bb9?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
 | **[The Points Guy](https://thepointsguy.com/)** | **[Social Media Partnerships Manager / The Points Guy](https://jobright.ai/jobs/info/698641a88da7a6120460f28b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 12 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[SEO/GEO Specialist - Intern](https://jobright.ai/jobs/info/69bee0b9393a1008f744ba81?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 12 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/69d209e20b098b7a670868c6?utm_campaign=1065&utm_source=git)** | Canton, OH | On Site | Apr 12 |
@@ -85,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbc5bc5356a60f40fe6f22?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69dbc414869c7e25d85a8350?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 12 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbc4fd738f2f099e8af3ef?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 12 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69dbc414869c7e25d85a834b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 12 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69dbc5ae5356a60f40fe6f07?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 12 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69dbc414869c7e25d85a834b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 12 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbc5d2b67cec4f9b0af579?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Electro](electrogum.com)** | **[Athlete Engagement Intern](https://jobright.ai/jobs/info/69db9dc6738f2f099e8af2ab?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 12 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing and Sales Intern (Unpaid)](https://jobright.ai/jobs/info/69db9d93b67cec4f9b0af3d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bd9fb4393a1008f742fa67?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 11 |
 | **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69da5643b67cec4f9b0a9096?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bded9d393a1008f743c079?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
-| **[Appian](http://www.appian.com)** | **[Social Media & Content Marketing Intern](https://jobright.ai/jobs/info/69bb0074569738374140d3b2?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 11 |
-| **[Benchmark](http://www.bench.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69bdfb2db1060245628360b3?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Apr 11 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer Public Relations Intern](https://jobright.ai/jobs/info/69a182d7359fe034b1cce2b2?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | Apr 11 |
-| **[Grove City College](http://www.gcc.edu/)** | **[Marketing](https://jobright.ai/jobs/info/6986b51e8ca8121a3a6913f7?utm_campaign=1065&utm_source=git)** | Grove City, PA | On Site | Apr 11 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bd69884828227293ff9b5d?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Apr 11 |
-| **[Acadia Pharmaceuticals](https://www.acadia-pharm.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69a20f1d0da45516f16b5882?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
