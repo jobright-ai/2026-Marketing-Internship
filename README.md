@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creative Expansions, Inc](cei)** | **[Summer Internship--Social Media & Publicity Maven](https://jobright.ai/jobs/info/69dbace1869c7e25d85a82c6?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Remote | Apr 12 |
+| **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/693365bcf131d96e48462d94?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Apr 12 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbac22f748bc5d08a58adc?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 12 |
+| **[Electro](electrogum.com)** | **[College Athlete Relations Intern](https://jobright.ai/jobs/info/69dba806f748bc5d08a58aa4?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Apr 12 |
+| ↳ | **[College Athlete Relations Intern](https://jobright.ai/jobs/info/69dba8055356a60f40fe6e01?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Apr 12 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dba7b29f97a42dc9c2f02b?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 12 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69dba7b29f97a42dc9c2f029?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 12 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69dba78e869c7e25d85a820b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 12 |
+| **[Almo Corporation](http://www.almo.com)** | **[Customer Marketing Intern](https://jobright.ai/jobs/info/69a26c10359fe034b1cdac47?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Apr 12 |
 | **[Electro](electrogum.com)** | **[Athlete Engagement Intern](https://jobright.ai/jobs/info/69db9dc6738f2f099e8af2ab?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 12 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing and Sales Intern (Unpaid)](https://jobright.ai/jobs/info/69db9d93b67cec4f9b0af3d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 12 |
-| **[Colorstech Solar](http://www.colorstech.net)** | **[Online-Marketing - Specialist Intern](https://jobright.ai/jobs/info/69db9d8fb67cec4f9b0af3cf?utm_campaign=1065&utm_source=git)** | Canada | Remote | Apr 12 |
 | **[Donor Network of Arizona](http://www.dnaz.org)** | **[Paid Community Engagement & Communications Intern (Bilingual Preferred)](https://jobright.ai/jobs/info/699e621181476f6176b767e8?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Apr 12 |
 | **[Carta](https://carta.com/)** | **[Marketing Internship - PR & Communications](https://jobright.ai/jobs/info/69a25330359fe034b1cd8d13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 12 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Digital Communications Intern - ENV](https://jobright.ai/jobs/info/69db96529f97a42dc9c2ef3e?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 12 |
@@ -78,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Colliers](http://www.colliers.com)** | **[Summer Intern - National Data Center](https://jobright.ai/jobs/info/6986982a0f6f7e7a2ce1a073?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 12 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Paid Search Intern](https://jobright.ai/jobs/info/69cf48e4cdb525785fba0d27?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Apr 12 |
 | **[HumanityOS](https://www.humanityos.in/)** | **[United States Students - Internship Digital Marketing   — HumanityOS](https://jobright.ai/jobs/info/69db6d5f5356a60f40fe6a08?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 12 |
+| **[West Side Montessori School](http://www.wsmsnyc.org)** | **[PROMOTIONAL PROGRAMS INTERN](https://jobright.ai/jobs/info/69dba7de5356a60f40fe6dd4?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Apr 11 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Social Media](https://jobright.ai/jobs/info/69db1af5b67cec4f9b0ad48d?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Apr 11 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Fall 26)](https://jobright.ai/jobs/info/69db34b35356a60f40fe5886?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Apr 11 |
 | **[Robometrics® Machines](https://www.robometricsagi.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69daee399f97a42dc9c2c599?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern- Technology & AI Innovation (Digital Engineering)](https://jobright.ai/jobs/info/69af6ab5749500645093dfb3?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Apr 11 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Communications Intern](https://jobright.ai/jobs/info/69c8bae7e565c26a70030b96?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
 | **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern- Technology & AI Innovation (Stores)](https://jobright.ai/jobs/info/69af7b0f6b21de023e60b285?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Apr 11 |
-| **[MathWorks](http://www.mathworks.com)** | **[University of Chicago MATLAB Student Ambassador](https://jobright.ai/jobs/info/6930bdacef4b48533d14e981?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 11 |
-| **[LXN Creative](http://LXNPhotography.com/)** | **[Technical SEO Intern (Unpaid) / Mentorship, Career Coaching, Portrait Session, Written Referral/Reference Upon Successful Completion](https://jobright.ai/jobs/info/69d9cadd738f2f099e8a4915?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Apr 11 |
-| **[Exus Renewables North America](www.exus.us)** | **[Marketing Intern](https://jobright.ai/jobs/info/69da067e5356a60f40fdf7be?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Apr 11 |
-| **[Bread](https://www.breadpayments.com/)** | **[Marketing Strategist - Acquisition or ECM](https://jobright.ai/jobs/info/69da05ebf748bc5d08a51128?utm_campaign=1065&utm_source=git)** | Marion County, IN | Hybrid | Apr 11 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Research Communications & Content Intern](https://jobright.ai/jobs/info/69da02fe869c7e25d85a07f4?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Apr 11 |
-| ↳ | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69da1e21738f2f099e8a7cf5?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Apr 11 |
-| ↳ | **[Marketing Intern for SUNY Press](https://jobright.ai/jobs/info/69da1e19869c7e25d85a0e3c?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Apr 11 |
-| **[Inspire](https://inspirebrands.com)** | **[Audience Planning Intern](https://jobright.ai/jobs/info/69d9cabbf748bc5d08a4e132?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 10 |
-| **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Community Insights](https://jobright.ai/jobs/info/69d9ca9b869c7e25d859da08?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
