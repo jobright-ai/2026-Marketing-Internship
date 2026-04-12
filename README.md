@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delibity](https://delibity.com/)** | **[Summer 2026 Growth Intern](https://jobright.ai/jobs/info/69dada795356a60f40fe3f6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 11 |
+| **[Perelel](https://perelelhealth.com)** | **[Brand Marketing Summer Intern](https://jobright.ai/jobs/info/69dad816f748bc5d08a55afd?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Apr 11 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69dad5bb869c7e25d85a5185?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 11 |
 | **[EPIC Insurance Brokers & Consultants](http://www.edgewoodins.com)** | **[Intern](https://jobright.ai/jobs/info/69a1d0990da45516f16b2812?utm_campaign=1065&utm_source=git)** | 134 E Washington St, New Castle PA 16101 | On Site | Apr 11 |
 | **[NOX METALS](noxmetals.co)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/69daac3b9f97a42dc9c2bbe6?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 11 |
 | **[FM Expressions](https://www.fmexpressions.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69daab275356a60f40fe39c5?utm_campaign=1065&utm_source=git)** | Fredericksburg, VA | Hybrid | Apr 11 |
@@ -109,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbeb0393a1008f7434230?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Communications Intern](https://jobright.ai/jobs/info/69bd9e154828227293ffd6fe?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Apr 11 |
 | **[Fluidstack](https://www.fluidstack.io)** | **[Internal Communications & Events Manager](https://jobright.ai/jobs/info/69baf51b06c1ba00c54d48b3?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
-| **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Promotion & Creative Services Intern](https://jobright.ai/jobs/info/69da3ab89f97a42dc9c27b2a?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 11 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbd79b10602456282d30a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
 | ↳ | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdf23a393a1008f743c29f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
 | ↳ | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdc0db4828227293002728?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[California Water Service Group](https://www.calwatergroup.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69d994eab67cec4f9b0a2bd4?utm_campaign=1065&utm_source=git)** | Selma, CA | On Site | Apr 10 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d9938d738f2f099e8a285b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 10 |
 | **[Entegra](https://entegraps.fr/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d990d5869c7e25d859b8d9?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
-| **[University of Guelph](http://www.uoguelph.ca/)** | **[Research Communications and Outreach Manager](https://jobright.ai/jobs/info/69d990cb5356a60f40fda469?utm_campaign=1065&utm_source=git)** | Guelph, ON | On Site | Apr 10 |
-| **[AfterQuery](https://www.afterquery.com)** | **[Growth Intern](https://jobright.ai/jobs/info/69d990c7738f2f099e8a2672?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
