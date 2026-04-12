@@ -83,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Delivery iXp Intern - Strategic Content and Communications](https://jobright.ai/jobs/info/69a0ce6f81476f6176bb1860?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 11 |
 | **[Clique Hospitality](https://cliquehospitality.com/)** | **[Marketing Intern - Clique Hospitality](https://jobright.ai/jobs/info/69dac69c5356a60f40fe3e09?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - Carytown and Short Pump](https://jobright.ai/jobs/info/69a1eb95359fe034b1cd2ce6?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Apr 11 |
+| **[Aspire Institute](http://aspireleaders.org)** | **[Director of Marketing and Communications](https://jobright.ai/jobs/info/69db64c7f748bc5d08a5869f?utm_campaign=1065&utm_source=git)** | Home, KS | Hybrid | Apr 11 |
 | **[X UP Brands](https://www.xupbrands.com/)** | **[TikTok Content & Creator Partnerships Intern](https://jobright.ai/jobs/info/69da9337b67cec4f9b0aa049?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Apr 11 |
 | **[AIRE](https://withaire.framer.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69da93075356a60f40fe1aa9?utm_campaign=1065&utm_source=git)** | Vancouver, BC | Remote | Apr 11 |
 | **[McCain Foods](http://www.mccain.com)** | **[Marketing Internship - North America Food Service Portfolio Strategy](https://jobright.ai/jobs/info/69bdf89d393a1008f743d213?utm_campaign=1065&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Apr 11 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Fluidstack](https://www.fluidstack.io)** | **[Internal Communications & Events Manager](https://jobright.ai/jobs/info/69baf51b06c1ba00c54d48b3?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbd79b10602456282d30a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
 | ↳ | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdf23a393a1008f743c29f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
-| ↳ | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdc0db4828227293002728?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | ↳ | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbdddb10602456282d415?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
+| ↳ | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdc0db4828227293002728?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69bdde12b106024562834381?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Apr 11 |
 | **[MathWorks](http://www.mathworks.com)** | **[Dalhousie University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69440266dd382f5f566a222e?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Tour Marketing Intern](https://jobright.ai/jobs/info/69bd6846b106024562824b68?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern - Columbus](https://jobright.ai/jobs/info/69d9a4439f97a42dc9c2323d?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 10 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Intern, Marketing Liaison (Rangelands) Part-time](https://jobright.ai/jobs/info/69d9cade738f2f099e8a4918?utm_campaign=1065&utm_source=git)** | Falmouth, MA | Hybrid | Apr 10 |
 | **[Chmura Economics & Analytics](https://www.chmura.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69d99e7c738f2f099e8a35d9?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Apr 10 |
-| **[Kao EMEA & Americas](http://www.kao.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d99e7a738f2f099e8a35ce?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
