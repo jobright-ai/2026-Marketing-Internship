@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[That's So Creative, LLC](https://thatssocreative.com/)** | **[Marketing Research & Strategy Intern](https://jobright.ai/jobs/info/69daff37738f2f099e8ac9e9?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 11 |
 | **[Robometrics® Machines](https://www.robometricsagi.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69daee399f97a42dc9c2c599?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[Delibity](https://delibity.com/)** | **[Summer 2026 Growth Intern](https://jobright.ai/jobs/info/69dada795356a60f40fe3f6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Perelel](https://perelelhealth.com)** | **[Brand Marketing Summer Intern](https://jobright.ai/jobs/info/69dad816f748bc5d08a55afd?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Apr 11 |
@@ -142,8 +143,6 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d9b03e869c7e25d859cec2?utm_campaign=1065&utm_source=git)** | Selma, CA | On Site | Apr 10 |
 | **[Travel Leaders Network](https://www.travelleaders.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d9ae96f748bc5d08a4d322?utm_campaign=1065&utm_source=git)** | Plymouth, MN | Hybrid | Apr 10 |
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Social Media Growth Intern](https://jobright.ai/jobs/info/69d9ae59f748bc5d08a4d2aa?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Apr 10 |
-| **[Interpret](https://interpret.la/)** | **[Market Research Intern-to-hire – Gaming & Technology Insights (LA – In-Person)](https://jobright.ai/jobs/info/69daededf748bc5d08a55fc0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
-| ↳ | **[Market Research Intern-to-hire – Gaming & Technology Insights (Dallas – In-Person)](https://jobright.ai/jobs/info/69daedd6869c7e25d85a56bf?utm_campaign=1065&utm_source=git)** | Plano, Texas - USA | On Site | Apr 10 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Marketing Internship](https://jobright.ai/jobs/info/69d9a501b67cec4f9b0a39ff?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | Apr 10 |
 | **[Thryve](https://usethryve.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d9a4ee9f97a42dc9c23356?utm_campaign=1065&utm_source=git)** | Vaughan, ON | Hybrid | Apr 10 |
 | **[Faculty of Applied Sciences & Technology at Humber Polytechnic](https://appliedtechnology.humber.ca/)** | **[Associate Director, Marketing - UGH - FT Admin](https://jobright.ai/jobs/info/69d9a49b738f2f099e8a37e8?utm_campaign=1065&utm_source=git)** | Etobicoke, ON | On Site | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Chmura Economics & Analytics](https://www.chmura.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69d99e7c738f2f099e8a35d9?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Apr 10 |
 | **[Kao EMEA & Americas](http://www.kao.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d99e7a738f2f099e8a35ce?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 10 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, US Neuropsychiatry Franchise](https://jobright.ai/jobs/info/69d99e56738f2f099e8a3596?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Apr 10 |
+| **[California Water Service Group](https://www.calwatergroup.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69d994eab67cec4f9b0a2bd4?utm_campaign=1065&utm_source=git)** | Selma, CA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
