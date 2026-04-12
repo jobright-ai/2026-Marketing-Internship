@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ottawa County](https://miottawa.org)** | **[Communications Intern - Fall 2026](https://jobright.ai/jobs/info/69db0d21738f2f099e8aceb6?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Apr 11 |
 | **[That's So Creative, LLC](https://thatssocreative.com/)** | **[Marketing Research & Strategy Intern](https://jobright.ai/jobs/info/69daff37738f2f099e8ac9e9?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 11 |
 | **[Robometrics® Machines](https://www.robometricsagi.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69daee399f97a42dc9c2c599?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[Delibity](https://delibity.com/)** | **[Summer 2026 Growth Intern](https://jobright.ai/jobs/info/69dada795356a60f40fe3f6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 11 |
-| **[Perelel](https://perelelhealth.com)** | **[Brand Marketing Summer Intern](https://jobright.ai/jobs/info/69dad816f748bc5d08a55afd?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Apr 11 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69dad5bb869c7e25d85a5185?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 11 |
 | **[EPIC Insurance Brokers & Consultants](http://www.edgewoodins.com)** | **[Intern](https://jobright.ai/jobs/info/69a1d0990da45516f16b2812?utm_campaign=1065&utm_source=git)** | 134 E Washington St, New Castle PA 16101 | On Site | Apr 11 |
 | **[NOX METALS](noxmetals.co)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/69daac3b9f97a42dc9c2bbe6?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 11 |
@@ -116,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Fluidstack](https://www.fluidstack.io)** | **[Internal Communications & Events Manager](https://jobright.ai/jobs/info/69baf51b06c1ba00c54d48b3?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbd79b10602456282d30a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
 | ↳ | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdf23a393a1008f743c29f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 11 |
-| ↳ | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbdddb10602456282d415?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | ↳ | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdc0db4828227293002728?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
+| ↳ | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbdddb10602456282d415?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69bdde12b106024562834381?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Apr 11 |
 | **[MathWorks](http://www.mathworks.com)** | **[Dalhousie University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69440266dd382f5f566a222e?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Tour Marketing Intern](https://jobright.ai/jobs/info/69bd6846b106024562824b68?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Apr 11 |
@@ -133,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Research Communications & Content Intern](https://jobright.ai/jobs/info/69da02fe869c7e25d85a07f4?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | ↳ | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69da1e21738f2f099e8a7cf5?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | ↳ | **[Marketing Intern for SUNY Press](https://jobright.ai/jobs/info/69da1e19869c7e25d85a0e3c?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Apr 11 |
-| **[Urban Unity INC](https://www.urbanunity.us)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69d9e7be738f2f099e8a5917?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Apr 10 |
 | **[Electro](electrogum.com)** | **[NIL Athlete Outreach Intern](https://jobright.ai/jobs/info/69d9e34ef748bc5d08a4f006?utm_campaign=1065&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
 | **[Inspire](https://inspirebrands.com)** | **[Audience Planning Intern](https://jobright.ai/jobs/info/69d9cabbf748bc5d08a4e132?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 10 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Community Insights](https://jobright.ai/jobs/info/69d9ca9b869c7e25d859da08?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kao EMEA & Americas](http://www.kao.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d99e7a738f2f099e8a35ce?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 10 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, US Neuropsychiatry Franchise](https://jobright.ai/jobs/info/69d99e56738f2f099e8a3596?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Apr 10 |
 | **[California Water Service Group](https://www.calwatergroup.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69d994eab67cec4f9b0a2bd4?utm_campaign=1065&utm_source=git)** | Selma, CA | On Site | Apr 10 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d9938d738f2f099e8a285b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
