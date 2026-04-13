@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airbnb](https://www.airbnb.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69dc526eb67cec4f9b0b082b?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 12 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[New Roots Markets Intern](https://jobright.ai/jobs/info/69d6847b706f771673bab19b?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 12 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69dc21cfb67cec4f9b0b018e?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 12 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Social Media](https://jobright.ai/jobs/info/69dc1800b67cec4f9b0b0056?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Apr 12 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbc5bc5356a60f40fe6f22?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69dbc414869c7e25d85a8350?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 12 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbc4fd738f2f099e8af3ef?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 12 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69dbc414869c7e25d85a834b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 12 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69dbc5ae5356a60f40fe6f07?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 12 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69dbc414869c7e25d85a834b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 12 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbc5d2b67cec4f9b0af579?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Electro](electrogum.com)** | **[Athlete Engagement Intern](https://jobright.ai/jobs/info/69db9dc6738f2f099e8af2ab?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 12 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing and Sales Intern (Unpaid)](https://jobright.ai/jobs/info/69db9d93b67cec4f9b0af3d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Relay Graduate School of Education](https://www.relay.edu)** | **[Director, Marketing Operations and Implementation](https://jobright.ai/jobs/info/69a55cd3b600907a962b0a69?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bded8b393a1008f743c049?utm_campaign=1065&utm_source=git)** | University City, MO | On Site | Apr 11 |
 | ↳ | **[LN Concerts, Latin Marketing Intern](https://jobright.ai/jobs/info/69bd9edf4828227293ffd84f?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 11 |
-| **[Pure Storage](http://www.purestorage.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69844bee0f6f7e7a2cdea534?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
