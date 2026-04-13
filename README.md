@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TD](https://www.td.com)** | **[Marketing Learning & Colleague Experience Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc7589f748bc5d08a5ad4a?utm_campaign=1065&utm_source=git)** | TD Terrace - 160 Front Street West Corporate, Toronto, Ontario | On Site | Apr 12 |
+| **[Cerco Group](https://cerealbyproducts.com/)** | **[Marketing Associate - Summer Internship](https://jobright.ai/jobs/info/69dc78d5869c7e25d85aa78d?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL | On Site | Apr 12 |
+| **[TD](https://www.td.com)** | **[Digital Transformation & Strategy Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78bd738f2f099e8b16e3?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Marketing Learning & Colleague Experience Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc7589f748bc5d08a5ad4a?utm_campaign=1065&utm_source=git)** | TD Terrace - 160 Front Street West Corporate, Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Events & Colleague Recognition Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc75875356a60f40fe9148?utm_campaign=1065&utm_source=git)** | TD Centre - West - 100 Wellington Street West, Toronto, Ontario | Hybrid | Apr 12 |
 | **[Fort Pierce Utilities Authority](https://fpua.com)** | **[Digital Media Generalist Intern](https://jobright.ai/jobs/info/69dc6d5bb67cec4f9b0b1594?utm_campaign=1065&utm_source=git)** | Fort Pierce, FL | On Site | Apr 12 |
 | **[Snohomish County, WA](https://www.snohomishcountywa.gov/)** | **[Intern - Communications (Fair, Parks & Recreation) - Seasonal](https://jobright.ai/jobs/info/69dc6d5ab67cec4f9b0b158f?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Apr 12 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbac22f748bc5d08a58adc?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 12 |
 | **[Electro](electrogum.com)** | **[College Athlete Relations Intern](https://jobright.ai/jobs/info/69dba806f748bc5d08a58aa4?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Apr 12 |
 | ↳ | **[College Athlete Relations Intern](https://jobright.ai/jobs/info/69dba8055356a60f40fe6e01?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Apr 12 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dba7b29f97a42dc9c2f029?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 12 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dba7b29f97a42dc9c2f02b?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 12 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dba7b29f97a42dc9c2f02b?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 12 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69dba7b29f97a42dc9c2f029?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69dba78e869c7e25d85a820b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Almo Corporation](http://www.almo.com)** | **[Customer Marketing Intern](https://jobright.ai/jobs/info/69a26c10359fe034b1cdac47?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Apr 12 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbc5bc5356a60f40fe6f22?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Americans 4 Equality](https://www.americans4equality.org)** | **[Intern](https://jobright.ai/jobs/info/69daaaef738f2f099e8abda3?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Hybrid | Apr 11 |
 | **[FSEN](https://www.fsen.tech/)** | **[Market Research and Development Intern](https://jobright.ai/jobs/info/69daaaedb67cec4f9b0abeb2?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Apr 11 |
 | **[FM Expressions](https://www.fmexpressions.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69daaae9b67cec4f9b0abea1?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Apr 11 |
-| **[Kelly Tutors](www.kellytutors.com)** | **[Marketing and Education Community Outreach Intern / Reddit, Facebook (2-5 hrs/week, Remote)](https://jobright.ai/jobs/info/69daaad3f748bc5d08a554b9?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Apr 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - New York City](https://jobright.ai/jobs/info/69a1f917b600907a9628472e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[FM Expressions](https://www.fmexpressions.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69daa4a49f97a42dc9c2baef?utm_campaign=1065&utm_source=git)** | Fork Union, VA | Hybrid | Apr 11 |
 | ↳ | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69daa4909f97a42dc9c2bacd?utm_campaign=1065&utm_source=git)** | Waynesboro, VA | Hybrid | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merrimack College](http://www.merrimack.edu/)** | **[Enrollment Marketing Specialist - Graduate Marketing](https://jobright.ai/jobs/info/69a0b8ce5218a8167671e3b2?utm_campaign=1065&utm_source=git)** | North Andover, MA | On Site | Apr 11 |
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Communications & Home Run](https://jobright.ai/jobs/info/69da72a35356a60f40fe1354?utm_campaign=1065&utm_source=git)** | West Sacramento, CA | On Site | Apr 11 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Sales & Marketing](https://jobright.ai/jobs/info/6983972a0f6f7e7a2cdd07ee?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 11 |
-| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - eCommerce Third Party Marketplaces](https://jobright.ai/jobs/info/69da8f4df748bc5d08a53311?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
