@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[Marketing Learning & Colleague Experience Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc7589f748bc5d08a5ad4a?utm_campaign=1065&utm_source=git)** | TD Terrace - 160 Front Street West Corporate, Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Events & Colleague Recognition Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc75875356a60f40fe9148?utm_campaign=1065&utm_source=git)** | TD Centre - West - 100 Wellington Street West, Toronto, Ontario | Hybrid | Apr 12 |
+| **[Fort Pierce Utilities Authority](https://fpua.com)** | **[Digital Media Generalist Intern](https://jobright.ai/jobs/info/69dc6d5bb67cec4f9b0b1594?utm_campaign=1065&utm_source=git)** | Fort Pierce, FL | On Site | Apr 12 |
+| **[Snohomish County, WA](https://www.snohomishcountywa.gov/)** | **[Intern - Communications (Fair, Parks & Recreation) - Seasonal](https://jobright.ai/jobs/info/69dc6d5ab67cec4f9b0b158f?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Apr 12 |
+| **[Cerco Group](https://cerealbyproducts.com/)** | **[Marketing Associate](https://jobright.ai/jobs/info/69dc69e4f748bc5d08a5a769?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL | On Site | Apr 12 |
 | **[Canadian Lifecare Learning](http://canadianlifecarelearning.com)** | **[Social Media Engagement  Intern](https://jobright.ai/jobs/info/69dc60c7738f2f099e8b0b37?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 12 |
 | **[Airbnb](https://www.airbnb.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69dc526eb67cec4f9b0b082b?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 12 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[New Roots Markets Intern](https://jobright.ai/jobs/info/69d6847b706f771673bab19b?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 12 |
@@ -90,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbac22f748bc5d08a58adc?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 12 |
 | **[Electro](electrogum.com)** | **[College Athlete Relations Intern](https://jobright.ai/jobs/info/69dba806f748bc5d08a58aa4?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Apr 12 |
 | ↳ | **[College Athlete Relations Intern](https://jobright.ai/jobs/info/69dba8055356a60f40fe6e01?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Apr 12 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dba7b29f97a42dc9c2f02b?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 12 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69dba7b29f97a42dc9c2f029?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 12 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dba7b29f97a42dc9c2f029?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 12 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dba7b29f97a42dc9c2f02b?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 12 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69dba78e869c7e25d85a820b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Almo Corporation](http://www.almo.com)** | **[Customer Marketing Intern](https://jobright.ai/jobs/info/69a26c10359fe034b1cdac47?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Apr 12 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbc5bc5356a60f40fe6f22?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Communications & Home Run](https://jobright.ai/jobs/info/69da72a35356a60f40fe1354?utm_campaign=1065&utm_source=git)** | West Sacramento, CA | On Site | Apr 11 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Sales & Marketing](https://jobright.ai/jobs/info/6983972a0f6f7e7a2cdd07ee?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 11 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - eCommerce Third Party Marketplaces](https://jobright.ai/jobs/info/69da8f4df748bc5d08a53311?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Apr 11 |
-| **[BHcare](https://bhcare.org)** | **[Intern- Social Media](https://jobright.ai/jobs/info/69bdcc12b1060245628306a2?utm_campaign=1065&utm_source=git)** | North Haven, CT | On Site | Apr 11 |
-| **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Social Media and Digital Engagement Internship](https://jobright.ai/jobs/info/69bdd06b4828227293005c11?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Apr 11 |
-| **[Relay Graduate School of Education](https://www.relay.edu)** | **[Director, Marketing Operations and Implementation](https://jobright.ai/jobs/info/69a55cd3b600907a962b0a69?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 11 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69bded8b393a1008f743c049?utm_campaign=1065&utm_source=git)** | University City, MO | On Site | Apr 11 |
-| ↳ | **[LN Concerts, Latin Marketing Intern](https://jobright.ai/jobs/info/69bd9edf4828227293ffd84f?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
