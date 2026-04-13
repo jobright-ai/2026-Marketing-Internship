@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69c6f3c31818a24cd84ca333?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
+| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69c0a9f479e36d3a847ce8dc?utm_campaign=1065&utm_source=git)** | Bedford, MA | On Site | Apr 13 |
+| **[Cerrowire](http://cerrowire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/696ae5145fc86241853a18f7?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Apr 13 |
+| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Demand Generation Intern](https://jobright.ai/jobs/info/69d3cebe54f00230c6d2b0e5?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Marketing Learning & Colleague Experience Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bc738f2f099e8b2ef6?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 13 |
 | **[TD](https://www.td.com)** | **[Marketing Learning & Colleague Experience Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bc738f2f099e8b2ef3?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 13 |
 | ↳ | **[Events & Colleague Recognition Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bb738f2f099e8b2eee?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 13 |
@@ -116,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbc5bc5356a60f40fe6f22?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69dbc414869c7e25d85a8350?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 12 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbc4fd738f2f099e8af3ef?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 12 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69dbc414869c7e25d85a834b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 12 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69dbc5ae5356a60f40fe6f07?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 12 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69dbc414869c7e25d85a834b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 12 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69dbc5d2b67cec4f9b0af579?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Electro](electrogum.com)** | **[Athlete Engagement Intern](https://jobright.ai/jobs/info/69db9dc6738f2f099e8af2ab?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 12 |
 | **[Donor Network of Arizona](http://www.dnaz.org)** | **[Paid Community Engagement & Communications Intern (Bilingual Preferred)](https://jobright.ai/jobs/info/699e621181476f6176b767e8?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Apr 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69daa4909f97a42dc9c2bacd?utm_campaign=1065&utm_source=git)** | Waynesboro, VA | Hybrid | Apr 11 |
 | **[SAP](https://www.sap.com)** | **[SAP Delivery iXp Intern - Strategic Content and Communications](https://jobright.ai/jobs/info/69a0ce6f81476f6176bb1860?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 11 |
 | **[Clique Hospitality](https://cliquehospitality.com/)** | **[Marketing Intern - Clique Hospitality](https://jobright.ai/jobs/info/69dac69c5356a60f40fe3e09?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Apr 11 |
-| **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - Carytown and Short Pump](https://jobright.ai/jobs/info/69a1eb95359fe034b1cd2ce6?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Apr 11 |
-| **[Aspire Institute](http://aspireleaders.org)** | **[Director of Marketing and Communications](https://jobright.ai/jobs/info/69db64c7f748bc5d08a5869f?utm_campaign=1065&utm_source=git)** | Home, KS | Hybrid | Apr 11 |
-| **[X UP Brands](https://www.xupbrands.com/)** | **[TikTok Content & Creator Partnerships Intern](https://jobright.ai/jobs/info/69da9337b67cec4f9b0aa049?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Apr 11 |
-| **[McCain Foods](http://www.mccain.com)** | **[Marketing Internship - North America Food Service Portfolio Strategy](https://jobright.ai/jobs/info/69bdf89d393a1008f743d213?utm_campaign=1065&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
