@@ -74,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[cside](https://cside.com)** | **[Intern - Social Media Manager](https://jobright.ai/jobs/info/69dbfddd9f97a42dc9c2faa9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 12 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Brand Marketing Intern](https://jobright.ai/jobs/info/69dbfd0d738f2f099e8afc86?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dbfd0b738f2f099e8afc7f?utm_campaign=1065&utm_source=git)** | West Bend, WI | On Site | Apr 12 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Content Creation Intern - Summer 2026](https://jobright.ai/jobs/info/69dbfcbf9f97a42dc9c2fa15?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 12 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Summer 2026 - Influencer Marketing & Partnerships Intern](https://jobright.ai/jobs/info/69dbfca2f748bc5d08a59407?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
 | ↳ | **[Unpaid - Public Relations & Communications Intern](https://jobright.ai/jobs/info/69dbfc12869c7e25d85a8bb9?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
 | **[The Points Guy](https://thepointsguy.com/)** | **[Social Media Partnerships Manager / The Points Guy](https://jobright.ai/jobs/info/698641a88da7a6120460f28b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 12 |
@@ -125,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Lifecycle Marketing](https://jobright.ai/jobs/info/69a67625e567421f425778ea?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 12 |
 | **[Colliers](http://www.colliers.com)** | **[Summer Intern - National Data Center](https://jobright.ai/jobs/info/6986982a0f6f7e7a2ce1a073?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 12 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Paid Search Intern](https://jobright.ai/jobs/info/69cf48e4cdb525785fba0d27?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Apr 12 |
-| **[KCARC](http://www.knoxcountyarc.com)** | **[Intern - Marketing & Promotions](https://jobright.ai/jobs/info/69dca85c9f97a42dc9c3288d?utm_campaign=1065&utm_source=git)** | Vincennes, IN | On Site | Apr 11 |
 | **[Robometrics® Machines](https://www.robometricsagi.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69daee399f97a42dc9c2c599?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[EPIC Insurance Brokers & Consultants](http://www.edgewoodins.com)** | **[Intern](https://jobright.ai/jobs/info/69a1d0990da45516f16b2812?utm_campaign=1065&utm_source=git)** | 134 E Washington St, New Castle PA 16101 | On Site | Apr 11 |
 | **[NOX METALS](noxmetals.co)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/69daac3b9f97a42dc9c2bbe6?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 11 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Communications & Home Run](https://jobright.ai/jobs/info/69da72a35356a60f40fe1354?utm_campaign=1065&utm_source=git)** | West Sacramento, CA | On Site | Apr 11 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Sales & Marketing](https://jobright.ai/jobs/info/6983972a0f6f7e7a2cdd07ee?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 11 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - eCommerce Third Party Marketplaces](https://jobright.ai/jobs/info/69da8f4df748bc5d08a53311?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Apr 11 |
+| **[BHcare](https://bhcare.org)** | **[Intern- Social Media](https://jobright.ai/jobs/info/69bdcc12b1060245628306a2?utm_campaign=1065&utm_source=git)** | North Haven, CT | On Site | Apr 11 |
+| **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Social Media and Digital Engagement Internship](https://jobright.ai/jobs/info/69bdd06b4828227293005c11?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
