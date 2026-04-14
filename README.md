@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rabbitt AI](https://rabbitt.ai/)** | **[Content Writer And Seo Intern](https://jobright.ai/jobs/info/69ddfd53aba61f14173136d7?utm_campaign=1065&utm_source=git)** | Delhi, OH | On Site | Apr 14 |
+| **[Swedish Falls LLC](www.swedishfalls.com)** | **[International trade internship](https://jobright.ai/jobs/info/69ddfbbe36823d1b4257f7f0?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern - LOSSAN](https://jobright.ai/jobs/info/69ddf9efe34484770f1a076d?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Apr 14 |
+| **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ddf897aba61f1417313638?utm_campaign=1065&utm_source=git)** | Neptune, NJ | On Site | Apr 14 |
+| **[Appian](http://www.appian.com)** | **[Workplace Events Intern](https://jobright.ai/jobs/info/6998d38781476f6176b13cb8?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 14 |
+| **[Airbus Aircraft](http://www.airbus.com)** | **[Communications Manager/Specialist - Internal & Community Engagement](https://jobright.ai/jobs/info/69ddf41818cf504166e2b3ee?utm_campaign=1065&utm_source=git)** | Kinston, NC | On Site | Apr 14 |
+| **[Gala Circle Inc.](http://www.galacircle.com)** | **[Marketing & Sales Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/69ddf3c05913ad339813b776?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Laurel and Grey LLC](http://www.laurelandgrey.com)** | **[Social Media Intern (Summer 2026)](https://jobright.ai/jobs/info/69dddbd85913ad339813b015?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 13 |
 | **[ROGO](https://rogorent.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dddb8b433ac8430e0d7496?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | Apr 13 |
+| **[Parkland Corporation](https://www.parkland.ca/)** | **[Loyalty Analytics Intern (4-Month Term)](https://jobright.ai/jobs/info/69ddf702433ac8430e0d807d?utm_campaign=1065&utm_source=git)** | Mississauga, ON | On Site | Apr 13 |
 | **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Intern, Marketing Communications](https://jobright.ai/jobs/info/69ddc47caba61f14173123dd?utm_campaign=1065&utm_source=git)** | San Clemente, CA | On Site | Apr 13 |
 | **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/69ddc3a45913ad339813a76e?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 13 |
 | **[Wofford College](http://www.wofford.edu)** | **[Athletics Communication Intern](https://jobright.ai/jobs/info/69ddc2c318cf504166e2a256?utm_campaign=1065&utm_source=git)** | Spartanburg, South Carolina | On Site | Apr 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flock](https://www.flocksafety.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69dd4e9e9f97a42dc9c3574c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Marketing Internship](https://jobright.ai/jobs/info/69dd4e909f97a42dc9c3570d?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | Apr 13 |
 | **[American Sugar Refining, Inc.](https://www.asr-group.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69dd4e3d738f2f099e8b58de?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Apr 13 |
-| **[The Chemours Company](https://www.chemours.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69dd4e285356a60f40fed80f?utm_campaign=1065&utm_source=git)** | New Castle County, DE | On Site | Apr 13 |
-| **[Continental](https://www.continental.com)** | **[Intern - PLT Marketing Events](https://jobright.ai/jobs/info/69dd4e255356a60f40fed7f3?utm_campaign=1065&utm_source=git)** | Fort Mill, SC | On Site | Apr 13 |
-| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Marketing ? Jr. Marketing Coordinator (NFWS)](https://jobright.ai/jobs/info/69dd4e13738f2f099e8b5848?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Apr 13 |
-| **[+57](https://plusfiveseven.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dd4dbaf748bc5d08a5f0f2?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | Apr 13 |
-| **[Continental](https://www.continental.com)** | **[Intern - PLT Marketing Events](https://jobright.ai/jobs/info/69dd4d74f748bc5d08a5f07b?utm_campaign=1065&utm_source=git)** | 1794 MacMillan Park Drive, Fort MIll, South Carolina, United States | Hybrid | Apr 13 |
-| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Marketing ? Student Digital Marketing Specialist (NFWS); Phoenix-based](https://jobright.ai/jobs/info/69dd6d899f97a42dc9c36277?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Remote | Apr 13 |
-| **[Superior National Bank](http://mainstreetbankmi.com)** | **[Marketing & Communications Co-Op](https://jobright.ai/jobs/info/69dd6b40738f2f099e8b624b?utm_campaign=1065&utm_source=git)** | Hancock, MI | On Site | Apr 13 |
-| **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (ON-SITE and IMMEDIATE NEED)](https://jobright.ai/jobs/info/69dd45c65356a60f40fed5cf?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
