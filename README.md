@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Content and SEO Manager Intern](https://jobright.ai/jobs/info/69de1b45e34484770f1a0bc2?utm_campaign=1065&utm_source=git)** | NL-Hub | On Site | Apr 14 |
+| **[HDR](http://www.hdrinc.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1620c79e36d3a847e114d?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Apr 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd16f54828227293ff49a6?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 14 |
 | **[EDUopinions](https://www.eduopinions.com)** | **[Social Media Intern (Remote, Paid)](https://jobright.ai/jobs/info/69de075aaba61f141731386a?utm_campaign=1065&utm_source=git)** | Canada | Remote | Apr 14 |
 | **[Rabbitt AI](https://rabbitt.ai/)** | **[Content Writer And Seo Intern](https://jobright.ai/jobs/info/69ddfd53aba61f14173136d7?utm_campaign=1065&utm_source=git)** | Delhi, OH | On Site | Apr 14 |
 | **[Swedish Falls LLC](www.swedishfalls.com)** | **[International trade internship](https://jobright.ai/jobs/info/69ddfbbe36823d1b4257f7f0?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern - LOSSAN](https://jobright.ai/jobs/info/69ddf9efe34484770f1a076d?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Apr 14 |
 | **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ddf897aba61f1417313638?utm_campaign=1065&utm_source=git)** | Neptune, NJ | On Site | Apr 14 |
 | **[Appian](http://www.appian.com)** | **[Workplace Events Intern](https://jobright.ai/jobs/info/6998d38781476f6176b13cb8?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 14 |
+| **[Deutsch Creative](http://deutschcreative.com)** | **[Communications & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69de1a1f433ac8430e0d861a?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Apr 14 |
 | **[Airbus Aircraft](http://www.airbus.com)** | **[Communications Manager/Specialist - Internal & Community Engagement](https://jobright.ai/jobs/info/69ddf41818cf504166e2b3ee?utm_campaign=1065&utm_source=git)** | Kinston, NC | On Site | Apr 14 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Marketing & Sales Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/69ddf3c05913ad339813b776?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Laurel and Grey LLC](http://www.laurelandgrey.com)** | **[Social Media Intern (Summer 2026)](https://jobright.ai/jobs/info/69dddbd85913ad339813b015?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 13 |
@@ -104,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69cd8046891d7b11cfcb9a7e?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 13 |
 | **[MaryRuth's](https://www.maryruthorganics.com)** | **[eCommerce Summer Intern](https://jobright.ai/jobs/info/69dd9a4600040935c01459f0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
 | **[Advantage Capital](http://www.advantagecap.com/)** | **[Communications & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69dd8a4e5356a60f40fee9ae?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Apr 13 |
-| **[Gallagher](https://www.gallagher.com/)** | **[Marketing Intern - USA](https://jobright.ai/jobs/info/69dd8958738f2f099e8b6a67?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[URGENTLY HIRING! Public Relations Interns in LA](https://jobright.ai/jobs/info/69dd87ccf748bc5d08a6033a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
 | **[MaryRuth's](https://www.maryruthorganics.com)** | **[Consumer Insights Summer Intern](https://jobright.ai/jobs/info/69dd87b8f748bc5d08a602f4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
 | **[VaynerMedia](http://vaynermedia.com)** | **[Resident - Creator Manager](https://jobright.ai/jobs/info/69dd87765356a60f40fee847?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 13 |
@@ -135,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Translation Blog Publisher/ International Content Strategy Intern](https://jobright.ai/jobs/info/69dd618a61f6ed54321fd2a8?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Apr 13 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69d726bbcfdc6132f946f7a6?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | Hybrid | Apr 13 |
 | **[Young Again Pet Food](http://youngagainpetfood.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69dd5fcff748bc5d08a5f86a?utm_campaign=1065&utm_source=git)** | Stacy, MN | On Site | Apr 13 |
-| **[City of Highland Village](https://highlandvillage.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dd5acc5356a60f40fede55?utm_campaign=1065&utm_source=git)** | Highland Village, TX | On Site | Apr 13 |
 | **[Niagara River Lions](http://www.riverlions.ca)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dd5a949f97a42dc9c35db3?utm_campaign=1065&utm_source=git)** | Canada | Remote | Apr 13 |
 | **[Hercules Industries](http://herculesindustries.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dd5a765356a60f40feddd7?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 | **[Hudson Automotive Group](https://www.hudsonauto.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dd5a35f748bc5d08a5f73c?utm_campaign=1065&utm_source=git)** | Greensboro Nissan - Greensboro, NC 27404 | On Site | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Benchmark Hospitality at DU](http://www.benchmarkhoteldfw.com)** | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/69dd4fea61f6ed54321fc5c6?utm_campaign=1065&utm_source=git)** | Paramount HQ NYC | On Site | Apr 13 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Marketing ? Project Specialist Assistant (NFWS)](https://jobright.ai/jobs/info/69dd4ec29f97a42dc9c357fe?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Apr 13 |
 | **[Flock](https://www.flocksafety.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69dd4e9e9f97a42dc9c3574c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Marketing Internship](https://jobright.ai/jobs/info/69dd4e909f97a42dc9c3570d?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | Apr 13 |
-| **[American Sugar Refining, Inc.](https://www.asr-group.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69dd4e3d738f2f099e8b58de?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
