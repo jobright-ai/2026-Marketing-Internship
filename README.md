@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EDUopinions](https://www.eduopinions.com)** | **[Social Media Intern (Remote, Paid)](https://jobright.ai/jobs/info/69de075aaba61f141731386a?utm_campaign=1065&utm_source=git)** | Canada | Remote | Apr 14 |
 | **[Rabbitt AI](https://rabbitt.ai/)** | **[Content Writer And Seo Intern](https://jobright.ai/jobs/info/69ddfd53aba61f14173136d7?utm_campaign=1065&utm_source=git)** | Delhi, OH | On Site | Apr 14 |
 | **[Swedish Falls LLC](www.swedishfalls.com)** | **[International trade internship](https://jobright.ai/jobs/info/69ddfbbe36823d1b4257f7f0?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern - LOSSAN](https://jobright.ai/jobs/info/69ddf9efe34484770f1a076d?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Apr 14 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Wofford College](http://www.wofford.edu)** | **[Athletics Communication Intern](https://jobright.ai/jobs/info/69ddc2c318cf504166e2a256?utm_campaign=1065&utm_source=git)** | Spartanburg, South Carolina | On Site | Apr 13 |
 | **[Typeface](https://www.typeface.ai)** | **[Marketing Programs Intern](https://jobright.ai/jobs/info/69c59a0fe565c26a70012839?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 13 |
 | **[Mentora](https://www.mentoraapp.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69ddbedb433ac8430e0d69b2?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 13 |
-| **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Communications Intern](https://jobright.ai/jobs/info/69ddbec78182b27d347415c6?utm_campaign=1065&utm_source=git)** | Hamilton, OH | On Site | Apr 13 |
 | **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69ddbeb65913ad339813a30d?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 13 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/69ddb959aba61f1417311dda?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | Remote | Apr 13 |
 | **[Consumers Credit Union](http://myconsumers.org)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69ddb5e7e34484770f19ec7c?utm_campaign=1065&utm_source=git)** | Lake Forest, IL | On Site | Apr 13 |
@@ -116,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Smartly](http://smartly.io)** | **[Growth Marketing Intern - Website, Email, and Marketing Operations](https://jobright.ai/jobs/info/69dd76c3738f2f099e8b669a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 13 |
 | **[Fleur du Mal](http://fleurdumal.com)** | **[PR Intern](https://jobright.ai/jobs/info/69dd7687738f2f099e8b661a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[Keenova](https://www.keenova.com)** | **[Patient Marketing Intern](https://jobright.ai/jobs/info/699d098b81476f6176b5a89e?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | Hybrid | Apr 13 |
-| **[Visionary Homes](https://visionaryhomes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dd765c5356a60f40fee514?utm_campaign=1065&utm_source=git)** | St. George, UT | On Site | Apr 13 |
+| **[Visionary Homes](https://visionaryhomes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dd765c5356a60f40fee518?utm_campaign=1065&utm_source=git)** | St. George, UT | On Site | Apr 13 |
 | **[Aspen Power](https://aspenpower.com)** | **[Intern – Marketing Lead Generation & Growth](https://jobright.ai/jobs/info/69dd765c5356a60f40fee516?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Apr 13 |
 | ↳ | **[Intern, Communications, Media & Brand](https://jobright.ai/jobs/info/69dd73f0738f2f099e8b65e2?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Apr 13 |
 | **[Advantage Capital](http://www.advantagecap.com/)** | **[Communications & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69dd73babc6f6622c99124b5?utm_campaign=1065&utm_source=git)** | St. Louis,MO,US | On Site | Apr 13 |
