@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[the V Foundation](https://www.v.org/)** | **[Donor Relations & Development Intern](https://jobright.ai/jobs/info/69df39845913ad33981436d4?utm_campaign=1065&utm_source=git)** | Cary, NC 27513 | On Site | Apr 15 |
 | **[rf IDEAS, Inc](http://www.rfideas.com)** | **[Intern](https://jobright.ai/jobs/info/69df3337433ac8430e0dfcfd?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 14 |
 | **[Grifols](http://www.grifols.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69df182736823d1b42586431?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Apr 14 |
 | **[Elite Breakout Marketing Inc](https://www.elitebreakoutmarketinginc.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69df0e01e34484770f1a6e4e?utm_campaign=1065&utm_source=git)** | Saginaw, MI | On Site | Apr 14 |
@@ -105,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[KOSTAL of America, Inc.](https://www.kostal.com/en-gb/unternehmen/geschaeftsbereiche/)** | **[Communications Intern](https://jobright.ai/jobs/info/69decda518cf504166e2ffcf?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Apr 14 |
 | **[Northtown Automotive Companies](http://northtownauto.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/69decd17e34484770f1a4e53?utm_campaign=1065&utm_source=git)** | Northtown Automotive Companies Inc - Amherst, NY 14226 | On Site | Apr 14 |
 | **[Sparq](https://www.teamsparq.com)** | **[Content Strategy Intern](https://jobright.ai/jobs/info/69deccc5e34484770f1a4dea?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
-| **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Marketing Intern, Member Engagement Ecosystem](https://jobright.ai/jobs/info/69deccbe36823d1b42583e06?utm_campaign=1065&utm_source=git)** | CA-AB-Edmonton-South | Hybrid | Apr 14 |
+| **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Marketing Intern, Member Engagement Ecosystem](https://jobright.ai/jobs/info/69deccbe433ac8430e0dc862?utm_campaign=1065&utm_source=git)** | CA-AB-Edmonton-South | Hybrid | Apr 14 |
 | **[Renters Warehouse](https://renterswarehouse.com/)** | **[Digital Marketing Intern (AI & Automation Foc](https://jobright.ai/jobs/info/69decc9018cf504166e2ff1e?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | On Site | Apr 14 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Pinterest Marketing Intern (Flexible, 2-5hrs/week)](https://jobright.ai/jobs/info/69decc4a18cf504166e2fe3e?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Apr 14 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69decaa4433ac8430e0dc7b2?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Calix](http://www.calix.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69dea0f6433ac8430e0db2dd?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
 | **[SanMar](http://www.sanmar.com)** | **[Marketing Studio Intern, Merchandise Coordination](https://jobright.ai/jobs/info/69debde05913ad339813fbb9?utm_campaign=1065&utm_source=git)** | Issaquah, WA | Hybrid | Apr 14 |
 | **[SKDK](http://skdknick.com)** | **[Summer 2026 Executive Communications Internship](https://jobright.ai/jobs/info/69dea052433ac8430e0db25a?utm_campaign=1065&utm_source=git)** | US-DC-Washington | On Site | Apr 14 |
-| ↳ | **[Summer 2026 Executive Communications Internship](https://jobright.ai/jobs/info/69dea05136823d1b42582801?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
