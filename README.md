@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Muud Health](https://www.muudhealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69df951de34484770f1a9490?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
+| **[Finrep AI](https://finrep.ai/)** | **[Content Marketing & Podcast Intern](https://jobright.ai/jobs/info/69df936e5913ad33981448ac?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Apr 15 |
+| **[Piggy Bank Profit](https://www.linkedin.com/redir/suspicious-page?url=https%3A%2F%2Fpiggybankprofit%2ebase44%2eapp%2F)** | **[Marketing Intern](https://jobright.ai/jobs/info/69df9369aba61f141731c385?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
+| **[Dal-Tile LLC](http://dal-tile.com)** | **[SHOWROOM MARKETING INTERN](https://jobright.ai/jobs/info/69a77ecc76bbe83d3afae31f?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
+| ↳ | **[BRAND MARKETING INTERN](https://jobright.ai/jobs/info/69a89b9479f3f4037f42ad08?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
+| **[MSI Defense Solutions](https://www.msidefense.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69df92e0aba61f141731c366?utm_campaign=1065&utm_source=git)** | 136 Knob Hill Road, Mooresville, NC, USA | On Site | Apr 15 |
+| **[Harvest Events](harvesteventsclt.com)** | **[Marketing Event Assistant Intern](https://jobright.ai/jobs/info/69df90ddaba61f141731c31d?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 15 |
+| **[NetGain Technologies, LLC](http://www.netgainit.com/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69df8cfee34484770f1a928a?utm_campaign=1065&utm_source=git)** | Lexington,KY,US | Hybrid | Apr 15 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Market Analyst & Strategy Intern](https://jobright.ai/jobs/info/69df87b914bf245fc7a6c762?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Apr 15 |
 | **[Akhila Labs, LLC](https://akhilalabs.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69df842b14bf245fc7a6c644?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Sloth & Duck](https://www.etsy.com/shop/SlothandDuck)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69df8422aba61f141731c0e3?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
@@ -67,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Crayola](http://www.crayola.com/)** | **[Crayola Experience Intern](https://jobright.ai/jobs/info/69a7b1d21fc3d83b78095173?utm_campaign=1065&utm_source=git)** | Easton, PA | On Site | Apr 15 |
 | **[HR Green, Inc.](http://www.hrgreen.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c30be194007a2195df3179?utm_campaign=1065&utm_source=git)** | Aurora, IL | On Site | Apr 15 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Marketing - Data & Analytics (12-month) - Burlington, ON](https://jobright.ai/jobs/info/69d31e1a366bb95ba5530fd7?utm_campaign=1065&utm_source=git)** | Burlington, ON | On Site | Apr 15 |
-| **[Hudl](http://www.hudl.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69df6ef85913ad3398143e5f?utm_campaign=1065&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Apr 15 |
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[eCommerce Intern](https://jobright.ai/jobs/info/69a5bb360da45516f16e6883?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 15 |
 | **[Veeam Software](http://www.veeam.com)** | **[Marketing AI Transformation Intern - Summer 2026](https://jobright.ai/jobs/info/69a93af679f3f4037f440a48?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Apr 15 |
 | **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Marketing Intern - PT](https://jobright.ai/jobs/info/69df69eaaba61f141731bb56?utm_campaign=1065&utm_source=git)** | Lake Geneva, WI | On Site | Apr 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harvey Performance Company](https://www.harveyperformance.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69deb9a05913ad339813f268?utm_campaign=1065&utm_source=git)** | Rowley, MA | On Site | Apr 14 |
 | **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69deb64e18cf504166e2f6dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
 | ↳ | **[Event/Tradeshows Marketing Intern](https://jobright.ai/jobs/info/69deb626e34484770f1a45d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
-| **[Rodriguez](http://www.rodriguezconsulting.biz/)** | **[Brand & Digital Media Intern](https://jobright.ai/jobs/info/69deb5c9433ac8430e0dc02c?utm_campaign=1065&utm_source=git)** | Philadelphia, Pennsylvania, None | On Site | Apr 14 |
-| **[Applied Digital](https://AppliedDigital.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69deb2a85913ad339813f028?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Apr 14 |
-| **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Corporate Marketing](https://jobright.ai/jobs/info/69deb2895913ad339813efda?utm_campaign=1065&utm_source=git)** | Kirkland, WA | On Site | Apr 14 |
-| ↳ | **[Intern Corporate Marketing](https://jobright.ai/jobs/info/69deb1ddaba61f1417317291?utm_campaign=1065&utm_source=git)** | Kirkland, WA 98034 | On Site | Apr 14 |
-| **[InEight](https://ineight.com)** | **[High School Intern - Marketing](https://jobright.ai/jobs/info/69deb1d6433ac8430e0dbe2d?utm_campaign=1065&utm_source=git)** | Remote (Remote) | Remote | Apr 14 |
-| **[LiveTrends Design Group](http://livetrendsdesign.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69deb1c536823d1b42583311?utm_campaign=1065&utm_source=git)** | Apopka,FL,US | On Site | Apr 14 |
-| **[Space Needle](http://spaceneedle.com/)** | **[Marketing & PR Intern](https://jobright.ai/jobs/info/69deb1b3433ac8430e0dbde5?utm_campaign=1065&utm_source=git)** | Seattle,WA,US | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
