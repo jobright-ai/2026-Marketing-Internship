@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Category Marketing Intern](https://jobright.ai/jobs/info/69df5371aba61f141731b895?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[Sparq](https://www.teamsparq.com)** | **[Content Strategy Intern](https://jobright.ai/jobs/info/69df4dccaba61f141731b7a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Fashionpreneur HUB](http://fashionpreneurhub.com)** | **[Social Media Marketing 3 Months Internships for Education & Fashion Nonprofit](https://jobright.ai/jobs/info/69df4d0f5913ad3398143b4a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[the V Foundation](https://www.v.org/)** | **[Donor Relations & Development Intern](https://jobright.ai/jobs/info/69df39845913ad33981436d4?utm_campaign=1065&utm_source=git)** | Cary, NC 27513 | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TMI Systems Corporation](http://www.tmisystems.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dea151433ac8430e0db395?utm_campaign=1065&utm_source=git)** | Dickinson, ND | On Site | Apr 14 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Brand & Digital Marketing Summer Intern](https://jobright.ai/jobs/info/69dea105433ac8430e0db318?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | ↳ | **[Brand & Digital Marketing Summer Intern](https://jobright.ai/jobs/info/69dea104433ac8430e0db30f?utm_campaign=1065&utm_source=git)** | Dunwoody, GA | On Site | Apr 14 |
-| **[Cleveland Studios](https://questdigital.com/)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69dea10236823d1b425828e1?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
