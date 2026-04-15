@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoetis](https://www.zoetis.com)** | **[Manufacturing Marketing Intern](https://jobright.ai/jobs/info/69dfa25714bf245fc7a6cc87?utm_campaign=1065&utm_source=git)** | Charles City | On Site | Apr 15 |
 | **[Muud Health](https://www.muudhealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69df951de34484770f1a9490?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Finrep AI](https://finrep.ai/)** | **[Content Marketing & Podcast Intern](https://jobright.ai/jobs/info/69df936e5913ad33981448ac?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Apr 15 |
 | **[Piggy Bank Profit](https://www.linkedin.com/redir/suspicious-page?url=https%3A%2F%2Fpiggybankprofit%2ebase44%2eapp%2F)** | **[Marketing Intern](https://jobright.ai/jobs/info/69df9369aba61f141731c385?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[NetGain Technologies, LLC](http://www.netgainit.com/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69df8cfee34484770f1a928a?utm_campaign=1065&utm_source=git)** | Lexington,KY,US | Hybrid | Apr 15 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Market Analyst & Strategy Intern](https://jobright.ai/jobs/info/69df87b914bf245fc7a6c762?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Apr 15 |
 | **[Akhila Labs, LLC](https://akhilalabs.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69df842b14bf245fc7a6c644?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
-| **[Sloth & Duck](https://www.etsy.com/shop/SlothandDuck)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69df8422aba61f141731c0e3?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Crayola](http://www.crayola.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69a92f1479f3f4037f43f176?utm_campaign=1065&utm_source=git)** | Easton, PA | Hybrid | Apr 15 |
 | **[Lufthansa Technik Component Services](http://ltcs.com)** | **[Intern Project Communications Duration 6 months (or as agreed upon) / On-site](https://jobright.ai/jobs/info/69df800be34484770f1a8fa6?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Apr 15 |
 | **[CCMSI](http://www.ccmsi.com)** | **[Marketing Intern - In Office - Part Time](https://jobright.ai/jobs/info/69c2b9c9ec22f8310ab09d62?utm_campaign=1065&utm_source=git)** | Danville, IL | On Site | Apr 15 |
@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[SHOWROOM MARKETING INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a76ef42672cb0acb4be51b?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Category Marketing Intern](https://jobright.ai/jobs/info/69df5371aba61f141731b895?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[Sparq](https://www.teamsparq.com)** | **[Content Strategy Intern](https://jobright.ai/jobs/info/69df4dccaba61f141731b7a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
-| **[Fashionpreneur HUB](http://fashionpreneurhub.com)** | **[Social Media Marketing 3 Months Internships for Education & Fashion Nonprofit](https://jobright.ai/jobs/info/69df4d0f5913ad3398143b4a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing / Sales](https://jobright.ai/jobs/info/69df808e5913ad339814428a?utm_campaign=1065&utm_source=git)** | Holly Springs, MS | On Site | Apr 15 |
 | **[the V Foundation](https://www.v.org/)** | **[Donor Relations & Development Intern](https://jobright.ai/jobs/info/69df39845913ad33981436d4?utm_campaign=1065&utm_source=git)** | Cary, NC 27513 | On Site | Apr 15 |
 | **[rf IDEAS, Inc](http://www.rfideas.com)** | **[Intern](https://jobright.ai/jobs/info/69df3337433ac8430e0dfcfd?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Harvey Performance Company](https://www.harveyperformance.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69deb9a05913ad339813f268?utm_campaign=1065&utm_source=git)** | Rowley, MA | On Site | Apr 14 |
 | **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69deb64e18cf504166e2f6dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
 | ↳ | **[Event/Tradeshows Marketing Intern](https://jobright.ai/jobs/info/69deb626e34484770f1a45d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
+| **[Rodriguez](http://www.rodriguezconsulting.biz/)** | **[Brand & Digital Media Intern](https://jobright.ai/jobs/info/69deb5c9433ac8430e0dc02c?utm_campaign=1065&utm_source=git)** | Philadelphia, Pennsylvania, None | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
