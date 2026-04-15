@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Marketing Intern, Member Engagement Ecosystem](https://jobright.ai/jobs/info/69df09f218cf504166e31f0e?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Apr 14 |
+| **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69df075636823d1b425858cc?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Apr 14 |
+| **[Harris & Associates](http://weareharris.com)** | **[Intern](https://jobright.ai/jobs/info/69df02dce34484770f1a66ad?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
+| **[23XI Racing](https://heylink.me/SHENBERSAMA/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69df02dce34484770f1a66af?utm_campaign=1065&utm_source=git)** | Huntersville, NC | On Site | Apr 14 |
+| **[KOSTAL Group](http://www.kostal.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69deffc8aba61f1417319583?utm_campaign=1065&utm_source=git)** | Troy, OH | On Site | Apr 14 |
 | **[Gearbox Technologies LLC](https://gearboxtechnologies.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69defb93e34484770f1a653c?utm_campaign=1065&utm_source=git)** | Opelika, AL | Remote | Apr 14 |
 | **[Duke University](http://www.duke.edu)** | **[Non Duke Student Intern, Mac Fellowship - Communications & Marketing Fellow](https://jobright.ai/jobs/info/69defb93e34484770f1a653b?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Apr 14 |
 | **[Tailor & Bond](www.tailorandbond.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69defb90433ac8430e0de089?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Apr 14 |
@@ -101,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Marketing Intern, Member Engagement Ecosystem](https://jobright.ai/jobs/info/69deccbe36823d1b42583e06?utm_campaign=1065&utm_source=git)** | CA-AB-Edmonton-South | Hybrid | Apr 14 |
 | **[Renters Warehouse](https://renterswarehouse.com/)** | **[Digital Marketing Intern (AI & Automation Foc](https://jobright.ai/jobs/info/69decc9018cf504166e2ff1e?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | On Site | Apr 14 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Pinterest Marketing Intern (Flexible, 2-5hrs/week)](https://jobright.ai/jobs/info/69decc4a18cf504166e2fe3e?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Apr 14 |
+| **[Agilent Technologies](http://www.agilent.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69df076036823d1b425858d8?utm_campaign=1065&utm_source=git)** | Wilmington, DE | Hybrid | Apr 14 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69decaa4433ac8430e0dc7b2?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 14 |
 | **[Electro](electrogum.com)** | **[College Athlete Outreach Intern](https://jobright.ai/jobs/info/69dec999aba61f1417317bfa?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Apr 14 |
 | ↳ | **[Athlete DM Outreach Intern](https://jobright.ai/jobs/info/69dec97daba61f1417317ba7?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Remote | Apr 14 |
@@ -131,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Marketing](https://jobright.ai/jobs/info/69deb1a75913ad339813ee5f?utm_campaign=1065&utm_source=git)** | Englewood Cliffs,NJ,US | On Site | Apr 14 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Paragard Marketing Intern](https://jobright.ai/jobs/info/69deae39433ac8430e0dbd2d?utm_campaign=1065&utm_source=git)** | Trumbull, CT | On Site | Apr 14 |
 | **[Arthritis Foundation](http://www.arthritis.org)** | **[Brand Strategy & Marketing Intern](https://jobright.ai/jobs/info/69deae29aba61f141731711e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
-| **[de Anda Capital](https://www.deanda.capital/)** | **[Content & SEO Intern (Part-Time, Remote) - Start April 2026](https://jobright.ai/jobs/info/69dea13918cf504166e2ea1a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Evident Microscopy](https://www.evidentscientific.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69deadfa36823d1b425831cb?utm_campaign=1065&utm_source=git)** | Needham Heights, MA | On Site | Apr 14 |
 | **[Applied Digital](https://AppliedDigital.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dea943433ac8430e0dbaed?utm_campaign=1065&utm_source=git)** | Dallas, TX, US | Hybrid | Apr 14 |
 | **[Mohegan Sun](http://www.mohegansun.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69dea87036823d1b42582fe4?utm_campaign=1065&utm_source=git)** | Wilkes-Barre, PA | On Site | Apr 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SKDK](http://skdknick.com)** | **[Summer 2026 Executive Communications Internship](https://jobright.ai/jobs/info/69dea052433ac8430e0db25a?utm_campaign=1065&utm_source=git)** | US-DC-Washington | On Site | Apr 14 |
 | ↳ | **[Summer 2026 Executive Communications Internship](https://jobright.ai/jobs/info/69dea05136823d1b42582801?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | Apr 14 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Client Relation Center Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69dea00ee34484770f1a38cf?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Apr 14 |
-| **[NMSU Conference Services](https://conference.nmsu.edu/)** | **[News Media Intern](https://jobright.ai/jobs/info/69debb295913ad339813f8f7?utm_campaign=1065&utm_source=git)** | Las Cruces, NM | On Site | Apr 14 |
-| **[The Runnymede Corporation](https://trcva.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69de9da3aba61f14173167f3?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Apr 14 |
-| **[Topcon Healthcare](https://topconhealthcare.com)** | **[Digital Marketing Data Intern](https://jobright.ai/jobs/info/69d707bdcfdc6132f946e802?utm_campaign=1065&utm_source=git)** | Oakland, NJ | On Site | Apr 14 |
-| **[K9s For Warriors](https://www.k9sforwarriors.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69de959be34484770f1a352e?utm_campaign=1065&utm_source=git)** | Ponte Vedra, Ponte Vedra, FL, US | On Site | Apr 14 |
-| **[Arch Events](http://arch-events.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69de9357433ac8430e0daf6c?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
