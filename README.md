@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sparq](https://www.teamsparq.com)** | **[Content Strategy Intern](https://jobright.ai/jobs/info/69df4dccaba61f141731b7a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
+| **[Fashionpreneur HUB](http://fashionpreneurhub.com)** | **[Social Media Marketing 3 Months Internships for Education & Fashion Nonprofit](https://jobright.ai/jobs/info/69df4d0f5913ad3398143b4a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[the V Foundation](https://www.v.org/)** | **[Donor Relations & Development Intern](https://jobright.ai/jobs/info/69df39845913ad33981436d4?utm_campaign=1065&utm_source=git)** | Cary, NC 27513 | On Site | Apr 15 |
 | **[rf IDEAS, Inc](http://www.rfideas.com)** | **[Intern](https://jobright.ai/jobs/info/69df3337433ac8430e0dfcfd?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 14 |
 | **[Grifols](http://www.grifols.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69df182736823d1b42586431?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Apr 14 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Harris & Associates](http://weareharris.com)** | **[Intern](https://jobright.ai/jobs/info/69df02dce34484770f1a66ad?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
 | **[23XI Racing](https://heylink.me/SHENBERSAMA/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69df02dce34484770f1a66af?utm_campaign=1065&utm_source=git)** | Huntersville, NC | On Site | Apr 14 |
 | **[KOSTAL Group](http://www.kostal.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69deffc8aba61f1417319583?utm_campaign=1065&utm_source=git)** | Troy, OH | On Site | Apr 14 |
+| **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69df4d5b14bf245fc7a6bc81?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Apr 14 |
 | **[Gearbox Technologies LLC](https://gearboxtechnologies.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69defb93e34484770f1a653c?utm_campaign=1065&utm_source=git)** | Opelika, AL | Remote | Apr 14 |
 | **[Duke University](http://www.duke.edu)** | **[Non Duke Student Intern, Mac Fellowship - Communications & Marketing Fellow](https://jobright.ai/jobs/info/69defb93e34484770f1a653b?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Apr 14 |
 | **[Tailor & Bond](www.tailorandbond.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69defb90433ac8430e0de089?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Apr 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Brand & Digital Marketing Summer Intern](https://jobright.ai/jobs/info/69dea105433ac8430e0db318?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | ↳ | **[Brand & Digital Marketing Summer Intern](https://jobright.ai/jobs/info/69dea104433ac8430e0db30f?utm_campaign=1065&utm_source=git)** | Dunwoody, GA | On Site | Apr 14 |
 | **[Cleveland Studios](https://questdigital.com/)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69dea10236823d1b425828e1?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
-| **[Calix](http://www.calix.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69dea0f6433ac8430e0db2dd?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
-| **[SanMar](http://www.sanmar.com)** | **[Marketing Studio Intern, Merchandise Coordination](https://jobright.ai/jobs/info/69debde05913ad339813fbb9?utm_campaign=1065&utm_source=git)** | Issaquah, WA | Hybrid | Apr 14 |
-| **[SKDK](http://skdknick.com)** | **[Summer 2026 Executive Communications Internship](https://jobright.ai/jobs/info/69dea052433ac8430e0db25a?utm_campaign=1065&utm_source=git)** | US-DC-Washington | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
