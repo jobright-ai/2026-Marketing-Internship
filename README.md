@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[rf IDEAS, Inc](http://www.rfideas.com)** | **[Intern](https://jobright.ai/jobs/info/69df3337433ac8430e0dfcfd?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 14 |
 | **[Grifols](http://www.grifols.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69df182736823d1b42586431?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Apr 14 |
 | **[Elite Breakout Marketing Inc](https://www.elitebreakoutmarketinginc.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69df0e01e34484770f1a6e4e?utm_campaign=1065&utm_source=git)** | Saginaw, MI | On Site | Apr 14 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Product Marketing](https://jobright.ai/jobs/info/69df0b4eaba61f1417319d68?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[Marketing Studio Intern, Merchandise Coordination](https://jobright.ai/jobs/info/69debde05913ad339813fbb9?utm_campaign=1065&utm_source=git)** | Issaquah, WA | Hybrid | Apr 14 |
 | **[SKDK](http://skdknick.com)** | **[Summer 2026 Executive Communications Internship](https://jobright.ai/jobs/info/69dea052433ac8430e0db25a?utm_campaign=1065&utm_source=git)** | US-DC-Washington | On Site | Apr 14 |
 | ↳ | **[Summer 2026 Executive Communications Internship](https://jobright.ai/jobs/info/69dea05136823d1b42582801?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | Apr 14 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Client Relation Center Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69dea00ee34484770f1a38cf?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
