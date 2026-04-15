@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Marketing Intern - PT](https://jobright.ai/jobs/info/69df69eaaba61f141731bb56?utm_campaign=1065&utm_source=git)** | Lake Geneva, WI | On Site | Apr 15 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Blog Writing, SEO, and Website Optimization Internship](https://jobright.ai/jobs/info/69df69e3433ac8430e0e0782?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 15 |
+| **[Publicis Sapient](https://www.publicissapient.com)** | **[Marketing Internship / First-Generation College Students](https://jobright.ai/jobs/info/69d9a4055356a60f40fdb3bc?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[SHOWROOM MARKETING INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a76ef42672cb0acb4be51b?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Category Marketing Intern](https://jobright.ai/jobs/info/69df5371aba61f141731b895?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[Sparq](https://www.teamsparq.com)** | **[Content Strategy Intern](https://jobright.ai/jobs/info/69df4dccaba61f141731b7a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Fashionpreneur HUB](http://fashionpreneurhub.com)** | **[Social Media Marketing 3 Months Internships for Education & Fashion Nonprofit](https://jobright.ai/jobs/info/69df4d0f5913ad3398143b4a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[East Central Energy](https://www.eastcentralenergy.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69dea3ae36823d1b42582c06?utm_campaign=1065&utm_source=git)** | MN, Braham, US | On Site | Apr 14 |
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Social Media & Marketing Intern - Midd Dining (AY 25-26 902170)](https://jobright.ai/jobs/info/69dea3ac18cf504166e2ec9b?utm_campaign=1065&utm_source=git)** | Middlebury, Vermont, United States | On Site | Apr 14 |
 | **[Perry Ellis International](http://www.pery.com)** | **[Summer 2026 Tiktok Internship](https://jobright.ai/jobs/info/69dea34daba61f1417316ae8?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | Apr 14 |
-| **[Matrix Partners | Pet Marketing Agency](https://matrix1.com/)** | **[Influencer & Content Creation Intern (Unpaid)](https://jobright.ai/jobs/info/69dea30718cf504166e2eba8?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
-| **[TMI Systems Corporation](http://www.tmisystems.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dea151433ac8430e0db395?utm_campaign=1065&utm_source=git)** | Dickinson, ND | On Site | Apr 14 |
-| **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Brand & Digital Marketing Summer Intern](https://jobright.ai/jobs/info/69dea105433ac8430e0db318?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
-| ↳ | **[Brand & Digital Marketing Summer Intern](https://jobright.ai/jobs/info/69dea104433ac8430e0db30f?utm_campaign=1065&utm_source=git)** | Dunwoody, GA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
