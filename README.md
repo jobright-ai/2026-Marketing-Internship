@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HR Green, Inc.](http://www.hrgreen.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c30be194007a2195df3179?utm_campaign=1065&utm_source=git)** | Aurora, IL | On Site | Apr 15 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Marketing - Data & Analytics (12-month) - Burlington, ON](https://jobright.ai/jobs/info/69d31e1a366bb95ba5530fd7?utm_campaign=1065&utm_source=git)** | Burlington, ON | On Site | Apr 15 |
+| **[Hudl](http://www.hudl.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69df6ef85913ad3398143e5f?utm_campaign=1065&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Apr 15 |
+| **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[eCommerce Intern](https://jobright.ai/jobs/info/69a5bb360da45516f16e6883?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 15 |
+| **[Veeam Software](http://www.veeam.com)** | **[Marketing AI Transformation Intern - Summer 2026](https://jobright.ai/jobs/info/69a93af679f3f4037f440a48?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Apr 15 |
 | **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Marketing Intern - PT](https://jobright.ai/jobs/info/69df69eaaba61f141731bb56?utm_campaign=1065&utm_source=git)** | Lake Geneva, WI | On Site | Apr 15 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Blog Writing, SEO, and Website Optimization Internship](https://jobright.ai/jobs/info/69df69e3433ac8430e0e0782?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 15 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Marketing Internship / First-Generation College Students](https://jobright.ai/jobs/info/69d9a4055356a60f40fdb3bc?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mohegan Sun](http://www.mohegansun.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69dea87036823d1b42582fe4?utm_campaign=1065&utm_source=git)** | Wilkes-Barre, PA | On Site | Apr 14 |
 | **[goop](https://goop.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69cc1557cfdc6132f940a330?utm_campaign=1065&utm_source=git)** | Santa Monica, CA (Corp HQ) | Hybrid | Apr 14 |
 | **[HYBE AMERICA](https://hybecorp.com)** | **[Business & Operations Intern](https://jobright.ai/jobs/info/69dea6de433ac8430e0db958?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | Hybrid | Apr 14 |
-| **[Consumer Brands Association](https://consumerbrandsassociation.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dea65618cf504166e2effa?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Apr 14 |
-| **[ANDMORE®](http://www.imcenters.com)** | **[Internship (Educational Credit)](https://jobright.ai/jobs/info/69b0e436dfaeda6ff59ba93b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 14 |
-| **[East Central Energy](https://www.eastcentralenergy.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69dea3ae36823d1b42582c06?utm_campaign=1065&utm_source=git)** | MN, Braham, US | On Site | Apr 14 |
-| **[Middlebury College](http://www.middlebury.edu/)** | **[Social Media & Marketing Intern - Midd Dining (AY 25-26 902170)](https://jobright.ai/jobs/info/69dea3ac18cf504166e2ec9b?utm_campaign=1065&utm_source=git)** | Middlebury, Vermont, United States | On Site | Apr 14 |
-| **[Perry Ellis International](http://www.pery.com)** | **[Summer 2026 Tiktok Internship](https://jobright.ai/jobs/info/69dea34daba61f1417316ae8?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
