@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grifols](http://www.grifols.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69df182736823d1b42586431?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Apr 14 |
+| **[Elite Breakout Marketing Inc](https://www.elitebreakoutmarketinginc.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69df0e01e34484770f1a6e4e?utm_campaign=1065&utm_source=git)** | Saginaw, MI | On Site | Apr 14 |
+| **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Product Marketing](https://jobright.ai/jobs/info/69df0b4eaba61f1417319d68?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 14 |
 | **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Marketing Intern, Member Engagement Ecosystem](https://jobright.ai/jobs/info/69df09f218cf504166e31f0e?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Apr 14 |
-| **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69df075636823d1b425858cc?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Apr 14 |
 | **[Harris & Associates](http://weareharris.com)** | **[Intern](https://jobright.ai/jobs/info/69df02dce34484770f1a66ad?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
 | **[23XI Racing](https://heylink.me/SHENBERSAMA/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69df02dce34484770f1a66af?utm_campaign=1065&utm_source=git)** | Huntersville, NC | On Site | Apr 14 |
 | **[KOSTAL Group](http://www.kostal.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69deffc8aba61f1417319583?utm_campaign=1065&utm_source=git)** | Troy, OH | On Site | Apr 14 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69def3375913ad339814138e?utm_campaign=1065&utm_source=git)** | Oakville, ON | On Site | Apr 14 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Marketing](https://jobright.ai/jobs/info/69deeb8b433ac8430e0dd905?utm_campaign=1065&utm_source=git)** | California - San Francisco | On Site | Apr 14 |
 | **[Red Moon Marketing](https://www.redmoonmkt.com/)** | **[Digital Marketing Summer Intern (Creative & Social Media Focus)](https://jobright.ai/jobs/info/69dee780433ac8430e0dd14e?utm_campaign=1065&utm_source=git)** | Charlotte,NC,US | On Site | Apr 14 |
-| **[GZTV](www.gztvnetwork.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dee57a18cf504166e3059c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 14 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Corporate Communications Summer Intern](https://jobright.ai/jobs/info/69dee538433ac8430e0dcfa1?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 14 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dee5115913ad3398140991?utm_campaign=1065&utm_source=git)** | Alpharetta | Remote | Apr 14 |
 | **[The Children's Cabinet](https://www.childrenscabinet.org/)** | **[Marketing and Communications Manager](https://jobright.ai/jobs/info/69dee0c7433ac8430e0dcec5?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Apr 14 |
@@ -103,10 +104,9 @@ For a complete list, click the following sortable link below:
 | **[KOSTAL of America, Inc.](https://www.kostal.com/en-gb/unternehmen/geschaeftsbereiche/)** | **[Communications Intern](https://jobright.ai/jobs/info/69decda518cf504166e2ffcf?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Apr 14 |
 | **[Northtown Automotive Companies](http://northtownauto.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/69decd17e34484770f1a4e53?utm_campaign=1065&utm_source=git)** | Northtown Automotive Companies Inc - Amherst, NY 14226 | On Site | Apr 14 |
 | **[Sparq](https://www.teamsparq.com)** | **[Content Strategy Intern](https://jobright.ai/jobs/info/69deccc5e34484770f1a4dea?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 14 |
-| **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Marketing Intern, Member Engagement Ecosystem](https://jobright.ai/jobs/info/69deccbe36823d1b42583e06?utm_campaign=1065&utm_source=git)** | CA-AB-Edmonton-South | Hybrid | Apr 14 |
+| **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Marketing Intern, Member Engagement Ecosystem](https://jobright.ai/jobs/info/69deccbe433ac8430e0dc862?utm_campaign=1065&utm_source=git)** | CA-AB-Edmonton-South | Hybrid | Apr 14 |
 | **[Renters Warehouse](https://renterswarehouse.com/)** | **[Digital Marketing Intern (AI & Automation Foc](https://jobright.ai/jobs/info/69decc9018cf504166e2ff1e?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | On Site | Apr 14 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Pinterest Marketing Intern (Flexible, 2-5hrs/week)](https://jobright.ai/jobs/info/69decc4a18cf504166e2fe3e?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Apr 14 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69df076036823d1b425858d8?utm_campaign=1065&utm_source=git)** | Wilmington, DE | Hybrid | Apr 14 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69decaa4433ac8430e0dc7b2?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 14 |
 | **[Electro](electrogum.com)** | **[College Athlete Outreach Intern](https://jobright.ai/jobs/info/69dec999aba61f1417317bfa?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Apr 14 |
 | ↳ | **[Athlete DM Outreach Intern](https://jobright.ai/jobs/info/69dec97daba61f1417317ba7?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Remote | Apr 14 |
