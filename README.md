@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SomaBeats Health Inc.](https://somabeats.health)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e09f78cf5a9e0c33c875c1?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Apr 16 |
 | **[Kargo](https://www.kargo.ai)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69e08196cf5a9e0c33c86f32?utm_campaign=1065&utm_source=git)** | Location: San Francisco or Chicago | On Site | Apr 15 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Proposal Intern](https://jobright.ai/jobs/info/69e07afeb20fd532b4ae1d29?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Apr 15 |
 | **[National Education Association](http://www.nea.org)** | **[Center for Organizing and Affiliate Support Intern](https://jobright.ai/jobs/info/69e09019c5691b27c176e1a2?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Growth Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69dfe3c814bf245fc7a6e61e?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Apr 15 |
 | **[Sony](https://www.sony.com)** | **[Intern, Corporate Communications and Media Production](https://jobright.ai/jobs/info/698a5af10f6f7e7a2ce579e8?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 15 |
 | **[BASF Environmental Catalyst and Metal Solutions](https://catalysts.basf.com/industries/precious-and-base-metals)** | **[Communications Summer Intern - Iselin, NJ (Hybrid)](https://jobright.ai/jobs/info/69dfe37b4920452a85dd0084?utm_campaign=1065&utm_source=git)** | Iselin, NJ, US, 08830 | Hybrid | Apr 15 |
-| ↳ | **[Communications Summer Intern - Iselin, NJ (Hybrid)](https://jobright.ai/jobs/info/69dfdea014bf245fc7a6e459?utm_campaign=1065&utm_source=git)** | Iselin, NJ | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
