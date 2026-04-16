@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kargo](https://www.kargo.ai)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69e08196cf5a9e0c33c86f32?utm_campaign=1065&utm_source=git)** | Location: San Francisco or Chicago | On Site | Apr 15 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Proposal Intern](https://jobright.ai/jobs/info/69e07afeb20fd532b4ae1d29?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Apr 15 |
+| **[National Education Association](http://www.nea.org)** | **[Center for Organizing and Affiliate Support Intern](https://jobright.ai/jobs/info/69e09019c5691b27c176e1a2?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | **[X Vision Media](https://www.xvisionmediaus.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e066d7b20fd532b4ae149e?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[DoorWay Technologies](doorway-mgmt.com)** | **[Brand & Content Coordinator](https://jobright.ai/jobs/info/69e060159564e855a25dd19a?utm_campaign=1065&utm_source=git)** | North Bay, ON | Remote | Apr 15 |
 | **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e059f8c17d1d5254333e48?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony](https://www.sony.com)** | **[Intern, Corporate Communications and Media Production](https://jobright.ai/jobs/info/698a5af10f6f7e7a2ce579e8?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 15 |
 | **[BASF Environmental Catalyst and Metal Solutions](https://catalysts.basf.com/industries/precious-and-base-metals)** | **[Communications Summer Intern - Iselin, NJ (Hybrid)](https://jobright.ai/jobs/info/69dfe37b4920452a85dd0084?utm_campaign=1065&utm_source=git)** | Iselin, NJ, US, 08830 | Hybrid | Apr 15 |
 | ↳ | **[Communications Summer Intern - Iselin, NJ (Hybrid)](https://jobright.ai/jobs/info/69dfdea014bf245fc7a6e459?utm_campaign=1065&utm_source=git)** | Iselin, NJ | Hybrid | Apr 15 |
-| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Communication and Marketing Intern](https://jobright.ai/jobs/info/69dfde815913ad3398146315?utm_campaign=1065&utm_source=git)** | Oconomowoc, WI | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
