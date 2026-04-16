@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kargo](https://www.kargo.ai)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69e08196cf5a9e0c33c86f32?utm_campaign=1065&utm_source=git)** | Location: San Francisco or Chicago | On Site | Apr 15 |
+| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Proposal Intern](https://jobright.ai/jobs/info/69e07afeb20fd532b4ae1d29?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Apr 15 |
 | **[X Vision Media](https://www.xvisionmediaus.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e066d7b20fd532b4ae149e?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[DoorWay Technologies](doorway-mgmt.com)** | **[Brand & Content Coordinator](https://jobright.ai/jobs/info/69e060159564e855a25dd19a?utm_campaign=1065&utm_source=git)** | North Bay, ON | Remote | Apr 15 |
 | **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e059f8c17d1d5254333e48?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
@@ -133,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[FACTEUR PR](https://www.facteurpr.com)** | **[Media Research & Engagement Intern](https://jobright.ai/jobs/info/69dff07514bf245fc7a6ebe1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff06c433ac8430e0e321d?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 15 |
 | ↳ | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff063433ac8430e0e3214?utm_campaign=1065&utm_source=git)** | Utah, United States | Remote | Apr 15 |
-| ↳ | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff0625913ad3398146a75?utm_campaign=1065&utm_source=git)** | Arizona, United States | Remote | Apr 15 |
 | ↳ | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff0625913ad3398146a76?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Remote | Apr 15 |
+| ↳ | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff0625913ad3398146a75?utm_campaign=1065&utm_source=git)** | Arizona, United States | Remote | Apr 15 |
 | **[UC San Diego Health](https://health.ucsd.edu/)** | **[Communications & Marketing Manager -Otolaryngology - 139271](https://jobright.ai/jobs/info/69dff05414bf245fc7a6ebae?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Apr 15 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dff01f4920452a85dd060a?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Apr 15 |
 | **[CELSIUS](http://celsius.com/)** | **[Student Marketing Ambassador - Fall 2026](https://jobright.ai/jobs/info/69e00d6aaba61f141731f480?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BASF Environmental Catalyst and Metal Solutions](https://catalysts.basf.com/industries/precious-and-base-metals)** | **[Communications Summer Intern - Iselin, NJ (Hybrid)](https://jobright.ai/jobs/info/69dfe37b4920452a85dd0084?utm_campaign=1065&utm_source=git)** | Iselin, NJ, US, 08830 | Hybrid | Apr 15 |
 | ↳ | **[Communications Summer Intern - Iselin, NJ (Hybrid)](https://jobright.ai/jobs/info/69dfdea014bf245fc7a6e459?utm_campaign=1065&utm_source=git)** | Iselin, NJ | Hybrid | Apr 15 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Communication and Marketing Intern](https://jobright.ai/jobs/info/69dfde815913ad3398146315?utm_campaign=1065&utm_source=git)** | Oconomowoc, WI | On Site | Apr 15 |
-| **[American Specialty Health](https://www.ashcompanies.com)** | **[Content Management Intern (Remote)](https://jobright.ai/jobs/info/69c3110a94007a2195df3a1d?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
-| **[Spartans for Duggan](https://www.linkedin.com/company/109998275)** | **[Spartans for Duggan Intern](https://jobright.ai/jobs/info/69dfdcfc4920452a85dcff59?utm_campaign=1065&utm_source=git)** | East Lansing, MI | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
