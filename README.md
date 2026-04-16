@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[X Vision Media](https://www.xvisionmediaus.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e066d7b20fd532b4ae149e?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
+| **[DoorWay Technologies](doorway-mgmt.com)** | **[Brand & Content Coordinator](https://jobright.ai/jobs/info/69e060159564e855a25dd19a?utm_campaign=1065&utm_source=git)** | North Bay, ON | Remote | Apr 15 |
 | **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e059f8c17d1d5254333e48?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Cleveland Studios](https://questdigital.com/)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69e059d5b20fd532b4ae0eb5?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
 | **[Austin AI Hub](austinaihub.com)** | **[Content & Social Media Marketing Intern](https://jobright.ai/jobs/info/69e059d0c17d1d5254333e27?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Communication and Marketing Intern](https://jobright.ai/jobs/info/69dfde815913ad3398146315?utm_campaign=1065&utm_source=git)** | Oconomowoc, WI | On Site | Apr 15 |
 | **[American Specialty Health](https://www.ashcompanies.com)** | **[Content Management Intern (Remote)](https://jobright.ai/jobs/info/69c3110a94007a2195df3a1d?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Spartans for Duggan](https://www.linkedin.com/company/109998275)** | **[Spartans for Duggan Intern](https://jobright.ai/jobs/info/69dfdcfc4920452a85dcff59?utm_campaign=1065&utm_source=git)** | East Lansing, MI | On Site | Apr 15 |
-| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Athletic Operations (Summer 2026)](https://jobright.ai/jobs/info/69c2c4b7ec22f8310ab0a9d6?utm_campaign=1065&utm_source=git)** | Vero Beach, FL | On Site | Apr 15 |
-| **[BD](https://www.bd.com)** | **[Market Research Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69dfdc86433ac8430e0e2ab8?utm_campaign=1065&utm_source=git)** | USA - Georgia - Atlanta | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
