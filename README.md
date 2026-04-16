@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grounded Idealist](www.groundedidealist.co)** | **[Internship: Communications & Storytelling](https://jobright.ai/jobs/info/69e04e1f9564e855a25dc9c8?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Apr 15 |
+| **[Physical AI Builders](https://f50.ai/future)** | **[Marketing Intern - Physical AI Summit / Newsletter](https://jobright.ai/jobs/info/69e048b54920452a85dd2837?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 15 |
+| **[Hyatt](http://www.hyatt.com/)** | **[INTERN, GLOBAL COMMUNICATIONS (CHICAGO- HYBRID)](https://jobright.ai/jobs/info/69e045c05913ad3398148ae5?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
+| **[U-Haul](http://www.uhaul.com/)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/69e040c2aba61f141732054b?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Apr 15 |
 | **[Rowan Appliance Inc.](https://www.rowanappliance.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e03ae214bf245fc7a70a19?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | Apr 15 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69e039675913ad33981488d5?utm_campaign=1065&utm_source=git)** | Honolulu, HI | On Site | Apr 15 |
 | **[BCD Meetings & Events](http://www.bcdme.com)** | **[Intern](https://jobright.ai/jobs/info/69e0395a5913ad33981488be?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Social Media Marketing Assistant (Student/Work Study)](https://jobright.ai/jobs/info/69e02aca433ac8430e0e49bb?utm_campaign=1065&utm_source=git)** | Flint, MI | Hybrid | Apr 15 |
 | **[FSEN](https://www.fsen.tech/)** | **[Market Research and Sales Development Intern (Unpaid)](https://jobright.ai/jobs/info/69e02aab4920452a85dd1eb2?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Apr 15 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Communications (Summer 2026)](https://jobright.ai/jobs/info/69e02a98433ac8430e0e494b?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 15 |
-| **[Dim Mak](http://dimmak.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e02a834920452a85dd1e19?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 15 |
 | **[Cartier](http://www.cartier.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69e02a7faba61f141731fd27?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Sarah Cotty Real Estate | Serhant.](https://sarahcotty.com/)** | **[Real Estate Operations and Marketing Intern](https://jobright.ai/jobs/info/69e02a73aba61f141731fcf8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 | **[oGoing](http://www.ogoing.com)** | **[Market Development](https://jobright.ai/jobs/info/69e02a68e34484770f1acd5c?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[She Sells Studios](http://www.SheSellsStudios.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dfd8634920452a85dcfd5d?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Apr 15 |
 | **[LION & ORB](https://www.lionandorb.com)** | **[Public Relations Assistant Intern](https://jobright.ai/jobs/info/69dfd7f8433ac8430e0e28ad?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Apr 15 |
 | **[Corgan](http://www.corgan.com/)** | **[Marketing Internship / Summer 2026](https://jobright.ai/jobs/info/69d9cc97869c7e25d859dc92?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Sustainability Social Media & Outreach Intern](https://jobright.ai/jobs/info/69dfd746433ac8430e0e2800?utm_campaign=1065&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 15 |
-| ↳ | **[Extension Sustainability Social Media & Outreach Intern](https://jobright.ai/jobs/info/69dfd7445913ad3398146022?utm_campaign=1065&utm_source=git)** | US-UT | Hybrid | Apr 15 |
-| **[Kelly Tutors](www.kellytutors.com)** | **[Social Media Strategic Marketing Internship (Flexible, 2-5hr/s Week)](https://jobright.ai/jobs/info/69dfd675aba61f141731dade?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
