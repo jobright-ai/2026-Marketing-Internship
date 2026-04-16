@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Marketing - First Equipment Company](https://jobright.ai/jobs/info/69c44b5933eecf3107948354?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Apr 16 |
+| **[Crash Champions](https://crashchampions.com/)** | **[Intern, Communications](https://jobright.ai/jobs/info/69e103086c20aa114953efe6?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 16 |
+| **[Maison de Carine](www.maisondecarine.com)** | **[Creative Marketing Intern - Video Production & AI](https://jobright.ai/jobs/info/69e0ffc9acc736112f5c171e?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Apr 16 |
+| **[GrowthExpertz](https://growthexpertz.com)** | **[Digital Marketing Internship w/ Tons of Training](https://jobright.ai/jobs/info/69e0ff93fd1c0456f3fac09a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 16 |
+| **[Apartment Maid](http://apartmentmaid.co/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69e0ff6bd612782e61146758?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 16 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69e0f841ff71e82d604b47e1?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 16 |
+| **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69e0f841fd1c0456f3fabd6d?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 16 |
+| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Influencer Marketing & Partnerships Intern](https://jobright.ai/jobs/info/69ce037c398fb071abf805de?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 16 |
 | **[WSP](https://www.wsp.com/en-om/services/mine-infrastructure)** | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69e0f47dff71e82d604b452a?utm_campaign=1065&utm_source=git)** | 1300 SW Fifth Avenue, Portland, OR, 97201, US | On Site | Apr 16 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Commercial Operations Communications](https://jobright.ai/jobs/info/69b327dea8ac8e70ff67659a?utm_campaign=1065&utm_source=git)** | Foster City | On Site | Apr 16 |
 | **[sunrestfun](www.sunrestfun.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e0f390ff71e82d604b43fa?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Marketing (Summer 2026)](https://jobright.ai/jobs/info/69e01270aba61f141731f6cd?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Apr 15 |
 | **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Web Analytics & Digital Marketing Intern](https://jobright.ai/jobs/info/69e010504920452a85dd166e?utm_campaign=1065&utm_source=git)** | CA-AB-Edmonton-South | Hybrid | Apr 15 |
 | **[SEC Fantasy](https://secfantasy.com)** | **[Social Media, Marketing, and Software Engineering Intern (Separate Roles)](https://jobright.ai/jobs/info/69e00e684920452a85dd162c?utm_campaign=1065&utm_source=git)** | Tuscaloosa, AL | Remote | Apr 15 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e00e1d14bf245fc7a6faad?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
-| **[INSERV - Environmental & Industrial Services](https://inserv24-7.com)** | **[Marketing Apprentice](https://jobright.ai/jobs/info/69e00d5e433ac8430e0e4114?utm_campaign=1065&utm_source=git)** | Mishawaka, IN | On Site | Apr 15 |
-| **[Ambulatory Anesthesia Care (Midwest)](https://zzzmd.com/)** | **[Social Media Internship (Brand, Recruitment & Engagement)](https://jobright.ai/jobs/info/69e036775913ad3398148751?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | Apr 15 |
-| **[Metropolitan State University of Denver](http://www.msudenver.edu)** | **[Event Coordinator](https://jobright.ai/jobs/info/69e00aa1aba61f141731f3c4?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Apr 15 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: eCommerce Marketing](https://jobright.ai/jobs/info/69e006cc433ac8430e0e3f6d?utm_campaign=1065&utm_source=git)** | Columbia, MO | On Site | Apr 15 |
-| **[Tick3t Tree](tick3ttree.com)** | **[Growth Intern](https://jobright.ai/jobs/info/69e0020914bf245fc7a6f64d?utm_campaign=1065&utm_source=git)** | Beverly, MA | Remote | Apr 15 |
-| **[Diamond](http://experiencediamond.com/)** | **[Strategy Intern, Influencer](https://jobright.ai/jobs/info/69e001bce34484770f1ac0e5?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 15 |
-| **[Luck Companies](https://www.luckcompanies.com/)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/69e00194e34484770f1ac03e?utm_campaign=1065&utm_source=git)** | Manakin Sabot, Virginia, United States | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
