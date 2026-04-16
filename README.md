@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toshiba Business](http://business.toshiba.com)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/69e158d6fd1c0456f3fadd32?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Apr 16 |
+| **[Caldic](https://www.caldic.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e154d56c20aa1149540a30?utm_campaign=1065&utm_source=git)** | Mississauga, ON | Hybrid | Apr 16 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/69e1549aff71e82d604b667d?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Apr 16 |
+| **[Champion](https://www.championmgt.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69e1547c40a62c1fa93b7dea?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | Apr 16 |
+| **[Kraft Sports + Entertainment](https://www.kraftse.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/69e14f9140a62c1fa93b7c7d?utm_campaign=1065&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Apr 16 |
+| **[Staples](http://www.staples.com)** | **[Supply Chain Product Marketing Intern - June 2026](https://jobright.ai/jobs/info/69e14f10ff71e82d604b649e?utm_campaign=1065&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Apr 16 |
+| **[Staples Canada](http://www.staples.ca)** | **[Supply Chain Product Marketing Intern - June 2026](https://jobright.ai/jobs/info/69e14f0740a62c1fa93b7bdd?utm_campaign=1065&utm_source=git)** | Framingham, MA, United States | On Site | Apr 16 |
+| **[Staples](http://www.staples.com)** | **[Supply Chain Product Marketing Intern - June 2026](https://jobright.ai/jobs/info/69e149a96c20aa114954076d?utm_campaign=1065&utm_source=git)** | Framingham, MA, United States | On Site | Apr 16 |
 | **[Results for America](http://results4america.org)** | **[[2026 Summer Internships] WWC Strategy & Growth / Outreach Intern](https://jobright.ai/jobs/info/69ceb741cdb525785fb9a336?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Remote | Apr 16 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/69e14941d612782e61147ea9?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | On Site | Apr 16 |
 | **[Summit Pacific Medical Center](https://summitpacificmedicalcenter.org/summit-pacific-medical-center/)** | **[Internship, Marketing, Days, Part Time (0.6 FTE)](https://jobright.ai/jobs/info/69e1493eff71e82d604b637a?utm_campaign=1065&utm_source=git)** | Elma, Washington | On Site | Apr 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e0dc6facc736112f5c07f5?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 16 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69e0dc6dacc736112f5c07eb?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 16 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[SEO/GEO Intern - Summer 2026](https://jobright.ai/jobs/info/69a79d38637232443f64df08?utm_campaign=1065&utm_source=git)** | San Jose, CA | Remote | Apr 16 |
-| **[Xometry](https://www.xometry.com)** | **[TMS Marketing Intern](https://jobright.ai/jobs/info/6952b3795bb7de448ef5cd00?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 16 |
-| **[Nasuni](https://www.nasuni.com)** | **[Product Marketing Intern - Undergrad](https://jobright.ai/jobs/info/69c4db206f4f855eeda78e68?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (Brand Ads) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/698c607378b4502f12a2e728?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 16 |
-| ↳ | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698aa067c5761b521a99e70c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
-| **[Legends Global](http://legends.net)** | **[Intern - CSL (Minneapolis)](https://jobright.ai/jobs/info/69d5f29fe63cea7a8b666334?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Apr 16 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e0f3e3fd1c0456f3faba95?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 16 |
-| **[Evolv Technology](http://www.evolvtechnology.com)** | **[Marketing Intern (Summer 26')](https://jobright.ai/jobs/info/69deb1e1e34484770f1a4361?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Apr 16 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Marketing Innovation](https://jobright.ai/jobs/info/6970509d333b6343a14cbe1d?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
