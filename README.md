@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing - South Florida](https://jobright.ai/jobs/info/69a8bfce79f3f4037f433200?utm_campaign=1065&utm_source=git)** | Hollywood, FL | On Site | Apr 16 |
+| **[Microsoft](https://www.microsoft.com)** | **[Field Product Marketing: Fall Co-Op Internship Opportunities](https://jobright.ai/jobs/info/69e0e4dffd1c0456f3fab513?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Apr 16 |
+| **[Harvest Events](harvesteventsclt.com)** | **[Event Assistant Intern](https://jobright.ai/jobs/info/69e0e4bcacc736112f5c0b69?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 16 |
+| **[Microsoft](https://www.microsoft.com)** | **[Partner Marketing: Fall Co-Op Internship Opportunities](https://jobright.ai/jobs/info/69e0e4106c20aa114953e391?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | Apr 16 |
+| **[Planet](http://www.planet.com)** | **[ABM Marketing Manager, North America](https://jobright.ai/jobs/info/698a967ac5761b521a99db73?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 16 |
+| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Marketing Web Parametrics](https://jobright.ai/jobs/info/69a93a5b2615b60842abb3f9?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Apr 16 |
+| **[Crayola](http://www.crayola.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69a9364479f3f4037f44006b?utm_campaign=1065&utm_source=git)** | Easton, PA | On Site | Apr 16 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e0dd0140a62c1fa93b53c9?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69e0dce6fd1c0456f3fab165?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 16 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e0dc6facc736112f5c07f5?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 16 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69e0dc6dacc736112f5c07eb?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 16 |
+| **[BetterHelp](https://www.betterhelp.com)** | **[SEO/GEO Intern - Summer 2026](https://jobright.ai/jobs/info/69a79d38637232443f64df08?utm_campaign=1065&utm_source=git)** | San Jose, CA | Remote | Apr 16 |
+| **[Xometry](https://www.xometry.com)** | **[TMS Marketing Intern](https://jobright.ai/jobs/info/6952b3795bb7de448ef5cd00?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 16 |
 | **[Nasuni](https://www.nasuni.com)** | **[Product Marketing Intern - Undergrad](https://jobright.ai/jobs/info/69c4db206f4f855eeda78e68?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (Brand Ads) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/698c607378b4502f12a2e728?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | ↳ | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698aa067c5761b521a99e70c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Purity Products](http://www.purityproducts.com)** | **[Content & Influencer Marketing Intern](https://jobright.ai/jobs/info/69dff749433ac8430e0e385d?utm_campaign=1065&utm_source=git)** | Plainview, NY | Hybrid | Apr 15 |
 | **[U-Haul](http://www.uhaul.com/)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/69dff73214bf245fc7a6f110?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona | On Site | Apr 15 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Hybrid Digital Marketing Intern](https://jobright.ai/jobs/info/69dff723433ac8430e0e384d?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Apr 15 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Social Editor- Intern- College Credit](https://jobright.ai/jobs/info/69dff61d4920452a85dd0b5a?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 15 |
-| **[ODK Media](https://www.odkmedia.net/)** | **[SEO Intern (Unpaid)](https://jobright.ai/jobs/info/69dff615433ac8430e0e36da?utm_campaign=1065&utm_source=git)** | Irvine, California, United States | On Site | Apr 15 |
-| **[Scent Beauty, Inc.](https://scentbeauty.com/)** | **[Marketing/Social Marketing Intern](https://jobright.ai/jobs/info/69e075cdc5691b27c176d8ca?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Apr 15 |
-| **[Utah State University](http://www.usu.edu)** | **[Extension Sustainability Social Media & Outreach Intern](https://jobright.ai/jobs/info/69e0124814bf245fc7a6fc9e?utm_campaign=1065&utm_source=git)** | Davis County, UT | Hybrid | Apr 15 |
-| **[ODK Media](https://www.odkmedia.net/)** | **[SEO Intern (Unpaid)](https://jobright.ai/jobs/info/69dff29fe34484770f1ab8e0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Apr 15 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69dff24e5913ad3398146b48?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Apr 15 |
-| **[APTAGEN Labs](https://www.aptagen.com)** | **[Business & Marketing Assistant - Biotech](https://jobright.ai/jobs/info/69e00f47e34484770f1ac5e4?utm_campaign=1065&utm_source=git)** | York, PA | On Site | Apr 15 |
-| **[FACTEUR PR](https://www.facteurpr.com)** | **[Media Research & Engagement Intern](https://jobright.ai/jobs/info/69dff07514bf245fc7a6ebe1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff06c433ac8430e0e321d?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 15 |
-| ↳ | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff063433ac8430e0e3214?utm_campaign=1065&utm_source=git)** | Utah, United States | Remote | Apr 15 |
-| ↳ | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff0625913ad3398146a76?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Remote | Apr 15 |
-| ↳ | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff0625913ad3398146a75?utm_campaign=1065&utm_source=git)** | Arizona, United States | Remote | Apr 15 |
-| **[UC San Diego Health](https://health.ucsd.edu/)** | **[Communications & Marketing Manager -Otolaryngology - 139271](https://jobright.ai/jobs/info/69dff05414bf245fc7a6ebae?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
