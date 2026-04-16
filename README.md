@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MathWorks](http://www.mathworks.com)** | **[Colorado State University MATLAB Student Ambassador](https://jobright.ai/jobs/info/6971742b333b6343a14e1105?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 16 |
+| ↳ | **[University of Cincinnati MATLAB Student Ambassador](https://jobright.ai/jobs/info/69701c060f4e0f657ea4753b?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 16 |
+| **[Roku](https://www.roku.com)** | **[Content Analytics & Insights Intern, MBA](https://jobright.ai/jobs/info/69a8ce592580d3183f00e832?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | Hybrid | Apr 16 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Marketing)](https://jobright.ai/jobs/info/69c467a933eecf310794b9f1?utm_campaign=1065&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Apr 16 |
 | **[SomaBeats Health Inc.](https://somabeats.health)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e09f78cf5a9e0c33c875c1?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Apr 16 |
 | **[Kargo](https://www.kargo.ai)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69e08196cf5a9e0c33c86f32?utm_campaign=1065&utm_source=git)** | Location: San Francisco or Chicago | On Site | Apr 15 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Proposal Intern](https://jobright.ai/jobs/info/69e07afeb20fd532b4ae1d29?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Apr 15 |
+| **[Kennywood Park](https://www.kennywood.com/)** | **[Adventureland Park - Sales & Marketing Intern - Content](https://jobright.ai/jobs/info/69e0b2dfff71e82d604b2e24?utm_campaign=1065&utm_source=git)** | Altoona, IA | On Site | Apr 15 |
 | **[National Education Association](http://www.nea.org)** | **[Center for Organizing and Affiliate Support Intern](https://jobright.ai/jobs/info/69e09019c5691b27c176e1a2?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | **[ABANA (abana.co)](https://www.abana.co)** | **[Programs and Event Planning Internship](https://jobright.ai/jobs/info/69e0ae26ff71e82d604b28f7?utm_campaign=1065&utm_source=git)** | Indiana, United States | On Site | Apr 15 |
 | **[DoorWay Technologies](doorway-mgmt.com)** | **[Brand & Content Coordinator](https://jobright.ai/jobs/info/69e060159564e855a25dd19a?utm_campaign=1065&utm_source=git)** | North Bay, ON | Remote | Apr 15 |
@@ -137,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[FACTEUR PR](https://www.facteurpr.com)** | **[Media Research & Engagement Intern](https://jobright.ai/jobs/info/69dff07514bf245fc7a6ebe1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff06c433ac8430e0e321d?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 15 |
 | ↳ | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff063433ac8430e0e3214?utm_campaign=1065&utm_source=git)** | Utah, United States | Remote | Apr 15 |
-| ↳ | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff0625913ad3398146a75?utm_campaign=1065&utm_source=git)** | Arizona, United States | Remote | Apr 15 |
 | ↳ | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff0625913ad3398146a76?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Remote | Apr 15 |
+| ↳ | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff0625913ad3398146a75?utm_campaign=1065&utm_source=git)** | Arizona, United States | Remote | Apr 15 |
 | **[UC San Diego Health](https://health.ucsd.edu/)** | **[Communications & Marketing Manager -Otolaryngology - 139271](https://jobright.ai/jobs/info/69dff05414bf245fc7a6ebae?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Apr 15 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dff01f4920452a85dd060a?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Apr 15 |
 | **[CELSIUS](http://celsius.com/)** | **[Student Marketing Ambassador - Fall 2026](https://jobright.ai/jobs/info/69e00d6aaba61f141731f480?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ali Fee PR](https://www.ali-fee.com)** | **[Fashion + Lifestyle PR Intern - Spring/Summer](https://jobright.ai/jobs/info/69dfe40f4920452a85dd01bc?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Apr 15 |
 | **[Veryfi](https://www.veryfi.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69dfe3f7e34484770f1ab15e?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Apr 15 |
 | **[Homekey](homekey.casa)** | **[Content and Growth Marketing Intern](https://jobright.ai/jobs/info/69dfe3df14bf245fc7a6e654?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Apr 15 |
-| **[Poshmark](http://poshmark.com)** | **[Social Media Intern (Summer 2026)](https://jobright.ai/jobs/info/69dfe3d25913ad339814651a?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Apr 15 |
-| ↳ | **[Site Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69dfe3d0aba61f141731e04f?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Apr 15 |
-| ↳ | **[Growth Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69dfe3c814bf245fc7a6e61e?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Apr 15 |
-| **[Sony](https://www.sony.com)** | **[Intern, Corporate Communications and Media Production](https://jobright.ai/jobs/info/698a5af10f6f7e7a2ce579e8?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 15 |
-| **[BASF Environmental Catalyst and Metal Solutions](https://catalysts.basf.com/industries/precious-and-base-metals)** | **[Communications Summer Intern - Iselin, NJ (Hybrid)](https://jobright.ai/jobs/info/69dfe37b4920452a85dd0084?utm_campaign=1065&utm_source=git)** | Iselin, NJ, US, 08830 | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
