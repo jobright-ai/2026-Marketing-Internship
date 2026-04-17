@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Performance Marketing and Operations Intern](https://jobright.ai/jobs/info/69c5a3521b5ad02887377587?utm_campaign=1065&utm_source=git)** | Austin County, TX | Hybrid | Apr 17 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Growth Marketing Intern, Self-Serve (Summer 2026)](https://jobright.ai/jobs/info/69a8dc6c2580d3183f00ff5e?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 17 |
 | **[MathWorks](http://www.mathworks.com)** | **[University of Kentucky MATLAB Student Ambassador](https://jobright.ai/jobs/info/69717a30333b6343a14e1572?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 17 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Corporate Communications](https://jobright.ai/jobs/info/69704c15587dfa0bb55dd497?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69e20b0bad27d95045be2ffa?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 17 |
@@ -75,16 +77,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69e1fc54d612782e6114ddc3?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Apr 16 |
 | **[Boardwalk](https://www.bwalk.com)** | **[Marketing Assistant - Summer Student](https://jobright.ai/jobs/info/69e1fc1bd612782e6114dd05?utm_campaign=1065&utm_source=git)** | Saskatoon, SK | On Site | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Decider Social Media Intern](https://jobright.ai/jobs/info/69e1ac6dacc736112f5c4c60?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Social Media Intern (Newsroom)](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[New York Post Social Media Intern](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Social Media Intern (Newsroom)](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Page Six Social Media Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542476?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Advertising Operations Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542472?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Audience Development Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80d6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80d8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Event Coordinator](https://jobright.ai/jobs/info/69e1cdbcfd1c0456f3fb01de?utm_campaign=1065&utm_source=git)** | Vancouver, BC | Hybrid | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Commerce Social Media Marketing & Distribution Intern](https://jobright.ai/jobs/info/69e1a9c840a62c1fa93b9835?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Audience Optimization & Discovery Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf60e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Franchise Growth Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf610?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Audience Optimization & Discovery Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf60e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Communications, U.S. Climate Alliance](https://jobright.ai/jobs/info/69e1a679d612782e611499a1?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
 | **[Nord Anglia Education](https://www.nordangliaeducation.com)** | **[Assistant Director of Marketing, Admissions & Communications](https://jobright.ai/jobs/info/69e1a265d612782e611498f3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[The Bluebird Group](http://www.thebluebirdgrp.com)** | **[Retail Media Intern](https://jobright.ai/jobs/info/69e1a204ff71e82d604b7d3d?utm_campaign=1065&utm_source=git)** | Bentonville, AR | Hybrid | Apr 16 |
@@ -102,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Continental](https://www.continental.com)** | **[Intern - Marketing & Communications, Year-Round](https://jobright.ai/jobs/info/69e18d5cff71e82d604b7701?utm_campaign=1065&utm_source=git)** | Fort Mill, SC | Hybrid | Apr 16 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Social Media Content Developer](https://jobright.ai/jobs/info/69e1b89140a62c1fa93b9cf1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 16 |
 | **[GZTV](www.gztvnetwork.com)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/69e18c5efd1c0456f3faec08?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 16 |
+| **[Pillar4 Media](https://pillarfour.com)** | **[Post Graduate Internship, Public Relations](https://jobright.ai/jobs/info/69e210312ef4b138ddb258b0?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 16 |
 | **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[Communications Generalist Intern - Summer 2026](https://jobright.ai/jobs/info/699986c0ce78e77b4fde7309?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69e18932ff71e82d604b760b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69e185f66c20aa11495418b9?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northtown Automotive Companies](http://northtownauto.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/69e146f2acc736112f5c2def?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Apr 16 |
 | **[DMD Systems Recovery, LLC.](http://www.dmdsystems.com)** | **[Social Media and Content Marketing Intern](https://jobright.ai/jobs/info/69e146d2d612782e61147dde?utm_campaign=1065&utm_source=git)** | Arizona, United States | Hybrid | Apr 16 |
 | **[Princeton Plasma Physics Laboratory (PPPL)](http://www.pppl.gov/)** | **[Communications Intern](https://jobright.ai/jobs/info/69e145cad612782e61147c72?utm_campaign=1065&utm_source=git)** | Princeton, NJ, US | On Site | Apr 16 |
-| **[L Law Firm PLLC](https://llawfirm.law/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e14384fd1c0456f3fad59f?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Apr 16 |
-| **[Space Needle](http://spaceneedle.com/)** | **[Marketing & PR Intern](https://jobright.ai/jobs/info/69e19aa3acc736112f5c4585?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
-| **[LJA](https://www.lja.com/)** | **[Intern - Client Relations and Communications](https://jobright.ai/jobs/info/69e143496c20aa11495403c4?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
