@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Boulder Imaging](http://boulderimaging.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e1ff8f6afe5d2fd108bbd3?utm_campaign=1065&utm_source=git)** | Louisville, CO | On Site | Apr 17 |
+| **[MathWorks](http://www.mathworks.com)** | **[University of Kentucky MATLAB Student Ambassador](https://jobright.ai/jobs/info/69717a30333b6343a14e1572?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 17 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Corporate Communications](https://jobright.ai/jobs/info/69704c15587dfa0bb55dd497?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69e20b0bad27d95045be2ffa?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 17 |
+| **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69aa8b2a9ca4e908ec65f40d?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Apr 17 |
+| **[Group 1001](https://group1001.com/)** | **[Automotive Market Research Intern](https://jobright.ai/jobs/info/69cc8717e1921223acc78c36?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Apr 17 |
+| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69e20937cdd32f1cb3d2c6f6?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 17 |
+| **[Connor Group](http://connorgp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5cf35aa9a29199e80abe8?utm_campaign=1065&utm_source=git)** | Utah, United States | Hybrid | Apr 17 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Brand Marketing](https://jobright.ai/jobs/info/69a8b82e2580d3183f00c3a0?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Apr 17 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Marketing and Content Creation Intern](https://jobright.ai/jobs/info/698bfda9e4f6572f0e43f60a?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Apr 17 |
 | **[MathWorks](http://www.mathworks.com)** | **[University of Tennessee MATLAB Student Ambassador](https://jobright.ai/jobs/info/69717ba0333b6343a14e1718?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 17 |
 | **[Inspiration Commerce Group](https://inspo.group)** | **[Intern - Personal Shopping/Fashion Marketing](https://jobright.ai/jobs/info/69e1f0c66c20aa114954608a?utm_campaign=1065&utm_source=git)** | Toronto, ON | Remote | Apr 17 |
@@ -70,14 +77,14 @@ For a complete list, click the following sortable link below:
 | **[New York Post](http://nypost.com/)** | **[Decider Social Media Intern](https://jobright.ai/jobs/info/69e1ac6dacc736112f5c4c60?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Social Media Intern (Newsroom)](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[New York Post Social Media Intern](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Advertising Operations Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542472?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Page Six Social Media Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542476?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Advertising Operations Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542472?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Audience Development Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80d6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80d8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Event Coordinator](https://jobright.ai/jobs/info/69e1cdbcfd1c0456f3fb01de?utm_campaign=1065&utm_source=git)** | Vancouver, BC | Hybrid | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Commerce Social Media Marketing & Distribution Intern](https://jobright.ai/jobs/info/69e1a9c840a62c1fa93b9835?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Franchise Growth Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf610?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Audience Optimization & Discovery Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf60e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Franchise Growth Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf610?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Communications, U.S. Climate Alliance](https://jobright.ai/jobs/info/69e1a679d612782e611499a1?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
 | **[Nord Anglia Education](https://www.nordangliaeducation.com)** | **[Assistant Director of Marketing, Admissions & Communications](https://jobright.ai/jobs/info/69e1a265d612782e611498f3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[The Bluebird Group](http://www.thebluebirdgrp.com)** | **[Retail Media Intern](https://jobright.ai/jobs/info/69e1a204ff71e82d604b7d3d?utm_campaign=1065&utm_source=git)** | Bentonville, AR | Hybrid | Apr 16 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[L Law Firm PLLC](https://llawfirm.law/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e14384fd1c0456f3fad59f?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Apr 16 |
 | **[Space Needle](http://spaceneedle.com/)** | **[Marketing & PR Intern](https://jobright.ai/jobs/info/69e19aa3acc736112f5c4585?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
 | **[LJA](https://www.lja.com/)** | **[Intern - Client Relations and Communications](https://jobright.ai/jobs/info/69e143496c20aa11495403c4?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 16 |
-| **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (Immediate and ON-SITE)](https://jobright.ai/jobs/info/69e142fa40a62c1fa93b77cf?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 16 |
-| **[Best Egg](https://www.marlettefunding.com)** | **[2026 Summer Internship - Direct Mail Specialist Intern](https://jobright.ai/jobs/info/69e142bb40a62c1fa93b76d1?utm_campaign=1065&utm_source=git)** | New Castle County, DE | Remote | Apr 16 |
-| **[Conservation Centers for Species Survival (C2S2)](https://linktr.ee/C2S2)** | **[Communications and Development Intern](https://jobright.ai/jobs/info/69e142a1ff71e82d604b5fb6?utm_campaign=1065&utm_source=git)** | Glen Rose, TX | Hybrid | Apr 16 |
-| **[The Mennel Milling Company](http://mennel.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69e1637fff71e82d604b6abf?utm_campaign=1065&utm_source=git)** | Fostoria, OH | On Site | Apr 16 |
-| **[The Classic Center](http://classiccenter.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69e13f6b6c20aa11495402a8?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | Apr 16 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/69e13f5cd612782e61147a76?utm_campaign=1065&utm_source=git)** | Providence, RI | On Site | Apr 16 |
-| **[Rooftop Power](https://www.rooftoppowerco.com)** | **[Engagement & Social Media Intern](https://jobright.ai/jobs/info/69e13f4ad612782e61147a50?utm_campaign=1065&utm_source=git)** | Warwick, RI | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
