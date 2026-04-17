@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metaprise](https://www.metaprise.ai/)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/69e2a3fe3ce36005badbef62?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 17 |
+| **[Shiseido](http://www.shiseido.com/)** | **[Intern, US Ecommerce (NARS & Drunk Elephant)](https://jobright.ai/jobs/info/69e29d083ce36005badbee68?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbb?utm_campaign=1065&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
 | **[Metaprise](https://www.metaprise.ai/)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/69e296253770bd5361cd9230?utm_campaign=1065&utm_source=git)** | New York | On Site | Apr 17 |
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Intern](https://jobright.ai/jobs/info/69e295c82f28653593077418?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Apr 17 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Compass](http://www.compass.com)** | **[Real Estate Marketing & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2804c3ce36005badbe723?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Apr 17 |
 | **[Cadent](http://www.cadent.tv)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69d87757738f2f099e89cbd3?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69c91618b773006330b83e0e?utm_campaign=1065&utm_source=git)** | Saukville, WI | Hybrid | Apr 17 |
-| **[Shimmick Corporation](http://www.shimmick.com)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e27d2d3ce36005badbe67d?utm_campaign=1065&utm_source=git)** | Irvine, CA, US | On Site | Apr 17 |
-| ↳ | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e27d2d5c44d4710fe256bc?utm_campaign=1065&utm_source=git)** | US-CA-Irvine | On Site | Apr 17 |
+| **[Shimmick Corporation](http://www.shimmick.com)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e27d2d5c44d4710fe256bc?utm_campaign=1065&utm_source=git)** | US-CA-Irvine | On Site | Apr 17 |
+| ↳ | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e27d2d3ce36005badbe67d?utm_campaign=1065&utm_source=git)** | Irvine, CA, US | On Site | Apr 17 |
 | **[Evvolve Circle](https://evvolve.io/evvolve-circle)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/69e27ce8fcfcbd43860a32ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Category Management - Intern](https://jobright.ai/jobs/info/69c6b2ef83ea553769fdcad5?utm_campaign=1065&utm_source=git)** | Ridgefield, CT | On Site | Apr 17 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Publicity](https://jobright.ai/jobs/info/69a854ee1dfc787e9aa3558a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 17 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Marketing Strategy/Research and Insight Intern](https://jobright.ai/jobs/info/69e25c123ce36005badbde12?utm_campaign=1065&utm_source=git)** | USA-NY-New York | Hybrid | Apr 17 |
 | **[Learning Resources](https://www.learningresources.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69d55354891d7b11cfd00f84?utm_campaign=1065&utm_source=git)** | Vernon Hills, IL | Hybrid | Apr 17 |
 | **[Typeface](https://www.typeface.ai)** | **[Marketing Programs Intern](https://jobright.ai/jobs/info/69c58aea1818a24cd84b7aa4?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 17 |
+| **[Tenaris](http://www.tenaris.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69e29d042f286535930774e7?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Colas Canada Inc.](http://www.colascanada.ca/)** | **[Communications Intern](https://jobright.ai/jobs/info/69e28838fcfcbd43860a345a?utm_campaign=1065&utm_source=git)** | Scarborough, ON | On Site | Apr 17 |
 | **[MarkitAds](https://markitads.com/)** | **[Campus Marketing Summer Internship](https://jobright.ai/jobs/info/69e27281be46fa3a4ef574fe?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Apex Water and Process](https://teamapex.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d01c0b891d7b11cfcd8a44?utm_campaign=1065&utm_source=git)** | St Michael, MN | On Site | Apr 17 |
@@ -145,16 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Channel Marketing Intern - Pfister](https://jobright.ai/jobs/info/698d0fb7f64d441a164ef0be?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 17 |
 | **[Twilio](https://www.twilio.com/)** | **[Go-to-market Analyst Intern (June 22nd start, 12 weeks)](https://jobright.ai/jobs/info/69e236645183fd1fa64f9e11?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Marketing Insights Intern](https://jobright.ai/jobs/info/698d1357f64d441a164ef795?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 17 |
-| ↳ | **[Channel Marketing Intern - Electronic Locks](https://jobright.ai/jobs/info/698d05d378b4502f12a377bd?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 17 |
 | ↳ | **[Channel Marketing Intern - Mechanical](https://jobright.ai/jobs/info/698d15a978b4502f12a39577?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 17 |
 | ↳ | **[Electronics Product Marketing Intern](https://jobright.ai/jobs/info/698d1b6b78b4502f12a3a1b8?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 17 |
+| ↳ | **[Channel Marketing Intern - Electronic Locks](https://jobright.ai/jobs/info/698d05d378b4502f12a377bd?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 17 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Marketing and Sales Enablement](https://jobright.ai/jobs/info/69a8c8cf2580d3183f00dea2?utm_campaign=1065&utm_source=git)** | LaSalle, ON | Remote | Apr 17 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/698d8e640f6f7e7a2ce9793b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Hamilton East Public Library](http://hepl.lib.in.us)** | **[Summer Marketing & Digital Storytelling Intern](https://jobright.ai/jobs/info/69e271695c44d4710fe2522f?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Apr 17 |
 | **[MGT](http://www.mgtconsulting.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c5b019aa3c2c1995e03062?utm_campaign=1065&utm_source=git)** | Livermore, CA | On Site | Apr 17 |
 | **[Raba Kistner, Inc.](http://www.rkci.com)** | **[Marketing Student Intern](https://jobright.ai/jobs/info/69a9e62b9ca4e908ec652a44?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 17 |
 | **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Promotion & Creative Services Intern](https://jobright.ai/jobs/info/69e2290bcda04a632939ffe5?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 17 |
-| **[X0PA AI](https://www.x0pa.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e228d10335427bb49c790a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
-| **[Republic Airways](http://www.rjet.com)** | **[Corporate Communication Intern - Fall 2026](https://jobright.ai/jobs/info/69ccb240e1921223acc7be77?utm_campaign=1065&utm_source=git)** | Carmel, IN | Hybrid | Apr 17 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Marketing Department](https://jobright.ai/jobs/info/69c5758daa9a29199e804e91?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
