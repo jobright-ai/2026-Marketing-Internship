@@ -57,21 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Choctaw Casinos & Resorts](http://choctawcasinos.com/)** | **[Casino Senior Marketing Manager](https://jobright.ai/jobs/info/69e1ae9bd612782e61149dd4?utm_campaign=1065&utm_source=git)** | Durant, OK | On Site | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Decider Social Media Intern](https://jobright.ai/jobs/info/69e1ac6dacc736112f5c4c60?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[New York Post Social Media Intern](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Social Media Intern (Newsroom)](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Page Six Social Media Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542476?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[New York Post Social Media Intern](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Advertising Operations Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542472?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Page Six Social Media Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542476?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Audience Development Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80d6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80d8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Commerce Social Media Marketing & Distribution Intern](https://jobright.ai/jobs/info/69e1a9c840a62c1fa93b9835?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Audience Optimization & Discovery Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf60e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Franchise Growth Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf610?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Audience Optimization & Discovery Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf60e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Communications, U.S. Climate Alliance](https://jobright.ai/jobs/info/69e1a679d612782e611499a1?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
 | **[Nord Anglia Education](https://www.nordangliaeducation.com)** | **[Assistant Director of Marketing, Admissions & Communications](https://jobright.ai/jobs/info/69e1a265d612782e611498f3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[The Bluebird Group](http://www.thebluebirdgrp.com)** | **[Retail Media Intern](https://jobright.ai/jobs/info/69e1a204ff71e82d604b7d3d?utm_campaign=1065&utm_source=git)** | Bentonville, AR | Hybrid | Apr 16 |
 | **[AECOM Tishman](http://www.aecomtishman.com)** | **[Marketing Intern- AECOM Tishman](https://jobright.ai/jobs/info/69e1a0bed612782e6114985f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/69e1c29dff71e82d604b8998?utm_campaign=1065&utm_source=git)** | Lehi, UT | Hybrid | Apr 16 |
 | **[Revvity](https://www.revvity.com/)** | **[Intern - Web and Marketing](https://jobright.ai/jobs/info/69e19acefd1c0456f3faef8a?utm_campaign=1065&utm_source=git)** | Waltham | On Site | Apr 16 |
 | **[Durham District School Board](https://www.ddsb.ca/)** | **[SUMMER STUDENT - IGNITE DURHAM LEARNING FOUNDATION (IDLF) JUNIOR MARKETING and COMMUNICATIONS ASSOCIATE](https://jobright.ai/jobs/info/69e197bbff71e82d604b7a0b?utm_campaign=1065&utm_source=git)** | Whitby, ON | On Site | Apr 16 |
 | **[Stantec](http://www.stantec.com)** | **[Public Relations Specialist (18-month contract)](https://jobright.ai/jobs/info/69e197b6d612782e61149549?utm_campaign=1065&utm_source=git)** | Toronto, ON | On Site | Apr 16 |
