@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a92b7279f3f4037f43ea51?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Decider Social Media Intern](https://jobright.ai/jobs/info/69e1ac6dacc736112f5c4c60?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[New York Post Social Media Intern](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Social Media Intern (Newsroom)](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Page Six Social Media Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542476?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[New York Post Social Media Intern](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Advertising Operations Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542472?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80d8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Page Six Social Media Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542476?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Audience Development Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80d6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80d8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Event Coordinator](https://jobright.ai/jobs/info/69e1cdbcfd1c0456f3fb01de?utm_campaign=1065&utm_source=git)** | Vancouver, BC | Hybrid | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Commerce Social Media Marketing & Distribution Intern](https://jobright.ai/jobs/info/69e1a9c840a62c1fa93b9835?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Audience Optimization & Discovery Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf60e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[The Mennel Milling Company](http://mennel.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69e1637fff71e82d604b6abf?utm_campaign=1065&utm_source=git)** | Fostoria, OH | On Site | Apr 16 |
 | **[The Classic Center](http://classiccenter.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69e13f6b6c20aa11495402a8?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | Apr 16 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/69e13f5cd612782e61147a76?utm_campaign=1065&utm_source=git)** | Providence, RI | On Site | Apr 16 |
-| **[SideChef](http://www.sidechef.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/69e13f5a40a62c1fa93b764c?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Rooftop Power](https://www.rooftoppowerco.com)** | **[Engagement & Social Media Intern](https://jobright.ai/jobs/info/69e13f4ad612782e61147a50?utm_campaign=1065&utm_source=git)** | Warwick, RI | On Site | Apr 16 |
 | **[GRO](https://www.readysetgro.io/)** | **[Social Media Manager Internship](https://jobright.ai/jobs/info/69e13f2aacc736112f5c2a5e?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Online Marketing - Social Media Assistant (NFWS)](https://jobright.ai/jobs/info/69e191e0d612782e61149310?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Remote | Apr 16 |
