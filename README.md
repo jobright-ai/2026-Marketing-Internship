@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Choctaw Casinos & Resorts](http://choctawcasinos.com/)** | **[Casino Senior Marketing Manager](https://jobright.ai/jobs/info/69e1ae9bd612782e61149dd4?utm_campaign=1065&utm_source=git)** | Durant, OK | On Site | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Decider Social Media Intern](https://jobright.ai/jobs/info/69e1ac6dacc736112f5c4c60?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[New York Post Social Media Intern](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Social Media Intern (Newsroom)](https://jobright.ai/jobs/info/69e1aaf96c20aa114954247a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Advertising Operations Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542472?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Page Six Social Media Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542476?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Advertising Operations Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542472?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Audience Development Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80d6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Commerce Editorial Intern](https://jobright.ai/jobs/info/69e1aaa6ff71e82d604b80d8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Commerce Social Media Marketing & Distribution Intern](https://jobright.ai/jobs/info/69e1a9c840a62c1fa93b9835?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Franchise Growth Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf610?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Audience Optimization & Discovery Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf60e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Franchise Growth Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf610?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Communications, U.S. Climate Alliance](https://jobright.ai/jobs/info/69e1a679d612782e611499a1?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
 | **[Nord Anglia Education](https://www.nordangliaeducation.com)** | **[Assistant Director of Marketing, Admissions & Communications](https://jobright.ai/jobs/info/69e1a265d612782e611498f3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[The Bluebird Group](http://www.thebluebirdgrp.com)** | **[Retail Media Intern](https://jobright.ai/jobs/info/69e1a204ff71e82d604b7d3d?utm_campaign=1065&utm_source=git)** | Bentonville, AR | Hybrid | Apr 16 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Watson Design Group, Inc.](https://watson.la)** | **[Community Management Intern](https://jobright.ai/jobs/info/69e192826c20aa1149541b50?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 16 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Marketing](https://jobright.ai/jobs/info/69e191f4d612782e61149344?utm_campaign=1065&utm_source=git)** | Petoskey, MI | On Site | Apr 16 |
 | **[Continental](https://www.continental.com)** | **[Intern - Marketing & Communications, Year-Round](https://jobright.ai/jobs/info/69e18d5cff71e82d604b7701?utm_campaign=1065&utm_source=git)** | Fort Mill, SC | Hybrid | Apr 16 |
+| **[Volunteer Success](http://volunteersuccess.com)** | **[Social Media Content Developer](https://jobright.ai/jobs/info/69e1b89140a62c1fa93b9cf1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 16 |
 | **[GZTV](www.gztvnetwork.com)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/69e18c5efd1c0456f3faec08?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 16 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69e189ee6c20aa11495419b0?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
 | **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[Communications Generalist Intern - Summer 2026](https://jobright.ai/jobs/info/699986c0ce78e77b4fde7309?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
@@ -88,9 +90,9 @@ For a complete list, click the following sortable link below:
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Quilly Social Media Podcast Intern (Unpaid)](https://jobright.ai/jobs/info/69e185de6c20aa114954187a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Exodus Capital](exoduscapitalcre.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e1836dff71e82d604b748d?utm_campaign=1065&utm_source=git)** | White Plains, NY | On Site | Apr 16 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69e1812f40a62c1fa93b8bea?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Apr 16 |
+| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Celebrity PR Internship Immediate Start](https://jobright.ai/jobs/info/69e1ae26acc736112f5c4dbf?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Apr 16 |
 | **[Princeton Plasma Physics Laboratory (PPPL)](http://www.pppl.gov/)** | **[Communications Intern](https://jobright.ai/jobs/info/69e1804f6c20aa1149541782?utm_campaign=1065&utm_source=git)** | Princeton, NJ | On Site | Apr 16 |
 | **[BD](https://www.bd.com)** | **[Market Research Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69e17ed7fd1c0456f3fae917?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 16 |
-| **[Pillar4 Media](https://pillarfour.com)** | **[Post Graduate Internship, Public Relations](https://jobright.ai/jobs/info/69e17da9ff71e82d604b7380?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 16 |
 | **[MathWorks](http://www.mathworks.com)** | **[University of Pittsburgh MATLAB Student Ambassador](https://jobright.ai/jobs/info/69e17a14fd1c0456f3fae7d2?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 16 |
 | **[BD](https://www.bd.com)** | **[Market Research Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69e179fdd612782e61148e28?utm_campaign=1065&utm_source=git)** | Covington, GA | On Site | Apr 16 |
 | **[Caldic North America](https://www.caldic.com/Our-locations/North-America)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e1970940a62c1fa93b9102?utm_campaign=1065&utm_source=git)** | Mississauga, ON | Hybrid | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Premium Engagements CS&D Northeast and Canada](https://jobright.ai/jobs/info/69c4d6aad5a1016e98dc336a?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | On Site | Apr 16 |
 | **[DSplus](https://dsplus.co/)** | **[Intern, Paid Social Media](https://jobright.ai/jobs/info/69c4d6b6d5a1016e98dc33a0?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 16 |
 | **[UC Health](http://uchealth.com/)** | **[Marketing Intern, Full Time, First Shift](https://jobright.ai/jobs/info/69e12fb040a62c1fa93b7085?utm_campaign=1065&utm_source=git)** | 3200 Burnet Ave, Cincinnati, OH, 45229, US | Hybrid | Apr 16 |
-| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e12f466c20aa114953fcaf?utm_campaign=1065&utm_source=git)** | Kirkland, WA | On Site | Apr 16 |
-| **[DoubleVerify](http://www.doubleverify.com)** | **[Summer Intern, Emerging Revenue](https://jobright.ai/jobs/info/69c41b9bd5a1016e98db2758?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
