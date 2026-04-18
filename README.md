@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Marketing](https://jobright.ai/jobs/info/69deb1a75913ad339813ee5f?utm_campaign=1065&utm_source=git)** | Englewood Cliffs,NJ,US | On Site | Apr 18 |
 | **[Warm Smiles Dental Centre](www.warmsmilesdental.ca)** | **[Sales & Marketing Internship / Summer Position (90% Remote)](https://jobright.ai/jobs/info/69e378630ddab31db6f96ead?utm_campaign=1065&utm_source=git)** | Westmount, Quebec, Canada | Hybrid | Apr 18 |
 | **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/69c71ae6e565c26a70025d42?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 18 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69df20d9e34484770f1a75ea?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Apr 18 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Special Events Intern - (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fc3e2ebd316bece1bb95?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
 | **[Staples](http://www.staples.com)** | **[Supply Chain Product Marketing Intern - June 2026](https://jobright.ai/jobs/info/69e14f10ff71e82d604b649e?utm_campaign=1065&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Apr 18 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Channel Marketing Intern - Luxury Locks](https://jobright.ai/jobs/info/698d083978b4502f12a37b29?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 18 |
 | **[Innovative Ag Services](https://www.innovativeag.com)** | **[2026 Summer Internship - Marketing & Communications](https://jobright.ai/jobs/info/69c71049aa3c2c1995e14f7c?utm_campaign=1065&utm_source=git)** | Hubbard, IA | On Site | Apr 18 |
@@ -135,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[D&H Distributing](https://www.dandh.com/)** | **[Marketing Intern - Creative Focus - Summer 2026](https://jobright.ai/jobs/info/69e295725c44d4710fe25ca1?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | Hybrid | Apr 17 |
 | **[Zola](http://www.zola.com)** | **[Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69e294a83ce36005badbebd8?utm_campaign=1065&utm_source=git)** | New York | Hybrid | Apr 17 |
 | ↳ | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69e294a32f286535930772e7?utm_campaign=1065&utm_source=git)** | New York | Hybrid | Apr 17 |
-| **[SentrIQ Labs](https://sentriq.io)** | **[Marketing & Content Creation Intern](https://jobright.ai/jobs/info/69e2c25cfcfcbd43860a4657?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Bold Futures Academy](http://www.boldfuturesacademy.org)** | **[Summer Intern — Communications & Social Media (Unpaid) / Bold Futures Academy](https://jobright.ai/jobs/info/69e2c4353ce36005badbf99a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Victoria Beckham Beauty](https://www.victoriabeckhambeauty.com)** | **[Social & Content Internship](https://jobright.ai/jobs/info/69e2bcedbe46fa3a4ef588fe?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 17 |
 | **[C & M Plumbing Inc.](http://www.cmplumbingseptic.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2b1d52f28653593077b6a?utm_campaign=1065&utm_source=git)** | Mount Olive, NC | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Market Access MBA Intern](https://jobright.ai/jobs/info/69e34e322f28653593079e40?utm_campaign=1065&utm_source=git)** | Palo Alto | On Site | Apr 17 |
 | **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[Digital Marketing - Intern](https://jobright.ai/jobs/info/69e34e322f28653593079e41?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Apr 17 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Marketing](https://jobright.ai/jobs/info/69e34e2bfcfcbd43860a6394?utm_campaign=1065&utm_source=git)** | Danville, PA | On Site | Apr 17 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, Digital Marketing](https://jobright.ai/jobs/info/69e2d69d2f2865359307872e?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Apr 17 |
-| **[Compass](http://www.compass.com)** | **[Real Estate Marketing & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2804c3ce36005badbe723?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
