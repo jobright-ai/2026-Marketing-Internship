@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warm Smiles Dental Centre](www.warmsmilesdental.ca)** | **[Sales & Marketing Internship / Summer Position (90% Remote)](https://jobright.ai/jobs/info/69e378630ddab31db6f96ead?utm_campaign=1065&utm_source=git)** | Westmount, Quebec, Canada | Hybrid | Apr 18 |
+| **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/69c71ae6e565c26a70025d42?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 18 |
+| **[Staples](http://www.staples.com)** | **[Supply Chain Product Marketing Intern - June 2026](https://jobright.ai/jobs/info/69e14f10ff71e82d604b649e?utm_campaign=1065&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Apr 18 |
+| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Channel Marketing Intern - Luxury Locks](https://jobright.ai/jobs/info/698d083978b4502f12a37b29?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 18 |
+| **[Innovative Ag Services](https://www.innovativeag.com)** | **[2026 Summer Internship - Marketing & Communications](https://jobright.ai/jobs/info/69c71049aa3c2c1995e14f7c?utm_campaign=1065&utm_source=git)** | Hubbard, IA | On Site | Apr 18 |
+| **[Legends Global](http://legends.net)** | **[Marketing & Events Coordination Intern](https://jobright.ai/jobs/info/6972ab059b83b424830eb304?utm_campaign=1065&utm_source=git)** | Bemidji, MN | On Site | Apr 18 |
+| **[Tenpoint Therapeutics, Ltd.](https://www.visustx.com/)** | **[Director, ECP Marketing](https://jobright.ai/jobs/info/69c7048c83ea553769fdfcda?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[MathWorks](http://www.mathworks.com)** | **[University of Pennsylvania MATLAB Student Ambassador](https://jobright.ai/jobs/info/69e1b44ffd1c0456f3faf87f?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 18 |
+| **[Edelman DXI](https://www.edelmandxi.com)** | **[AI Product Marketing Intern](https://jobright.ai/jobs/info/69c7deb783ea553769fe73aa?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 18 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Product Marketing - DES](https://jobright.ai/jobs/info/69b2703eae2a534885e9835c?utm_campaign=1065&utm_source=git)** | Shanghai, VA | Hybrid | Apr 18 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 ForbesLive Intern](https://jobright.ai/jobs/info/69c6b54be565c26a70021f68?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 18 |
 | **[Getinge](https://www.getinge.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c6e028aa3c2c1995e12e20?utm_campaign=1065&utm_source=git)** | Wayne, NJ | Remote | Apr 18 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Marketing](https://jobright.ai/jobs/info/69e34e2bfcfcbd43860a6394?utm_campaign=1065&utm_source=git)** | Danville, PA | On Site | Apr 17 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer Intern, Digital Marketing](https://jobright.ai/jobs/info/69e2d69d2f2865359307872e?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Apr 17 |
 | **[Compass](http://www.compass.com)** | **[Real Estate Marketing & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2804c3ce36005badbe723?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Apr 17 |
-| **[Cadent](http://www.cadent.tv)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69d87757738f2f099e89cbd3?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
-| **[Charter Steel](http://www.chartersteel.com/)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69c91618b773006330b83e0e?utm_campaign=1065&utm_source=git)** | Saukville, WI | Hybrid | Apr 17 |
-| **[Standard Motor Products](http://www.smpcorp.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c70a9caa3c2c1995e149b3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 17 |
-| **[Shimmick Corporation](http://www.shimmick.com)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e27d2d5c44d4710fe256bc?utm_campaign=1065&utm_source=git)** | US-CA-Irvine | On Site | Apr 17 |
-| ↳ | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e27d2d3ce36005badbe67d?utm_campaign=1065&utm_source=git)** | Irvine, CA, US | On Site | Apr 17 |
-| **[Evvolve Circle](https://evvolve.io/evvolve-circle)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/69e27ce8fcfcbd43860a32ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
-| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Category Management - Intern](https://jobright.ai/jobs/info/69c6b2ef83ea553769fdcad5?utm_campaign=1065&utm_source=git)** | Ridgefield, CT | On Site | Apr 17 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Publicity](https://jobright.ai/jobs/info/69a854ee1dfc787e9aa3558a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
