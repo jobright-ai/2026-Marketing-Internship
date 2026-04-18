@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Premium Marketing Analytics (Crypto.com Arena)](https://jobright.ai/jobs/info/69c6f38e1b5ad02887388b8d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 18 |
 | **[Siemens](https://www.siemens.com)** | **[Communications Internship- Mobility](https://jobright.ai/jobs/info/69e32f72fcfcbd43860a5321?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Apr 18 |
 | **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e32fd42f28653593078e6d?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 17 |
 | **[Physical AI Builders](http://50builders.ai)** | **[Marketing Intern - Physical AI Summit / Newsletter](https://jobright.ai/jobs/info/69e32fbe3ce36005badc089b?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BayCare Health System](https://baycare.org/bmg)** | **[College Intern- Marketing (Full Year)](https://jobright.ai/jobs/info/69e28e0cfcfcbd43860a36f2?utm_campaign=1065&utm_source=git)** | Clearwater, FL | Hybrid | Apr 17 |
 | **[CRWD](https://www.joincrwd.com)** | **[CRWD College Ambassador](https://jobright.ai/jobs/info/69e288432f28653593076fb1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Staples](http://www.staples.com)** | **[Merchandising Intern - June 2026](https://jobright.ai/jobs/info/69e264c3be46fa3a4ef57023?utm_campaign=1065&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Apr 17 |
-| **[Staples Canada](http://www.staples.ca)** | **[Merchandising Intern - June 2026](https://jobright.ai/jobs/info/69e33682fcfcbd43860a5e5d?utm_campaign=1065&utm_source=git)** | Framingham, MA, United States | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
