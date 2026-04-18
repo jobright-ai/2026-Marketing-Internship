@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Transnode AI, LLC](https://www.transnode.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e3dbc891e75b75f04f01ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
+| **[Samba TV](http://www.samba.tv)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c72abb1b5ad0288738acee?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
+| **[SanMar](http://www.sanmar.com)** | **[Marketing Intern, Project Management](https://jobright.ai/jobs/info/69c6fc03b773006330b74c99?utm_campaign=1065&utm_source=git)** | Issaquah, WA | Hybrid | Apr 18 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Workstations Market Research Intern - Summer 2026](https://jobright.ai/jobs/info/69ab1aaa7e1fab39d382a34d?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Apr 18 |
 | **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69bc4f114828227293fdf0a0?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
-| **[HumanityOS](https://www.humanityos.in/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e3bc461ec29c5920b96057?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c98a6d1818a24cd84dbe13?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Apr 18 |
 | **[Lionchase North America](https://www.lionchase.com/)** | **[Summer Internship – Portfolio Manager](https://jobright.ai/jobs/info/69e3a95191e75b75f04efe42?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[MINI Sales, Marketing & Product Intern (12 Months)](https://jobright.ai/jobs/info/69c6b560b773006330b72141?utm_campaign=1065&utm_source=git)** | Richmond Hill, ON | Hybrid | Apr 18 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2d6805c44d4710fe270aa?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | Apr 17 |
 | **[IBJ Media](https://www.ibjmedia.com/)** | **[Events & Marketing Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270fa?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 17 |
 | **[Metropolitan Adjustment Bureau](https://www.metroadjusters.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e2d787be46fa3a4ef590eb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b0fcfcbd43860a4469?utm_campaign=1065&utm_source=git)** | NY-New York, UNAVAILABLE, USA | Hybrid | Apr 17 |
-| ↳ | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b05c44d4710fe267ee?utm_campaign=1065&utm_source=git)** | USA-NY-New York | Hybrid | Apr 17 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b05c44d4710fe267ee?utm_campaign=1065&utm_source=git)** | USA-NY-New York | Hybrid | Apr 17 |
+| ↳ | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b0fcfcbd43860a4469?utm_campaign=1065&utm_source=git)** | NY-New York, UNAVAILABLE, USA | Hybrid | Apr 17 |
 | **[Understood.org](https://www.understood.org)** | **[Direct Response Fundraising Intern](https://jobright.ai/jobs/info/69e2b86b3770bd5361cd9bec?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Senior Lifestyle](http://www.seniorlifestyle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2b37dbe46fa3a4ef58546?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Senior Direct Marketing Designer](https://jobright.ai/jobs/info/69e2b365be46fa3a4ef584f1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69e294a32f286535930772e7?utm_campaign=1065&utm_source=git)** | New York | Hybrid | Apr 17 |
 | **[Bold Futures Academy](http://www.boldfuturesacademy.org)** | **[Summer Intern — Communications & Social Media (Unpaid) / Bold Futures Academy](https://jobright.ai/jobs/info/69e2c4353ce36005badbf99a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Victoria Beckham Beauty](https://www.victoriabeckhambeauty.com)** | **[Social & Content Internship](https://jobright.ai/jobs/info/69e2bcedbe46fa3a4ef588fe?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 17 |
-| **[C & M Plumbing Inc.](http://www.cmplumbingseptic.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2b1d52f28653593077b6a?utm_campaign=1065&utm_source=git)** | Mount Olive, NC | On Site | Apr 17 |
-| **[Succulents Box](https://succulentsbox.com/)** | **[1 x Marketing Intern](https://jobright.ai/jobs/info/69e28e66be46fa3a4ef57bce?utm_campaign=1065&utm_source=git)** | Looking Glass, IL | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
