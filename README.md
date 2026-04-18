@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HumanityOS](https://www.humanityos.in/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e3bc461ec29c5920b96057?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c98a6d1818a24cd84dbe13?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Apr 18 |
 | **[Lionchase North America](https://www.lionchase.com/)** | **[Summer Internship – Portfolio Manager](https://jobright.ai/jobs/info/69e3a95191e75b75f04efe42?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[MINI Sales, Marketing & Product Intern (12 Months)](https://jobright.ai/jobs/info/69c6b560b773006330b72141?utm_campaign=1065&utm_source=git)** | Richmond Hill, ON | Hybrid | Apr 18 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[The Shade Room](https://theshaderoom.com/)** | **[Summer 2026 Intern - Social Media](https://jobright.ai/jobs/info/69e2e1733ce36005badc0316?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Apr 17 |
 | ↳ | **[Summer 2026 Intern - Social, TSR Teens](https://jobright.ai/jobs/info/69e2e1723ce36005badc0307?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Apr 17 |
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[IT Intern - Marketing/Comms](https://jobright.ai/jobs/info/69e2e16fbe46fa3a4ef5951b?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Apr 17 |
-| **[Cocoon Mode De Vie](www.cocoonmdv.com)** | **[Digital Media and PR Intern Los Angeles and New York](https://jobright.ai/jobs/info/69e32f055c44d4710fe2788d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Recor Medical](http://recormedical.com)** | **[Market Access MBA Intern](https://jobright.ai/jobs/info/69e2dbd82f28653593078923?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | **[Watkins Wellness](https://www.watkinsmfg.com/)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69e2dbc4be46fa3a4ef593af?utm_campaign=1065&utm_source=git)** | Vista, CA | Hybrid | Apr 17 |
 | **[Risewell Homes](http://www.risewellhomes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2dbbd5c44d4710fe27366?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 17 |
@@ -123,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2d6805c44d4710fe270aa?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | Apr 17 |
 | **[IBJ Media](https://www.ibjmedia.com/)** | **[Events & Marketing Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270fa?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 17 |
 | **[Metropolitan Adjustment Bureau](https://www.metroadjusters.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e2d787be46fa3a4ef590eb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b05c44d4710fe267ee?utm_campaign=1065&utm_source=git)** | USA-NY-New York | Hybrid | Apr 17 |
-| ↳ | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b0fcfcbd43860a4469?utm_campaign=1065&utm_source=git)** | NY-New York, UNAVAILABLE, USA | Hybrid | Apr 17 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b0fcfcbd43860a4469?utm_campaign=1065&utm_source=git)** | NY-New York, UNAVAILABLE, USA | Hybrid | Apr 17 |
+| ↳ | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b05c44d4710fe267ee?utm_campaign=1065&utm_source=git)** | USA-NY-New York | Hybrid | Apr 17 |
 | **[Understood.org](https://www.understood.org)** | **[Direct Response Fundraising Intern](https://jobright.ai/jobs/info/69e2b86b3770bd5361cd9bec?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Senior Lifestyle](http://www.seniorlifestyle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2b37dbe46fa3a4ef58546?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Senior Direct Marketing Designer](https://jobright.ai/jobs/info/69e2b365be46fa3a4ef584f1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
