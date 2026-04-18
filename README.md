@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SPORTTHON](https://www.sportthon.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e3e860cfcea71ec9f8f95d?utm_campaign=1065&utm_source=git)** | Champaign, IL | On Site | Apr 18 |
+| **[Sapochetti Brands](sapbrands.shop)** | **[Brand Marketing Student Intern](https://jobright.ai/jobs/info/69e3e52e1ec29c5920b962e0?utm_campaign=1065&utm_source=git)** | Greater Boston | Hybrid | Apr 18 |
 | **[Transnode AI, LLC](https://www.transnode.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e3dbc891e75b75f04f01ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Samba TV](http://www.samba.tv)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c72abb1b5ad0288738acee?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
 | **[SanMar](http://www.sanmar.com)** | **[Marketing Intern, Project Management](https://jobright.ai/jobs/info/69c6fc03b773006330b74c99?utm_campaign=1065&utm_source=git)** | Issaquah, WA | Hybrid | Apr 18 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Workstations Market Research Intern - Summer 2026](https://jobright.ai/jobs/info/69ab1aaa7e1fab39d382a34d?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Apr 18 |
 | **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69bc4f114828227293fdf0a0?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c98a6d1818a24cd84dbe13?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Apr 18 |
-| **[Lionchase North America](https://www.lionchase.com/)** | **[Summer Internship – Portfolio Manager](https://jobright.ai/jobs/info/69e3a95191e75b75f04efe42?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[MINI Sales, Marketing & Product Intern (12 Months)](https://jobright.ai/jobs/info/69c6b560b773006330b72141?utm_campaign=1065&utm_source=git)** | Richmond Hill, ON | Hybrid | Apr 18 |
 | **[AFL](http://www.AFLglobal.com)** | **[AFL Marketing Internship- Summer 2026](https://jobright.ai/jobs/info/698d260a0f6f7e7a2ce8e97e?utm_campaign=1065&utm_source=git)** | Duncan, SC | On Site | Apr 18 |
 | **[Hammer & Nails Grooming Shop for Guys](https://hammerandnailsgrooming.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e398bf2664c278c1dd50ed?utm_campaign=1065&utm_source=git)** | United States | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zola](http://www.zola.com)** | **[Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69e294a83ce36005badbebd8?utm_campaign=1065&utm_source=git)** | New York | Hybrid | Apr 17 |
 | ↳ | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69e294a32f286535930772e7?utm_campaign=1065&utm_source=git)** | New York | Hybrid | Apr 17 |
 | **[Bold Futures Academy](http://www.boldfuturesacademy.org)** | **[Summer Intern — Communications & Social Media (Unpaid) / Bold Futures Academy](https://jobright.ai/jobs/info/69e2c4353ce36005badbf99a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
-| **[Victoria Beckham Beauty](https://www.victoriabeckhambeauty.com)** | **[Social & Content Internship](https://jobright.ai/jobs/info/69e2bcedbe46fa3a4ef588fe?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
