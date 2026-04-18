@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en)** | **[Workstations Market Research Intern - Summer 2026](https://jobright.ai/jobs/info/69ab1aaa7e1fab39d382a34d?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Apr 18 |
+| **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69bc4f114828227293fdf0a0?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
 | **[HumanityOS](https://www.humanityos.in/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e3bc461ec29c5920b96057?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c98a6d1818a24cd84dbe13?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Apr 18 |
 | **[Lionchase North America](https://www.lionchase.com/)** | **[Summer Internship – Portfolio Manager](https://jobright.ai/jobs/info/69e3a95191e75b75f04efe42?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[MINI Sales, Marketing & Product Intern (12 Months)](https://jobright.ai/jobs/info/69c6b560b773006330b72141?utm_campaign=1065&utm_source=git)** | Richmond Hill, ON | Hybrid | Apr 18 |
 | **[AFL](http://www.AFLglobal.com)** | **[AFL Marketing Internship- Summer 2026](https://jobright.ai/jobs/info/698d260a0f6f7e7a2ce8e97e?utm_campaign=1065&utm_source=git)** | Duncan, SC | On Site | Apr 18 |
 | **[Hammer & Nails Grooming Shop for Guys](https://hammerandnailsgrooming.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e398bf2664c278c1dd50ed?utm_campaign=1065&utm_source=git)** | United States | On Site | Apr 18 |
+| **[Mirion Technologies](https://www.mirion.com/about/mirion-technologies)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c72c111818a24cd84cc4e2?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing](https://jobright.ai/jobs/info/69d499f854f00230c6d32f2e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 18 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Channel Marketing Intern - Hardware](https://jobright.ai/jobs/info/698d072e78b4502f12a37915?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 18 |
 | **[Brainlabs](http://www.brainlabsdigital.com/)** | **[Manager, SEO Content](https://jobright.ai/jobs/info/69c71338aa3c2c1995e151ef?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Victoria Beckham Beauty](https://www.victoriabeckhambeauty.com)** | **[Social & Content Internship](https://jobright.ai/jobs/info/69e2bcedbe46fa3a4ef588fe?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 17 |
 | **[C & M Plumbing Inc.](http://www.cmplumbingseptic.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2b1d52f28653593077b6a?utm_campaign=1065&utm_source=git)** | Mount Olive, NC | On Site | Apr 17 |
 | **[Succulents Box](https://succulentsbox.com/)** | **[1 x Marketing Intern](https://jobright.ai/jobs/info/69e28e66be46fa3a4ef57bce?utm_campaign=1065&utm_source=git)** | Looking Glass, IL | On Site | Apr 17 |
-| **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Intern](https://jobright.ai/jobs/info/69e28e2c2f28653593077252?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
-| **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 Marketing Intern / Support Center (Remote)](https://jobright.ai/jobs/info/69ad0094142d5b4265fe263c?utm_campaign=1065&utm_source=git)** | Chevy Chase Village, MD | Remote | Apr 17 |
-| **[Durham District School Board](https://www.ddsb.ca/)** | **[SUMMER STUDENT - IGNITE DURHAM LEARNING FOUNDATION (IDLF) JUNIOR MARKETING and COMMUNICATIONS ASSOCIATE](https://jobright.ai/jobs/info/69e2b89dfcfcbd43860a4419?utm_campaign=1065&utm_source=git)** | Whitby, ON | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
