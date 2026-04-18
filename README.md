@@ -83,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2d6805c44d4710fe270aa?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | Apr 17 |
 | **[IBJ Media](https://www.ibjmedia.com/)** | **[Events & Marketing Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270fa?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 17 |
 | **[Metropolitan Adjustment Bureau](https://www.metroadjusters.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e2d787be46fa3a4ef590eb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b0fcfcbd43860a4469?utm_campaign=1065&utm_source=git)** | NY-New York, UNAVAILABLE, USA | Hybrid | Apr 17 |
-| ↳ | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b05c44d4710fe267ee?utm_campaign=1065&utm_source=git)** | USA-NY-New York | Hybrid | Apr 17 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b05c44d4710fe267ee?utm_campaign=1065&utm_source=git)** | USA-NY-New York | Hybrid | Apr 17 |
+| ↳ | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b0fcfcbd43860a4469?utm_campaign=1065&utm_source=git)** | NY-New York, UNAVAILABLE, USA | Hybrid | Apr 17 |
 | **[Understood.org](https://www.understood.org)** | **[Direct Response Fundraising Intern](https://jobright.ai/jobs/info/69e2b86b3770bd5361cd9bec?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Senior Lifestyle](http://www.seniorlifestyle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2b37dbe46fa3a4ef58546?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Senior Direct Marketing Designer](https://jobright.ai/jobs/info/69e2b365be46fa3a4ef584f1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
@@ -94,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[ITW](http://www.itw.com/)** | **[Strategic Market Analyst Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/69b1a59365de58104c70ab43?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Apr 17 |
 | **[Premier Early Childhood Education Partners](https://premierearlychildhood.com )** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e2aad42f2865359307777f?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 17 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[AI Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2d6a13770bd5361cda59a?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Apr 17 |
-| **[YTK Media](https://www.ytkmedia.com)** | **[Music Marketing - TikTok / Influncer Campaign Intern](https://jobright.ai/jobs/info/69e2cdc6fcfcbd43860a49e0?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Metaprise](https://www.metaprise.ai/)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/69e2a3fe3ce36005badbef62?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 17 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69e2bc642f28653593077eb8?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Apr 17 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Intern, US Ecommerce (NARS & Drunk Elephant)](https://jobright.ai/jobs/info/69e29d083ce36005badbee68?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Apr 17 |
@@ -135,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Cadent](http://www.cadent.tv)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69d87757738f2f099e89cbd3?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69c91618b773006330b83e0e?utm_campaign=1065&utm_source=git)** | Saukville, WI | Hybrid | Apr 17 |
 | **[Standard Motor Products](http://www.smpcorp.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c70a9caa3c2c1995e149b3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 17 |
-| **[Shimmick Corporation](http://www.shimmick.com)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e27d2d5c44d4710fe256bc?utm_campaign=1065&utm_source=git)** | US-CA-Irvine | On Site | Apr 17 |
-| ↳ | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e27d2d3ce36005badbe67d?utm_campaign=1065&utm_source=git)** | Irvine, CA, US | On Site | Apr 17 |
+| **[Shimmick Corporation](http://www.shimmick.com)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e27d2d3ce36005badbe67d?utm_campaign=1065&utm_source=git)** | Irvine, CA, US | On Site | Apr 17 |
+| ↳ | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e27d2d5c44d4710fe256bc?utm_campaign=1065&utm_source=git)** | US-CA-Irvine | On Site | Apr 17 |
 | **[Evvolve Circle](https://evvolve.io/evvolve-circle)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/69e27ce8fcfcbd43860a32ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Category Management - Intern](https://jobright.ai/jobs/info/69c6b2ef83ea553769fdcad5?utm_campaign=1065&utm_source=git)** | Ridgefield, CT | On Site | Apr 17 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Publicity](https://jobright.ai/jobs/info/69a854ee1dfc787e9aa3558a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BayCare Health System](https://baycare.org/bmg)** | **[College Intern- Marketing (Full Year)](https://jobright.ai/jobs/info/69e28e0cfcfcbd43860a36f2?utm_campaign=1065&utm_source=git)** | Clearwater, FL | Hybrid | Apr 17 |
 | **[CRWD](https://www.joincrwd.com)** | **[CRWD College Ambassador](https://jobright.ai/jobs/info/69e288432f28653593076fb1?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Staples](http://www.staples.com)** | **[Merchandising Intern - June 2026](https://jobright.ai/jobs/info/69e264c3be46fa3a4ef57023?utm_campaign=1065&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Apr 17 |
+| ↳ | **[Merchandising Intern - June 2026](https://jobright.ai/jobs/info/69e2647c5c44d4710fe24fbb?utm_campaign=1065&utm_source=git)** | Framingham, MA, United States | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
