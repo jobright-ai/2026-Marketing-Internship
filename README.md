@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69e4154a0ddab31db6f9791c?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
+| **[Reach3 Insights](https://www.reach3insights.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c7783d1b5ad0288738d089?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
 | **[Initium Health](https://initiumhealth.org)** | **[Paid Social Media & Community Engagement Intern](https://jobright.ai/jobs/info/69e41524cd85881c950601bc?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Apr 18 |
 | **[emtelligent](https://www.emtelligent.com)** | **[Summer Strategy Intern — Market Intelligence & Strategy Operations](https://jobright.ai/jobs/info/69e413980ddab31db6f9791b?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Imagine Ink Studio](www.imagineinkstudio.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/69e403442664c278c1dd58a5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 18 |
