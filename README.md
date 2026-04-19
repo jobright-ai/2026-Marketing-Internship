@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Events Intern - Raising Cane's River Center](https://jobright.ai/jobs/info/698e7e950f6f7e7a2cea99f6?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Apr 19 |
 | **[Compass](http://www.compass.com)** | **[Real Estate Marketing & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69e4582b9b6eb37e26f7a68a?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Apr 18 |
 | **[Inspire Greatness Within](https://igwinc.org)** | **[Digital Media Intern](https://jobright.ai/jobs/info/69e450fcf8fa2f3ec329bfab?utm_campaign=1065&utm_source=git)** | Frankfort, IL | Hybrid | Apr 18 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Sales and Marketing Summer Intern 2026](https://jobright.ai/jobs/info/69e473809b6eb37e26f7a718?utm_campaign=1065&utm_source=git)** | Skippack, PA | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waresport](https://www.waresport.com/)** | **[Marketing & Content Creation Intern](https://jobright.ai/jobs/info/69e2bfc6be46fa3a4ef589c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Trove Tourism Development Advisors](http://www.trovetourism.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e2cddf5c44d4710fe26ed5?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbb?utm_campaign=1065&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
-| **[Shimmick Corporation](http://www.shimmick.com)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e2c43dbe46fa3a4ef58ad3?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
