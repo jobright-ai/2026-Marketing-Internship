@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HumanityOS](https://www.humanityos.in/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e44e802664c278c1dd5a96?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[FollowUS](https://followusnyc.com)** | **[Brand & Business Intern](https://jobright.ai/jobs/info/69e43e9acfcea71ec9f8fc05?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
 | **[Electro](electrogum.com)** | **[TikTok Influencer Outreach Intern](https://jobright.ai/jobs/info/69e4383091e75b75f04f04b5?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | Remote | Apr 18 |
+| ↳ | **[Sports Marketing Intern](https://jobright.ai/jobs/info/69e44e17cfcea71ec9f8fd19?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Apr 18 |
+| ↳ | **[Affiliate Outreach Intern](https://jobright.ai/jobs/info/69e44e8f1ec29c5920b966a6?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Remote | Apr 18 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69e44c640ddab31db6f97abb?utm_campaign=1065&utm_source=git)** | Towson, MD | On Site | Apr 18 |
 | **[Reach3 Insights](https://www.reach3insights.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c7783d1b5ad0288738d089?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
 | **[Initium Health](https://initiumhealth.org)** | **[Paid Social Media & Community Engagement Intern](https://jobright.ai/jobs/info/69e41524cd85881c950601bc?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Apr 18 |
 | **[emtelligent](https://www.emtelligent.com)** | **[Summer Strategy Intern — Market Intelligence & Strategy Operations](https://jobright.ai/jobs/info/69e413980ddab31db6f9791b?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
@@ -132,10 +136,9 @@ For a complete list, click the following sortable link below:
 | **[Eightball AI](https://www.eightball.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e2bfd35c44d4710fe269ae?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Sales & Marketing Corporate Internship](https://jobright.ai/jobs/info/69e2bfbfbe46fa3a4ef58993?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 17 |
 | **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2d6805c44d4710fe270aa?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | Apr 17 |
-| **[IBJ Media](https://www.ibjmedia.com/)** | **[Events & Marketing Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270fa?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 17 |
 | **[Metropolitan Adjustment Bureau](https://www.metroadjusters.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e2d787be46fa3a4ef590eb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b0fcfcbd43860a4469?utm_campaign=1065&utm_source=git)** | NY-New York, UNAVAILABLE, USA | Hybrid | Apr 17 |
-| ↳ | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b05c44d4710fe267ee?utm_campaign=1065&utm_source=git)** | USA-NY-New York | Hybrid | Apr 17 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b05c44d4710fe267ee?utm_campaign=1065&utm_source=git)** | USA-NY-New York | Hybrid | Apr 17 |
+| ↳ | **[Marketing Strategy/Research and Insights Intern](https://jobright.ai/jobs/info/69e2b8b0fcfcbd43860a4469?utm_campaign=1065&utm_source=git)** | NY-New York, UNAVAILABLE, USA | Hybrid | Apr 17 |
 | **[Understood.org](https://www.understood.org)** | **[Direct Response Fundraising Intern](https://jobright.ai/jobs/info/69e2b86b3770bd5361cd9bec?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Senior Lifestyle](http://www.seniorlifestyle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2b37dbe46fa3a4ef58546?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Senior Direct Marketing Designer](https://jobright.ai/jobs/info/69e2b365be46fa3a4ef584f1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Open Influence](https://www.openinfluence.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbb?utm_campaign=1065&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e2c43dbe46fa3a4ef58ad3?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
 | **[Metaprise](https://www.metaprise.ai/)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/69e296253770bd5361cd9230?utm_campaign=1065&utm_source=git)** | New York | On Site | Apr 17 |
-| **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Intern](https://jobright.ai/jobs/info/69e295c82f28653593077418?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Apr 17 |
-| **[East-West](https://www.eastwest.org)** | **[Marketing Internship](https://jobright.ai/jobs/info/69e295be2f286535930773ed?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Apr 17 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Media Ops & Analytics Intern](https://jobright.ai/jobs/info/69e295a53770bd5361cd91db?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
