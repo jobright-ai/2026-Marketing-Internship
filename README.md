@@ -63,8 +63,7 @@ For a complete list, click the following sortable link below:
 | **[FollowUS](https://followusnyc.com)** | **[Brand & Business Intern](https://jobright.ai/jobs/info/69e43e9acfcea71ec9f8fc05?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
 | **[Electro](electrogum.com)** | **[TikTok Influencer Outreach Intern](https://jobright.ai/jobs/info/69e4383091e75b75f04f04b5?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | Remote | Apr 18 |
 | **[BillBoss](https://billboss.ai)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e457d37820c036924ca773?utm_campaign=1065&utm_source=git)** | Westwood, CA | On Site | Apr 18 |
-| **[Electro](electrogum.com)** | **[Sports Marketing Intern](https://jobright.ai/jobs/info/69e44e17cfcea71ec9f8fd19?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Apr 18 |
-| ↳ | **[Affiliate Outreach Intern](https://jobright.ai/jobs/info/69e44e8f1ec29c5920b966a6?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Remote | Apr 18 |
+| **[Electro](electrogum.com)** | **[Affiliate Outreach Intern](https://jobright.ai/jobs/info/69e44e8f1ec29c5920b966a6?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Remote | Apr 18 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69e44c640ddab31db6f97abb?utm_campaign=1065&utm_source=git)** | Towson, MD | On Site | Apr 18 |
 | **[Reach3 Insights](https://www.reach3insights.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69c7783d1b5ad0288738d089?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
 | **[Initium Health](https://initiumhealth.org)** | **[Paid Social Media & Community Engagement Intern](https://jobright.ai/jobs/info/69e41524cd85881c950601bc?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Apr 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Waresport](https://www.waresport.com/)** | **[Marketing & Content Creation Intern](https://jobright.ai/jobs/info/69e2bfc6be46fa3a4ef589c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Trove Tourism Development Advisors](http://www.trovetourism.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e2cddf5c44d4710fe26ed5?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbb?utm_campaign=1065&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
+| **[Shimmick Corporation](http://www.shimmick.com)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/69e2c43dbe46fa3a4ef58ad3?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
