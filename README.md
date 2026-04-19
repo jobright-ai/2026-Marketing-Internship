@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69e4154a0ddab31db6f9791c?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
+| **[Initium Health](https://initiumhealth.org)** | **[Paid Social Media & Community Engagement Intern](https://jobright.ai/jobs/info/69e41524cd85881c950601bc?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Apr 18 |
+| **[emtelligent](https://www.emtelligent.com)** | **[Summer Strategy Intern — Market Intelligence & Strategy Operations](https://jobright.ai/jobs/info/69e413980ddab31db6f9791b?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Imagine Ink Studio](www.imagineinkstudio.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/69e403442664c278c1dd58a5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 18 |
-| **[SPORTTHON](https://www.sportthon.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e3e860cfcea71ec9f8f95d?utm_campaign=1065&utm_source=git)** | Champaign, IL | On Site | Apr 18 |
 | **[Sapochetti Brands](sapbrands.shop)** | **[Brand Marketing Student Intern](https://jobright.ai/jobs/info/69e3e52e1ec29c5920b962e0?utm_campaign=1065&utm_source=git)** | Greater Boston | Hybrid | Apr 18 |
 | **[Middle Seat](https://middleseat.co/)** | **[Texting Intern (Summer 2026)](https://jobright.ai/jobs/info/69d594dd706f771673ba44a9?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 18 |
 | **[Samba TV](http://www.samba.tv)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c72abb1b5ad0288738acee?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Media Ops & Analytics Intern](https://jobright.ai/jobs/info/69e295a53770bd5361cd91db?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Bat City Promotions](https://batcitypromos.com/)** | **[Paid Internship/ Marketing and Sales Intern](https://jobright.ai/jobs/info/69e295973770bd5361cd9182?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 17 |
 | **[D&H Distributing](https://www.dandh.com/)** | **[Marketing Intern - Creative Focus - Summer 2026](https://jobright.ai/jobs/info/69e295725c44d4710fe25ca1?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | Hybrid | Apr 17 |
-| **[Zola](http://www.zola.com)** | **[Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69e294a83ce36005badbebd8?utm_campaign=1065&utm_source=git)** | New York | Hybrid | Apr 17 |
-| ↳ | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69e294a32f286535930772e7?utm_campaign=1065&utm_source=git)** | New York | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
