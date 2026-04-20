@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Apex Solutions](apex-x-solutions.com)** | **[Events marketing intern](https://jobright.ai/jobs/info/69e61fe69b6eb37e26f7e4ff?utm_campaign=1065&utm_source=git)** | Hartford, CT | On Site | Apr 20 |
+| **[Fortrea](https://www.fortrea.com)** | **[Intern - Communications](https://jobright.ai/jobs/info/69e61df73aa0c4796439224e?utm_campaign=1065&utm_source=git)** | Remote_United States | Hybrid | Apr 20 |
+| ↳ | **[Intern - Communications](https://jobright.ai/jobs/info/69e61d7f7820c036924ce6c2?utm_campaign=1065&utm_source=git)** | Durham NC | Hybrid | Apr 20 |
+| **[CMO Huddles](https://cmohuddles.com/)** | **[Graduate Marketing Intern](https://jobright.ai/jobs/info/69e619413aa0c47964392173?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 20 |
 | **[Your Experience Abroad](https://yourexperienceabroad.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69e60d347820c036924ce346?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Apr 20 |
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Outreach Intern (Remote)](https://jobright.ai/jobs/info/69e6064a3aa0c47964391b87?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 20 |
 | ↳ | **[Marketing Intern(Remote）](https://jobright.ai/jobs/info/69e603889b6eb37e26f7dd80?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | Remote | Apr 20 |
@@ -64,17 +68,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697840a388e2b47213bc4a3b?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 20 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Marketing & Communications Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f7059b6eb37e26f7dbb9?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
 | **[Tangerine](https://www.tangerine.ca/en/index.html)** | **[Velocity - Tangerine Marketing Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6bd7820c036924cddc2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcc8bde6a0d9792584d1c9?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 20 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3ed4828227293ff047c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 20 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 20 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697848b852f3c27ec6448b39?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 20 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Digital Intern](https://jobright.ai/jobs/info/69e611da3aa0c47964392079?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[Almo Corporation](http://www.almo.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69e5f03f3cfd986aa6f83205?utm_campaign=1065&utm_source=git)** | Philadelphia, PA - Philadelphia, PA 19154 | On Site | Apr 20 |
 | **[Develomark](https://develomark.com)** | **[Digital Marketing Internship (Paid)](https://jobright.ai/jobs/info/69e5eeca9b6eb37e26f7db26?utm_campaign=1065&utm_source=git)** | Southington, CT | Hybrid | Apr 20 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Marketing Manager](https://jobright.ai/jobs/info/69bc820e5b89c002acf240d9?utm_campaign=1065&utm_source=git)** | United States Remote | Remote | Apr 20 |
 | **[Bourns, Inc.](http://www.bourns.com/)** | **[Intern Industrial Marketing - JR](https://jobright.ai/jobs/info/69e611ca3cfd986aa6f8394c?utm_campaign=1065&utm_source=git)** | Carrollton, TX | On Site | Apr 20 |
-| **[Gen](https://www.gendigital.com)** | **[Partner Marketing Intern](https://jobright.ai/jobs/info/69e611b0f8fa2f3ec329fb0c?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Apr 20 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69e611897820c036924ce4a5?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Apr 20 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Digital Intern](https://jobright.ai/jobs/info/69e5c2f17820c036924cd541?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Apr 19 |
+| **[Gen](https://www.gendigital.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69e611897820c036924ce4a5?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Apr 20 |
+| ↳ | **[Partner Marketing Intern](https://jobright.ai/jobs/info/69e611b0f8fa2f3ec329fb0c?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Apr 20 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Digital Intern](https://jobright.ai/jobs/info/69e5c2f17820c036924cd540?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Apr 19 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting / Public Relations/Social Media (Intern)](https://jobright.ai/jobs/info/69e5eebe3aa0c479643918eb?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Apr 19 |
 | **[99 Yards](https://99yards.app)** | **[Community Engagement Intern (3-Month Program)](https://jobright.ai/jobs/info/69e5c7d47820c036924cd670?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Apr 19 |
 | **[Results for America](http://results4america.org)** | **[[2026 Summer Internships] WWC Strategy & Growth / Outreach Intern](https://jobright.ai/jobs/info/69ceb741cdb525785fb9a336?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Remote | Apr 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Proofpoint](http://www.proofpoint.com)** | **[Talent Marketing Intern](https://jobright.ai/jobs/info/69d5ba6fe63cea7a8b6632b8?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Apr 18 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Global Integrated Campaign Marketing](https://jobright.ai/jobs/info/6972b0c39b83b424830eb98e?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Premium Marketing Analytics (Crypto.com Arena)](https://jobright.ai/jobs/info/69c6f38e1b5ad02887388b8d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 18 |
-| **[TicketNetwork](http://www.ticketnetwork.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/69e4be1b3aa0c4796438fcfc?utm_campaign=1065&utm_source=git)** | South Windsor, CT 06074, USA | On Site | Apr 18 |
-| ↳ | **[Event Marketing Intern](https://jobright.ai/jobs/info/69e4c1f39b6eb37e26f7befb?utm_campaign=1065&utm_source=git)** | Charlotte, NC 28209, USA | On Site | Apr 18 |
-| ↳ | **[Event Marketing Intern](https://jobright.ai/jobs/info/69e4c2573cfd986aa6f81528?utm_campaign=1065&utm_source=git)** | Los Angeles, CA 90045, USA | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
