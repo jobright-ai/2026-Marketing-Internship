@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[R13](https://www.r13denim.com)** | **[Internship - Social Media & Content Creation](https://jobright.ai/jobs/info/69e591b23aa0c479643910f1?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Apr 19 |
+| **[Results for America](http://results4america.org)** | **[[2026 Summer Internships] WWC Strategy & Growth / Outreach Intern](https://jobright.ai/jobs/info/69ceb741cdb525785fb9a336?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Remote | Apr 19 |
+| **[Andrew Davis Clothiers](http://andrewdavisclothiers.com)** | **[Ecommerce Intern](https://jobright.ai/jobs/info/69e58c08e0cd471b2f122ac5?utm_campaign=1065&utm_source=git)** | Bloomington, IN | On Site | Apr 19 |
 | **[Digital Collegium](https://digicol.org/)** | **[2026 Annual Conference: Online Engagement Coordinator](https://jobright.ai/jobs/info/69e559c4f8fa2f3ec329eafe?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 19 |
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Intern, US Ecommerce (NARS & Drunk Elephant)](https://jobright.ai/jobs/info/69e5527de0cd471b2f122913?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[Bubble](https://hellobubble.com/)** | **[Social Media Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/69e53bb43aa0c47964390b94?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 19 |
@@ -72,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e4fd883cfd986aa6f82104?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 19 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e4fd873cfd986aa6f820f2?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 19 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699013660cc8ea15f1dabb1d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Apr 19 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e4fd627820c036924ccd33?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 19 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e4fd627820c036924ccd30?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 19 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e4fd627820c036924ccd30?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 19 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e4fd627820c036924ccd33?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 19 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69e4fd617820c036924ccd29?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 19 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e4fd4f3aa0c47964390941?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 19 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69e4fd4e3aa0c4796439092d?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Islamic Relief Canada](https://www.islamicreliefcanada.org/)** | **[Marketing Intern (Inspire) - Summer Internship](https://jobright.ai/jobs/info/69e34e8b3ce36005badc18e4?utm_campaign=1065&utm_source=git)** | Burlington, ON | Hybrid | Apr 17 |
 | **[Logitech](https://www.logitech.com)** | **[Global Communications Intern](https://jobright.ai/jobs/info/69e34e84fcfcbd43860a6536?utm_campaign=1065&utm_source=git)** | San Jose, California - USA | Hybrid | Apr 17 |
 | **[Maxima](https://maxima.ai)** | **[Brand and Social Marketer Intern](https://jobright.ai/jobs/info/69e2eb0c3ce36005badc03e0?utm_campaign=1065&utm_source=git)** | San Mateo | On Site | Apr 17 |
-| **[Insulet Corporation](https://www.insulet.com)** | **[Intern, Corporate Communications (June-Aug 26)](https://jobright.ai/jobs/info/69e2c6ff3ce36005badbfaac?utm_campaign=1065&utm_source=git)** | Acton, MA | On Site | Apr 17 |
-| **[Jefferson Health](http://JeffersonHealth.org)** | **[Digital Marketing - Intern](https://jobright.ai/jobs/info/69e2c6f55c44d4710fe26bbe?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Apr 17 |
-| **[Massanutten Resort](http://massresort.com)** | **[Mountain Sports Intern](https://jobright.ai/jobs/info/69e2c6bc3770bd5361cda07a?utm_campaign=1065&utm_source=git)** | McGaheysville, VA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
