@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Digital Intern](https://jobright.ai/jobs/info/69e5c2f17820c036924cd540?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Apr 19 |
+| **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Marketing Manager](https://jobright.ai/jobs/info/69bc820e5b89c002acf240d9?utm_campaign=1065&utm_source=git)** | United States Remote | Remote | Apr 20 |
+| **[Caddie](budgetcaddie.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69e5e3d29b6eb37e26f7d8bc?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 20 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Digital Intern](https://jobright.ai/jobs/info/69e5c2f1f8fa2f3ec329ed3d?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Apr 19 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Associate Publicist, Clarkson Potter & Ten Speed Press (Hybrid)](https://jobright.ai/jobs/info/69e5cf183aa0c47964391192?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Apr 19 |
 | **[99 Yards](https://99yards.app)** | **[Community Engagement Intern (3-Month Program)](https://jobright.ai/jobs/info/69e5c7d47820c036924cd670?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Apr 19 |
 | **[Results for America](http://results4america.org)** | **[[2026 Summer Internships] WWC Strategy & Growth / Outreach Intern](https://jobright.ai/jobs/info/69ceb741cdb525785fb9a336?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Remote | Apr 19 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69e4fdafe0cd471b2f122388?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 19 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e4fd8bf8fa2f3ec329e565?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69e4fd893cfd986aa6f8210e?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 19 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69e4fd883cfd986aa6f82105?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 19 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e4fd883cfd986aa6f82104?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 19 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69e4fd883cfd986aa6f82105?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 19 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e4fd873cfd986aa6f820f2?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 19 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Growth Marketing - MBA Intern](https://jobright.ai/jobs/info/699013660cc8ea15f1dabb1d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Apr 19 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e4fd627820c036924ccd30?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 19 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69e4fd617820c036924ccd29?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 19 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69e4fd4f3aa0c47964390941?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 19 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69e4fd4e3aa0c4796439092d?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 19 |
+| **[Flex](https://getflex.com)** | **[Head of Performance Marketing](https://jobright.ai/jobs/info/69a4f827359fe034b1cf8b68?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 19 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[PCG Internship Summer 2026](https://jobright.ai/jobs/info/69d3e7b5cdb525785fbc449e?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Flex](https://getflex.com)** | **[Head of Performance Marketing](https://jobright.ai/jobs/info/69a55e190da45516f16e0cda?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/69e4e723f8fa2f3ec329e31e?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/69d44e6b891d7b11cfcf932d?utm_campaign=1065&utm_source=git)** | Westminster, CO | On Site | Apr 17 |
 | **[Zola](http://www.zola.com)** | **[Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2d6c13ce36005badc00dc?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | ↳ | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2d6be3770bd5361cda655?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
-| **[Risewell Homes](http://www.risewellhomes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2cdfc5c44d4710fe26f38?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
-| **[Islamic Relief Canada](https://www.islamicreliefcanada.org/)** | **[Marketing Intern (Inspire) - Summer Internship](https://jobright.ai/jobs/info/69e34e8b3ce36005badc18e4?utm_campaign=1065&utm_source=git)** | Burlington, ON | Hybrid | Apr 17 |
-| **[Logitech](https://www.logitech.com)** | **[Global Communications Intern](https://jobright.ai/jobs/info/69e34e84fcfcbd43860a6536?utm_campaign=1065&utm_source=git)** | San Jose, California - USA | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
