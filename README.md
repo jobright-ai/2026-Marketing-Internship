@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LXN Creative](http://LXNPhotography.com/)** | **[Technical SEO Intern (Unpaid) / Mentorship, Career Coaching, Headshot Portrait Session, Written Referral/Reference Upon Successful Completion](https://jobright.ai/jobs/info/69e70d0b3cfd986aa6f8846a?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Apr 20 |
+| **[Complex NTWRK](https://www.complex.com)** | **[Social Editor Intern - College Credit](https://jobright.ai/jobs/info/69e70a939b6eb37e26f82c5c?utm_campaign=1065&utm_source=git)** | New York | On Site | Apr 20 |
 | **[Impact Rentals](https://www.RentImpact.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e6ff809b6eb37e26f82c1c?utm_campaign=1065&utm_source=git)** | Sugar Hill, GA | On Site | Apr 20 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Communications Student Intern](https://jobright.ai/jobs/info/69e6ff6de0cd471b2f1281d5?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
 | **[SanMar](http://www.sanmar.com)** | **[Marketing Intern, Integrated Marketing – Uniforming](https://jobright.ai/jobs/info/69debdd45913ad339813fb78?utm_campaign=1065&utm_source=git)** | Issaquah, WA | Hybrid | Apr 20 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Frymaster](https://www.frymaster.com)** | **[Marketing & Sales Intern (60445)](https://jobright.ai/jobs/info/69e6ec6be0cd471b2f127d7a?utm_campaign=1065&utm_source=git)** | Shreveport, LA | On Site | Apr 20 |
 | **[Verde Outdoors](www.verdeoutdoors.com)** | **[Summer Marketing & Brand Strategy intern](https://jobright.ai/jobs/info/69e6ec67f8fa2f3ec32a3fc4?utm_campaign=1065&utm_source=git)** | Roanoke, TX | On Site | Apr 20 |
 | **[AIAA](http://www.aiaa.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69d93cd1738f2f099e8a078e?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | Apr 20 |
-| **[Twenty4 PR](www.twenty4pr.com)** | **[Public Relations Summer Intern](https://jobright.ai/jobs/info/69e6de463cfd986aa6f87cd2?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 20 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Communications](https://jobright.ai/jobs/info/69e6ddc33aa0c479643962ee?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Hybrid | Apr 20 |
 | ↳ | **[Intern - Communications](https://jobright.ai/jobs/info/69e6ddbdf8fa2f3ec32a3da4?utm_campaign=1065&utm_source=git)** | Durham, NC | Hybrid | Apr 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Events and Social Media Intern (Year Round)](https://jobright.ai/jobs/info/69e6ddb4f8fa2f3ec32a3d79?utm_campaign=1065&utm_source=git)** | Wichita, KS | Hybrid | Apr 20 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Pull Public Relations](http://pull-pr.com)** | **[VIP/INFLUENCER INTERN](https://jobright.ai/jobs/info/69e6cf513cfd986aa6f879c9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 20 |
 | ↳ | **[Summer Event Intern](https://jobright.ai/jobs/info/69e6ceddf8fa2f3ec32a3aa2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 20 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6994890181476f6176ac4fb4?utm_campaign=1065&utm_source=git)** | Oconomowoc, WI | Hybrid | Apr 20 |
-| **[Himalayan Blends](https://www.himalayanblends.com/)** | **[Intern](https://jobright.ai/jobs/info/69e6c98ce0cd471b2f1277c3?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 20 |
 | **[Clap](https://www.clap.gg/)** | **[Brand Partnerships & Growth Intern Clap (Virtual Playgrounds, Inc.)](https://jobright.ai/jobs/info/69e6c98ce0cd471b2f1277c4?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Apr 20 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications Intern](https://jobright.ai/jobs/info/69e6f8ebf8fa2f3ec32a43b2?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 20 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69e6c745f8fa2f3ec32a39b7?utm_campaign=1065&utm_source=git)** | Westminster, CO | On Site | Apr 20 |
@@ -96,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/69e6b9163aa0c47964395bb0?utm_campaign=1065&utm_source=git)** | Grove City, PA | On Site | Apr 20 |
 | **[State Street](https://www.statestreet.com/)** | **[Marketing Internship - CRD - 6 months July-Dec](https://jobright.ai/jobs/info/69e6b8873cfd986aa6f87543?utm_campaign=1065&utm_source=git)** | Burlington Massachusetts | On Site | Apr 20 |
 | **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[Marketing/Administrative Intern](https://jobright.ai/jobs/info/69e6ddd09b6eb37e26f824c1?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Apr 20 |
-| ↳ | **[Marketing/Administrative Intern](https://jobright.ai/jobs/info/69c6fe8aaa3c2c1995e1417c?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Apr 20 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Miami Swim Week Kickoff Event Intern (Celebrity & Macro Influencer Experiential Gifting Event)](https://jobright.ai/jobs/info/69e6b3e79b6eb37e26f81cca?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 20 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Digital Properties and Innovation - Digital Media (Fall 2026)](https://jobright.ai/jobs/info/69e6b3d77820c036924d1f2b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 20 |
 | **[8090 Solutions](https://www.8090.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e6af9a9b6eb37e26f81bc0?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Apr 20 |
@@ -113,7 +112,8 @@ For a complete list, click the following sortable link below:
 | **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Marketing and Sales](https://jobright.ai/jobs/info/69e6aae27820c036924d1cdc?utm_campaign=1065&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Apr 20 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Communications Student Intern](https://jobright.ai/jobs/info/69e6a9519b6eb37e26f81988?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
 | **[Laughlin Constable](http://laughlin.com/)** | **[Copywriting Intern](https://jobright.ai/jobs/info/69e6a8a53cfd986aa6f8719a?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
-| **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69e6d5853aa0c4796439610b?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Remote | Apr 20 |
+| **[Reflection Games, Inc.](https://www.reflection.games)** | **[Social Media & Content Creator — Contract/Internship - HYBRID](https://jobright.ai/jobs/info/69e70f0bf8fa2f3ec32a4608?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Apr 20 |
+| **[PRA Business Events](https://pra.com/)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/69e70f277820c036924d2f7c?utm_campaign=1065&utm_source=git)** | Chicago, IL 60602, USA | Hybrid | Apr 20 |
 | **[World Vision Canada](https://www.worldvision.ca)** | **[Intern, Events & Experiences](https://jobright.ai/jobs/info/69e6a4d87820c036924d1abc?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 20 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Marketing Intern, Gourmet Dining / Long Island University - Brooklyn](https://jobright.ai/jobs/info/69e6a4b3f8fa2f3ec32a3148?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Apr 20 |
 | **[Madida Clothing](https://madidaclothing.com/)** | **[Social Media & Content Creator Intern](https://jobright.ai/jobs/info/69e6a4869b6eb37e26f81808?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Apr 20 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Thryv](https://www.thryv.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69c98f13b773006330b87b41?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 20 |
 | **[InterPro Pipe + Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern - Marketing Focused](https://jobright.ai/jobs/info/69e6ff719b6eb37e26f82beb?utm_campaign=1065&utm_source=git)** | Lakehead, CA | On Site | Apr 20 |
 | **[UC Health](http://uchealth.com/)** | **[Marketing Intern, Full Time, First Shift, Hybrid](https://jobright.ai/jobs/info/69e697d77820c036924d1558?utm_campaign=1065&utm_source=git)** | Ohio, United States | Hybrid | Apr 20 |
-| **[CLIA | Cruise Lines International Association](http://www.cruising.org)** | **[Intern - Strategic Communications](https://jobright.ai/jobs/info/69e697ce7820c036924d1528?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 20 |
-| ↳ | **[Intern - Strategic Communications](https://jobright.ai/jobs/info/69d94378869c7e25d8599e32?utm_campaign=1065&utm_source=git)** | Washington,DC,US | On Site | Apr 20 |
+| **[CLIA | Cruise Lines International Association](http://www.cruising.org)** | **[Intern - Strategic Communications](https://jobright.ai/jobs/info/69d94378869c7e25d8599e32?utm_campaign=1065&utm_source=git)** | Washington,DC,US | On Site | Apr 20 |
+| ↳ | **[Intern - Strategic Communications](https://jobright.ai/jobs/info/69e697ce7820c036924d1528?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 20 |
 | **[Espyre LLC](https://www.espyre.com)** | **[Marketing & Brand Operations Intern](https://jobright.ai/jobs/info/69e67406e0cd471b2f125c5f?utm_campaign=1065&utm_source=git)** | Oakdale, MN | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
