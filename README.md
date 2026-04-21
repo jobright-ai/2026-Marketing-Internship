@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[National Marketing Internship, Volo Kids Foundation](https://jobright.ai/jobs/info/69e72ae73aa0c47964398e50?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Apr 21 |
+| **[Make-A-Wish Canada](https://makeawish.ca)** | **[Mass Marketing Intern](https://jobright.ai/jobs/info/69e72ac6e0cd471b2f12a6ee?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 21 |
+| ↳ | **[Fundraising Intern - Community Partnerships](https://jobright.ai/jobs/info/69e72ac3e0cd471b2f12a6e2?utm_campaign=1065&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Apr 21 |
+| ↳ | **[Wish Family Engagement Intern](https://jobright.ai/jobs/info/69e72a8af8fa2f3ec32a68ff?utm_campaign=1065&utm_source=git)** | London, Ontario, Canada | Hybrid | Apr 21 |
 | **[YMCA of Central Texas](https://ymcactx.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/69e71c999b6eb37e26f8303b?utm_campaign=1065&utm_source=git)** | Round Rock, TX | On Site | Apr 20 |
 | **[Alibaba.com](https://www.alibaba.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/69e71c903aa0c47964396e0c?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Apr 20 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Employer Brand Content](https://jobright.ai/jobs/info/69e715fa3aa0c47964396d89?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 20 |
@@ -92,6 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69e6c745f8fa2f3ec32a39b7?utm_campaign=1065&utm_source=git)** | Westminster, CO | On Site | Apr 20 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Social Media Content Developer](https://jobright.ai/jobs/info/69e6ff62f8fa2f3ec32a4498?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 20 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Social Media & Brand Marketing Associate (Intern)](https://jobright.ai/jobs/info/69e6c0e99b6eb37e26f81f36?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Apr 20 |
+| **[Trilon Group](https://www.trilongroup.com/)** | **[TDM Outreach and Marketing Intern](https://jobright.ai/jobs/info/69e72ac2f8fa2f3ec32a6932?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Apr 20 |
+| **[OC Fair & Event Center](https://ocfair.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69e72ad4e0cd471b2f12a71a?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | Apr 20 |
 | **[The MRG Group](https://themrggroup.com)** | **[Content & Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69e6ddb47820c036924d2779?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69e2bc642f28653593077eb8?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Apr 20 |
 | **[PolicyWorks](https://www.policyworksiowa.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69e6baba7820c036924d2166?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | On Site | Apr 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Great Plains Welsh Heritage Centre | Canolfan Treftadaeth Gymreig y Gwastadeddau Mawr](https://greatplainswelsh.org/index.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e683089b6eb37e26f80bbf?utm_campaign=1065&utm_source=git)** | Wymore, NE | Remote | Apr 20 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Employer Brand Content](https://jobright.ai/jobs/info/69e682787820c036924d0efc?utm_campaign=1065&utm_source=git)** | California - San Francisco | On Site | Apr 20 |
 | **[BCD Meetings & Events](http://www.bcdme.com)** | **[Intern](https://jobright.ai/jobs/info/69e0395a5913ad33981488be?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 20 |
-| **[Social Swells](www.socialswells.com)** | **[Social Media Manager Summer Intern](https://jobright.ai/jobs/info/69e681e07820c036924d0ea0?utm_campaign=1065&utm_source=git)** | Red Bank, NJ | Hybrid | Apr 20 |
-| **[Riide Saskatoon](https://www.riide.ca/)** | **[Marketing Assistant](https://jobright.ai/jobs/info/69e681d4e0cd471b2f12627b?utm_campaign=1065&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Apr 20 |
-| **[Strategie](https://www.linkedin.com/company/76897759)** | **[Content Specialist Intern (Paid Internship, Intent to Hire)](https://jobright.ai/jobs/info/69e69e863aa0c47964395450?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
-| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Event Coordinator Assistant (Internship Eligible)](https://jobright.ai/jobs/info/69e67d4ff8fa2f3ec32a223e?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Apr 20 |
-| **[SEC Fantasy](https://secfantasy.com)** | **[Social Media, Marketing, and Software Engineering Intern (Separate Roles)](https://jobright.ai/jobs/info/69e67c573aa0c47964394625?utm_campaign=1065&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 20 |
-| **[Joubert Law Firm](https://www.joubertlawfirm.com)** | **[Non Paid Marketing Intern](https://jobright.ai/jobs/info/69e67c4a3aa0c479643945d0?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
