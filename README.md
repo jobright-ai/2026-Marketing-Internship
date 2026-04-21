@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e75143e8daec61499b4542?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 21 |
+| **[Sandisk](https://www.sandisk.com)** | **[Sandisk PRO Ambassador Team Intern](https://jobright.ai/jobs/info/69cad94ba8c1822476e20de8?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Apr 21 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Corporate & Brand Communications](https://jobright.ai/jobs/info/69d1d5a3366bb95ba5529a9d?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Apr 21 |
+| **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Technical Product Marketing Intern - i-0056](https://jobright.ai/jobs/info/69af107b7495006450937f22?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Apr 21 |
 | **[Evvolve Circle](https://evvolve.io/evvolve-circle)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/69e74f253aa0c4796439930f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e74ba71852e62f008241a6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
-| **[Sandisk](https://www.sandisk.com)** | **[Sandisk PRO Ambassador Team Intern](https://jobright.ai/jobs/info/69cad94ba8c1822476e20de8?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Apr 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3ed4828227293ff047c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 21 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3ed4828227293ff047c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 21 |
+| **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | Hybrid | Apr 21 |
 | **[Edelman](http://www.edelman.com)** | **[Creative Intern, Copywriting](https://jobright.ai/jobs/info/69cad211aa3c2c1995e30862?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 21 |
 | **[Archdiocese of Seattle CATHOLIC SCHOOLS](http://www.mycatholicschool.org)** | **[Marketing and Communications Coordinator - Archbishop Murphy High School, Everett](https://jobright.ai/jobs/info/69d5d571891d7b11cfd06004?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Apr 21 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Commercial Operations Communications](https://jobright.ai/jobs/info/69b327dea8ac8e70ff67659a?utm_campaign=1065&utm_source=git)** | Foster City | On Site | Apr 21 |
+| **[Minnetonka Public Schools](https://www.minnetonka.k12.mn.us)** | **[Community Education Marketing Intern](https://jobright.ai/jobs/info/69e75de83aa0c4796439963b?utm_campaign=1065&utm_source=git)** | Excelsior, MN | On Site | Apr 21 |
 | **[San Jose Earthquakes Soccer](http://sjearthquakes.com)** | **[Community Marketing Representative](https://jobright.ai/jobs/info/69e733a00a6e095553029c0e?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Apr 21 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/69e74f4d3aa0c479643993b1?utm_campaign=1065&utm_source=git)** | Durham, NC | Hybrid | Apr 21 |
 | **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[National Marketing Internship, Volo Kids Foundation](https://jobright.ai/jobs/info/69e72ae73aa0c47964398e50?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Apr 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[Marketing Dermatology Intern (9-month Contract)](https://jobright.ai/jobs/info/69e6f1e23aa0c4796439683d?utm_campaign=1065&utm_source=git)** | Montreal, Canada | Hybrid | Apr 20 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[PR & Communications Intern](https://jobright.ai/jobs/info/69e68ed5e0cd471b2f126722?utm_campaign=1065&utm_source=git)** | State College, PA | On Site | Apr 20 |
 | **[Capital Vacations](https://www.capitalvacations.com/)** | **[Vacation Marketing Internship](https://jobright.ai/jobs/info/69e6f11f3cfd986aa6f88130?utm_campaign=1065&utm_source=git)** | Mashpee, MA | On Site | Apr 20 |
-| **[Commonplace](https://trycommonplace.com/)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/69e6ab5be0cd471b2f127160?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Apr 20 |
-| **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e6b92e7820c036924d20eb?utm_campaign=1065&utm_source=git)** | Berea, OH | On Site | Apr 20 |
-| **[FIRST](https://firstagency.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69e68d2d3aa0c47964394d0c?utm_campaign=1065&utm_source=git)** | FIRST - New York | Hybrid | Apr 20 |
-| **[McGraw Hill](http://www.mheducation.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69e68c629b6eb37e26f80e70?utm_campaign=1065&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 20 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69e68c563aa0c47964394cb0?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
