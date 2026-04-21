@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Commercial Operations Communications](https://jobright.ai/jobs/info/69b327dea8ac8e70ff67659a?utm_campaign=1065&utm_source=git)** | Foster City | On Site | Apr 21 |
+| **[San Jose Earthquakes Soccer](http://sjearthquakes.com)** | **[Community Marketing Representative](https://jobright.ai/jobs/info/69e733a00a6e095553029c0e?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Apr 21 |
 | **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[National Marketing Internship, Volo Kids Foundation](https://jobright.ai/jobs/info/69e72ae73aa0c47964398e50?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Apr 21 |
 | **[Make-A-Wish Canada](https://makeawish.ca)** | **[Mass Marketing Intern](https://jobright.ai/jobs/info/69e72ac6e0cd471b2f12a6ee?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 21 |
 | ↳ | **[Fundraising Intern - Community Partnerships](https://jobright.ai/jobs/info/69e72ac3e0cd471b2f12a6e2?utm_campaign=1065&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Apr 21 |
@@ -124,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Communications Student Intern](https://jobright.ai/jobs/info/69e6a9519b6eb37e26f81988?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
 | **[Laughlin Constable](http://laughlin.com/)** | **[Copywriting Intern](https://jobright.ai/jobs/info/69e6a8a53cfd986aa6f8719a?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
 | **[Reflection Games, Inc.](https://www.reflection.games)** | **[Social Media & Content Creator — Contract/Internship - HYBRID](https://jobright.ai/jobs/info/69e70f0bf8fa2f3ec32a4608?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Apr 20 |
-| **[PRA Business Events](https://pra.com/)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/69e70f277820c036924d2f7c?utm_campaign=1065&utm_source=git)** | Chicago, IL 60602, USA | Hybrid | Apr 20 |
 | **[World Vision Canada](https://www.worldvision.ca)** | **[Intern, Events & Experiences](https://jobright.ai/jobs/info/69e6a4d87820c036924d1abc?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 20 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Marketing Intern, Gourmet Dining / Long Island University - Brooklyn](https://jobright.ai/jobs/info/69e6a4b3f8fa2f3ec32a3148?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Apr 20 |
 | **[Madida Clothing](https://madidaclothing.com/)** | **[Social Media & Content Creator Intern](https://jobright.ai/jobs/info/69e6a4869b6eb37e26f81808?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Apr 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[PR Intern](https://jobright.ai/jobs/info/69e683219b6eb37e26f80c51?utm_campaign=1065&utm_source=git)** | Division 4, Subdivision E, Newfoundland and Labrador, Canada | On Site | Apr 20 |
 | **[Great Plains Welsh Heritage Centre | Canolfan Treftadaeth Gymreig y Gwastadeddau Mawr](https://greatplainswelsh.org/index.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e683089b6eb37e26f80bbf?utm_campaign=1065&utm_source=git)** | Wymore, NE | Remote | Apr 20 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Employer Brand Content](https://jobright.ai/jobs/info/69e682787820c036924d0efc?utm_campaign=1065&utm_source=git)** | California - San Francisco | On Site | Apr 20 |
-| **[BCD Meetings & Events](http://www.bcdme.com)** | **[Intern](https://jobright.ai/jobs/info/69e0395a5913ad33981488be?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
