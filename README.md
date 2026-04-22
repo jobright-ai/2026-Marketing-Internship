@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U-Haul](http://www.uhaul.com/)** | **[Digital Marketing Summer Internship](https://jobright.ai/jobs/info/69e85afa4b0fa35a707663da?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, US | On Site | Apr 21 |
 | **[Four Lane Digital](www.fourlanedigital.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e849847820c036924dbaa3?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing / Sales](https://jobright.ai/jobs/info/69e848f758811370cb12219a?utm_campaign=1065&utm_source=git)** | Rohnert Park, CA | On Site | Apr 21 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69e848ce7820c036924dba0c?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Apr 21 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[emtelligent](https://www.emtelligent.com)** | **[Summer Internship - Market Intelligence & Strategy Operations](https://jobright.ai/jobs/info/69e846767820c036924dae83?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Graduate](https://jobright.ai/jobs/info/69e828e23aa0c4796439e2f4?utm_campaign=1065&utm_source=git)** | Lakewood, CO | On Site | Apr 21 |
 | **[SDG Traineeship](https://therockgroup.biz/nl/project/sdg-traineeship-het-allereerste-ter-wereld/)** | **[Global Marketing and Communications Intern Amsterdam](https://jobright.ai/jobs/info/69e84fc54b0fa35a7076234f?utm_campaign=1065&utm_source=git)** | Van Buren, IN | On Site | Apr 21 |
-| ↳ | **[Global Marketing and Communications Intern Amsterdam](https://jobright.ai/jobs/info/69d64fed48f0c8161d2f74ad?utm_campaign=1065&utm_source=git)** | State Line City, IN | On Site | Apr 21 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Board Engagement Intern](https://jobright.ai/jobs/info/69e827a958811370cb120d93?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 21 |
 | **[Gemini Legal](https://gemini.legal/)** | **[Web Marketing Intern](https://jobright.ai/jobs/info/69e827a7e0cd471b2f12fcaa?utm_campaign=1065&utm_source=git)** | Rocklin, CA | On Site | Apr 21 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern - Website Marketing](https://jobright.ai/jobs/info/69e82757e0cd471b2f12fbfb?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Apr 21 |
