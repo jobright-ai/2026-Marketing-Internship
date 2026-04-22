@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Make-A-Wish Canada](https://makeawish.ca)** | **[Fundraising Intern, Events](https://jobright.ai/jobs/info/69e8850ce0cd471b2f135783?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 22 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69e883d93aa0c479643a3558?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 22 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Brand – Marketing / Collaborations & Partnerships](https://jobright.ai/jobs/info/69e879b90a6e0955530339db?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Apr 21 |
 | **[Cobalt Fashion](https://www.cobaltknitwear.com/)** | **[Market Intelligence & AI Strategy Intern](https://jobright.ai/jobs/info/69e86c1ce0cd471b2f135404?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 21 |
 | **[BD](https://www.bd.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69e86bbc0a6e09555303377f?utm_campaign=1065&utm_source=git)** | Covington, GA | Hybrid | Apr 21 |
 | **[WEST BBDO](WestBBDO.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e865193aa0c479643a302b?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Apr 21 |
 | **[BD](https://www.bd.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69e6d9193aa0c4796439622a?utm_campaign=1065&utm_source=git)** | USA GA - Covington BMD | Hybrid | Apr 21 |
+| **[Coppermine](https://www.gocoppermine.com/)** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/69e8851de0cd471b2f13579f?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 21 |
 | **[U-Haul](http://www.uhaul.com/)** | **[Digital Marketing Summer Internship](https://jobright.ai/jobs/info/69e85afa4b0fa35a707663da?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, US | On Site | Apr 21 |
+| **[eTalk](https://etalkschool.com/)** | **[Join eTalk.ai as an AI-Driven Marketing & Outreach Specialist! (Internship to Hire)](https://jobright.ai/jobs/info/69e883cf7820c036924e0348?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Apr 21 |
 | **[Four Lane Digital](www.fourlanedigital.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e849847820c036924dbaa3?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing / Sales](https://jobright.ai/jobs/info/69e848f758811370cb12219a?utm_campaign=1065&utm_source=git)** | Rohnert Park, CA | On Site | Apr 21 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69e848ce7820c036924dba0c?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Apr 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Let's Be Friends](https://letsbefriends.pro/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10d?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 21 |
 | **[Lakeside Book Company](https://www.lakesidebookcompany.com/)** | **[Dover Publishing Internship 2026](https://jobright.ai/jobs/info/69e7e22058811370cb11f05a?utm_campaign=1065&utm_source=git)** | Garden City, NY | Remote | Apr 21 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e1f50a6e09555302cb02?utm_campaign=1065&utm_source=git)** | The Hamptons, NY | On Site | Apr 21 |
-| **[Center for News, Technology & Innovation - CNTI](https://cnti.org/)** | **[Communications and Content Intern](https://jobright.ai/jobs/info/69e7fe88f8fa2f3ec32aadbb?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Apr 21 |
-| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69e80b6b0a6e09555302df45?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Apr 21 |
-| **[Discovery Land Company](http://discoverylandco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e193f8fa2f3ec32aa064?utm_campaign=1065&utm_source=git)** | Amenia, NY | On Site | Apr 21 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e157e0cd471b2f12de3f?utm_campaign=1065&utm_source=git)** | Westhampton Beach, NY | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
