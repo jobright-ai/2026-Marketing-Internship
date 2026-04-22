@@ -101,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Wave](https://bluewaveevents.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e7fdf2e0cd471b2f12eb6f?utm_campaign=1065&utm_source=git)** | Montgomery, AL | On Site | Apr 21 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Product Team - Project Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69e7fdee0a6e09555302d83c?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Apr 21 |
 | **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Mobile Services Unit Intern](https://jobright.ai/jobs/info/69e7fdba0a6e09555302d752?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 21 |
-| **[Pacagen](https://pacagen.com)** | **[Growth Intern](https://jobright.ai/jobs/info/69e825893aa0c4796439e124?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 21 |
 | **[Typeface](https://www.typeface.ai)** | **[Marketing Programs Intern](https://jobright.ai/jobs/info/69c59a0fe565c26a70012839?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 21 |
 | **[The Bluebird Group](http://www.thebluebirdgrp.com)** | **[Written Content Intern](https://jobright.ai/jobs/info/69e7f9ad58811370cb11f9eb?utm_campaign=1065&utm_source=git)** | Bentonville, AR | Hybrid | Apr 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Americas LoB Field Marketing](https://jobright.ai/jobs/info/69e7f9a058811370cb11f9b7?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Foothill Credit Union](https://www.foothillcu.org)** | **[Marketing Internship](https://jobright.ai/jobs/info/69e7f756e0cd471b2f12e917?utm_campaign=1065&utm_source=git)** | Arcadia, CA | On Site | Apr 21 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverPro - Growth and Markets Internship (Remote, US)](https://jobright.ai/jobs/info/69e7d3700a6e09555302c6f6?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Apr 21 |
 | **[Wölffer Estate Vineyard](https://www.wolffer.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e7d36d58811370cb11eaac?utm_campaign=1065&utm_source=git)** | Sagaponack, NY | On Site | Apr 21 |
+| **[Matthews™](https://www.matthews.com/)** | **[Marketing Intern (PHX)](https://jobright.ai/jobs/info/69c34c217a7a0045db88e951?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
