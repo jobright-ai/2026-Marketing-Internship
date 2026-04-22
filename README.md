@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[Kelly Tutors](www.kellytutors.com)** | **[Global Outreach and Partnership Marketing Internship (Flexible, 2-5 hours/week)](https://jobright.ai/jobs/info/69e8272e58811370cb120cac?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Apr 21 |
 | **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Undergraduate](https://jobright.ai/jobs/info/69e827273aa0c4796439e2b8?utm_campaign=1065&utm_source=git)** | Lakewood, CO | On Site | Apr 21 |
 | **[Gemini Legal](https://gemini.legal/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e826d50a6e09555302e9c7?utm_campaign=1065&utm_source=git)** | Rocklin, CA | On Site | Apr 21 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[PR Celebrity Internship](https://jobright.ai/jobs/info/69e826c83aa0c4796439e214?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Apr 21 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, e-Business](https://jobright.ai/jobs/info/698a40490f6f7e7a2ce5519c?utm_campaign=1065&utm_source=git)** | Melville, NY | On Site | Apr 21 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Social Media Marketing Associate (Intern)](https://jobright.ai/jobs/info/69e826780a6e09555302e881?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Remote | Apr 21 |
 | **[Todd](https://toddagriscience.com)** | **[Marketing Intern, Social Media (Summer 26)](https://jobright.ai/jobs/info/69e8251ee0cd471b2f12fb43?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Apr 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverPro - Growth and Markets Internship (Remote, US)](https://jobright.ai/jobs/info/69e7d3700a6e09555302c6f6?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Apr 21 |
 | **[Wölffer Estate Vineyard](https://www.wolffer.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e7d36d58811370cb11eaac?utm_campaign=1065&utm_source=git)** | Sagaponack, NY | On Site | Apr 21 |
 | **[Matthews™](https://www.matthews.com/)** | **[Marketing Intern (PHX)](https://jobright.ai/jobs/info/69c34c217a7a0045db88e951?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Apr 21 |
+| **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 Marketing Intern / Support Center (Remote)](https://jobright.ai/jobs/info/69ad0094142d5b4265fe263c?utm_campaign=1065&utm_source=git)** | Chevy Chase Village, MD | Remote | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
