@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[StudyFetch](https://www.studyfetch.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69e892800a6e095553033fe1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 22 |
+| **[Elevations Credit Union](http://elevationscu.com)** | **[Member Expansion Intern](https://jobright.ai/jobs/info/69cca25d891d7b11cfcb1627?utm_campaign=1065&utm_source=git)** | Broomfield, CO | On Site | Apr 22 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Customer Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/69cc80dbcfdc6132f940d9ec?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 22 |
+| **[OpenX](https://www.openx.com/)** | **[Intern - Product Marketing](https://jobright.ai/jobs/info/69c59a5083ea553769fcd1e9?utm_campaign=1065&utm_source=git)** | US - Remote | Remote | Apr 22 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Amazon, Naturium](https://jobright.ai/jobs/info/69783e2339f7f96cc6d08bb8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 22 |
 | **[Veeam Software](http://www.veeam.com)** | **[Launch Strategy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc8b68cdb525785fb7eb28?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Apr 22 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e8a0197820c036924e1419?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 22 |
+| **[OpenX](https://www.openx.com/)** | **[Publisher Development Intern](https://jobright.ai/jobs/info/69bb7b37569738374141822a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Apr 22 |
+| **[MathWorks](http://www.mathworks.com)** | **[University of Missouri, Columbia MATLAB Student Ambassador](https://jobright.ai/jobs/info/69219b05d1ec2c3565c45420?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Apr 22 |
+| **[AMETEK](http://www.ametek.com)** | **[AI-Enabled Marketing Video Production Intern](https://jobright.ai/jobs/info/69cc4753cdb525785fb7a977?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 22 |
+| **[StudyFetch](https://www.studyfetch.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69e892800a6e095553033fe1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 22 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Marketing and Communications Specialist](https://jobright.ai/jobs/info/69e88c184b0fa35a70766c0d?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 22 |
 | **[Make-A-Wish Canada](https://makeawish.ca)** | **[Fundraising Intern, Events](https://jobright.ai/jobs/info/69e8850ce0cd471b2f135783?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 22 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69e883d93aa0c479643a3558?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 22 |
+| **[Viggle](https://viggle.ai/home)** | **[Growth & Community Intern](https://jobright.ai/jobs/info/69e7e287e0cd471b2f12e051?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Apr 22 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Brand – Marketing / Collaborations & Partnerships](https://jobright.ai/jobs/info/69e879b90a6e0955530339db?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Apr 21 |
 | **[Cobalt Fashion](https://www.cobaltknitwear.com/)** | **[Market Intelligence & AI Strategy Intern](https://jobright.ai/jobs/info/69e86c1ce0cd471b2f135404?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 21 |
@@ -76,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69e848ce7820c036924dba0c?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Apr 21 |
 | **[Coty](https://www.coty.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e848be58811370cb122053?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 21 |
 | **[Just Breathe by Imari Free](www.jstbreathe316.com)** | **[Event & Brand Partnerships Intern (Permanent Jewelry)](https://jobright.ai/jobs/info/69e848b83aa0c4796439eb56?utm_campaign=1065&utm_source=git)** | St Louis, MO | Remote | Apr 21 |
+| **[SiteZeus](http://sitezeus.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e8b1094b0fa35a70767cd1?utm_campaign=1065&utm_source=git)** | Tampa, Florida, United States | Hybrid | Apr 21 |
 | **[emtelligent](https://www.emtelligent.com)** | **[Summer Strategy Intern — Growth Marketing & GTM Execution](https://jobright.ai/jobs/info/69e846c73aa0c4796439e9f7?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Getinge](https://www.getinge.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e84f5458811370cb122312?utm_campaign=1065&utm_source=git)** | Fraser, MI | Hybrid | Apr 21 |
 | **[emtelligent](https://www.emtelligent.com)** | **[Summer Internship - Market Intelligence & Strategy Operations](https://jobright.ai/jobs/info/69e846767820c036924dae83?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 21 |
@@ -123,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Understood.org](https://www.understood.org)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/69e805000a6e09555302d957?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[1Finity](https://www.1finity.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e804efe0cd471b2f12ecbe?utm_campaign=1065&utm_source=git)** | Richardson, TX | Hybrid | Apr 21 |
 | **[Credo](http://www.credosemi.com)** | **[Content and Public Relations Intern](https://jobright.ai/jobs/info/6999264dce78e77b4fddd5ec?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Apr 21 |
+| **[STCU](https://stcu.org/)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/69e8b3887820c036924e2291?utm_campaign=1065&utm_source=git)** | 1620 N Signal Dr, Liberty Lake, WA 99019, USA | On Site | Apr 21 |
 | **[Li & Fung](http://www.lifung.com)** | **[Market Intelligence & AI Strategy Intern](https://jobright.ai/jobs/info/69e7ffe67820c036924d982b?utm_campaign=1065&utm_source=git)** | New York | On Site | Apr 21 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[DIGITAL MARKETING INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69e7fe89f8fa2f3ec32aadc5?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 21 |
 | **[Cross Street](https://yourcrossstreet.com)** | **[Market Analyst Intern](https://jobright.ai/jobs/info/69e7fe5e7820c036924d9758?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zimmer Biomet](https://www.zimmerbiomet.com/en)** | **[2026 Summer Intern, Marketing](https://jobright.ai/jobs/info/69e7efbef8fa2f3ec32aa8b1?utm_campaign=1065&utm_source=git)** | Warsaw, IN | On Site | Apr 21 |
 | **[iDox.ai](https://www.idox.ai/company)** | **[Creator Marketing Intern / Brand Ambassador](https://jobright.ai/jobs/info/69e7ea3a7820c036924d8fc8?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Level Up USA](http://leveluppromotionsinc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e7ea3658811370cb11f393?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Apr 21 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing/Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/69e7e8583aa0c4796439c8fd?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Apr 21 |
-| **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/69e7e8483aa0c4796439c8d0?utm_campaign=1065&utm_source=git)** | Tucson, AZ | On Site | Apr 21 |
-| **[Hagerty](http://www.hagerty.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/69e7e8400a6e09555302cf60?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 21 |
-| **[Concept Surfaces](https://conceptsurfaces.com/)** | **[Marketing Associate - Summer Intern](https://jobright.ai/jobs/info/69e7e541f8fa2f3ec32aa3e1?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 21 |
-| **[WSP](https://www.wsp.com/en-om/services/mine-infrastructure)** | **[Marketing/Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/69e7e523e0cd471b2f12e1df?utm_campaign=1065&utm_source=git)** | 9655 Katy Freeway, Houston, TX, 77024, US | On Site | Apr 21 |
-| **[Cross Street](https://yourcrossstreet.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e4f83aa0c4796439c7eb?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Customer Communications Intern](https://jobright.ai/jobs/info/69e7e3393aa0c4796439c69e?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 21 |
-| ↳ | **[Customer Growth Program Intern](https://jobright.ai/jobs/info/69e7e32ce0cd471b2f12e092?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 21 |
-| **[Arch Events](http://arch-events.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e2653aa0c4796439c614?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Apr 21 |
-| **[NMDP](https://www.nmdp.org)** | **[Community Fundraising & Events Intern, Summer 2026](https://jobright.ai/jobs/info/69e7e23ef8fa2f3ec32aa18a?utm_campaign=1065&utm_source=git)** | 500 N 5th Street, Minneapolis, MN, 55401, US | Hybrid | Apr 21 |
-| **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/69e7e2333aa0c4796439c5aa?utm_campaign=1065&utm_source=git)** | TUC1 251 S. Williams Blvd., Tucson, AZ, 85711, US | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
