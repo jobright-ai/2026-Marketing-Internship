@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Brand – Marketing / Collaborations & Partnerships](https://jobright.ai/jobs/info/69e879b90a6e0955530339db?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 22 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Apr 21 |
 | **[Cobalt Fashion](https://www.cobaltknitwear.com/)** | **[Market Intelligence & AI Strategy Intern](https://jobright.ai/jobs/info/69e86c1ce0cd471b2f135404?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 21 |
 | **[BD](https://www.bd.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69e86bbc0a6e09555303377f?utm_campaign=1065&utm_source=git)** | Covington, GA | Hybrid | Apr 21 |
 | **[WEST BBDO](WestBBDO.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e865193aa0c479643a302b?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Apr 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69e80b6b0a6e09555302df45?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Apr 21 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e193f8fa2f3ec32aa064?utm_campaign=1065&utm_source=git)** | Amenia, NY | On Site | Apr 21 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e157e0cd471b2f12de3f?utm_campaign=1065&utm_source=git)** | Westhampton Beach, NY | On Site | Apr 21 |
-| **[Islamic Relief Canada](https://www.islamicreliefcanada.org/)** | **[Fundraising Intern - Summer Internship](https://jobright.ai/jobs/info/69e7e14be0cd471b2f12de2a?utm_campaign=1065&utm_source=git)** | Burlington, ON | Hybrid | Apr 21 |
-| **[Chicago Sky WNBA](http://chicagosky.net)** | **[Chicago Sky Foundation Community Engagement Intern](https://jobright.ai/jobs/info/69e8488c3aa0c4796439ea6c?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
