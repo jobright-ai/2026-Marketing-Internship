@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StudyFetch](https://www.studyfetch.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69e892800a6e095553033fe1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 22 |
+| **[Veeam Software](http://www.veeam.com)** | **[Launch Strategy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69cc8b68cdb525785fb7eb28?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Apr 22 |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Marketing and Communications Specialist](https://jobright.ai/jobs/info/69e88c184b0fa35a70766c0d?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 22 |
 | **[Make-A-Wish Canada](https://makeawish.ca)** | **[Fundraising Intern, Events](https://jobright.ai/jobs/info/69e8850ce0cd471b2f135783?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 22 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69e883d93aa0c479643a3558?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 22 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Brand – Marketing / Collaborations & Partnerships](https://jobright.ai/jobs/info/69e879b90a6e0955530339db?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arch Events](http://arch-events.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e2653aa0c4796439c614?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Apr 21 |
 | **[NMDP](https://www.nmdp.org)** | **[Community Fundraising & Events Intern, Summer 2026](https://jobright.ai/jobs/info/69e7e23ef8fa2f3ec32aa18a?utm_campaign=1065&utm_source=git)** | 500 N 5th Street, Minneapolis, MN, 55401, US | Hybrid | Apr 21 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/69e7e2333aa0c4796439c5aa?utm_campaign=1065&utm_source=git)** | TUC1 251 S. Williams Blvd., Tucson, AZ, 85711, US | On Site | Apr 21 |
-| **[Let's Be Friends](https://letsbefriends.pro/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10d?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Apr 21 |
-| **[Lakeside Book Company](https://www.lakesidebookcompany.com/)** | **[Dover Publishing Internship 2026](https://jobright.ai/jobs/info/69e7e22058811370cb11f05a?utm_campaign=1065&utm_source=git)** | Garden City, NY | Remote | Apr 21 |
-| **[Discovery Land Company](http://discoverylandco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e1f50a6e09555302cb02?utm_campaign=1065&utm_source=git)** | The Hamptons, NY | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
