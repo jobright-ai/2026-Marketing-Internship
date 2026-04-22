@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Islamic Relief Canada](https://www.islamicreliefcanada.org/)** | **[Fundraising Intern - Summer Internship](https://jobright.ai/jobs/info/69e81a22e0cd471b2f12f8bc?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | Hybrid | Apr 21 |
+| **[amika](https://loveamika.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69e819a23aa0c4796439df21?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Apr 21 |
+| **[Siam Circle](http://www.siamcircle.us)** | **[Ecommerce Intern](https://jobright.ai/jobs/info/69e819587820c036924da481?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 21 |
+| **[NAMI Wisconsin](http://www.namiwisconsin.org/)** | **[Communications & Events Intern](https://jobright.ai/jobs/info/69e819077820c036924da41d?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Apr 21 |
+| **[Penn State University](http://psu.edu)** | **[Part-Time Marketing Communications Internship](https://jobright.ai/jobs/info/69e8190058811370cb120918?utm_campaign=1065&utm_source=git)** | University Park, PA | On Site | Apr 21 |
+| **[GlobalEdgeMarkets](https://globaledgemarkets.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e817913aa0c4796439dd10?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Hybrid | Apr 21 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Assistant Sports Communications Director](https://jobright.ai/jobs/info/69e8165b3aa0c4796439dc88?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | Apr 21 |
+| **[Eva NYC](https://eva-nyc.com)** | **[Social Media & Influencer Intern](https://jobright.ai/jobs/info/69e8151358811370cb120768?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 21 |
+| **[amika](https://loveamika.com/)** | **[Trade Marketing + Events Intern](https://jobright.ai/jobs/info/69e814fd58811370cb12075e?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 21 |
+| **[James Hardie](https://www.jameshardie.com)** | **[Events Marketing Intern](https://jobright.ai/jobs/info/69e814e97820c036924da28e?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
+| **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69e039675913ad33981488d5?utm_campaign=1065&utm_source=git)** | Honolulu, HI | On Site | Apr 21 |
 | **[amika](https://loveamika.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69e80bb80a6e09555302e013?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Apr 21 |
-| **[National Rarities](https://www.nationalrarities.com)** | **[Marketing and Revenue Intern](https://jobright.ai/jobs/info/69e80b763aa0c4796439d8c7?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Apr 21 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[TikTok Shop & Live Streaming Internship](https://jobright.ai/jobs/info/69e80b0af8fa2f3ec32ab127?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 21 |
 | **[SAP Americas](www.sap.com)** | **[SAP iXp Intern - Americas LoB Field Marketing](https://jobright.ai/jobs/info/69e80a98e0cd471b2f12f264?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 21 |
 | **[COL Group Co., Ltd.](http://www.chineseall.com/)** | **[Bilingual Social Media Intern](https://jobright.ai/jobs/info/69e805c6f8fa2f3ec32aaf86?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Apr 21 |
@@ -110,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e193f8fa2f3ec32aa064?utm_campaign=1065&utm_source=git)** | Amenia, NY | On Site | Apr 21 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e157e0cd471b2f12de3f?utm_campaign=1065&utm_source=git)** | Westhampton Beach, NY | On Site | Apr 21 |
 | **[Islamic Relief Canada](https://www.islamicreliefcanada.org/)** | **[Fundraising Intern - Summer Internship](https://jobright.ai/jobs/info/69e7e14be0cd471b2f12de2a?utm_campaign=1065&utm_source=git)** | Burlington, ON | Hybrid | Apr 21 |
+| **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Knowledge & Content Intern](https://jobright.ai/jobs/info/6944b5b594730b739877f9a6?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 21 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Tommie Mascot Handler/Social Media Intern](https://jobright.ai/jobs/info/69e7ddca3aa0c4796439c33a?utm_campaign=1065&utm_source=git)** | St. Paul, MN, US | Hybrid | Apr 21 |
 | **[Understood.org](https://www.understood.org)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/69e7ddb958811370cb11ed4c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[Texas Orthopedic and Spine Associates](https://txosa.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e7fdce0a6e09555302d7b2?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | Apr 21 |
@@ -119,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[BritBox](https://watch.britbox.co.uk/)** | **[Growth Marketing Summer Intern](https://jobright.ai/jobs/info/69a5e989b600907a962bb39c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 21 |
 | **[Gen](https://www.gendigital.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69e7daf6e0cd471b2f12daee?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Apr 21 |
 | **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Internal Communications & Employee Engagement Intern](https://jobright.ai/jobs/info/69e806c17820c036924d9b25?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Apr 21 |
-| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Social Media](https://jobright.ai/jobs/info/69c2b97994007a2195deac90?utm_campaign=1065&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Apr 21 |
-| ↳ | **[Intern - Social Media](https://jobright.ai/jobs/info/69e80aa458811370cb1201de?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
+| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Social Media](https://jobright.ai/jobs/info/69e80aa458811370cb1201de?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
+| ↳ | **[Intern - Social Media](https://jobright.ai/jobs/info/69c2b97994007a2195deac90?utm_campaign=1065&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Apr 21 |
 | **[The Talent School](https://linktr.ee/jointhetalentschool)** | **[Paid Social Media/Community Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/69e80b4a58811370cb12029e?utm_campaign=1065&utm_source=git)** | Denver, NC | Hybrid | Apr 21 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/69e80ac67820c036924d9ddc?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 21 |
 | **[Digbi Health](https://digbihealth.com)** | **[Edutainment Technology & Automation Intern](https://jobright.ai/jobs/info/69e7d4203aa0c4796439c0d5?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 21 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Marketing Asset Migration Intern](https://jobright.ai/jobs/info/69e7c66ae0cd471b2f12d52e?utm_campaign=1065&utm_source=git)** | HY US Greenville, NC (Headquarters) | On Site | Apr 21 |
 | **[KPM CPAs & Advisors](https://www.kpmcpa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e8493aa0c4796439c8dc?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Apr 21 |
 | **[VALRHONA](https://www.valrhona.us/)** | **[Valrhona Selection Marketing Internship](https://jobright.ai/jobs/info/69e7e4f83aa0c4796439c7f4?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Apr 21 |
-| **[R.T. Moore](http://rtmoore.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e7efb63aa0c4796439cc50?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 21 |
-| **[Aspire Bakeries](https://www.aspirebakeries.com/)** | **[Intern, Communications](https://jobright.ai/jobs/info/6982cbae8232105a2d0b2888?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US, 90045 | Hybrid | Apr 21 |
-| **[La Maison du Chocolat USA](https://www.lamaisonduchocolat.us/en_us/)** | **[Marketing Internship](https://jobright.ai/jobs/info/69e7c4c53aa0c4796439bad3?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Apr 21 |
-| **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Marketing Asset Migration Intern](https://jobright.ai/jobs/info/69e7c4877820c036924d81b9?utm_campaign=1065&utm_source=git)** | Greenville, NC | On Site | Apr 21 |
-| **[Sagapixel](https://Sagapixel.com)** | **[Summer Digital Marketing Intern](https://jobright.ai/jobs/info/69e7c46858811370cb11e549?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ | On Site | Apr 21 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Text Message Marketing](https://jobright.ai/jobs/info/69e7c16358811370cb11e3ee?utm_campaign=1065&utm_source=git)** | Arlington, VA, US | On Site | Apr 21 |
-| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern - Website Marketing](https://jobright.ai/jobs/info/69e7c16358811370cb11e413?utm_campaign=1065&utm_source=git)** | Livonia (Headquarters), MI, US | Hybrid | Apr 21 |
-| ↳ | **[Intern - Website Marketing](https://jobright.ai/jobs/info/69e7c1243aa0c4796439b9fd?utm_campaign=1065&utm_source=git)** | US-MI-Livonia (Headquarters) | Hybrid | Apr 21 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Text Message Marketing](https://jobright.ai/jobs/info/69e7c11c3aa0c4796439b9e9?utm_campaign=1065&utm_source=git)** | US-VA-Arlington | On Site | Apr 21 |
-| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern - Website Marketing](https://jobright.ai/jobs/info/69e7c1197820c036924d80be?utm_campaign=1065&utm_source=git)** | 17410 College Parkway | Hybrid | Apr 21 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Customer Communications Intern](https://jobright.ai/jobs/info/69e7c118f8fa2f3ec32a95e4?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
