@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cobalt Fashion](https://www.cobaltknitwear.com/)** | **[Market Intelligence & AI Strategy Intern](https://jobright.ai/jobs/info/69e86c1ce0cd471b2f135404?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 21 |
+| **[BD](https://www.bd.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69e86bbc0a6e09555303377f?utm_campaign=1065&utm_source=git)** | Covington, GA | Hybrid | Apr 21 |
+| **[WEST BBDO](WestBBDO.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e865193aa0c479643a302b?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Apr 21 |
+| **[BD](https://www.bd.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69e6d9193aa0c4796439622a?utm_campaign=1065&utm_source=git)** | USA GA - Covington BMD | Hybrid | Apr 21 |
 | **[U-Haul](http://www.uhaul.com/)** | **[Digital Marketing Summer Internship](https://jobright.ai/jobs/info/69e85afa4b0fa35a707663da?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, US | On Site | Apr 21 |
 | **[Four Lane Digital](www.fourlanedigital.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e849847820c036924dbaa3?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing / Sales](https://jobright.ai/jobs/info/69e848f758811370cb12219a?utm_campaign=1065&utm_source=git)** | Rohnert Park, CA | On Site | Apr 21 |
@@ -122,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[The Bluebird Group](http://www.thebluebirdgrp.com)** | **[Written Content Intern](https://jobright.ai/jobs/info/69e7f9ad58811370cb11f9eb?utm_campaign=1065&utm_source=git)** | Bentonville, AR | Hybrid | Apr 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Americas LoB Field Marketing](https://jobright.ai/jobs/info/69e7f9a058811370cb11f9b7?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 21 |
 | **[Kitchell](https://www.kitchell.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e7f7cb3aa0c4796439ced0?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Apr 21 |
-| **[Aki Lashes](http://www.akilashes.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69e7f7b30a6e09555302d578?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | Apr 21 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69e7f74fe0cd471b2f12e8f3?utm_campaign=1065&utm_source=git)** | Minnetonka, MN | Hybrid | Apr 21 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing/Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/69e7f129e0cd471b2f12e7f8?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
 | **[Espyre LLC](https://www.espyre.com)** | **[Marketing & Brand Operations Intern](https://jobright.ai/jobs/info/69e7f0aaf8fa2f3ec32aa9a2?utm_campaign=1065&utm_source=git)** | Oakdale, MN | Hybrid | Apr 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69e7e157e0cd471b2f12de3f?utm_campaign=1065&utm_source=git)** | Westhampton Beach, NY | On Site | Apr 21 |
 | **[Islamic Relief Canada](https://www.islamicreliefcanada.org/)** | **[Fundraising Intern - Summer Internship](https://jobright.ai/jobs/info/69e7e14be0cd471b2f12de2a?utm_campaign=1065&utm_source=git)** | Burlington, ON | Hybrid | Apr 21 |
 | **[Chicago Sky WNBA](http://chicagosky.net)** | **[Chicago Sky Foundation Community Engagement Intern](https://jobright.ai/jobs/info/69e8488c3aa0c4796439ea6c?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
-| **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Knowledge & Content Intern](https://jobright.ai/jobs/info/6944b5b594730b739877f9a6?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 21 |
-| **[University of St. Thomas](http://www.stthomas.edu)** | **[Tommie Mascot Handler/Social Media Intern](https://jobright.ai/jobs/info/69e7ddca3aa0c4796439c33a?utm_campaign=1065&utm_source=git)** | St. Paul, MN, US | Hybrid | Apr 21 |
-| **[Understood.org](https://www.understood.org)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/69e7ddb958811370cb11ed4c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
