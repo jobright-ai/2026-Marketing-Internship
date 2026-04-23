@@ -93,9 +93,9 @@ For a complete list, click the following sortable link below:
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Marketing Automation](https://jobright.ai/jobs/info/69e977c17820c036924e835d?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | Apr 22 |
 | **[Smithers-Oasis](https://smithersoasis.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69e977743aa0c479643aa0a8?utm_campaign=1065&utm_source=git)** | Kent, Ohio, United States | Hybrid | Apr 22 |
 | **[Evolve Creative](https://www.evolvecreative.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e978a87820c036924e87a8?utm_campaign=1065&utm_source=git)** | Bemidji, MN | On Site | Apr 22 |
-| **[Sunfish](https://joinsunfish.com/)** | **[Content & Partnerships Intern](https://jobright.ai/jobs/info/69e977e0e0cd471b2f13d8a4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 22 |
-| ↳ | **[Content & Partnerships Intern](https://jobright.ai/jobs/info/69e977df58811370cb12d8d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 22 |
+| **[Sunfish](https://joinsunfish.com/)** | **[Content & Partnerships Intern](https://jobright.ai/jobs/info/69e977df58811370cb12d8d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 22 |
 | ↳ | **[Content & Partnerships Intern](https://jobright.ai/jobs/info/69e977df0a6e09555303c03b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 22 |
+| ↳ | **[Content & Partnerships Intern](https://jobright.ai/jobs/info/69e977e0e0cd471b2f13d8a4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 22 |
 | **[marketingworx](http://www.marketingworxpr.com)** | **[Marketing and Public Relations Intern](https://jobright.ai/jobs/info/69e9415f0a6e09555303aa03?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Apr 22 |
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/69e95c9a58811370cb12ce6e?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Apr 22 |
 | **[Gap Inc.](https://www.gapinc.com/en-us/)** | **[Intern - Gap Brand - Site Merchandising](https://jobright.ai/jobs/info/69e93bc6e0cd471b2f13c029?utm_campaign=1065&utm_source=git)** | NY 55 Thomas St, US | On Site | Apr 22 |
