@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matthews™](https://www.matthews.com/)** | **[Corporate Marketing Intern (PHX)](https://jobright.ai/jobs/info/6979b05bca92cf0d6a82faa2?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Apr 24 |
 | **[Veracode](http://www.veracode.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69cef59fcdb525785fb9da35?utm_campaign=1065&utm_source=git)** | Burlington, MA | On Site | Apr 24 |
 | **[Azurity Pharmaceuticals](https://azurity.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69eb4b9bdc35f7132c4af662?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Apr 24 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Erborian Sales & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ce8ea2398fb071abf864a0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | ↳ | **[Erborian, Social Media & PR Intern (Summer 2026)](https://jobright.ai/jobs/info/69ce8eaecfdc6132f9429813?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Versaterm](https://www.versaterm.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69d9183c738f2f099e89fc37?utm_campaign=1065&utm_source=git)** | Lexington, South Carolina, United States | On Site | Apr 24 |
+| **[Onvida Health](https://www.onvidahealth.org)** | **[Intern Non-Clinical / Marketing](https://jobright.ai/jobs/info/69eb667b7820c036924f3873?utm_campaign=1065&utm_source=git)** | Yuma, AZ | On Site | Apr 24 |
 | **[The Well Network](followthewell.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69eb300a58811370cb136ddb?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[Griggs Group Powered by The Altman Brothers](https://thealtmanbrothersgriggsaz.com/)** | **[Intern](https://jobright.ai/jobs/info/69eb0beb58811370cb136566?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Apr 23 |
 | **[The Lynn Club](https://www.thelynnclub.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69eb06fbdc35f7132c4ad23e?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Apr 23 |
-| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - Marketing Department Student Assistant](https://jobright.ai/jobs/info/69eb56777820c036924f345e?utm_campaign=1065&utm_source=git)** | Orem, UT | On Site | Apr 23 |
 | **[Perry Ellis International](http://www.pery.com)** | **[Summer 2026 Tiktok Internship](https://jobright.ai/jobs/info/69dea34daba61f1417316ae8?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | Apr 23 |
 | **[Chico's FAS, Inc.](https://www.chicos.com/store/category/new+arrivals/cat40036/)** | **[Performance Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69eb56acdc35f7132c4afd99?utm_campaign=1065&utm_source=git)** | Fort Myers, FL | On Site | Apr 23 |
 | **[CashwalkLabs, Inc.](https://cashwalklabs.io/)** | **[Internship](https://jobright.ai/jobs/info/69eae11758811370cb135b83?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
@@ -73,9 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Casa Carlini](https://casacarlini.com)** | **[Fundraising & Donor Development](https://jobright.ai/jobs/info/69eb5357dc35f7132c4afa96?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Apr 23 |
 | **[Glance](https://glance.com)** | **[Intern - Marketing (NYC)](https://jobright.ai/jobs/info/69ead8a9dc35f7132c4ac738?utm_campaign=1065&utm_source=git)** | New York | On Site | Apr 23 |
 | **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, Paid Social](https://jobright.ai/jobs/info/69eb4be34b0fa35a7077a615?utm_campaign=1065&utm_source=git)** | Cherry Hill, PA | On Site | Apr 23 |
-| **[LYSSÉ NEW YORK](https://lysse.com)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/69eb531ddc35f7132c4afa02?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | **[InterPro Pipe + Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern - Marketing Focused](https://jobright.ai/jobs/info/69eb4b870a6e09555304637d?utm_campaign=1065&utm_source=git)** | Thunder Bay, Ontario, Canada | On Site | Apr 23 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Communications Intern](https://jobright.ai/jobs/info/69eb4b27dc35f7132c4af409?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
 | **[The Krusteaz Company](https://thekrusteazcompany.com)** | **[Digital Commerce Intern](https://jobright.ai/jobs/info/69eb53a20a6e095553046893?utm_campaign=1065&utm_source=git)** | Rogers, AR | On Site | Apr 23 |
 | **[Formlabs](http://www.formlabs.com)** | **[Paid Advertising Intern (Summer 2026)](https://jobright.ai/jobs/info/69eb48e17820c036924f28ee?utm_campaign=1065&utm_source=git)** | Somerville, MA | On Site | Apr 23 |
 | **[Scholera](https://scholera-inc.com/)** | **[Marketing and Social Engagement Intern](https://jobright.ai/jobs/info/69eb4471dc35f7132c4af297?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Apr 23 |
@@ -102,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Leggett & Platt](http://www.leggett.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69eb25ec7820c036924f1374?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Apr 23 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Digital Advertising Account Intern  (Summer 2026)](https://jobright.ai/jobs/info/69eb257358811370cb136c02?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | Apr 23 |
 | **[Professional Women in Construction, New York](https://www.pwc-ny.org)** | **[Intern](https://jobright.ai/jobs/info/69ea9f080a6e0955530422ec?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
-| **[Aurelian Labs](https://AurelianLabs.ai)** | **[Growth and Content Automation Intern (Remote)](https://jobright.ai/jobs/info/69ea94d93aa0c479643b0c5b?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Chico's FAS, Inc.](https://www.chicos.com/store/category/new+arrivals/cat40036/)** | **[Performance Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69ea9ed04b0fa35a707757d1?utm_campaign=1065&utm_source=git)** | 11215 Metro Pkwy, Fort Myers, FL 33966, USA | On Site | Apr 23 |
 | **[Axway](http://www.axway.com)** | **[Product Marketing Internship](https://jobright.ai/jobs/info/69ea9d73dc35f7132c4ab489?utm_campaign=1065&utm_source=git)** | US- | On Site | Apr 23 |
 | ↳ | **[Product Marketing Internship](https://jobright.ai/jobs/info/69ea9d2a4b0fa35a707756d7?utm_campaign=1065&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | On Site | Apr 23 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Brother USA](https://brother-usa.com)** | **[Go to Market (GTM) Strategy Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf82a22c9dc0d3d53de91?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | Hybrid | Apr 23 |
 | **[Follett Software](https://follettsoftware.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69eae801dc35f7132c4acdde?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Apr 23 |
 | **[FIRST](https://firstagency.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69eb2ed14b0fa35a7077884c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
+| **[Boats By George](https://www.boatsbygeorge.com)** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/69eb52c816b2612c2a11aeda?utm_campaign=1065&utm_source=git)** | Lake George, NY | On Site | Apr 23 |
+| **[Front Row](https://www.frontrowgroup.de)** | **[Summer 2026 Digital Marketing Intern - Influencer + Content Creator](https://jobright.ai/jobs/info/69ea67ea58811370cb132f86?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
