@@ -102,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Answerr](https://answerr.ai)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69ea7ff03aa0c479643b065d?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 23 |
 | **[LV Collective](https://lvcollective.com)** | **[Digital Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69ea9d5d58811370cb13465b?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 23 |
 | **[Achievers](http://www.achievers.com)** | **[Product Marketing Co-op](https://jobright.ai/jobs/info/69eb06fadc35f7132c4ad233?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 23 |
-| **[Delcath Systems](http://www.delcath.com)** | **[Marketing & Digital Operations Intern](https://jobright.ai/jobs/info/69eafe157820c036924f091a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 23 |
 | **[D-BAT Evansville](www.dbatevansville.com)** | **[Social Media Marketing Intern / Front Desk Representative](https://jobright.ai/jobs/info/69eaa8220a6e095553042501?utm_campaign=1065&utm_source=git)** | Evansville, IN | On Site | Apr 23 |
 | **[NextFoods, Inc.](https://nextfoods.net)** | **[Social Media Intern](https://jobright.ai/jobs/info/69ea75853aa0c479643b0333?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Apr 23 |
 | **[Electro](electrogum.com)** | **[Influencer Partnerships Intern](https://jobright.ai/jobs/info/69ea75384b0fa35a70774919?utm_campaign=1065&utm_source=git)** | Iowa, United States | Remote | Apr 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Dorm](https://thedorm.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/69ea72dd58811370cb1333e4?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing + Customer Experience Intern](https://jobright.ai/jobs/info/69cd7b8b891d7b11cfcb93a4?utm_campaign=1065&utm_source=git)** | Farmington, CT | On Site | Apr 23 |
 | **[Achieving the Dream](https://www.achievingthedream.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/69ea731c0a6e095553041009?utm_campaign=1065&utm_source=git)** | Silver Spring, MD, US | Remote | Apr 23 |
+| **[Olio](https://www.oliopeabody.com)** | **[Events and Marketing Internship](https://jobright.ai/jobs/info/69ea5da04b0fa35a70773a7b?utm_campaign=1065&utm_source=git)** | Peabody, MA | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
