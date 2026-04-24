@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leslie's](https://lesliespool.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69eb8cde16b2612c2a11c18c?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Apr 24 |
+| **[The Hoffman Agency](http://www.hoffman.com/)** | **[Digital Summer Internship - B2B Tech PR](https://jobright.ai/jobs/info/69eb856a0a6e0955530477be?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Apr 24 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Marketing Intern - Dallas](https://jobright.ai/jobs/info/69d341c7cdb525785fbbe1b5?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[National Education Association](http://www.nea.org)** | **[Campaigns and Elections Intern](https://jobright.ai/jobs/info/69eb706d7820c036924f3eb8?utm_campaign=1065&utm_source=git)** | NEA Headquarters, US | On Site | Apr 24 |
 | **[Acadium](http://www.acadium.com)** | **[LinkedIn Content & Social Media Intern](https://jobright.ai/jobs/info/69eb66ea7820c036924f394b?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Matthews™](https://www.matthews.com/)** | **[Corporate Marketing Intern (PHX)](https://jobright.ai/jobs/info/6979b05bca92cf0d6a82faa2?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Apr 24 |
@@ -86,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[The Krusteaz Company](https://thekrusteazcompany.com)** | **[Digital Commerce Intern](https://jobright.ai/jobs/info/69eb53a20a6e095553046893?utm_campaign=1065&utm_source=git)** | Rogers, AR | On Site | Apr 23 |
 | **[Scholera](https://scholera-inc.com/)** | **[Marketing and Social Engagement Intern](https://jobright.ai/jobs/info/69eb4471dc35f7132c4af297?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Apr 23 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Digital Marketing Intern](https://jobright.ai/jobs/info/69eb3a320a6e095553045d1d?utm_campaign=1065&utm_source=git)** | King of Prussia, PA | On Site | Apr 23 |
-| **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69eb4bdd4b0fa35a7077a5f3?utm_campaign=1065&utm_source=git)** | Neptune, NJ | On Site | Apr 23 |
 | **[SENTA ENT and Allergy Physicians](https://sentapartners.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/69eb48f87820c036924f2954?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[LOGAN Community Resources, Inc.](https://www.logancenter.org)** | **[EVENTS INTERN](https://jobright.ai/jobs/info/69eb4b1116b2612c2a11ab3c?utm_campaign=1065&utm_source=git)** | South Bend, IN | On Site | Apr 23 |
 | **[The Krusteaz Company](https://thekrusteazcompany.com)** | **[Digital Commerce Intern](https://jobright.ai/jobs/info/69eaaf787820c036924ef279?utm_campaign=1065&utm_source=git)** | Rogers, Arkansas, United States | On Site | Apr 23 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ariat International](http://www.ariat.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69ea75244b0fa35a707748ed?utm_campaign=1065&utm_source=git)** | San Leandro, CA | Hybrid | Apr 23 |
 | **[Top Tier Events](https://toptiereventsusa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ea751edc35f7132c4aa6fd?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Apr 23 |
 | **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[SEM and Display Marketing Intern](https://jobright.ai/jobs/info/69ea73ee4b0fa35a70774873?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 23 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ea72e07820c036924edc3f?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Apr 23 |
 | **[Griffith Foods](http://www.griffithfoods.com/)** | **[Intern, Global Marketing - Seasonings Category (Summer 2026)](https://jobright.ai/jobs/info/69ea729c7820c036924edafd?utm_campaign=1065&utm_source=git)** | Lombard, US | Hybrid | Apr 23 |
-| ↳ | **[Intern, Global Marketing - Seasonings Category (Summer 2026)](https://jobright.ai/jobs/info/69ea72784b0fa35a7077427c?utm_campaign=1065&utm_source=git)** | Chicago, US | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
