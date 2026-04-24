@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CashwalkLabs, Inc.](https://cashwalklabs.io/)** | **[Internship](https://jobright.ai/jobs/info/69eae11758811370cb135b83?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
 | **[Glance](https://glance.com)** | **[Intern - Marketing (NYC)](https://jobright.ai/jobs/info/69ead8a9dc35f7132c4ac738?utm_campaign=1065&utm_source=git)** | New York | On Site | Apr 23 |
 | **[Sweet&Chilli](https://sweetandchilli.com/)** | **[Internship (FIELD MARKETING)](https://jobright.ai/jobs/info/69ead23116b2612c2a117997?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Apr 23 |
 | **[AAA Mountain West Group](https://mwg.aaa.com/)** | **[Summer Intern - Digital Marketing](https://jobright.ai/jobs/info/69eacd3316b2612c2a117459?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA, US | Hybrid | Apr 23 |
@@ -106,6 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Global Marketing - Seasonings Category (Summer 2026)](https://jobright.ai/jobs/info/69ea72784b0fa35a7077427c?utm_campaign=1065&utm_source=git)** | Chicago, US | Hybrid | Apr 23 |
 | **[ALLO Fiber](http://www.allocommunications.com)** | **[Field Marketing Intern - MDU](https://jobright.ai/jobs/info/69ea72683aa0c479643afbe9?utm_campaign=1065&utm_source=git)** | Lincoln, NE, US | On Site | Apr 23 |
 | **[Brother USA](https://brother-usa.com)** | **[Go to Market (GTM) Strategy Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf82a22c9dc0d3d53de91?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | Hybrid | Apr 23 |
+| **[Follett Software](https://follettsoftware.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69eae801dc35f7132c4acdde?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Apr 23 |
 | **[Front Row](https://www.frontrowgroup.de)** | **[Summer 2026 Digital Marketing Intern - Influencer + Content Creator](https://jobright.ai/jobs/info/69ea67ea58811370cb132f86?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 23 |
 | ↳ | **[Summer 2026 Digital Marketing Intern - Social + Content Creation](https://jobright.ai/jobs/info/69ea67e858811370cb132f77?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 23 |
 | **[Beatbox](https://www.playbeatbox.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69ea67c83aa0c479643af869?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 23 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Achieving the Dream](https://www.achievingthedream.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/69ea731c0a6e095553041009?utm_campaign=1065&utm_source=git)** | Silver Spring, MD, US | Remote | Apr 23 |
 | **[La Beaute PR Group Inc.](www.labeauteprgroup.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69ea63197820c036924ed55b?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Apr 23 |
 | **[Olio](https://www.oliopeabody.com)** | **[Events and Marketing Internship](https://jobright.ai/jobs/info/69ea5da04b0fa35a70773a7b?utm_campaign=1065&utm_source=git)** | Peabody, MA | Hybrid | Apr 23 |
-| **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, Paid Social](https://jobright.ai/jobs/info/69ea73e70a6e09555304138e?utm_campaign=1065&utm_source=git)** | Chesterbrook, Pennsylvania | On Site | Apr 23 |
+| **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, Paid Social](https://jobright.ai/jobs/info/69ea73a63aa0c479643b00f8?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Apr 23 |
+| ↳ | **[Intern, Paid Social](https://jobright.ai/jobs/info/69ea73e70a6e09555304138e?utm_campaign=1065&utm_source=git)** | Chesterbrook, Pennsylvania | On Site | Apr 23 |
 | ↳ | **[Intern, Paid Social](https://jobright.ai/jobs/info/69ea73a758811370cb133795?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ | On Site | Apr 23 |
-| ↳ | **[Intern, Paid Social](https://jobright.ai/jobs/info/69ea73a63aa0c479643b00f8?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Apr 23 |
 | **[Edmunds GovTech](https://www.edmundsgovtech.com/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69ea73687820c036924ede68?utm_campaign=1065&utm_source=git)** | Northfield,NJ,US | On Site | Apr 23 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Digital Growth & Content](https://jobright.ai/jobs/info/69cde81554f00230c6cf80d7?utm_campaign=1065&utm_source=git)** | Harrison, NJ | On Site | Apr 23 |
 | **[Creative Culture](https://www.linkedin.com/company/101694746)** | **[Marketing Intern (Summer Start)](https://jobright.ai/jobs/info/69ea5e1c58811370cb132bb4?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Apr 23 |
 | **[Haas Automation, Inc.](http://haascnc.com)** | **[Digital Marketing Intern (50154)](https://jobright.ai/jobs/info/6978127152f3c27ec6444064?utm_campaign=1065&utm_source=git)** | Oxnard, CA | On Site | Apr 23 |
-| **[Halma plc](http://www.halma.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ea226c0a6e09555303f4df?utm_campaign=1065&utm_source=git)** | Pennsylvania, US | On Site | Apr 23 |
-| **[Talpa Supermercados](https://supermercadostalpa.com/)** | **[Marketing Event Planner / Assistant Intern](https://jobright.ai/jobs/info/69ea7f703aa0c479643b0536?utm_campaign=1065&utm_source=git)** | Dalton, GA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
