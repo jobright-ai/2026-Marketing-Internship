@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Community Management](https://jobright.ai/jobs/info/697adddfc532c4768fe09475?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
+| ↳ | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69cfeb8a0b098b7a67074950?utm_campaign=1065&utm_source=git)** | Westminster, CO | On Site | Apr 25 |
+| **[Icertis](https://www.icertis.com)** | **[Global Events Intern](https://jobright.ai/jobs/info/69b33a64ae2a534885eaa61e?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Internship](https://jobright.ai/jobs/info/69ec87b216b2612c2a122aa3?utm_campaign=1065&utm_source=git)** | Oviedo, FL | On Site | Apr 25 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing & Content Creation Intern (Unpaid)](https://jobright.ai/jobs/info/69ec64a758811370cb13fe99?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 24 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Marketing Innovation Intern](https://jobright.ai/jobs/info/69ec64780a6e09555304e0b1?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Apr 24 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Workday Intern](https://jobright.ai/jobs/info/69ec3872dc35f7132c4b639c?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Apr 24 |
 | **[Skechers](http://www.skechers.com)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ec38290a6e09555304d718?utm_campaign=1065&utm_source=git)** | Manhattan Beach, CA | On Site | Apr 24 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/69ec37df16b2612c2a121d8a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
-| **[KATRINA WAN PR](https://katrinawanpr.com)** | **[Summer Film Publicity Intern](https://jobright.ai/jobs/info/69ec32e10a6e09555304d1db?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Apr 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Social Media & Digital Content Intern – Summer 2026](https://jobright.ai/jobs/info/69ec2e474b0fa35a707812d1?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Apr 24 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Brand - Site Merchandising](https://jobright.ai/jobs/info/69ec2743dc35f7132c4b5f1e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Graduate Intern – Market Sector & Client Insights](https://jobright.ai/jobs/info/69ec27194b0fa35a7078115b?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Apr 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Administrative (Marketing Analytics)](https://jobright.ai/jobs/info/69eba82d58811370cb13baae?utm_campaign=1065&utm_source=git)** | AZ - Chandler, US | On Site | Apr 24 |
 | **[Single Parent Provision](http://singleparentprovision.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69eba7a158811370cb13b907?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | Hybrid | Apr 24 |
 | **[World Product Solutions](https://worldproductsolutions.com)** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/69eba7604b0fa35a7077d716?utm_campaign=1065&utm_source=git)** | Largo, FL | On Site | Apr 24 |
-| **[F.O.C.U.S. Marketing](https://focusmarketingusa.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69eba75d4b0fa35a7077d70b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
-| **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Sales & Marketing Internship - Soccer Coaching](https://jobright.ai/jobs/info/69ebc39658811370cb13c50c?utm_campaign=1065&utm_source=git)** | La Mesa, CA | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
