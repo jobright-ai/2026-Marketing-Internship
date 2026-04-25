@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Spend Management and Finance, Global Events](https://jobright.ai/jobs/info/69ed17580a6e09555304f5b8?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Apr 25 |
 | **[Strategie](https://www.linkedin.com/company/76897759)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69ed081d0a6e09555304f57d?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Apr 25 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Search Engine Marketing Intern](https://jobright.ai/jobs/info/65077c75c5d6d59a6ff93e23?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Apr 25 |
+| **[Tag! Fundraising](www.teamtag.co)** | **[Summer Intern](https://jobright.ai/jobs/info/69ed178216b2612c2a123de5?utm_campaign=1065&utm_source=git)** | Huntsville, AL | Hybrid | Apr 25 |
+| **[David Adam Realty, Inc.](http://www.davidadamrealty.com)** | **[Commercial Real Estate, Marketing and Operations Intern](https://jobright.ai/jobs/info/69ed1480dc35f7132c4b80e2?utm_campaign=1065&utm_source=git)** | Westport, CT | On Site | Apr 25 |
 | **[SKDK](http://skdknick.com)** | **[PR Internship, Sloane and Company- Summer 2026](https://jobright.ai/jobs/info/69b3521ea8ac8e70ff678b8e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Equine Marketing Intern](https://jobright.ai/jobs/info/68c7c26af42a830e1c7e7587?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Apr 25 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/689a35ad5574fd6bc0c80958?utm_campaign=1065&utm_source=git)** | Ellenton, FL | On Site | Apr 25 |
@@ -79,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Marketing Insights](https://jobright.ai/jobs/info/697938c588e2b47213bd5fa1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | ↳ | **[Summer Intern, Social Media, e.l.f. Beauty](https://jobright.ai/jobs/info/697adc47c532c4768fe092c7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
 | **[Bootstrapper Capital // powered by Bootstrapper.ai](https://bootstrappercapital.com)** | **[Intern Fellowship / Market Development](https://jobright.ai/jobs/info/69ecd03f7820c036924fbca2?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Apr 25 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Community Management](https://jobright.ai/jobs/info/697adddfc532c4768fe09475?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
-| ↳ | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
+| ↳ | **[Summer Intern, Community Management](https://jobright.ai/jobs/info/697adddfc532c4768fe09475?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69cfeb8a0b098b7a67074950?utm_campaign=1065&utm_source=git)** | Westminster, CO | On Site | Apr 25 |
 | **[Polaris Direct LLC](http://www.polarisdirect.net/)** | **[Stategic Marketing Services - Intern](https://jobright.ai/jobs/info/69ecb26858811370cb140433?utm_campaign=1065&utm_source=git)** | Manchester, NH | On Site | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69abb0a9142d5b4265fce4c4?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bear Real Estate Group](https://bearreg.com)** | **[Marketing Associate Intern](https://jobright.ai/jobs/info/69ebc2ad16b2612c2a11e51f?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, US | On Site | Apr 24 |
 | ↳ | **[Marketing Associate Intern](https://jobright.ai/jobs/info/69ebc2ac58811370cb13c359?utm_campaign=1065&utm_source=git)** | Racine, WI, US | On Site | Apr 24 |
 | **[Dippin'​ Dots, LLC](https://www.dippindots.com)** | **[Sales & Marketing Intern - Hourly](https://jobright.ai/jobs/info/69ebc2a2dc35f7132c4b2ea8?utm_campaign=1065&utm_source=git)** | La Vergne, Tennessee, United States | On Site | Apr 24 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Community Marketing Summer Intern](https://jobright.ai/jobs/info/69ebfcd10a6e09555304bc7f?utm_campaign=1065&utm_source=git)** | Williamsburg, VA | On Site | Apr 24 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Paid Sales & Marketing (Social Media) Summer Semester 2026 Intern](https://jobright.ai/jobs/info/69ebbc4b58811370cb13c1d0?utm_campaign=1065&utm_source=git)** | VA, Portsmouth, US | On Site | Apr 24 |
-| **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Development Intern](https://jobright.ai/jobs/info/69ebdca8dc35f7132c4b3c7e?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
