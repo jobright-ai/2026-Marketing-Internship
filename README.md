@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cognizant](https://www.cognizant.com)** | **[Cognizant Workday Intern](https://jobright.ai/jobs/info/69ec3872dc35f7132c4b639c?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Apr 24 |
+| **[Skechers](http://www.skechers.com)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ec38290a6e09555304d718?utm_campaign=1065&utm_source=git)** | Manhattan Beach, CA | On Site | Apr 24 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/69ec37df16b2612c2a121d8a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
+| **[Parthenon Management Group](https://parthenonmgmt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ec37c3dc35f7132c4b6347?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Apr 24 |
+| **[KATRINA WAN PR](https://katrinawanpr.com)** | **[Summer Film Publicity Intern](https://jobright.ai/jobs/info/69ec32e10a6e09555304d1db?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Apr 24 |
+| **[HNTB](http://www.hntb.com/)** | **[Social Media & Digital Content Intern – Summer 2026](https://jobright.ai/jobs/info/69ec2e474b0fa35a707812d1?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Apr 24 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Brand - Site Merchandising](https://jobright.ai/jobs/info/69ec2743dc35f7132c4b5f1e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Graduate Intern – Market Sector & Client Insights](https://jobright.ai/jobs/info/69ec27194b0fa35a7078115b?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Apr 24 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Marketing (AEG Presents - PromoWest)](https://jobright.ai/jobs/info/69ec266a58811370cb13efc5?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Meltwater](https://www.meltwater.com/)** | **[Intern, Marketing Analytics](https://jobright.ai/jobs/info/69ebc3b6dc35f7132c4b3220?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
 | **[R.D. SMOTHERS WEALTH MANAGEMENT, LLC.](https://rdsmotherswealth.com)** | **[Client Relations Coordinator- INTERN](https://jobright.ai/jobs/info/69eba2120a6e09555304929c?utm_campaign=1065&utm_source=git)** | Bowling Green, KY | On Site | Apr 24 |
 | **[Resolve Tech Solutions](http://www.resolvetech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69eba19758811370cb13b551?utm_campaign=1065&utm_source=git)** | Addison, TX, US | On Site | Apr 24 |
-| **[Boilermaker Road Race](http://www.boilermaker.com/)** | **[Marketing Event Planning Intern](https://jobright.ai/jobs/info/69ebd2da16b2612c2a11f1cb?utm_campaign=1065&utm_source=git)** | Utica-Rome Area | On Site | Apr 24 |
-| **[Lola Blankets](https://lolablankets.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69eb9a6a58811370cb13b480?utm_campaign=1065&utm_source=git)** | Utah | On Site | Apr 24 |
-| **[Cheil USA](https://us.cheil.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/69eb9a0258811370cb13b39b?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Apr 24 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/69eb998e4b0fa35a7077d2b8?utm_campaign=1065&utm_source=git)** | US-GA-Atlanta | On Site | Apr 24 |
-| ↳ | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/69eb996816b2612c2a11d6c9?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Apr 24 |
-| **[Tommy Gate](http://www.tommygate.com/)** | **[Marketing Intern (Digital Focus)](https://jobright.ai/jobs/info/69eb99357820c036924f56c1?utm_campaign=1065&utm_source=git)** | Woodbine, IA | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
