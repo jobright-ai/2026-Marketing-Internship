@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CouponDonation](http://www.coupondonation.com)** | **[Marketing & Content Creation Intern (Unpaid)](https://jobright.ai/jobs/info/69ec64a758811370cb13fe99?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 24 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Marketing Innovation Intern](https://jobright.ai/jobs/info/69ec64780a6e09555304e0b1?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Events Services Intern](https://jobright.ai/jobs/info/69ec5de17820c036924fa7af?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 24 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Marketing Innovation Intern](https://jobright.ai/jobs/info/69ec5dc758811370cb13fb8b?utm_campaign=1065&utm_source=git)** | 15 E South Temple, Salt Lake City, UT, 84150, US | Hybrid | Apr 24 |
 | **[Tampa Bay Times](http://www.tampabay.com/)** | **[Intern - Newspapers in Education](https://jobright.ai/jobs/info/69ec56b17820c036924fa53d?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | Hybrid | Apr 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[F.O.C.U.S. Marketing](https://focusmarketingusa.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69eba75d4b0fa35a7077d70b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Sales & Marketing Internship - Soccer Coaching](https://jobright.ai/jobs/info/69ebc39658811370cb13c50c?utm_campaign=1065&utm_source=git)** | La Mesa, CA | Hybrid | Apr 24 |
 | **[Meltwater](https://www.meltwater.com/)** | **[Intern, Marketing Analytics](https://jobright.ai/jobs/info/69ebc3b6dc35f7132c4b3220?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
-| **[R.D. SMOTHERS WEALTH MANAGEMENT, LLC.](https://rdsmotherswealth.com)** | **[Client Relations Coordinator- INTERN](https://jobright.ai/jobs/info/69eba2120a6e09555304929c?utm_campaign=1065&utm_source=git)** | Bowling Green, KY | On Site | Apr 24 |
-| **[Resolve Tech Solutions](http://www.resolvetech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69eba19758811370cb13b551?utm_campaign=1065&utm_source=git)** | Addison, TX, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
