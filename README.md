@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Brand - Site Merchandising](https://jobright.ai/jobs/info/69ec2743dc35f7132c4b5f1e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 24 |
+| **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Graduate Intern – Market Sector & Client Insights](https://jobright.ai/jobs/info/69ec27194b0fa35a7078115b?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Apr 24 |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Marketing (AEG Presents - PromoWest)](https://jobright.ai/jobs/info/69ec266a58811370cb13efc5?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 24 |
+| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Miami Swim Week Kickoff Event Intern (Celebrity & Macro Influencer Experiential Gifting Event)](https://jobright.ai/jobs/info/69ec1e0c58811370cb13ef0c?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 24 |
+| **[EverCommerce](https://www.evercommerce.com/)** | **[EverPro - Growth and Markets Internship (Remote, US)](https://jobright.ai/jobs/info/69e7d3700a6e09555302c6f6?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Apr 24 |
 | **[Tombras](http://tombras.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/69ec17c54b0fa35a70780956?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | ↳ | **[SEO Intern](https://jobright.ai/jobs/info/69ec17c24b0fa35a70780948?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
 | **[Porex](http://www.porex.com/)** | **[Brand and Content Intern](https://jobright.ai/jobs/info/69ec17b70a6e09555304c696?utm_campaign=1065&utm_source=git)** | Fairburn, GA | Hybrid | Apr 24 |
@@ -68,9 +73,11 @@ For a complete list, click the following sortable link below:
 | **[Gorman & Company](http://gormanusa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ec0ad37820c036924f8e3f?utm_campaign=1065&utm_source=git)** | Oregon Town, WI | On Site | Apr 24 |
 | **[Savannah River National Laboratory](https://www.srnl.gov)** | **[Technology Commercialization & Industry Engagement (TPO) ASPIRE Summer Intern](https://jobright.ai/jobs/info/69ec0a314b0fa35a70780466?utm_campaign=1065&utm_source=git)** | Aiken, SC | On Site | Apr 24 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Administrative (Marketing Analytics)](https://jobright.ai/jobs/info/69ec09c816b2612c2a1207d7?utm_campaign=1065&utm_source=git)** | Chandler, AZ | On Site | Apr 24 |
+| **[NFI](http://www.nfiindustries.com/)** | **[Intern](https://jobright.ai/jobs/info/69ec27287820c036924f98d5?utm_campaign=1065&utm_source=git)** | Camden, NJ | On Site | Apr 24 |
 | **[Alliance de l'industrie touristique du Québec](https://alliancetouristique.com/)** | **[Stagiaire en coordination marketing et commercialisation (Été 2026 - 12 semaines)](https://jobright.ai/jobs/info/69ec03000a6e09555304bfd5?utm_campaign=1065&utm_source=git)** | Laval, Quebec, Canada | Hybrid | Apr 24 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Marketing and Business Development Intern](https://jobright.ai/jobs/info/69ec02eadc35f7132c4b4ff5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[US Commercial Intern](https://jobright.ai/jobs/info/69ec02eadc35f7132c4b4ffb?utm_campaign=1065&utm_source=git)** | Mahwah, NJ | Hybrid | Apr 24 |
+| **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/69ec271a58811370cb13f064?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Intern, Digital Advertising Summer Associate](https://jobright.ai/jobs/info/69ebfc0f4b0fa35a7077fdcf?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
 | **[L'AGENCE](https://lagence.com)** | **[Ecommerce Internship](https://jobright.ai/jobs/info/69ebfbea4b0fa35a7077fcd9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[TruGen AI](https://trugen.ai)** | **[Startup Growth Intern (B2B SaaS Focus)](https://jobright.ai/jobs/info/69ebfb987820c036924f84ce?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 24 |
@@ -137,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[D1 TRAINING](https://www.d1training.com/)** | **[Sports Marketing Internship](https://jobright.ai/jobs/info/69ebab5458811370cb13bc90?utm_campaign=1065&utm_source=git)** | Margate , FL, US | On Site | Apr 24 |
 | **[Collectors Expo](www.collectorsexpo.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69ebd29e7820c036924f7602?utm_campaign=1065&utm_source=git)** | Rosemead, CA | On Site | Apr 24 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Administrative (Marketing Analytics)](https://jobright.ai/jobs/info/69eba82d58811370cb13baae?utm_campaign=1065&utm_source=git)** | AZ - Chandler, US | On Site | Apr 24 |
-| **[Central Bank](https://www.centralbank.net/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69eba7a216b2612c2a11da8d?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Apr 24 |
 | **[Single Parent Provision](http://singleparentprovision.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69eba7a158811370cb13b907?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | Hybrid | Apr 24 |
 | **[World Product Solutions](https://worldproductsolutions.com)** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/69eba7604b0fa35a7077d716?utm_campaign=1065&utm_source=git)** | Largo, FL | On Site | Apr 24 |
 | **[F.O.C.U.S. Marketing](https://focusmarketingusa.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69eba75d4b0fa35a7077d70b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/69eb998e4b0fa35a7077d2b8?utm_campaign=1065&utm_source=git)** | US-GA-Atlanta | On Site | Apr 24 |
 | ↳ | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/69eb996816b2612c2a11d6c9?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Apr 24 |
 | **[Tommy Gate](http://www.tommygate.com/)** | **[Marketing Intern (Digital Focus)](https://jobright.ai/jobs/info/69eb99357820c036924f56c1?utm_campaign=1065&utm_source=git)** | Woodbine, IA | Hybrid | Apr 24 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69eb992f58811370cb13b2be?utm_campaign=1065&utm_source=git)** | Woodbine, IA | On Site | Apr 24 |
-| **[Kwest Group](https://kwestgroup.com/)** | **[Multimedia Marketing Intern](https://jobright.ai/jobs/info/69eb949c16b2612c2a11d56e?utm_campaign=1065&utm_source=git)** | Dublin, OH | On Site | Apr 24 |
-| **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (ON-SITE and IMMEDIATE NEED)](https://jobright.ai/jobs/info/69eb945916b2612c2a11d4ae?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 24 |
-| **[SKDK](http://skdknick.com)** | **[Jasper Advisors Internship, Summer 2026](https://jobright.ai/jobs/info/69b338a2ad360c0340a85f8b?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Apr 24 |
-| **[D1 TRAINING](https://www.d1training.com/)** | **[Sports Marketing Internship](https://jobright.ai/jobs/info/69ebadf1dc35f7132c4b280d?utm_campaign=1065&utm_source=git)** | Margate, FL | On Site | Apr 24 |
-| **[Van Leeuwen Ice Cream](http://www.vanleeuwenicecream.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/69eb91824b0fa35a7077c836?utm_campaign=1065&utm_source=git)** | Brooklyn, New York, United States | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
