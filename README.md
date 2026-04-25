@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69bce4ef4828227293fef698?utm_campaign=1065&utm_source=git)** | Portsmouth, VA | On Site | Apr 25 |
 | **[Hinge Health](http://hingehealth.com/)** | **[Demand Generation Manager](https://jobright.ai/jobs/info/69d06911891d7b11cfcdb38f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 25 |
 | **[Cosm](https://www.cosm.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69d0625b891d7b11cfcdb07e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
 | **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/697a7dd19d60e431a16bff14?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LIV Golf](https://www.livgolf.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69a92afe79f3f4037f43e996?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 24 |
 | **[The Leasing Experts (Multifamily Market Makers)](theleasingXperts.com)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/69ebf0640a6e09555304b6f6?utm_campaign=1065&utm_source=git)** | Port Chester, NY | Hybrid | Apr 24 |
 | **[Nerveli (Techstars '24)](https://www.getnerveli.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69ebb85bdc35f7132c4b2bba?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | Apr 24 |
-| **[Sports stream tv](https://sportsstreamtv.com/)** | **[🎭 Entertainment Marketing & Booking Intern  Churches (Unpaid – Summer, Remote)](https://jobright.ai/jobs/info/69ebb82d58811370cb13c09f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
