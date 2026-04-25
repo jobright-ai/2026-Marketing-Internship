@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hinge Health](http://hingehealth.com/)** | **[Demand Generation Manager](https://jobright.ai/jobs/info/69d06911891d7b11cfcdb38f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 25 |
+| **[Cosm](https://www.cosm.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69d0625b891d7b11cfcdb07e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
+| **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/697a7dd19d60e431a16bff14?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 25 |
+| **[Matthews™](https://www.matthews.com/)** | **[PR & Publications Intern (PHX)](https://jobright.ai/jobs/info/68f089f8eb273a32d97692f3?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Apr 25 |
 | **[HomeSmiles](https://homesmiles.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69ecbeea4b0fa35a70782ee4?utm_campaign=1065&utm_source=git)** | Florence, KY | Hybrid | Apr 25 |
 | **[Capitol Broadcasting Company](http://www.capitolbroadcasting.com)** | **[Baseball Sponsorship Intern](https://jobright.ai/jobs/info/69d046600b098b7a670781a9?utm_campaign=1065&utm_source=git)** | Triangle Area | On Site | Apr 25 |
 | **[D1 TRAINING](https://www.d1training.com/)** | **[Sports Marketing Internship](https://jobright.ai/jobs/info/69ecb6b858811370cb14055e?utm_campaign=1065&utm_source=git)** | Pompano Beach, FL | On Site | Apr 25 |
@@ -65,8 +69,9 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Creative & Brand Copywriting, Naturium](https://jobright.ai/jobs/info/69793a9e88e2b47213bd645b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
 | ↳ | **[Summer Intern, Marketing Insights](https://jobright.ai/jobs/info/697938c588e2b47213bd5fa1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | ↳ | **[Summer Intern, Social Media, e.l.f. Beauty](https://jobright.ai/jobs/info/697adc47c532c4768fe092c7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
+| **[Bootstrapper Capital // powered by Bootstrapper.ai](https://bootstrappercapital.com)** | **[Intern Fellowship / Market Development](https://jobright.ai/jobs/info/69ecd03f7820c036924fbca2?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Apr 25 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
 | ↳ | **[Summer Intern, Community Management](https://jobright.ai/jobs/info/697adddfc532c4768fe09475?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
-| ↳ | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69cfeb8a0b098b7a67074950?utm_campaign=1065&utm_source=git)** | Westminster, CO | On Site | Apr 25 |
 | **[Polaris Direct LLC](http://www.polarisdirect.net/)** | **[Stategic Marketing Services - Intern](https://jobright.ai/jobs/info/69ecb26858811370cb140433?utm_campaign=1065&utm_source=git)** | Manchester, NH | On Site | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69abb0a9142d5b4265fce4c4?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Leasing Experts (Multifamily Market Makers)](theleasingXperts.com)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/69ebf0640a6e09555304b6f6?utm_campaign=1065&utm_source=git)** | Port Chester, NY | Hybrid | Apr 24 |
 | **[Nerveli (Techstars '24)](https://www.getnerveli.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69ebb85bdc35f7132c4b2bba?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | Apr 24 |
 | **[Sports stream tv](https://sportsstreamtv.com/)** | **[🎭 Entertainment Marketing & Booking Intern  Churches (Unpaid – Summer, Remote)](https://jobright.ai/jobs/info/69ebb82d58811370cb13c09f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Amtrak](https://www.amtrak.com/)** | **[Summer 2026 - Planning/Reporting/Communications Intern (Graduate) - 90304320 - Washington](https://jobright.ai/jobs/info/69ebb8207820c036924f6557?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 24 |
-| **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[Market Fundamentals Intern](https://jobright.ai/jobs/info/69eb4abe16b2612c2a11aa9b?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Bluebeam](http://www.bluebeam.com)** | **[Global Marketing Intern](https://jobright.ai/jobs/info/69ceec7bcdb525785fb9d17f?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/695c04bff1f8465b79f2113b?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Community Marketing Summer Intern](https://jobright.ai/jobs/info/69ebb7900a6e095553049b85?utm_campaign=1065&utm_source=git)** | SeaWorld/Busch Gardens Williamsburg, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
