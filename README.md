@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Events Services Intern](https://jobright.ai/jobs/info/69ec5de17820c036924fa7af?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 24 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Marketing Innovation Intern](https://jobright.ai/jobs/info/69ec5dc758811370cb13fb8b?utm_campaign=1065&utm_source=git)** | 15 E South Temple, Salt Lake City, UT, 84150, US | Hybrid | Apr 24 |
+| **[Tampa Bay Times](http://www.tampabay.com/)** | **[Intern - Newspapers in Education](https://jobright.ai/jobs/info/69ec56b17820c036924fa53d?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | Hybrid | Apr 24 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Marketing (AEG Presents - PromoWest)](https://jobright.ai/jobs/info/69ec41147820c036924fa1e5?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 24 |
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Workday Intern](https://jobright.ai/jobs/info/69ec3872dc35f7132c4b639c?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Apr 24 |
 | **[Skechers](http://www.skechers.com)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ec38290a6e09555304d718?utm_campaign=1065&utm_source=git)** | Manhattan Beach, CA | On Site | Apr 24 |
@@ -115,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Marketing and Business Development Intern](https://jobright.ai/jobs/info/69ebc6410a6e09555304a639?utm_campaign=1065&utm_source=git)** | Correspondent - Atlanta, US | On Site | Apr 24 |
 | **[Family Farm & Home](https://www.familyfarmandhome.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebc493dc35f7132c4b358f?utm_campaign=1065&utm_source=git)** | 900 3rd St, Muskegon, MI 49440, USA | On Site | Apr 24 |
 | **[Ada Bible Church](http://adabible.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebc4774b0fa35a7077e733?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, US | On Site | Apr 24 |
-| **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/69ebc44758811370cb13c7f0?utm_campaign=1065&utm_source=git)** | Arlington, TX, US | On Site | Apr 24 |
 | **[Fifth & Cor](https://www.fifthandcor.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69ebeef97820c036924f8084?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Hybrid | Apr 24 |
 | **[Smithers-Oasis](https://smithersoasis.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69ebe214dc35f7132c4b4076?utm_campaign=1065&utm_source=git)** | Kent, OH | Hybrid | Apr 24 |
 | **[Tombras](http://tombras.com)** | **[Influencer Intern](https://jobright.ai/jobs/info/69ebc3980a6e09555304a1c7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 24 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Bluebeam](http://www.bluebeam.com)** | **[Global Marketing Intern](https://jobright.ai/jobs/info/69ceec7bcdb525785fb9d17f?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/695c04bff1f8465b79f2113b?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Community Marketing Summer Intern](https://jobright.ai/jobs/info/69ebb7900a6e095553049b85?utm_campaign=1065&utm_source=git)** | SeaWorld/Busch Gardens Williamsburg, US | On Site | Apr 24 |
-| **[HAR.com](http://www.har.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69ebb63b0a6e095553049a04?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Apr 24 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Athletics Media Relations Intern](https://jobright.ai/jobs/info/69ebdde558811370cb13d39c?utm_campaign=1065&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
 | ↳ | **[Athletics Marketing Intern](https://jobright.ai/jobs/info/69ebde0e16b2612c2a11f6bd?utm_campaign=1065&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/69d566ad891d7b11cfd01a4d?utm_campaign=1065&utm_source=git)** | Lake Charles, LA | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Meltwater](https://www.meltwater.com/)** | **[Intern, Marketing Analytics](https://jobright.ai/jobs/info/69ebc3b6dc35f7132c4b3220?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
 | **[R.D. SMOTHERS WEALTH MANAGEMENT, LLC.](https://rdsmotherswealth.com)** | **[Client Relations Coordinator- INTERN](https://jobright.ai/jobs/info/69eba2120a6e09555304929c?utm_campaign=1065&utm_source=git)** | Bowling Green, KY | On Site | Apr 24 |
 | **[Resolve Tech Solutions](http://www.resolvetech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69eba19758811370cb13b551?utm_campaign=1065&utm_source=git)** | Addison, TX, US | On Site | Apr 24 |
-| **[Boilermaker Road Race](http://www.boilermaker.com/)** | **[Marketing Event Planning Intern](https://jobright.ai/jobs/info/69ebd2da16b2612c2a11f1cb?utm_campaign=1065&utm_source=git)** | Utica-Rome Area | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
