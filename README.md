@@ -103,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Church News Social Media Intern - Portuguese - Summer/Fall 2026](https://jobright.ai/jobs/info/69ebe54758811370cb13d7bd?utm_campaign=1065&utm_source=git)** | SLC Triad Center, US | On Site | Apr 24 |
 | **[Gorman & Company](http://gormanusa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebe51d7820c036924f7da5?utm_campaign=1065&utm_source=git)** | Oregon, WI, US | On Site | Apr 24 |
 | **[Echelon](https://teamechelon.com)** | **[Sports Sponsorships & Events Intern](https://jobright.ai/jobs/info/69ebe37fdc35f7132c4b4396?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Apr 24 |
-| **[Micro](https://www.linkedin.com/company/102809211)** | **[Social Media Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69ebe365dc35f7132c4b433a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 24 |
 | **[TruGen AI](https://trugen.ai)** | **[Content & Growth Intern (AI Startup)](https://jobright.ai/jobs/info/69ebe2544b0fa35a7077f5b2?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Remote | Apr 24 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Paid Sales & Marketing (Social Media) Summer Semester 2026 Intern](https://jobright.ai/jobs/info/69ebe2364b0fa35a7077f54d?utm_campaign=1065&utm_source=git)** | Portsmouth, VA | On Site | Apr 24 |
 | **[Skillz](http://www.skillz.com)** | **[Co-op, Brand](https://jobright.ai/jobs/info/69ebde6a16b2612c2a11f81f?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[F.O.C.U.S. Marketing](https://focusmarketingusa.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69eba75d4b0fa35a7077d70b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Sales & Marketing Internship - Soccer Coaching](https://jobright.ai/jobs/info/69ebc39658811370cb13c50c?utm_campaign=1065&utm_source=git)** | La Mesa, CA | Hybrid | Apr 24 |
 | **[Meltwater](https://www.meltwater.com/)** | **[Intern, Marketing Analytics](https://jobright.ai/jobs/info/69ebc3b6dc35f7132c4b3220?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
+| **[R.D. SMOTHERS WEALTH MANAGEMENT, LLC.](https://rdsmotherswealth.com)** | **[Client Relations Coordinator- INTERN](https://jobright.ai/jobs/info/69eba2120a6e09555304929c?utm_campaign=1065&utm_source=git)** | Bowling Green, KY | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
