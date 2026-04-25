@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gorman & Company](http://gormanusa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ec0ad37820c036924f8e3f?utm_campaign=1065&utm_source=git)** | Oregon Town, WI | On Site | Apr 24 |
+| **[Savannah River National Laboratory](https://www.srnl.gov)** | **[Technology Commercialization & Industry Engagement (TPO) ASPIRE Summer Intern](https://jobright.ai/jobs/info/69ec0a314b0fa35a70780466?utm_campaign=1065&utm_source=git)** | Aiken, SC | On Site | Apr 24 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Administrative (Marketing Analytics)](https://jobright.ai/jobs/info/69ec09c816b2612c2a1207d7?utm_campaign=1065&utm_source=git)** | Chandler, AZ | On Site | Apr 24 |
+| **[Alliance de l'industrie touristique du Québec](https://alliancetouristique.com/)** | **[Stagiaire en coordination marketing et commercialisation (Été 2026 - 12 semaines)](https://jobright.ai/jobs/info/69ec03000a6e09555304bfd5?utm_campaign=1065&utm_source=git)** | Laval, Quebec, Canada | Hybrid | Apr 24 |
+| **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Marketing and Business Development Intern](https://jobright.ai/jobs/info/69ec02eadc35f7132c4b4ff5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
+| **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[US Commercial Intern](https://jobright.ai/jobs/info/69ec02eadc35f7132c4b4ffb?utm_campaign=1065&utm_source=git)** | Mahwah, NJ | Hybrid | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Intern, Digital Advertising Summer Associate](https://jobright.ai/jobs/info/69ebfc0f4b0fa35a7077fdcf?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
-| **[QUASAR](https://quasarrealestate.com)** | **[Summer Intern for Alternative Investments](https://jobright.ai/jobs/info/69ebfbfc0a6e09555304b9e0?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Apr 24 |
 | **[L'AGENCE](https://lagence.com)** | **[Ecommerce Internship](https://jobright.ai/jobs/info/69ebfbea4b0fa35a7077fcd9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[TruGen AI](https://trugen.ai)** | **[Startup Growth Intern (B2B SaaS Focus)](https://jobright.ai/jobs/info/69ebfb987820c036924f84ce?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 24 |
 | ↳ | **[Startup Growth Intern (E-Commerce Focus)](https://jobright.ai/jobs/info/69ebf62d58811370cb13de16?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 24 |
@@ -126,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Single Parent Provision](http://singleparentprovision.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69eba7a158811370cb13b907?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | Hybrid | Apr 24 |
 | **[World Product Solutions](https://worldproductsolutions.com)** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/69eba7604b0fa35a7077d716?utm_campaign=1065&utm_source=git)** | Largo, FL | On Site | Apr 24 |
 | **[F.O.C.U.S. Marketing](https://focusmarketingusa.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69eba75d4b0fa35a7077d70b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
-| **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69eba73e0a6e09555304944d?utm_campaign=1065&utm_source=git)** | Canada | Remote | Apr 24 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Sales & Marketing Internship - Soccer Coaching](https://jobright.ai/jobs/info/69ebc39658811370cb13c50c?utm_campaign=1065&utm_source=git)** | La Mesa, CA | Hybrid | Apr 24 |
 | **[Meltwater](https://www.meltwater.com/)** | **[Intern, Marketing Analytics](https://jobright.ai/jobs/info/69ebc3b6dc35f7132c4b3220?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
 | **[R.D. SMOTHERS WEALTH MANAGEMENT, LLC.](https://rdsmotherswealth.com)** | **[Client Relations Coordinator- INTERN](https://jobright.ai/jobs/info/69eba2120a6e09555304929c?utm_campaign=1065&utm_source=git)** | Bowling Green, KY | On Site | Apr 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Marketing Intern - Dallas](https://jobright.ai/jobs/info/69d341c7cdb525785fbbe1b5?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Commercial Operations Communications](https://jobright.ai/jobs/info/69b36ba3ad360c0340a8929b?utm_campaign=1065&utm_source=git)** | Foster City, CA | On Site | Apr 24 |
 | **[Risepoint](https://risepoint.com)** | **[Marketing Strategy & Operations Intern](https://jobright.ai/jobs/info/69d5e0c5cfdc6132f9466ca2?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Spring 2026 - Social Media Internship](https://jobright.ai/jobs/info/69eb8fd4dc35f7132c4b0c0e?utm_campaign=1065&utm_source=git)** | Aberdeen, MD | On Site | Apr 24 |
-| **[The GORSE Academies Trust](https://www.tgat.org.uk/)** | **[COMMUNICATIONS AND MARKETING MANAGER](https://jobright.ai/jobs/info/69eba22e0a6e095553049312?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 24 |
-| **[National Education Association](http://www.nea.org)** | **[Campaigns and Elections Intern](https://jobright.ai/jobs/info/69eb706d7820c036924f3eb8?utm_campaign=1065&utm_source=git)** | NEA Headquarters, US | On Site | Apr 24 |
-| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/69ebae8f4b0fa35a7077daa4?utm_campaign=1065&utm_source=git)** | Aberdeen, MD | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
