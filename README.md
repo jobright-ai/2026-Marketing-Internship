@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Intern - Summer 2026](https://jobright.ai/jobs/info/69edc6380a6e095553050b42?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 26 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/69edae147820c036924fd759?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 25 |
 | **[InMobi Advertising](https://www.inmobi.com)** | **[Intern - Marketing (NYC)](https://jobright.ai/jobs/info/69e9bdb83aa0c479643ab76f?utm_campaign=1065&utm_source=git)** | New York | On Site | Apr 25 |
 | **[Angus Reid](https://www.angusreid.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69e635a57820c036924ced13?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Apr 25 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Creative & Brand Copywriting, Naturium](https://jobright.ai/jobs/info/69793a9e88e2b47213bd645b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
 | ↳ | **[Summer Intern, Marketing Insights](https://jobright.ai/jobs/info/697938c588e2b47213bd5fa1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | ↳ | **[Summer Intern, Social Media, e.l.f. Beauty](https://jobright.ai/jobs/info/697adc47c532c4768fe092c7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
-| ↳ | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
 | ↳ | **[Summer Intern, Community Management](https://jobright.ai/jobs/info/697adddfc532c4768fe09475?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
+| ↳ | **[Summer Intern, Experiential Events](https://jobright.ai/jobs/info/69793c7188e2b47213bd689e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69cfeb8a0b098b7a67074950?utm_campaign=1065&utm_source=git)** | Westminster, CO | On Site | Apr 25 |
 | **[Polaris Direct LLC](http://www.polarisdirect.net/)** | **[Stategic Marketing Services - Intern](https://jobright.ai/jobs/info/69ecb26858811370cb140433?utm_campaign=1065&utm_source=git)** | Manchester, NH | On Site | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69abb0a9142d5b4265fce4c4?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Social Media & Digital Content Intern – Summer 2026](https://jobright.ai/jobs/info/69ebd2d00a6e09555304a8b4?utm_campaign=1065&utm_source=git)** | Arlington, VA (Alexandria), US | On Site | Apr 24 |
 | **[VenuWorks](http://venuworks.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfd3616b2612c2a120440?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 24 |
 | **[Arch Events](http://arch-events.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69ebfbe00a6e09555304b940?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | Apr 24 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Marketing and Business Development Intern](https://jobright.ai/jobs/info/69ebc6410a6e09555304a639?utm_campaign=1065&utm_source=git)** | Correspondent - Atlanta, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
