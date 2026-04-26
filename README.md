@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[InMobi Advertising](https://www.inmobi.com)** | **[Intern - Marketing (NYC)](https://jobright.ai/jobs/info/69e9bdb83aa0c479643ab76f?utm_campaign=1065&utm_source=git)** | New York | On Site | Apr 25 |
-| **[Synaptiq](https://www.synaptiq.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ed78394b0fa35a707846a0?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Angus Reid](https://www.angusreid.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69e635a57820c036924ced13?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Apr 25 |
 | **[Sodexo USA](https://us.sodexo.com/home.html)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69ed67f316b2612c2a124486?utm_campaign=1065&utm_source=git)** | Detroit Metro | On Site | Apr 25 |
 | **[HGM LAW OFFICE, PLLC](http://www.hgmlawoffice.com)** | **[Marketing Intern — Unpaid](https://jobright.ai/jobs/info/69ed5abf0a6e09555304fa9d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 25 |
@@ -69,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Rutgers University](http://www.rutgers.edu)** | **[Creative Brand Partnerships Intern](https://jobright.ai/jobs/info/69ed4397dc35f7132c4b8449?utm_campaign=1065&utm_source=git)** | Piscataway, NJ | On Site | Apr 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Spend Management and Finance, Global Events](https://jobright.ai/jobs/info/69ed17580a6e09555304f5b8?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Apr 25 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d5f490366bb95ba554a214?utm_campaign=1065&utm_source=git)** | Panama City Beach, FL | On Site | Apr 25 |
-| **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ed34cf0a6e09555304f7e5?utm_campaign=1065&utm_source=git)** | Neptune, NJ | On Site | Apr 25 |
 | **[Strategie](https://www.linkedin.com/company/76897759)** | **[Content Specialist Intern](https://jobright.ai/jobs/info/69ed081d0a6e09555304f57d?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Apr 25 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Search Engine Marketing Intern](https://jobright.ai/jobs/info/65077c75c5d6d59a6ff93e23?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Apr 25 |
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69d5bed4891d7b11cfd0404c?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 25 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Haag, a Salas O'Brien Company](https://haagglobal.com/)** | **[Graduate Intern – Market Sector & Client Insights](https://jobright.ai/jobs/info/69ebd8f40a6e09555304aabb?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Remote | Apr 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Social Media & Digital Content Intern – Summer 2026](https://jobright.ai/jobs/info/69ebd2d00a6e09555304a8b4?utm_campaign=1065&utm_source=git)** | Arlington, VA (Alexandria), US | On Site | Apr 24 |
 | **[VenuWorks](http://venuworks.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfd3616b2612c2a120440?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 24 |
+| **[Arch Events](http://arch-events.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69ebfbe00a6e09555304b940?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | Apr 24 |
+| **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Marketing and Business Development Intern](https://jobright.ai/jobs/info/69ebc6410a6e09555304a639?utm_campaign=1065&utm_source=git)** | Correspondent - Atlanta, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
