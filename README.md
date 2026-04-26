@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Search Engine Marketing Intern](https://jobright.ai/jobs/info/65077c75c5d6d59a6ff93e23?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Apr 25 |
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69d5bed4891d7b11cfd0404c?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 25 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69d5339dcdb525785fbcf0a6?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Apr 25 |
-| **[Tag! Fundraising](www.teamtag.co)** | **[Summer Intern](https://jobright.ai/jobs/info/69ed178216b2612c2a123de5?utm_campaign=1065&utm_source=git)** | Huntsville, AL | Hybrid | Apr 25 |
 | **[Hearst Health](http://www.hearsthealth.com)** | **[Creative & Product Marketing Intern](https://jobright.ai/jobs/info/69a65231d706a731db3832f0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 25 |
 | **[SKDK](http://skdknick.com)** | **[PR Internship, Sloane and Company- Summer 2026](https://jobright.ai/jobs/info/69b3521ea8ac8e70ff678b8e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Equine Marketing Intern](https://jobright.ai/jobs/info/68c7c26af42a830e1c7e7587?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Apr 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Social Media & Digital Content Intern – Summer 2026](https://jobright.ai/jobs/info/69ebd2d00a6e09555304a8b4?utm_campaign=1065&utm_source=git)** | Arlington, VA (Alexandria), US | On Site | Apr 24 |
 | **[VenuWorks](http://venuworks.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfd3616b2612c2a120440?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 24 |
 | **[Arch Events](http://arch-events.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69ebfbe00a6e09555304b940?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | Apr 24 |
+| **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Marketing and Business Development Intern](https://jobright.ai/jobs/info/69ebc6410a6e09555304a639?utm_campaign=1065&utm_source=git)** | Correspondent - Atlanta, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
