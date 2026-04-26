@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Antonio Express-News](https://www.expressnews.com)** | **[Digital Audience Stanford Rebele Intern](https://jobright.ai/jobs/info/69ee211fdc35f7132c4ba0b7?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Apr 26 |
+| **[Carta](https://carta.com/)** | **[Marketing Internship - Policy](https://jobright.ai/jobs/info/6997c76ae0bddb6acac68b57?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 26 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/697c14eb1136d179eeefbd89?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 26 |
 | **[Carta](https://carta.com/)** | **[Marketing Internship - Product & Customer Marketing](https://jobright.ai/jobs/info/6997c58081476f6176aff1ba?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 26 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/69b634b23b74eb1e2c83ea72?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Apr 26 |
+| **[Candy Stripers®](http://www.candystripersny.org)** | **[Remote Summer Marketing & Branding Internship](https://jobright.ai/jobs/info/69ee1f897820c036924fe06d?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 26 |
+| **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Marketing & Promotions Intern](https://jobright.ai/jobs/info/6944d4b9a7227b3ece6679b8?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Apr 26 |
 | **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6880cd7a29ad6b2744adc425?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Apr 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697d6fac727747250d585879?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
-| **[Truckpedia](https://truckpedia.io)** | **[Marketing Intern (Social Media)](https://jobright.ai/jobs/info/69ede00f16b2612c2a1255b2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Apr 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3ed4828227293ff047c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 26 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3ed4828227293ff047c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 26 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Intern - Summer 2026](https://jobright.ai/jobs/info/69edc6380a6e095553050b42?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 26 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/69edae147820c036924fd759?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 25 |
 | **[InMobi Advertising](https://www.inmobi.com)** | **[Intern - Marketing (NYC)](https://jobright.ai/jobs/info/69e9bdb83aa0c479643ab76f?utm_campaign=1065&utm_source=git)** | New York | On Site | Apr 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Church News Social Media Intern - Portuguese - Summer/Fall 2026](https://jobright.ai/jobs/info/69ebe54758811370cb13d7bd?utm_campaign=1065&utm_source=git)** | SLC Triad Center, US | On Site | Apr 24 |
 | **[Gorman & Company](http://gormanusa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebe51d7820c036924f7da5?utm_campaign=1065&utm_source=git)** | Oregon, WI, US | On Site | Apr 24 |
 | **[Echelon](https://teamechelon.com)** | **[Sports Sponsorships & Events Intern](https://jobright.ai/jobs/info/69ebe37fdc35f7132c4b4396?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Apr 24 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Paid Sales & Marketing (Social Media) Summer Semester 2026 Intern](https://jobright.ai/jobs/info/69ebe2364b0fa35a7077f54d?utm_campaign=1065&utm_source=git)** | Portsmouth, VA | On Site | Apr 24 |
-| **[Skillz](http://www.skillz.com)** | **[Co-op, Brand](https://jobright.ai/jobs/info/69ebde6a16b2612c2a11f81f?utm_campaign=1065&utm_source=git)** | LV Metro Area | On Site | Apr 24 |
-| **[Marucci Sports](http://maruccisports.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfe0a4b0fa35a707801cd?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
