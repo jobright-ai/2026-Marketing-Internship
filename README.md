@@ -63,9 +63,7 @@ For a complete list, click the following sortable link below:
 | **[Sodexo USA](https://us.sodexo.com/home.html)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69ed67f316b2612c2a124486?utm_campaign=1065&utm_source=git)** | Detroit Metro | On Site | Apr 25 |
 | **[HGM LAW OFFICE, PLLC](http://www.hgmlawoffice.com)** | **[Marketing Intern — Unpaid](https://jobright.ai/jobs/info/69ed5abf0a6e09555304fa9d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 25 |
 | **[Doji](https://www.doji.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69ed7cde7820c036924fcba4?utm_campaign=1065&utm_source=git)** | New York City | On Site | Apr 25 |
-| **[Believed Labs](believedlabs.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69ed4e684b0fa35a70784390?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Angus Reid](https://www.angusreid.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69e635a6f8fa2f3ec32a0343?utm_campaign=1065&utm_source=git)** | Vancouver | On Site | Apr 25 |
-| **[Yola Beauty](http://www.yolabeauty.com)** | **[Operations Intern / Beauty Industry-Digital Marketing Focus](https://jobright.ai/jobs/info/69ed2b3c58811370cb14146e?utm_campaign=1065&utm_source=git)** | Chino, CA | On Site | Apr 25 |
 | **[Heartflow](https://www.heartflow.com)** | **[Summer Intern (Strategic Initiatives)](https://jobright.ai/jobs/info/69ed23197820c036924fc503?utm_campaign=1065&utm_source=git)** | Rohnert Park, California | On Site | Apr 25 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Segment Marketing Intern](https://jobright.ai/jobs/info/69b4d27306c1ba00c546530a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 25 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Creative Brand Partnerships Intern](https://jobright.ai/jobs/info/69ed4397dc35f7132c4b8449?utm_campaign=1065&utm_source=git)** | Piscataway, NJ | On Site | Apr 25 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Echelon](https://teamechelon.com)** | **[Sports Sponsorships & Events Intern](https://jobright.ai/jobs/info/69ebfbc8dc35f7132c4b4a8b?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Apr 24 |
 | **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/69ebdce5dc35f7132c4b3d9d?utm_campaign=1065&utm_source=git)** | SeaWorld San Diego, US | On Site | Apr 24 |
 | **[Black Box](https://www.blackbox.fi)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebdcb7dc35f7132c4b3cbf?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Apr 24 |
+| **[Haag, a Salas O'Brien Company](https://haagglobal.com/)** | **[Graduate Intern – Market Sector & Client Insights](https://jobright.ai/jobs/info/69ebd8f40a6e09555304aabb?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Remote | Apr 24 |
+| **[HNTB](http://www.hntb.com/)** | **[Social Media & Digital Content Intern – Summer 2026](https://jobright.ai/jobs/info/69ebd2d00a6e09555304a8b4?utm_campaign=1065&utm_source=git)** | Arlington, VA (Alexandria), US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
