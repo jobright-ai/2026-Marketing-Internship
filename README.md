@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Truckpedia](https://truckpedia.io)** | **[Marketing Intern (Social Media)](https://jobright.ai/jobs/info/69ede00f16b2612c2a1255b2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Apr 26 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Intern - Summer 2026](https://jobright.ai/jobs/info/69edc6380a6e095553050b42?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 26 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/69edae147820c036924fd759?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 25 |
 | **[InMobi Advertising](https://www.inmobi.com)** | **[Intern - Marketing (NYC)](https://jobright.ai/jobs/info/69e9bdb83aa0c479643ab76f?utm_campaign=1065&utm_source=git)** | New York | On Site | Apr 25 |
 | **[Angus Reid](https://www.angusreid.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69e635a57820c036924ced13?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Apr 25 |
 | **[Sodexo USA](https://us.sodexo.com/home.html)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69ed67f316b2612c2a124486?utm_campaign=1065&utm_source=git)** | Detroit Metro | On Site | Apr 25 |
 | **[HGM LAW OFFICE, PLLC](http://www.hgmlawoffice.com)** | **[Marketing Intern — Unpaid](https://jobright.ai/jobs/info/69ed5abf0a6e09555304fa9d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 25 |
+| **[TapBlaze](http://www.tapblaze.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69eddfd37820c036924fd9f8?utm_campaign=1065&utm_source=git)** | Los Angeles Office | On Site | Apr 25 |
 | **[Doji](https://www.doji.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69ed7cde7820c036924fcba4?utm_campaign=1065&utm_source=git)** | New York City | On Site | Apr 25 |
 | **[Angus Reid](https://www.angusreid.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69e635a6f8fa2f3ec32a0343?utm_campaign=1065&utm_source=git)** | Vancouver | On Site | Apr 25 |
 | **[Heartflow](https://www.heartflow.com)** | **[Summer Intern (Strategic Initiatives)](https://jobright.ai/jobs/info/69ed23197820c036924fc503?utm_campaign=1065&utm_source=git)** | Rohnert Park, California | On Site | Apr 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Black Box](https://www.blackbox.fi)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebdcb7dc35f7132c4b3cbf?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Apr 24 |
 | **[Haag, a Salas O'Brien Company](https://haagglobal.com/)** | **[Graduate Intern – Market Sector & Client Insights](https://jobright.ai/jobs/info/69ebd8f40a6e09555304aabb?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Remote | Apr 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Social Media & Digital Content Intern – Summer 2026](https://jobright.ai/jobs/info/69ebd2d00a6e09555304a8b4?utm_campaign=1065&utm_source=git)** | Arlington, VA (Alexandria), US | On Site | Apr 24 |
-| **[VenuWorks](http://venuworks.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfd3616b2612c2a120440?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 24 |
-| **[Arch Events](http://arch-events.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69ebfbe00a6e09555304b940?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
