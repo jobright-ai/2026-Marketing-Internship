@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Believed Labs](believedlabs.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69ed4e684b0fa35a70784390?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 25 |
+| **[Vector](www.getvectored.io)** | **[Growth Intern](https://jobright.ai/jobs/info/69ed472b4b0fa35a7078436a?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 25 |
 | **[Angus Reid](https://www.angusreid.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69e635a6f8fa2f3ec32a0343?utm_campaign=1065&utm_source=git)** | Vancouver | On Site | Apr 25 |
 | **[Yola Beauty](http://www.yolabeauty.com)** | **[Operations Intern / Beauty Industry-Digital Marketing Focus](https://jobright.ai/jobs/info/69ed2b3c58811370cb14146e?utm_campaign=1065&utm_source=git)** | Chino, CA | On Site | Apr 25 |
 | **[Heartflow](https://www.heartflow.com)** | **[Summer Intern (Strategic Initiatives)](https://jobright.ai/jobs/info/69ed23197820c036924fc503?utm_campaign=1065&utm_source=git)** | Rohnert Park, California | On Site | Apr 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Social Media & Digital Content Intern – Summer 2026](https://jobright.ai/jobs/info/69ebd2d00a6e09555304a8b4?utm_campaign=1065&utm_source=git)** | Arlington, VA (Alexandria), US | On Site | Apr 24 |
 | **[VenuWorks](http://venuworks.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfd3616b2612c2a120440?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 24 |
 | **[Arch Events](http://arch-events.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69ebfbe00a6e09555304b940?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | Apr 24 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Marketing and Business Development Intern](https://jobright.ai/jobs/info/69ebc6410a6e09555304a639?utm_campaign=1065&utm_source=git)** | Correspondent - Atlanta, US | On Site | Apr 24 |
-| **[Family Farm & Home](https://www.familyfarmandhome.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebc493dc35f7132c4b358f?utm_campaign=1065&utm_source=git)** | 900 3rd St, Muskegon, MI 49440, USA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
