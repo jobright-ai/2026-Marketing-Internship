@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBtronics](https://dbtronics.org)** | **[DBtronics Internship Opportunity - Canadian-Based Company](https://jobright.ai/jobs/info/69eea241dc35f7132c4bb2fb?utm_campaign=1065&utm_source=git)** | Canada | Remote | Apr 26 |
+| **[Kitsby](http://www.kitsby.com)** | **[Content & Community Marketing Intern](https://jobright.ai/jobs/info/69ee974c7820c036924ff1c0?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Apr 26 |
 | **[Kentish Publishing Company](https://www.facebook.com/KENTISHPUBLISHINGCOMPANY)** | **[Micro Influencer](https://jobright.ai/jobs/info/69ee90ec0a6e09555305258f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 26 |
 | **[Data Axle - Inboxable](https://www.data-axle.com/what-we-do/inboxable/features/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69ee825016b2612c2a12701a?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 26 |
 | **[Early Morning Software, Inc.](http://www.emslab.com)** | **[PRISM Sales & Marketing Summer Internship](https://jobright.ai/jobs/info/69ee7957dc35f7132c4badf0?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Apr 26 |
@@ -72,21 +74,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee48a0dc35f7132c4ba6e7?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 26 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee489fdc35f7132c4ba6e0?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ee48674b0fa35a70786673?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 26 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ee48664b0fa35a7078666a?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 26 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69ee48664b0fa35a70786670?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Apr 26 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ee48664b0fa35a7078666a?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 26 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69ee48654b0fa35a70786662?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Apr 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ee483c7820c036924fe6c7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69ee482f0a6e095553051b62?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 26 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee482e0a6e095553051b57?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 26 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ee482b16b2612c2a1264ee?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 26 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee482b16b2612c2a1264f2?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 26 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ee482b16b2612c2a1264ee?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ee482a0a6e095553051b46?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Apr 26 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69ee335b4b0fa35a707864e6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 26 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Marketing Outreach Internship (Flexible, 2-5hrs/week)](https://jobright.ai/jobs/info/69ee33524b0fa35a707864cb?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Hybrid | Apr 26 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Text Message Marketing](https://jobright.ai/jobs/info/6998d67981476f6176b13f85?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Apr 26 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Advertising Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69aeffd87495006450936dc9?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Apr 26 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee6ba14b0fa35a70786d1e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 26 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee6d497820c036924fedc3?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 26 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee6d497820c036924fedc3?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 26 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee6ba14b0fa35a70786d1e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ee482b16b2612c2a1264ef?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 26 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69ee482f0a6e095553051b63?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 26 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69ee482b16b2612c2a1264f0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 26 |
@@ -103,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/69edae147820c036924fd759?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 25 |
 | **[InMobi Advertising](https://www.inmobi.com)** | **[Intern - Marketing (NYC)](https://jobright.ai/jobs/info/69e9bdb83aa0c479643ab76f?utm_campaign=1065&utm_source=git)** | New York | On Site | Apr 25 |
 | **[Angus Reid](https://www.angusreid.com/)** | **[2026 Market Research Internship](https://jobright.ai/jobs/info/69e635a57820c036924ced13?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Apr 25 |
-| **[Sodexo USA](https://us.sodexo.com/home.html)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/69ed67f316b2612c2a124486?utm_campaign=1065&utm_source=git)** | Detroit Metro | On Site | Apr 25 |
 | **[HGM LAW OFFICE, PLLC](http://www.hgmlawoffice.com)** | **[Marketing Intern — Unpaid](https://jobright.ai/jobs/info/69ed5abf0a6e09555304fa9d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Apr 25 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69eddfd37820c036924fd9f8?utm_campaign=1065&utm_source=git)** | Los Angeles Office | On Site | Apr 25 |
 | **[Doji](https://www.doji.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69ed7cde7820c036924fcba4?utm_campaign=1065&utm_source=git)** | New York City | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skechers](http://www.skechers.com)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ec38290a6e09555304d718?utm_campaign=1065&utm_source=git)** | Manhattan Beach, CA | On Site | Apr 24 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/69ec37df16b2612c2a121d8a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Social Media & Digital Content Intern – Summer 2026](https://jobright.ai/jobs/info/69ec2e474b0fa35a707812d1?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Apr 24 |
-| **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Brand - Site Merchandising](https://jobright.ai/jobs/info/69ec2743dc35f7132c4b5f1e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
