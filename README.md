@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enove Strategies](https://enovestrategies.com/)** | **[Direct Marketing Intern](https://jobright.ai/jobs/info/69eecbd758811370cb144590?utm_campaign=1065&utm_source=git)** | Pasadena, TX | On Site | Apr 26 |
+| **[Frisco Chamber of Commerce](http://Friscochamber.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69eec9c6dc35f7132c4bb560?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Apr 26 |
+| **[Cornell Global Inc.](www.cornellglobalinc.com)** | **[Direct Marketing Intern](https://jobright.ai/jobs/info/69eec662dc35f7132c4bb4cb?utm_campaign=1065&utm_source=git)** | Spring, TX | On Site | Apr 26 |
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69eebe7d0a6e095553052a0b?utm_campaign=1065&utm_source=git)** | Hendrick Automotive Group, US | On Site | Apr 26 |
 | **[Women Into Networking WIN Community](https://www.wincommunity.org/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69eeaad716b2612c2a127400?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Remote | Apr 26 |
 | **[DBtronics](https://dbtronics.org)** | **[DBtronics Internship Opportunity - Canadian-Based Company](https://jobright.ai/jobs/info/69eea241dc35f7132c4bb2fb?utm_campaign=1065&utm_source=git)** | Canada | Remote | Apr 26 |
@@ -81,14 +84,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ee483c7820c036924fe6c7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69ee482f0a6e095553051b62?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 26 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee482e0a6e095553051b57?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Apr 26 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee482b16b2612c2a1264f2?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ee482b16b2612c2a1264ee?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 26 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee482b16b2612c2a1264f2?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ee482a0a6e095553051b46?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Apr 26 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69ee335b4b0fa35a707864e6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 26 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Text Message Marketing](https://jobright.ai/jobs/info/6998d67981476f6176b13f85?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Apr 26 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Advertising Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69aeffd87495006450936dc9?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Apr 26 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee6d497820c036924fedc3?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 26 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee6ba14b0fa35a70786d1e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 26 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee6ba14b0fa35a70786d1e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 26 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69ee6d497820c036924fedc3?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69ee482b16b2612c2a1264ef?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 26 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69ee482b16b2612c2a1264f0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69ee482f0a6e095553051b63?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tampa Bay Times](http://www.tampabay.com/)** | **[Intern - Newspapers in Education](https://jobright.ai/jobs/info/69ec56b17820c036924fa53d?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | Hybrid | Apr 24 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Marketing (AEG Presents - PromoWest)](https://jobright.ai/jobs/info/69ec41147820c036924fa1e5?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Apr 24 |
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Workday Intern](https://jobright.ai/jobs/info/69ec3872dc35f7132c4b639c?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Apr 24 |
-| **[Skechers](http://www.skechers.com)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ec38290a6e09555304d718?utm_campaign=1065&utm_source=git)** | Manhattan Beach, CA | On Site | Apr 24 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/69ec37df16b2612c2a121d8a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
-| **[HNTB](http://www.hntb.com/)** | **[Social Media & Digital Content Intern – Summer 2026](https://jobright.ai/jobs/info/69ec2e474b0fa35a707812d1?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
