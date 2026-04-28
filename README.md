@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SentinelOne](http://www.sentinelone.com)** | **[Talent Brand & Internal Communications Intern](https://jobright.ai/jobs/info/69dd1b1d9f97a42dc9c347b9?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Apr 27 |
 | **[University of Utah](http://utah.edu)** | **[Student Integrated Health & Marketing Intern](https://jobright.ai/jobs/info/69f03728a4aa3545d8a5d902?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Apr 27 |
 | **[Marucci Sports](http://maruccisports.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfe0a4b0fa35a707801cd?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Apr 27 |
 | **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Lead Generation Intern](https://jobright.ai/jobs/info/69f0364db27fee43e8cd2be1?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 27 |
@@ -68,9 +69,12 @@ For a complete list, click the following sortable link below:
 | **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern (Bilingual - Spanish) - Summer 2026](https://jobright.ai/jobs/info/69f0280fa4aa3545d8a5d40e?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Apr 27 |
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69f0280ca4aa3545d8a5d3fb?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | ↳ | **[Digital Media Intern](https://jobright.ai/jobs/info/69f028032b095843b03119fb?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
+| **[Miami Jewish Health](https://www.miamijewishhealthsystems.org)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/69f0521ab27fee43e8cd310d?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 27 |
 | **[GNC](https://www.gnc.com/)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/69f02749b27fee43e8cd236b?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, 15222, United States | Hybrid | Apr 27 |
+| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Communications Assistant](https://jobright.ai/jobs/info/69f048368feca91f1491a77e?utm_campaign=1065&utm_source=git)** | Shelburne, Nova Scotia, Canada | Remote | Apr 27 |
 | **[Penumbra, Inc.](http://penumbrainc.com)** | **[Neurovascular Product Marketing Intern - Temporary role](https://jobright.ai/jobs/info/69f01fe3825a315d7ca3107c?utm_campaign=1065&utm_source=git)** | Alameda, CA | On Site | Apr 27 |
 | **[Avolta Inc.](https://www.avoltacanada.com)** | **[Social Media Student Intern (co-op)](https://jobright.ai/jobs/info/69f01e078feca91f14919aa5?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 27 |
+| **[CJ America, Inc.](https://cjamerica.com)** | **[[CJ America] Summer Intern - Corporate Affairs (New York)](https://jobright.ai/jobs/info/69f05207825a315d7ca31ce6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Paid Media Intern](https://jobright.ai/jobs/info/69f01315825a315d7ca30e2f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 27 |
 | **[AV Social Media](https://www.linkedin.com/company/108340437)** | **[Social Media Student Internship (Co-op)](https://jobright.ai/jobs/info/69f012e6a4aa3545d8a5cecf?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 27 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[International Marketing Assistant (Student Assistant)](https://jobright.ai/jobs/info/69d7b358b67cec4f9b0967af?utm_campaign=1065&utm_source=git)** | Conway, SC | On Site | Apr 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Internship – Market Research and Product Development](https://jobright.ai/jobs/info/69efc5fafbe0994a40eb8680?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[Central Ohio Transit Authority (COTA)](https://www.cota.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69f009d0fbe0994a40eba024?utm_campaign=1065&utm_source=git)** | Columbus,OH,US | On Site | Apr 27 |
 | **[Phillips Home Improvements](https://phillipshomeimprovements.com/painting)** | **[Video Content and Social Media Intern](https://jobright.ai/jobs/info/69efe81ffbe0994a40eb9657?utm_campaign=1065&utm_source=git)** | Allen, TX | On Site | Apr 27 |
-| **[GSK](http://www.gsk.com)** | **[Omnichannel Student Intern - Mississauga, ON (12-month contract)](https://jobright.ai/jobs/info/69efe3994b0fa35a7078c602?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 27 |
-| **[The Wonderful Company](http://www.wonderful.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/69efbe0f58811370cb148723?utm_campaign=1065&utm_source=git)** | Paso Robles, CA, USA | On Site | Apr 27 |
-| **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Principal & Major Gifts Intern](https://jobright.ai/jobs/info/69efe8180a6e095553058253?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| ↳ | **[Development Operations Intern](https://jobright.ai/jobs/info/69efe76816b2612c2a12c75e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
