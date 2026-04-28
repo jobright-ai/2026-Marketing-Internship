@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hooker Furnishings Corporation](https://www.hookerfurnishings.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69f0d02262b48c6838792211?utm_campaign=1065&utm_source=git)** | High Point, NC | On Site | Apr 28 |
+| **[Social Swells Marketing](www.socialswells.com)** | **[Social Media Manager Summer Intern](https://jobright.ai/jobs/info/69f0cc4a8feca91f1491cd1f?utm_campaign=1065&utm_source=git)** | Red Bank, NJ | Hybrid | Apr 28 |
+| **[Evvolve Circle](https://evvolve.io/evvolve-circle)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/69f0cbcb62b48c6838791f2d?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 28 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Consumer Strategy & Ventures Intern](https://jobright.ai/jobs/info/69f0cb8962b48c6838791eff?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas, US | On Site | Apr 28 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Merchandising Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69d3e364366bb95ba55382a8?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Apr 28 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Corporate Communications Intern (September to December)](https://jobright.ai/jobs/info/69d4f7b3e63cea7a8b65dfbc?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Apr 28 |
 | **[AdTheorent](http://www.adtheorent.com)** | **[Events Associate Intern](https://jobright.ai/jobs/info/69f0c58cb27fee43e8cd4c13?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Apr 28 |
 | ↳ | **[Events Associate Intern](https://jobright.ai/jobs/info/69f0c5618d8d624381a97a04?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | Apr 28 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Marketing Analytics](https://jobright.ai/jobs/info/69e903227820c036924e490a?utm_campaign=1065&utm_source=git)** | Garland, TX | On Site | Apr 28 |
@@ -64,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Commercial Operations Communications](https://jobright.ai/jobs/info/69b327dea8ac8e70ff67659a?utm_campaign=1065&utm_source=git)** | Foster City | On Site | Apr 28 |
 | **[Denver7 (KMGH-TV)](http://thedenverchannel.com)** | **[National Media & Marketing Intern](https://jobright.ai/jobs/info/69f0c45cb27fee43e8cd49e1?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Apr 28 |
 | **[Fezzora, Inc.](fezzorainc.com)** | **[Entry Level Marketing 2026 Internship](https://jobright.ai/jobs/info/69f0c4158d8d624381a977ed?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 28 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Corporate Communications Intern (September to December)](https://jobright.ai/jobs/info/69d4f7b3e63cea7a8b65dfbc?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Apr 28 |
 | **[Enovis](https://enovis.com)** | **[Enabling Technology Marketing Intern](https://jobright.ai/jobs/info/69d4286d54f00230c6d2eb9a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 28 |
 | **[Bonnell Aluminum](https://bonnellaluminum.com)** | **[Marketing & Digital Content Intern](https://jobright.ai/jobs/info/69f0abe98feca91f1491bb6d?utm_campaign=1065&utm_source=git)** | Newnan, GA | On Site | Apr 28 |
 | **[Motion](http://www.dragosupply.com/)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/69d0b64c0b098b7a6707ccc7?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Apr 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69efddc0e624fe645d533c04?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | Apr 27 |
 | **[Lola Blankets](https://lolablankets.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69efdd73e624fe645d533bc7?utm_campaign=1065&utm_source=git)** | Utah, United States | On Site | Apr 27 |
 | **[Clean Nutraceuticals](http://cleannutra.com)** | **[Influencer Marketing Intern (Summer)](https://jobright.ai/jobs/info/69efdd3c16b2612c2a12c1cd?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Apr 27 |
-| **[Finch Brands](https://finchbrands.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69efdd2ce624fe645d533b94?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 27 |
-| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Principal & Major Gifts Intern](https://jobright.ai/jobs/info/69efdad44b0fa35a7078c2b1?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Apr 27 |
-| **[UOVO](https://uovo.art/about-us/#about_careers)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/69f0134fecbc8c2f731fe45f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 27 |
-| **[Hill House Home](http://www.hillhousehome.com/)** | **[Brand Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69efd8630a6e095553057988?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Apr 27 |
-| **[CURA Strategies](https://curastrategies.com)** | **[Internship (Digital Marketing, Public Affairs or Communications)](https://jobright.ai/jobs/info/69efd7e00a6e0955530578f9?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
