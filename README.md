@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Treasury Management Communications](https://jobright.ai/jobs/info/69a781b876bbe83d3afae5d8?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Apr 28 |
+| **[SentinelOne](http://www.sentinelone.com)** | **[Events Coordinator Intern](https://jobright.ai/jobs/info/69d424cf54f00230c6d2e963?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 28 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern, Internal Communications](https://jobright.ai/jobs/info/69cfaf64cdb525785fba4261?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Treasury Management Communications](https://jobright.ai/jobs/info/69a7961d637232443f64d82a?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Apr 28 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69d44f50e63cea7a8b65889f?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Apr 28 |
 | **[SOSA](http://sosa.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f07648825a315d7ca320f8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
+| **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f09e528d8d624381a967fa?utm_campaign=1065&utm_source=git)** | Del Valle, TX | On Site | Apr 28 |
 | **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f06d0a8feca91f1491ab6c?utm_campaign=1065&utm_source=git)** | Neptune, NJ | On Site | Apr 28 |
 | **[Clarence Capital Partners](https://www.clarencecapitalpartners.com)** | **[Market Analytics & GIS Intern](https://jobright.ai/jobs/info/69f06811a4aa3545d8a5e1bb?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | Hybrid | Apr 28 |
 | **[Avenue Z](https://www.avenuez.com)** | **[TikTok Affiliate Intern (In-Office, Miami)](https://jobright.ai/jobs/info/69f067fe8feca91f1491ab1d?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Apr 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Opulence Entertainment Group](https://opulencemia.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69efee9258811370cb149d85?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | Hybrid | Apr 27 |
 | **[Equinix](http://www.equinix.com)** | **[Operations Academy Communications Intern](https://jobright.ai/jobs/info/69efe51116b2612c2a12c61a?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Apr 27 |
 | **[SageNet](http://www.sagenet.com/)** | **[Employer Branding Internship](https://jobright.ai/jobs/info/69efc6f7e624fe645d5336e7?utm_campaign=1065&utm_source=git)** | Marietta, GA | On Site | Apr 27 |
-| **[Q Prime South](http://www.qprime.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69efe5694b0fa35a7078c7db?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Apr 27 |
-| **[Hill House Home](http://www.hillhousehome.com/)** | **[Growth Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69efc6f7e624fe645d5336e8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Communications (AXS)](https://jobright.ai/jobs/info/69efc6820a6e09555305729c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
-| **[Hill House Home](http://www.hillhousehome.com/)** | **[Brand Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69efc659fbe0994a40eb87a6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| **[ATI](https://www.forging.com)** | **[Sales and Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69efc651fbe0994a40eb8770?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
