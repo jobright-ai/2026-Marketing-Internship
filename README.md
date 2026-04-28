@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Phillips Home Improvements](https://phillipshomeimprovements.com/painting)** | **[Video Content and Social Media Intern](https://jobright.ai/jobs/info/69efe81ffbe0994a40eb9657?utm_campaign=1065&utm_source=git)** | Allen, TX | On Site | Apr 27 |
 | **[GSK](http://www.gsk.com)** | **[Omnichannel Student Intern - Mississauga, ON (12-month contract)](https://jobright.ai/jobs/info/69efe3994b0fa35a7078c602?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 27 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/69efbe0f58811370cb148723?utm_campaign=1065&utm_source=git)** | Paso Robles, CA, USA | On Site | Apr 27 |
-| **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Digital Marketing Intern, Email](https://jobright.ai/jobs/info/69efe7fd0a6e09555305821e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| ↳ | **[Principal & Major Gifts Intern](https://jobright.ai/jobs/info/69efe8180a6e095553058253?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
+| **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Principal & Major Gifts Intern](https://jobright.ai/jobs/info/69efe8180a6e095553058253?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
+| ↳ | **[Development Operations Intern](https://jobright.ai/jobs/info/69efe76816b2612c2a12c75e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
