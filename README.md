@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f06d0a8feca91f1491ab6c?utm_campaign=1065&utm_source=git)** | Neptune, NJ | On Site | Apr 28 |
+| **[Clarence Capital Partners](https://www.clarencecapitalpartners.com)** | **[Market Analytics & GIS Intern](https://jobright.ai/jobs/info/69f06811a4aa3545d8a5e1bb?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | Hybrid | Apr 28 |
+| **[Avenue Z](https://www.avenuez.com)** | **[TikTok Affiliate Intern (In-Office, Miami)](https://jobright.ai/jobs/info/69f067fe8feca91f1491ab1d?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Apr 28 |
 | **[CashwalkLabs, Inc.](https://cashwalklabs.io/)** | **[[Cashwalk USA] Founding Growth & Marketing Intern (AI/Data-driven, Manager Track)](https://jobright.ai/jobs/info/69f059fd825a315d7ca31e5f?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Talent Brand & Internal Communications Intern](https://jobright.ai/jobs/info/69dd1b1d9f97a42dc9c347b9?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Apr 27 |
+| **[John Knox Village](https://www.jkv.org/)** | **[Intern - Marketing, Communications & Sales](https://jobright.ai/jobs/info/69f06d08a4aa3545d8a5e206?utm_campaign=1065&utm_source=git)** | Lees Summit, MO | On Site | Apr 27 |
 | **[AWSNA: Assoc. of Waldorf Schools of N. America](https://www.WaldorfEducation.org)** | **[Marketing & Communications](https://jobright.ai/jobs/info/69f05a278feca91f1491a9ec?utm_campaign=1065&utm_source=git)** | Milwaukie, OR | On Site | Apr 27 |
 | **[University of Utah](http://utah.edu)** | **[Student Integrated Health & Marketing Intern](https://jobright.ai/jobs/info/69f03728a4aa3545d8a5d902?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Apr 27 |
 | **[Marucci Sports](http://maruccisports.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfe0a4b0fa35a707801cd?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Apr 27 |
@@ -82,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[International Marketing Assistant (Student Assistant)](https://jobright.ai/jobs/info/69d7b358b67cec4f9b0967af?utm_campaign=1065&utm_source=git)** | Conway, SC | On Site | Apr 27 |
 | **[Gen](https://www.gendigital.com)** | **[MoneyLion Brand Intern](https://jobright.ai/jobs/info/69f012d7a4aa3545d8a5ce9d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[CJ America, Inc.](https://cjamerica.com)** | **[[CJ America] Summer Intern - Corporate Affairs (New York)](https://jobright.ai/jobs/info/69f00cc758811370cb14a580?utm_campaign=1065&utm_source=git)** | New York, New York, NY, US | On Site | Apr 27 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[PR Internship](https://jobright.ai/jobs/info/69f00a670a6e095553058f16?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Apr 27 |
 | **[Ecolink, Inc.](https://ecolink.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f00a45fbe0994a40eba1d5?utm_campaign=1065&utm_source=git)** | Greater St. Louis | Hybrid | Apr 27 |
 | **[Nashville Shores](https://www.nashvilleshores.com/)** | **[Paid Promotions/Event Coordinator Internship](https://jobright.ai/jobs/info/69f00a1ce624fe645d534d61?utm_campaign=1065&utm_source=git)** | Hermitage, TN | On Site | Apr 27 |
 | **[ARDEX Americas](http://www.ardexamericas.com/en-us/Pages/Home.aspx)** | **[Summer Digital Marketing SEO Intern (Unpaid) Fully remote](https://jobright.ai/jobs/info/69f02877b27fee43e8cd253e?utm_campaign=1065&utm_source=git)** | Chester County, PA | Remote | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATI](https://www.forging.com)** | **[Sales and Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69efc651fbe0994a40eb8770?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Apr 27 |
 | **[Reworld Waste](https://www.reworldwaste.com)** | **[Summer Intern - Corporate and Community Relations](https://jobright.ai/jobs/info/69efc64efbe0994a40eb875b?utm_campaign=1065&utm_source=git)** | USA, MD, Dickerson, US | On Site | Apr 27 |
 | **[ATI](https://www.forging.com)** | **[Sales and Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69efc64b4b0fa35a7078bba2?utm_campaign=1065&utm_source=git)** | Natrona Heights, PA | On Site | Apr 27 |
-| **[MANITOU Group](http://www.manitou-group.com)** | **[Social & Data Marketing Intern](https://jobright.ai/jobs/info/69efc6210a6e0955530571c9?utm_campaign=1065&utm_source=git)** | West Bend, WI | On Site | Apr 27 |
-| **[Stabila North America](http://www.stabila.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69efc6010a6e09555305718a?utm_campaign=1065&utm_source=git)** | Elgin, IL | On Site | Apr 27 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Internship – Market Research and Product Development](https://jobright.ai/jobs/info/69efc5fafbe0994a40eb8680?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
