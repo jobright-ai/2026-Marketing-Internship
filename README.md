@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CashwalkLabs, Inc.](https://cashwalklabs.io/)** | **[[Cashwalk USA] Founding Growth & Marketing Intern (AI/Data-driven, Manager Track)](https://jobright.ai/jobs/info/69f059fd825a315d7ca31e5f?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Talent Brand & Internal Communications Intern](https://jobright.ai/jobs/info/69dd1b1d9f97a42dc9c347b9?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Apr 27 |
+| **[AWSNA: Assoc. of Waldorf Schools of N. America](https://www.WaldorfEducation.org)** | **[Marketing & Communications](https://jobright.ai/jobs/info/69f05a278feca91f1491a9ec?utm_campaign=1065&utm_source=git)** | Milwaukie, OR | On Site | Apr 27 |
 | **[University of Utah](http://utah.edu)** | **[Student Integrated Health & Marketing Intern](https://jobright.ai/jobs/info/69f03728a4aa3545d8a5d902?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Apr 27 |
 | **[Marucci Sports](http://maruccisports.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfe0a4b0fa35a707801cd?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Apr 27 |
 | **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Lead Generation Intern](https://jobright.ai/jobs/info/69f0364db27fee43e8cd2be1?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Social & Data Marketing Intern](https://jobright.ai/jobs/info/69efc6210a6e0955530571c9?utm_campaign=1065&utm_source=git)** | West Bend, WI | On Site | Apr 27 |
 | **[Stabila North America](http://www.stabila.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69efc6010a6e09555305718a?utm_campaign=1065&utm_source=git)** | Elgin, IL | On Site | Apr 27 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Internship – Market Research and Product Development](https://jobright.ai/jobs/info/69efc5fafbe0994a40eb8680?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| **[Central Ohio Transit Authority (COTA)](https://www.cota.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69f009d0fbe0994a40eba024?utm_campaign=1065&utm_source=git)** | Columbus,OH,US | On Site | Apr 27 |
-| **[Phillips Home Improvements](https://phillipshomeimprovements.com/painting)** | **[Video Content and Social Media Intern](https://jobright.ai/jobs/info/69efe81ffbe0994a40eb9657?utm_campaign=1065&utm_source=git)** | Allen, TX | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
