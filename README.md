@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Utah](http://utah.edu)** | **[Student Integrated Health & Marketing Intern](https://jobright.ai/jobs/info/69f03728a4aa3545d8a5d902?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Apr 27 |
+| **[Marucci Sports](http://maruccisports.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfe0a4b0fa35a707801cd?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Apr 27 |
+| **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Lead Generation Intern](https://jobright.ai/jobs/info/69f0364db27fee43e8cd2be1?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 27 |
+| **[Penumbra, Inc.](http://penumbrainc.com)** | **[Neurovascular Product Marketing Intern - Temporary role](https://jobright.ai/jobs/info/69f0362bb27fee43e8cd2b47?utm_campaign=1065&utm_source=git)** | Alameda, CA | On Site | Apr 27 |
+| **[TREALT](https://trealt.ca/)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/69f0306ab27fee43e8cd2a9c?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | Apr 27 |
 | **[Sweat EXT](https://swt-ext.com)** | **[Marketing Intern (Social Media Focus)](https://jobright.ai/jobs/info/69f02892ecbc8c2f731fe8ed?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Remote | Apr 27 |
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69f02869825a315d7ca311f7?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[Monument Realty](https://www.monumentrealtytx.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69f0281ba4aa3545d8a5d43e?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Apr 27 |
@@ -81,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Red Light Management](http://redlightmanagement.com/)** | **[Social Media & Digital Marketing Internship](https://jobright.ai/jobs/info/69effc450a6e095553058a6c?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Apr 27 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Brand Marketing](https://jobright.ai/jobs/info/69effc054b0fa35a7078d409?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Apr 27 |
 | **[Reworld Waste](https://www.reworldwaste.com)** | **[Summer Intern - Corporate and Community Relations](https://jobright.ai/jobs/info/69eff5994b0fa35a7078d3bb?utm_campaign=1065&utm_source=git)** | Maryland, United States | On Site | Apr 27 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 Plano Marketing High School Summer Internship Program](https://jobright.ai/jobs/info/69eff3e9fbe0994a40eb9c44?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Apr 27 |
 | **[Rundoo](https://www.rundoo.ai/)** | **[Head of Marketing](https://jobright.ai/jobs/info/69eff3cc0a6e095553058984?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Apr 27 |
 | **[Sofar Ocean](https://www.sofarocean.com)** | **[Spotter Market Development & Partnerships Intern](https://jobright.ai/jobs/info/69eff37f4b0fa35a7078d336?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 27 |
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: Market Research (Fall 2026)](https://jobright.ai/jobs/info/69eff15058811370cb149e6f?utm_campaign=1065&utm_source=git)** | Shippensburg, PA | On Site | Apr 27 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Phillips Home Improvements](https://phillipshomeimprovements.com/painting)** | **[Video Content and Social Media Intern](https://jobright.ai/jobs/info/69efe81ffbe0994a40eb9657?utm_campaign=1065&utm_source=git)** | Allen, TX | On Site | Apr 27 |
 | **[GSK](http://www.gsk.com)** | **[Omnichannel Student Intern - Mississauga, ON (12-month contract)](https://jobright.ai/jobs/info/69efe3994b0fa35a7078c602?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 27 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/69efbe0f58811370cb148723?utm_campaign=1065&utm_source=git)** | Paso Robles, CA, USA | On Site | Apr 27 |
-| **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Principal & Major Gifts Intern](https://jobright.ai/jobs/info/69efe8180a6e095553058253?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| ↳ | **[Digital Marketing Intern, Email](https://jobright.ai/jobs/info/69efe7fd0a6e09555305821e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| ↳ | **[Development Operations Intern](https://jobright.ai/jobs/info/69efe76816b2612c2a12c75e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| **[Electro](electrogum.com)** | **[Athlete Relations Intern](https://jobright.ai/jobs/info/69efbbade624fe645d533431?utm_campaign=1065&utm_source=git)** | Ohio, United States | Remote | Apr 27 |
-| **[Springfield, Missouri, Sports Commission](https://www.springfieldmosports.org)** | **[Springfield (MO) Sports Commission Internship](https://jobright.ai/jobs/info/69efbb894b0fa35a7078b93c?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Apr 27 |
-| **[Creative Culture](https://www.linkedin.com/company/101694746)** | **[Marketing Internship](https://jobright.ai/jobs/info/69efbb874b0fa35a7078b92b?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Apr 27 |
+| **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Digital Marketing Intern, Email](https://jobright.ai/jobs/info/69efe7fd0a6e09555305821e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
+| ↳ | **[Principal & Major Gifts Intern](https://jobright.ai/jobs/info/69efe8180a6e095553058253?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
