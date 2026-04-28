@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SOSA](http://sosa.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f07648825a315d7ca320f8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f06d0a8feca91f1491ab6c?utm_campaign=1065&utm_source=git)** | Neptune, NJ | On Site | Apr 28 |
 | **[Clarence Capital Partners](https://www.clarencecapitalpartners.com)** | **[Market Analytics & GIS Intern](https://jobright.ai/jobs/info/69f06811a4aa3545d8a5e1bb?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | Hybrid | Apr 28 |
 | **[Avenue Z](https://www.avenuez.com)** | **[TikTok Affiliate Intern (In-Office, Miami)](https://jobright.ai/jobs/info/69f067fe8feca91f1491ab1d?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hill House Home](http://www.hillhousehome.com/)** | **[Brand Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69efc659fbe0994a40eb87a6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[ATI](https://www.forging.com)** | **[Sales and Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69efc651fbe0994a40eb8770?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Apr 27 |
 | **[Reworld Waste](https://www.reworldwaste.com)** | **[Summer Intern - Corporate and Community Relations](https://jobright.ai/jobs/info/69efc64efbe0994a40eb875b?utm_campaign=1065&utm_source=git)** | USA, MD, Dickerson, US | On Site | Apr 27 |
-| **[ATI](https://www.forging.com)** | **[Sales and Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69efc64b4b0fa35a7078bba2?utm_campaign=1065&utm_source=git)** | Natrona Heights, PA | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
