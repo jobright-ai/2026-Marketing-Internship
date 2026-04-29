@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Affinitiv](http://www.affinitiv.com)** | **[Digital Advertising Account Intern  (Summer 2026)](https://jobright.ai/jobs/info/69ea8ff54b0fa35a707750b4?utm_campaign=1065&utm_source=git)** | California | Hybrid | Apr 28 |
 | **[ofi](https://www.ofi.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/69f186bd825a315d7ca38586?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/69f186ad825a315d7ca38564?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
 | **[RangeWater Real Estate](https://liverangewater.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69f1869becbc8c2f732064c4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Communications, PR and Content Marketing Intern](https://jobright.ai/jobs/info/69f148d98d8d624381a9b7f8?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Apr 28 |
 | ↳ | **[Events, Webinars & Media Marketing Intern](https://jobright.ai/jobs/info/69f165da62b48c683879546a?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Apr 28 |
 | **[Canadian Federation of Independent Business](http://www.cfib-fcei.ca)** | **[Social Media Coordinator – Internship (12-week contract)](https://jobright.ai/jobs/info/69f1401862b48c6838794912?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
-| **[MUBI](http://mubi.com)** | **[Film Distribution & Theatrical Marketing Intern](https://jobright.ai/jobs/info/69f14105ecbc8c2f73204db7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
-| ↳ | **[Film Editing & Marketing Intern](https://jobright.ai/jobs/info/69f141dcb27fee43e8cd8403?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
+| **[MUBI](http://mubi.com)** | **[Film Editing & Marketing Intern](https://jobright.ai/jobs/info/69f141dcb27fee43e8cd8403?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
+| ↳ | **[Film Distribution & Theatrical Marketing Intern](https://jobright.ai/jobs/info/69f14105ecbc8c2f73204db7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Brand Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/69f118ea62b48c6838793d00?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 28 |
 | ↳ | **[Brand and Product Marketing MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69f118de825a315d7ca36191?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Marketing Intern - Summer 2026 - Boston, MA](https://jobright.ai/jobs/info/69f1350ab27fee43e8cd7b98?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Apr 28 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Marketing & Competitive Intelligence Intern](https://jobright.ai/jobs/info/69f148e08d8d624381a9b818?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Apr 28 |
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Coordinator - Maine Region](https://jobright.ai/jobs/info/69f135fcb27fee43e8cd7dc8?utm_campaign=1065&utm_source=git)** | Portland, ME | On Site | Apr 28 |
 | **[Detail Connect](https://www.detailconnect.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f1411d8d8d624381a9b567?utm_campaign=1065&utm_source=git)** | Warrington, PA | Hybrid | Apr 28 |
-| **[Stanley Martin Homes](http://stanleymartin.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f14188b27fee43e8cd8232?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Apr 28 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f140c2ecbc8c2f73204c4e?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Apr 28 |
+| **[Stanley Martin Homes](http://stanleymartin.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f14229825a315d7ca36f7a?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Apr 28 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f14229825a315d7ca36f79?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Apr 28 |
 | **[SBA Communications](http://www.sbasite.com)** | **[2026 Summer Internship - Sales Support/Marketing Intern](https://jobright.ai/jobs/info/69f12d48825a315d7ca36417?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Apr 28 |
 | **[Arch Events](http://arch-events.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f110638feca91f1491e6b7?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Apr 28 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Omnichannel Marketing Intern](https://jobright.ai/jobs/info/69f1105d8feca91f1491e698?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Apr 28 |
@@ -153,7 +154,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[eCommerce Onsite Search Intern - Fall 2026](https://jobright.ai/jobs/info/69f108bf8d8d624381a99eab?utm_campaign=1065&utm_source=git)** | GREEN BAY, WI, US, 54301-5160 | On Site | Apr 28 |
 | **[Nebraska Furniture Mart](http://www.nfm.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69f1087d62b48c68387933d7?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Apr 28 |
 | **[California Miramar University](http://www.calmu.edu)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f107f6825a315d7ca358c8?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Apr 28 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Consumer Strategy & Ventures Intern](https://jobright.ai/jobs/info/69f107f18d8d624381a99c6c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Derby City Gaming & Hotel](http://www.derbycitygaming.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/69f16604ecbc8c2f73205896?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Apr 28 |
 | **[Cadent](http://www.cadent.tv)** | **[Events Associate Intern](https://jobright.ai/jobs/info/69f103b68feca91f1491df71?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing-1](https://jobright.ai/jobs/info/69f103b062b48c683879322d?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 28 |
