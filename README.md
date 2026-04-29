@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wellnest Fertility](https://wellnestfertility.com)** | **[Wellnest Intern](https://jobright.ai/jobs/info/69f1ddf68d8d624381a9e661?utm_campaign=1065&utm_source=git)** | Ogden, Utah (onsite) | On Site | Apr 29 |
 | **[GREENWOOD 50 SCHOOL DISTRICT](https://www.linkedin.com/company/56874586)** | **[Communications Internship](https://jobright.ai/jobs/info/69f1c936b27fee43e8cdb2b0?utm_campaign=1065&utm_source=git)** | Greenwood, SC | On Site | Apr 29 |
-| **[Advize](https://advizehealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f1c9368feca91f149224ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Digital and Social Media Assistant - Student Hourly](https://jobright.ai/jobs/info/69f1ba4d8d8d624381a9e2ea?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 29 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Brand - Site Merchandising](https://jobright.ai/jobs/info/69f1ba13ecbc8c2f73207f9d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
 | **[Vent Now](https://www.ventnow.ai/)** | **[Content Marketing Manager Intern](https://jobright.ai/jobs/info/69f1b98fb27fee43e8cdafba?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[ofi](https://www.ofi.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/69f186bd825a315d7ca38586?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/69f186ad825a315d7ca38564?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
 | **[RangeWater Real Estate](https://liverangewater.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69f1869becbc8c2f732064c4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
-| **[TONY, LLC](https://www.linkedin.com/company/107227751)** | **[Product Owner – Marketing](https://jobright.ai/jobs/info/69f18176ecbc8c2f73206366?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 28 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69f17ea68d8d624381a9c8f9?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Apr 28 |
 | **[LIPTON Teas and Infusions](https://www.liptonteas.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f1900662b48c6838796a96?utm_campaign=1065&utm_source=git)** | Hoboken, NJ | Hybrid | Apr 28 |
 | **[Volto Santo](voltosantoclothing.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69f1b9848feca91f149222b1?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Apr 28 |
@@ -141,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Marketing & Competitive Intelligence Intern](https://jobright.ai/jobs/info/69f148e08d8d624381a9b818?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Apr 28 |
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Coordinator - Maine Region](https://jobright.ai/jobs/info/69f135fcb27fee43e8cd7dc8?utm_campaign=1065&utm_source=git)** | Portland, ME | On Site | Apr 28 |
 | **[Detail Connect](https://www.detailconnect.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f1411d8d8d624381a9b567?utm_campaign=1065&utm_source=git)** | Warrington, PA | Hybrid | Apr 28 |
-| **[Stanley Martin Homes](http://stanleymartin.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f140c2ecbc8c2f73204c4e?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Apr 28 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f14188b27fee43e8cd8232?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Apr 28 |
+| **[Stanley Martin Homes](http://stanleymartin.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f14188b27fee43e8cd8232?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Apr 28 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f14229825a315d7ca36f7a?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Apr 28 |
 | **[SBA Communications](http://www.sbasite.com)** | **[2026 Summer Internship - Sales Support/Marketing Intern](https://jobright.ai/jobs/info/69f12d48825a315d7ca36417?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Apr 28 |
 | **[Arch Events](http://arch-events.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f110638feca91f1491e6b7?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Apr 28 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Omnichannel Marketing Intern](https://jobright.ai/jobs/info/69f1105d8feca91f1491e698?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Apr 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Aramark](http://www.aramark.com)** | **[Marketing Intern - Univ. of Central Ark](https://jobright.ai/jobs/info/69f140dd8d8d624381a9b409?utm_campaign=1065&utm_source=git)** | Conway, AR | On Site | Apr 28 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Social Media Associate Intern](https://jobright.ai/jobs/info/69f10c498feca91f1491e17c?utm_campaign=1065&utm_source=git)** | US Nationwide - Remote, US | Remote | Apr 28 |
 | **[Giant Noise](http://giantnoise.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f108cf8d8d624381a99ef2?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Apr 28 |
+| **[Grainger](https://www.grainger.com)** | **[eCommerce Merchandising Search Intern - Fall 2026](https://jobright.ai/jobs/info/69f108c08d8d624381a99eaf?utm_campaign=1065&utm_source=git)** | GREEN BAY, WI, US, 54301-5160 | Hybrid | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
