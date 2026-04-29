@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[RangeWater Real Estate](https://liverangewater.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69f1869becbc8c2f732064c4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[TONY, LLC](https://www.linkedin.com/company/107227751)** | **[Product Owner – Marketing](https://jobright.ai/jobs/info/69f18176ecbc8c2f73206366?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 28 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69f17ea68d8d624381a9c8f9?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Apr 28 |
+| **[LIPTON Teas and Infusions](https://www.liptonteas.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f1900662b48c6838796a96?utm_campaign=1065&utm_source=git)** | Hoboken, NJ | Hybrid | Apr 28 |
 | **[Simple SEO Group](https://simpleseogroup.com)** | **[Digital Analyst Internship](https://jobright.ai/jobs/info/69f1660162b48c68387954f3?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Apr 28 |
 | **[The Malco Group](https://malcogrp.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f15ef88d8d624381a9bce3?utm_campaign=1065&utm_source=git)** | Annandale, MN 55302, USA | On Site | Apr 28 |
 | **[The Edge Fitness Clubs LLC](https://www.theedgefitnessclubs.com/)** | **[Marketing and Event Planning Internship](https://jobright.ai/jobs/info/69f15ef7b27fee43e8cd8b7d?utm_campaign=1065&utm_source=git)** | Orange, CT, 06477, United States | On Site | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Derby City Gaming & Hotel](http://www.derbycitygaming.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/69f16604ecbc8c2f73205896?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Apr 28 |
 | **[Cadent](http://www.cadent.tv)** | **[Events Associate Intern](https://jobright.ai/jobs/info/69f103b68feca91f1491df71?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing-1](https://jobright.ai/jobs/info/69f103b062b48c683879322d?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 28 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC News Communications, Marketing, and Research Internships – Academic Year](https://jobright.ai/jobs/info/69f10393b27fee43e8cd6a74?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
