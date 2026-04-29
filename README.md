@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Eurex Marketing (f/m/d)](https://jobright.ai/jobs/info/69f20b33825a315d7ca3a777?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Apr 29 |
 | **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Marketing Intern](https://jobright.ai/jobs/info/69d5a0bf706f771673ba4835?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Apr 29 |
 | **[Provation](https://www.provationmedical.com)** | **[Customer and Market Engagement Intern](https://jobright.ai/jobs/info/69d50a76e63cea7a8b65e695?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 29 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ba86185697383741400f92?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 29 |
@@ -67,13 +68,12 @@ For a complete list, click the following sortable link below:
 | **[Stepful](https://www.stepful.com/)** | **[Director, Performance Marketing](https://jobright.ai/jobs/info/69d58f6ecdb525785fbd1df9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 29 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[National Media & Marketing Intern](https://jobright.ai/jobs/info/69f1f2bfab4ec4779fff69ac?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 29 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Marcomm Student Intern](https://jobright.ai/jobs/info/69f1f382825a315d7ca3a232?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 29 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/69f20b2b8feca91f14922df1?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Apr 29 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/69ec37df16b2612c2a121d8a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 | **[GREENWOOD 50 SCHOOL DISTRICT](https://www.linkedin.com/company/56874586)** | **[Communications Internship](https://jobright.ai/jobs/info/69f1c936b27fee43e8cdb2b0?utm_campaign=1065&utm_source=git)** | Greenwood, SC | On Site | Apr 29 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Digital and Social Media Assistant - Student Hourly](https://jobright.ai/jobs/info/69f1ba4d8d8d624381a9e2ea?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 29 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Brand - Site Merchandising](https://jobright.ai/jobs/info/69f1ba13ecbc8c2f73207f9d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
 | **[Tandemn](https://www.tandemn.com/)** | **[Strategy, Growth and Market Research Intern](https://jobright.ai/jobs/info/69f1d3548d8d624381a9e555?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Apr 29 |
-| **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f1c92c8feca91f1492249b?utm_campaign=1065&utm_source=git)** | Neptune, NJ | On Site | Apr 28 |
-| **[Affinitiv](http://www.affinitiv.com)** | **[Digital Advertising Account Intern  (Summer 2026)](https://jobright.ai/jobs/info/69ea8ff54b0fa35a707750b4?utm_campaign=1065&utm_source=git)** | California | Hybrid | Apr 28 |
 | **[Kin Haus](http://www.thekinhaus.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69f1c949b27fee43e8cdb2e2?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Apr 28 |
 | **[ofi](https://www.ofi.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/69f186bd825a315d7ca38586?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/69f186ad825a315d7ca38564?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Outerknown](https://www.outerknown.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69f1359d825a315d7ca367b3?utm_campaign=1065&utm_source=git)** | Carlsbad, CA, US | On Site | Apr 28 |
 | **[OnLogic](https://www.onlogic.com)** | **[Design Marketing Internship](https://jobright.ai/jobs/info/69f13593ecbc8c2f7320482d?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Apr 28 |
 | **[LIPTON Teas and Infusions](https://www.liptonteas.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f1352e8feca91f1491f0cb?utm_campaign=1065&utm_source=git)** | Hoboken, NJ | Hybrid | Apr 28 |
-| **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Web Analytics & Digital Marketing Intern](https://jobright.ai/jobs/info/69e05840cf5a9e0c33c85da7?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Apr 28 |
-| ↳ | **[Marketing Intern, Member Engagement Ecosystem](https://jobright.ai/jobs/info/69df09f218cf504166e31f0e?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Apr 28 |
+| **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Marketing Intern, Member Engagement Ecosystem](https://jobright.ai/jobs/info/69df09f218cf504166e31f0e?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Apr 28 |
+| ↳ | **[Web Analytics & Digital Marketing Intern](https://jobright.ai/jobs/info/69e05840cf5a9e0c33c85da7?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Apr 28 |
 | **[IFF](http://iff.com)** | **[Intern](https://jobright.ai/jobs/info/69f12dd4b27fee43e8cd79b5?utm_campaign=1065&utm_source=git)** | South Brunswick, NJ | On Site | Apr 28 |
 | **[That One Media Studio](https://dot.cards/thatonemediastudio)** | **[Social Media Manager Intern](https://jobright.ai/jobs/info/69f12da1825a315d7ca3660f?utm_campaign=1065&utm_source=git)** | Savannah, GA | Hybrid | Apr 28 |
 | **[Starbeam](www.starbeam.org)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69f12d8662b48c683879424e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 28 |
