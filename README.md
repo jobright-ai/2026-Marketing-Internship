@@ -57,15 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Marketing Intern](https://jobright.ai/jobs/info/69d5a0bf706f771673ba4835?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Apr 29 |
+| **[Provation](https://www.provationmedical.com)** | **[Customer and Market Engagement Intern](https://jobright.ai/jobs/info/69d50a76e63cea7a8b65e695?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 29 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69ba86185697383741400f92?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Apr 29 |
 | **[Nasuni](https://www.nasuni.com)** | **[MBA Product Marketing Intern](https://jobright.ai/jobs/info/69ba970b3b74eb1e2c88a808?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Apr 29 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[MARKETING INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69d5cc62706f771673ba6d65?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[Rightworks](https://www.rightworks.com/)** | **[Marketing Intern-Events](https://jobright.ai/jobs/info/69d571e5706f771673ba3424?utm_campaign=1065&utm_source=git)** | Nashua, NH | On Site | Apr 29 |
 | **[Wellnest Fertility](https://wellnestfertility.com)** | **[Wellnest Intern](https://jobright.ai/jobs/info/69f1ddf68d8d624381a9e661?utm_campaign=1065&utm_source=git)** | Ogden, Utah (onsite) | On Site | Apr 29 |
+| **[Stepful](https://www.stepful.com/)** | **[Director, Performance Marketing](https://jobright.ai/jobs/info/69d58f6ecdb525785fbd1df9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 29 |
+| **[The E.W. Scripps Company](http://www.scripps.com)** | **[National Media & Marketing Intern](https://jobright.ai/jobs/info/69f1f2bfab4ec4779fff69ac?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 29 |
+| **[Indiana University](https://www.iu.edu)** | **[Part-Time Marcomm Student Intern](https://jobright.ai/jobs/info/69f1f382825a315d7ca3a232?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Apr 29 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/69ec37df16b2612c2a121d8a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 | **[GREENWOOD 50 SCHOOL DISTRICT](https://www.linkedin.com/company/56874586)** | **[Communications Internship](https://jobright.ai/jobs/info/69f1c936b27fee43e8cdb2b0?utm_campaign=1065&utm_source=git)** | Greenwood, SC | On Site | Apr 29 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Digital and Social Media Assistant - Student Hourly](https://jobright.ai/jobs/info/69f1ba4d8d8d624381a9e2ea?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 29 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Brand - Site Merchandising](https://jobright.ai/jobs/info/69f1ba13ecbc8c2f73207f9d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
-| **[Vent Now](https://www.ventnow.ai/)** | **[Content Marketing Manager Intern](https://jobright.ai/jobs/info/69f1b98fb27fee43e8cdafba?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
-| **[GPC Beverage](https://www.gillettepepsicola.com)** | **[Business Intern - Marketing & Social Media](https://jobright.ai/jobs/info/69f1ee7a8d8d624381a9e8b1?utm_campaign=1065&utm_source=git)** | La Crosse, WI | On Site | Apr 29 |
 | **[Tandemn](https://www.tandemn.com/)** | **[Strategy, Growth and Market Research Intern](https://jobright.ai/jobs/info/69f1d3548d8d624381a9e555?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Apr 29 |
 | **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f1c92c8feca91f1492249b?utm_campaign=1065&utm_source=git)** | Neptune, NJ | On Site | Apr 28 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Digital Advertising Account Intern  (Summer 2026)](https://jobright.ai/jobs/info/69ea8ff54b0fa35a707750b4?utm_campaign=1065&utm_source=git)** | California | Hybrid | Apr 28 |
@@ -124,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[ES Advertising, Inc.](http://www.esadvertising.net)** | **[Summer Marketing/Creative Intern](https://jobright.ai/jobs/info/69f147078d8d624381a9b781?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[Sino Biological, Inc.](http://www.sinobiological.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69f141408d8d624381a9b62f?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[KDM Engineering](https://kdmengineering.com/)** | **[2026 Marketing Internship](https://jobright.ai/jobs/info/69f16cc68d8d624381a9c02e?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
-| **[Habitat for Humanity of Jacksonville](https://www.habijax.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69f14125ecbc8c2f73204e75?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Apr 28 |
+| **[First Coast Habitat for Humanity](https://www.habijax.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69f14125ecbc8c2f73204e75?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Apr 28 |
 | **[TENEX.AI](https://tenex.ai)** | **[Communications, PR and Content Marketing Intern](https://jobright.ai/jobs/info/69f11f888feca91f1491eafd?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Apr 28 |
 | ↳ | **[Communications, PR and Content Marketing Intern](https://jobright.ai/jobs/info/69f148d98d8d624381a9b7f8?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Apr 28 |
 | ↳ | **[Events, Webinars & Media Marketing Intern](https://jobright.ai/jobs/info/69f165da62b48c683879546a?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Apr 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Scout Guide Southlake and Grapevine](https://thescoutguide.com/southlake-grapevine/virtualguide/)** | **[Intern](https://jobright.ai/jobs/info/69f1104b8d8d624381a9a2fc?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | Apr 28 |
 | **[The Porch Company](https://porchco.com)** | **[Marketing Apprentice](https://jobright.ai/jobs/info/69f10fe3825a315d7ca35d89?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Apr 28 |
 | **[Expeditors](http://www.expeditors.com)** | **[Summer Intern - Global Sales & Marketing](https://jobright.ai/jobs/info/69f10f47825a315d7ca35c0d?utm_campaign=1065&utm_source=git)** | 3545 Factoria Blvd SE, Bellevue, WA 98006, USA | On Site | Apr 28 |
-| **[Intelas](intelashealth.com)** | **[Marketing Intern, Chartwells Higher Ed / Idaho State University](https://jobright.ai/jobs/info/69f10f29ecbc8c2f73203850?utm_campaign=1065&utm_source=git)** | Pocatello, ID, US | On Site | Apr 28 |
-| **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Marketing Internship](https://jobright.ai/jobs/info/69f10e068feca91f1491e281?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Apr 28 |
-| **[Blue Interactive Agency](http://www.blueinteractiveagency.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f10df98feca91f1491e23e?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Medical Strategy Intern](https://jobright.ai/jobs/info/699646f0ce78e77b4fda4315?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
-| **[EdVoice](https://www.edvoice.org/)** | **[Education Development, Marketing, & Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/69f10ddb62b48c6838793447?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
