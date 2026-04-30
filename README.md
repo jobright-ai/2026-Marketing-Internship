@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Public & Media Relations (Fall 2026)](https://jobright.ai/jobs/info/69d722da48f0c8161d2fd2a5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Apr 30 |
+| **[CARFAX](https://www.carfax.com/)** | **[Brand Content Intern](https://jobright.ai/jobs/info/69d6e2d4706f771673baeaf3?utm_campaign=1065&utm_source=git)** | Centreville, VA | On Site | Apr 30 |
+| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa56bc2ebd316bece219c8?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Apr 30 |
 | **[CivicScience](http://civicscience.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69f322471f90bd6ae23cdb51?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Remote | Apr 30 |
 | **[Lee Company](http://www.leecompany.com/hvac/nashville-tn/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f31e1b58b23a2329da2fe5?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Apr 30 |
 | **[TechSpaces Education](https://www.techspaceseducation.org)** | **[Content Writer Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69f311b68d8d624381aa5135?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Jitto](getjitto.com)** | **[Content Creator & Social Media Intern](https://jobright.ai/jobs/info/69f302f2825a315d7ca4197b?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Eysè](www.eyse.co)** | **[Summer Intern](https://jobright.ai/jobs/info/69f2f9258feca91f149290c5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 29 |
-| **[BDO USA](https://www.bdo.com/)** | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f8f38feca91f14928eef?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Apr 29 |
-| ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f8f38feca91f14928eec?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 29 |
+| **[BDO USA](https://www.bdo.com/)** | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f8f38feca91f14928eec?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 29 |
+| ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f8f38feca91f14928eef?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Apr 29 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f70fab4ec4779fffdc78?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 29 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f318b18feca91f14929884?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f32f58343eef4fb0a99480?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Strategy & Market Intelligence](https://jobright.ai/jobs/info/69f26a1ef154d768fbaa6eab?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Apr 29 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/69f26a0fab4ec4779fff90dc?utm_campaign=1065&utm_source=git)** | Racine, WI | Hybrid | Apr 29 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69f269e68d8d624381aa0d0f?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Apr 29 |
-| **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Merchandising, Collaborations](https://jobright.ai/jobs/info/69f269ce825a315d7ca3c945?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 29 |
-| **[Electro](electrogum.com)** | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/69f269cd825a315d7ca3c93c?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Apr 29 |
-| **[Syracuse Events](https://www.syracuseevents.org/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69f269cb825a315d7ca3c92e?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
