@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern - Website Marketing (M-W in office)](https://jobright.ai/jobs/info/69f376251f90bd6ae23cf433?utm_campaign=1065&utm_source=git)** | US-MI-Livonia (Headquarters) | Hybrid | Apr 30 |
+| **[University of St. Thomas](http://www.stthomas.edu)** | **[Student Affairs Social Media Content Creator Intern](https://jobright.ai/jobs/info/69f3762058b23a2329da4877?utm_campaign=1065&utm_source=git)** | St. Paul, MN, US | On Site | Apr 30 |
+| **[Tommy Gate](http://www.tommygate.com/)** | **[Marketing Intern (Digital Focus)](https://jobright.ai/jobs/info/69f3761d58b23a2329da4872?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Apr 30 |
+| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern - Website Marketing (M-W in office)](https://jobright.ai/jobs/info/69f376066942c746fa691585?utm_campaign=1065&utm_source=git)** | 17410 College Parkway | Hybrid | Apr 30 |
+| **[ALT Digital Strategies, LLC](https://www.altdigitalstrategies.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69f37385343eef4fb0a9a69f?utm_campaign=1065&utm_source=git)** | Leesburg, VA | Hybrid | Apr 30 |
+| **[Venuse - Sports Content Creation](https://www.venuse.com)** | **[Content Intern – Sports Media (Channel Management / Editing / Social Media)](https://jobright.ai/jobs/info/69f373076942c746fa6914a9?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Apr 30 |
+| **[Main Street Dermatology](mainstreetdermatology.com)** | **[Main Street Dermatology Marketing Internship](https://jobright.ai/jobs/info/69f372db58b23a2329da47e0?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Apr 30 |
 | **[iFinance Canada](https://www.ifinancecanada.com)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69f36a821f90bd6ae23cf1d9?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 30 |
 | **[PAAIA (Public Affairs Alliance of Iranian Americans)](http://www.paaia.org)** | **[Communications and Civic Engagement Intern](https://jobright.ai/jobs/info/69f36a21343eef4fb0a9a523?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Apr 30 |
 | **[Hue & Cry | Certified B Corp](https://huecryagency.com/)** | **[Public Relations Internship (Paid)](https://jobright.ai/jobs/info/69f36a0b343eef4fb0a9a4cc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[D.S. & DURGA](https://dsanddurga.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f28be5ab4ec4779fff9c60?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Apr 29 |
 | **[AMG | Association Management](https://www.alamomanagementgroup.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69f28bdf8feca91f14925a04?utm_campaign=1065&utm_source=git)** | Babcock Ranch, FL | On Site | Apr 29 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Social Media Marketing](https://jobright.ai/jobs/info/69f28bc68d8d624381aa1785?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States of America | On Site | Apr 29 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f28aeaecbc8c2f7320b2c3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
-| **[BridgeBio](http://bridgebio.com)** | **[People Experience Summer Intern](https://jobright.ai/jobs/info/69f28520ab4ec4779fff98ef?utm_campaign=1065&utm_source=git)** | San Francisco - 1800 Owens | Hybrid | Apr 29 |
-| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69f28502ab4ec4779fff9883?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Apr 29 |
-| **[American Arbitration Association](https://www.adr.org)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69f284bcf154d768fbaa786e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 29 |
-| **[USAA](https://www.usaa.com)** | **[Communications Advisor Intern](https://jobright.ai/jobs/info/69f2815dab4ec4779fff9644?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 29 |
-| **[Razer Inc.](https://www.razer.com)** | **[RazerStore Marketing Intern (Influencer & Content)](https://jobright.ai/jobs/info/69f2813a8feca91f149251a0?utm_campaign=1065&utm_source=git)** | Irvine, CA, US | On Site | Apr 29 |
-| **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69f281398feca91f14925193?utm_campaign=1065&utm_source=git)** | Coral Gables, Florida, US | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
