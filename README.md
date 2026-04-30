@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f8f38feca91f14928eec?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 29 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f70fab4ec4779fffdc78?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 29 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f318b18feca91f14929884?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
+| ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f32f58343eef4fb0a99480?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Apr 29 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Event Marketing (Flexible, 2-5hrs/week)](https://jobright.ai/jobs/info/69f2ea11ab4ec4779fffda59?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Apr 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69f30be3ab4ec4779fffe5b2?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
 | **[Poudre Valley REA](https://pvrea.coop)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69f302e2ecbc8c2f7320f805?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern - Gap Merchandising, Collaborations](https://jobright.ai/jobs/info/69f269ce825a315d7ca3c945?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Electro](electrogum.com)** | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/69f269cd825a315d7ca3c93c?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Apr 29 |
 | **[Syracuse Events](https://www.syracuseevents.org/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69f269cb825a315d7ca3c92e?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 29 |
-| **[Donor Network of Arizona](http://www.dnaz.org)** | **[Paid Marketing Internship (Bilingual Required)](https://jobright.ai/jobs/info/69e7fdf90a6e09555302d86d?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
