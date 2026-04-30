@@ -57,16 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Event Marketing (Flexible, 2-5hrs/week)](https://jobright.ai/jobs/info/69f2ea11ab4ec4779fffda59?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Apr 29 |
 | **[SourceReady](https://www.sourceready.com)** | **[Creative Marketing Intern (Video Content)](https://jobright.ai/jobs/info/69f2d88134c4af7a79ab7a1e?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69f2d7fb8d8d624381aa44d3?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | On Site | Apr 29 |
-| **[New Balance](http://www.newbalance.com)** | **[Running Community and Events Intern](https://jobright.ai/jobs/info/69f2cf9e825a315d7ca3fe00?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Apr 29 |
+| **[Connect 4 Marketing Ltd.](https://www.linkedin.com/company/88028069)** | **[Marketing Summer Intern — Design, Content & AI-Driven Production](https://jobright.ai/jobs/info/69f2ec4c8feca91f14928d07?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 29 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Digital Communications Intern - ENV](https://jobright.ai/jobs/info/69f2cd8a8d8d624381aa401b?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 29 |
 | **[Liva AI](https://www.theliva.ai)** | **[Growth Intern](https://jobright.ai/jobs/info/69f2cd5becbc8c2f7320da9f?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Grace Hill](http://www.gracehill.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69f2cc51ecbc8c2f7320da15?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Moments By Max: Balloon Decor, Marquees & Event Rentals](www.momentsbymax.com)** | **[Social Media, Marketing & Admin Internship](https://jobright.ai/jobs/info/69f2ca71825a315d7ca3f9c8?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Apr 29 |
 | **[Veregy](https://www.veregy.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69f2c17a8d8d624381aa3c85?utm_campaign=1065&utm_source=git)** | Illinois, United States | On Site | Apr 29 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Brand Marketing Intern](https://jobright.ai/jobs/info/69f2c1618d8d624381aa3bee?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Apr 29 |
-| **[New Balance](http://www.newbalance.com)** | **[Running Community and Events Intern](https://jobright.ai/jobs/info/69f2bde98feca91f14927122?utm_campaign=1065&utm_source=git)** | Brighton, Massachusetts, United States of America | Hybrid | Apr 29 |
 | **[Uplane](https://uplane.com)** | **[Growth Analyst Intern](https://jobright.ai/jobs/info/69f2bd07ecbc8c2f7320d4fc?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 29 |
 | **[emtelligent](https://www.emtelligent.com)** | **[Digital Marketing Intern - SEO, Paid Media & Web](https://jobright.ai/jobs/info/69f2b65c825a315d7ca3e028?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
 | **[M.C. Dean, Inc.](http://mcdean.com)** | **[Early Internship Program - Summer 2026 (Marketing & Communications Intern)](https://jobright.ai/jobs/info/69f2b32d8feca91f1492662b?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 29 |
