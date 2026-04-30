@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechSpaces Education](https://www.techspaceseducation.org)** | **[Content Writer Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69f311b68d8d624381aa5135?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Jitto](getjitto.com)** | **[Content Creator & Social Media Intern](https://jobright.ai/jobs/info/69f302f2825a315d7ca4197b?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Eysè](www.eyse.co)** | **[Summer Intern](https://jobright.ai/jobs/info/69f2f9258feca91f149290c5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f8f38feca91f14928eef?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Apr 29 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f8f38feca91f14928eec?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 29 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f70fab4ec4779fffdc78?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 29 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Event Marketing (Flexible, 2-5hrs/week)](https://jobright.ai/jobs/info/69f2ea11ab4ec4779fffda59?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Apr 29 |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69f30be3ab4ec4779fffe5b2?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
 | **[Poudre Valley REA](https://pvrea.coop)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69f302e2ecbc8c2f7320f805?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Apr 29 |
 | **[SourceReady](https://www.sourceready.com)** | **[Creative Marketing Intern (Video Content)](https://jobright.ai/jobs/info/69f2d88134c4af7a79ab7a1e?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69f2d7fb8d8d624381aa44d3?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | On Site | Apr 29 |
@@ -80,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[M.C. Dean, Inc.](http://mcdean.com)** | **[Early Internship Program - Summer 2026 (Marketing & Communications Intern)](https://jobright.ai/jobs/info/69f2b32d8feca91f1492662b?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 29 |
 | **[Razer Inc.](https://www.razer.com)** | **[RazerStore Marketing Intern (Influencer & Content)](https://jobright.ai/jobs/info/69f2af418d8d624381aa22b0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Apr 29 |
 | **[NEAT Method New York City](https://neatmethod.com/pages/new-york)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69f2cf7cecbc8c2f7320dc2f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 29 |
-| **[Churchill Consulting Engineers](http://www.churchillengineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f2d7e0825a315d7ca40ff5?utm_campaign=1065&utm_source=git)** | Neptune, NJ | On Site | Apr 29 |
 | **[Goodwill Industries of Greater Cleveland and East Central Ohio, Inc.](http://www.GoodwillGoodSkills.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f2ada5ecbc8c2f7320bd1b?utm_campaign=1065&utm_source=git)** | Canton,OH,US | On Site | Apr 29 |
 | **[Signorelli Company](https://www.signorellicompany.com/)** | **[Signorelli Intern Program](https://jobright.ai/jobs/info/69f2a84b825a315d7ca3dd1d?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | On Site | Apr 29 |
 | **[CLEAResult](http://www.clearesult.com)** | **[Corporate Communications Intern (Part-time)](https://jobright.ai/jobs/info/69f2a82d34c4af7a79ab4429?utm_campaign=1065&utm_source=git)** | Florida, United States | Hybrid | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tommy Gate](http://www.tommygate.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f268d58feca91f1492486d?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Apr 29 |
 | **[American First Credit Union](https://www.amerfirst.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f260358d8d624381aa0958?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Apr 29 |
 | **[Purity Products](http://www.purityproducts.com)** | **[Content & Influencer Marketing Intern](https://jobright.ai/jobs/info/69ef84db0a6e0955530555f9?utm_campaign=1065&utm_source=git)** | Plainview, NY | Hybrid | Apr 29 |
-| **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/69f25c9b825a315d7ca3c191?utm_campaign=1065&utm_source=git)** | Santa Barbara, CA | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
