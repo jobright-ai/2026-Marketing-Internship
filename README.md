@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FlowState AI](https://flowstatehq.com/)** | **[Growth Intern (Summer)](https://jobright.ai/jobs/info/69f2bd278d8d624381aa3982?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Apr 29 |
+| **[Uplane](https://uplane.com)** | **[Growth Analyst Intern](https://jobright.ai/jobs/info/69f2bd07ecbc8c2f7320d4fc?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Apr 29 |
+| **[SHIP AI LABS](www.shipailabs.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f2b66b34c4af7a79ab4891?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
+| **[emtelligent](https://www.emtelligent.com)** | **[Digital Marketing Intern - SEO, Paid Media & Web](https://jobright.ai/jobs/info/69f2b65c825a315d7ca3e028?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
 | **[M.C. Dean, Inc.](http://mcdean.com)** | **[Early Internship Program - Summer 2026 (Marketing & Communications Intern)](https://jobright.ai/jobs/info/69f2b32d8feca91f1492662b?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 29 |
 | **[Razer Inc.](https://www.razer.com)** | **[RazerStore Marketing Intern (Influencer & Content)](https://jobright.ai/jobs/info/69f2af418d8d624381aa22b0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Apr 29 |
 | **[Goodwill Industries of Greater Cleveland and East Central Ohio, Inc.](http://www.GoodwillGoodSkills.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f2ada5ecbc8c2f7320bd1b?utm_campaign=1065&utm_source=git)** | Canton,OH,US | On Site | Apr 29 |
@@ -80,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Poudre Valley REA](https://pvrea.coop)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69f29a3aecbc8c2f7320b92d?utm_campaign=1065&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Apr 29 |
 | **[Community Clinic](https://www.communityclinicnwa.org/)** | **[Marketing Operations & Systems Intern](https://jobright.ai/jobs/info/69f29a31f154d768fbaa803f?utm_campaign=1065&utm_source=git)** | Springdale, AR, US | On Site | Apr 29 |
 | ↳ | **[Marketing Intern - Content Creation & Social Media](https://jobright.ai/jobs/info/69f29a26ab4ec4779fff9ef5?utm_campaign=1065&utm_source=git)** | Springdale, AR, US | On Site | Apr 29 |
+| **[Primos Dallas](http://www.losprimosdallas.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f2bd328d8d624381aa39f4?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[Legends Global](http://legends.net)** | **[Event Services Intern - State Farm Stadium](https://jobright.ai/jobs/info/69f29727f154d768fbaa7fa4?utm_campaign=1065&utm_source=git)** | Glendale, AZ | On Site | Apr 29 |
 | **[TYPSA US](www.typsa.us)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f29712f154d768fbaa7f65?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Apr 29 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Social Media Marketing](https://jobright.ai/jobs/info/69f29709f154d768fbaa7f30?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Apr 29 |
@@ -121,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Connection](http://www.pcconnection.com)** | **[Healthcare GPO Vertical Marketing Intern- PCC](https://jobright.ai/jobs/info/69f26e10ecbc8c2f7320a7c7?utm_campaign=1065&utm_source=git)** | Merrimack, NH | On Site | Apr 29 |
 | **[Centella](http://www.med-lab.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f26e0cab4ec4779fff92ad?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Apr 29 |
 | **[Essex Industries](http://essexindustries.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f26e0af154d768fbaa6f32?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Apr 29 |
-| **[Pacagen](https://pacagen.com)** | **[Marketing & Content Intern](https://jobright.ai/jobs/info/69f2aebf8feca91f14926464?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Strategy & Market Intelligence](https://jobright.ai/jobs/info/69f26a1ef154d768fbaa6eab?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Apr 29 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/69f26a0fab4ec4779fff90dc?utm_campaign=1065&utm_source=git)** | Racine, WI | Hybrid | Apr 29 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69f269e68d8d624381aa0d0f?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Apr 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Relations Intern (Remote)](https://jobright.ai/jobs/info/69f24607ecbc8c2f73209ba8?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Power Design, Inc.](http://www.powerdesigninc.us/)** | **[Event Experience Intern](https://jobright.ai/jobs/info/69f245d7ab4ec4779fff850c?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | On Site | Apr 29 |
 | **[Kao EMEA & Americas](http://www.kao.com/)** | **[Marketing Intern - Jergens (Summer)](https://jobright.ai/jobs/info/69f245b5f154d768fbaa638a?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 29 |
-| **[EDSA, Inc.](http://www.edsaplan.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f2456bf154d768fbaa627e?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 29 |
-| **[Pincus Plastic Surgery PC](https://www.pincusplasticsurgery.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f243b9ecbc8c2f732099ff?utm_campaign=1065&utm_source=git)** | Smithtown, NY | On Site | Apr 29 |
-| **[Oxfam America](http://www.oxfamamerica.org/)** | **[Public Engagement Intern](https://jobright.ai/jobs/info/69f2605fab4ec4779fff8bfa?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Apr 29 |
-| **[OUTFRONT Media](https://www.outfront.com)** | **[Summer Intern, Marketing](https://jobright.ai/jobs/info/69f2437df154d768fbaa612c?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
