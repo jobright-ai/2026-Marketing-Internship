@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jitto](getjitto.com)** | **[Content Creator & Social Media Intern](https://jobright.ai/jobs/info/69f302f2825a315d7ca4197b?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Eysè](www.eyse.co)** | **[Summer Intern](https://jobright.ai/jobs/info/69f2f9258feca91f149290c5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f8f38feca91f14928eef?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Apr 29 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f8f38feca91f14928eec?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 29 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f70fab4ec4779fffdc78?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 29 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Event Marketing (Flexible, 2-5hrs/week)](https://jobright.ai/jobs/info/69f2ea11ab4ec4779fffda59?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Apr 29 |
-| **[Vent Now](https://www.ventnow.ai/)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/69f2f9008feca91f14928f5d?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
+| **[Poudre Valley REA](https://pvrea.coop)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69f302e2ecbc8c2f7320f805?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Apr 29 |
 | **[SourceReady](https://www.sourceready.com)** | **[Creative Marketing Intern (Video Content)](https://jobright.ai/jobs/info/69f2d88134c4af7a79ab7a1e?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69f2d7fb8d8d624381aa44d3?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | On Site | Apr 29 |
 | **[FlowState AI](https://flowstatehq.com/)** | **[Growth Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2f72434c4af7a79ab805a?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Apr 29 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Operations & Systems Intern](https://jobright.ai/jobs/info/69f2975a8feca91f14925caf?utm_campaign=1065&utm_source=git)** | Springdale, AR | On Site | Apr 29 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Event Services Intern - State Farm Stadium](https://jobright.ai/jobs/info/69f2793d8d8d624381aa0f42?utm_campaign=1065&utm_source=git)** | Glendale, AZ, US | On Site | Apr 29 |
 | **[CCMC](http://ccmcnet.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69f27826ecbc8c2f7320a94b?utm_campaign=1065&utm_source=git)** | Babcock Ranch, FL | On Site | Apr 29 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Quilly Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69f277af8feca91f14924cab?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Digbi Health](https://digbihealth.com)** | **[B2B SDR Profile Manager ( Summer Intern)](https://jobright.ai/jobs/info/69f2778cf154d768fbaa7057?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 29 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Social Media Marketing](https://jobright.ai/jobs/info/69f2a7f9ecbc8c2f7320bc23?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Apr 29 |
 | **[Connection](http://www.pcconnection.com)** | **[Healthcare GPO Vertical Marketing Intern- PCC](https://jobright.ai/jobs/info/69f26e10ecbc8c2f7320a7c7?utm_campaign=1065&utm_source=git)** | Merrimack, NH | On Site | Apr 29 |
