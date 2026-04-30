@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CivicScience](http://civicscience.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69f322471f90bd6ae23cdb51?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Remote | Apr 30 |
+| **[Lee Company](http://www.leecompany.com/hvac/nashville-tn/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f31e1b58b23a2329da2fe5?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Apr 30 |
 | **[TechSpaces Education](https://www.techspaceseducation.org)** | **[Content Writer Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69f311b68d8d624381aa5135?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Jitto](getjitto.com)** | **[Content Creator & Social Media Intern](https://jobright.ai/jobs/info/69f302f2825a315d7ca4197b?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Eysè](www.eyse.co)** | **[Summer Intern](https://jobright.ai/jobs/info/69f2f9258feca91f149290c5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f8f38feca91f14928eef?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Apr 29 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f8f38feca91f14928eec?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 29 |
 | ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f2f70fab4ec4779fffdc78?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 29 |
+| ↳ | **[Marketing & Communications Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f318b18feca91f14929884?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Event Marketing (Flexible, 2-5hrs/week)](https://jobright.ai/jobs/info/69f2ea11ab4ec4779fffda59?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Apr 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/69f30be3ab4ec4779fffe5b2?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
 | **[Poudre Valley REA](https://pvrea.coop)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/69f302e2ecbc8c2f7320f805?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/69f269cd825a315d7ca3c93c?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Apr 29 |
 | **[Syracuse Events](https://www.syracuseevents.org/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69f269cb825a315d7ca3c92e?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Apr 29 |
 | **[Donor Network of Arizona](http://www.dnaz.org)** | **[Paid Marketing Internship (Bilingual Required)](https://jobright.ai/jobs/info/69e7fdf90a6e09555302d86d?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Apr 29 |
-| **[Tommy Gate](http://www.tommygate.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f268d58feca91f1492486d?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Apr 29 |
-| **[American First Credit Union](https://www.amerfirst.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f260358d8d624381aa0958?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Apr 29 |
-| **[Purity Products](http://www.purityproducts.com)** | **[Content & Influencer Marketing Intern](https://jobright.ai/jobs/info/69ef84db0a6e0955530555f9?utm_campaign=1065&utm_source=git)** | Plainview, NY | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
