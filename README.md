@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[BillBoss](https://billboss.ai)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69f45a2edb88714bcdfad287?utm_campaign=1065&utm_source=git)** | Westwood, CA | On Site | May 01 |
 | **[Squirl Signs](https://www.squirlsigns.com/)** | **[Marketing Director](https://jobright.ai/jobs/info/69f44da4461b9b613a62650f?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 30 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, North America Marketing Operations](https://jobright.ai/jobs/info/69f448a9343eef4fb0aa06de?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 30 |
+| **[Wagner Equipment](http://wagnerequipment.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f4725181706a5bd21605ad?utm_campaign=1065&utm_source=git)** | Aurora, CO | On Site | Apr 30 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[College Intern](https://jobright.ai/jobs/info/69f43a84c78b9e4518959b53?utm_campaign=1065&utm_source=git)** | Clearwater, FL | Remote | Apr 30 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69f430f3c78b9e4518959ac7?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Apr 30 |
 | **[Shamrock Trading Corporation](https://www.shamrocktradingcorp.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/69f4309f6942c746fa697061?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Apr 30 |
@@ -129,32 +130,31 @@ For a complete list, click the following sortable link below:
 | **[Oscar Health](http://www.hioscar.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/69f3bc5258b23a2329da7d2f?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Apr 30 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Marketing Intern - Demand Generation](https://jobright.ai/jobs/info/69f3dab61f90bd6ae23d237e?utm_campaign=1065&utm_source=git)** | Arlington, Virginia | Hybrid | Apr 30 |
 | **[Outlyr](https://outlyr.com)** | **[BITE Food Festival Event Intern](https://jobright.ai/jobs/info/69f3e3376942c746fa695af4?utm_campaign=1065&utm_source=git)** | Arkansas, United States | On Site | Apr 30 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045a1f90bd6ae23d3251?utm_campaign=1065&utm_source=git)** | Charlotte - North Tryon, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966c5?utm_campaign=1065&utm_source=git)** | Memphis - 6410 Poplar, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966b5?utm_campaign=1065&utm_source=git)** | High Point - Eastchester, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404c1343eef4fb0a9f6e2?utm_campaign=1065&utm_source=git)** | Naples - Pelican Bay, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404581f90bd6ae23d324c?utm_campaign=1065&utm_source=git)** | Kahului - Lono, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404c1343eef4fb0a9f6e7?utm_campaign=1065&utm_source=git)** | Carmel - Clay, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966c7?utm_campaign=1065&utm_source=git)** | Alpharetta - Kimball, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966b3?utm_campaign=1065&utm_source=git)** | Brandenburg - High, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045a461b9b613a625558?utm_campaign=1065&utm_source=git)** | Raleigh - 1 Glenwood, US | Remote | Apr 30 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045f461b9b613a625564?utm_campaign=1065&utm_source=git)** | Indianapolis - Monument, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045b461b9b613a62555b?utm_campaign=1065&utm_source=git)** | Johns Creek - Lakefield, US | Remote | Apr 30 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966ca?utm_campaign=1065&utm_source=git)** | Edina - Lincoln, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404571f90bd6ae23d3242?utm_campaign=1065&utm_source=git)** | Baton Rouge - 801 North, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045f1f90bd6ae23d325d?utm_campaign=1065&utm_source=git)** | Lafayette - Congress, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404c1343eef4fb0a9f6dd?utm_campaign=1065&utm_source=git)** | Golden Valley - Golden, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404c1343eef4fb0a9f6d6?utm_campaign=1065&utm_source=git)** | Clayton - Bonhomme, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966c4?utm_campaign=1065&utm_source=git)** | Meadville - Main, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045a1f90bd6ae23d3252?utm_campaign=1065&utm_source=git)** | Pittsburgh - PPG Place, US | Remote | Apr 30 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f40458461b9b613a625555?utm_campaign=1065&utm_source=git)** | Cincinnati - Vine, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966b4?utm_campaign=1065&utm_source=git)** | Phoenix - High, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966c2?utm_campaign=1065&utm_source=git)** | Mobile - Montilmar, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404581f90bd6ae23d324d?utm_campaign=1065&utm_source=git)** | Bloomington - Metro, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045c1f90bd6ae23d3257?utm_campaign=1065&utm_source=git)** | Greensboro - North Elm, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404c1343eef4fb0a9f6d3?utm_campaign=1065&utm_source=git)** | Clearwater - Starcrest, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045a1f90bd6ae23d3250?utm_campaign=1065&utm_source=git)** | Honolulu - 55 Merchant, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045f1f90bd6ae23d325b?utm_campaign=1065&utm_source=git)** | Broomfield - Interlocken, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404c1343eef4fb0a9f6d1?utm_campaign=1065&utm_source=git)** | Independence - Rockside, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f40457461b9b613a625551?utm_campaign=1065&utm_source=git)** | Alexandria - Centre, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404c1343eef4fb0a9f6db?utm_campaign=1065&utm_source=git)** | Pottsville - Centre, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f40457461b9b613a625552?utm_campaign=1065&utm_source=git)** | Chicago - 155 Wacker, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045d461b9b613a625563?utm_campaign=1065&utm_source=git)** | Addison - Spectrum, US | Remote | Apr 30 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404c1343eef4fb0a9f6d9?utm_campaign=1065&utm_source=git)** | Houston - Dallas, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966b2?utm_campaign=1065&utm_source=git)** | Mt. Laurel - Atrium, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966b1?utm_campaign=1065&utm_source=git)** | Nashville - 3322 West End, US | Remote | Apr 30 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404c1343eef4fb0a9f6e4?utm_campaign=1065&utm_source=git)** | Bend - Arizona, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404c1343eef4fb0a9f6d9?utm_campaign=1065&utm_source=git)** | Houston - Dallas, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404581f90bd6ae23d324c?utm_campaign=1065&utm_source=git)** | Kahului - Lono, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404571f90bd6ae23d324b?utm_campaign=1065&utm_source=git)** | San Diego - Towne Centre, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045d461b9b613a625560?utm_campaign=1065&utm_source=git)** | Lihue - Kaumualii, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404c1343eef4fb0a9f6dd?utm_campaign=1065&utm_source=git)** | Golden Valley - Golden, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404581f90bd6ae23d324d?utm_campaign=1065&utm_source=git)** | Bloomington - Metro, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966c3?utm_campaign=1065&utm_source=git)** | Miami - 830 Brickell, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966b6?utm_campaign=1065&utm_source=git)** | Scottsdale - Raintree, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966b4?utm_campaign=1065&utm_source=git)** | Phoenix - High, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f40460461b9b613a625566?utm_campaign=1065&utm_source=git)** | Chagrin Falls - Franklin, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f405416942c746fa6966c2?utm_campaign=1065&utm_source=git)** | Mobile - Montilmar, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045a1f90bd6ae23d3250?utm_campaign=1065&utm_source=git)** | Honolulu - 55 Merchant, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045a1f90bd6ae23d3253?utm_campaign=1065&utm_source=git)** | Philadelphia - South 17th, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045a1f90bd6ae23d3251?utm_campaign=1065&utm_source=git)** | Charlotte - North Tryon, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045a461b9b613a625558?utm_campaign=1065&utm_source=git)** | Raleigh - 1 Glenwood, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f4045f1f90bd6ae23d325b?utm_campaign=1065&utm_source=git)** | Broomfield - Interlocken, US | Remote | Apr 30 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f404c1343eef4fb0a9f6db?utm_campaign=1065&utm_source=git)** | Pottsville - Centre, US | Remote | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
