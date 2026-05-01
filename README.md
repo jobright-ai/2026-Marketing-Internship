@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CT United](https://www.ctunited.com)** | **[Multicultural & Community Marketing Intern [Summer]](https://jobright.ai/jobs/info/69f3f5936942c746fa696212?utm_campaign=1065&utm_source=git)** | Stamford, US | On Site | Apr 30 |
+| ↳ | **[Multicultural & Community Marketing Intern [Fall]](https://jobright.ai/jobs/info/69f3f593343eef4fb0a9f3f9?utm_campaign=1065&utm_source=git)** | Stamford, US | On Site | Apr 30 |
+| **[TexL Campaigns](https://texlcampaigns.com/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69f3f1d7343eef4fb0a9f39e?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Apr 30 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Content Marketing](https://jobright.ai/jobs/info/69f3f1b058b23a2329da8fa3?utm_campaign=1065&utm_source=git)** | Broomfield, CO | On Site | Apr 30 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[Laudio Intern-Client Engagement and Marketing Operations](https://jobright.ai/jobs/info/69f3ebb0343eef4fb0a9f2ee?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Apr 30 |
+| **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Marketing Designer Intern](https://jobright.ai/jobs/info/69f3ebaf6942c746fa69618c?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Apr 30 |
+| **[The Agency East](www.theagencyeast.co)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69f3eba0343eef4fb0a9f2b6?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Remote | Apr 30 |
+| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Communications Intern, Department of Public Lands](https://jobright.ai/jobs/info/69f3eb6b343eef4fb0a9f1c9?utm_campaign=1065&utm_source=git)** | SLC Metro Area | On Site | Apr 30 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f3eb3c6942c746fa695fd1?utm_campaign=1065&utm_source=git)** | White Plains, NY | Remote | Apr 30 |
 | **[Compeer Financial](https://compeer.com/)** | **[Crop Insurance Intern](https://jobright.ai/jobs/info/69f3e3d4c78b9e4518958a45?utm_campaign=1065&utm_source=git)** | Baldwin, WI | Hybrid | Apr 30 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69f3e3721f90bd6ae23d26e1?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Apr 30 |
 | **[Compeer Financial](https://compeer.com/)** | **[Crop Insurance Intern](https://jobright.ai/jobs/info/69f3df901f90bd6ae23d2611?utm_campaign=1065&utm_source=git)** | Freeport, IL | Hybrid | Apr 30 |
@@ -78,6 +87,8 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Media Relations](https://jobright.ai/jobs/info/69f3d0e86942c746fa694cd9?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | Apr 30 |
 | **[Werfen](http://www.werfen.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69f3cf8dc78b9e4518957d5d?utm_campaign=1065&utm_source=git)** | US-MA-Bedford | On Site | Apr 30 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Communications and Marketing Systems](https://jobright.ai/jobs/info/69f3cf73c78b9e4518957d17?utm_campaign=1065&utm_source=git)** | US-DC-Washington | On Site | Apr 30 |
+| **[TD](https://www.td.com)** | **[Global Markets Intern/Co-op](https://jobright.ai/jobs/info/69f3eb781f90bd6ae23d2e3c?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
+| **[Shared Health-Soins Communs](https://sharedhealthmb.ca/)** | **[Social Media Coordinator - Summer Student](https://jobright.ai/jobs/info/69f3ebadc78b9e4518958cc6?utm_campaign=1065&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Apr 30 |
 | **[Sail Away Media](http://sailawaymedia.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f3cbee343eef4fb0a9e2a7?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | Hybrid | Apr 30 |
 | **[David Pan for Congress](https://www.davidpan4congress.com/)** | **[Campaign Intern](https://jobright.ai/jobs/info/69f3c8e2c78b9e4518957907?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | On Site | Apr 30 |
 | **[Brio Water Technology](https://briowt.com)** | **[eCommerce Intern (Rotational Program)](https://jobright.ai/jobs/info/69f3c6f4461b9b613a623ecb?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Apr 30 |
@@ -140,21 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Marketing Manager](https://jobright.ai/jobs/info/69bc820e5b89c002acf240d9?utm_campaign=1065&utm_source=git)** | United States Remote | Remote | Apr 30 |
 | **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Database Marketing Intern](https://jobright.ai/jobs/info/69f383546942c746fa69195a?utm_campaign=1065&utm_source=git)** | Welch, MN 55089, USA | On Site | Apr 30 |
 | **[Himalaya Wellness USA](https://himalayausa.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f3ad1558b23a2329da67fb?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | Remote | Apr 30 |
-| **[BD](https://www.bd.com)** | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d89dc78b9e451895800c?utm_campaign=1065&utm_source=git)** | USA - Georgia - FIELD, US | On Site | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d89dc78b9e451895800a?utm_campaign=1065&utm_source=git)** | USA - Kentucky, US | On Site | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d832343eef4fb0a9e516?utm_campaign=1065&utm_source=git)** | USA - North Carolina, US | On Site | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d8301f90bd6ae23d1a2f?utm_campaign=1065&utm_source=git)** | USA - New York, US | Remote | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d8301f90bd6ae23d1a2e?utm_campaign=1065&utm_source=git)** | USA - Delaware, US | Remote | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d89dc78b9e4518958001?utm_campaign=1065&utm_source=git)** | USA - Alabama, US | On Site | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d89dc78b9e451895800e?utm_campaign=1065&utm_source=git)** | USA - Tennessee, US | On Site | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d82f1f90bd6ae23d1a2a?utm_campaign=1065&utm_source=git)** | USA - District of Columbia - Washington, US | Remote | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d831461b9b613a62441c?utm_campaign=1065&utm_source=git)** | USA - Washington, US | Remote | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d832343eef4fb0a9e517?utm_campaign=1065&utm_source=git)** | USA - Maryland, US | On Site | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d832343eef4fb0a9e514?utm_campaign=1065&utm_source=git)** | USA - South Carolina, US | On Site | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d8376942c746fa69538b?utm_campaign=1065&utm_source=git)** | USA - New Mexico, US | On Site | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d89dc78b9e4518958005?utm_campaign=1065&utm_source=git)** | USA - Michigan, US | On Site | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d82f1f90bd6ae23d1a2b?utm_campaign=1065&utm_source=git)** | USA - Maine, US | Remote | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d830461b9b613a624418?utm_campaign=1065&utm_source=git)** | USA - Rhode Island, US | Remote | Apr 30 |
+| **[BD](https://www.bd.com)** | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d82f461b9b613a62440b?utm_campaign=1065&utm_source=git)** | USA - Massachusetts, US | On Site | Apr 30 |
 | ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d8376942c746fa69538e?utm_campaign=1065&utm_source=git)** | USA - Mississippi, US | On Site | Apr 30 |
-| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d8376942c746fa69538c?utm_campaign=1065&utm_source=git)** | USA - Oregon, US | On Site | Apr 30 |
+| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d830461b9b613a624413?utm_campaign=1065&utm_source=git)** | USA - North Dakota, US | Remote | Apr 30 |
+| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d8311f90bd6ae23d1a35?utm_campaign=1065&utm_source=git)** | USA - Missouri, US | Remote | Apr 30 |
+| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d82f1f90bd6ae23d1a2c?utm_campaign=1065&utm_source=git)** | USA - Vermont, US | Remote | Apr 30 |
+| ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69f3d89dc78b9e4518958006?utm_campaign=1065&utm_source=git)** | USA - Colorado, US | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
