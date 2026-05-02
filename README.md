@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith Transport Inc.](http://smithtransport.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f65ee2a3d34b4f76f58743?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 MA Office of Travel and Tourism Intern](https://jobright.ai/jobs/info/69f65381b1fc847fc1ae3022?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Social Media Intern - MEP (UNPAID)](https://jobright.ai/jobs/info/69f65225db88714bcdfb60f2?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Buzzards Bay - 5205 Ent Street | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Social Media Intern - MEP (UNPAID)](https://jobright.ai/jobs/info/69f65222a3d34b4f76f582f9?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Buzzards Bay - 5205 Ent Street | On Site | May 02 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/69d988cf738f2f099e8a2591?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Campaign Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6966eb06b098f4515f4e54aa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
 | ↳ | **[Short Video Strategy Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696998a3639b452fb57f8a13?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 02 |
+| **[MathWorks](http://www.mathworks.com)** | **[University of Chicago MATLAB Student Ambassador](https://jobright.ai/jobs/info/6930bdacef4b48533d14e981?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | May 02 |
 | **[Conzia](https://conzia.com/)** | **[Internship Growth Marketing](https://jobright.ai/jobs/info/69f5bbffa3d34b4f76f56565?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f5af0e0b36ff0354752ce5?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 02 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f5ae8a43a25828a8d19774?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f534840b36ff0354751318?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | May 01 |
 | **[Open Venture](https://openventure.com/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69f515a081706a5bd2164b1d?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | On Site | May 01 |
 | **[German American Bank](https://germanamerican.com/)** | **[[DANK Haus German American Cultural Center] Marketing Internship](https://jobright.ai/jobs/info/69f5140343a25828a8d16bc2?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 01 |
-| **[APF Marketing](https://apfmarketing.com/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69f534fa0b36ff0354751374?utm_campaign=1065&utm_source=git)** | Canada | Remote | May 01 |
-| **[Michigan Solar Solutions, LLC](http://www.michigansolarsolutions.com)** | **[Marketing Intern / Marketing Associate](https://jobright.ai/jobs/info/69f54c1d12f2811ab5a64214?utm_campaign=1065&utm_source=git)** | Walled Lake, MI | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
