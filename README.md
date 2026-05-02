@@ -61,6 +61,8 @@ For a complete list, click the following sortable link below:
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Communications & Community Engagement Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69d988ae9f97a42dc9c221ad?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 02 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Local Media Content & Operations](https://jobright.ai/jobs/info/69a0a68f5218a8167671d347?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | May 02 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/699015380f6f7e7a2cec66d1?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
+| **[Backlinkgen](https://backlinkgen.com)** | **[On-line Marketing-Internship - Work](https://jobright.ai/jobs/info/69f633ea0b36ff035475485d?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | May 02 |
+| **[The Forensic Times](https://forensictimes.com/)** | **[Campus Ambassador - Internship](https://jobright.ai/jobs/info/69f62ea6b1fc847fc1ae2a40?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 02 |
 | **[VIO Med Spa](https://viomedspa.com)** | **[Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/69f60b6fa3d34b4f76f5744b?utm_campaign=1065&utm_source=git)** | Zionsville, IN | On Site | May 02 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/6985846e8da7a61204602861?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69d97625869c7e25d859aeff?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 02 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[MissPoppins](https://misspoppins.io/)** | **[Marketing and Growth Summer Intern](https://jobright.ai/jobs/info/69f506cb0b36ff0354750407?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | May 01 |
 | **[Craft Sportswear North America](https://www.craftsports.us)** | **[Intern - Marketing - Summer 2026](https://jobright.ai/jobs/info/69f506800b36ff03547503ac?utm_campaign=1065&utm_source=git)** | Issaquah, WA | On Site | May 01 |
 | **[MTF Biologics](https://www.mtfbiologics.org/)** | **[Intern Orthopedics Marketing- Remote](https://jobright.ai/jobs/info/69f529c1a3d34b4f76f53f6a?utm_campaign=1065&utm_source=git)** | Edison, NJ | Remote | May 01 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb191b?utm_campaign=1065&utm_source=git)** | New Orleans - Poydras, US | Remote | May 01 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb1919?utm_campaign=1065&utm_source=git)** | Raleigh - Beechleaf, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb191b?utm_campaign=1065&utm_source=git)** | New Orleans - Poydras, US | Remote | May 01 |
 | ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb191a?utm_campaign=1065&utm_source=git)** | Durham - Emperor, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb1919?utm_campaign=1065&utm_source=git)** | Raleigh - Beechleaf, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f4?utm_campaign=1065&utm_source=git)** | Columbus - Brookstone, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f0?utm_campaign=1065&utm_source=git)** | White Plains - Hamilton, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18ef?utm_campaign=1065&utm_source=git)** | Clearwater - Starcrest, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f7?utm_campaign=1065&utm_source=git)** | Kissimmee - Monument, US | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
