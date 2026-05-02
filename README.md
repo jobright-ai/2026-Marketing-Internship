@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Caring for People Services](https://www.caringforpeopleservices.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/69f5722f0b36ff03547520cc?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | May 01 |
+| **[KDM Engineering](https://kdmengineering.com/)** | **[2026 Marketing Internship](https://jobright.ai/jobs/info/69f57221db88714bcdfb3ad6?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[Yelp](https://www.yelp.com)** | **[Communications Intern - US Remote](https://jobright.ai/jobs/info/69f560c612f2811ab5a646a2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Ambassador Intern, Chartwells Higher Ed + Boost / Boise State University](https://jobright.ai/jobs/info/69f55da412f2811ab5a64606?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | May 01 |
 | **[Everlaw](http://everlaw.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69f553150b36ff0354751a5c?utm_campaign=1065&utm_source=git)** | Oakland, California, United States | On Site | May 01 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Marketing Intern (Atlanta Region)](https://jobright.ai/jobs/info/69f5525bdb88714bcdfb3473?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 01 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Communications Specialist Internship](https://jobright.ai/jobs/info/69f56535a3d34b4f76f54ec3?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | May 01 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Social Media Associate Intern](https://jobright.ai/jobs/info/69f1183f8d8d624381a9a60f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69f543f50b36ff03547516c7?utm_campaign=1065&utm_source=git)** | White Plains, NY | Remote | May 01 |
 | **[Public Service Credit Union, Michigan](https://www.pscunow.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f53d44db88714bcdfb3026?utm_campaign=1065&utm_source=git)** | ROMULUS,MI,US | On Site | May 01 |
 | **[PBS SoCal](http://www.pbssocal.org/home/)** | **[PR & Communications Intern](https://jobright.ai/jobs/info/69f53d3cdb88714bcdfb3011?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 01 |
@@ -83,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[KQED](http://www.kqed.org)** | **[Organic and Paid Social Media Marketing Intern](https://jobright.ai/jobs/info/69f5303f43a25828a8d17b44?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
 | ↳ | **[Email & Lifecycle Marketing Intern](https://jobright.ai/jobs/info/69f53034a3d34b4f76f5441f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Digital Media Internship](https://jobright.ai/jobs/info/69f55942a3d34b4f76f54dd9?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 01 |
+| **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f56de712f2811ab5a6484e?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | May 01 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Services Marketing](https://jobright.ai/jobs/info/69f52d99a3d34b4f76f54187?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | May 01 |
 | **[Bel](https://www.groupe-bel.com/)** | **[Brand Innovation Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f52bb143a25828a8d17966?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 01 |
 | ↳ | **[Brand Innovation Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f52b3743a25828a8d17830?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 01 |
@@ -115,46 +119,42 @@ For a complete list, click the following sortable link below:
 | **[MissPoppins](https://misspoppins.io/)** | **[Marketing and Growth Summer Intern](https://jobright.ai/jobs/info/69f506cb0b36ff0354750407?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | May 01 |
 | **[Craft Sportswear North America](https://www.craftsports.us)** | **[Intern - Marketing - Summer 2026](https://jobright.ai/jobs/info/69f506800b36ff03547503ac?utm_campaign=1065&utm_source=git)** | Issaquah, WA | On Site | May 01 |
 | **[MTF Biologics](https://www.mtfbiologics.org/)** | **[Intern Orthopedics Marketing- Remote](https://jobright.ai/jobs/info/69f529c1a3d34b4f76f53f6a?utm_campaign=1065&utm_source=git)** | Edison, NJ | Remote | May 01 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb191b?utm_campaign=1065&utm_source=git)** | New Orleans - Poydras, US | Remote | May 01 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb1919?utm_campaign=1065&utm_source=git)** | Raleigh - Beechleaf, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb191b?utm_campaign=1065&utm_source=git)** | New Orleans - Poydras, US | Remote | May 01 |
 | ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb191a?utm_campaign=1065&utm_source=git)** | Durham - Emperor, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb1919?utm_campaign=1065&utm_source=git)** | Raleigh - Beechleaf, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f7?utm_campaign=1065&utm_source=git)** | Kissimmee - Monument, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18ef?utm_campaign=1065&utm_source=git)** | Clearwater - Starcrest, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f0?utm_campaign=1065&utm_source=git)** | White Plains - Hamilton, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18fa?utm_campaign=1065&utm_source=git)** | Anchorage - West 4th, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18ed?utm_campaign=1065&utm_source=git)** | Mobile - Montilmar, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f9?utm_campaign=1065&utm_source=git)** | Grand Rapids - Ottawa, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f5?utm_campaign=1065&utm_source=git)** | Canonsburg - Ansys, US | Remote | May 01 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18eb?utm_campaign=1065&utm_source=git)** | Asheville - College, US | Remote | May 01 |
 | ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f6?utm_campaign=1065&utm_source=git)** | Dublin - Metro, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f4?utm_campaign=1065&utm_source=git)** | Columbus - Brookstone, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18fb?utm_campaign=1065&utm_source=git)** | Kansas City - Grand Blvd, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18fe?utm_campaign=1065&utm_source=git)** | Brookfield - Golf, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f1?utm_campaign=1065&utm_source=git)** | Martinez - Professional, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f8?utm_campaign=1065&utm_source=git)** | Fayetteville - Mansfield, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18ec?utm_campaign=1065&utm_source=git)** | Lake Charles - 929 McNeese, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f2?utm_campaign=1065&utm_source=git)** | San Francisco - Embarcadero, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18ee?utm_campaign=1065&utm_source=git)** | Helena - Livingston, US | Remote | May 01 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18e9?utm_campaign=1065&utm_source=git)** | Memphis - 6410 Poplar, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18fa?utm_campaign=1065&utm_source=git)** | Anchorage - West 4th, US | Remote | May 01 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18eb?utm_campaign=1065&utm_source=git)** | Asheville - College, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18ed?utm_campaign=1065&utm_source=git)** | Mobile - Montilmar, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f7?utm_campaign=1065&utm_source=git)** | Kissimmee - Monument, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f4?utm_campaign=1065&utm_source=git)** | Columbus - Brookstone, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f1?utm_campaign=1065&utm_source=git)** | Martinez - Professional, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f5?utm_campaign=1065&utm_source=git)** | Canonsburg - Ansys, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18ee?utm_campaign=1065&utm_source=git)** | Helena - Livingston, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18ec?utm_campaign=1065&utm_source=git)** | Lake Charles - 929 McNeese, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18fe?utm_campaign=1065&utm_source=git)** | Brookfield - Golf, US | Remote | May 01 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18ea?utm_campaign=1065&utm_source=git)** | Sacramento - River, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f2?utm_campaign=1065&utm_source=git)** | San Francisco - Embarcadero, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18fb?utm_campaign=1065&utm_source=git)** | Kansas City - Grand Blvd, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f9?utm_campaign=1065&utm_source=git)** | Grand Rapids - Ottawa, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f0?utm_campaign=1065&utm_source=git)** | White Plains - Hamilton, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18ef?utm_campaign=1065&utm_source=git)** | Clearwater - Starcrest, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f8?utm_campaign=1065&utm_source=git)** | Fayetteville - Mansfield, US | Remote | May 01 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18d4?utm_campaign=1065&utm_source=git)** | Charleston - 170 Meeting, US | Remote | May 01 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18df?utm_campaign=1065&utm_source=git)** | Charlotte - North Tryon, US | Remote | May 01 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18e7?utm_campaign=1065&utm_source=git)** | Jacksonville - Baypine, US | Remote | May 01 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18dc?utm_campaign=1065&utm_source=git)** | Louisville - Eastpoint, US | Remote | May 01 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18d1?utm_campaign=1065&utm_source=git)** | Johns Creek - Lakefield, US | Remote | May 01 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18d6?utm_campaign=1065&utm_source=git)** | Fort Lauderdale - Corporate, US | Remote | May 01 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18e3?utm_campaign=1065&utm_source=git)** | Atlanta - Hartsfield, US | Remote | May 01 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18dd?utm_campaign=1065&utm_source=git)** | Fayetteville - Mansfield, US | Remote | May 01 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18d6?utm_campaign=1065&utm_source=git)** | Fort Lauderdale - Corporate, US | Remote | May 01 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18d4?utm_campaign=1065&utm_source=git)** | Charleston - 170 Meeting, US | Remote | May 01 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18e0?utm_campaign=1065&utm_source=git)** | Great Falls - 3rd Street, US | Remote | May 01 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18e7?utm_campaign=1065&utm_source=git)** | Jacksonville - Baypine, US | Remote | May 01 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18de?utm_campaign=1065&utm_source=git)** | Hattiesburg - Pine, US | Remote | May 01 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18d1?utm_campaign=1065&utm_source=git)** | Johns Creek - Lakefield, US | Remote | May 01 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18e6?utm_campaign=1065&utm_source=git)** | Athens - Clayton, US | Remote | May 01 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18da?utm_campaign=1065&utm_source=git)** | Irvine - Von Karman, US | Remote | May 01 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18dc?utm_campaign=1065&utm_source=git)** | Louisville - Eastpoint, US | Remote | May 01 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18df?utm_campaign=1065&utm_source=git)** | Charlotte - North Tryon, US | Remote | May 01 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18e4?utm_campaign=1065&utm_source=git)** | Bismarck - Buckskin, US | Remote | May 01 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18e2?utm_campaign=1065&utm_source=git)** | Omaha - Southport, US | Remote | May 01 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18e5?utm_campaign=1065&utm_source=git)** | San Jose - Technology Drive, US | Remote | May 01 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18de?utm_campaign=1065&utm_source=git)** | Hattiesburg - Pine, US | Remote | May 01 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18e4?utm_campaign=1065&utm_source=git)** | Bismarck - Buckskin, US | Remote | May 01 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69f5065bdb88714bcdfb18e6?utm_campaign=1065&utm_source=git)** | Athens - Clayton, US | Remote | May 01 |
 | ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065143a25828a8d16825?utm_campaign=1065&utm_source=git)** | Honolulu - 700 Bishop, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065143a25828a8d16827?utm_campaign=1065&utm_source=git)** | Knoxville - Northshore, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065143a25828a8d16826?utm_campaign=1065&utm_source=git)** | Golden Valley - Golden, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5063e43a25828a8d16803?utm_campaign=1065&utm_source=git)** | Allentown - 600 Hamilton, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5063e43a25828a8d16802?utm_campaign=1065&utm_source=git)** | Athens - Clayton, US | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
