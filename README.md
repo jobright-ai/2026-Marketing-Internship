@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 MA Office of Travel and Tourism Intern](https://jobright.ai/jobs/info/69f65381b1fc847fc1ae3022?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | May 02 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Social Media Intern - MEP (UNPAID)](https://jobright.ai/jobs/info/69f65225db88714bcdfb60f2?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Buzzards Bay - 5205 Ent Street | On Site | May 02 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Social Media Intern - MEP (UNPAID)](https://jobright.ai/jobs/info/69f65222a3d34b4f76f582f9?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Buzzards Bay - 5205 Ent Street | On Site | May 02 |
+| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/69f64fc381706a5bd2168791?utm_campaign=1065&utm_source=git)** | US-PA-Muncy | On Site | May 02 |
 | **[Digital Harbor Foundation](http://www.digitalharbor.org/)** | **[Science Communications Intern](https://jobright.ai/jobs/info/69f6417fdb88714bcdfb5c7c?utm_campaign=1065&utm_source=git)** | Maryland, United States | Remote | May 02 |
 | **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69bc4f114828227293fdf0a0?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | May 02 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/69d988cab67cec4f9b0a2969?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | May 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[German American Bank](https://germanamerican.com/)** | **[[DANK Haus German American Cultural Center] Marketing Internship](https://jobright.ai/jobs/info/69f5140343a25828a8d16bc2?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[APF Marketing](https://apfmarketing.com/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69f534fa0b36ff0354751374?utm_campaign=1065&utm_source=git)** | Canada | Remote | May 01 |
 | **[Michigan Solar Solutions, LLC](http://www.michigansolarsolutions.com)** | **[Marketing Intern / Marketing Associate](https://jobright.ai/jobs/info/69f54c1d12f2811ab5a64214?utm_campaign=1065&utm_source=git)** | Walled Lake, MI | Hybrid | May 01 |
-| **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Marketing (Summer 2026)](https://jobright.ai/jobs/info/69f5327081706a5bd21656ac?utm_campaign=1065&utm_source=git)** | Redford, MI | On Site | May 01 |
-| **[Pure Fishing](https://www.purefishing.com)** | **[Marketing Intern - Bass Category Innovation & Trends](https://jobright.ai/jobs/info/69d809cb9f97a42dc9c19d94?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | May 01 |
-| **[Canadian Federation of Independent Business](http://www.cfib-fcei.ca)** | **[Social Media Coordinator – Internship (12-week contract)](https://jobright.ai/jobs/info/69f1401862b48c6838794912?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 01 |
-| **[Corvid HPC](www.corvidhpc.com)** | **[Marketing and Design Intern](https://jobright.ai/jobs/info/69f50ca512f2811ab5a62b10?utm_campaign=1065&utm_source=git)** | Mooresville, NC | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
