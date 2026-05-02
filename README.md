@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[MissPoppins](https://misspoppins.io/)** | **[Marketing and Growth Summer Intern](https://jobright.ai/jobs/info/69f506cb0b36ff0354750407?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | May 01 |
 | **[Craft Sportswear North America](https://www.craftsports.us)** | **[Intern - Marketing - Summer 2026](https://jobright.ai/jobs/info/69f506800b36ff03547503ac?utm_campaign=1065&utm_source=git)** | Issaquah, WA | On Site | May 01 |
 | **[MTF Biologics](https://www.mtfbiologics.org/)** | **[Intern Orthopedics Marketing- Remote](https://jobright.ai/jobs/info/69f529c1a3d34b4f76f53f6a?utm_campaign=1065&utm_source=git)** | Edison, NJ | Remote | May 01 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb191a?utm_campaign=1065&utm_source=git)** | Durham - Emperor, US | Remote | May 01 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb191b?utm_campaign=1065&utm_source=git)** | New Orleans - Poydras, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb191a?utm_campaign=1065&utm_source=git)** | Durham - Emperor, US | Remote | May 01 |
 | ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb1919?utm_campaign=1065&utm_source=git)** | Raleigh - Beechleaf, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f50668db88714bcdfb191b?utm_campaign=1065&utm_source=git)** | New Orleans - Poydras, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f1?utm_campaign=1065&utm_source=git)** | Martinez - Professional, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f4?utm_campaign=1065&utm_source=git)** | Columbus - Brookstone, US | Remote | May 01 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18f0?utm_campaign=1065&utm_source=git)** | White Plains - Hamilton, US | Remote | May 01 |
 | ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18ef?utm_campaign=1065&utm_source=git)** | Clearwater - Starcrest, US | Remote | May 01 |
-| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69f5065cdb88714bcdfb18fb?utm_campaign=1065&utm_source=git)** | Kansas City - Grand Blvd, US | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
