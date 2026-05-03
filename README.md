@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lippert](https://corporate.lippert.com)** | **[Intern](https://jobright.ai/jobs/info/69f6a83481706a5bd216a0f2?utm_campaign=1065&utm_source=git)** | Elkhart, IN | On Site | May 02 |
+| **[Cruze](https://cruzemaps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f6ea2081706a5bd216aabe?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Brand Marketing](https://jobright.ai/jobs/info/69a8b82e2580d3183f00c3a0?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | May 02 |
+| **[Perry Ellis International](http://www.pery.com)** | **[Summer 2026 Tiktok Internship](https://jobright.ai/jobs/info/69dea34daba61f1417316ae8?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | May 02 |
+| **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Marketing Intern (Part-time) (Clayton, MO)](https://jobright.ai/jobs/info/69f6c51f0b36ff035475678f?utm_campaign=1065&utm_source=git)** | Clayton, MO | On Site | May 02 |
+| **[REV Group, Inc](http://www.revgroup.com/)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69f6c2b1a3d34b4f76f59c94?utm_campaign=1065&utm_source=git)** | Decatur, IN | On Site | May 02 |
 | **[KYNY Group](https://www.kynygroup.org)** | **[Internal Communications Intern (Remote, Summer 2026)](https://jobright.ai/jobs/info/69f69845a3d34b4f76f5940a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f65ee2a3d34b4f76f58743?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | May 02 |
 | **[The Classic Center](http://classiccenter.com)** | **[Marketing Internship (Summer)](https://jobright.ai/jobs/info/69f67efb81706a5bd216950e?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 02 |
@@ -96,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing: AI Discoverability & Optimization Intern (Summer 2026)](https://jobright.ai/jobs/info/69bca83445e08b3dc1f96dd6?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 02 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69d9761bf748bc5d08a4b53d?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 02 |
 | **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69ea91c27820c036924ee9f6?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
-| **[Flickmatch](https://flickmatch.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f60dcf582f810f9c8c807f?utm_campaign=1065&utm_source=git)** | Mountain View, CA | Remote | May 02 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Marketing](https://jobright.ai/jobs/info/69d93cb19f97a42dc9c2042e?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Brand and Communications Project Intern (Brand and Creative) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a125be5218a81676725eff?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 02 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/69d988cf738f2f099e8a2591?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 02 |
@@ -110,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Dawn Group International](https://www.linkedin.com/company/112995344)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f5c4d4db88714bcdfb49e6?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | May 02 |
 | **[Cinnamon Entertainment Group LLC](https://www.cinnamonentertainment.com)** | **[Journalism Major SEO & Answer Engine Content Non Paid Intern (Academic Credit Only)](https://jobright.ai/jobs/info/69f5bc2b12f2811ab5a65751?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Fall)](https://jobright.ai/jobs/info/69f5ad7812f2811ab5a6564f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 01 |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Digital Merchandising Intern](https://jobright.ai/jobs/info/69f6d382a3d34b4f76f5a074?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | May 01 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f57c9143a25828a8d18f81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Emploi d'ete: Chargée de projet en environnement](https://jobright.ai/jobs/info/69f57c45db88714bcdfb3e39?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 01 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Brand Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/69f591e2db88714bcdfb410f?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | May 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Integrated Marketing Communications Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f52a070b36ff0354750e51?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 01 |
 | ↳ | **[Integrated Marketing Communications Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f529fa12f2811ab5a63628?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 01 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing and Sales (Growth) Intern](https://jobright.ai/jobs/info/69f529f5db88714bcdfb27ae?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
-| **[Plastic Printers](https://www.plasticprinters.com)** | **[Marketing & Creative Intern](https://jobright.ai/jobs/info/69f529d2db88714bcdfb2718?utm_campaign=1065&utm_source=git)** | Hastings, MN | On Site | May 01 |
-| **[CENENCE](https://www.linkedin.com/company/105336376)** | **[College Credit - Marketing Internship](https://jobright.ai/jobs/info/69f529920b36ff0354750cfa?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Marketing Intern-Miami Events](https://jobright.ai/jobs/info/69f5224843a25828a8d172b1?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | On Site | May 01 |
-| **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Ecommerce Intern](https://jobright.ai/jobs/info/69f53beb0b36ff03547514b8?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
