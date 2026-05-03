@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Answerr](https://answerr.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f68784b1fc847fc1ae3ca4?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
+| **[KYNY Group](https://www.kynygroup.org)** | **[Internal Communications Intern (Remote, Summer 2026)](https://jobright.ai/jobs/info/69f69845a3d34b4f76f5940a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f65ee2a3d34b4f76f58743?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | May 02 |
 | **[The Classic Center](http://classiccenter.com)** | **[Marketing Internship (Summer)](https://jobright.ai/jobs/info/69f67efb81706a5bd216950e?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 02 |
 | **[Origence](https://origence.com/)** | **[Marketing Campaign Intern](https://jobright.ai/jobs/info/69f67969582f810f9c8c8e4b?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | May 02 |
@@ -142,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Digital Media Internship](https://jobright.ai/jobs/info/69f55942a3d34b4f76f54dd9?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 01 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f56de712f2811ab5a6484e?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | May 01 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Services Marketing](https://jobright.ai/jobs/info/69f52d99a3d34b4f76f54187?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | May 01 |
+| **[MathWorks](http://www.mathworks.com)** | **[Simon Fraser University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69d8098e869c7e25d8593171?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | May 01 |
 | **[Bel](https://www.groupe-bel.com/)** | **[Brand Innovation Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f52bb143a25828a8d17966?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 01 |
 | ↳ | **[Brand Innovation Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f52b3743a25828a8d17830?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 01 |
 | **[Pathways](http://www.clarvida.com)** | **[Marketing intern](https://jobright.ai/jobs/info/69f52a68a3d34b4f76f54106?utm_campaign=1065&utm_source=git)** | Tucson, AZ | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Ecommerce Intern](https://jobright.ai/jobs/info/69f53beb0b36ff03547514b8?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 01 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Marketing Intern - Demand Generation](https://jobright.ai/jobs/info/69f51c10a3d34b4f76f53a82?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | May 01 |
 | **[Yelp](https://www.yelp.com)** | **[Communications Intern - US Remote](https://jobright.ai/jobs/info/69f51c0581706a5bd2164d36?utm_campaign=1065&utm_source=git)** | US-Remote-Remote | Remote | May 01 |
-| **[NCAA](https://www.ncaa.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/69f53a1781706a5bd2165944?utm_campaign=1065&utm_source=git)** | San Bruno, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
