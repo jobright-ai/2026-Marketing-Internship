@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Benchmark](http://www.bench.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69f74c0f81706a5bd216b98b?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | May 03 |
+| **[Carta](https://carta.com/)** | **[Marketing Internship - PR & Communications](https://jobright.ai/jobs/info/69a25330359fe034b1cd8d13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 03 |
 | **[Activate](https://www.activate.org/)** | **[Brand Intern, Fellowship Recruitment](https://jobright.ai/jobs/info/69ebef34dc35f7132c4b46a2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 | **[Zelexio](https://en.zelexio.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f73f47582f810f9c8cb2af?utm_campaign=1065&utm_source=git)** | Sherbrooke, Quebec, Canada | On Site | May 03 |
 | **[Appian](http://www.appian.com)** | **[Social Media & Content Marketing Intern](https://jobright.ai/jobs/info/69bb0074569738374140d3b2?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | May 03 |
@@ -96,8 +96,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management Marketing & Communications](https://jobright.ai/jobs/info/699f802023374b3b6e6b4fd4?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | May 02 |
 | **[Forensic Times](https://forensictimes.com/)** | **[Campus Ambassador - Internship](https://jobright.ai/jobs/info/69f62ea6b1fc847fc1ae2a40?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 02 |
 | **[VIO Med Spa](https://viomedspa.com)** | **[Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/69f60b6fa3d34b4f76f5744b?utm_campaign=1065&utm_source=git)** | Zionsville, IN | On Site | May 02 |
-| **[Electro](electrogum.com)** | **[Affiliate Outreach Intern](https://jobright.ai/jobs/info/69f641dadb88714bcdfb5cc0?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
-| ↳ | **[Student Athlete Outreach Intern](https://jobright.ai/jobs/info/69f6398eb1fc847fc1ae2a9e?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
+| **[Electro](electrogum.com)** | **[Student Athlete Outreach Intern](https://jobright.ai/jobs/info/69f6398eb1fc847fc1ae2a9e?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/6985846e8da7a61204602861?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69d97625869c7e25d859aeff?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 02 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Markets, Sales (Boston, MA)](https://jobright.ai/jobs/info/699903cae0bddb6acac7f981?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | May 02 |
@@ -134,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Aflac](http://www.aflac.com)** | **[Market Coordinator](https://jobright.ai/jobs/info/69f576ce81706a5bd21667e2?utm_campaign=1065&utm_source=git)** | Glendale, CA | Hybrid | May 01 |
 | **[Everlaw](http://everlaw.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69f553150b36ff0354751a5c?utm_campaign=1065&utm_source=git)** | Oakland, California, United States | On Site | May 01 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Marketing Intern (Atlanta Region)](https://jobright.ai/jobs/info/69f5525bdb88714bcdfb3473?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 01 |
-| **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Communications Specialist Internship](https://jobright.ai/jobs/info/69f56535a3d34b4f76f54ec3?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | May 01 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Social Media Associate Intern](https://jobright.ai/jobs/info/69f1183f8d8d624381a9a60f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69f543f50b36ff03547516c7?utm_campaign=1065&utm_source=git)** | White Plains, NY | Remote | May 01 |
 | **[Public Service Credit Union, Michigan](https://www.pscunow.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f53d44db88714bcdfb3026?utm_campaign=1065&utm_source=git)** | ROMULUS,MI,US | On Site | May 01 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[KQED](http://www.kqed.org)** | **[Organic and Paid Social Media Marketing Intern](https://jobright.ai/jobs/info/69f5303f43a25828a8d17b44?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
 | ↳ | **[Email & Lifecycle Marketing Intern](https://jobright.ai/jobs/info/69f53034a3d34b4f76f5441f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Digital Media Internship](https://jobright.ai/jobs/info/69f55942a3d34b4f76f54dd9?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 01 |
+| **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f56de712f2811ab5a6484e?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | May 01 |
+| **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Services Marketing](https://jobright.ai/jobs/info/69f52d99a3d34b4f76f54187?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
