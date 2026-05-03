@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eat Drink Local Texas](http://www.eatdrinklocaltexas.com)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/69f76aa981706a5bd216c079?utm_campaign=1065&utm_source=git)** | San Antonio, Texas Metropolitan Area | Hybrid | May 03 |
 | **[Carta](https://carta.com/)** | **[Marketing Internship - PR & Communications](https://jobright.ai/jobs/info/69a25330359fe034b1cd8d13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 03 |
+| **[Knobull](https://www.knobull.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f760700b36ff0354757e2b?utm_campaign=1065&utm_source=git)** | Exeter, RI | On Site | May 03 |
 | **[Activate](https://www.activate.org/)** | **[Brand Intern, Fellowship Recruitment](https://jobright.ai/jobs/info/69ebef34dc35f7132c4b46a2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 | **[Zelexio](https://en.zelexio.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f73f47582f810f9c8cb2af?utm_campaign=1065&utm_source=git)** | Sherbrooke, Quebec, Canada | On Site | May 03 |
 | **[Appian](http://www.appian.com)** | **[Social Media & Content Marketing Intern](https://jobright.ai/jobs/info/69bb0074569738374140d3b2?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | May 03 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Fall)](https://jobright.ai/jobs/info/69f5ad7812f2811ab5a6564f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 01 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Digital Merchandising Intern](https://jobright.ai/jobs/info/69f6d382a3d34b4f76f5a074?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | May 01 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f57c9143a25828a8d18f81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
-| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Emploi d'ete: Chargée de projet en environnement](https://jobright.ai/jobs/info/69f57c45db88714bcdfb3e39?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 01 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Brand Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/69f591e2db88714bcdfb410f?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | May 01 |
 | **[Shezza](http://shezzasocks.com)** | **[Business/Marketing Intern for Viral Sock Brand](https://jobright.ai/jobs/info/69f5a080db88714bcdfb43a3?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | May 01 |
 | **[Yelp](https://www.yelp.com)** | **[Communications Intern - US Remote](https://jobright.ai/jobs/info/69f560c612f2811ab5a646a2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Email & Lifecycle Marketing Intern](https://jobright.ai/jobs/info/69f53034a3d34b4f76f5441f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Digital Media Internship](https://jobright.ai/jobs/info/69f55942a3d34b4f76f54dd9?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 01 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f56de712f2811ab5a6484e?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | May 01 |
-| **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Services Marketing](https://jobright.ai/jobs/info/69f52d99a3d34b4f76f54187?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
