@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Answerr](https://answerr.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f68784b1fc847fc1ae3ca4?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f65ee2a3d34b4f76f58743?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | May 02 |
 | **[The Classic Center](http://classiccenter.com)** | **[Marketing Internship (Summer)](https://jobright.ai/jobs/info/69f67efb81706a5bd216950e?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 02 |
 | **[Origence](https://origence.com/)** | **[Marketing Campaign Intern](https://jobright.ai/jobs/info/69f67969582f810f9c8c8e4b?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Marketing Intern - Demand Generation](https://jobright.ai/jobs/info/69f51c10a3d34b4f76f53a82?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | May 01 |
 | **[Yelp](https://www.yelp.com)** | **[Communications Intern - US Remote](https://jobright.ai/jobs/info/69f51c0581706a5bd2164d36?utm_campaign=1065&utm_source=git)** | US-Remote-Remote | Remote | May 01 |
 | **[NCAA](https://www.ncaa.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/69f53a1781706a5bd2165944?utm_campaign=1065&utm_source=git)** | San Bruno, CA | On Site | May 01 |
-| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f534840b36ff0354751318?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
