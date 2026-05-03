@@ -57,18 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TREALT](https://trealt.ca/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f7cb070b36ff03547582b3?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 03 |
+| **[The IB Brief](https://ibbrief.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f7cb3adb88714bcdfb97f8?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f78bcf81706a5bd216c203?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f78bcc81706a5bd216c1f9?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f78bbddb88714bcdfb95bf?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789aa582f810f9c8cc131?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a8582f810f9c8cc127?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a7582f810f9c8cc124?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 03 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758096?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758095?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758096?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a00b36ff0354758091?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899da3d34b4f76f5b9ba?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b8?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b7?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b8?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f7cbabb1fc847fc1ae679d?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f77650582f810f9c8cc01d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f7763e582f810f9c8cc015?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7755cb1fc847fc1ae6385?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f53d2d12f2811ab5a64006?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f53cfca3d34b4f76f547fd?utm_campaign=1065&utm_source=git)** | Burbank, CA, US | Hybrid | May 01 |
 | **[Synaptics Incorporated](https://www.synaptics.com)** | **[Intern, Marketing Specialist](https://jobright.ai/jobs/info/69f53cd7a3d34b4f76f547c7?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | May 01 |
-| **[Texas Children's Hospital](http://texaschildrenspeople.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69f53cc6a3d34b4f76f54788?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | May 01 |
-| **[Strategic Education, Inc](https://www.strategiceducation.com/home/default.aspx)** | **[SEI Intern - Events (Capella)](https://jobright.ai/jobs/info/69f53c3012f2811ab5a63fe9?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | May 01 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Brand Management Intern](https://jobright.ai/jobs/info/69f53c2281706a5bd2165a87?utm_campaign=1065&utm_source=git)** | White Plains, NY | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
