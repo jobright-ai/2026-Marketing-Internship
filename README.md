@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benchmark](http://www.bench.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69f74c0f81706a5bd216b98b?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | May 03 |
 | **[Activate](https://www.activate.org/)** | **[Brand Intern, Fellowship Recruitment](https://jobright.ai/jobs/info/69ebef34dc35f7132c4b46a2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 | **[Zelexio](https://en.zelexio.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f73f47582f810f9c8cb2af?utm_campaign=1065&utm_source=git)** | Sherbrooke, Quebec, Canada | On Site | May 03 |
 | **[Appian](http://www.appian.com)** | **[Social Media & Content Marketing Intern](https://jobright.ai/jobs/info/69bb0074569738374140d3b2?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | May 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KQED](http://www.kqed.org)** | **[Organic and Paid Social Media Marketing Intern](https://jobright.ai/jobs/info/69f5303f43a25828a8d17b44?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
 | ↳ | **[Email & Lifecycle Marketing Intern](https://jobright.ai/jobs/info/69f53034a3d34b4f76f5441f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Digital Media Internship](https://jobright.ai/jobs/info/69f55942a3d34b4f76f54dd9?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 01 |
-| **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f56de712f2811ab5a6484e?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
