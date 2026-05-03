@@ -67,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758096?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a00b36ff0354758091?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899da3d34b4f76f5b9ba?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b7?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b8?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b7?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f77650582f810f9c8cc01d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f7763e582f810f9c8cc015?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7755cb1fc847fc1ae6385?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 03 |
@@ -87,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Lifecycle Marketing](https://jobright.ai/jobs/info/69a67625e567421f425778ea?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 03 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdf23a393a1008f743c29f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 03 |
 | **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebf39f58811370cb13dd2e?utm_campaign=1065&utm_source=git)** | Greater Milwaukee | On Site | May 03 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Content Creation Intern - Summer 2026](https://jobright.ai/jobs/info/69f7016db1fc847fc1ae4ceb?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Brand Marketing](https://jobright.ai/jobs/info/69a8b82e2580d3183f00c3a0?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | May 02 |
 | **[RG&T Solutions](https://www.linkedin.com/company/112014533)** | **[Summer Internship – Consumer Insights & Innovation](https://jobright.ai/jobs/info/69f700ce0b36ff0354756c2d?utm_campaign=1065&utm_source=git)** | Racine, WI | On Site | May 02 |
 | **[Perry Ellis International](http://www.pery.com)** | **[Summer 2026 Tiktok Internship](https://jobright.ai/jobs/info/69dea34daba61f1417316ae8?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | May 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f53cfca3d34b4f76f547fd?utm_campaign=1065&utm_source=git)** | Burbank, CA, US | Hybrid | May 01 |
 | **[Synaptics Incorporated](https://www.synaptics.com)** | **[Intern, Marketing Specialist](https://jobright.ai/jobs/info/69f53cd7a3d34b4f76f547c7?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | May 01 |
 | **[Texas Children's Hospital](http://texaschildrenspeople.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69f53cc6a3d34b4f76f54788?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | May 01 |
+| **[Strategic Education, Inc](https://www.strategiceducation.com/home/default.aspx)** | **[SEI Intern - Events (Capella)](https://jobright.ai/jobs/info/69f53c3012f2811ab5a63fe9?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
