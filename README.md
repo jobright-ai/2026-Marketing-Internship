@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbdddb10602456282d415?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 03 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Lifecycle Marketing](https://jobright.ai/jobs/info/69a67625e567421f425778ea?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 03 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdf23a393a1008f743c29f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 03 |
+| **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebf39f58811370cb13dd2e?utm_campaign=1065&utm_source=git)** | Greater Milwaukee | On Site | May 03 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Content Creation Intern - Summer 2026](https://jobright.ai/jobs/info/69f7016db1fc847fc1ae4ceb?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 | **[Cruze](https://cruzemaps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f6ea2081706a5bd216aabe?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Brand Marketing](https://jobright.ai/jobs/info/69a8b82e2580d3183f00c3a0?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | May 02 |
@@ -67,8 +71,6 @@ For a complete list, click the following sortable link below:
 | **[KYNY Group](https://www.kynygroup.org)** | **[Internal Communications Intern (Remote, Summer 2026)](https://jobright.ai/jobs/info/69f69845a3d34b4f76f5940a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f65ee2a3d34b4f76f58743?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | May 02 |
 | **[The Classic Center](http://classiccenter.com)** | **[Marketing Internship (Summer)](https://jobright.ai/jobs/info/69f67efb81706a5bd216950e?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 02 |
-| **[Origence](https://origence.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/69f6a65b0b36ff035475611c?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | May 02 |
-| ↳ | **[Marketing Campaign Intern](https://jobright.ai/jobs/info/69f67969582f810f9c8c8e4b?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 MA Office of Travel and Tourism Intern](https://jobright.ai/jobs/info/69f65381b1fc847fc1ae3022?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Social Media Intern - MEP (UNPAID)](https://jobright.ai/jobs/info/69f65225db88714bcdfb60f2?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Buzzards Bay - 5205 Ent Street | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Social Media Intern - MEP (UNPAID)](https://jobright.ai/jobs/info/69f65222a3d34b4f76f582f9?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Buzzards Bay - 5205 Ent Street | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Innovation Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f52b3743a25828a8d17830?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 01 |
 | **[Pathways](http://www.clarvida.com)** | **[Marketing intern](https://jobright.ai/jobs/info/69f52a68a3d34b4f76f54106?utm_campaign=1065&utm_source=git)** | Tucson, AZ | On Site | May 01 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f52a350b36ff0354750eeb?utm_campaign=1065&utm_source=git)** | Irvine, CA | Remote | May 01 |
-| **[Bel](https://www.groupe-bel.com/)** | **[Integrated Marketing Communications Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f52a0881706a5bd216529d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 01 |
-| ↳ | **[Integrated Marketing Communications Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f52a070b36ff0354750e51?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
