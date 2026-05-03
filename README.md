@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lippert](https://corporate.lippert.com)** | **[Intern](https://jobright.ai/jobs/info/69f6a83481706a5bd216a0f2?utm_campaign=1065&utm_source=git)** | Elkhart, IN | On Site | May 02 |
 | **[KYNY Group](https://www.kynygroup.org)** | **[Internal Communications Intern (Remote, Summer 2026)](https://jobright.ai/jobs/info/69f69845a3d34b4f76f5940a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f65ee2a3d34b4f76f58743?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | May 02 |
 | **[The Classic Center](http://classiccenter.com)** | **[Marketing Internship (Summer)](https://jobright.ai/jobs/info/69f67efb81706a5bd216950e?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 02 |
 | **[Origence](https://origence.com/)** | **[Marketing Campaign Intern](https://jobright.ai/jobs/info/69f67969582f810f9c8c8e4b?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | May 02 |
+| ↳ | **[Marketing Operations Intern](https://jobright.ai/jobs/info/69f6a65b0b36ff035475611c?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 MA Office of Travel and Tourism Intern](https://jobright.ai/jobs/info/69f65381b1fc847fc1ae3022?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Social Media Intern - MEP (UNPAID)](https://jobright.ai/jobs/info/69f65225db88714bcdfb60f2?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Buzzards Bay - 5205 Ent Street | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Social Media Intern - MEP (UNPAID)](https://jobright.ai/jobs/info/69f65222a3d34b4f76f582f9?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Buzzards Bay - 5205 Ent Street | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CENENCE](https://www.linkedin.com/company/105336376)** | **[College Credit - Marketing Internship](https://jobright.ai/jobs/info/69f529920b36ff0354750cfa?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Marketing Intern-Miami Events](https://jobright.ai/jobs/info/69f5224843a25828a8d172b1?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | On Site | May 01 |
 | **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Ecommerce Intern](https://jobright.ai/jobs/info/69f53beb0b36ff03547514b8?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 01 |
-| **[KnowBe4](http://www.KnowBe4.com)** | **[Marketing Intern - Demand Generation](https://jobright.ai/jobs/info/69f51c10a3d34b4f76f53a82?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | May 01 |
-| **[Yelp](https://www.yelp.com)** | **[Communications Intern - US Remote](https://jobright.ai/jobs/info/69f51c0581706a5bd2164d36?utm_campaign=1065&utm_source=git)** | US-Remote-Remote | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
