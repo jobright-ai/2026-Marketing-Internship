@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789aa582f810f9c8cc131?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a8582f810f9c8cc127?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a7582f810f9c8cc124?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758095?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758096?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758095?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a00b36ff0354758091?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899da3d34b4f76f5b9ba?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b8?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
@@ -138,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Castelion](https://www.castelion.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69f5ada881706a5bd2167015?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
 | **[Dawn Group International](https://www.linkedin.com/company/112995344)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f5c4d4db88714bcdfb49e6?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | May 02 |
 | **[Cinnamon Entertainment Group LLC](https://www.cinnamonentertainment.com)** | **[Journalism Major SEO & Answer Engine Content Non Paid Intern (Academic Credit Only)](https://jobright.ai/jobs/info/69f5bc2b12f2811ab5a65751?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Fall)](https://jobright.ai/jobs/info/69f5ad7812f2811ab5a6564f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 01 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Digital Merchandising Intern](https://jobright.ai/jobs/info/69f6d382a3d34b4f76f5a074?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | May 01 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f57c9143a25828a8d18f81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Brand Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/69f591e2db88714bcdfb410f?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | May 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Synaptics Incorporated](https://www.synaptics.com)** | **[Intern, Marketing Specialist](https://jobright.ai/jobs/info/69f53cd7a3d34b4f76f547c7?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | May 01 |
 | **[Texas Children's Hospital](http://texaschildrenspeople.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69f53cc6a3d34b4f76f54788?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | May 01 |
 | **[Strategic Education, Inc](https://www.strategiceducation.com/home/default.aspx)** | **[SEI Intern - Events (Capella)](https://jobright.ai/jobs/info/69f53c3012f2811ab5a63fe9?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | May 01 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Brand Management Intern](https://jobright.ai/jobs/info/69f53c2281706a5bd2165a87?utm_campaign=1065&utm_source=git)** | White Plains, NY | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
