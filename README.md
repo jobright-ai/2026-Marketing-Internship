@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Content Creation Intern - Summer 2026](https://jobright.ai/jobs/info/69f7016db1fc847fc1ae4ceb?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 | **[Cruze](https://cruzemaps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f6ea2081706a5bd216aabe?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Brand Marketing](https://jobright.ai/jobs/info/69a8b82e2580d3183f00c3a0?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | May 02 |
+| **[RG&T Solutions](https://www.linkedin.com/company/112014533)** | **[Summer Internship – Consumer Insights & Innovation](https://jobright.ai/jobs/info/69f700ce0b36ff0354756c2d?utm_campaign=1065&utm_source=git)** | Racine, WI | On Site | May 02 |
 | **[Perry Ellis International](http://www.pery.com)** | **[Summer 2026 Tiktok Internship](https://jobright.ai/jobs/info/69dea34daba61f1417316ae8?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | May 02 |
 | **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Marketing Intern (Part-time) (Clayton, MO)](https://jobright.ai/jobs/info/69f6c51f0b36ff035475678f?utm_campaign=1065&utm_source=git)** | Clayton, MO | On Site | May 02 |
 | **[REV Group, Inc](http://www.revgroup.com/)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69f6c2b1a3d34b4f76f59c94?utm_campaign=1065&utm_source=git)** | Decatur, IN | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tetra Tech](http://www.tetratech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f52a350b36ff0354750eeb?utm_campaign=1065&utm_source=git)** | Irvine, CA | Remote | May 01 |
 | **[Bel](https://www.groupe-bel.com/)** | **[Integrated Marketing Communications Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f52a0881706a5bd216529d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 01 |
 | ↳ | **[Integrated Marketing Communications Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f52a070b36ff0354750e51?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 01 |
-| ↳ | **[Integrated Marketing Communications Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f529fa12f2811ab5a63628?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 01 |
-| **[Starbeam](www.starbeam.org)** | **[Marketing and Sales (Growth) Intern](https://jobright.ai/jobs/info/69f529f5db88714bcdfb27ae?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
