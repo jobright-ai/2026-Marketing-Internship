@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbdddb10602456282d415?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 03 |
+| **[Activate](https://www.activate.org/)** | **[Brand Intern, Fellowship Recruitment](https://jobright.ai/jobs/info/69ebef34dc35f7132c4b46a2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
+| **[Zelexio](https://en.zelexio.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f73f47582f810f9c8cb2af?utm_campaign=1065&utm_source=git)** | Sherbrooke, Quebec, Canada | On Site | May 03 |
+| **[Appian](http://www.appian.com)** | **[Social Media & Content Marketing Intern](https://jobright.ai/jobs/info/69bb0074569738374140d3b2?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | May 03 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbe10393a1008f743407f?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 03 |
+| ↳ | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbeb0393a1008f7434230?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | May 03 |
+| ↳ | **[Marketing Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbd79b10602456282d30a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 03 |
+| ↳ | **[Marketing Events and Campaigns Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbdddb10602456282d415?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 03 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Lifecycle Marketing](https://jobright.ai/jobs/info/69a67625e567421f425778ea?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 03 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdf23a393a1008f743c29f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 03 |
 | **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebf39f58811370cb13dd2e?utm_campaign=1065&utm_source=git)** | Greater Milwaukee | On Site | May 03 |
@@ -87,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/699015380f6f7e7a2cec66d1?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
 | **[Reach Records](https://www.reachrecords.com)** | **[Get MXD Marketing Internship – Summer 2026](https://jobright.ai/jobs/info/69f6416cdb88714bcdfb5c5b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management Marketing & Communications](https://jobright.ai/jobs/info/699f802023374b3b6e6b4fd4?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | May 02 |
-| **[The Forensic Times](https://forensictimes.com/)** | **[Campus Ambassador - Internship](https://jobright.ai/jobs/info/69f62ea6b1fc847fc1ae2a40?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 02 |
+| **[Forensic Times](https://forensictimes.com/)** | **[Campus Ambassador - Internship](https://jobright.ai/jobs/info/69f62ea6b1fc847fc1ae2a40?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 02 |
 | **[VIO Med Spa](https://viomedspa.com)** | **[Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/69f60b6fa3d34b4f76f5744b?utm_campaign=1065&utm_source=git)** | Zionsville, IN | On Site | May 02 |
 | **[Electro](electrogum.com)** | **[Affiliate Outreach Intern](https://jobright.ai/jobs/info/69f641dadb88714bcdfb5cc0?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | ↳ | **[Student Athlete Outreach Intern](https://jobright.ai/jobs/info/69f6398eb1fc847fc1ae2a9e?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Email & Lifecycle Marketing Intern](https://jobright.ai/jobs/info/69f53034a3d34b4f76f5441f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Digital Media Internship](https://jobright.ai/jobs/info/69f55942a3d34b4f76f54dd9?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 01 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f56de712f2811ab5a6484e?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | May 01 |
-| **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Services Marketing](https://jobright.ai/jobs/info/69f52d99a3d34b4f76f54187?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | May 01 |
-| **[MathWorks](http://www.mathworks.com)** | **[Simon Fraser University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69d8098e869c7e25d8593171?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | May 01 |
-| **[Bel](https://www.groupe-bel.com/)** | **[Brand Innovation Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f52bb143a25828a8d17966?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 01 |
-| ↳ | **[Brand Innovation Summer Intern - GoGo squeeZ](https://jobright.ai/jobs/info/69f52b3743a25828a8d17830?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 01 |
-| **[Pathways](http://www.clarvida.com)** | **[Marketing intern](https://jobright.ai/jobs/info/69f52a68a3d34b4f76f54106?utm_campaign=1065&utm_source=git)** | Tucson, AZ | On Site | May 01 |
-| **[Tetra Tech](http://www.tetratech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f52a350b36ff0354750eeb?utm_campaign=1065&utm_source=git)** | Irvine, CA | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
