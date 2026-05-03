@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/69f77650582f810f9c8cc01d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f7763e582f810f9c8cc015?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7755cb1fc847fc1ae6385?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 03 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f774c9db88714bcdfb9488?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 03 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f774a1a3d34b4f76f5b92f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
 | **[Eat Drink Local Texas](http://www.eatdrinklocaltexas.com)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/69f76aa981706a5bd216c079?utm_campaign=1065&utm_source=git)** | San Antonio, Texas Metropolitan Area | Hybrid | May 03 |
 | **[Carta](https://carta.com/)** | **[Marketing Internship - PR & Communications](https://jobright.ai/jobs/info/69a25330359fe034b1cd8d13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 03 |
 | **[Knobull](https://www.knobull.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f760700b36ff0354757e2b?utm_campaign=1065&utm_source=git)** | Exeter, RI | On Site | May 03 |
@@ -71,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdf23a393a1008f743c29f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 03 |
 | **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebf39f58811370cb13dd2e?utm_campaign=1065&utm_source=git)** | Greater Milwaukee | On Site | May 03 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Content Creation Intern - Summer 2026](https://jobright.ai/jobs/info/69f7016db1fc847fc1ae4ceb?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
-| **[Cruze](https://cruzemaps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f6ea2081706a5bd216aabe?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Brand Marketing](https://jobright.ai/jobs/info/69a8b82e2580d3183f00c3a0?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | May 02 |
 | **[RG&T Solutions](https://www.linkedin.com/company/112014533)** | **[Summer Internship – Consumer Insights & Innovation](https://jobright.ai/jobs/info/69f700ce0b36ff0354756c2d?utm_campaign=1065&utm_source=git)** | Racine, WI | On Site | May 02 |
 | **[Perry Ellis International](http://www.pery.com)** | **[Summer 2026 Tiktok Internship](https://jobright.ai/jobs/info/69dea34daba61f1417316ae8?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | May 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Latium Technologies](https://www.thelatiumgroup.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f53659db88714bcdfb2d06?utm_campaign=1065&utm_source=git)** | Nisku, Alberta, Canada | On Site | May 01 |
 | **[The US Oncology Network](http://www.usoncology.com/)** | **[Summer Intern - Marketing Department](https://jobright.ai/jobs/info/69f532bd0b36ff0354751207?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | May 01 |
 | **[Otterbein University](http://www.otterbein.edu/)** | **[Graduate Intern - Events and Conferences](https://jobright.ai/jobs/info/69f532740b36ff035475115b?utm_campaign=1065&utm_source=git)** | Westerville, OH | On Site | May 01 |
-| **[KQED](http://www.kqed.org)** | **[Organic and Paid Social Media Marketing Intern](https://jobright.ai/jobs/info/69f5303f43a25828a8d17b44?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
-| ↳ | **[Email & Lifecycle Marketing Intern](https://jobright.ai/jobs/info/69f53034a3d34b4f76f5441f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Digital Media Internship](https://jobright.ai/jobs/info/69f55942a3d34b4f76f54dd9?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 01 |
-| **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f56de712f2811ab5a6484e?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
