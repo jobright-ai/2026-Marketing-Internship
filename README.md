@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Portfolio Finance App](https://www.portfoliogrow.com/)** | **[Intern](https://jobright.ai/jobs/info/69f807040b36ff0354758733?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | May 03 |
+| **[Cornerstone](http://www.ciswired.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69f8055aa3d34b4f76f5c1bf?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
+| **[AXS](https://www.axs.com/)** | **[Summer Intern, Communications (AXS)](https://jobright.ai/jobs/info/69efd6bd58811370cb148c19?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | **[Starbeam](www.starbeam.org)** | **[Sales and Marketing (Growth) Intern](https://jobright.ai/jobs/info/69f7ec5181706a5bd216c6ef?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 03 |
 | **[The IB Brief](https://ibbrief.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f7cb3adb88714bcdfb97f8?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f78bcf81706a5bd216c203?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Public Service Credit Union, Michigan](https://www.pscunow.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f53d44db88714bcdfb3026?utm_campaign=1065&utm_source=git)** | ROMULUS,MI,US | On Site | May 01 |
 | **[PBS SoCal](http://www.pbssocal.org/home/)** | **[PR & Communications Intern](https://jobright.ai/jobs/info/69f53d3cdb88714bcdfb3011?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 01 |
 | ↳ | **[PR & Communications Intern](https://jobright.ai/jobs/info/69f53d3312f2811ab5a6401a?utm_campaign=1065&utm_source=git)** | Burbank, CA, US | Hybrid | May 01 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f53d2d12f2811ab5a64006?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 01 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f53cfca3d34b4f76f547fd?utm_campaign=1065&utm_source=git)** | Burbank, CA, US | Hybrid | May 01 |
-| **[Synaptics Incorporated](https://www.synaptics.com)** | **[Intern, Marketing Specialist](https://jobright.ai/jobs/info/69f53cd7a3d34b4f76f547c7?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
