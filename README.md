@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadium](http://www.acadium.com)** | **[Email Campaign & Lead Generation Intern](https://jobright.ai/jobs/info/69f8939adb88714bcdfba966?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
+| ↳ | **[CRM, Automation & Growth Marketing Intern](https://jobright.ai/jobs/info/69f89317582f810f9c8cd5c5?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | **[Priority Waste](https://www.prioritywaste.com/)** | **[Market Research Intern](https://jobright.ai/jobs/info/69f86b85582f810f9c8cd421?utm_campaign=1065&utm_source=git)** | Corporate - Clinton Township, MI 48038 | On Site | May 04 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Customer, Brand Strategy & Marketing](https://jobright.ai/jobs/info/69f86b82582f810f9c8cd41c?utm_campaign=1065&utm_source=git)** | Tempe, AZ, US | Hybrid | May 04 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Livestream Fundraising & Community Events Internship](https://jobright.ai/jobs/info/69f24eba8feca91f149243f3?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | May 04 |
@@ -79,12 +81,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789aa582f810f9c8cc131?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a8582f810f9c8cc127?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a7582f810f9c8cc124?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758095?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758096?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758095?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a00b36ff0354758091?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899da3d34b4f76f5b9ba?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b7?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b8?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b7?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f7cbabb1fc847fc1ae679d?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f77650582f810f9c8cc01d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f7763e582f810f9c8cc015?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dawn Group International](https://www.linkedin.com/company/112995344)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f5c4d4db88714bcdfb49e6?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | May 02 |
 | **[Cinnamon Entertainment Group LLC](https://www.cinnamonentertainment.com)** | **[Journalism Major SEO & Answer Engine Content Non Paid Intern (Academic Credit Only)](https://jobright.ai/jobs/info/69f5bc2b12f2811ab5a65751?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Digital Merchandising Intern](https://jobright.ai/jobs/info/69f6d382a3d34b4f76f5a074?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | May 01 |
-| **[Night](https://night.co/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f2a7bf8d8d624381aa1fb3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
-| **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f57c9143a25828a8d18f81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
