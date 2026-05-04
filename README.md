@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charlotte Eye Ear Nose & Throat Associates, P.A. (CEENTA)](https://www.ceenta.com/)** | **[Social Media and Content Creation Intern and Content Creation Intern (47332)](https://jobright.ai/jobs/info/69f8a298b1fc847fc1ae7b16?utm_campaign=1065&utm_source=git)** | SouthPark, Corporate  - Charlotte, NC 28210 | On Site | May 04 |
 | **[Acadium](http://www.acadium.com)** | **[Email Campaign & Lead Generation Intern](https://jobright.ai/jobs/info/69f8939adb88714bcdfba966?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | ↳ | **[CRM, Automation & Growth Marketing Intern](https://jobright.ai/jobs/info/69f89317582f810f9c8cd5c5?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | **[Priority Waste](https://www.prioritywaste.com/)** | **[Market Research Intern](https://jobright.ai/jobs/info/69f86b85582f810f9c8cd421?utm_campaign=1065&utm_source=git)** | Corporate - Clinton Township, MI 48038 | On Site | May 04 |
@@ -81,12 +82,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789aa582f810f9c8cc131?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a8582f810f9c8cc127?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a7582f810f9c8cc124?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 03 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758096?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758095?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758096?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a00b36ff0354758091?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899da3d34b4f76f5b9ba?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b8?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b7?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b8?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f7cbabb1fc847fc1ae679d?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f77650582f810f9c8cc01d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f7763e582f810f9c8cc015?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebf39f58811370cb13dd2e?utm_campaign=1065&utm_source=git)** | Greater Milwaukee | On Site | May 03 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Brand Marketing](https://jobright.ai/jobs/info/69a8b82e2580d3183f00c3a0?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | May 02 |
 | **[Perry Ellis International](http://www.pery.com)** | **[Summer 2026 Tiktok Internship](https://jobright.ai/jobs/info/69dea34daba61f1417316ae8?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | May 02 |
-| **[REV Group, Inc](http://www.revgroup.com/)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69f6c2b1a3d34b4f76f59c94?utm_campaign=1065&utm_source=git)** | Decatur, IN | On Site | May 02 |
 | **[KYNY Group](https://www.kynygroup.org)** | **[Internal Communications Intern (Remote, Summer 2026)](https://jobright.ai/jobs/info/69f69845a3d34b4f76f5940a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | **[Wellspoken](https://www.wellspoken.me/)** | **[Growth & Marketing Intern](https://jobright.ai/jobs/info/69f82c1781706a5bd216d19c?utm_campaign=1065&utm_source=git)** | Henrico, VA | Hybrid | May 02 |
 | ↳ | **[Startup Growth & Operations Intern](https://jobright.ai/jobs/info/69f82c830b36ff035475934c?utm_campaign=1065&utm_source=git)** | Henrico, VA | Remote | May 02 |
