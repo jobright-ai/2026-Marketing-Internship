@@ -57,23 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[uberliss](http://uberliss.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f81726582f810f9c8ccd56?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
+| **[as i am](https://www.asiamnaturally.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f811d8582f810f9c8cc9bf?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
+| **[NY Eventss](nyeventss.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f810c6a3d34b4f76f5c360?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | May 03 |
+| **[Thursday](www.thursdaythriftclub.com)** | **[Social Media Marketing & UGC Intern (Summer 2026, Remote)](https://jobright.ai/jobs/info/69f81015a3d34b4f76f5c341?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Remote | May 03 |
 | **[Portfolio Finance App](https://www.portfoliogrow.com/)** | **[Intern](https://jobright.ai/jobs/info/69f807040b36ff0354758733?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | May 03 |
 | **[Cornerstone](http://www.ciswired.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69f8055aa3d34b4f76f5c1bf?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, Communications (AXS)](https://jobright.ai/jobs/info/69efd6bd58811370cb148c19?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | **[Starbeam](www.starbeam.org)** | **[Sales and Marketing (Growth) Intern](https://jobright.ai/jobs/info/69f7ec5181706a5bd216c6ef?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 03 |
-| **[The IB Brief](https://ibbrief.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f7cb3adb88714bcdfb97f8?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f78bcf81706a5bd216c203?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f78bcc81706a5bd216c1f9?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f78bbddb88714bcdfb95bf?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789aa582f810f9c8cc131?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a8582f810f9c8cc127?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a7582f810f9c8cc124?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758095?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758096?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758095?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a00b36ff0354758091?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899da3d34b4f76f5b9ba?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b7?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b8?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b7?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f7cbabb1fc847fc1ae679d?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f77650582f810f9c8cc01d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f7763e582f810f9c8cc015?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Marketing Intern (Atlanta Region)](https://jobright.ai/jobs/info/69f5525bdb88714bcdfb3473?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 01 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Social Media Associate Intern](https://jobright.ai/jobs/info/69f1183f8d8d624381a9a60f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69f543f50b36ff03547516c7?utm_campaign=1065&utm_source=git)** | White Plains, NY | Remote | May 01 |
-| **[Public Service Credit Union, Michigan](https://www.pscunow.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f53d44db88714bcdfb3026?utm_campaign=1065&utm_source=git)** | ROMULUS,MI,US | On Site | May 01 |
-| **[PBS SoCal](http://www.pbssocal.org/home/)** | **[PR & Communications Intern](https://jobright.ai/jobs/info/69f53d3cdb88714bcdfb3011?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 01 |
-| ↳ | **[PR & Communications Intern](https://jobright.ai/jobs/info/69f53d3312f2811ab5a6401a?utm_campaign=1065&utm_source=git)** | Burbank, CA, US | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
