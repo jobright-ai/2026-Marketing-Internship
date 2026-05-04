@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toro Marketing Group](https://www.torogrouptx.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69f8aa40582f810f9c8cdc20?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 04 |
+| **[Acadium](http://www.acadium.com)** | **[Social Media Marketing, SEO & Marketing Funnels Intern](https://jobright.ai/jobs/info/69f8a48f0b36ff0354759fbf?utm_campaign=1065&utm_source=git)** | Canada | Remote | May 04 |
+| ↳ | **[Web Design, Branding, and SEO Intern](https://jobright.ai/jobs/info/69f8a48b0b36ff0354759fb1?utm_campaign=1065&utm_source=git)** | Canada | Remote | May 04 |
 | **[Charlotte Eye Ear Nose & Throat Associates, P.A. (CEENTA)](https://www.ceenta.com/)** | **[Social Media and Content Creation Intern and Content Creation Intern (47332)](https://jobright.ai/jobs/info/69f8a298b1fc847fc1ae7b16?utm_campaign=1065&utm_source=git)** | SouthPark, Corporate  - Charlotte, NC 28210 | On Site | May 04 |
 | **[Acadium](http://www.acadium.com)** | **[Email Campaign & Lead Generation Intern](https://jobright.ai/jobs/info/69f8939adb88714bcdfba966?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | ↳ | **[CRM, Automation & Growth Marketing Intern](https://jobright.ai/jobs/info/69f89317582f810f9c8cd5c5?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
@@ -82,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789aa582f810f9c8cc131?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a8582f810f9c8cc127?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a7582f810f9c8cc124?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758095?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758096?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758095?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a00b36ff0354758091?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899da3d34b4f76f5b9ba?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b7?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
@@ -129,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/699015380f6f7e7a2cec66d1?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
 | **[Reach Records](https://www.reachrecords.com)** | **[Get MXD Marketing Internship – Summer 2026](https://jobright.ai/jobs/info/69f6416cdb88714bcdfb5c5b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management Marketing & Communications](https://jobright.ai/jobs/info/699f802023374b3b6e6b4fd4?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | May 02 |
-| **[VIO Med Spa](https://viomedspa.com)** | **[Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/69f60b6fa3d34b4f76f5744b?utm_campaign=1065&utm_source=git)** | Zionsville, IN | On Site | May 02 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/6985846e8da7a61204602861?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69d97625869c7e25d859aeff?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 02 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Markets, Sales (Boston, MA)](https://jobright.ai/jobs/info/699903cae0bddb6acac7f981?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f5ae8a43a25828a8d19774?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 02 |
 | **[Castelion](https://www.castelion.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69f5ada881706a5bd2167015?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
 | **[Dawn Group International](https://www.linkedin.com/company/112995344)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f5c4d4db88714bcdfb49e6?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | May 02 |
-| **[Cinnamon Entertainment Group LLC](https://www.cinnamonentertainment.com)** | **[Journalism Major SEO & Answer Engine Content Non Paid Intern (Academic Credit Only)](https://jobright.ai/jobs/info/69f5bc2b12f2811ab5a65751?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Digital Merchandising Intern](https://jobright.ai/jobs/info/69f6d382a3d34b4f76f5a074?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
