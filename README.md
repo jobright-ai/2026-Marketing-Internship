@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758096?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a00b36ff0354758091?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899da3d34b4f76f5b9ba?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b8?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b7?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b8?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f7cbabb1fc847fc1ae679d?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | May 03 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f77650582f810f9c8cc01d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f7763e582f810f9c8cc015?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 03 |
@@ -105,6 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Marketing Intern (Part-time) (Clayton, MO)](https://jobright.ai/jobs/info/69f6c51f0b36ff035475678f?utm_campaign=1065&utm_source=git)** | Clayton, MO | On Site | May 02 |
 | **[REV Group, Inc](http://www.revgroup.com/)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69f6c2b1a3d34b4f76f59c94?utm_campaign=1065&utm_source=git)** | Decatur, IN | On Site | May 02 |
 | **[KYNY Group](https://www.kynygroup.org)** | **[Internal Communications Intern (Remote, Summer 2026)](https://jobright.ai/jobs/info/69f69845a3d34b4f76f5940a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
+| **[Wellspoken](https://www.wellspoken.me/)** | **[Growth & Marketing Intern](https://jobright.ai/jobs/info/69f82c1781706a5bd216d19c?utm_campaign=1065&utm_source=git)** | Henrico, VA | Hybrid | May 02 |
+| ↳ | **[Startup Growth & Operations Intern](https://jobright.ai/jobs/info/69f82c830b36ff035475934c?utm_campaign=1065&utm_source=git)** | Henrico, VA | Remote | May 02 |
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f65ee2a3d34b4f76f58743?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | May 02 |
 | **[The Classic Center](http://classiccenter.com)** | **[Marketing Internship (Summer)](https://jobright.ai/jobs/info/69f67efb81706a5bd216950e?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 MA Office of Travel and Tourism Intern](https://jobright.ai/jobs/info/69f65381b1fc847fc1ae3022?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | May 02 |
@@ -123,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/699015380f6f7e7a2cec66d1?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
 | **[Reach Records](https://www.reachrecords.com)** | **[Get MXD Marketing Internship – Summer 2026](https://jobright.ai/jobs/info/69f6416cdb88714bcdfb5c5b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management Marketing & Communications](https://jobright.ai/jobs/info/699f802023374b3b6e6b4fd4?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | May 02 |
-| **[Forensic Times](https://forensictimes.com/)** | **[Campus Ambassador - Internship](https://jobright.ai/jobs/info/69f62ea6b1fc847fc1ae2a40?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 02 |
 | **[VIO Med Spa](https://viomedspa.com)** | **[Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/69f60b6fa3d34b4f76f5744b?utm_campaign=1065&utm_source=git)** | Zionsville, IN | On Site | May 02 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/6985846e8da7a61204602861?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69d97625869c7e25d859aeff?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yelp](https://www.yelp.com)** | **[Communications Intern - US Remote](https://jobright.ai/jobs/info/69f560c612f2811ab5a646a2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Ambassador Intern, Chartwells Higher Ed + Boost / Boise State University](https://jobright.ai/jobs/info/69f55da412f2811ab5a64606?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | May 01 |
 | **[Aflac](http://www.aflac.com)** | **[Market Coordinator](https://jobright.ai/jobs/info/69f576ce81706a5bd21667e2?utm_campaign=1065&utm_source=git)** | Glendale, CA | Hybrid | May 01 |
-| **[Everlaw](http://everlaw.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69f553150b36ff0354751a5c?utm_campaign=1065&utm_source=git)** | Oakland, California, United States | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
