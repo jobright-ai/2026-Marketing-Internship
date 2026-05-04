@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Livestream Fundraising & Community Events Internship](https://jobright.ai/jobs/info/69f24eba8feca91f149243f3?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | May 04 |
+| **[LEAP Legal Software](https://www.leaplegalsoftware.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f84f8a582f810f9c8cd360?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/69f84bfda3d34b4f76f5cc44?utm_campaign=1065&utm_source=git)** | Victoria, British Columbia, CA | On Site | May 04 |
 | **[Gazette Gal](www.gazettegal.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/69f8425481706a5bd216d237?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Marketing Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f82473a3d34b4f76f5c913?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebf39f58811370cb13dd2e?utm_campaign=1065&utm_source=git)** | Greater Milwaukee | On Site | May 03 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Brand Marketing](https://jobright.ai/jobs/info/69a8b82e2580d3183f00c3a0?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | May 02 |
 | **[Perry Ellis International](http://www.pery.com)** | **[Summer 2026 Tiktok Internship](https://jobright.ai/jobs/info/69dea34daba61f1417316ae8?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | May 02 |
-| **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Marketing Intern (Part-time) (Clayton, MO)](https://jobright.ai/jobs/info/69f6c51f0b36ff035475678f?utm_campaign=1065&utm_source=git)** | Clayton, MO | On Site | May 02 |
 | **[REV Group, Inc](http://www.revgroup.com/)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69f6c2b1a3d34b4f76f59c94?utm_campaign=1065&utm_source=git)** | Decatur, IN | On Site | May 02 |
 | **[KYNY Group](https://www.kynygroup.org)** | **[Internal Communications Intern (Remote, Summer 2026)](https://jobright.ai/jobs/info/69f69845a3d34b4f76f5940a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 02 |
 | **[Wellspoken](https://www.wellspoken.me/)** | **[Growth & Marketing Intern](https://jobright.ai/jobs/info/69f82c1781706a5bd216d19c?utm_campaign=1065&utm_source=git)** | Henrico, VA | Hybrid | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f57c9143a25828a8d18f81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Brand Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/69f591e2db88714bcdfb410f?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | May 01 |
 | **[Yelp](https://www.yelp.com)** | **[Communications Intern - US Remote](https://jobright.ai/jobs/info/69f560c612f2811ab5a646a2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 01 |
-| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Ambassador Intern, Chartwells Higher Ed + Boost / Boise State University](https://jobright.ai/jobs/info/69f55da412f2811ab5a64606?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
