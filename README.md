@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MCA Connect](http://mcaconnect.com/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69f91dd3a3d34b4f76f605ed?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
+| **[Waterstone Properties Group](https://www.waterstonepg.com)** | **[Marketing Coordinator, Seasonal or Intern](https://jobright.ai/jobs/info/69f91d7fa3d34b4f76f60586?utm_campaign=1065&utm_source=git)** | Westbrook, ME | Hybrid | May 04 |
+| **[Team 201](https://team201.io/)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/69f91d6d81706a5bd2170a89?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 04 |
+| **[Live Like Jojo Foundation](https://mitochondrialdeletionsyndrome.com/)** | **[College Intern](https://jobright.ai/jobs/info/69f91d64db88714bcdfbde14?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | May 04 |
+| **[Casa Foundation](https://casafoundation.ca)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f91bb9db88714bcdfbddc8?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 04 |
+| **[Charleston Cocktail Week](https://charlestoncocktailweek.org)** | **[Summer Business and Marketing Internship (Remote for East Coast)](https://jobright.ai/jobs/info/69f91b6bb1fc847fc1aeb018?utm_campaign=1065&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Remote | May 04 |
+| **[Inflection Point Entertainment](https://inflectionent.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f91b6781706a5bd21709aa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | May 04 |
+| **[Edesia Nutrition](https://www.edesianutrition.org)** | **[Global Health & Humanitarian Internship](https://jobright.ai/jobs/info/69f91b38a3d34b4f76f604f1?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | On Site | May 04 |
 | **[BlueChips](www.bluechips.com)** | **[Visual Communications and Branding Research Intern](https://jobright.ai/jobs/info/69f9130bb1fc847fc1aea8ab?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[Foxiecakes](www.foxiecakes.com)** | **[Digital Marketing Intern — SEO, Content & AI Search](https://jobright.ai/jobs/info/69f912e3a3d34b4f76f5fe85?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | May 04 |
 | **[Community Health Systems](http://www.chs.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f91212db88714bcdfbd6b0?utm_campaign=1065&utm_source=git)** | Birmingham, AL, United States | On Site | May 04 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Public Relations Internship Opportunity](https://jobright.ai/jobs/info/69f90e02db88714bcdfbd5b4?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | May 04 |
 | **[Larry H Miller Sports & Entertainment](http://www.lhmse.com/)** | **[Communications Internship](https://jobright.ai/jobs/info/69f90c56a3d34b4f76f5fa3c?utm_campaign=1065&utm_source=git)** | Sandy, Utah, United States | On Site | May 04 |
-| **[NAiiA](https://shopnaiia.com/)** | **[Marketing Intern (Influencer, Social & Brand Strategy)](https://jobright.ai/jobs/info/69f90637db88714bcdfbd15a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | May 04 |
 | **[Northland Area Federal Credit Union](https://www.northlandcu.com)** | **[Summer Intern / Student Opportunities – Marketing & Lending Departments](https://jobright.ai/jobs/info/69f9057e0b36ff035475c8cb?utm_campaign=1065&utm_source=git)** | Alpena, MI | On Site | May 04 |
 | **[Norman Love Confections](http://www.normanloveconfections.com)** | **[Remote B2B Sales & Marketing Intern](https://jobright.ai/jobs/info/69f904d381706a5bd216fe72?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | May 04 |
 | **[Visit Detroit](https://visitdetroit.com/)** | **[Events Intern](https://jobright.ai/jobs/info/69f9048aa3d34b4f76f5f949?utm_campaign=1065&utm_source=git)** | Detroit, Michigan | On Site | May 04 |
@@ -74,9 +81,9 @@ For a complete list, click the following sortable link below:
 | **[Gupta Media](http://guptamedia.com)** | **[Media Intern - Fall 2026](https://jobright.ai/jobs/info/69f8f87d582f810f9c8cf83f?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | On Site | May 04 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Marketing/Communications and Business Development Summer Intern](https://jobright.ai/jobs/info/69f8f85a0b36ff035475c496?utm_campaign=1065&utm_source=git)** | DALLAS,TX,US | On Site | May 04 |
 | **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69f8f810a3d34b4f76f5f4e0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | May 04 |
-| **[Inspova](www.inspova.ai)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69f8f7c0a3d34b4f76f5f4ab?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 04 |
 | **[JunkJournal](https://mince-shown-32649146.figma.site)** | **[Social Media Manager  / Internship](https://jobright.ai/jobs/info/69f8f794a3d34b4f76f5f470?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | **[TreeHouse Foods](http://treehousefoods.com)** | **[Intern](https://jobright.ai/jobs/info/69f8f713b1fc847fc1ae9f1a?utm_campaign=1065&utm_source=git)** | ON Works from Home, CA | Remote | May 04 |
+| **[Eagle Carriers of South Florida, LLC](https://www.eaglecarriers.net)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f91ba7db88714bcdfbddb9?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | May 04 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Marketing Intern, Chartwells Higher Ed / Indiana University - Indianapolis](https://jobright.ai/jobs/info/69f8f378a3d34b4f76f5f246?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, US | On Site | May 04 |
 | **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f8f35e81706a5bd216f6a8?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | May 04 |
 | **[Third Street Family Health Services](https://thirdstreetfamily.org/)** | **[Communications Coordinator Intern [Mansfield, OH]](https://jobright.ai/jobs/info/69f8f33d81706a5bd216f64c?utm_campaign=1065&utm_source=git)** | Mansfield,OH,US | On Site | May 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f78bcc81706a5bd216c1f9?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f78bbddb88714bcdfb95bf?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789aa582f810f9c8cc131?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a8582f810f9c8cc127?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a7582f810f9c8cc124?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758095?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f789a20b36ff0354758096?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789a00b36ff0354758091?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899da3d34b4f76f5b9ba?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | May 03 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69f7899ba3d34b4f76f5b9b7?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
