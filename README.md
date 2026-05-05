@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Essayer LLC](https://www.linkedin.com/company/100322237)** | **[Social Media / Content Intern](https://jobright.ai/jobs/info/69f957ac582f810f9c8d131f?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | May 04 |
+| **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f9525081706a5bd21714ab?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | May 04 |
+| **[Mizkan America](http://mizkan.com)** | **[Intern, Social Media](https://jobright.ai/jobs/info/69f94d9381706a5bd2171461?utm_campaign=1065&utm_source=git)** | Schaumburg, IL, 60173, United States | Hybrid | May 04 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Communications Phoenix Mercury](https://jobright.ai/jobs/info/69f93f73db88714bcdfbe6e7?utm_campaign=1065&utm_source=git)** | Phoenix, AZ 85004, USA | On Site | May 04 |
 | **[Retell AI](https://retellai.com)** | **[Marketing Intern (Product + Creative)](https://jobright.ai/jobs/info/69f93f71a3d34b4f76f60e1e?utm_campaign=1065&utm_source=git)** | Remote (US) | Remote | May 04 |
 | ↳ | **[Marketing Intern (Product + Creative)](https://jobright.ai/jobs/info/69f93f6eb1fc847fc1aeb8fd?utm_campaign=1065&utm_source=git)** | Redwood City, CA, US | Hybrid | May 04 |
@@ -145,6 +148,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/69f8b2f081706a5bd216df12?utm_campaign=1065&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | May 04 |
 | **[Hudson Technologies](http://www.hudsontech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f8b2c481706a5bd216de70?utm_campaign=1065&utm_source=git)** | Woodcliff Lake, NJ, US | On Site | May 04 |
 | **[Actian](http://www.actian.com)** | **[SEO/AEO Intern](https://jobright.ai/jobs/info/69f8b049582f810f9c8cdce4?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | May 04 |
+| **[CodePath](https://codepath.org)** | **[Senior Product Marketing Manager](https://jobright.ai/jobs/info/696ab20e5fc862418539bdf9?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | **[Fezzora, Inc.](fezzorainc.com)** | **[Entry Level Marketing 2026 Internship](https://jobright.ai/jobs/info/69f0c4158d8d624381a977ed?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 04 |
 | **[Toro Marketing Group](https://www.torogrouptx.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/69f8aa40582f810f9c8cdc20?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 04 |
 | **[Acadium](http://www.acadium.com)** | **[Social Media Marketing, SEO & Marketing Funnels Intern](https://jobright.ai/jobs/info/69f8a48f0b36ff0354759fbf?utm_campaign=1065&utm_source=git)** | Canada | Remote | May 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acadium](http://www.acadium.com)** | **[Email Campaign & Lead Generation Intern](https://jobright.ai/jobs/info/69f8939adb88714bcdfba966?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | ↳ | **[CRM, Automation & Growth Marketing Intern](https://jobright.ai/jobs/info/69f89317582f810f9c8cd5c5?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | **[Priority Waste](https://www.prioritywaste.com/)** | **[Market Research Intern](https://jobright.ai/jobs/info/69f86b85582f810f9c8cd421?utm_campaign=1065&utm_source=git)** | Corporate - Clinton Township, MI 48038 | On Site | May 04 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Customer, Brand Strategy & Marketing](https://jobright.ai/jobs/info/69f86b82582f810f9c8cd41c?utm_campaign=1065&utm_source=git)** | Tempe, AZ, US | Hybrid | May 04 |
-| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Livestream Fundraising & Community Events Internship](https://jobright.ai/jobs/info/69f24eba8feca91f149243f3?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | May 04 |
-| **[LEAP Legal Software](https://www.leaplegalsoftware.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f84f8a582f810f9c8cd360?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
-| **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/69f84bfda3d34b4f76f5cc44?utm_campaign=1065&utm_source=git)** | Victoria, British Columbia, CA | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
