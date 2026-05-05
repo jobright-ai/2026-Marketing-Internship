@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mase Talent Group](https://masetalent.com)** | **[Social Media Marketing / video editing Intern](https://jobright.ai/jobs/info/69f99c7ba3d34b4f76f61ec9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[Cornell Global Inc.](www.cornellglobalinc.com)** | **[Direct Marketing Intern](https://jobright.ai/jobs/info/69f98df1582f810f9c8d1bd2?utm_campaign=1065&utm_source=git)** | Katy, TX | On Site | May 04 |
 | **[El Pollo Loco, Inc.](http://www.elpolloloco.com/)** | **[INTERN, MARKETING](https://jobright.ai/jobs/info/69f96e7581706a5bd2171cf5?utm_campaign=1065&utm_source=git)** | 575 Anton Blvd, Costa Mesa, CA 92626, USA | On Site | May 04 |
 | ↳ | **[INTERN, MARKETING - PR & EVENTS](https://jobright.ai/jobs/info/69f968c8b1fc847fc1aec272?utm_campaign=1065&utm_source=git)** | 575 Anton Blvd, Costa Mesa, CA 92626, USA | On Site | May 04 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Retell AI](https://retellai.com)** | **[Marketing Intern (Product + Creative)](https://jobright.ai/jobs/info/69f93f71a3d34b4f76f60e1e?utm_campaign=1065&utm_source=git)** | Remote (US) | Remote | May 04 |
 | ↳ | **[Marketing Intern (Product + Creative)](https://jobright.ai/jobs/info/69f93f6eb1fc847fc1aeb8fd?utm_campaign=1065&utm_source=git)** | Redwood City, CA, US | Hybrid | May 04 |
 | **[Electro](electrogum.com)** | **[Brand Ambassador Outreach Intern](https://jobright.ai/jobs/info/69f962ff81706a5bd21716ef?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
-| ↳ | **[Athlete Social Media Intern](https://jobright.ai/jobs/info/69f962fe81706a5bd21716eb?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | May 04 |
 | ↳ | **[Athlete Outreach Intern](https://jobright.ai/jobs/info/69f962fe81706a5bd21716ec?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | May 04 |
 | **[Wicked Creative](http://wickedcreative.com/)** | **[Social Media Summer Intern 2026](https://jobright.ai/jobs/info/69f962b681706a5bd2171631?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | May 04 |
 | **[SKXYWTF](http://www.worldtradefactory.com)** | **[World Trade Factory —The Future Belongs 2 You Content/Media/Marketing Internships](https://jobright.ai/jobs/info/69f963cb0b36ff035475e17c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
