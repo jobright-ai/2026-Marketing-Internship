@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phathom Pharmaceuticals](https://www.phathompharma.com/)** | **[Summer Intern 2026 - Omnichannel Marketing/Customer Engagement Strategy](https://jobright.ai/jobs/info/69f93c4681706a5bd21711bc?utm_campaign=1065&utm_source=git)** | Florham Park, NJ | Hybrid | May 04 |
+| ↳ | **[Summer Intern 2026 - Omnichannel Marketing/Customer Engagement Strategy](https://jobright.ai/jobs/info/69f93b06a3d34b4f76f60d1e?utm_campaign=1065&utm_source=git)** | Florham Park, NJ | Hybrid | May 04 |
+| **[Geotab](http://www.geotab.com/)** | **[Events Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93ae581706a5bd217113a?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
+| ↳ | **[Product Marketing Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a6b0b36ff035475dc07?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
+| ↳ | **[Digital Marketing EMEA, Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a60b1fc847fc1aeb78a?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
+| ↳ | **[Strategic Communications Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/69f93a52582f810f9c8d0fb9?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
+| **[Rishi Tea & Botanicals](https://rishi-tea.com/)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69f93776582f810f9c8d0f66?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | May 04 |
+| **[Eight Media](https://8media.co/)** | **[Music Fan Engagement Intern](https://jobright.ai/jobs/info/69f930480b36ff035475db4c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
+| **[Data Axle](https://www.data-axle.com/)** | **[Programmatic Advertising – Digital Exchanges Intern](https://jobright.ai/jobs/info/69f92f6ab1fc847fc1aeb6aa?utm_campaign=1065&utm_source=git)** | Virtual Location, TX, 75240, United States | Remote | May 04 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern - Marketing](https://jobright.ai/jobs/info/69f92dd2582f810f9c8d0e88?utm_campaign=1065&utm_source=git)** | Campus: Tempe, US | On Site | May 04 |
 | **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69f92d76a3d34b4f76f60b3c?utm_campaign=1065&utm_source=git)** | Capitola, CA 95010, USA | On Site | May 04 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f92d2c0b36ff035475da94?utm_campaign=1065&utm_source=git)** | Capitola, CA 95010, USA | On Site | May 04 |
@@ -69,8 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Waterstone Properties Group](https://www.waterstonepg.com)** | **[Marketing Coordinator, Seasonal or Intern](https://jobright.ai/jobs/info/69f91d7fa3d34b4f76f60586?utm_campaign=1065&utm_source=git)** | Westbrook, ME | Hybrid | May 04 |
 | **[Team 201](https://team201.io/)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/69f91d6d81706a5bd2170a89?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 04 |
 | **[Live Like Jojo Foundation](https://mitochondrialdeletionsyndrome.com/)** | **[College Intern](https://jobright.ai/jobs/info/69f91d64db88714bcdfbde14?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | May 04 |
-| **[Casa Foundation](https://casafoundation.ca)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f91bb9db88714bcdfbddc8?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 04 |
-| **[Charleston Cocktail Week](https://charlestoncocktailweek.org)** | **[Summer Business and Marketing Internship (Remote for East Coast)](https://jobright.ai/jobs/info/69f91b6bb1fc847fc1aeb018?utm_campaign=1065&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Remote | May 04 |
 | **[Edesia Nutrition](https://www.edesianutrition.org)** | **[Global Health & Humanitarian Internship](https://jobright.ai/jobs/info/69f91b38a3d34b4f76f604f1?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | On Site | May 04 |
 | **[BlueChips](www.bluechips.com)** | **[Visual Communications and Branding Research Intern](https://jobright.ai/jobs/info/69f9130bb1fc847fc1aea8ab?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[Foxiecakes](www.foxiecakes.com)** | **[Digital Marketing Intern — SEO, Content & AI Search](https://jobright.ai/jobs/info/69f912e3a3d34b4f76f5fe85?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | May 04 |
@@ -108,12 +115,10 @@ For a complete list, click the following sortable link below:
 | **[Northland Area Federal Credit Union](https://www.northlandcu.com)** | **[Summer Intern / Student Opportunities – Marketing & Lending](https://jobright.ai/jobs/info/69f8eadb582f810f9c8cee42?utm_campaign=1065&utm_source=git)** | Alpena, MI | On Site | May 04 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Marketing Intern (Summer 2026) - Sheraton Kauai Resort](https://jobright.ai/jobs/info/69f8e5aadb88714bcdfbbe96?utm_campaign=1065&utm_source=git)** | Sheraton Kaua'i Resort, US | On Site | May 04 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f8e362db88714bcdfbbca9?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 04 |
-| **[Brandsymbol](http://brandsymbol.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f8de390b36ff035475b01e?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | May 04 |
 | **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/69f8dced0b36ff035475af6b?utm_campaign=1065&utm_source=git)** | New York, NY, US | Remote | May 04 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69f8d948b1fc847fc1ae8c08?utm_campaign=1065&utm_source=git)** | Glen Allen, VA, US | On Site | May 04 |
 | ↳ | **[Intern - Marketing](https://jobright.ai/jobs/info/69f8d918db88714bcdfbbab0?utm_campaign=1065&utm_source=git)** | VA, Glen Allen - 4820 Lake Brook - Suite 200 | On Site | May 04 |
-| **[Micro](https://www.linkedin.com/company/102809211)** | **[Social Media Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69f8d913a3d34b4f76f5dec4?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69f8d73081706a5bd216e5f8?utm_campaign=1065&utm_source=git)** | US-VA-Glen Allen | On Site | May 04 |
+| ↳ | **[Intern - Marketing](https://jobright.ai/jobs/info/69f8d73081706a5bd216e5f8?utm_campaign=1065&utm_source=git)** | US-VA-Glen Allen | On Site | May 04 |
 | **[ALIVE!](https://www.alive-inc.org/)** | **[Communications and Development Internship](https://jobright.ai/jobs/info/69f8d46cdb88714bcdfbb9a9?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Hybrid | May 04 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Fundraising Events](https://jobright.ai/jobs/info/69f8ced10b36ff035475adbd?utm_campaign=1065&utm_source=git)** | LBETH1 Bethesda, US | Remote | May 04 |
 | **[griffin360](https://www.griffin360.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69f8ce3ea3d34b4f76f5de86?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/69f84bfda3d34b4f76f5cc44?utm_campaign=1065&utm_source=git)** | Victoria, British Columbia, CA | On Site | May 04 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Marketing Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f82473a3d34b4f76f5c913?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[goop](https://goop.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69cc1557cfdc6132f940a330?utm_campaign=1065&utm_source=git)** | Santa Monica, CA (Corp HQ) | Hybrid | May 03 |
-| **[Wellspoken](https://www.wellspoken.me/)** | **[Growth & Operations Intern](https://jobright.ai/jobs/info/69f81c900b36ff0354758f2a?utm_campaign=1065&utm_source=git)** | Henrico, VA | Hybrid | May 03 |
-| **[uberliss](http://uberliss.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f81726582f810f9c8ccd56?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
-| **[as i am](https://www.asiamnaturally.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f811d8582f810f9c8cc9bf?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
-| **[NY Eventss](nyeventss.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f810c6a3d34b4f76f5c360?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | May 03 |
-| **[Cornerstone](http://www.ciswired.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69f8055aa3d34b4f76f5c1bf?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
