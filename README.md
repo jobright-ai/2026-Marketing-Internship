@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geviti](https://www.gogeviti.com)** | **[Social Media & Marketing Intern — Summer 2026](https://jobright.ai/jobs/info/69fa011f0b36ff0354760319?utm_campaign=1065&utm_source=git)** | Gilbert, AZ | On Site | May 05 |
+| **[Typeface](https://www.typeface.ai)** | **[Marketing Programs Intern](https://jobright.ai/jobs/info/69c59a0fe565c26a70012839?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | May 05 |
+| **[Blue Nile](http://www.bluenile.com)** | **[Social Media & Influencer Marketing Intern](https://jobright.ai/jobs/info/69f9ff26db88714bcdfc0b12?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 05 |
+| **[Westlake Securities](https://www.westlakesecurities.com/)** | **[Email Marketing Summer Intern](https://jobright.ai/jobs/info/69f9fccd81706a5bd21734e5?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
+| **[Etsy](https://www.etsy.com/)** | **[US Integrated Marketing + Comms Intern](https://jobright.ai/jobs/info/69f9f8bfb1fc847fc1aed9f7?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | May 05 |
+| **[Aralia Creative](www.araliacreative.com)** | **[Creative Social Media Summer Intern](https://jobright.ai/jobs/info/69f9f733582f810f9c8d344d?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 05 |
 | **[Crescendo International](https://crescendointernational.co/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69f9e18a0b36ff035475f795?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 05 |
 | **[Acadium](http://www.acadium.com)** | **[Marketing Automation Intern](https://jobright.ai/jobs/info/69f9d815b1fc847fc1aed02d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[VAN ETTEN PR](https://www.vanettenpr.com/)** | **[Summer PR Intern](https://jobright.ai/jobs/info/69f9d80b582f810f9c8d2dc6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 05 |
+| **[Zscaler](https://www.zscaler.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dd530bbc6f6622c9911975?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | May 05 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Sales and Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69f9cb63582f810f9c8d256b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[MathWorks](http://www.mathworks.com)** | **[Rutgers University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69e1d0cbfd1c0456f3fb02b4?utm_campaign=1065&utm_source=git)** | Natick, MA | On Site | May 05 |
 | **[Atlassian](https://www.atlassian.com)** | **[MBA Product Marketing Intern - Regulated Industries, 2026 Summer U.S](https://jobright.ai/jobs/info/69b69ba156973837413be367?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 05 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AUMOVIO](https://www.aumovio.com)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/69f8cd2adb88714bcdfbb88c?utm_campaign=1065&utm_source=git)** | 1 Continental Drive, Auburn Hills, MI | On Site | May 04 |
 | **[Eon.io](https://eon.io)** | **[Marketing Ops & AI Content Intern (Part-time)](https://jobright.ai/jobs/info/69e635ace0cd471b2f12414f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | May 04 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Brand Marketing Intern](https://jobright.ai/jobs/info/69dbfd0d738f2f099e8afc86?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | May 04 |
-| ↳ | **[Unpaid - Public Relations & Communications Intern](https://jobright.ai/jobs/info/69dbfc12869c7e25d85a8bb9?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | May 04 |
-| **[Aureate Group](https://aureategp.com/)** | **[Field Marketing and Partnerships Intern](https://jobright.ai/jobs/info/69f8c7ecb1fc847fc1ae8995?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 04 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Marketing Communications](https://jobright.ai/jobs/info/69f8c271b1fc847fc1ae8859?utm_campaign=1065&utm_source=git)** | Lincoln, NE, US | On Site | May 04 |
-| **[Baptist Health System KY & IN](https://www.baptisthealth.com/)** | **[Marketing Creative Services Intern](https://jobright.ai/jobs/info/69f8c23b582f810f9c8ce1d4?utm_campaign=1065&utm_source=git)** | Louisville, KY, US | On Site | May 04 |
-| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Summer 2026 - Influencer Marketing & Partnerships Intern](https://jobright.ai/jobs/info/69dbfca2f748bc5d08a59407?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | May 04 |
-| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern - Email Marketing (M-W in Office)](https://jobright.ai/jobs/info/69f8bd3ca3d34b4f76f5dac6?utm_campaign=1065&utm_source=git)** | 17410 College Parkway | Hybrid | May 04 |
-| ↳ | **[Intern - Email Marketing (M-W in Office)](https://jobright.ai/jobs/info/69f8bd35582f810f9c8ce0a5?utm_campaign=1065&utm_source=git)** | Livonia (Headquarters), MI, US | Hybrid | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
