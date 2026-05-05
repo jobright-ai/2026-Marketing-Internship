@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadium](http://www.acadium.com)** | **[Marketing Automation Intern](https://jobright.ai/jobs/info/69f9d815b1fc847fc1aed02d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
+| **[VAN ETTEN PR](https://www.vanettenpr.com/)** | **[Summer PR Intern](https://jobright.ai/jobs/info/69f9d80b582f810f9c8d2dc6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 05 |
+| **[CouponDonation](http://www.coupondonation.com)** | **[Sales and Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69f9cb63582f810f9c8d256b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[Mase Talent Group](https://masetalent.com)** | **[Social Media Marketing / video editing Intern](https://jobright.ai/jobs/info/69f99c7ba3d34b4f76f61ec9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[Cornell Global Inc.](www.cornellglobalinc.com)** | **[Direct Marketing Intern](https://jobright.ai/jobs/info/69f98df1582f810f9c8d1bd2?utm_campaign=1065&utm_source=git)** | Katy, TX | On Site | May 04 |
 | **[El Pollo Loco, Inc.](http://www.elpolloloco.com/)** | **[INTERN, MARKETING](https://jobright.ai/jobs/info/69f96e7581706a5bd2171cf5?utm_campaign=1065&utm_source=git)** | 575 Anton Blvd, Costa Mesa, CA 92626, USA | On Site | May 04 |
@@ -123,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[That One Media Studio](https://dot.cards/thatonemediastudio)** | **[Social Media Marketing Specialist](https://jobright.ai/jobs/info/69f8f1cdb1fc847fc1ae99ee?utm_campaign=1065&utm_source=git)** | Savannah, GA | Hybrid | May 04 |
 | **[FounderRise](founder-rise.com)** | **[Student Growth Marketer (Intern)](https://jobright.ai/jobs/info/69f8f0dd0b36ff035475bbb8?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | **[Second Wind Pro](https://secondwind.pro/)** | **[D1 Athlete Summer Intern](https://jobright.ai/jobs/info/69f8efe80b36ff035475bb48?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
-| **[Crescendo International](https://crescendointernational.co/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69f3a163c78b9e45189567ba?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 04 |
 | **[Streamable](https://streamable.run)** | **[Social Media / Growth Intern (Remote)](https://jobright.ai/jobs/info/69f8ec2c0b36ff035475b97a?utm_campaign=1065&utm_source=git)** | Remote (US) | Remote | May 04 |
 | ↳ | **[Social Media / Growth Intern (Remote)](https://jobright.ai/jobs/info/69f8ec2ba3d34b4f76f5e9f3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | Remote | May 04 |
 | **[Mid-Ohio Food Collective](http://www.mofc.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69f8ec29b1fc847fc1ae961f?utm_campaign=1065&utm_source=git)** | Grove City,OH,US | On Site | May 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern - Email Marketing (M-W in Office)](https://jobright.ai/jobs/info/69f8bd3ca3d34b4f76f5dac6?utm_campaign=1065&utm_source=git)** | 17410 College Parkway | Hybrid | May 04 |
 | ↳ | **[Intern - Email Marketing (M-W in Office)](https://jobright.ai/jobs/info/69f8bd35582f810f9c8ce0a5?utm_campaign=1065&utm_source=git)** | Livonia (Headquarters), MI, US | Hybrid | May 04 |
 | ↳ | **[Intern - Email Marketing (M-W in Office)](https://jobright.ai/jobs/info/69f8bce90b36ff035475a9d6?utm_campaign=1065&utm_source=git)** | US-MI-Livonia (Headquarters) | Hybrid | May 04 |
-| **[Bluebird Kids Health](https://www.bluebirdkids.com/)** | **[Summer Marketing intern](https://jobright.ai/jobs/info/69f8b9d2b1fc847fc1ae86d0?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | May 04 |
-| **[Altered Athletics](alteredathletics.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f8b97a0b36ff035475a93e?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
