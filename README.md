@@ -133,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Northland Area Federal Credit Union](https://www.northlandcu.com)** | **[Summer Intern / Student Opportunities – Marketing & Lending](https://jobright.ai/jobs/info/69f8eadb582f810f9c8cee42?utm_campaign=1065&utm_source=git)** | Alpena, MI | On Site | May 04 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Marketing Intern (Summer 2026) - Sheraton Kauai Resort](https://jobright.ai/jobs/info/69f8e5aadb88714bcdfbbe96?utm_campaign=1065&utm_source=git)** | Sheraton Kaua'i Resort, US | On Site | May 04 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f8e362db88714bcdfbbca9?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 04 |
+| **[LG Electronics North America](https://www.lg.com/us)** | **[SEO/GEO Specialist - Intern](https://jobright.ai/jobs/info/69bee0b9393a1008f744ba81?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | May 04 |
 | **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/69f8dced0b36ff035475af6b?utm_campaign=1065&utm_source=git)** | New York, NY, US | Remote | May 04 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69f8d948b1fc847fc1ae8c08?utm_campaign=1065&utm_source=git)** | Glen Allen, VA, US | On Site | May 04 |
 | ↳ | **[Intern - Marketing](https://jobright.ai/jobs/info/69f8d918db88714bcdfbbab0?utm_campaign=1065&utm_source=git)** | VA, Glen Allen - 4820 Lake Brook - Suite 200 | On Site | May 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Email Marketing (M-W in Office)](https://jobright.ai/jobs/info/69f8bce90b36ff035475a9d6?utm_campaign=1065&utm_source=git)** | US-MI-Livonia (Headquarters) | Hybrid | May 04 |
 | **[Bluebird Kids Health](https://www.bluebirdkids.com/)** | **[Summer Marketing intern](https://jobright.ai/jobs/info/69f8b9d2b1fc847fc1ae86d0?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | May 04 |
 | **[Altered Athletics](alteredathletics.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f8b97a0b36ff035475a93e?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | May 04 |
-| **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Development and Events](https://jobright.ai/jobs/info/69f8b3cd582f810f9c8cdf3c?utm_campaign=1065&utm_source=git)** | Manchester,  NH, US | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
