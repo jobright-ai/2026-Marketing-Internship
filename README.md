@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Communications Phoenix Mercury](https://jobright.ai/jobs/info/69f93f73db88714bcdfbe6e7?utm_campaign=1065&utm_source=git)** | Phoenix, AZ 85004, USA | On Site | May 04 |
+| **[Retell AI](https://retellai.com)** | **[Marketing Intern (Product + Creative)](https://jobright.ai/jobs/info/69f93f71a3d34b4f76f60e1e?utm_campaign=1065&utm_source=git)** | Remote (US) | Remote | May 04 |
+| ↳ | **[Marketing Intern (Product + Creative)](https://jobright.ai/jobs/info/69f93f6eb1fc847fc1aeb8fd?utm_campaign=1065&utm_source=git)** | Redwood City, CA, US | Hybrid | May 04 |
 | **[Phathom Pharmaceuticals](https://www.phathompharma.com/)** | **[Summer Intern 2026 - Omnichannel Marketing/Customer Engagement Strategy](https://jobright.ai/jobs/info/69f93c4681706a5bd21711bc?utm_campaign=1065&utm_source=git)** | Florham Park, NJ | Hybrid | May 04 |
 | ↳ | **[Summer Intern 2026 - Omnichannel Marketing/Customer Engagement Strategy](https://jobright.ai/jobs/info/69f93b06a3d34b4f76f60d1e?utm_campaign=1065&utm_source=git)** | Florham Park, NJ | Hybrid | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Events Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93ae581706a5bd217113a?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Marketing EMEA, Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a60b1fc847fc1aeb78a?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | ↳ | **[Strategic Communications Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/69f93a52582f810f9c8d0fb9?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[Rishi Tea & Botanicals](https://rishi-tea.com/)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/69f93776582f810f9c8d0f66?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | May 04 |
-| **[Eight Media](https://8media.co/)** | **[Music Fan Engagement Intern](https://jobright.ai/jobs/info/69f930480b36ff035475db4c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | **[Data Axle](https://www.data-axle.com/)** | **[Programmatic Advertising – Digital Exchanges Intern](https://jobright.ai/jobs/info/69f92f6ab1fc847fc1aeb6aa?utm_campaign=1065&utm_source=git)** | Virtual Location, TX, 75240, United States | Remote | May 04 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern - Marketing](https://jobright.ai/jobs/info/69f92dd2582f810f9c8d0e88?utm_campaign=1065&utm_source=git)** | Campus: Tempe, US | On Site | May 04 |
 | **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69f92d76a3d34b4f76f60b3c?utm_campaign=1065&utm_source=git)** | Capitola, CA 95010, USA | On Site | May 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Livestream Fundraising & Community Events Internship](https://jobright.ai/jobs/info/69f24eba8feca91f149243f3?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | May 04 |
 | **[LEAP Legal Software](https://www.leaplegalsoftware.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f84f8a582f810f9c8cd360?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Event Marketing Specialist - Internship](https://jobright.ai/jobs/info/69f84bfda3d34b4f76f5cc44?utm_campaign=1065&utm_source=git)** | Victoria, British Columbia, CA | On Site | May 04 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Marketing Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f82473a3d34b4f76f5c913?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
-| **[goop](https://goop.com)** | **[Summer Intern, Social Media](https://jobright.ai/jobs/info/69cc1557cfdc6132f940a330?utm_campaign=1065&utm_source=git)** | Santa Monica, CA (Corp HQ) | Hybrid | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
