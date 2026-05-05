@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cornell Global Inc.](www.cornellglobalinc.com)** | **[Direct Marketing Intern](https://jobright.ai/jobs/info/69f98df1582f810f9c8d1bd2?utm_campaign=1065&utm_source=git)** | Katy, TX | On Site | May 04 |
 | **[El Pollo Loco, Inc.](http://www.elpolloloco.com/)** | **[INTERN, MARKETING](https://jobright.ai/jobs/info/69f96e7581706a5bd2171cf5?utm_campaign=1065&utm_source=git)** | 575 Anton Blvd, Costa Mesa, CA 92626, USA | On Site | May 04 |
 | ↳ | **[INTERN, MARKETING - PR & EVENTS](https://jobright.ai/jobs/info/69f968c8b1fc847fc1aec272?utm_campaign=1065&utm_source=git)** | 575 Anton Blvd, Costa Mesa, CA 92626, USA | On Site | May 04 |
 | ↳ | **[INTERN, MARKETING - SOCIAL MEDIA](https://jobright.ai/jobs/info/69f968c5b1fc847fc1aec271?utm_campaign=1065&utm_source=git)** | 575 Anton Blvd, Costa Mesa, CA 92626, USA | On Site | May 04 |
+| **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f57c9143a25828a8d18f81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 04 |
 | **[American Saddlebred Horse Association](http://www.asha.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f962f881706a5bd21716e0?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | May 04 |
 | **[Vosyn](https://vosyn.ai)** | **[Social Media Content Creator Intern – Startup Programs](https://jobright.ai/jobs/info/69f95eb2db88714bcdfbe922?utm_campaign=1065&utm_source=git)** | Etobicoke, ON | Hybrid | May 04 |
+| **[The Dorm](https://thedorm.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f98dfd81706a5bd2171eb9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f9525081706a5bd21714ab?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | May 04 |
 | **[Mizkan America](http://mizkan.com)** | **[Intern, Social Media](https://jobright.ai/jobs/info/69f94d9381706a5bd2171461?utm_campaign=1065&utm_source=git)** | Schaumburg, IL, 60173, United States | Hybrid | May 04 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Communications Phoenix Mercury](https://jobright.ai/jobs/info/69f93f73db88714bcdfbe6e7?utm_campaign=1065&utm_source=git)** | Phoenix, AZ 85004, USA | On Site | May 04 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[SKXYWTF](http://www.worldtradefactory.com)** | **[World Trade Factory —The Future Belongs 2 You Content/Media/Marketing Internships](https://jobright.ai/jobs/info/69f963cb0b36ff035475e17c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | **[Phathom Pharmaceuticals](https://www.phathompharma.com/)** | **[Summer Intern 2026 - Omnichannel Marketing/Customer Engagement Strategy](https://jobright.ai/jobs/info/69f93c4681706a5bd21711bc?utm_campaign=1065&utm_source=git)** | Florham Park, NJ | Hybrid | May 04 |
 | ↳ | **[Summer Intern 2026 - Omnichannel Marketing/Customer Engagement Strategy](https://jobright.ai/jobs/info/69f93b06a3d34b4f76f60d1e?utm_campaign=1065&utm_source=git)** | Florham Park, NJ | Hybrid | May 04 |
+| **[American Saddlebred Horse Association](http://www.asha.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f98d8e0b36ff035475e9c9?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Events Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93ae581706a5bd217113a?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | ↳ | **[Product Marketing Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a6b0b36ff035475dc07?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | ↳ | **[Digital Marketing EMEA, Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f93a60b1fc847fc1aeb78a?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altered Athletics](alteredathletics.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f8b97a0b36ff035475a93e?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | May 04 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Development and Events](https://jobright.ai/jobs/info/69f8b3cd582f810f9c8cdf3c?utm_campaign=1065&utm_source=git)** | Manchester,  NH, US | On Site | May 04 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/69f8b32c582f810f9c8cdedb?utm_campaign=1065&utm_source=git)** | United States of America-Alabama -VanceWork Locations | On Site | May 04 |
-| ↳ | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/69f8b2f081706a5bd216df12?utm_campaign=1065&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | May 04 |
-| **[Hudson Technologies](http://www.hudsontech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f8b2c481706a5bd216de70?utm_campaign=1065&utm_source=git)** | Woodcliff Lake, NJ, US | On Site | May 04 |
-| **[Actian](http://www.actian.com)** | **[SEO/AEO Intern](https://jobright.ai/jobs/info/69f8b049582f810f9c8cdce4?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | May 04 |
-| **[CodePath](https://codepath.org)** | **[Senior Product Marketing Manager](https://jobright.ai/jobs/info/696ab20e5fc862418539bdf9?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
