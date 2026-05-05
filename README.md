@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trivium Interactive](https://www.triviuminteractive.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fa1f59db88714bcdfc1413?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | May 05 |
+| **[Egis in the U.S.](http://b-l-n.com)** | **[TLEE Spas + Wellness / (Part Time) Summer Internship Program](https://jobright.ai/jobs/info/69fa1f45a3d34b4f76f64004?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | May 05 |
+| **[Creative Expansions, Inc](cei)** | **[Summer Internship with Mentoring from the CEO](https://jobright.ai/jobs/info/69fa1ed681706a5bd2173dc3?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Remote | May 05 |
+| **[Egis in the U.S.](http://b-l-n.com)** | **[TLEE Spas + Wellness / (Part Time) Summer Internship Program](https://jobright.ai/jobs/info/69fa1ea3582f810f9c8d42e2?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 05 |
+| **[Tractorbeam](https://tractorbeam.com/)** | **[SEO Intern](https://jobright.ai/jobs/info/69fa1ea0b1fc847fc1aee384?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 05 |
+| **[KASH Tech](https://www.kashtechllc.com/)** | **[Manufacturing Industry Outreach Intern](https://jobright.ai/jobs/info/69fa1984b1fc847fc1aee217?utm_campaign=1065&utm_source=git)** | Lake Mary, FL | On Site | May 05 |
+| **[Team 201](https://team201.io/)** | **[Social Media and Digital Marketing Intern](https://jobright.ai/jobs/info/69fa194a81706a5bd2173c47?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 05 |
+| **[Bell Flavors & Fragrances](http://bellff.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69fa191581706a5bd2173c00?utm_campaign=1065&utm_source=git)** | Northbrook, IL | On Site | May 05 |
+| **[H&H Group | B Corp™](https://www.hh.global)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69fa18a5a3d34b4f76f63e8f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
+| **[Privia Health](http://www.priviahealth.com)** | **[Growth Development Intern](https://jobright.ai/jobs/info/69ddab228182b27d34740e52?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
+| **[Fezzora, Inc.](fezzorainc.com)** | **[Entry Level Marketing 2026 Internship](https://jobright.ai/jobs/info/69fa142f81706a5bd2173b41?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 05 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fa134581706a5bd2173a74?utm_campaign=1065&utm_source=git)** | US Nationwide - Remote, US | Remote | May 05 |
+| **[ProFed Credit Union](https://www.profedcu.org)** | **[Marketing Internship: Content Creator](https://jobright.ai/jobs/info/69fa122cdb88714bcdfc1025?utm_campaign=1065&utm_source=git)** | Fort Wayne,IN,US | On Site | May 05 |
 | **[McCann Commercial Real Estate](https://mccannteamcommercial.com)** | **[Intern](https://jobright.ai/jobs/info/69fa0f9e0b36ff0354760582?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | May 05 |
 | **[World Wide Sports Radio Network](https://worldwidesportsradio.com/)** | **[Sports Media Internship](https://jobright.ai/jobs/info/69fa0f18a3d34b4f76f63b7d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Intern,Marketing](https://jobright.ai/jobs/info/69fa0ef881706a5bd2173925?utm_campaign=1065&utm_source=git)** | 60 Vista Dr, Versailles, OH, 45380, US | On Site | May 05 |
@@ -107,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Communications Intern, Department of Public Lands](https://jobright.ai/jobs/info/69f3eb6b343eef4fb0a9f1c9?utm_campaign=1065&utm_source=git)** | SLC Metro Area | On Site | May 04 |
 | **[Wicked Creative](http://wickedcreative.com/)** | **[PR Summer Intern 2026](https://jobright.ai/jobs/info/69f963e5b1fc847fc1aebd27?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | May 04 |
 | **[Data Axle](https://www.data-axle.com/)** | **[Programmatic Advertising – Digital Exchanges Intern](https://jobright.ai/jobs/info/69f92f6ab1fc847fc1aeb6aa?utm_campaign=1065&utm_source=git)** | Virtual Location, TX, 75240, United States | Remote | May 04 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Social Media Intern, Game Show Group](https://jobright.ai/jobs/info/69f3d2b56942c746fa69513c?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | May 04 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern - Marketing](https://jobright.ai/jobs/info/69f92dd2582f810f9c8d0e88?utm_campaign=1065&utm_source=git)** | Campus: Tempe, US | On Site | May 04 |
 | **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69f92d76a3d34b4f76f60b3c?utm_campaign=1065&utm_source=git)** | Capitola, CA 95010, USA | On Site | May 04 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f92d2c0b36ff035475da94?utm_campaign=1065&utm_source=git)** | Capitola, CA 95010, USA | On Site | May 04 |
@@ -143,18 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Second Wind Pro](https://secondwind.pro/)** | **[D1 Athlete Summer Intern](https://jobright.ai/jobs/info/69f8efe80b36ff035475bb48?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | **[Streamable](https://streamable.run)** | **[Social Media / Growth Intern (Remote)](https://jobright.ai/jobs/info/69f8ec2c0b36ff035475b97a?utm_campaign=1065&utm_source=git)** | Remote (US) | Remote | May 04 |
 | ↳ | **[Social Media / Growth Intern (Remote)](https://jobright.ai/jobs/info/69f8ec2ba3d34b4f76f5e9f3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | Remote | May 04 |
-| **[Mid-Ohio Food Collective](http://www.mofc.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69f8ec29b1fc847fc1ae961f?utm_campaign=1065&utm_source=git)** | Grove City,OH,US | On Site | May 04 |
 | **[Avkin](https://avkin.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/69f8eb8a81706a5bd216ef9a?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | May 04 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69f8eb5281706a5bd216ef80?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | May 04 |
-| **[times10](https://www.times10.net/)** | **[Social Media Intern (Golf)](https://jobright.ai/jobs/info/69f8eb40b1fc847fc1ae9578?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | May 04 |
-| **[Northland Area Federal Credit Union](https://www.northlandcu.com)** | **[Summer Intern / Student Opportunities – Marketing & Lending](https://jobright.ai/jobs/info/69f8eadb582f810f9c8cee42?utm_campaign=1065&utm_source=git)** | Alpena, MI | On Site | May 04 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Marketing Intern (Summer 2026) - Sheraton Kauai Resort](https://jobright.ai/jobs/info/69f8e5aadb88714bcdfbbe96?utm_campaign=1065&utm_source=git)** | Sheraton Kaua'i Resort, US | On Site | May 04 |
-| **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f8e362db88714bcdfbbca9?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 04 |
-| **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[Temporary Intern](https://jobright.ai/jobs/info/69f8dced0b36ff035475af6b?utm_campaign=1065&utm_source=git)** | New York, NY, US | Remote | May 04 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69f8d948b1fc847fc1ae8c08?utm_campaign=1065&utm_source=git)** | Glen Allen, VA, US | On Site | May 04 |
-| ↳ | **[Intern - Marketing](https://jobright.ai/jobs/info/69f8d918db88714bcdfbbab0?utm_campaign=1065&utm_source=git)** | VA, Glen Allen - 4820 Lake Brook - Suite 200 | On Site | May 04 |
-| ↳ | **[Intern - Marketing](https://jobright.ai/jobs/info/69f8d73081706a5bd216e5f8?utm_campaign=1065&utm_source=git)** | US-VA-Glen Allen | On Site | May 04 |
-| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Fundraising Events](https://jobright.ai/jobs/info/69f8ced10b36ff035475adbd?utm_campaign=1065&utm_source=git)** | LBETH1 Bethesda, US | Remote | May 04 |
-| **[griffin360](https://www.griffin360.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69f8ce3ea3d34b4f76f5de86?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 04 |
-| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Fundraising Events](https://jobright.ai/jobs/info/69f8ce1881706a5bd216e490?utm_campaign=1065&utm_source=git)** | Baltimore, MD, US | Remote | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
