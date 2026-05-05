@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[CouponDonation](http://www.coupondonation.com)** | **[Sales and Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69f9cb63582f810f9c8d256b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[MathWorks](http://www.mathworks.com)** | **[Rutgers University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69e1d0cbfd1c0456f3fb02b4?utm_campaign=1065&utm_source=git)** | Natick, MA | On Site | May 05 |
 | **[Atlassian](https://www.atlassian.com)** | **[MBA Product Marketing Intern - Regulated Industries, 2026 Summer U.S](https://jobright.ai/jobs/info/69b69ba156973837413be367?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 05 |
-| **[Mase Talent Group](https://masetalent.com)** | **[Social Media Marketing / video editing Intern](https://jobright.ai/jobs/info/69f99c7ba3d34b4f76f61ec9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[Cornell Global Inc.](www.cornellglobalinc.com)** | **[Direct Marketing Intern](https://jobright.ai/jobs/info/69f98df1582f810f9c8d1bd2?utm_campaign=1065&utm_source=git)** | Katy, TX | On Site | May 04 |
 | **[El Pollo Loco, Inc.](http://www.elpolloloco.com/)** | **[INTERN, MARKETING](https://jobright.ai/jobs/info/69f96e7581706a5bd2171cf5?utm_campaign=1065&utm_source=git)** | 575 Anton Blvd, Costa Mesa, CA 92626, USA | On Site | May 04 |
 | ↳ | **[INTERN, MARKETING - PR & EVENTS](https://jobright.ai/jobs/info/69f968c8b1fc847fc1aec272?utm_campaign=1065&utm_source=git)** | 575 Anton Blvd, Costa Mesa, CA 92626, USA | On Site | May 04 |
@@ -143,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69f8d948b1fc847fc1ae8c08?utm_campaign=1065&utm_source=git)** | Glen Allen, VA, US | On Site | May 04 |
 | ↳ | **[Intern - Marketing](https://jobright.ai/jobs/info/69f8d918db88714bcdfbbab0?utm_campaign=1065&utm_source=git)** | VA, Glen Allen - 4820 Lake Brook - Suite 200 | On Site | May 04 |
 | ↳ | **[Intern - Marketing](https://jobright.ai/jobs/info/69f8d73081706a5bd216e5f8?utm_campaign=1065&utm_source=git)** | US-VA-Glen Allen | On Site | May 04 |
-| **[ALIVE!](https://www.alive-inc.org/)** | **[Communications and Development Internship](https://jobright.ai/jobs/info/69f8d46cdb88714bcdfbb9a9?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Hybrid | May 04 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Fundraising Events](https://jobright.ai/jobs/info/69f8ced10b36ff035475adbd?utm_campaign=1065&utm_source=git)** | LBETH1 Bethesda, US | Remote | May 04 |
 | **[griffin360](https://www.griffin360.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69f8ce3ea3d34b4f76f5de86?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 04 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Fundraising Events](https://jobright.ai/jobs/info/69f8ce1881706a5bd216e490?utm_campaign=1065&utm_source=git)** | Baltimore, MD, US | Remote | May 04 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - Marketing Communications](https://jobright.ai/jobs/info/69f8c271b1fc847fc1ae8859?utm_campaign=1065&utm_source=git)** | Lincoln, NE, US | On Site | May 04 |
 | **[Baptist Health System KY & IN](https://www.baptisthealth.com/)** | **[Marketing Creative Services Intern](https://jobright.ai/jobs/info/69f8c23b582f810f9c8ce1d4?utm_campaign=1065&utm_source=git)** | Louisville, KY, US | On Site | May 04 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Summer 2026 - Influencer Marketing & Partnerships Intern](https://jobright.ai/jobs/info/69dbfca2f748bc5d08a59407?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | May 04 |
+| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern - Email Marketing (M-W in Office)](https://jobright.ai/jobs/info/69f8bd3ca3d34b4f76f5dac6?utm_campaign=1065&utm_source=git)** | 17410 College Parkway | Hybrid | May 04 |
+| ↳ | **[Intern - Email Marketing (M-W in Office)](https://jobright.ai/jobs/info/69f8bd35582f810f9c8ce0a5?utm_campaign=1065&utm_source=git)** | Livonia (Headquarters), MI, US | Hybrid | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
