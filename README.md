@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern - Marketing](https://jobright.ai/jobs/info/69f92dd2582f810f9c8d0e88?utm_campaign=1065&utm_source=git)** | Campus: Tempe, US | On Site | May 04 |
+| **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69f92d76a3d34b4f76f60b3c?utm_campaign=1065&utm_source=git)** | Capitola, CA 95010, USA | On Site | May 04 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f92d2c0b36ff035475da94?utm_campaign=1065&utm_source=git)** | Capitola, CA 95010, USA | On Site | May 04 |
+| **[The Swift Club](www.theswiftclub.com)** | **[Social Media & Brand Marketing Associate (Intern)](https://jobright.ai/jobs/info/69f9284b81706a5bd2170ed4?utm_campaign=1065&utm_source=git)** | Charleston, SC | Remote | May 04 |
+| **[ASU Gammage](https://www.asugammage.com/)** | **[Management Intern - Marketing](https://jobright.ai/jobs/info/69f9280bb1fc847fc1aeb537?utm_campaign=1065&utm_source=git)** | Campus: Tempe, US | On Site | May 04 |
+| **[Skyway Event Solutions](https://skywayeventsolutions.com/)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69f92804b1fc847fc1aeb517?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | May 04 |
+| **[Safeware, Inc.](http://safewareinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f9244a582f810f9c8d0c54?utm_campaign=1065&utm_source=git)** | Lanham, MD | On Site | May 04 |
+| **[Gasser Chair](http://gasserchair.com)** | **[Marketing & Market Intelligence Intern](https://jobright.ai/jobs/info/69f92353b1fc847fc1aeb265?utm_campaign=1065&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | May 04 |
 | **[MCA Connect](http://mcaconnect.com/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69f91dd3a3d34b4f76f605ed?utm_campaign=1065&utm_source=git)** | United States | Remote | May 04 |
 | **[Waterstone Properties Group](https://www.waterstonepg.com)** | **[Marketing Coordinator, Seasonal or Intern](https://jobright.ai/jobs/info/69f91d7fa3d34b4f76f60586?utm_campaign=1065&utm_source=git)** | Westbrook, ME | Hybrid | May 04 |
 | **[Team 201](https://team201.io/)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/69f91d6d81706a5bd2170a89?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 04 |
 | **[Live Like Jojo Foundation](https://mitochondrialdeletionsyndrome.com/)** | **[College Intern](https://jobright.ai/jobs/info/69f91d64db88714bcdfbde14?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | May 04 |
 | **[Casa Foundation](https://casafoundation.ca)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69f91bb9db88714bcdfbddc8?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 04 |
 | **[Charleston Cocktail Week](https://charlestoncocktailweek.org)** | **[Summer Business and Marketing Internship (Remote for East Coast)](https://jobright.ai/jobs/info/69f91b6bb1fc847fc1aeb018?utm_campaign=1065&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Remote | May 04 |
-| **[Inflection Point Entertainment](https://inflectionent.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f91b6781706a5bd21709aa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | May 04 |
 | **[Edesia Nutrition](https://www.edesianutrition.org)** | **[Global Health & Humanitarian Internship](https://jobright.ai/jobs/info/69f91b38a3d34b4f76f604f1?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | On Site | May 04 |
 | **[BlueChips](www.bluechips.com)** | **[Visual Communications and Branding Research Intern](https://jobright.ai/jobs/info/69f9130bb1fc847fc1aea8ab?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[Foxiecakes](www.foxiecakes.com)** | **[Digital Marketing Intern — SEO, Content & AI Search](https://jobright.ai/jobs/info/69f912e3a3d34b4f76f5fe85?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | May 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[as i am](https://www.asiamnaturally.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f811d8582f810f9c8cc9bf?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
 | **[NY Eventss](nyeventss.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f810c6a3d34b4f76f5c360?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | May 03 |
 | **[Cornerstone](http://www.ciswired.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69f8055aa3d34b4f76f5c1bf?utm_campaign=1065&utm_source=git)** | United States | Remote | May 03 |
-| **[AXS](https://www.axs.com/)** | **[Summer Intern, Communications (AXS)](https://jobright.ai/jobs/info/69efd6bd58811370cb148c19?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
-| **[Starbeam](www.starbeam.org)** | **[Sales and Marketing (Growth) Intern](https://jobright.ai/jobs/info/69f7ec5181706a5bd216c6ef?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 03 |
-| **[Kalshi](https://kalshi.com)** | **[Growth Politics Intern](https://jobright.ai/jobs/info/69f8ccdb0b36ff035475acbb?utm_campaign=1065&utm_source=git)** | New York Office | On Site | May 03 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f78bcf81706a5bd216c203?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f78bcc81706a5bd216c1f9?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 03 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69f78bbddb88714bcdfb95bf?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 03 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69f789aa582f810f9c8cc131?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
