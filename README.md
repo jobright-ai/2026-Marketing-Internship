@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NULLZEC](https://www.nullzec.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fabbab18b94b2515bdc155?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[A Tiger Cub](https://atigercub.com)** | **[Grant Writer & Fundraising Specialist](https://jobright.ai/jobs/info/69fa9ffb7800004087b434ad?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[KiwiLabs Pickleball](kiwipickleball.com)** | **[Summer Marketing and Content Internship](https://jobright.ai/jobs/info/69fa9fecdd1a797969e703e1?utm_campaign=1065&utm_source=git)** | Rockford, MI | On Site | May 05 |
 | **[Peculiar Coffee Co.](www.peculiarcoffeeco.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69fa9fe118b94b2515bdba8c?utm_campaign=1065&utm_source=git)** | Lansing, MI | Hybrid | May 05 |
@@ -70,10 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Global Soundwaves](globalsoundwaves.com)** | **[Social Media Content Intern – Music & Editorial (unpaid, remote)](https://jobright.ai/jobs/info/69fa8010b1fc847fc1af080b?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | May 05 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Marketing Data Analyst Intern](https://jobright.ai/jobs/info/69fa7fae582f810f9c8d6311?utm_campaign=1065&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 05 |
 | ↳ | **[Marketing Data Analyst Intern](https://jobright.ai/jobs/info/69fa7fa90b36ff0354762a80?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | May 05 |
-| **[Lekondo](https://www.lekondo.com)** | **[Growth (Intern)](https://jobright.ai/jobs/info/69faa6f4d21cf86d1e3cc41c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Social Media Assistant Intern](https://jobright.ai/jobs/info/69fa7f7f582f810f9c8d62e3?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | May 05 |
 | ↳ | **[Social Media Assistant Intern](https://jobright.ai/jobs/info/69fa7f16a3d34b4f76f65d9c?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | May 05 |
-| **[Mutuals](www.mutualssocial.com)** | **[Growth Intern](https://jobright.ai/jobs/info/69fa7b5bb1fc847fc1af0769?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 05 |
 | **[VICE Media](https://www.vicemedia.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69fa7b4581706a5bd2175ee1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 05 |
 | **[Bee Green Recycling & Supply](http://www.BeeGreen.green)** | **[Website Content Intern](https://jobright.ai/jobs/info/69fa768f582f810f9c8d6256?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | May 05 |
 | **[IH Concepts](https://ihconceptsonline.com)** | **[Social Media & Content Intern for Summer](https://jobright.ai/jobs/info/69fa7614db88714bcdfc31ef?utm_campaign=1065&utm_source=git)** | Madison, WI | Hybrid | May 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CouponDonation](http://www.coupondonation.com)** | **[Sales and Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69f9cb63582f810f9c8d256b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Marketing and PR Intern (Summer 2026)](https://jobright.ai/jobs/info/69dd50c35356a60f40fed89f?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 05 |
 | **[MathWorks](http://www.mathworks.com)** | **[Rutgers University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69e1d0cbfd1c0456f3fb02b4?utm_campaign=1065&utm_source=git)** | Natick, MA | On Site | May 05 |
+| **[Atlassian](https://www.atlassian.com)** | **[MBA Product Marketing Intern - Regulated Industries, 2026 Summer U.S](https://jobright.ai/jobs/info/69b69ba156973837413be367?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
