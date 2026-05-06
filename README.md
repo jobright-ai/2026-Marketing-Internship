@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[AMETEK Programmable Power](https://www.programmablepower.com)** | **[AI-Enabled Marketing Video Production Intern](https://jobright.ai/jobs/info/69faf5c0d21cf86d1e3ce719?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | May 06 |
-| **[TREALT](https://trealt.ca/)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/69fad46987a4820e6da824a9?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 05 |
 | **[NULLZEC](https://www.nullzec.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fabbab18b94b2515bdc155?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[A Tiger Cub](https://atigercub.com)** | **[Grant Writer & Fundraising Specialist](https://jobright.ai/jobs/info/69fa9ffb7800004087b434ad?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[KiwiLabs Pickleball](kiwipickleball.com)** | **[Summer Marketing and Content Internship](https://jobright.ai/jobs/info/69fa9fecdd1a797969e703e1?utm_campaign=1065&utm_source=git)** | Rockford, MI | On Site | May 05 |
@@ -146,15 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Ellis Brooklyn](https://www.ellisbrooklyn.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fa2866a3d34b4f76f64411?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[Westlake Securities](https://www.westlakesecurities.com/)** | **[Email Marketing Summer Intern](https://jobright.ai/jobs/info/69f9fccd81706a5bd21734e5?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[Etsy](https://www.etsy.com/)** | **[US Integrated Marketing + Comms Intern](https://jobright.ai/jobs/info/69f9f8bfb1fc847fc1aed9f7?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | May 05 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[CC Intern](https://jobright.ai/jobs/info/69c1c4fe75f7ff1cd8101c49?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | May 05 |
+| **[Smartly](http://smartly.io)** | **[Growth Marketing Intern - ABM and Paid Media](https://jobright.ai/jobs/info/69dd706d5356a60f40fee451?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[Crescendo International](https://crescendointernational.co/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69f9e18a0b36ff035475f795?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 05 |
-| **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[High School Editorial Intern](https://jobright.ai/jobs/info/69c1ab092c312363dcd4d4e4?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[Acadium](http://www.acadium.com)** | **[Marketing Automation Intern](https://jobright.ai/jobs/info/69f9d815b1fc847fc1aed02d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[VAN ETTEN PR](https://www.vanettenpr.com/)** | **[Summer PR Intern](https://jobright.ai/jobs/info/69f9d80b582f810f9c8d2dc6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[Zscaler](https://www.zscaler.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dd530bbc6f6622c9911975?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | May 05 |
-| **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69c1aae22c312363dcd4d4c9?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Talent Brand & Internal Communications Intern](https://jobright.ai/jobs/info/69dd512e738f2f099e8b5a1c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
+| **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[High School Editorial Intern](https://jobright.ai/jobs/info/69c1ab092c312363dcd4d4e4?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Sales and Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69f9cb63582f810f9c8d256b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
+| **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69c1aae22c312363dcd4d4c9?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Marketing and PR Intern (Summer 2026)](https://jobright.ai/jobs/info/69dd50c35356a60f40fed89f?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 05 |
-| **[MathWorks](http://www.mathworks.com)** | **[Rutgers University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69e1d0cbfd1c0456f3fb02b4?utm_campaign=1065&utm_source=git)** | Natick, MA | On Site | May 05 |
-| **[Atlassian](https://www.atlassian.com)** | **[MBA Product Marketing Intern - Regulated Industries, 2026 Summer U.S](https://jobright.ai/jobs/info/69b69ba156973837413be367?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 05 |
+| **[The Chemours Company](https://www.chemours.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69dd4e285356a60f40fed80f?utm_campaign=1065&utm_source=git)** | New Castle County, DE | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
