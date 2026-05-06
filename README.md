@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Arcwize](https://www.arcwize.com)** | **[Social Media & Brand Curator Intern](https://jobright.ai/jobs/info/69faa6f7d21cf86d1e3cc424?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[A Tiger Cub](https://atigercub.com)** | **[Grant Writer & Fundraising Specialist](https://jobright.ai/jobs/info/69fa9ffb7800004087b434ad?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[KiwiLabs Pickleball](kiwipickleball.com)** | **[Summer Marketing and Content Internship](https://jobright.ai/jobs/info/69fa9fecdd1a797969e703e1?utm_campaign=1065&utm_source=git)** | Rockford, MI | On Site | May 05 |
 | **[Peculiar Coffee Co.](www.peculiarcoffeeco.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69fa9fe118b94b2515bdba8c?utm_campaign=1065&utm_source=git)** | Lansing, MI | Hybrid | May 05 |
@@ -93,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.co/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69fa53b0582f810f9c8d57f9?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | Hybrid | May 05 |
 | **[Imagine Museum](http://www.imaginemuseum.com/)** | **[Intern](https://jobright.ai/jobs/info/69fa52d181706a5bd217540e?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | Hybrid | May 05 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69fa52cba3d34b4f76f65152?utm_campaign=1065&utm_source=git)** | Winter Park, FL | On Site | May 05 |
-| **[One Million by One Million (1Mby1M)](http://1mby1m.com)** | **[Research and Writing About Regional Startup Accelerators Internship](https://jobright.ai/jobs/info/69fa5286a3d34b4f76f650d0?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[BMO](http://www.bmo.com)** | **[Marketing Coordinator, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69fa4c240b36ff0354761d9f?utm_campaign=1065&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 05 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69fa4b3d0b36ff0354761c89?utm_campaign=1065&utm_source=git)** | Des Moines, IA, 50309, United States | On Site | May 05 |
 | **[Hamilton Medical](https://www.hamilton-medical.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fa4a9f81706a5bd2175155?utm_campaign=1065&utm_source=git)** | US-NV-Reno | On Site | May 05 |
@@ -102,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Bell Flavors & Fragrances](http://bellff.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fa46eab1fc847fc1aef583?utm_campaign=1065&utm_source=git)** | Northbrook, IL | On Site | May 05 |
 | **[Kate Farms](https://www.katefarms.com)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/69fa46b6db88714bcdfc23e4?utm_campaign=1065&utm_source=git)** | Goleta, California, United States | Remote | May 05 |
 | **[Hire ID](https://hireid.ai)** | **[Social Media Marketing Intern / Influencer](https://jobright.ai/jobs/info/69fa6dfdb1fc847fc1aefda9?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
-| **[Media 43](http://www.media43.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69fa3e6581706a5bd21749ed?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[Social Link](https://sociallink.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fa3e5d81706a5bd21749e5?utm_campaign=1065&utm_source=git)** | Nashville, TN | Remote | May 05 |
 | **[Imagination Mode](Imaginationmode.com)** | **[Media and outreach team (INTERNSHIP)](https://jobright.ai/jobs/info/69fa3ddf0b36ff035476154e?utm_campaign=1065&utm_source=git)** | Dover, DE | On Site | May 05 |
 | **[Slip Robotics](https://sliprobotics.com/)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/69fa3d03db88714bcdfc1d8c?utm_campaign=1065&utm_source=git)** | Norcross, GA | On Site | May 05 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69dd530bbc6f6622c9911975?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | May 05 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69c1aae22c312363dcd4d4c9?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Talent Brand & Internal Communications Intern](https://jobright.ai/jobs/info/69dd512e738f2f099e8b5a1c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
+| **[CouponDonation](http://www.coupondonation.com)** | **[Sales and Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69f9cb63582f810f9c8d256b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 05 |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Marketing and PR Intern (Summer 2026)](https://jobright.ai/jobs/info/69dd50c35356a60f40fed89f?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 05 |
+| **[MathWorks](http://www.mathworks.com)** | **[Rutgers University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69e1d0cbfd1c0456f3fb02b4?utm_campaign=1065&utm_source=git)** | Natick, MA | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
