@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pave America](https://paveamerica.com)** | **[Marketing Intern – Campaigns & Sales Support](https://jobright.ai/jobs/info/69fbdaf518b94b2515be5224?utm_campaign=1065&utm_source=git)** | Tinton Falls, NJ, US | Hybrid | May 06 |
-| ↳ | **[Marketing Intern – Campaigns & Sales Support](https://jobright.ai/jobs/info/69fbdb0f38179b6f1ae7b330?utm_campaign=1065&utm_source=git)** | US-NJ-Tinton Falls | Hybrid | May 06 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Marketing - MBA](https://jobright.ai/jobs/info/69fbdaa5d21cf86d1e3d5449?utm_campaign=1065&utm_source=git)** | US-NY-Purchase | On Site | May 06 |
-| ↳ | **[2027 Summer Intern: Marketing - MBA](https://jobright.ai/jobs/info/69fbdaa387a4820e6da8b033?utm_campaign=1065&utm_source=git)** | Purchase, NY, US | On Site | May 06 |
+| **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Marketing Intern (Horseshoe Bossier)](https://jobright.ai/jobs/info/69fbec3b3802c7621fd8dd8f?utm_campaign=1065&utm_source=git)** | Bossier City, LA, United States | On Site | May 06 |
+| **[Pave America](https://paveamerica.com)** | **[Marketing Intern – Campaigns & Sales Support](https://jobright.ai/jobs/info/69fbdb0f38179b6f1ae7b330?utm_campaign=1065&utm_source=git)** | US-NJ-Tinton Falls | Hybrid | May 06 |
+| ↳ | **[Marketing Intern – Campaigns & Sales Support](https://jobright.ai/jobs/info/69fbdaf518b94b2515be5224?utm_campaign=1065&utm_source=git)** | Tinton Falls, NJ, US | Hybrid | May 06 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Marketing - MBA](https://jobright.ai/jobs/info/69fbdaa387a4820e6da8b033?utm_campaign=1065&utm_source=git)** | Purchase, NY, US | On Site | May 06 |
+| ↳ | **[2027 Summer Intern: Marketing - MBA](https://jobright.ai/jobs/info/69fbdaa5d21cf86d1e3d5449?utm_campaign=1065&utm_source=git)** | US-NY-Purchase | On Site | May 06 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Event and Employer Brand Intern](https://jobright.ai/jobs/info/69fba9dd87a4820e6da8a436?utm_campaign=1065&utm_source=git)** | VEG Headquarters, White Plains, NY | On Site | May 06 |
 | **[Broe Real Estate Group](https://broerealestate.com)** | **[Intern](https://jobright.ai/jobs/info/69fba9b318b94b2515be44da?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | May 06 |
+| **[SouthEast Bank](http://southeastbank.com)** | **[Marketing Intern (72096)](https://jobright.ai/jobs/info/69fbeb283160b250eb1b9644?utm_campaign=1065&utm_source=git)** | Home Office - KNOXVILLE, TN 37934 | On Site | May 06 |
 | **[Reliance Test & Technology, LLC](https://www.rtt-jv.com/homepage/)** | **[SEO Summer Intern (794)](https://jobright.ai/jobs/info/69fba6bed21cf86d1e3d46b8?utm_campaign=1065&utm_source=git)** | Patuxent River, MD | On Site | May 06 |
 | **[Koble](https://www.koblesystems.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fbd9ad18b94b2515be50b3?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | May 06 |
 | **[Reliance Test & Technology, LLC](https://www.rtt-jv.com/homepage/)** | **[SEO Summer Intern (800)](https://jobright.ai/jobs/info/69fba451ffa73664aeb0165a?utm_campaign=1065&utm_source=git)** | Patuxent River, MD | On Site | May 06 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - Marketing Strategy - New Markets](https://jobright.ai/jobs/info/69fbdd4818b94b2515be54ec?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | May 06 |
 | **[BMO](http://www.bmo.com)** | **[Marketing Coordinator, Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/69fb9bda38179b6f1ae7a1e7?utm_campaign=1065&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 06 |
 | **[Crestron Electronics](http://www.crestron.com)** | **[Intern – Summer 2026 – Digital Marketing](https://jobright.ai/jobs/info/69fb9b8986d5cd46527d73c8?utm_campaign=1065&utm_source=git)** | Rockleigh, NJ, USA | Hybrid | May 06 |
-| **[Rightworks](https://www.rightworks.com/)** | **[Marketing Intern - Self Serve Growth](https://jobright.ai/jobs/info/69fbdc4fffa73664aeb02845?utm_campaign=1065&utm_source=git)** | Nashua, NH | On Site | May 06 |
 | **[City of Dardenne Prairie](http://www.dardenneprairie.org)** | **[Event Specialist Intern](https://jobright.ai/jobs/info/69fb9ab0d21cf86d1e3d4378?utm_campaign=1065&utm_source=git)** | Dardenne Prairie, MO | On Site | May 06 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fbdd2718b94b2515be5487?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | May 06 |
 | **[Landmark National Bank](http://investor.banklandmark.com/)** | **[Marketing Intern (44697)](https://jobright.ai/jobs/info/69fb99cb18b94b2515be3d33?utm_campaign=1065&utm_source=git)** | Overland Park 143rd - Overland Park, KS 66223 | On Site | May 06 |
@@ -89,16 +90,14 @@ For a complete list, click the following sortable link below:
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/69fbde0318b94b2515be562d?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | On Site | May 06 |
 | **[Infoblox](http://www.infoblox.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69fb9615ffa73664aeb006a5?utm_campaign=1065&utm_source=git)** | 2106-2108 Pacific Avenue, Tacoma, WA, 98402, US | Hybrid | May 06 |
 | **[Energy Trust of Oregon](http://energytrust.org)** | **[Evaluation Intern](https://jobright.ai/jobs/info/69fbd99d38179b6f1ae7b12d?utm_campaign=1065&utm_source=git)** | Portland, Oregon, United States | Hybrid | May 06 |
-| **[Parker Technology](https://www.parkertechnology.com)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/69fbdd1118b94b2515be5452?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | May 06 |
-| **[Sales Skill Hustle](www.salesskillhustle)** | **[Marketing Communications and PR Intern](https://jobright.ai/jobs/info/69fbdcfb18b94b2515be5418?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | May 06 |
+| **[Zeus](http://www.zeusinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fbeca4c39b9a66c0c54d76?utm_campaign=1065&utm_source=git)** | 115 15th Street, Gaston, SC, 29053, US | On Site | May 06 |
 | **[Echo Valley](https://echovalley.com/)** | **[Digital Marketing - Admin Support Intern](https://jobright.ai/jobs/info/69fb919486d5cd46527d66b3?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | May 06 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[Marketing - Event Log Intern](https://jobright.ai/jobs/info/69fac31c38179b6f1ae7241f?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | May 06 |
-| **[HumanityOS](https://www.humanityos.in/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fb90c086d5cd46527d65e2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 06 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Communications, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb8efb86d5cd46527d6560?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[TruGen AI](https://trugen.ai)** | **[Founder’s Personal Brand Manager (Intern)](https://jobright.ai/jobs/info/69fb8ecd87a4820e6da88f2a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 06 |
 | **[LufCo](https://www.lufburrow.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69fb8ce186d5cd46527d64e2?utm_campaign=1065&utm_source=git)** | Aberdeen, MD | On Site | May 06 |
-| **[Reliance Test & Technology, LLC](https://www.rtt-jv.com/homepage/)** | **[SEO Summer Intern (797)](https://jobright.ai/jobs/info/69fbbc36d21cf86d1e3d4f0c?utm_campaign=1065&utm_source=git)** | Patuxent River, MD | On Site | May 06 |
-| ↳ | **[SEO Summer Intern (799)](https://jobright.ai/jobs/info/69fbb06e38179b6f1ae7acc5?utm_campaign=1065&utm_source=git)** | Patuxent River, MD | On Site | May 06 |
+| **[Reliance Test & Technology, LLC](https://www.rtt-jv.com/homepage/)** | **[SEO Summer Intern (799)](https://jobright.ai/jobs/info/69fbb06e38179b6f1ae7acc5?utm_campaign=1065&utm_source=git)** | Patuxent River, MD | On Site | May 06 |
+| ↳ | **[SEO Summer Intern (797)](https://jobright.ai/jobs/info/69fbbc36d21cf86d1e3d4f0c?utm_campaign=1065&utm_source=git)** | Patuxent River, MD | On Site | May 06 |
 | ↳ | **[SEO Summer Intern (795)](https://jobright.ai/jobs/info/69fbb11a87a4820e6da8a974?utm_campaign=1065&utm_source=git)** | Patuxent River, MD | On Site | May 06 |
 | **[Build Fellowship](https://www.openavenuesfoundation.org)** | **[Marketing & Content Intern](https://jobright.ai/jobs/info/69fba95a18b94b2515be442c?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 06 |
 | **[Reliance Test & Technology, LLC](https://www.rtt-jv.com/homepage/)** | **[SEO Summer Intern (801)](https://jobright.ai/jobs/info/69fbce1618b94b2515be4f6f?utm_campaign=1065&utm_source=git)** | Patuxent River, MD | On Site | May 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69fb3bda18b94b2515be0a51?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Appian](http://www.appian.com)** | **[Workplace Events Intern](https://jobright.ai/jobs/info/6998d38781476f6176b13cb8?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | May 06 |
 | **[Acadium](http://www.acadium.com)** | **[Digital Marketing Intern (Podcast + LinkedIn Lead Gen)](https://jobright.ai/jobs/info/69fb5794ffa73664aeafedcc?utm_campaign=1065&utm_source=git)** | United States | Remote | May 06 |
+| **[Perry Ellis International](http://www.pery.com)** | **[Summer 2026 Tiktok Internship](https://jobright.ai/jobs/info/69deb9fb433ac8430e0dc1b5?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
