@@ -75,10 +75,8 @@ For a complete list, click the following sortable link below:
 | **[City of Dardenne Prairie](http://www.dardenneprairie.org)** | **[Event Specialist Intern](https://jobright.ai/jobs/info/69fb9ab0d21cf86d1e3d4378?utm_campaign=1065&utm_source=git)** | Dardenne Prairie, MO | On Site | May 06 |
 | **[Landmark National Bank](http://investor.banklandmark.com/)** | **[Marketing Intern (44697)](https://jobright.ai/jobs/info/69fb99cb18b94b2515be3d33?utm_campaign=1065&utm_source=git)** | Overland Park 143rd - Overland Park, KS 66223 | On Site | May 06 |
 | **[Infoblox](http://www.infoblox.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69fb9615ffa73664aeb006a5?utm_campaign=1065&utm_source=git)** | 2106-2108 Pacific Avenue, Tacoma, WA, 98402, US | Hybrid | May 06 |
-| **[The Swift Club](www.theswiftclub.com)** | **[Digital Marketing & Brand Partnerships Associate (Summer Intern)](https://jobright.ai/jobs/info/69fb91dcd21cf86d1e3d3e3c?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Remote | May 06 |
 | **[Echo Valley](https://echovalley.com/)** | **[Digital Marketing - Admin Support Intern](https://jobright.ai/jobs/info/69fb919486d5cd46527d66b3?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | May 06 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[Marketing - Event Log Intern](https://jobright.ai/jobs/info/69fac31c38179b6f1ae7241f?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | May 06 |
-| **[VideoForce.ai](https://videoforce.ai)** | **[Growth intern (US market)- Pipeline & Outbound](https://jobright.ai/jobs/info/69fb9151d21cf86d1e3d3d59?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | May 06 |
 | **[HumanityOS](https://www.humanityos.in/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fb90c086d5cd46527d65e2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 06 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Communications, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb8efb86d5cd46527d6560?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[TruGen AI](https://trugen.ai)** | **[Founder’s Personal Brand Manager (Intern)](https://jobright.ai/jobs/info/69fb8ecd87a4820e6da88f2a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 06 |
@@ -87,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SEO Summer Intern (797)](https://jobright.ai/jobs/info/69fbbc36d21cf86d1e3d4f0c?utm_campaign=1065&utm_source=git)** | Patuxent River, MD | On Site | May 06 |
 | ↳ | **[SEO Summer Intern (795)](https://jobright.ai/jobs/info/69fbb11a87a4820e6da8a974?utm_campaign=1065&utm_source=git)** | Patuxent River, MD | On Site | May 06 |
 | **[Build Fellowship](https://www.openavenuesfoundation.org)** | **[Marketing & Content Intern](https://jobright.ai/jobs/info/69fba95a18b94b2515be442c?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 06 |
+| **[Reliance Test & Technology, LLC](https://www.rtt-jv.com/homepage/)** | **[SEO Summer Intern (801)](https://jobright.ai/jobs/info/69fbce1618b94b2515be4f6f?utm_campaign=1065&utm_source=git)** | Patuxent River, MD | On Site | May 06 |
 | **[Thales](http://www.thalesgroup.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69fb8b2986d5cd46527d6428?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | May 06 |
 | **[Greene Tweed](https://www.gtweed.com/)** | **[Marketing Data Analytics Intern](https://jobright.ai/jobs/info/69fb87da38179b6f1ae78fe6?utm_campaign=1065&utm_source=git)** | Lansdale, PA, United States of America | On Site | May 06 |
 | **[LV Collective](https://lvcollective.com)** | **[Digital Marketing Intern / Rambler Gainesville](https://jobright.ai/jobs/info/69fb823b18b94b2515be2dfa?utm_campaign=1065&utm_source=git)** | Gainesville, Florida, United States | Hybrid | May 06 |
@@ -147,14 +146,15 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69dee395433ac8430e0dcf27?utm_campaign=1065&utm_source=git)** | Herndon, VA | On Site | May 06 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fb5fae87a4820e6da87a4e?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 06 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69fb60f1ffa73664aeaff31e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 06 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69fb5f7318b94b2515be1e51?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 06 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69fb60b3ffa73664aeaff2b8?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 06 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/69fb5f7318b94b2515be1e51?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 06 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69fb5f8218b94b2515be1e7b?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 06 |
 | **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Event/Tradeshows Marketing Intern](https://jobright.ai/jobs/info/69eae8237820c036924f0713?utm_campaign=1065&utm_source=git)** | United States | Remote | May 06 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69fb8b9918b94b2515be3210?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 06 |
 | **[Insta360](http://www.insta360.com)** | **[Event Marketing Operations Intern](https://jobright.ai/jobs/info/69fb2b00d21cf86d1e3d09c7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 06 |
 | **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69fb636d87a4820e6da87c4a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 06 |
-| **[Creative Expansions, Inc](cei)** | **[Summer Internship with Mentoring from the CEO](https://jobright.ai/jobs/info/69fb48a7d21cf86d1e3d14ea?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Remote | May 06 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fb464018b94b2515be0e62?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 06 |
 | **[Video Rebirth](https://videorebirth.com/)** | **[Social Media Operations Intern –  AI Video Generation Startup](https://jobright.ai/jobs/info/69fb276187a4820e6da85872?utm_campaign=1065&utm_source=git)** | California, United States | Remote | May 06 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/69fb463f18b94b2515be0e5d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 06 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[SHOWROOM MARKETING INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a76ef42672cb0acb4be51b?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
