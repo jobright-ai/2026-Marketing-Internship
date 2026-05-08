@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](electrogum.com)** | **[College Athlete Relations Intern](https://jobright.ai/jobs/info/69fd794c6bcf315dc8f51a6b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Communications & Design Intern](https://jobright.ai/jobs/info/69fd66eb6bcf315dc8f517bb?utm_campaign=1065&utm_source=git)** | Washington, DC, US | Hybrid | May 07 |
 | ↳ | **[Marketing and Community Outreach Intern](https://jobright.ai/jobs/info/69fd66def363bc4dc33983dd?utm_campaign=1065&utm_source=git)** | Lacey, WA, US | On Site | May 07 |
-| ↳ | **[Product Marketing & Go-To-Market Intern](https://jobright.ai/jobs/info/69fd4ca644192e601700afad?utm_campaign=1065&utm_source=git)** | United States | Remote | May 07 |
+| **[Electro](electrogum.com)** | **[Partnerships Outreach Intern](https://jobright.ai/jobs/info/69fd82906bcf315dc8f51cf1?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Product Marketing & Go-To-Market Intern](https://jobright.ai/jobs/info/69fd4ca644192e601700afad?utm_campaign=1065&utm_source=git)** | United States | Remote | May 07 |
 | **[The Azure Agency](http://www.theazureagency.com)** | **[Social Media & PR Intern](https://jobright.ai/jobs/info/69fd3eb8666f063d3d6d41dd?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Remote | May 07 |
 | **[NPOC Wellness and Hydration](www.npocwellness.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fd3e27b113035a9f8ef546?utm_campaign=1065&utm_source=git)** | Baltimore, Maryland, United States | On Site | May 07 |
 | **[SHINE Technologies](https://www.shinefusion.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fd3dfb432a3c4da8e029c9?utm_campaign=1065&utm_source=git)** | Janesville,WI,US | On Site | May 07 |
@@ -117,10 +119,11 @@ For a complete list, click the following sortable link below:
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Digital Messaging Marketing Intern](https://jobright.ai/jobs/info/69fce7f5b113035a9f8ec932?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA, US | On Site | May 07 |
 | **[Carey & Co](https://www.teamcarey.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fce77c6b788e7e7a5c35b0?utm_campaign=1065&utm_source=git)** | United States | Remote | May 07 |
 | **[Emerging Prairie](http://www.emergingprairie.com/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/69fce746432a3c4da8dffd91?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | May 07 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fb219a87a4820e6da854c2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 07 |
 | **[LivaNova](http://www.livanova.com)** | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce26ab113035a9f8ec6fe?utm_campaign=1065&utm_source=git)** | Remote, Texas, United States of America | Remote | May 07 |
 | ↳ | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce26ab113035a9f8ec6ff?utm_campaign=1065&utm_source=git)** | Houston, Texas, United States of America | Remote | May 07 |
-| ↳ | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce269b113035a9f8ec6fd?utm_campaign=1065&utm_source=git)** | Remote, Colorado, United States of America | Remote | May 07 |
 | ↳ | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce269b113035a9f8ec6fc?utm_campaign=1065&utm_source=git)** | Minneapolis, Minnesota, United States of America | Remote | May 07 |
+| ↳ | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce269b113035a9f8ec6fd?utm_campaign=1065&utm_source=git)** | Remote, Colorado, United States of America | Remote | May 07 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fce0696b788e7e7a5c348f?utm_campaign=1065&utm_source=git)** | Idaho - Boise, US | On Site | May 07 |
 | **[MarCom Group](https://www.marcomgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69fce0016b788e7e7a5c3453?utm_campaign=1065&utm_source=git)** | Remote (United States) | Remote | May 07 |
 | **[Hight Health](http://www.hight.health)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/69fcdfb8432a3c4da8dffc4d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 07 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69fcccff432a3c4da8dff299?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 07 |
 | **[German American Bank](https://germanamerican.com/)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/69fccca6432a3c4da8dff1b4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 07 |
 | **[STARS](https://www.stars.ca)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69fccc6c6b788e7e7a5c2a33?utm_campaign=1065&utm_source=git)** | Calgary, AB, Canada | On Site | May 07 |
-| **[LivaNova](http://www.livanova.com)** | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce7f15cff890b03f345ce?utm_campaign=1065&utm_source=git)** | Denver, Colorado, United States, US | Hybrid | May 07 |
-| ↳ | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce7ce938a651755f976b0?utm_campaign=1065&utm_source=git)** | Houston, Texas, United States, US | Hybrid | May 07 |
+| **[LivaNova](http://www.livanova.com)** | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce7ce938a651755f976b0?utm_campaign=1065&utm_source=git)** | Houston, Texas, United States, US | Hybrid | May 07 |
+| ↳ | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce7f15cff890b03f345ce?utm_campaign=1065&utm_source=git)** | Denver, Colorado, United States, US | Hybrid | May 07 |
 | ↳ | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce7dbb113035a9f8ec8e3?utm_campaign=1065&utm_source=git)** | Minneapolis, Minnesota, United States, US | Hybrid | May 07 |
 | ↳ | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce7ea6b788e7e7a5c365e?utm_campaign=1065&utm_source=git)** | US_Remote, US | Hybrid | May 07 |
-| **[Cast tours](https://cast.tours/)** | **[College Intern position (Non Paid )  For  America s Got Talent Champions V. Unbeatable U.S. Tour](https://jobright.ai/jobs/info/69fcc8c2666f063d3d6d097b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 07 |
-| **[L'Instant Health Connect](www.linstanthealthconnect.com)** | **[Intern](https://jobright.ai/jobs/info/69fcc8ae5cff890b03f335f3?utm_campaign=1065&utm_source=git)** | Merrick, NY | Hybrid | May 07 |
-| **[One Million by One Million (1Mby1M)](http://1mby1m.com)** | **[Researching and Writing About Regional Startup Accelerators Intern](https://jobright.ai/jobs/info/69fcc297432a3c4da8dfede4?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Remote | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
