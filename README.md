@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Digital Intern](https://jobright.ai/jobs/info/69fda0e952e2b44f558abf74?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
+| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/69fda0e06bcf315dc8f52404?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
+| **[eel](https://hq.watcheel.com/)** | **[Movie Streaming Service Marketing Intern](https://jobright.ai/jobs/info/69fda01252e2b44f558abeff?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Digital Properties and Innovation - Digital Media (Fall 2026)](https://jobright.ai/jobs/info/69fd9ef26bcf315dc8f522dd?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | May 08 |
+| **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69f8f810a3d34b4f76f5f4e0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | May 08 |
 | **[Electro](electrogum.com)** | **[College Athlete Relations Intern](https://jobright.ai/jobs/info/69fd794c6bcf315dc8f51a6b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Communications & Design Intern](https://jobright.ai/jobs/info/69fd66eb6bcf315dc8f517bb?utm_campaign=1065&utm_source=git)** | Washington, DC, US | Hybrid | May 07 |
 | ↳ | **[Marketing and Community Outreach Intern](https://jobright.ai/jobs/info/69fd66def363bc4dc33983dd?utm_campaign=1065&utm_source=git)** | Lacey, WA, US | On Site | May 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Seasonal Social Media Content Creator Intern](https://jobright.ai/jobs/info/69fccec8432a3c4da8dff31f?utm_campaign=1065&utm_source=git)** | Home Office (US) | Remote | May 07 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff06c433ac8430e0e321d?utm_campaign=1065&utm_source=git)** | California, United States | Remote | May 07 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69fcccff432a3c4da8dff299?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 07 |
-| **[German American Bank](https://germanamerican.com/)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/69fccca6432a3c4da8dff1b4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 07 |
-| **[STARS](https://www.stars.ca)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69fccc6c6b788e7e7a5c2a33?utm_campaign=1065&utm_source=git)** | Calgary, AB, Canada | On Site | May 07 |
-| **[LivaNova](http://www.livanova.com)** | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce7dbb113035a9f8ec8e3?utm_campaign=1065&utm_source=git)** | Minneapolis, Minnesota, United States, US | Hybrid | May 07 |
-| ↳ | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce7ce938a651755f976b0?utm_campaign=1065&utm_source=git)** | Houston, Texas, United States, US | Hybrid | May 07 |
-| ↳ | **[Strategic Marketing Analyst (Product & Strategy Team)– Summer 2026 Intern](https://jobright.ai/jobs/info/69fce7f15cff890b03f345ce?utm_campaign=1065&utm_source=git)** | Denver, Colorado, United States, US | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
