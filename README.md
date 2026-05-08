@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aki Lashes](http://www.akilashes.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fe57dcf363bc4dc339dffc?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | May 08 |
+| **[Tenpo](tenpo.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fe57d9ad691a11f34ed398?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | May 08 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/69fe515f7714cd50b91004a0?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 08 |
+| **[Mindr](https://mindrco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe4cc5f363bc4dc339ddbb?utm_campaign=1065&utm_source=git)** | Remote, USA | Remote | May 08 |
+| **[MCM WORLDWIDE](https://us.mcmworldwide.com/)** | **[Intern, Martketing](https://jobright.ai/jobs/info/69fe4c7a7714cd50b910042f?utm_campaign=1065&utm_source=git)** | New York,NY,US | On Site | May 08 |
 | **[Refugees International](https://www.refugeesinternational.org/)** | **[2026 Summer Intern: Strategic Outreach](https://jobright.ai/jobs/info/69fe4c40f363bc4dc339dd89?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 08 |
 | **[Merrimack Valley YMCA](https://www.mvymca.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/69fe4bc8ad691a11f34ed0b5?utm_campaign=1065&utm_source=git)** | 280 MERRIMACK STREET SUITE 500 - LAWRENCE, MA 01843 | On Site | May 08 |
 | **[Zumiez](http://www.zumiez.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe49d34b9bbf21744b06ea?utm_campaign=1065&utm_source=git)** | Lynnwood, WA, 98036, United States | On Site | May 08 |
@@ -84,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Seasonal Marketing Intern](https://jobright.ai/jobs/info/69fe314b7714cd50b90fecf0?utm_campaign=1065&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | May 08 |
 | **[Violetta Group](https://violettagroup.com)** | **[Public Relations Intern - Fashion, Beauty & Lifestyle](https://jobright.ai/jobs/info/69fe31267714cd50b90fec9d?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | May 08 |
 | **[PCI Energy Solutions](https://www.pcienergysolutions.com)** | **[Marketing & Sales Enablement Intern](https://jobright.ai/jobs/info/69fe31224b9bbf21744af01b?utm_campaign=1065&utm_source=git)** | Norman, OK | Hybrid | May 08 |
+| **[Arch Events](http://arch-events.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57ca4b9bbf21744b0c43?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | May 08 |
 | **[BIC](http://bicworld.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe2ec36bcf315dc8f553c7?utm_campaign=1065&utm_source=git)** | New York | On Site | May 08 |
 | **[Waco Family Medicine](https://wacofamilymedicine.org)** | **[Summer Internship - Marketing & Communications (3763)](https://jobright.ai/jobs/info/69fe2e8e52e2b44f558aef9b?utm_campaign=1065&utm_source=git)** | Central - Waco, TX 76707 | On Site | May 08 |
 | **[NetworkX.ai](https://www.networkx.ai)** | **[Social Media Marketing - Internship](https://jobright.ai/jobs/info/69fe2ce452e2b44f558aef1d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Covenant Metabolic Specialists](https://mycms.health)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fda4b94b9bbf21744abed7?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Communication Intern (Seasonal)](https://jobright.ai/jobs/info/69fda1bb52e2b44f558abfe9?utm_campaign=1065&utm_source=git)** | Arrington, VA, US | On Site | May 08 |
 | ↳ | **[Digital Intern](https://jobright.ai/jobs/info/69fda0e952e2b44f558abf74?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
-| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/69fda0e06bcf315dc8f52404?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
-| **[eel](https://hq.watcheel.com/)** | **[Movie Streaming Service Marketing Intern](https://jobright.ai/jobs/info/69fda01252e2b44f558abeff?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Digital Properties and Innovation - Digital Media (Fall 2026)](https://jobright.ai/jobs/info/69fd9ef26bcf315dc8f522dd?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | May 08 |
-| **[Crescendo International](https://crescendointernational.co/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69f9e18a0b36ff035475f795?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 08 |
-| **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69f8f810a3d34b4f76f5f4e0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | May 08 |
-| **[Electro](electrogum.com)** | **[College Athlete Relations Intern](https://jobright.ai/jobs/info/69fd794c6bcf315dc8f51a6b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
