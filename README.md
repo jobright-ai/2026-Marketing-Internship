@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Digital Intern](https://jobright.ai/jobs/info/69fda0e952e2b44f558abf74?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
+| **[Covenant Metabolic Specialists](https://mycms.health)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fda4b94b9bbf21744abed7?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Communication Intern (Seasonal)](https://jobright.ai/jobs/info/69fda1bb52e2b44f558abfe9?utm_campaign=1065&utm_source=git)** | Arrington, VA, US | On Site | May 08 |
+| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/69fda0e952e2b44f558abf74?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
 | ↳ | **[Digital Intern](https://jobright.ai/jobs/info/69fda0e06bcf315dc8f52404?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
 | **[eel](https://hq.watcheel.com/)** | **[Movie Streaming Service Marketing Intern](https://jobright.ai/jobs/info/69fda01252e2b44f558abeff?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Digital Properties and Innovation - Digital Media (Fall 2026)](https://jobright.ai/jobs/info/69fd9ef26bcf315dc8f522dd?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | May 08 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[The Azure Agency](http://www.theazureagency.com)** | **[Social Media & PR Intern](https://jobright.ai/jobs/info/69fd3eb8666f063d3d6d41dd?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Remote | May 07 |
 | **[NPOC Wellness and Hydration](www.npocwellness.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fd3e27b113035a9f8ef546?utm_campaign=1065&utm_source=git)** | Baltimore, Maryland, United States | On Site | May 07 |
 | **[SHINE Technologies](https://www.shinefusion.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fd3dfb432a3c4da8e029c9?utm_campaign=1065&utm_source=git)** | Janesville,WI,US | On Site | May 07 |
-| **[Bone Health Technologies](https://osteoboost.com/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69fd3576432a3c4da8e023ca?utm_campaign=1065&utm_source=git)** | Redwood City, CA | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Marketing Intern (10-Weeks) - Summer 2026](https://jobright.ai/jobs/info/69fd3023938a651755f9972c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 07 |
 | **[Kirtland Credit Union](https://kirtlandcu.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fd26bd666f063d3d6d3704?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | May 07 |
 | **[DoorTwo](https://www.ssca.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fd22325cff890b03f363ee?utm_campaign=1065&utm_source=git)** | Long Beach, CA | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eon.io](https://eon.io)** | **[Marketing Ops & AI Content Intern (Part-time)](https://jobright.ai/jobs/info/690b36ffd046ab6061ce347a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 07 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Seasonal Social Media Content Creator Intern](https://jobright.ai/jobs/info/69fccec8432a3c4da8dff31f?utm_campaign=1065&utm_source=git)** | Home Office (US) | Remote | May 07 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff06c433ac8430e0e321d?utm_campaign=1065&utm_source=git)** | California, United States | Remote | May 07 |
-| **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69fcccff432a3c4da8dff299?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
