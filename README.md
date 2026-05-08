@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CW](http://www.cwcapital.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fdd7df52e2b44f558ac891?utm_campaign=1065&utm_source=git)** | New York,NY,US | On Site | May 08 |
+| **[Brio Water Technology](https://briowt.com)** | **[eCommerce Intern (Rotational Program)](https://jobright.ai/jobs/info/69fc340f4ab6391714fd41a9?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | May 08 |
 | **[Eon.io](https://eon.io)** | **[Marketing Ops & AI Content Intern (Part-time)](https://jobright.ai/jobs/info/69e635ace0cd471b2f12414f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | May 08 |
-| **[CW](http://www.cwcapital.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fdbbe152e2b44f558ac43d?utm_campaign=1065&utm_source=git)** | New York,NY,US | On Site | May 08 |
 | **[505 Swimming](https://www.505swimming.com)** | **[Social Media & Content Creation Intern (Part-Time)](https://jobright.ai/jobs/info/69fdb804ad691a11f34ea52e?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | May 08 |
 | **[Covenant Metabolic Specialists](https://mycms.health)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fda4b94b9bbf21744abed7?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Communication Intern (Seasonal)](https://jobright.ai/jobs/info/69fda1bb52e2b44f558abfe9?utm_campaign=1065&utm_source=git)** | Arrington, VA, US | On Site | May 08 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Intern](https://jobright.ai/jobs/info/69fda0e06bcf315dc8f52404?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
 | **[eel](https://hq.watcheel.com/)** | **[Movie Streaming Service Marketing Intern](https://jobright.ai/jobs/info/69fda01252e2b44f558abeff?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Digital Properties and Innovation - Digital Media (Fall 2026)](https://jobright.ai/jobs/info/69fd9ef26bcf315dc8f522dd?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | May 08 |
+| **[Crescendo International](https://crescendointernational.co/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69f9e18a0b36ff035475f795?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 08 |
 | **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69f8f810a3d34b4f76f5f4e0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | May 08 |
 | **[Electro](electrogum.com)** | **[College Athlete Relations Intern](https://jobright.ai/jobs/info/69fd794c6bcf315dc8f51a6b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Communications & Design Intern](https://jobright.ai/jobs/info/69fd66eb6bcf315dc8f517bb?utm_campaign=1065&utm_source=git)** | Washington, DC, US | Hybrid | May 07 |
@@ -121,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Proofpoint](http://www.proofpoint.com)** | **[Talent Marketing Intern](https://jobright.ai/jobs/info/69fceed7b113035a9f8ecfeb?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, US | On Site | May 07 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Communications & PR Intern](https://jobright.ai/jobs/info/69fceed0938a651755f97cd4?utm_campaign=1065&utm_source=git)** | NYC 441, US | Hybrid | May 07 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Social Media & Brand Marketing Associate (Intern)](https://jobright.ai/jobs/info/69fceea35cff890b03f34bf5?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | May 07 |
-| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Marketing Intern: Digital & Campaigns](https://jobright.ai/jobs/info/69fceab15cff890b03f34b22?utm_campaign=1065&utm_source=git)** | North Mankato, MN - The Occasions Group, Inc., US | On Site | May 07 |
+| **[Taylor Corporation](https://taylor.taylor.com)** | **[Marketing Intern: Digital & Campaigns](https://jobright.ai/jobs/info/69fceab15cff890b03f34b22?utm_campaign=1065&utm_source=git)** | North Mankato, MN - The Occasions Group, Inc., US | On Site | May 07 |
 | **[Everon](https://www.everonsolutions.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fce94d5cff890b03f34a64?utm_campaign=1065&utm_source=git)** | Addison, IL 60101, USA | Hybrid | May 07 |
 | **[Knoxville TVA Employees Credit Union](https://www.tvacreditunion.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fce814432a3c4da8dfff75?utm_campaign=1065&utm_source=git)** | Knoxville, Tennessee, United States | On Site | May 07 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Digital Messaging Marketing Intern](https://jobright.ai/jobs/info/69fce7f5b113035a9f8ec932?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA, US | On Site | May 07 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Bilingual (Korean) Digital Content Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/69fcd9205cff890b03f33e99?utm_campaign=1065&utm_source=git)** | Irvine, CA, US | On Site | May 07 |
 | ↳ | **[Social & Digital Intern – Summer 2026](https://jobright.ai/jobs/info/69fcd8a5b113035a9f8ec168?utm_campaign=1065&utm_source=git)** | Washington, DC, US | Hybrid | May 07 |
 | **[Katzman](https://www.katzmanproduce.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/69fcd77a6b788e7e7a5c2d89?utm_campaign=1065&utm_source=git)** | Bronx, NY 10474, USA | Hybrid | May 07 |
-| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Marketing Intern: Strategic Initiatives, ABM and & AI Content Support](https://jobright.ai/jobs/info/69fcf447938a651755f97eb2?utm_campaign=1065&utm_source=git)** | North Mankato, MN - The Occasions Group, Inc., US | On Site | May 07 |
+| **[Taylor Corporation](https://taylor.taylor.com)** | **[Marketing Intern: Strategic Initiatives, ABM and & AI Content Support](https://jobright.ai/jobs/info/69fcf447938a651755f97eb2?utm_campaign=1065&utm_source=git)** | North Mankato, MN - The Occasions Group, Inc., US | On Site | May 07 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff063433ac8430e0e3214?utm_campaign=1065&utm_source=git)** | Utah, United States | Remote | May 07 |
 | **[NAMI Chicago](https://www.namichicago.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69fcd2566b788e7e7a5c2bec?utm_campaign=1065&utm_source=git)** | CHICAGO,IL,US | Hybrid | May 07 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69fcd252938a651755f96c6c?utm_campaign=1065&utm_source=git)** | Chicago,IL,US | Hybrid | May 07 |
 | **[Kehoe Designs](http://kehoedesigns.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fccefb5cff890b03f339ed?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | On Site | May 07 |
-| **[Eon.io](https://eon.io)** | **[Marketing Ops & AI Content Intern (Part-time)](https://jobright.ai/jobs/info/690b36ffd046ab6061ce347a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 07 |
-| **[Crocs, Inc.](http://www.crocs.com)** | **[Seasonal Social Media Content Creator Intern](https://jobright.ai/jobs/info/69fccec8432a3c4da8dff31f?utm_campaign=1065&utm_source=git)** | Home Office (US) | Remote | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
