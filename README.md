@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SHA Studio Agency](www.shahouseagency.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69fde9874b9bbf21744ac913?utm_campaign=1065&utm_source=git)** | United States | Remote | May 08 |
+| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Fashion Marketing Internship in Paris.](https://jobright.ai/jobs/info/69fde31b7714cd50b90fc533?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | May 08 |
+| **[Advita Ortho](advita.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/69f4ccf612f2811ab5a61175?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 08 |
 | **[CW](http://www.cwcapital.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fdd7df52e2b44f558ac891?utm_campaign=1065&utm_source=git)** | New York,NY,US | On Site | May 08 |
 | **[Brio Water Technology](https://briowt.com)** | **[eCommerce Intern (Rotational Program)](https://jobright.ai/jobs/info/69fc340f4ab6391714fd41a9?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | May 08 |
 | **[Eon.io](https://eon.io)** | **[Marketing Ops & AI Content Intern (Part-time)](https://jobright.ai/jobs/info/69e635ace0cd471b2f12414f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | May 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Katzman](https://www.katzmanproduce.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/69fcd77a6b788e7e7a5c2d89?utm_campaign=1065&utm_source=git)** | Bronx, NY 10474, USA | Hybrid | May 07 |
 | **[Taylor Corporation](https://taylor.taylor.com)** | **[Marketing Intern: Strategic Initiatives, ABM and & AI Content Support](https://jobright.ai/jobs/info/69fcf447938a651755f97eb2?utm_campaign=1065&utm_source=git)** | North Mankato, MN - The Occasions Group, Inc., US | On Site | May 07 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff063433ac8430e0e3214?utm_campaign=1065&utm_source=git)** | Utah, United States | Remote | May 07 |
-| **[NAMI Chicago](https://www.namichicago.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69fcd2566b788e7e7a5c2bec?utm_campaign=1065&utm_source=git)** | CHICAGO,IL,US | Hybrid | May 07 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69fcd252938a651755f96c6c?utm_campaign=1065&utm_source=git)** | Chicago,IL,US | Hybrid | May 07 |
-| **[Kehoe Designs](http://kehoedesigns.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fccefb5cff890b03f339ed?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
