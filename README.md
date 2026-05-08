@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eon.io](https://eon.io)** | **[Marketing Ops & AI Content Intern (Part-time)](https://jobright.ai/jobs/info/69e635ace0cd471b2f12414f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | May 08 |
+| **[CW](http://www.cwcapital.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fdbbe152e2b44f558ac43d?utm_campaign=1065&utm_source=git)** | New York,NY,US | On Site | May 08 |
+| **[505 Swimming](https://www.505swimming.com)** | **[Social Media & Content Creation Intern (Part-Time)](https://jobright.ai/jobs/info/69fdb804ad691a11f34ea52e?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | May 08 |
 | **[Covenant Metabolic Specialists](https://mycms.health)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fda4b94b9bbf21744abed7?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Communication Intern (Seasonal)](https://jobright.ai/jobs/info/69fda1bb52e2b44f558abfe9?utm_campaign=1065&utm_source=git)** | Arrington, VA, US | On Site | May 08 |
 | ↳ | **[Digital Intern](https://jobright.ai/jobs/info/69fda0e952e2b44f558abf74?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
@@ -101,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Central Virginia Electric Cooperative](https://www.mycvec.com/)** | **[Communication Intern (Seasonal)](https://jobright.ai/jobs/info/69fcfee16b788e7e7a5c4419?utm_campaign=1065&utm_source=git)** | Arrington,VA,US | On Site | May 07 |
 | **[Turner Pest Control](https://www.turnerpest.com/)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/69fcfed6666f063d3d6d26db?utm_campaign=1065&utm_source=git)** | 8400 Baymeadows Way, Jacksonville, FL, USA | On Site | May 07 |
 | **[MarCom Group](https://www.marcomgroup.com)** | **[Intern 2](https://jobright.ai/jobs/info/69fcfec9b113035a9f8ed824?utm_campaign=1065&utm_source=git)** | Remote (United States) | Remote | May 07 |
-| **[CW](http://www.cwcapital.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fcfec0938a651755f98434?utm_campaign=1065&utm_source=git)** | New York,NY,US | On Site | May 07 |
 | **[Spin Master](https://www.spinmaster.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fcfe055cff890b03f353fb?utm_campaign=1065&utm_source=git)** | Long Island City, New York, 11101-3433 | Hybrid | May 07 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69fcfe045cff890b03f353fa?utm_campaign=1065&utm_source=git)** | Long Island City, New York, United States of America | Hybrid | May 07 |
 | **[Woodoo Cabinetry Inc](https://woodoocabinetry.com/)** | **[Marketing & Content Intern — Path to Full-Time Role](https://jobright.ai/jobs/info/69fd2bf4432a3c4da8e01fec?utm_campaign=1065&utm_source=git)** | Elk Grove Village, IL | On Site | May 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/69fcd252938a651755f96c6c?utm_campaign=1065&utm_source=git)** | Chicago,IL,US | Hybrid | May 07 |
 | **[Kehoe Designs](http://kehoedesigns.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fccefb5cff890b03f339ed?utm_campaign=1065&utm_source=git)** | Chicago, IL, US | On Site | May 07 |
 | **[Eon.io](https://eon.io)** | **[Marketing Ops & AI Content Intern (Part-time)](https://jobright.ai/jobs/info/690b36ffd046ab6061ce347a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 07 |
-| **[Crocs, Inc.](http://www.crocs.com)** | **[Seasonal Social Media Content Creator Intern](https://jobright.ai/jobs/info/69fccec8432a3c4da8dff31f?utm_campaign=1065&utm_source=git)** | Home Office (US) | Remote | May 07 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Content and Social Marketing Intern](https://jobright.ai/jobs/info/69dff06c433ac8430e0e321d?utm_campaign=1065&utm_source=git)** | California, United States | Remote | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
