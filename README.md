@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fusion100](http://Fusion100co.com)** | **[Tiktok and Social Media Intern](https://jobright.ai/jobs/info/69ff8d2874b5407dd4675aca?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 09 |
+| **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Client Marketing](https://jobright.ai/jobs/info/69e80c7d0a6e09555302e04c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
+| **[Samba TV](http://www.samba.tv)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c72abb1b5ad0288738acee?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 09 |
 | **[Risewell Homes](http://www.risewellhomes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2cdfc5c44d4710fe26f38?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | May 09 |
 | ↳ | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69e2dbbd5c44d4710fe27366?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 09 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/69ff66a474b5407dd46750f9?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dashing Diva](https://dashingdiva.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69fe393252e2b44f558af2a8?utm_campaign=1065&utm_source=git)** | Port Washington, NY | On Site | May 08 |
 | **[HighFive Healthcare](https://www.high5health.com)** | **[Part-time Marketing Internship](https://jobright.ai/jobs/info/69fe342f7714cd50b90fedb0?utm_campaign=1065&utm_source=git)** | Birmingham,AL,US | On Site | May 08 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Seasonal Marketing Intern](https://jobright.ai/jobs/info/69fe314b7714cd50b90fecf0?utm_campaign=1065&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | May 08 |
-| **[PCI Energy Solutions](https://www.pcienergysolutions.com)** | **[Marketing & Sales Enablement Intern](https://jobright.ai/jobs/info/69fe31224b9bbf21744af01b?utm_campaign=1065&utm_source=git)** | Norman, OK | Hybrid | May 08 |
-| **[Arch Events](http://arch-events.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57ca4b9bbf21744b0c43?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | May 08 |
-| **[Net Health](https://www.nethealth.com)** | **[Summer Marketing Intern (Intern) - REMOTE](https://jobright.ai/jobs/info/69feb5a51161630dd3b023db?utm_campaign=1065&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Remote | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
