@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/69fe88bc7714cd50b910190a?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[FIFA World Cup Marketing Intern](https://jobright.ai/jobs/info/69fe9ea0ad691a11f34ee92b?utm_campaign=1065&utm_source=git)** | NJ, US | On Site | May 08 |
+| ↳ | **[Student Internship - Communications and Marketing](https://jobright.ai/jobs/info/69fe9e8bad691a11f34ee906?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | May 08 |
+| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe9ce97714cd50b9101cbd?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 08 |
+| ↳ | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69fe9cdfad691a11f34ee6ff?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Integrated Marketing Intern, Pets](https://jobright.ai/jobs/info/69fe82cc52e2b44f558b2296?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, US | Hybrid | May 08 |
 | ↳ | **[Intern, Network Development & Industry Relations](https://jobright.ai/jobs/info/69fe82b37714cd50b9101789?utm_campaign=1065&utm_source=git)** | Woodcliff Lake, NJ, US | Hybrid | May 08 |
 | ↳ | **[PR & Media Communications Intern](https://jobright.ai/jobs/info/69fe829e4b9bbf21744b1f2c?utm_campaign=1065&utm_source=git)** | FL, US | On Site | May 08 |
@@ -105,9 +108,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MK Intern - Marketing (Bay Area)](https://jobright.ai/jobs/info/69fe47b56bcf315dc8f56579?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA, US | Hybrid | May 08 |
 | ↳ | **[Phone-Based Market Research Intern](https://jobright.ai/jobs/info/69fe468352e2b44f558b023f?utm_campaign=1065&utm_source=git)** | OH, US | On Site | May 08 |
 | **[Standard Motor Products](http://www.smpcorp.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c70a9caa3c2c1995e149b3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 08 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/69fe3f5e4b9bbf21744afd5a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 08 |
 | **[Smith Publicity, Inc.](https://www.smithpublicity.com)** | **[Publicity Intern](https://jobright.ai/jobs/info/69fe3c08ad691a11f34ec637?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ | Hybrid | May 08 |
-| **[Vandelay Hospitality Group](https://vandelayhospitality.com)** | **[Membership & Events Intern](https://jobright.ai/jobs/info/69fe3bfbf363bc4dc339c8cc?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 08 |
 | **[Christian Professionals Network Worldwide](www.cpnworldwide.com)** | **[Marketing And Event Management Intern](https://jobright.ai/jobs/info/69fe3997ad691a11f34ec5f5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | May 08 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69fe3994ad691a11f34ec5e4?utm_campaign=1065&utm_source=git)** | Port Washington, NY | On Site | May 08 |
 | **[Next Phase Enterprises](https://nextphase-enterprises.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe398b6bcf315dc8f55756?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | May 08 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Solo Stove](https://www.solostove.com/)** | **[Part-Time Intern - Social, Influencer, and Events Marketing](https://jobright.ai/jobs/info/69fe14ba52e2b44f558ae5e9?utm_campaign=1065&utm_source=git)** | Grapevine, TX | On Site | May 08 |
 | **[The Game Room Club](www.thegameroomclub.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69fe147c7714cd50b90fe142?utm_campaign=1065&utm_source=git)** | Lanham, MD | Hybrid | May 08 |
 | **[WTIA](http://www.washingtontechnology.org/)** | **[Partnership Marketing Intern](https://jobright.ai/jobs/info/69fe14794b9bbf21744ae4eb?utm_campaign=1065&utm_source=git)** | United States | Remote | May 08 |
+| **[Wurth Elektronik](https://www.we-ics.com)** | **[Market Research Intern - Summer 2026](https://jobright.ai/jobs/info/698c9b980f6f7e7a2ce854ee?utm_campaign=1065&utm_source=git)** | Watertown, SD | On Site | May 08 |
 | **[Menchey Music Service](https://www.mencheymusic.com/)** | **[Summer Marketing Intern - Paid](https://jobright.ai/jobs/info/69fe11adad691a11f34eb95b?utm_campaign=1065&utm_source=git)** | Hanover,PA,US | On Site | May 08 |
 | **[Winter4Kids](https://winter4kids.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe1073f363bc4dc339b6c3?utm_campaign=1065&utm_source=git)** | 44 Breakneck Road, Vernon Township, NJ, USA | On Site | May 08 |
 | **[MD&A](www.mdaturbines.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e12e50fd1c0456f3facdde?utm_campaign=1065&utm_source=git)** | Latham, NY | On Site | May 08 |
 | **[CW](http://www.cwcapital.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe0f6752e2b44f558ae34b?utm_campaign=1065&utm_source=git)** | New York,NY,US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/69fe0f247714cd50b90fde96?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | May 08 |
 | ↳ | **[Recruitment Marketing Intern (Remote)](https://jobright.ai/jobs/info/69fe0efead691a11f34eb7cd?utm_campaign=1065&utm_source=git)** | United States | Remote | May 08 |
-| ↳ | **[Retail Marketing Internship](https://jobright.ai/jobs/info/69fe0e326bcf315dc8f5465d?utm_campaign=1065&utm_source=git)** | Mooresville, NC, US | On Site | May 08 |
-| **[Commvault](https://www.commvault.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69fe0d484b9bbf21744ae0c6?utm_campaign=1065&utm_source=git)** | United States | Remote | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
