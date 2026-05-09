@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scaled by Adarsh](https://www.linkedin.com/company/116894074)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ffa9f5a0eddc08c239a01c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/69ffa11dfa1aa73213d8cc6c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 09 |
 | **[CoPatible](https://copatible.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ff9d2a238f143e8352641f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 09 |
 | **[NourishDoc](https://www.nourishdoc.com/)** | **[Social Media and Community Intern](https://jobright.ai/jobs/info/69ff9504fa1aa73213d8c8c7?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | May 09 |
 | **[LUXY Ride](https://luxyride.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ff94a3c4b08448a0b18ba9?utm_campaign=1065&utm_source=git)** | Shelton, CT | On Site | May 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Christian Professionals Network Worldwide](www.cpnworldwide.com)** | **[Marketing And Event Management Intern](https://jobright.ai/jobs/info/69fe3997ad691a11f34ec5f5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | May 08 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69fe3994ad691a11f34ec5e4?utm_campaign=1065&utm_source=git)** | Port Washington, NY | On Site | May 08 |
 | **[Next Phase Enterprises](https://nextphase-enterprises.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe398b6bcf315dc8f55756?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | May 08 |
-| **[R. J. Corman Railroad Group, LLC](http://www.rjcorman.com)** | **[Communications Intern (Nicholasville, KY)](https://jobright.ai/jobs/info/69fe39677714cd50b90fee99?utm_campaign=1065&utm_source=git)** | Nicholasville, Kentucky, United States | On Site | May 08 |
-| **[Associated Grocers Baton Rouge](https://www.agbr.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69fe3964f363bc4dc339c4da?utm_campaign=1065&utm_source=git)** | Baton Rouge, Louisiana, United States | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
