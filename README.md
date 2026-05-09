@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/69fef9e6fa1aa73213d8a34c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 09 |
+| **[Tombras](http://tombras.com)** | **[SEO Intern](https://jobright.ai/jobs/info/69fc346f2275c9640f52c881?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | May 09 |
+| **[Getinge](https://www.getinge.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c6e028aa3c2c1995e12e20?utm_campaign=1065&utm_source=git)** | Wayne, NJ | Remote | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Asi Sports](https://jobright.ai/jobs/info/69fed540d0dc596b8d11a4da?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
 | **[AARP](http://www.aarp.org)** | **[Marketing Analytics Intern (Summer)](https://jobright.ai/jobs/info/6998b827ce78e77b4fdd4e76?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | May 08 |
 | **[The St. James](https://www.thestjames.com/)** | **[Sports Marketing & Social Media Intern (Spring 2026)  (2029)](https://jobright.ai/jobs/info/69febcc61161630dd3b0420b?utm_campaign=1065&utm_source=git)** | Springfield Flagship - Springfield, VA 22151 | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Global Events](https://jobright.ai/jobs/info/69fe21307714cd50b90fe54e?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 08 |
 | **[Pennsylvania Music Preservation Society](https://pamusicsociety.org/)** | **[Music Industry Public Relations Intern](https://jobright.ai/jobs/info/69fe209f7714cd50b90fe53c?utm_campaign=1065&utm_source=git)** | Lehigh, PA | On Site | May 08 |
 | **[MCA](http://www.marcomcontentbyashley.com)** | **[Content Marketing Writer Intern](https://jobright.ai/jobs/info/69fe209f7714cd50b90fe52d?utm_campaign=1065&utm_source=git)** | North Canton, OH | Hybrid | May 08 |
-| **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Marketing](https://jobright.ai/jobs/info/69fe2035f363bc4dc339bb06?utm_campaign=1065&utm_source=git)** | Austin, TX, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
