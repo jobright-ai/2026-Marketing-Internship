@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/69fea5d07714cd50b9102061?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[FIFA World Cup Marketing Intern](https://jobright.ai/jobs/info/69fe9ea0ad691a11f34ee92b?utm_campaign=1065&utm_source=git)** | NJ, US | On Site | May 08 |
 | ↳ | **[Student Internship - Communications and Marketing](https://jobright.ai/jobs/info/69fe9e8bad691a11f34ee906?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | May 08 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe9ce97714cd50b9101cbd?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 08 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Menchey Music Service](https://www.mencheymusic.com/)** | **[Summer Marketing Intern - Paid](https://jobright.ai/jobs/info/69fe11adad691a11f34eb95b?utm_campaign=1065&utm_source=git)** | Hanover,PA,US | On Site | May 08 |
 | **[Winter4Kids](https://winter4kids.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe1073f363bc4dc339b6c3?utm_campaign=1065&utm_source=git)** | 44 Breakneck Road, Vernon Township, NJ, USA | On Site | May 08 |
 | **[MD&A](www.mdaturbines.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e12e50fd1c0456f3facdde?utm_campaign=1065&utm_source=git)** | Latham, NY | On Site | May 08 |
-| **[CW](http://www.cwcapital.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe0f6752e2b44f558ae34b?utm_campaign=1065&utm_source=git)** | New York,NY,US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/69fe0f247714cd50b90fde96?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | May 08 |
 | ↳ | **[Recruitment Marketing Intern (Remote)](https://jobright.ai/jobs/info/69fe0efead691a11f34eb7cd?utm_campaign=1065&utm_source=git)** | United States | Remote | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
