@@ -57,15 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Risewell Homes](http://www.risewellhomes.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69e2dbbd5c44d4710fe27366?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 09 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/69ff6a7afa1aa73213d8bf27?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 09 |
+| **[Risewell Homes](http://www.risewellhomes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2cdfc5c44d4710fe26f38?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | May 09 |
+| ↳ | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69e2dbbd5c44d4710fe27366?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 09 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/69ff66a474b5407dd46750f9?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 09 |
 | **[University Partners](http://www.universitypartners.com)** | **[Social Media Intern - Student Housing](https://jobright.ai/jobs/info/69ff5e01238f143e835253e0?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | May 09 |
 | **[HypeOn](https://hypeon.ai/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69ff5d77fa1aa73213d8bb1b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
 | **[University Partners](http://www.universitypartners.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69ff5bedc2ffb31f4535ead3?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | May 09 |
 | **[PURPLE](https://purplepr.com)** | **[VIP & Influencer Intern - Summer](https://jobright.ai/jobs/info/69ff4f09fa1aa73213d8ba26?utm_campaign=1065&utm_source=git)** | PURPLE New York | On Site | May 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Communications Intern 2026](https://jobright.ai/jobs/info/69ff45c6238f143e83524db5?utm_campaign=1065&utm_source=git)** | Sterling Heights Michigan | On Site | May 09 |
-| **[Forensic Times](https://forensictimes.com/)** | **[Campus Ambassador -Intern](https://jobright.ai/jobs/info/69ff40be238f143e83524b58?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing](https://jobright.ai/jobs/info/698d112678b4502f12a38c4a?utm_campaign=1065&utm_source=git)** | Mineral Wells, TX | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Publicist Internship](https://jobright.ai/jobs/info/69ff2d76a0eddc08c2397aed?utm_campaign=1065&utm_source=git)** | Miami, FL, US | On Site | May 09 |
 | **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/69c71ae6e565c26a70025d42?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 09 |
@@ -73,7 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Tenpoint Therapeutics, Ltd.](https://www.visustx.com/)** | **[Director, ECP Marketing](https://jobright.ai/jobs/info/69c7048c83ea553769fdfcda?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
 | **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcasters](https://jobright.ai/jobs/info/69e271633770bd5361cd85d6?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | May 09 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Corporate Communications](https://jobright.ai/jobs/info/69704c15587dfa0bb55dd497?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 09 |
+| **[Group 1001](https://group1001.com/)** | **[Automotive Market Research Intern](https://jobright.ai/jobs/info/69cc8717e1921223acc78c36?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | May 09 |
 | **[Tombras](http://tombras.com)** | **[SEO Intern](https://jobright.ai/jobs/info/69fc346f2275c9640f52c881?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | May 09 |
+| **[Redis](https://redis.io/)** | **[Marketing Communications Intern (Summer)](https://jobright.ai/jobs/info/69f5339d12f2811ab5a63cac?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
 | **[Getinge](https://www.getinge.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c6e028aa3c2c1995e12e20?utm_campaign=1065&utm_source=git)** | Wayne, NJ | Remote | May 09 |
 | **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e32fd42f28653593078e6d?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Asi Sports](https://jobright.ai/jobs/info/69fed540d0dc596b8d11a4da?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PCI Energy Solutions](https://www.pcienergysolutions.com)** | **[Marketing & Sales Enablement Intern](https://jobright.ai/jobs/info/69fe31224b9bbf21744af01b?utm_campaign=1065&utm_source=git)** | Norman, OK | Hybrid | May 08 |
 | **[Arch Events](http://arch-events.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57ca4b9bbf21744b0c43?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | May 08 |
 | **[Net Health](https://www.nethealth.com)** | **[Summer Marketing Intern (Intern) - REMOTE](https://jobright.ai/jobs/info/69feb5a51161630dd3b023db?utm_campaign=1065&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Remote | May 08 |
-| **[BIC](http://bicworld.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe2ec36bcf315dc8f553c7?utm_campaign=1065&utm_source=git)** | New York | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
