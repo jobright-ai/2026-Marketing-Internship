@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/69ff398cc2ffb31f4535e29f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 09 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Publicist Internship](https://jobright.ai/jobs/info/69ff2d76a0eddc08c2397aed?utm_campaign=1065&utm_source=git)** | Miami, FL, US | On Site | May 09 |
 | **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/69c71ae6e565c26a70025d42?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 09 |
 | **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcasters](https://jobright.ai/jobs/info/69e271633770bd5361cd85d6?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | May 09 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Corporate Communications](https://jobright.ai/jobs/info/69704c15587dfa0bb55dd497?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 09 |
@@ -147,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Net Health](https://www.nethealth.com)** | **[Summer Marketing Intern (Intern) - REMOTE](https://jobright.ai/jobs/info/69feb5a51161630dd3b023db?utm_campaign=1065&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Remote | May 08 |
 | **[BIC](http://bicworld.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe2ec36bcf315dc8f553c7?utm_campaign=1065&utm_source=git)** | New York | On Site | May 08 |
 | **[Waco Family Medicine](https://wacofamilymedicine.org)** | **[Summer Internship - Marketing & Communications (3763)](https://jobright.ai/jobs/info/69fe2e8e52e2b44f558aef9b?utm_campaign=1065&utm_source=git)** | Central - Waco, TX 76707 | On Site | May 08 |
-| **[NetworkX.ai](https://www.networkx.ai)** | **[Social Media Marketing - Internship](https://jobright.ai/jobs/info/69fe2ce452e2b44f558aef1d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 08 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Social Media](https://jobright.ai/jobs/info/69fe2c8b7714cd50b90feaa8?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69fe2b347714cd50b90fe982?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, US | On Site | May 08 |
 | ↳ | **[Marketing Analysis Intern](https://jobright.ai/jobs/info/69fe2b2bf363bc4dc339bffc?utm_campaign=1065&utm_source=git)** | Portage, MI, US | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Operations Intern (Summer)](https://jobright.ai/jobs/info/69fe2b0752e2b44f558aed92?utm_campaign=1065&utm_source=git)** | Chelmsford, MA, US | On Site | May 08 |
 | ↳ | **[Verbal Branding Intern](https://jobright.ai/jobs/info/69fe2a5a7714cd50b90fe8aa?utm_campaign=1065&utm_source=git)** | Austin, TX, US | Hybrid | May 08 |
 | ↳ | **[Intern - Brand & Shared Services](https://jobright.ai/jobs/info/69fe2a444b9bbf21744aebf2?utm_campaign=1065&utm_source=git)** | Charlotte, NC, US | On Site | May 08 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[Marketing & Research Summer 2026 Intern -New York](https://jobright.ai/jobs/info/69b5200f3b74eb1e2c82bcdb?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
