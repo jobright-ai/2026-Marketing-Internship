@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69fe70dd4b9bbf21744b19e3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | Remote | May 08 |
+| **[BMW Group US](http://www.bmwusa.com)** | **[Intern, Network Development & Industry Relations](https://jobright.ai/jobs/info/69fe70014b9bbf21744b19b7?utm_campaign=1065&utm_source=git)** | Woodcliff Lake, New, US | Hybrid | May 08 |
+| **[The Azure Agency](http://www.theazureagency.com)** | **[Social Media & PR Intern](https://jobright.ai/jobs/info/69fe6ac84b9bbf21744b183d?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Remote | May 08 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/69fe6ac84b9bbf21744b183b?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | May 08 |
+| **[Crossover Health](http://crossoverhealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe6a8b4b9bbf21744b17fb?utm_campaign=1065&utm_source=git)** | San Clemente, California, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Marketing Intern, Oncology Business Unit (Summer with Extension Opportunity)](https://jobright.ai/jobs/info/69fe65f24b9bbf21744b14b6?utm_campaign=1065&utm_source=git)** | Gaithersburg, MD, US | Hybrid | May 08 |
 | ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69fe65f04b9bbf21744b14ad?utm_campaign=1065&utm_source=git)** | CT, US | Hybrid | May 08 |
 | ↳ | **[2026 Summer Intern: Strategic Outreach](https://jobright.ai/jobs/info/69fe65c9ad691a11f34ed93b?utm_campaign=1065&utm_source=git)** | DC, US | Hybrid | May 08 |
@@ -67,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Shmoody](http://www.shmoody.com)** | **[Marketing & Content Creation Intern](https://jobright.ai/jobs/info/69fe60c67714cd50b91008ba?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 08 |
 | **[TSIB](https://www.tsibinc.com)** | **[MK Intern - Marketing (4 months)](https://jobright.ai/jobs/info/69fe5f55ad691a11f34ed49c?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | May 08 |
 | **[Aki Lashes](http://www.akilashes.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fe57dcf363bc4dc339dffc?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | May 08 |
-| **[Tenpo](tenpo.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fe57d9ad691a11f34ed398?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | May 08 |
 | **[Mindr](https://mindrco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe4cc5f363bc4dc339ddbb?utm_campaign=1065&utm_source=git)** | Remote, USA | Remote | May 08 |
 | **[MCM WORLDWIDE](https://us.mcmworldwide.com/)** | **[Intern, Martketing](https://jobright.ai/jobs/info/69fe4c7a7714cd50b910042f?utm_campaign=1065&utm_source=git)** | New York,NY,US | On Site | May 08 |
 | **[Refugees International](https://www.refugeesinternational.org/)** | **[2026 Summer Intern: Strategic Outreach](https://jobright.ai/jobs/info/69fe4c40f363bc4dc339dd89?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 08 |
@@ -95,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Ann Arbor Hands-On Museum](https://www.aahom.org/)** | **[Summer Marketing Internship](https://jobright.ai/jobs/info/69fe39127714cd50b90fee63?utm_campaign=1065&utm_source=git)** | Detroit Metro | On Site | May 08 |
 | **[HighFive Healthcare](https://www.high5health.com)** | **[Part-time Marketing Internship](https://jobright.ai/jobs/info/69fe342f7714cd50b90fedb0?utm_campaign=1065&utm_source=git)** | Birmingham,AL,US | On Site | May 08 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Seasonal Marketing Intern](https://jobright.ai/jobs/info/69fe314b7714cd50b90fecf0?utm_campaign=1065&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | May 08 |
-| **[Violetta Group](https://violettagroup.com)** | **[Public Relations Intern - Fashion, Beauty & Lifestyle](https://jobright.ai/jobs/info/69fe31267714cd50b90fec9d?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | May 08 |
 | **[PCI Energy Solutions](https://www.pcienergysolutions.com)** | **[Marketing & Sales Enablement Intern](https://jobright.ai/jobs/info/69fe31224b9bbf21744af01b?utm_campaign=1065&utm_source=git)** | Norman, OK | Hybrid | May 08 |
 | **[Arch Events](http://arch-events.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57ca4b9bbf21744b0c43?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | May 08 |
 | **[BIC](http://bicworld.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe2ec36bcf315dc8f553c7?utm_campaign=1065&utm_source=git)** | New York | On Site | May 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Youth Programs Marketing](https://jobright.ai/jobs/info/69c55f0183ea553769fc92e1?utm_campaign=1065&utm_source=git)** | Harrison, NJ | On Site | May 08 |
 | **[IG Gestion de patrimoine](https://www.ig.ca/fr)** | **[Fall Intern 2026 - Quebec Strategy & Planning](https://jobright.ai/jobs/info/69fdeffaf363bc4dc339a8d0?utm_campaign=1065&utm_source=git)** | Quebec | Hybrid | May 08 |
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Fashion Marketing Internship in Paris.](https://jobright.ai/jobs/info/69fde31b7714cd50b90fc533?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | May 08 |
-| **[Brio Water Technology](https://briowt.com)** | **[eCommerce Intern (Rotational Program)](https://jobright.ai/jobs/info/69fc340f4ab6391714fd41a9?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | May 08 |
-| **[Eon.io](https://eon.io)** | **[Marketing Ops & AI Content Intern (Part-time)](https://jobright.ai/jobs/info/69e635ace0cd471b2f12414f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | May 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (Brand Ads) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/698c607378b4502f12a2e728?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
