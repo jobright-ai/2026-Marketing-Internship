@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/69c71ae6e565c26a70025d42?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 09 |
 | **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcasters](https://jobright.ai/jobs/info/69e271633770bd5361cd85d6?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | May 09 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Corporate Communications](https://jobright.ai/jobs/info/69704c15587dfa0bb55dd497?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 09 |
 | **[Tombras](http://tombras.com)** | **[SEO Intern](https://jobright.ai/jobs/info/69fc346f2275c9640f52c881?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | May 09 |
 | **[Getinge](https://www.getinge.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c6e028aa3c2c1995e12e20?utm_campaign=1065&utm_source=git)** | Wayne, NJ | Remote | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Asi Sports](https://jobright.ai/jobs/info/69fed540d0dc596b8d11a4da?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
 | **[AARP](http://www.aarp.org)** | **[Marketing Analytics Intern (Summer)](https://jobright.ai/jobs/info/6998b827ce78e77b4fdd4e76?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | May 08 |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Merchandising Summer Internship 2026](https://jobright.ai/jobs/info/69ce72d9cdb525785fb9786f?utm_campaign=1065&utm_source=git)** | Egg Harbor, NJ | On Site | May 08 |
 | **[The St. James](https://www.thestjames.com/)** | **[Sports Marketing & Social Media Intern (Spring 2026)  (2029)](https://jobright.ai/jobs/info/69febcc61161630dd3b0420b?utm_campaign=1065&utm_source=git)** | Springfield Flagship - Springfield, VA 22151 | On Site | May 08 |
 | **[Bolder Adventure Park](http://www.BolderPark.com)** | **[Organic Media Internship](https://jobright.ai/jobs/info/69febc8d373fc1347f2d0ae4?utm_campaign=1065&utm_source=git)** | Legal Address - Grand Prairie, TX 75052 | On Site | May 08 |
 | **[Duluth Entertainment Convention Center](https://decc.org/)** | **[Associate-Level Internship - DECC Marketing](https://jobright.ai/jobs/info/69febc7a1161630dd3b04051?utm_campaign=1065&utm_source=git)** | Duluth Entertainment Convention Center - Duluth, MN 55802 | On Site | May 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Verbal Branding Intern](https://jobright.ai/jobs/info/69fe2a5a7714cd50b90fe8aa?utm_campaign=1065&utm_source=git)** | Austin, TX, US | Hybrid | May 08 |
 | ↳ | **[Intern - Brand & Shared Services](https://jobright.ai/jobs/info/69fe2a444b9bbf21744aebf2?utm_campaign=1065&utm_source=git)** | Charlotte, NC, US | On Site | May 08 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Marketing & Research Summer 2026 Intern -New York](https://jobright.ai/jobs/info/69b5200f3b74eb1e2c82bcdb?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 08 |
-| **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Global Events](https://jobright.ai/jobs/info/69fe21307714cd50b90fe54e?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 08 |
-| **[Pennsylvania Music Preservation Society](https://pamusicsociety.org/)** | **[Music Industry Public Relations Intern](https://jobright.ai/jobs/info/69fe209f7714cd50b90fe53c?utm_campaign=1065&utm_source=git)** | Lehigh, PA | On Site | May 08 |
-| **[MCA](http://www.marcomcontentbyashley.com)** | **[Content Marketing Writer Intern](https://jobright.ai/jobs/info/69fe209f7714cd50b90fe52d?utm_campaign=1065&utm_source=git)** | North Canton, OH | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
