@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/69fe88bc7714cd50b910190a?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Integrated Marketing Intern, Pets](https://jobright.ai/jobs/info/69fe82cc52e2b44f558b2296?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, US | Hybrid | May 08 |
+| ↳ | **[Intern, Network Development & Industry Relations](https://jobright.ai/jobs/info/69fe82b37714cd50b9101789?utm_campaign=1065&utm_source=git)** | Woodcliff Lake, NJ, US | Hybrid | May 08 |
+| ↳ | **[PR & Media Communications Intern](https://jobright.ai/jobs/info/69fe829e4b9bbf21744b1f2c?utm_campaign=1065&utm_source=git)** | FL, US | On Site | May 08 |
+| ↳ | **[Intern, Social Media](https://jobright.ai/jobs/info/69fe828ff363bc4dc339f1b2?utm_campaign=1065&utm_source=git)** | NY, US | Hybrid | May 08 |
+| ↳ | **[Influencer Marketing & PR Intern](https://jobright.ai/jobs/info/69fe82886bcf315dc8f5812c?utm_campaign=1065&utm_source=git)** | Port Washington, NY, US | On Site | May 08 |
 | **[NORDIKeau inc.](https://www.nordikeau.com)** | **[Stagiaire en communication](https://jobright.ai/jobs/info/69fe81db4b9bbf21744b1ec2?utm_campaign=1065&utm_source=git)** | Joliette, Quebec, Canada | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Marketing / EAG Laboratories](https://jobright.ai/jobs/info/69fe7e8652e2b44f558b2066?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, US | Hybrid | May 08 |
 | **[Syracuse Events Org](https://www.syracuseevents.org)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/69fe7bdef363bc4dc339ee56?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Recruitment Marketing Intern (Remote)](https://jobright.ai/jobs/info/69fe0efead691a11f34eb7cd?utm_campaign=1065&utm_source=git)** | United States | Remote | May 08 |
 | ↳ | **[Retail Marketing Internship](https://jobright.ai/jobs/info/69fe0e326bcf315dc8f5465d?utm_campaign=1065&utm_source=git)** | Mooresville, NC, US | On Site | May 08 |
 | **[Commvault](https://www.commvault.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69fe0d484b9bbf21744ae0c6?utm_campaign=1065&utm_source=git)** | United States | Remote | May 08 |
-| **[AMW GROUP](https://amw-group.in)** | **[Publicist Internship at AMW Group](https://jobright.ai/jobs/info/69fe0ce56bcf315dc8f54556?utm_campaign=1065&utm_source=git)** | Miami, United States | On Site | May 08 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing (Bay Area)](https://jobright.ai/jobs/info/69fe0cc4ad691a11f34eb6a8?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA, US | On Site | May 08 |
-| **[Tempur Sealy International](https://www.tempursealy.com)** | **[Market Analytics Intern](https://jobright.ai/jobs/info/69fe0c434b9bbf21744ae033?utm_campaign=1065&utm_source=git)** | Lexington, KY, US | On Site | May 08 |
-| **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[M&E Event Planner Intern](https://jobright.ai/jobs/info/69fe0c2e52e2b44f558ae0de?utm_campaign=1065&utm_source=git)** | United States, US | Hybrid | May 08 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[SE Chaplaincy Communications Intern](https://jobright.ai/jobs/info/69fe0c2a7714cd50b90fdcb7?utm_campaign=1065&utm_source=git)** | UR Main Campus, US | On Site | May 08 |
-| **[Skyline Chili](https://www.skylinechili.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe0bbd6bcf315dc8f5439a?utm_campaign=1065&utm_source=git)** | Fairfield, OH | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
