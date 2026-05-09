@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Asi Sports](https://jobright.ai/jobs/info/69fed540d0dc596b8d11a4da?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
 | **[The St. James](https://www.thestjames.com/)** | **[Sports Marketing & Social Media Intern (Spring 2026)  (2029)](https://jobright.ai/jobs/info/69febcc61161630dd3b0420b?utm_campaign=1065&utm_source=git)** | Springfield Flagship - Springfield, VA 22151 | On Site | May 08 |
 | **[Bolder Adventure Park](http://www.BolderPark.com)** | **[Organic Media Internship](https://jobright.ai/jobs/info/69febc8d373fc1347f2d0ae4?utm_campaign=1065&utm_source=git)** | Legal Address - Grand Prairie, TX 75052 | On Site | May 08 |
 | **[Duluth Entertainment Convention Center](https://decc.org/)** | **[Associate-Level Internship - DECC Marketing](https://jobright.ai/jobs/info/69febc7a1161630dd3b04051?utm_campaign=1065&utm_source=git)** | Duluth Entertainment Convention Center - Duluth, MN 55802 | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MCA](http://www.marcomcontentbyashley.com)** | **[Content Marketing Writer Intern](https://jobright.ai/jobs/info/69fe209f7714cd50b90fe52d?utm_campaign=1065&utm_source=git)** | North Canton, OH | Hybrid | May 08 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Political Campaign Intern (Volunteer)](https://jobright.ai/jobs/info/69fe207052e2b44f558ae9d7?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Hybrid | May 08 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Marketing](https://jobright.ai/jobs/info/69fe2035f363bc4dc339bb06?utm_campaign=1065&utm_source=git)** | Austin, TX, US | Hybrid | May 08 |
-| **[Gearbox Technologies LLC](https://gearboxtechnologies.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe44606bcf315dc8f561fb?utm_campaign=1065&utm_source=git)** | Auburn, AL | Remote | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
