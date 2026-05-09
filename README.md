@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAE Systems](http://www.baesystems.com)** | **[Communications Intern 2026](https://jobright.ai/jobs/info/69ff45c6238f143e83524db5?utm_campaign=1065&utm_source=git)** | Sterling Heights Michigan | On Site | May 09 |
+| **[Forensic Times](https://forensictimes.com/)** | **[Campus Ambassador -Intern](https://jobright.ai/jobs/info/69ff40be238f143e83524b58?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
+| **[Catalyst](https://catalystintro.com/)** | **[Founding Community Relations Intern](https://jobright.ai/jobs/info/69ff40be238f143e83524b5b?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 09 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/69ff398cc2ffb31f4535e29f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Publicist Internship](https://jobright.ai/jobs/info/69ff2d76a0eddc08c2397aed?utm_campaign=1065&utm_source=git)** | Miami, FL, US | On Site | May 09 |
 | **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/69c71ae6e565c26a70025d42?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 09 |
@@ -64,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Corporate Communications](https://jobright.ai/jobs/info/69704c15587dfa0bb55dd497?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 09 |
 | **[Tombras](http://tombras.com)** | **[SEO Intern](https://jobright.ai/jobs/info/69fc346f2275c9640f52c881?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | May 09 |
 | **[Getinge](https://www.getinge.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c6e028aa3c2c1995e12e20?utm_campaign=1065&utm_source=git)** | Wayne, NJ | Remote | May 09 |
+| **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e32fd42f28653593078e6d?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Asi Sports](https://jobright.ai/jobs/info/69fed540d0dc596b8d11a4da?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
 | **[AARP](http://www.aarp.org)** | **[Marketing Analytics Intern (Summer)](https://jobright.ai/jobs/info/6998b827ce78e77b4fdd4e76?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | May 08 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Merchandising Summer Internship 2026](https://jobright.ai/jobs/info/69ce72d9cdb525785fb9786f?utm_campaign=1065&utm_source=git)** | Egg Harbor, NJ | On Site | May 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/69fe2b347714cd50b90fe982?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, US | On Site | May 08 |
 | ↳ | **[Marketing Analysis Intern](https://jobright.ai/jobs/info/69fe2b2bf363bc4dc339bffc?utm_campaign=1065&utm_source=git)** | Portage, MI, US | On Site | May 08 |
 | ↳ | **[Intern, Global Events](https://jobright.ai/jobs/info/69fe2b266bcf315dc8f5514e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | May 08 |
-| ↳ | **[MARKETING AND COMMUNICATION INTERN](https://jobright.ai/jobs/info/69fe2b11f363bc4dc339bfc7?utm_campaign=1065&utm_source=git)** | Alton, IL, US | Hybrid | May 08 |
-| ↳ | **[Marketing Operations Intern (Summer)](https://jobright.ai/jobs/info/69fe2b0752e2b44f558aed92?utm_campaign=1065&utm_source=git)** | Chelmsford, MA, US | On Site | May 08 |
-| ↳ | **[Verbal Branding Intern](https://jobright.ai/jobs/info/69fe2a5a7714cd50b90fe8aa?utm_campaign=1065&utm_source=git)** | Austin, TX, US | Hybrid | May 08 |
-| ↳ | **[Intern - Brand & Shared Services](https://jobright.ai/jobs/info/69fe2a444b9bbf21744aebf2?utm_campaign=1065&utm_source=git)** | Charlotte, NC, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
