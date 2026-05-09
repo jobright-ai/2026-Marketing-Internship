@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcasters](https://jobright.ai/jobs/info/69e271633770bd5361cd85d6?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | May 09 |
 | **[Tombras](http://tombras.com)** | **[SEO Intern](https://jobright.ai/jobs/info/69fc346f2275c9640f52c881?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | May 09 |
 | **[Getinge](https://www.getinge.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69c6e028aa3c2c1995e12e20?utm_campaign=1065&utm_source=git)** | Wayne, NJ | Remote | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Asi Sports](https://jobright.ai/jobs/info/69fed540d0dc596b8d11a4da?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Content Development Intern](https://jobright.ai/jobs/info/69febb6351699d6e54ef3e0c?utm_campaign=1065&utm_source=git)** | Windsor Mill, MD 21224 | Remote | May 08 |
 | **[Louisville Urban League (LUL)](http://www.lul.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69febb4e15859e57591cf3f4?utm_campaign=1065&utm_source=git)** | 1535 W. BROADWAY - LOUISVILLE, KY 40203 | On Site | May 08 |
 | **[Swedish Falls LLC](www.swedishfalls.com)** | **[International trade internship](https://jobright.ai/jobs/info/69feba92373fc1347f2d084c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 08 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Communications Intern 2026](https://jobright.ai/jobs/info/69feb95c1161630dd3b03385?utm_campaign=1065&utm_source=git)** | Sterling Heights Michigan | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer Marketing Intern - Paid](https://jobright.ai/jobs/info/69feb70251699d6e54ef3c7b?utm_campaign=1065&utm_source=git)** | Hanover, PA, US | On Site | May 08 |
 | ↳ | **[Part-time Marketing Internship](https://jobright.ai/jobs/info/69feb6d5373fc1347f2d06d9?utm_campaign=1065&utm_source=git)** | AL, US | On Site | May 08 |
 | ↳ | **[Brand Marketing Internship](https://jobright.ai/jobs/info/69feb6b7373fc1347f2d06c1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | Hybrid | May 08 |
