@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PURPLE](https://purplepr.com)** | **[VIP & Influencer Intern - Summer](https://jobright.ai/jobs/info/69ff4f09fa1aa73213d8ba26?utm_campaign=1065&utm_source=git)** | PURPLE New York | On Site | May 09 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/69ff4e62fa1aa73213d8ba1c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Communications Intern 2026](https://jobright.ai/jobs/info/69ff45c6238f143e83524db5?utm_campaign=1065&utm_source=git)** | Sterling Heights Michigan | On Site | May 09 |
 | **[Forensic Times](https://forensictimes.com/)** | **[Campus Ambassador -Intern](https://jobright.ai/jobs/info/69ff40be238f143e83524b58?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
 | **[Catalyst](https://catalystintro.com/)** | **[Founding Community Relations Intern](https://jobright.ai/jobs/info/69ff40be238f143e83524b5b?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 09 |
-| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/69ff398cc2ffb31f4535e29f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Publicist Internship](https://jobright.ai/jobs/info/69ff2d76a0eddc08c2397aed?utm_campaign=1065&utm_source=git)** | Miami, FL, US | On Site | May 09 |
 | **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/69c71ae6e565c26a70025d42?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 09 |
 | **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcasters](https://jobright.ai/jobs/info/69e271633770bd5361cd85d6?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | May 09 |
@@ -117,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Social Commerce Club](https://socialcommerceclub.com/)** | **[Community Manager](https://jobright.ai/jobs/info/69fe6372f363bc4dc339e5b5?utm_campaign=1065&utm_source=git)** | Remote (Canada) | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Martketing](https://jobright.ai/jobs/info/69fe62877714cd50b9100a23?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing (4 months)](https://jobright.ai/jobs/info/69fe62824b9bbf21744b11c0?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | May 08 |
-| **[Shmoody](http://www.shmoody.com)** | **[Marketing & Content Creation Intern](https://jobright.ai/jobs/info/69fe60c67714cd50b91008ba?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 08 |
 | **[TSIB](https://www.tsibinc.com)** | **[MK Intern - Marketing (4 months)](https://jobright.ai/jobs/info/69fe5f55ad691a11f34ed49c?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | May 08 |
 | **[BridgeBio](http://bridgebio.com)** | **[Social Media Newsroom Intern](https://jobright.ai/jobs/info/69cdee9e398fb071abf7e342?utm_campaign=1065&utm_source=git)** | Palo Alto County, IA | Hybrid | May 08 |
 | **[Aki Lashes](http://www.akilashes.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fe57dcf363bc4dc339dffc?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | May 08 |
