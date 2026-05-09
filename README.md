@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fusion100](http://Fusion100co.com)** | **[Tiktok and Social Media Intern](https://jobright.ai/jobs/info/69ff8d2874b5407dd4675aca?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 09 |
+| **[CoPatible](https://copatible.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ff9d2a238f143e8352641f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 09 |
+| **[NourishDoc](https://www.nourishdoc.com/)** | **[Social Media and Community Intern](https://jobright.ai/jobs/info/69ff9504fa1aa73213d8c8c7?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | May 09 |
+| **[LUXY Ride](https://luxyride.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ff94a3c4b08448a0b18ba9?utm_campaign=1065&utm_source=git)** | Shelton, CT | On Site | May 09 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Client Marketing](https://jobright.ai/jobs/info/69e80c7d0a6e09555302e04c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
 | **[Samba TV](http://www.samba.tv)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c72abb1b5ad0288738acee?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 09 |
 | **[Risewell Homes](http://www.risewellhomes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69e2cdfc5c44d4710fe26f38?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | May 09 |
-| ↳ | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69e2dbbd5c44d4710fe27366?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 09 |
+| **[BHcare](https://bhcare.org)** | **[Intern- Social Media](https://jobright.ai/jobs/info/69bdcc12b1060245628306a2?utm_campaign=1065&utm_source=git)** | North Haven, CT | On Site | May 09 |
+| **[Risewell Homes](http://www.risewellhomes.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69e2dbbd5c44d4710fe27366?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 09 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/69ff66a474b5407dd46750f9?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 09 |
 | **[University Partners](http://www.universitypartners.com)** | **[Social Media Intern - Student Housing](https://jobright.ai/jobs/info/69ff5e01238f143e835253e0?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | May 09 |
 | **[HypeOn](https://hypeon.ai/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/69ff5d77fa1aa73213d8bb1b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
@@ -115,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Syracuse Events Org](https://www.syracuseevents.org)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/69fe7bb7ad691a11f34eded2?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 08 |
 | **[Eurofins](http://eurofins.com)** | **[Intern, Marketing / EAG Laboratories](https://jobright.ai/jobs/info/69fe777a6bcf315dc8f57d00?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, USA | Hybrid | May 08 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Communications and Marketing](https://jobright.ai/jobs/info/69fe746d7714cd50b91012b7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | May 08 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/69fe70dd4b9bbf21744b19e3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | Remote | May 08 |
 | **[BMW Group US](http://www.bmwusa.com)** | **[Intern, Network Development & Industry Relations](https://jobright.ai/jobs/info/69fe70014b9bbf21744b19b7?utm_campaign=1065&utm_source=git)** | Woodcliff Lake, New, US | Hybrid | May 08 |
 | **[GoodRx](https://www.goodrx.com)** | **[Integrated Marketing Intern, Pets](https://jobright.ai/jobs/info/69feb31a1161630dd3b01d48?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, US | Hybrid | May 08 |
 | **[The Azure Agency](http://www.theazureagency.com)** | **[Social Media & PR Intern](https://jobright.ai/jobs/info/69fe6ac84b9bbf21744b183d?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Remote | May 08 |
@@ -124,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Marketing Intern, Oncology Business Unit (Summer with Extension Opportunity)](https://jobright.ai/jobs/info/69fe65f24b9bbf21744b14b6?utm_campaign=1065&utm_source=git)** | Gaithersburg, MD, US | Hybrid | May 08 |
 | ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69fe65f04b9bbf21744b14ad?utm_campaign=1065&utm_source=git)** | CT, US | Hybrid | May 08 |
 | ↳ | **[2026 Summer Intern: Strategic Outreach](https://jobright.ai/jobs/info/69fe65c9ad691a11f34ed93b?utm_campaign=1065&utm_source=git)** | DC, US | Hybrid | May 08 |
+| **[Storage Solutions - A Jungheinrich Company](https://storage-solutions.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f001ad16b2612c2a12d1dc?utm_campaign=1065&utm_source=git)** | Westfield, IN | On Site | May 08 |
 | **[Glance](https://glance.com)** | **[Intern - Marketing (San Mateo)](https://jobright.ai/jobs/info/69fe647d52e2b44f558b16ca?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | May 08 |
 | **[Social Commerce Club](https://socialcommerceclub.com/)** | **[Community Manager](https://jobright.ai/jobs/info/69fe6372f363bc4dc339e5b5?utm_campaign=1065&utm_source=git)** | Remote (Canada) | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Martketing](https://jobright.ai/jobs/info/69fe62877714cd50b9100a23?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Next Phase Enterprises](https://nextphase-enterprises.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe398b6bcf315dc8f55756?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | May 08 |
 | **[R. J. Corman Railroad Group, LLC](http://www.rjcorman.com)** | **[Communications Intern (Nicholasville, KY)](https://jobright.ai/jobs/info/69fe39677714cd50b90fee99?utm_campaign=1065&utm_source=git)** | Nicholasville, Kentucky, United States | On Site | May 08 |
 | **[Associated Grocers Baton Rouge](https://www.agbr.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69fe3964f363bc4dc339c4da?utm_campaign=1065&utm_source=git)** | Baton Rouge, Louisiana, United States | On Site | May 08 |
-| **[Dashing Diva](https://dashingdiva.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/69fe393252e2b44f558af2a8?utm_campaign=1065&utm_source=git)** | Port Washington, NY | On Site | May 08 |
-| **[HighFive Healthcare](https://www.high5health.com)** | **[Part-time Marketing Internship](https://jobright.ai/jobs/info/69fe342f7714cd50b90fedb0?utm_campaign=1065&utm_source=git)** | Birmingham,AL,US | On Site | May 08 |
-| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Seasonal Marketing Intern](https://jobright.ai/jobs/info/69fe314b7714cd50b90fecf0?utm_campaign=1065&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
