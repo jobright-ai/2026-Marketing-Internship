@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a00c28074b5407dd4679d96?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 10 |
+| **[Danger Zone Marketing](https://aceyourbusiness.com)** | **[Paid Marketing Internship](https://jobright.ai/jobs/info/6a00c230fa1aa73213d90a0d?utm_campaign=1065&utm_source=git)** | Knoxville, TN | Hybrid | May 10 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a00b44ac2ffb31f45363805?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 10 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a00b449c2ffb31f453637fd?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00b447fa1aa73213d908a8?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 10 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00a051c4b08448a0b1c521?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 10 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a00a03afa1aa73213d9065f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 10 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a009ffc74b5407dd4679a46?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 10 |
-| **[Pippy](https://linktr.ee/pippyedu)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a0097fc74b5407dd46798ee?utm_campaign=1065&utm_source=git)** | United States | Remote | May 10 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Media Ops & Analytics Intern](https://jobright.ai/jobs/info/69e295a53770bd5361cd91db?utm_campaign=1065&utm_source=git)** | United States | Remote | May 10 |
 | ↳ | **[Paid Media Intern](https://jobright.ai/jobs/info/69f01315825a315d7ca30e2f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 10 |
 | **[Marucci Sports](http://maruccisports.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfe0a4b0fa35a707801cd?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Social Media](https://jobright.ai/jobs/info/69fe828ff363bc4dc339f1b2?utm_campaign=1065&utm_source=git)** | NY, US | Hybrid | May 08 |
 | ↳ | **[Influencer Marketing & PR Intern](https://jobright.ai/jobs/info/69fe82886bcf315dc8f5812c?utm_campaign=1065&utm_source=git)** | Port Washington, NY, US | On Site | May 08 |
 | **[NORDIKeau inc.](https://www.nordikeau.com)** | **[Stagiaire en communication](https://jobright.ai/jobs/info/69fe81db4b9bbf21744b1ec2?utm_campaign=1065&utm_source=git)** | Joliette, Quebec, Canada | Hybrid | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Marketing / EAG Laboratories](https://jobright.ai/jobs/info/69fe7e8652e2b44f558b2066?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
