@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Alarm.com](http://www.alarm.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a00077ac2ffb31f45361087?utm_campaign=1065&utm_source=git)** | Liberty Lake, Washington | On Site | May 09 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer 26)](https://jobright.ai/jobs/info/69ffef30c4b08448a0b19cdf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 09 |
 | **[Vibes Meet LLC](vibesmeet.com)** | **[BizOps Growth Intern (Creator & Event Partnerships)](https://jobright.ai/jobs/info/69ffe14d238f143e835270d3?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 09 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fb219a87a4820e6da854c2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffd6effa1aa73213d8d7ea?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | May 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe7be54b9bbf21744b1b63?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | May 08 |
 | **[Amplyfy](Amplyfyinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fbedbc3802c7621fd8de2d?utm_campaign=1065&utm_source=git)** | Woodbridge, NJ | On Site | May 08 |
 | **[Mindr](https://mindrco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe4cc5f363bc4dc339ddbb?utm_campaign=1065&utm_source=git)** | Remote, USA | Remote | May 08 |
+| **[MCM WORLDWIDE](https://us.mcmworldwide.com/)** | **[Intern, Martketing](https://jobright.ai/jobs/info/69fe4c7a7714cd50b910042f?utm_campaign=1065&utm_source=git)** | New York,NY,US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
