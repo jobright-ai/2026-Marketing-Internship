@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a00a60f238f143e83529f3d?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 10 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00a051c4b08448a0b1c521?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 10 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a00a03afa1aa73213d9065f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 10 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a009ffc74b5407dd4679a46?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 10 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a009f95fa1aa73213d90656?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 10 |
 | **[Pippy](https://linktr.ee/pippyedu)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a0097fc74b5407dd46798ee?utm_campaign=1065&utm_source=git)** | United States | Remote | May 10 |
 | **[Marucci Sports](http://maruccisports.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfe0a4b0fa35a707801cd?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | May 10 |
 | **[LXN Creative](http://LXNPhotography.com/)** | **[Technical SEO Intern (Unpaid / Career Coaching, Portrait Headshots, Reference Upon Successful Completion)](https://jobright.ai/jobs/info/6a003e9dfa1aa73213d8eabf?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Storage Solutions - A Jungheinrich Company](https://storage-solutions.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f001ad16b2612c2a12d1dc?utm_campaign=1065&utm_source=git)** | Westfield, IN | On Site | May 08 |
 | **[Glance](https://glance.com)** | **[Intern - Marketing (San Mateo)](https://jobright.ai/jobs/info/69fe647d52e2b44f558b16ca?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | May 08 |
 | **[Social Commerce Club](https://socialcommerceclub.com/)** | **[Community Manager](https://jobright.ai/jobs/info/69fe6372f363bc4dc339e5b5?utm_campaign=1065&utm_source=git)** | Remote (Canada) | Remote | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Martketing](https://jobright.ai/jobs/info/69fe62877714cd50b9100a23?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing (4 months)](https://jobright.ai/jobs/info/69fe62824b9bbf21744b11c0?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | May 08 |
-| **[TSIB](https://www.tsibinc.com)** | **[MK Intern - Marketing (4 months)](https://jobright.ai/jobs/info/69fe5f55ad691a11f34ed49c?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | May 08 |
-| **[BridgeBio](http://bridgebio.com)** | **[Social Media Newsroom Intern](https://jobright.ai/jobs/info/69cdee9e398fb071abf7e342?utm_campaign=1065&utm_source=git)** | Palo Alto County, IA | Hybrid | May 08 |
-| **[Get Engaged](https://getengagedmedia.com/)** | **[Internship](https://jobright.ai/jobs/info/689c8b4afaa4e875e8268c63?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
