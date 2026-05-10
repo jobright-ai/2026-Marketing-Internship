@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Scaled by Adarsh](https://www.linkedin.com/company/116894074)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ffa9f5a0eddc08c239a01c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
+| **[Electro](electrogum.com)** | **[TikTok Creator Outreach Intern](https://jobright.ai/jobs/info/69ffc5aafa1aa73213d8d4ab?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | May 09 |
+| ↳ | **[Athlete Partnerships Intern](https://jobright.ai/jobs/info/69ffc541a0eddc08c239a418?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | May 09 |
+| ↳ | **[NIL Athlete Outreach Intern](https://jobright.ai/jobs/info/69ffc530c4b08448a0b196c2?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | May 09 |
+| **[Ipsos](http://www.ipsos.com)** | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fa0eddc08c239a3ee?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | May 09 |
+| ↳ | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fc4b08448a0b19690?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | May 09 |
+| **[Eclipse Outdoor](https://eclipseoutdoor.com/)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/69ffc01aa0eddc08c239a3e5?utm_campaign=1065&utm_source=git)** | Middletown, NY | On Site | May 09 |
 | **[CoPatible](https://copatible.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ff9d2a238f143e8352641f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 09 |
 | **[LUXY Ride](https://luxyride.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ff94a3c4b08448a0b18ba9?utm_campaign=1065&utm_source=git)** | Shelton, CT | On Site | May 09 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Client Marketing](https://jobright.ai/jobs/info/69e80c7d0a6e09555302e04c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Standard Motor Products](http://www.smpcorp.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69c70a9caa3c2c1995e149b3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 08 |
 | **[Weidenhammer Systems Corp](http://www.hammer.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/69feb84a15859e57591cf30c?utm_campaign=1065&utm_source=git)** | Wyomissing, Pennsylvania | On Site | May 08 |
 | **[Smith Publicity, Inc.](https://www.smithpublicity.com)** | **[Publicity Intern](https://jobright.ai/jobs/info/69fe3c08ad691a11f34ec637?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ | Hybrid | May 08 |
-| **[Christian Professionals Network Worldwide](www.cpnworldwide.com)** | **[Marketing And Event Management Intern](https://jobright.ai/jobs/info/69fe3997ad691a11f34ec5f5?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | May 08 |
-| **[Dashing Diva](https://dashingdiva.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69fe3994ad691a11f34ec5e4?utm_campaign=1065&utm_source=git)** | Port Washington, NY | On Site | May 08 |
-| **[Next Phase Enterprises](https://nextphase-enterprises.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe398b6bcf315dc8f55756?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | May 08 |
-| **[R. J. Corman Railroad Group, LLC](http://www.rjcorman.com)** | **[Communications Intern (Nicholasville, KY)](https://jobright.ai/jobs/info/69fe39677714cd50b90fee99?utm_campaign=1065&utm_source=git)** | Nicholasville, Kentucky, United States | On Site | May 08 |
-| **[Associated Grocers Baton Rouge](https://www.agbr.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69fe3964f363bc4dc339c4da?utm_campaign=1065&utm_source=git)** | Baton Rouge, Louisiana, United States | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
