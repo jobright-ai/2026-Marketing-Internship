@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[TikTok Creator Outreach Intern](https://jobright.ai/jobs/info/69ffc5aafa1aa73213d8d4ab?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | May 09 |
 | ↳ | **[Athlete Partnerships Intern](https://jobright.ai/jobs/info/69ffc541a0eddc08c239a418?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | May 09 |
 | ↳ | **[NIL Athlete Outreach Intern](https://jobright.ai/jobs/info/69ffc530c4b08448a0b196c2?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | May 09 |
-| **[Ipsos](http://www.ipsos.com)** | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fa0eddc08c239a3ee?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | May 09 |
-| ↳ | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fc4b08448a0b19690?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | May 09 |
+| **[Ipsos](http://www.ipsos.com)** | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fc4b08448a0b19690?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | May 09 |
+| ↳ | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fa0eddc08c239a3ee?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | May 09 |
 | **[Eclipse Outdoor](https://eclipseoutdoor.com/)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/69ffc01aa0eddc08c239a3e5?utm_campaign=1065&utm_source=git)** | Middletown, NY | On Site | May 09 |
 | **[LUXY Ride](https://luxyride.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ff94a3c4b08448a0b18ba9?utm_campaign=1065&utm_source=git)** | Shelton, CT | On Site | May 09 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Gifting/PR Intern / Fall 2026](https://jobright.ai/jobs/info/69dd09d65356a60f40fec18a?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | May 09 |
