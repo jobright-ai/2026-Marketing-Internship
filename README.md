@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a0083dafa1aa73213d8fc93?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 10 |
 | **[LXN Creative](http://LXNPhotography.com/)** | **[Technical SEO Intern (Unpaid / Career Coaching, Portrait Headshots, Reference Upon Successful Completion)](https://jobright.ai/jobs/info/6a003e9dfa1aa73213d8eabf?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 10 |
 | **[GKIDS](http://www.gkidsfilms.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a00255ac4b08448a0b1a830?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
 | **[Montgomery Investment Technology, Inc.](http://www.fintools.com/)** | **[Marketing and Social Media Internship Spring 2026](https://jobright.ai/jobs/info/6a002349c4b08448a0b1a720?utm_campaign=1065&utm_source=git)** | Cinnaminson, NJ | On Site | May 09 |
@@ -143,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Advisory & Planning Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69e1812f40a62c1fa93b8bea?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | May 08 |
 | **[GoodRx](https://www.goodrx.com)** | **[Integrated Marketing Intern, Pets](https://jobright.ai/jobs/info/69feb31a1161630dd3b01d48?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, US | Hybrid | May 08 |
 | **[The Azure Agency](http://www.theazureagency.com)** | **[Social Media & PR Intern](https://jobright.ai/jobs/info/69fe6ac84b9bbf21744b183d?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Remote | May 08 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/69fe6ac84b9bbf21744b183b?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | May 08 |
 | **[Crossover Health](http://crossoverhealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe6a8b4b9bbf21744b17fb?utm_campaign=1065&utm_source=git)** | San Clemente, California, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Marketing Intern, Oncology Business Unit (Summer with Extension Opportunity)](https://jobright.ai/jobs/info/69fe65f24b9bbf21744b14b6?utm_campaign=1065&utm_source=git)** | Gaithersburg, MD, US | Hybrid | May 08 |
 | ↳ | **[Marketing Intern - Digital Content and Social Media](https://jobright.ai/jobs/info/69fe65f04b9bbf21744b14ad?utm_campaign=1065&utm_source=git)** | CT, US | Hybrid | May 08 |
