@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GKIDS](http://www.gkidsfilms.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a00255ac4b08448a0b1a830?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
+| **[Montgomery Investment Technology, Inc.](http://www.fintools.com/)** | **[Marketing and Social Media Internship Spring 2026](https://jobright.ai/jobs/info/6a002349c4b08448a0b1a720?utm_campaign=1065&utm_source=git)** | Cinnaminson, NJ | On Site | May 09 |
 | **[Alarm.com](http://www.alarm.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a00077ac2ffb31f45361087?utm_campaign=1065&utm_source=git)** | Liberty Lake, Washington | On Site | May 09 |
 | **[Vibes Meet LLC](vibesmeet.com)** | **[BizOps Growth Intern (Creator & Event Partnerships)](https://jobright.ai/jobs/info/69ffe14d238f143e835270d3?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 09 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fb219a87a4820e6da854c2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
@@ -104,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Asi Sports](https://jobright.ai/jobs/info/69fed540d0dc596b8d11a4da?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
 | **[AARP](http://www.aarp.org)** | **[Marketing Analytics Intern (Summer)](https://jobright.ai/jobs/info/6998b827ce78e77b4fdd4e76?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | May 08 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Merchandising Summer Internship 2026](https://jobright.ai/jobs/info/69ce72d9cdb525785fb9786f?utm_campaign=1065&utm_source=git)** | Egg Harbor, NJ | On Site | May 08 |
+| **[WD WIAN Test Company Page](https://www.linkedin.com/company/111537035)** | **[Intern - Multiple openings](https://jobright.ai/jobs/info/69fb132718b94b2515bdedad?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 08 |
 | **[The St. James](https://www.thestjames.com/)** | **[Sports Marketing & Social Media Intern (Spring 2026)  (2029)](https://jobright.ai/jobs/info/69febcc61161630dd3b0420b?utm_campaign=1065&utm_source=git)** | Springfield Flagship - Springfield, VA 22151 | On Site | May 08 |
 | **[Bolder Adventure Park](http://www.BolderPark.com)** | **[Organic Media Internship](https://jobright.ai/jobs/info/69febc8d373fc1347f2d0ae4?utm_campaign=1065&utm_source=git)** | Legal Address - Grand Prairie, TX 75052 | On Site | May 08 |
 | **[Duluth Entertainment Convention Center](https://decc.org/)** | **[Associate-Level Internship - DECC Marketing](https://jobright.ai/jobs/info/69febc7a1161630dd3b04051?utm_campaign=1065&utm_source=git)** | Duluth Entertainment Convention Center - Duluth, MN 55802 | On Site | May 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Get Engaged](https://getengagedmedia.com/)** | **[Internship](https://jobright.ai/jobs/info/689c8b4afaa4e875e8268c63?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 08 |
 | **[Aki Lashes](http://www.akilashes.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fe57dcf363bc4dc339dffc?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | May 08 |
 | **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe7be54b9bbf21744b1b63?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | May 08 |
-| **[Amplyfy](Amplyfyinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fbedbc3802c7621fd8de2d?utm_campaign=1065&utm_source=git)** | Woodbridge, NJ | On Site | May 08 |
-| **[Mindr](https://mindrco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fe4cc5f363bc4dc339ddbb?utm_campaign=1065&utm_source=git)** | Remote, USA | Remote | May 08 |
-| **[MCM WORLDWIDE](https://us.mcmworldwide.com/)** | **[Intern, Martketing](https://jobright.ai/jobs/info/69fe4c7a7714cd50b910042f?utm_campaign=1065&utm_source=git)** | New York,NY,US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
