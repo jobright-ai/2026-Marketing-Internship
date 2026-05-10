@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vibes Meet LLC](vibesmeet.com)** | **[BizOps Growth Intern (Creator & Event Partnerships)](https://jobright.ai/jobs/info/69ffe14d238f143e835270d3?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 09 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/69ffdb2cfa1aa73213d8d878?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 09 |
+| **[Ipsos in US](http://ipsos-na.com)** | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffd6effa1aa73213d8d7ea?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | May 09 |
+| ↳ | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffd6d6238f143e83526fdd?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | May 09 |
 | **[Electro](electrogum.com)** | **[TikTok Creator Outreach Intern](https://jobright.ai/jobs/info/69ffc5aafa1aa73213d8d4ab?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | May 09 |
 | ↳ | **[Athlete Partnerships Intern](https://jobright.ai/jobs/info/69ffc541a0eddc08c239a418?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | May 09 |
 | ↳ | **[NIL Athlete Outreach Intern](https://jobright.ai/jobs/info/69ffc530c4b08448a0b196c2?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | May 09 |
-| **[Ipsos](http://www.ipsos.com)** | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fa0eddc08c239a3ee?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | May 09 |
-| ↳ | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fc4b08448a0b19690?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | May 09 |
+| **[Ipsos](http://www.ipsos.com)** | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fc4b08448a0b19690?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | May 09 |
+| ↳ | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fa0eddc08c239a3ee?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | May 09 |
 | **[Eclipse Outdoor](https://eclipseoutdoor.com/)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/69ffc01aa0eddc08c239a3e5?utm_campaign=1065&utm_source=git)** | Middletown, NY | On Site | May 09 |
 | **[LUXY Ride](https://luxyride.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ff94a3c4b08448a0b18ba9?utm_campaign=1065&utm_source=git)** | Shelton, CT | On Site | May 09 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Client Marketing](https://jobright.ai/jobs/info/69e80c7d0a6e09555302e04c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Comms Intern - Summer 2026](https://jobright.ai/jobs/info/69fe4859ad691a11f34ecd67?utm_campaign=1065&utm_source=git)** | VA, US | On Site | May 08 |
 | ↳ | **[SE Chaplaincy Communications Intern](https://jobright.ai/jobs/info/69fe4852ad691a11f34ecd57?utm_campaign=1065&utm_source=git)** | US | On Site | May 08 |
 | ↳ | **[2026 Summer Internship - Marketing](https://jobright.ai/jobs/info/69fe4845ad691a11f34ecd3e?utm_campaign=1065&utm_source=git)** | Austin, TX, US | Hybrid | May 08 |
-| ↳ | **[M&E Event Planner Intern](https://jobright.ai/jobs/info/69fe48406bcf315dc8f5674b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 08 |
-| ↳ | **[Market Analytics Intern](https://jobright.ai/jobs/info/69fe48137714cd50b90ffeeb?utm_campaign=1065&utm_source=git)** | Lexington, KY, US | On Site | May 08 |
-| ↳ | **[MK Intern - Marketing (Bay Area)](https://jobright.ai/jobs/info/69fe47b56bcf315dc8f56579?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA, US | Hybrid | May 08 |
-| ↳ | **[Phone-Based Market Research Intern](https://jobright.ai/jobs/info/69fe468352e2b44f558b023f?utm_campaign=1065&utm_source=git)** | OH, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
