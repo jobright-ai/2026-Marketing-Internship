@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Paid Advertising Internship: Facebook, Instagram, Google Ad Words, Bing, TikTok](https://jobright.ai/jobs/info/6a01bc66238f143e8352d7bc?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 11 |
 | **[505 Swimming](https://www.505swimming.com)** | **[Social Media & Content Creation Intern (Part-Time)](https://jobright.ai/jobs/info/69fdb804ad691a11f34ea52e?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | May 10 |
-| **[ROID](https://www.roid.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a015d56fa1aa73213d92cc0?utm_campaign=1065&utm_source=git)** | Fullerton, CA | Hybrid | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Content & Digital Operations Internship](https://jobright.ai/jobs/info/6a0159db238f143e8352c359?utm_campaign=1065&utm_source=git)** | United States | Remote | May 10 |
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Consumer & Brand](https://jobright.ai/jobs/info/69fd13d6432a3c4da8e01abd?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 10 |
 | **[RedCoin Capital | 紅幣資本](https://redcoincapital.com/)** | **[Creative Growth & Media Intern - AI / Crypto](https://jobright.ai/jobs/info/6a014d01a0eddc08c239ee8d?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | May 10 |
@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[San Diego State University](http://www.sdsu.edu)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c7130f83ea553769fe0719?utm_campaign=1065&utm_source=git)** | SD Metro Area | Hybrid | May 10 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a00b44ac2ffb31f45363805?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 10 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a00b449c2ffb31f453637fd?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a00b447fa1aa73213d908ac?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00b447fa1aa73213d908a8?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 10 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a00b447fa1aa73213d908ac?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00b446fa1aa73213d908a4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00b446fa1aa73213d908a5?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 10 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a00b445fa1aa73213d9089c?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 10 |
