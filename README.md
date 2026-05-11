@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Paid Advertising Internship: Facebook, Instagram, Google Ad Words, Bing, TikTok](https://jobright.ai/jobs/info/6a01bc66238f143e8352d7bc?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 11 |
+| **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[PR Intern](https://jobright.ai/jobs/info/69e683219b6eb37e26f80c51?utm_campaign=1065&utm_source=git)** | Division 4, Subdivision E, Newfoundland and Labrador, Canada | On Site | May 11 |
+| **[BridgeBio](http://bridgebio.com)** | **[Social Media Newsroom Intern](https://jobright.ai/jobs/info/69cdee9e398fb071abf7e342?utm_campaign=1065&utm_source=git)** | Palo Alto County, IA | Hybrid | May 11 |
 | **[505 Swimming](https://www.505swimming.com)** | **[Social Media & Content Creation Intern (Part-Time)](https://jobright.ai/jobs/info/69fdb804ad691a11f34ea52e?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Content & Digital Operations Internship](https://jobright.ai/jobs/info/6a0159db238f143e8352c359?utm_campaign=1065&utm_source=git)** | United States | Remote | May 10 |
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Consumer & Brand](https://jobright.ai/jobs/info/69fd13d6432a3c4da8e01abd?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 10 |
@@ -78,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[San Diego State University](http://www.sdsu.edu)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c7130f83ea553769fe0719?utm_campaign=1065&utm_source=git)** | SD Metro Area | Hybrid | May 10 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a00b44ac2ffb31f45363805?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 10 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a00b449c2ffb31f453637fd?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00b447fa1aa73213d908a8?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 10 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a00b447fa1aa73213d908ac?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00b447fa1aa73213d908a8?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 10 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00b446fa1aa73213d908a4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00b446fa1aa73213d908a5?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 10 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a00b445fa1aa73213d9089c?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 10 |
@@ -118,8 +120,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffd6d6238f143e83526fdd?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | May 09 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Social Media Associate Intern](https://jobright.ai/jobs/info/69f1183f8d8d624381a9a60f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
 | **[El Pollo Loco, Inc.](http://www.elpolloloco.com/)** | **[INTERN, MARKETING - PR & EVENTS](https://jobright.ai/jobs/info/69faf64538179b6f1ae741c8?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | Hybrid | May 09 |
-| **[Ipsos](http://www.ipsos.com)** | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fc4b08448a0b19690?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | May 09 |
-| ↳ | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fa0eddc08c239a3ee?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | May 09 |
+| **[Ipsos](http://www.ipsos.com)** | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fa0eddc08c239a3ee?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | May 09 |
+| ↳ | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fc4b08448a0b19690?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | May 09 |
 | **[Eclipse Outdoor](https://eclipseoutdoor.com/)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/69ffc01aa0eddc08c239a3e5?utm_campaign=1065&utm_source=git)** | Middletown, NY | On Site | May 09 |
 | **[IB Flash](https://www.ibflash.com/)** | **[Investment Banking Growth Summer Analyst – AI Finance Startup](https://jobright.ai/jobs/info/6a01686bc2ffb31f453659b4?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
 | **[LUXY Ride](https://luxyride.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ff94a3c4b08448a0b18ba9?utm_campaign=1065&utm_source=git)** | Shelton, CT | On Site | May 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e32fd42f28653593078e6d?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Asi Sports](https://jobright.ai/jobs/info/69fed540d0dc596b8d11a4da?utm_campaign=1065&utm_source=git)** | NY, US | On Site | May 08 |
 | **[AARP](http://www.aarp.org)** | **[Marketing Analytics Intern (Summer)](https://jobright.ai/jobs/info/6998b827ce78e77b4fdd4e76?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | May 08 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Merchandising Summer Internship 2026](https://jobright.ai/jobs/info/69ce72d9cdb525785fb9786f?utm_campaign=1065&utm_source=git)** | Egg Harbor, NJ | On Site | May 08 |
-| **[WD WIAN Test Company Page](https://www.linkedin.com/company/111537035)** | **[Intern - Multiple openings](https://jobright.ai/jobs/info/69fb132718b94b2515bdedad?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
