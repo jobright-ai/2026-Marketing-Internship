@@ -78,10 +78,10 @@ For a complete list, click the following sortable link below:
 | **[San Diego State University](http://www.sdsu.edu)** | **[Event Coordinator (Event Conference Planner II)](https://jobright.ai/jobs/info/69c7130f83ea553769fe0719?utm_campaign=1065&utm_source=git)** | SD Metro Area | Hybrid | May 10 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a00b44ac2ffb31f45363805?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 10 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a00b449c2ffb31f453637fd?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a00b447fa1aa73213d908ac?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00b447fa1aa73213d908a8?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 10 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00b446fa1aa73213d908a4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a00b447fa1aa73213d908ac?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00b446fa1aa73213d908a5?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 10 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a00b446fa1aa73213d908a4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 10 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a00b445fa1aa73213d9089c?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 10 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a00b440c4b08448a0b1c76c?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 10 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a00b43aa0eddc08c239d1cb?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 10 |
@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffd6d6238f143e83526fdd?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | May 09 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Social Media Associate Intern](https://jobright.ai/jobs/info/69f1183f8d8d624381a9a60f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
 | **[El Pollo Loco, Inc.](http://www.elpolloloco.com/)** | **[INTERN, MARKETING - PR & EVENTS](https://jobright.ai/jobs/info/69faf64538179b6f1ae741c8?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | Hybrid | May 09 |
-| **[Ipsos](http://www.ipsos.com)** | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fa0eddc08c239a3ee?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | May 09 |
-| ↳ | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fc4b08448a0b19690?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | May 09 |
+| **[Ipsos](http://www.ipsos.com)** | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fc4b08448a0b19690?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | May 09 |
+| ↳ | **[Intern, Market Strategy and Understanding](https://jobright.ai/jobs/info/69ffc01fa0eddc08c239a3ee?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | May 09 |
 | **[Eclipse Outdoor](https://eclipseoutdoor.com/)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/69ffc01aa0eddc08c239a3e5?utm_campaign=1065&utm_source=git)** | Middletown, NY | On Site | May 09 |
 | **[IB Flash](https://www.ibflash.com/)** | **[Investment Banking Growth Summer Analyst – AI Finance Startup](https://jobright.ai/jobs/info/6a01686bc2ffb31f453659b4?utm_campaign=1065&utm_source=git)** | United States | Remote | May 09 |
 | **[LUXY Ride](https://luxyride.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ff94a3c4b08448a0b18ba9?utm_campaign=1065&utm_source=git)** | Shelton, CT | On Site | May 09 |
