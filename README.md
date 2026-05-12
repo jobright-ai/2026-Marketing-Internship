@@ -57,18 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vent Now](https://www.ventnow.ai/)** | **[Marketing - Internship](https://jobright.ai/jobs/info/6a0293a0bc4184089f22a579?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
+| **[BMO](http://www.bmo.com)** | **[Activation Intern, Summer 2026 (10 Weeks) Chicago, IL](https://jobright.ai/jobs/info/6a0287b1bc4184089f22a27a?utm_campaign=1065&utm_source=git)** | Chicago, IL, USA, US | On Site | May 11 |
 | **[NYC Factory Inc](https://www.nycfactoryinc.com)** | **[Social Media & Fashion Content Intern](https://jobright.ai/jobs/info/6a0286d2bc4184089f22a262?utm_campaign=1065&utm_source=git)** | North Bergen, NJ | Hybrid | May 11 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/6a0286a705484923de47637b?utm_campaign=1065&utm_source=git)** | Charleston, SC | Remote | May 11 |
-| **[Automatic app](https://testflight.apple.com/join/uqeaGKFT)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0286317c753c287f6df133?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern (Summer)](https://jobright.ai/jobs/info/6a027f91c2ffb31f4536d80c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 11 |
 | **[Truss](https://www.gettruss.io)** | **[Content Specialist](https://jobright.ai/jobs/info/6a027f8dfa1aa73213d9a760?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Athletic Communications Intern (Staff Wage)](https://jobright.ai/jobs/info/6a027b75c2ffb31f4536d7ae?utm_campaign=1065&utm_source=git)** | Charlottesville, Virginia, United States of America | On Site | May 11 |
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Shopper Marketing Internship](https://jobright.ai/jobs/info/6a0273c1fa1aa73213d9a41f?utm_campaign=1065&utm_source=git)** | Chicago, IL, 60632, United States | On Site | May 11 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/6a0271a6238f143e83534026?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | May 11 |
 | **[19 Media Group](https://19mediagroup.com/)** | **[Social Media Intern (non-paid)](https://jobright.ai/jobs/info/6a027196df52f1450d84ac54?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
-| **[FutureSelf™](https://www.future-self.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a027037c4b08448a0b26410?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
+| **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69d5afea366bb95ba5546c94?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
 | **[Bancs Media](https://www.bancsmedia.com/)** | **[Marketing & Production Intern](https://jobright.ai/jobs/info/6a0267b3fa1aa73213d99ff4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
-| **[ElectraCast Media](http://www.electracast.com)** | **[Social Media Manager Internship at Podcast/Record Company](https://jobright.ai/jobs/info/6a0263e4c4b08448a0b260bc?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Athletic Communications Intern (Staff Wage)](https://jobright.ai/jobs/info/6a0260abfa1aa73213d99e99?utm_campaign=1065&utm_source=git)** | Charlottesville, Virginia, United States of America | On Site | May 11 |
 | **[Dräger](http://www.draeger.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a025ef6c2ffb31f4536ce93?utm_campaign=1065&utm_source=git)** | Houston | On Site | May 11 |
 | **[Gates Corporation](http://www.gates.com)** | **[Marketing/CX Intern](https://jobright.ai/jobs/info/6a025de9df52f1450d84a764?utm_campaign=1065&utm_source=git)** | US - Denver, CO | On Site | May 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BridgeBio](http://bridgebio.com)** | **[Social Media Newsroom Intern](https://jobright.ai/jobs/info/69cdee9e398fb071abf7e342?utm_campaign=1065&utm_source=git)** | Palo Alto County, IA | Hybrid | May 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 11 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697848b852f3c27ec6448b39?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
+| **[505 Swimming](https://www.505swimming.com)** | **[Social Media & Content Creation Intern (Part-Time)](https://jobright.ai/jobs/info/69fdb804ad691a11f34ea52e?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
