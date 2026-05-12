@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a02f0b3bc4184089f22d706?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 12 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a02ef5d22395b6dc6d8f6ae?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 12 |
 | **[InMobi Advertising](https://www.inmobi.com)** | **[Intern - Marketing (San Mateo)](https://jobright.ai/jobs/info/6a02e6907c753c287f6e1b9b?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | May 12 |
 | **[Rise Local](https://riselocal.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a02e3c9ed6a637463f4a7e1?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 12 |
 | **[Micro](https://trymicro.io/)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a02d98b6c07461fe16fe498?utm_campaign=1065&utm_source=git)** | United States | Remote | May 12 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[FiberFirst](https://www.fiberfirst.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0201da238f143e8352fbf7?utm_campaign=1065&utm_source=git)** | Southlake, Texas | On Site | May 11 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[Marketing, Brand Communication Intern](https://jobright.ai/jobs/info/6a0201d8fa1aa73213d95f72?utm_campaign=1065&utm_source=git)** | United States, US | Remote | May 11 |
 | **[Cassette Technologies](https://cassette.tech)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a0200cf238f143e8352f9eb?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | May 11 |
-| **[Sultani Marketing](sultanimarketing.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a020078fa1aa73213d95da2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
 | **[Cornell Global Inc.](www.cornellglobalinc.com)** | **[Direct Marketing Intern](https://jobright.ai/jobs/info/6a022526c2ffb31f45369fc1?utm_campaign=1065&utm_source=git)** | Spring, TX | On Site | May 11 |
 | **[In Him Christian Wellness](https://www.inhimchristianwellness.org)** | **[Development and Communications Intern](https://jobright.ai/jobs/info/6a01f823c4b08448a0b21dd0?utm_campaign=1065&utm_source=git)** | Greater Harrisburg Area | Hybrid | May 11 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Intern - Marketing & Corporate Communications](https://jobright.ai/jobs/info/6a01f820df52f1450d846768?utm_campaign=1065&utm_source=git)** | Springfield, MO, US | On Site | May 11 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/699052d56ea51a7610f2de8d?utm_campaign=1065&utm_source=git)** | Modesto, CA | On Site | May 11 |
 | **[Mada](https://themadaapp.com)** | **[Styling and Social Media Intern](https://jobright.ai/jobs/info/6a01ea293053db70a1173293?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 11 |
 | **[AMOpportunities](https://www.amopportunities.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a01e765fa1aa73213d954e2?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
+| **[Pinnacle Climate Technologies](https://pinnacleclimate.com)** | **[Product Marketing Support Intern](https://jobright.ai/jobs/info/6a02f2d5bc4184089f22d74f?utm_campaign=1065&utm_source=git)** | Sauk Rapids, MN | On Site | May 11 |
 | **[Parker Technology](https://www.parkertechnology.com)** | **[Fall Marketing & Events Intern](https://jobright.ai/jobs/info/6a01e3a13053db70a1172e73?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | May 11 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Ad Products Internships – Academic Year](https://jobright.ai/jobs/info/6a02e5e8bc4184089f22d26b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 11 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a01dd37c4b08448a0b20c75?utm_campaign=1065&utm_source=git)** | Macomb, MI, US | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
