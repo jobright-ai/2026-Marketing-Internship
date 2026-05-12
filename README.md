@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a029b49ed6a637463f48509?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 11 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a029a0dbc4184089f22a765?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
+| **[Centricity WealthTech](https://www.centricity.co.in/)** | **[Paid Media Intern](https://jobright.ai/jobs/info/6a02a86222395b6dc6d8ceda?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 11 |
+| ↳ | **[Leasing and Marketing Intern](https://jobright.ai/jobs/info/6a02a854bc4184089f22ae6d?utm_campaign=1065&utm_source=git)** | Champaign , IL | On Site | May 11 |
 | **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Social Responsibility Communications Intern - now through end of year](https://jobright.ai/jobs/info/6a02964605484923de4767b9?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, United States | On Site | May 11 |
+| **[Pixi Inc.](https://www.pixibeauty.com)** | **[Marketing Intern - US](https://jobright.ai/jobs/info/69f57c9143a25828a8d18f81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
 | **[BMO](http://www.bmo.com)** | **[Activation Intern, Summer 2026 (10 Weeks) Chicago, IL](https://jobright.ai/jobs/info/6a0287b1bc4184089f22a27a?utm_campaign=1065&utm_source=git)** | Chicago, IL, USA, US | On Site | May 11 |
 | **[NYC Factory Inc](https://www.nycfactoryinc.com)** | **[Social Media & Fashion Content Intern](https://jobright.ai/jobs/info/6a0286d2bc4184089f22a262?utm_campaign=1065&utm_source=git)** | North Bergen, NJ | Hybrid | May 11 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/6a0286a705484923de47637b?utm_campaign=1065&utm_source=git)** | Charleston, SC | Remote | May 11 |
@@ -79,8 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a024e3ffa1aa73213d990a0?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a024c86238f143e83532c8b?utm_campaign=1065&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 11 |
 | **[Irwin](https://www.irwinseating.com/)** | **[Hospitality Intern](https://jobright.ai/jobs/info/6a024a16238f143e8353298a?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | May 11 |
-| **[Manulife](http://www.manulife.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0242b2238f143e8353264b?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, CA | Hybrid | May 11 |
-| **[Irwin](https://www.irwinseating.com/)** | **[Hospitality Intern](https://jobright.ai/jobs/info/6a0242703053db70a11763db?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI 49544-9774, USA | On Site | May 11 |
+| ↳ | **[Hospitality Intern](https://jobright.ai/jobs/info/6a0242703053db70a11763db?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI 49544-9774, USA | On Site | May 11 |
 | **[Tourneau|Bucherer](http://www.tourneau.com)** | **[Digital Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6a0241d7c4b08448a0b24bd7?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 11 |
 | **[Good360](http://www.Good360.org)** | **[Website Content Intern - Summer 2026](https://jobright.ai/jobs/info/6a02407cfa1aa73213d9868e?utm_campaign=1065&utm_source=git)** | Virginia office - ALEXANDRIA, VA 22314 | Hybrid | May 11 |
 | **[BASIS Ed](https://basised.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a023e34df52f1450d848f15?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
@@ -145,6 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Special Events & Event Rentals (Fall 2026)](https://jobright.ai/jobs/info/6a01ecb4238f143e8352f3a5?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
 | ↳ | **[Intern, Fundraising (Fall 2026)](https://jobright.ai/jobs/info/6a01ec7adf52f1450d84629d?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
 | ↳ | **[Intern, Fundraising Data & Systems (Fall 2026)](https://jobright.ai/jobs/info/6a01ec41fa1aa73213d956de?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
+| **[Continental](https://www.continental.com)** | **[2026 Internship - Events Planning](https://jobright.ai/jobs/info/69b40de606c1ba00c54530fc?utm_campaign=1065&utm_source=git)** | Lakeville, IN | Hybrid | May 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/699052d56ea51a7610f2de8d?utm_campaign=1065&utm_source=git)** | Modesto, CA | On Site | May 11 |
 | **[Mada](https://themadaapp.com)** | **[Styling and Social Media Intern](https://jobright.ai/jobs/info/6a01ea293053db70a1173293?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 11 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Media and Marketing Internship](https://jobright.ai/jobs/info/699013f70cc8ea15f1dabbb1?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | May 11 |
 | **[AMOpportunities](https://www.amopportunities.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a01e765fa1aa73213d954e2?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Intern, US Ecommerce (NARS & Drunk Elephant)](https://jobright.ai/jobs/info/69e5527de0cd471b2f122913?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69f8f810a3d34b4f76f5f4e0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | May 11 |
 | **[BridgeBio](http://bridgebio.com)** | **[Social Media Newsroom Intern](https://jobright.ai/jobs/info/69cdee9e398fb071abf7e342?utm_campaign=1065&utm_source=git)** | Palo Alto County, IA | Hybrid | May 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 11 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697848b852f3c27ec6448b39?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
