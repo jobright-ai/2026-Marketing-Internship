@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a02b781bc4184089f22b519?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 11 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Marketing Tactics Creation and Implementation Internship](https://jobright.ai/jobs/info/6a02cc087c753c287f6e10ef?utm_campaign=1065&utm_source=git)** | Canada | Remote | May 11 |
+| **[PROJXON](www.projxon.com)** | **[SEO Intern](https://jobright.ai/jobs/info/6a02c8896c07461fe16fdd42?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a02b68e22395b6dc6d8d58e?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, US | On Site | May 11 |
 | **[Allstream Energy Partners](https://allstreamep.com/)** | **[Sales & Marketing Intern – Houston Based, Flexible Schedule](https://jobright.ai/jobs/info/6a02b62c22395b6dc6d8d542?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | May 11 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a02b61c22395b6dc6d8d52a?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
 | **[Centricity WealthTech](https://www.centricity.co.in/)** | **[Paid Media Intern](https://jobright.ai/jobs/info/6a02a86222395b6dc6d8ceda?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 11 |
 | ↳ | **[Leasing and Marketing Intern](https://jobright.ai/jobs/info/6a02a854bc4184089f22ae6d?utm_campaign=1065&utm_source=git)** | Champaign , IL | On Site | May 11 |
 | **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Social Responsibility Communications Intern - now through end of year](https://jobright.ai/jobs/info/6a02964605484923de4767b9?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, United States | On Site | May 11 |
@@ -72,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[UVA Health](https://www.uvahealth.com)** | **[Athletic Communications Intern (Staff Wage)](https://jobright.ai/jobs/info/6a027b75c2ffb31f4536d7ae?utm_campaign=1065&utm_source=git)** | Charlottesville, Virginia, United States of America | On Site | May 11 |
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Shopper Marketing Internship](https://jobright.ai/jobs/info/6a0273c1fa1aa73213d9a41f?utm_campaign=1065&utm_source=git)** | Chicago, IL, 60632, United States | On Site | May 11 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/6a0271a6238f143e83534026?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | May 11 |
-| **[19 Media Group](https://19mediagroup.com/)** | **[Social Media Intern (non-paid)](https://jobright.ai/jobs/info/6a027196df52f1450d84ac54?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
 | **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69d5afea366bb95ba5546c94?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
 | **[Bancs Media](https://www.bancsmedia.com/)** | **[Marketing & Production Intern](https://jobright.ai/jobs/info/6a0267b3fa1aa73213d99ff4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
+| **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/699df88ace78e77b4fe31c03?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 11 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Athletic Communications Intern (Staff Wage)](https://jobright.ai/jobs/info/6a0260abfa1aa73213d99e99?utm_campaign=1065&utm_source=git)** | Charlottesville, Virginia, United States of America | On Site | May 11 |
 | **[Dräger](http://www.draeger.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a025ef6c2ffb31f4536ce93?utm_campaign=1065&utm_source=git)** | Houston | On Site | May 11 |
 | **[ACI Worldwide](https://www.aciworldwide.com)** | **[Intern Marketing, Employer Branding & AI Innovation](https://jobright.ai/jobs/info/6a02978fed6a637463f484a6?utm_campaign=1065&utm_source=git)** | Norcross, GA, United States | Hybrid | May 11 |
