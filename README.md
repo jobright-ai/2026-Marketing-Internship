@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a032900bc4184089f22f74e?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 12 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a03255322395b6dc6d9187b?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 12 |
+| **[Catalyst](https://catalystintro.com/)** | **[Content Intern (being an ABG not required)](https://jobright.ai/jobs/info/6a0324af6c07461fe1700f97?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 12 |
+| **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6a0323d3ed6a637463f4cf1c?utm_campaign=1065&utm_source=git)** | US-California-San Jose | On Site | May 12 |
+| **[Cloud Mentor](http://cmentor.com)** | **[Sales Enablement Intern (Remote)](https://jobright.ai/jobs/info/6a03231fbc4184089f22f662?utm_campaign=1065&utm_source=git)** | United States | Remote | May 12 |
 | **[International Cars, Ltd.](https://www.iclautos.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6a031eb8bc4184089f22f487?utm_campaign=1065&utm_source=git)** | 382 Newbury St, Danvers, MA 01923, USA | On Site | May 12 |
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Luxury Marketing Internship in Paris.](https://jobright.ai/jobs/info/6a031eb5bc4184089f22f469?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | May 12 |
 | **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[Consumer Health Brand Marketing Intern](https://jobright.ai/jobs/info/69e63576f8fa2f3ec32a02ee?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | May 12 |
@@ -68,11 +73,11 @@ For a complete list, click the following sortable link below:
 | **[Rise Local](https://riselocal.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a02e3c9ed6a637463f4a7e1?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 12 |
 | **[Micro](https://trymicro.io/)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a02d98b6c07461fe16fe498?utm_campaign=1065&utm_source=git)** | United States | Remote | May 12 |
 | **[Actian](http://www.actian.com)** | **[SEO/AEO Intern](https://jobright.ai/jobs/info/69fabd2fd21cf86d1e3ccafe?utm_campaign=1065&utm_source=git)** | United States | Remote | May 12 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Marketing Tactics Creation and Implementation Internship](https://jobright.ai/jobs/info/6a02cc087c753c287f6e10ef?utm_campaign=1065&utm_source=git)** | Canada | Remote | May 11 |
 | **[PROJXON](www.projxon.com)** | **[SEO Intern](https://jobright.ai/jobs/info/6a02c8896c07461fe16fdd42?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
 | **[WD WIAN Test Company Page](https://www.linkedin.com/company/111537035)** | **[Intern - Multiple openings](https://jobright.ai/jobs/info/69fb132718b94b2515bdedad?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a02b68e22395b6dc6d8d58e?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, US | On Site | May 11 |
 | **[Allstream Energy Partners](https://allstreamep.com/)** | **[Sales & Marketing Intern – Houston Based, Flexible Schedule](https://jobright.ai/jobs/info/6a02b62c22395b6dc6d8d542?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | May 11 |
+| **[Colorstech Solar](http://www.colorstech.net)** | **[Internet Marketing Intern](https://jobright.ai/jobs/info/6a0329cf22395b6dc6d91904?utm_campaign=1065&utm_source=git)** | Canada | Remote | May 11 |
 | **[Centricity WealthTech](https://www.centricity.co.in/)** | **[Paid Media Intern](https://jobright.ai/jobs/info/6a02a86222395b6dc6d8ceda?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 11 |
 | ↳ | **[Leasing and Marketing Intern](https://jobright.ai/jobs/info/6a02a854bc4184089f22ae6d?utm_campaign=1065&utm_source=git)** | Champaign , IL | On Site | May 11 |
 | **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Social Responsibility Communications Intern - now through end of year](https://jobright.ai/jobs/info/6a02964605484923de4767b9?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, United States | On Site | May 11 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Electronic Coating Technologies (ECT)](https://electroniccoating.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a0211443053db70a1174423?utm_campaign=1065&utm_source=git)** | Torrington, Connecticut, United States | On Site | May 11 |
 | **[Atlas](http://www.atlasvanlines.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a020fda238f143e83530404?utm_campaign=1065&utm_source=git)** | Evansville, IN, US | On Site | May 11 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a020fd03053db70a117440e?utm_campaign=1065&utm_source=git)** | US-IN-Evansville | On Site | May 11 |
-| **[Superfici America, Inc.](https://www.superficiamerica.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a020f223053db70a11742f6?utm_campaign=1065&utm_source=git)** | Concord, NC | On Site | May 11 |
 | **[FusionSite](https://fusionsiteservices.com/)** | **[SEO Content Marketing Intern](https://jobright.ai/jobs/info/6a020f10df52f1450d84713a?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | May 11 |
-| **[GNC](https://www.gnc.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69dd1c80bc6f6622c9910755?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | May 11 |
-| **[Novo Holdings](http://www.novoholdings.dk)** | **[Undergraduate Intern, Growth Investments](https://jobright.ai/jobs/info/6a020ec1c2ffb31f45369661?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States | On Site | May 11 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Market Segmentation Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a020abbc2ffb31f453695e4?utm_campaign=1065&utm_source=git)** | Toronto, ONT, Canada | Hybrid | May 11 |
-| **[Major League Baseball Players Association](https://www.mlbplayers.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a030458ed6a637463f4b73d?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
