@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leap to Success](http://www.leaptosuccess.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a03499fed6a637463f4e6b2?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | Hybrid | May 12 |
+| **[Dog is Human](https://dogishuman.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a034951ed6a637463f4e542?utm_campaign=1065&utm_source=git)** | United States | Remote | May 12 |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a034710bc4184089f230f30?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 12 |
+| **[Special Olympics Illinois](https://www.soill.org/)** | **[Unpaid Internship (Duck Derby)](https://jobright.ai/jobs/info/6a0346207c753c287f6e5785?utm_campaign=1065&utm_source=git)** | Marion,IL,US | On Site | May 12 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a0345a722395b6dc6d92e6a?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 12 |
+| **[GateDrop](https://getgatedrop.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a03457e7c753c287f6e562f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 12 |
+| **[Starbeam](www.starbeam.org)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a0342ba6c07461fe170262e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 12 |
+| **[Environment America](http://environmentamerica.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a0342417c753c287f6e5520?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 12 |
+| **[GEMCO Constructors](http://gem-constructors.com/)** | **[Intern - Marketing and Communications](https://jobright.ai/jobs/info/6a033f8af3d6cc51d6374ebf?utm_campaign=1065&utm_source=git)** | Carmel, IN 46032-2535, USA | On Site | May 12 |
 | **[StationMD](http://www.stationmd.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6a033b84bc4184089f230585?utm_campaign=1065&utm_source=git)** | Maplewood, NJ, US | Remote | May 12 |
 | **[Shoulder Innovations](http://shoulderinnovations.com/)** | **[Marketing Materials Intern](https://jobright.ai/jobs/info/6a033b7c22395b6dc6d9270d?utm_campaign=1065&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | May 12 |
 | **[Fezzora, Inc.](fezzorainc.com)** | **[Entry Level Marketing 2026 Internship](https://jobright.ai/jobs/info/6a033884ed6a637463f4d9bb?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 12 |
@@ -96,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/6a0286a705484923de47637b?utm_campaign=1065&utm_source=git)** | Charleston, SC | Remote | May 11 |
 | **[Truss](https://www.gettruss.io)** | **[Content Specialist](https://jobright.ai/jobs/info/6a027f8dfa1aa73213d9a760?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Athletic Communications Intern (Staff Wage)](https://jobright.ai/jobs/info/6a027b75c2ffb31f4536d7ae?utm_campaign=1065&utm_source=git)** | Charlottesville, Virginia, United States of America | On Site | May 11 |
-| **[Skyhawks Sports - Treasure Valley](www.skyhawks.com/boise)** | **[Research & Growth Internship - Youth Sports & Community Impact Skyhawks](https://jobright.ai/jobs/info/6a0338b7ed6a637463f4da3c?utm_campaign=1065&utm_source=git)** | Meridian, ID | Hybrid | May 11 |
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Shopper Marketing Internship](https://jobright.ai/jobs/info/6a0273c1fa1aa73213d9a41f?utm_campaign=1065&utm_source=git)** | Chicago, IL, 60632, United States | On Site | May 11 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/6a0271a6238f143e83534026?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | May 11 |
 | **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69d5afea366bb95ba5546c94?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leviton](https://www.leviton.com)** | **[Marketing Intern (Year-Round)](https://jobright.ai/jobs/info/6a03040022395b6dc6d901c0?utm_campaign=1065&utm_source=git)** | Melville, NY | On Site | May 11 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Communications & Publications](https://jobright.ai/jobs/info/6a0303a822395b6dc6d9001c?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | May 11 |
 | **[EN-POWER GROUP](http://www.en-powergroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a03031eed6a637463f4b6db?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 11 |
-| **[Lenovo](https://www.lenovo.com/in/en)** | **[ESMB Strategy & Market Insights Intern](https://jobright.ai/jobs/info/6a0221d8c2ffb31f45369de0?utm_campaign=1065&utm_source=git)** | Markham, Ontario | On Site | May 11 |
-| **[Martha's Vineyard Hospital](https://www.mvhospital.org/)** | **[Intern](https://jobright.ai/jobs/info/6a030a95f3d6cc51d6372974?utm_campaign=1065&utm_source=git)** | Oak Bluffs, MA | On Site | May 11 |
-| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Carlow University](https://jobright.ai/jobs/info/6a0303357c753c287f6e2877?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | May 11 |
-| **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a0254a5df52f1450d84a0cb?utm_campaign=1065&utm_source=git)** | Amarillo, TX | On Site | May 11 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Intern](https://jobright.ai/jobs/info/6a021fadc2ffb31f45369d1b?utm_campaign=1065&utm_source=git)** | Oak Bluffs-MA, US | On Site | May 11 |
-| **[Commvault](https://www.commvault.com)** | **[CRO Growth Marketing Intern](https://jobright.ai/jobs/info/6a021f673053db70a11748e8?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
-| **[Protein Pints](https://www.proteinpints.com/)** | **[Social Media UGC Intern](https://jobright.ai/jobs/info/6a0249fac2ffb31f4536bd4b?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | May 11 |
-| **[Hitch](https://www.hitchmedia.co)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a021e62c2ffb31f45369bec?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
