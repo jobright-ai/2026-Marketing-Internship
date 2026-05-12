@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a02d4a2bc4184089f22cb8c?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 12 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a02d39d22395b6dc6d8eacc?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 12 |
-| **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6a02cfe7ed6a637463f49fc8?utm_campaign=1065&utm_source=git)** | US-California-San Jose | On Site | May 11 |
+| **[InMobi Advertising](https://www.inmobi.com)** | **[Intern - Marketing (San Mateo)](https://jobright.ai/jobs/info/6a02e6907c753c287f6e1b9b?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | May 12 |
+| **[Rise Local](https://riselocal.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a02e3c9ed6a637463f4a7e1?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 12 |
+| **[Micro](https://trymicro.io/)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a02d98b6c07461fe16fe498?utm_campaign=1065&utm_source=git)** | United States | Remote | May 12 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Marketing Tactics Creation and Implementation Internship](https://jobright.ai/jobs/info/6a02cc087c753c287f6e10ef?utm_campaign=1065&utm_source=git)** | Canada | Remote | May 11 |
 | **[PROJXON](www.projxon.com)** | **[SEO Intern](https://jobright.ai/jobs/info/6a02c8896c07461fe16fdd42?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a02b68e22395b6dc6d8d58e?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, US | On Site | May 11 |
@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Shopper Marketing Internship](https://jobright.ai/jobs/info/6a0273c1fa1aa73213d9a41f?utm_campaign=1065&utm_source=git)** | Chicago, IL, 60632, United States | On Site | May 11 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/6a0271a6238f143e83534026?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | May 11 |
 | **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69d5afea366bb95ba5546c94?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
-| **[Bancs Media](https://www.bancsmedia.com/)** | **[Marketing & Production Intern](https://jobright.ai/jobs/info/6a0267b3fa1aa73213d99ff4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/699df88ace78e77b4fe31c03?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 11 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Athletic Communications Intern (Staff Wage)](https://jobright.ai/jobs/info/6a0260abfa1aa73213d99e99?utm_campaign=1065&utm_source=git)** | Charlottesville, Virginia, United States of America | On Site | May 11 |
 | **[Dräger](http://www.draeger.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a025ef6c2ffb31f4536ce93?utm_campaign=1065&utm_source=git)** | Houston | On Site | May 11 |
@@ -152,9 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Special Events & Event Rentals (Fall 2026)](https://jobright.ai/jobs/info/6a01ecb4238f143e8352f3a5?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
 | ↳ | **[Intern, Fundraising (Fall 2026)](https://jobright.ai/jobs/info/6a01ec7adf52f1450d84629d?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
 | ↳ | **[Intern, Fundraising Data & Systems (Fall 2026)](https://jobright.ai/jobs/info/6a01ec41fa1aa73213d956de?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
-| **[Continental](https://www.continental.com)** | **[2026 Internship - Events Planning](https://jobright.ai/jobs/info/69b40de606c1ba00c54530fc?utm_campaign=1065&utm_source=git)** | Lakeville, IN | Hybrid | May 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/699052d56ea51a7610f2de8d?utm_campaign=1065&utm_source=git)** | Modesto, CA | On Site | May 11 |
 | **[Mada](https://themadaapp.com)** | **[Styling and Social Media Intern](https://jobright.ai/jobs/info/6a01ea293053db70a1173293?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 11 |
 | **[AMOpportunities](https://www.amopportunities.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a01e765fa1aa73213d954e2?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
 | **[Parker Technology](https://www.parkertechnology.com)** | **[Fall Marketing & Events Intern](https://jobright.ai/jobs/info/6a01e3a13053db70a1172e73?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | May 11 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Ad Products Internships – Academic Year](https://jobright.ai/jobs/info/6a02e5e8bc4184089f22d26b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 11 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a01dd37c4b08448a0b20c75?utm_campaign=1065&utm_source=git)** | Macomb, MI, US | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
