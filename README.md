@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a02b781bc4184089f22b519?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 11 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a02b68e22395b6dc6d8d58e?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, US | On Site | May 11 |
+| **[Allstream Energy Partners](https://allstreamep.com/)** | **[Sales & Marketing Intern – Houston Based, Flexible Schedule](https://jobright.ai/jobs/info/6a02b62c22395b6dc6d8d542?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | May 11 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a02b61c22395b6dc6d8d52a?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
 | **[Centricity WealthTech](https://www.centricity.co.in/)** | **[Paid Media Intern](https://jobright.ai/jobs/info/6a02a86222395b6dc6d8ceda?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 11 |
 | ↳ | **[Leasing and Marketing Intern](https://jobright.ai/jobs/info/6a02a854bc4184089f22ae6d?utm_campaign=1065&utm_source=git)** | Champaign , IL | On Site | May 11 |
 | **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Social Responsibility Communications Intern - now through end of year](https://jobright.ai/jobs/info/6a02964605484923de4767b9?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, United States | On Site | May 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parker Technology](https://www.parkertechnology.com)** | **[Fall Marketing & Events Intern](https://jobright.ai/jobs/info/6a01e3a13053db70a1172e73?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | May 11 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a01dd37c4b08448a0b20c75?utm_campaign=1065&utm_source=git)** | Macomb, MI, US | Hybrid | May 11 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Marketing & Communications Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f7059b6eb37e26f7dbb9?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 11 |
-| **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[PR Intern](https://jobright.ai/jobs/info/69e683219b6eb37e26f80c51?utm_campaign=1065&utm_source=git)** | Division 4, Subdivision E, Newfoundland and Labrador, Canada | On Site | May 11 |
-| **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Intern, US Ecommerce (NARS & Drunk Elephant)](https://jobright.ai/jobs/info/69e5527de0cd471b2f122913?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 11 |
-| **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/69f8f810a3d34b4f76f5f4e0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | May 11 |
-| **[BridgeBio](http://bridgebio.com)** | **[Social Media Newsroom Intern](https://jobright.ai/jobs/info/69cdee9e398fb071abf7e342?utm_campaign=1065&utm_source=git)** | Palo Alto County, IA | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
