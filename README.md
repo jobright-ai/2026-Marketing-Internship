@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Vent Now](https://www.ventnow.ai/)** | **[Marketing - Internship](https://jobright.ai/jobs/info/6a0293a0bc4184089f22a579?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a029b49ed6a637463f48509?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 11 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a029a0dbc4184089f22a765?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
+| **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Social Responsibility Communications Intern - now through end of year](https://jobright.ai/jobs/info/6a02964605484923de4767b9?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, United States | On Site | May 11 |
 | **[BMO](http://www.bmo.com)** | **[Activation Intern, Summer 2026 (10 Weeks) Chicago, IL](https://jobright.ai/jobs/info/6a0287b1bc4184089f22a27a?utm_campaign=1065&utm_source=git)** | Chicago, IL, USA, US | On Site | May 11 |
 | **[NYC Factory Inc](https://www.nycfactoryinc.com)** | **[Social Media & Fashion Content Intern](https://jobright.ai/jobs/info/6a0286d2bc4184089f22a262?utm_campaign=1065&utm_source=git)** | North Bergen, NJ | Hybrid | May 11 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/6a0286a705484923de47637b?utm_campaign=1065&utm_source=git)** | Charleston, SC | Remote | May 11 |
@@ -70,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Bancs Media](https://www.bancsmedia.com/)** | **[Marketing & Production Intern](https://jobright.ai/jobs/info/6a0267b3fa1aa73213d99ff4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Athletic Communications Intern (Staff Wage)](https://jobright.ai/jobs/info/6a0260abfa1aa73213d99e99?utm_campaign=1065&utm_source=git)** | Charlottesville, Virginia, United States of America | On Site | May 11 |
 | **[Dräger](http://www.draeger.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a025ef6c2ffb31f4536ce93?utm_campaign=1065&utm_source=git)** | Houston | On Site | May 11 |
+| **[ACI Worldwide](https://www.aciworldwide.com)** | **[Intern Marketing, Employer Branding & AI Innovation](https://jobright.ai/jobs/info/6a02978fed6a637463f484a6?utm_campaign=1065&utm_source=git)** | Norcross, GA, United States | Hybrid | May 11 |
 | **[Gates Corporation](http://www.gates.com)** | **[Marketing/CX Intern](https://jobright.ai/jobs/info/6a025de9df52f1450d84a764?utm_campaign=1065&utm_source=git)** | US - Denver, CO | On Site | May 11 |
 | **[Legacy Mutual Mortgage](http://legacymutual.com)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/6a025c76df52f1450d84a6c1?utm_campaign=1065&utm_source=git)** | San Antonio,TX,US | On Site | May 11 |
-| **[Skin Anarchy The Podcast](https://skinanarchy.com)** | **[Social Media Management Intern](https://jobright.ai/jobs/info/6a025ae53053db70a1177723?utm_campaign=1065&utm_source=git)** | United States | Remote | May 11 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Corporate Events](https://jobright.ai/jobs/info/6a025493c4b08448a0b258ec?utm_campaign=1065&utm_source=git)** | Columbia, MO | On Site | May 11 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a024e3ffa1aa73213d990a0?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a024c86238f143e83532c8b?utm_campaign=1065&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 11 |
@@ -146,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Mada](https://themadaapp.com)** | **[Styling and Social Media Intern](https://jobright.ai/jobs/info/6a01ea293053db70a1173293?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 11 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Media and Marketing Internship](https://jobright.ai/jobs/info/699013f70cc8ea15f1dabbb1?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | May 11 |
 | **[AMOpportunities](https://www.amopportunities.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a01e765fa1aa73213d954e2?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
-| **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6a01e41efa1aa73213d9523c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[Parker Technology](https://www.parkertechnology.com)** | **[Fall Marketing & Events Intern](https://jobright.ai/jobs/info/6a01e3a13053db70a1172e73?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | May 11 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a01dd37c4b08448a0b20c75?utm_campaign=1065&utm_source=git)** | Macomb, MI, US | Hybrid | May 11 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Marketing & Communications Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f7059b6eb37e26f7dbb9?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BridgeBio](http://bridgebio.com)** | **[Social Media Newsroom Intern](https://jobright.ai/jobs/info/69cdee9e398fb071abf7e342?utm_campaign=1065&utm_source=git)** | Palo Alto County, IA | Hybrid | May 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 11 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697848b852f3c27ec6448b39?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
-| **[505 Swimming](https://www.505swimming.com)** | **[Social Media & Content Creation Intern (Part-Time)](https://jobright.ai/jobs/info/69fdb804ad691a11f34ea52e?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
