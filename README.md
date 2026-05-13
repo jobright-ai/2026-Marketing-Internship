@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ezzy Manufacturing](ezzymfg.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a03f1806c07461fe1708aec?utm_campaign=1065&utm_source=git)** | South Holland, IL | On Site | May 12 |
+| **[Cognizant](https://www.cognizant.com)** | **[Cognizant Workday Intern](https://jobright.ai/jobs/info/6a03f180f3d6cc51d637b104?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | May 12 |
+| **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a03ef1d22395b6dc6d98c5c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | May 12 |
+| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Intern-Marketing Department (Press Office)-Mount Sinai Health System-Hybrid-Full Time-Days](https://jobright.ai/jobs/info/6a03e88ff3d6cc51d637a943?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 12 |
+| **[SBA Communications](http://www.sbasite.com)** | **[Intern](https://jobright.ai/jobs/info/6a03e88bf3d6cc51d637a931?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | May 12 |
 | **[LufCo](https://www.lufburrow.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6a03e5d9f811a0436960653b?utm_campaign=1065&utm_source=git)** | Aberdeen, MD | On Site | May 12 |
 | **[Shennon Biotechnologies](https://www.shennonbio.com/)** | **[Summer MBA Intern - Market Analysis and Research (Oncology/Autoimmune)](https://jobright.ai/jobs/info/6a03e3667c753c287f6eafc0?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 12 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Intern-Marketing and Communications Department-Mount Sinai Health System-In Person-Full Time-Days](https://jobright.ai/jobs/info/6a03e1176c07461fe1707fc3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 12 |
-| ↳ | **[Student Intern-Marketing Department (Press Office)-Mount Sinai Health System-Hybrid-Full Time-Days](https://jobright.ai/jobs/info/6a03e1176c07461fe1707fbf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 12 |
+| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Intern-Marketing Department (Press Office)-Mount Sinai Health System-Hybrid-Full Time-Days](https://jobright.ai/jobs/info/6a03e1176c07461fe1707fbf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 12 |
+| ↳ | **[Student Intern-Marketing and Communications Department-Mount Sinai Health System-In Person-Full Time-Days](https://jobright.ai/jobs/info/6a03e1176c07461fe1707fc3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[Sandy's Donuts & Coffee Shop](https://www.sandysdonuts.com/)** | **[Marketing Intern – Part-Time](https://jobright.ai/jobs/info/6a03e0ea7c753c287f6eae56?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | May 12 |
 | **[Cy-Fair Federal Credit Union](https://www.cyfairfcu.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a03e0e0f811a043696062cf?utm_campaign=1065&utm_source=git)** | Houston, TX, US | On Site | May 12 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Social Media Marketing Associate (Intern)](https://jobright.ai/jobs/info/6a03dbe0f3d6cc51d637a2ee?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Remote | May 12 |
@@ -112,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[TR Miller Heating Cooling Plumbing & Electrical](https://www.trmillerheatingandcooling.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a0392806c07461fe17059da?utm_campaign=1065&utm_source=git)** | Bolingbrook,IL,US | On Site | May 12 |
 | **[NewForm](https://newform.com)** | **[Growth Intern](https://jobright.ai/jobs/info/6a0392408ecfd93cd9c0fce5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[Roebling](https://www.roebling.com)** | **[GTM Intern](https://jobright.ai/jobs/info/6a0392247c753c287f6e888a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 12 |
-| **[Rohrer Corporation](http://rohrer.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0392227c753c287f6e886f?utm_campaign=1065&utm_source=git)** | Addison, Illinois, United States | On Site | May 12 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a0392227c753c287f6e8874?utm_campaign=1065&utm_source=git)** | Huntley, Illinois, United States | On Site | May 12 |
+| **[Rohrer Corporation](http://rohrer.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0392227c753c287f6e8874?utm_campaign=1065&utm_source=git)** | Huntley, Illinois, United States | On Site | May 12 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a0392227c753c287f6e886f?utm_campaign=1065&utm_source=git)** | Addison, Illinois, United States | On Site | May 12 |
 | **[Surgery Partners, Inc](http://www.surgerypartners.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a0391b622395b6dc6d961c5?utm_campaign=1065&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | May 12 |
 | **[Red Cat Holdings](https://www.redcatholdings.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0391376c07461fe170580d?utm_campaign=1065&utm_source=git)** | BlueOps (FL) - West Palm Beach, FL 33411 | On Site | May 12 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Cal Poly - Humboldt](https://jobright.ai/jobs/info/6a03908b22395b6dc6d9605a?utm_campaign=1065&utm_source=git)** | Arcata, CA | On Site | May 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CAWST](http://www.cawst.org/)** | **[Marketing & Communications Intern (8 month fixed-term)](https://jobright.ai/jobs/info/6a037005bc4184089f232516?utm_campaign=1065&utm_source=git)** | 6020 2 St SE, Calgary, AB T2H 2L8, Canada | Hybrid | May 12 |
 | **[ticker](https://www.tickerapp.io)** | **[Community Growth Intern](https://jobright.ai/jobs/info/6a036fc67c753c287f6e6c8a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 12 |
 | **[KARLA OTTO](http://karlaotto.com)** | **[Summer / Fall PR Intern](https://jobright.ai/jobs/info/6a036f97bc4184089f2323cd?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | May 12 |
-| **[Dash Social](https://www.dashsocial.com)** | **[Office and Events Intern](https://jobright.ai/jobs/info/6a038edc8ecfd93cd9c0f8c8?utm_campaign=1065&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | May 12 |
-| **[CTZAR](https://ctzar.com/)** | **[Summer / Fall PR Intern](https://jobright.ai/jobs/info/6a036c17f3d6cc51d6376421?utm_campaign=1065&utm_source=git)** | 52 Mercer St, New York, United States, 10013, US | On Site | May 12 |
-| **[KARLA OTTO](http://karlaotto.com)** | **[Summer / Fall PR Intern](https://jobright.ai/jobs/info/6a036c16ed6a637463f4f7a2?utm_campaign=1065&utm_source=git)** | 52 Mercer St, New York, United States, 10013, US | On Site | May 12 |
-| **[Lippert](https://corporate.lippert.com)** | **[Intern](https://jobright.ai/jobs/info/6a036ae26c07461fe17038ad?utm_campaign=1065&utm_source=git)** | Elkhart, IN | On Site | May 12 |
-| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Commercial Planning - Marketing Intern](https://jobright.ai/jobs/info/6a0385366c07461fe1704e10?utm_campaign=1065&utm_source=git)** | Warren, RI | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
