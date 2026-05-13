@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e75143e8daec61499b4542?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 13 |
+| **[Getinge](https://www.getinge.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69e84f5458811370cb122312?utm_campaign=1065&utm_source=git)** | Fraser, MI | Hybrid | May 13 |
+| **[Yodlee](http://www.yodlee.com)** | **[Yodlee Marketing Summer Intern](https://jobright.ai/jobs/info/6a045062bc4184089f239798?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | May 13 |
 | **[Novamed](http://www.surgerypartners.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a0441adf811a04369609008?utm_campaign=1065&utm_source=git)** | Seven Springs, NC | Hybrid | May 13 |
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a0440ce22395b6dc6d9b807?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 13 |
 | **[Environment America](http://environmentamerica.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a043f117c753c287f6ede26?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 13 |
@@ -119,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Air Innovations - Environmental Control Units](https://www.airinnovations.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a03b0057c753c287f6e9a22?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 12 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Marketing Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03b0028ecfd93cd9c10e3e?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | May 12 |
 | ↳ | **[Marketing Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03b0018ecfd93cd9c10e3d?utm_campaign=1065&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
-| ↳ | **[Media Relations Intern, Marketing/Communications (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8bc4184089f23513a?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
 | ↳ | **[Media Relations Intern, Marketing/Communications (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8bc4184089f23513b?utm_campaign=1065&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
+| ↳ | **[Media Relations Intern, Marketing/Communications (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8bc4184089f23513a?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
 | **[Envolve LLC](https://www.envolve-csg.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a03ac6c6c07461fe1706976?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | May 12 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6a03ac4022395b6dc6d9718b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | May 12 |
 | **[CAWST](http://www.cawst.org/)** | **[Marketing & Communications Intern (8 month fixed-term)](https://jobright.ai/jobs/info/6a03c6b5f3d6cc51d6379c0f?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Intern, TikTok Creator Sourcing](https://jobright.ai/jobs/info/6a03859d8ecfd93cd9c0f253?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 12 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Ohio State Athletics- Social Media Internship](https://jobright.ai/jobs/info/6a03851822395b6dc6d95591?utm_campaign=1065&utm_source=git)** | Columbus, OH, US | On Site | May 12 |
 | **[Axiom Builders](http://www.axiombuilders.com)** | **[Brand & Communications Intern](https://jobright.ai/jobs/info/6a03b05df3d6cc51d63791e3?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 12 |
-| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Fundraising Events](https://jobright.ai/jobs/info/6a037f07f3d6cc51d63772eb?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | May 12 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Marketing Intern - South Park Mall](https://jobright.ai/jobs/info/6a037eb3ed6a637463f507e6?utm_campaign=1065&utm_source=git)** | Charlotte, NC, US | On Site | May 12 |
-| **[Girl Scouts Carolinas Peaks to Piedmont](http://www.girlscoutsp2p.org)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a03789d7c753c287f6e755d?utm_campaign=1065&utm_source=git)** | Greensboro,NC,US | Remote | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
