@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bright Horizons](https://www.brighthorizons.com/)** | **[SEO Performance Marketing Intern](https://jobright.ai/jobs/info/6a05f6cf320bff2205ea675e?utm_campaign=1065&utm_source=git)** | Newton Massachusetts 02459, US | Hybrid | May 14 |
+| **[Miami HEAT](http://HEAT.com)** | **[Intern, Marketing Automation](https://jobright.ai/jobs/info/69e99d993aa0c479643ab07a?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | May 14 |
+| **[HYPE PR Toronto](https://www.hypepr.ca)** | **[PR and Influencer Marketing Intern](https://jobright.ai/jobs/info/6a05f5d0a88ea73abf7f57e2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 14 |
+| **[Elevated Web Design](https://www.elevatedwebdesign.com/)** | **[Growth & Community Internship for Early-Stage Startup](https://jobright.ai/jobs/info/6a05f54fbc4184089f249430?utm_campaign=1065&utm_source=git)** | United States | Remote | May 14 |
 | **[RentWorthy](https://rentworthy.us)** | **[Community Outreach Specialist - Paid Internship](https://jobright.ai/jobs/info/6a05ed79f3d6cc51d638cb60?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | May 14 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[TikTok Live Streaming & TikTok Shop Internship](https://jobright.ai/jobs/info/6a05ed6fbc4184089f248dda?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
 | **[One Million by One Million (1Mby1M)](http://1mby1m.com)** | **[Research and Writing About Regional Startup Accelerators Intern](https://jobright.ai/jobs/info/6a05ed4c320bff2205ea5cc3?utm_campaign=1065&utm_source=git)** | United States | Remote | May 14 |
@@ -64,12 +68,12 @@ For a complete list, click the following sortable link below:
 | **[International Focus](https://internationalfocus.org)** | **[Multimedia Marketing Intern](https://jobright.ai/jobs/info/6a05ecfe6c07461fe171a1bf?utm_campaign=1065&utm_source=git)** | Triangle Area | Hybrid | May 14 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Market Development](https://jobright.ai/jobs/info/69b06957dfaeda6ff59a333c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
 | **[Verifyt](www.verifyt.com)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/6a05e8797c753c287f6fcde4?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | May 14 |
+| **[Modine Manufacturing Company](http://www.modine.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/69e98120e0cd471b2f13e2ad?utm_campaign=1065&utm_source=git)** | Grand Prairie, TX | Hybrid | May 14 |
 | **[Diligent](http://diligent.com)** | **[Intern - Field Marketing](https://jobright.ai/jobs/info/6a05e75fbc4184089f248bc7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 14 |
 | **[DiasporaDNA Story Center](https://www.diasporadna.org/)** | **[Programs & Events Intern](https://jobright.ai/jobs/info/6a05e7536c07461fe1719f5e?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | May 14 |
 | **[Hands Along The Nile Development Services (HANDS)](http://www.handsalongthenile.org)** | **[Nonprofit Communications Intern](https://jobright.ai/jobs/info/6a05e7526c07461fe1719f5d?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | May 14 |
 | **[QuinStreet](http://www.quinstreet.com)** | **[Performance Marketing & Analytics Internship Program (Undergraduate - Spring 2026 Graduates)](https://jobright.ai/jobs/info/6a05e7166c07461fe1719ea1?utm_campaign=1065&utm_source=git)** | Foster City, CA | Remote | May 14 |
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Rotational Development Intern](https://jobright.ai/jobs/info/6a05e69b6c07461fe1719e4f?utm_campaign=1065&utm_source=git)** | Cincinnati, US | On Site | May 14 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a05e649a88ea73abf7f4c81?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 14 |
 | **[ONEIL](https://www.oneil.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a05e1e66c07461fe1719aef?utm_campaign=1065&utm_source=git)** | Miamisburg, Ohio, United States | On Site | May 14 |
 | **[Sachs Media](https://sachsmedia.com/)** | **[Junior Account Coordinator-2026 Fall Internship](https://jobright.ai/jobs/info/6a05e198f3d6cc51d638c4fe?utm_campaign=1065&utm_source=git)** | REMOTE-United States | Remote | May 14 |
 | **[Christ Presbyterian Academy](http://www.cpalions.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a05e188a88ea73abf7f4962?utm_campaign=1065&utm_source=git)** | Nashville,TN,US | On Site | May 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JD Bank](https://jdbank.com/)** | **[INTERN FOR MARKETING DEPARTMENT](https://jobright.ai/jobs/info/6a04fd4ef3d6cc51d6385967?utm_campaign=1065&utm_source=git)** | Kaliste Saloom , Lafayette, LA, US | On Site | May 13 |
 | ↳ | **[INTERN FOR MARKETING DEPARTMENT](https://jobright.ai/jobs/info/6a04fd4df3d6cc51d6385966?utm_campaign=1065&utm_source=git)** | Kirby Street Office, Lake Charles, LA, US | On Site | May 13 |
 | **[Hiebing](http://hiebing.com)** | **[Digital Coordinator Summer Intern](https://jobright.ai/jobs/info/6a04fcd76c07461fe1712d11?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | May 13 |
-| **[Iterative Health](https://iterative.health)** | **[Summer MBA Marketing Intern](https://jobright.ai/jobs/info/6a05774b6c07461fe171692d?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | May 13 |
-| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6a04f7a37c753c287f6f516d?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA | On Site | May 13 |
-| **[Zeller](https://zeller.us)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/6a04f79d7c753c287f6f515c?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 13 |
-| **[MHI: The Association That Makes Supply Chains Work](https://www.mhi.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a04f569bc4184089f241179?utm_campaign=1065&utm_source=git)** | Charlotte, Charlotte, NC, US | Hybrid | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
