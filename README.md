@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[G.S. Precision, Inc.](https://www.gsprecision.com/)** | **[Marketing Intern - Winter/Spring](https://jobright.ai/jobs/info/699d2efcce78e77b4fe21477?utm_campaign=1065&utm_source=git)** | Brattleboro, VT | On Site | May 14 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Communications Intern-Corporate](https://jobright.ai/jobs/info/69d1f5c6366bb95ba552ac6c?utm_campaign=1065&utm_source=git)** | Portsmouth, NH | On Site | May 14 |
+| **[M3 Communications](https://www.m-3.ink/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a05c0e46c07461fe171867d?utm_campaign=1065&utm_source=git)** | US | Remote | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Marketing Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/699558ed81476f6176ad41c6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Customer Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/69cc80dbcfdc6132f940d9ec?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 14 |
 | ↳ | **[Customer Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/69cc7742cdb525785fb7b9bf?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 14 |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a05af12bc4184089f246766?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 14 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a05ae15a88ea73abf7f27f6?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 14 |
-| **[Align Technology](http://www.aligntech.com)** | **[Consumer Marketing Intern](https://jobright.ai/jobs/info/6a05ab177c753c287f6fa86c?utm_campaign=1065&utm_source=git)** | US-California-San Jose | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Collectible Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a05a5306c07461fe17176f5?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 14 |
 | **[QSSI](http://qssinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a05a2ada88ea73abf7f2456?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a05a142320bff2205ea3131?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 14 |
@@ -79,9 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Marketing & Sales Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/6a056c19a88ea73abf7f1122?utm_campaign=1065&utm_source=git)** | United States | Remote | May 13 |
 | **[Cruze](https://cruzemaps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a056bf16c07461fe17162ee?utm_campaign=1065&utm_source=git)** | United States | Remote | May 13 |
 | **[Stravyn Hill](https://www.linkedin.com/company/108148379)** | **[Growth Fellowship](https://jobright.ai/jobs/info/6a0568cc7c753c287f6f8f6e?utm_campaign=1065&utm_source=git)** | Canada | Remote | May 13 |
-| **[Chatnative AI](https://www.chatnativeai.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a056855a88ea73abf7f0e1f?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | May 13 |
-| **[ARTCODED](www.artcoded.co)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a056813bc4184089f244da7?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | May 13 |
-| **[Panasonic North America](https://homes.panasonic.com/)** | **[Intern, Brand Communications (Summer 2026)](https://jobright.ai/jobs/info/6a05649aa88ea73abf7f0d00?utm_campaign=1065&utm_source=git)** | Newark, NJ | Hybrid | May 13 |
+| **[Assay](https://www.assayevals.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a056855a88ea73abf7f0e1f?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | May 13 |
+| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Intern, Brand Communications (Summer 2026)](https://jobright.ai/jobs/info/6a05649aa88ea73abf7f0d00?utm_campaign=1065&utm_source=git)** | Newark, NJ | Hybrid | May 13 |
 | **[Donna Ai](www.donnaai.net)** | **[Intern](https://jobright.ai/jobs/info/6a055bdcf3d6cc51d638896e?utm_campaign=1065&utm_source=git)** | Laguna Beach, CA | Hybrid | May 13 |
 | **[Threddle](https://threddle.com/)** | **[Social Media & Brand Marketing Intern](https://jobright.ai/jobs/info/6a055a55bc4184089f244a5d?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | May 13 |
 | **[Lynker](https://lynker.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a05585bf3d6cc51d638884b?utm_campaign=1065&utm_source=git)** | Charleston, SC, US | Remote | May 13 |
@@ -154,7 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Uniphore](http://www.uniphore.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a04d9406c07461fe1711166?utm_campaign=1065&utm_source=git)** | USA - CA - Palo Alto, US | On Site | May 13 |
 | **[Bon Appétit Management Company](http://www.bamco.com/)** | **[Marketing Intern, Bon Appetit / Butler University / Indianapolis, IN](https://jobright.ai/jobs/info/6a04d7f6bc4184089f23fdce?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | May 13 |
 | **[SHIK CONSULTING GROUP](https://www.shikconsultinggroup.com/)** | **[Sales & Communications Internship](https://jobright.ai/jobs/info/6a04d3637c753c287f6f3d9d?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | May 13 |
-| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Marketing & Ecommerce Intern (Temporary)](https://jobright.ai/jobs/info/6a04d3576c07461fe1710fe7?utm_campaign=1065&utm_source=git)** | North Mankato, MN | On Site | May 13 |
-| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Seasonal Marketing Intern](https://jobright.ai/jobs/info/6a04fb5f22395b6dc6da2bf7?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | May 13 |
+| **[Taylor Corporation](https://www.taylor.com/)** | **[Marketing & Ecommerce Intern (Temporary)](https://jobright.ai/jobs/info/6a04d3576c07461fe1710fe7?utm_campaign=1065&utm_source=git)** | North Mankato, MN | On Site | May 13 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing, Sales & Business Development Internship](https://jobright.ai/jobs/info/69cc6dc9891d7b11cfcac51c?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | May 13 |
+| **[Wis-Pak, Inc.](https://wis-pak.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a04cfdef3d6cc51d6382fc9?utm_campaign=1065&utm_source=git)** | Windsor, WI | On Site | May 13 |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Market Research Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6a04cfd44373b07358a3713d?utm_campaign=1065&utm_source=git)** | Covington, GA | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
