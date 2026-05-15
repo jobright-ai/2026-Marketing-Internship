@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a06ad0dbc4184089f251074?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 14 |
+| **[Jubilant Pharma Limited](http://www.jubilantpharma.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a06b55d6c07461fe1721f27?utm_campaign=1065&utm_source=git)** | Spokane, WA | Remote | May 14 |
+| **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Outreach Intern (Remote)](https://jobright.ai/jobs/info/69ef7c9616b2612c2a129a38?utm_campaign=1065&utm_source=git)** | California, United States | Remote | May 14 |
+| ↳ | **[Marketing Intern(Remote）](https://jobright.ai/jobs/info/69ef739358811370cb14654c?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | Remote | May 14 |
 | **[Albert A. Webb Associates (WEBB)](http://webbassociates.com)** | **[Proposal and Marketing Production Intern](https://jobright.ai/jobs/info/6a06ab846c07461fe1721c47?utm_campaign=1065&utm_source=git)** | Riverside, CA | Hybrid | May 14 |
 | **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Intern - Contract Marketing](https://jobright.ai/jobs/info/6a06aafbbc4184089f250fff?utm_campaign=1065&utm_source=git)** | United States | Remote | May 14 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a06aa92a88ea73abf7fd2e8?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 14 |
-| **[ProphetX](https://www.prophetx.co/?currency=point)** | **[Brand & Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a06a7ed320bff2205eae24f?utm_campaign=1065&utm_source=git)** | Remote - USA | Remote | May 14 |
-| **[Align Technology](http://www.aligntech.com)** | **[Consumer Marketing Intern](https://jobright.ai/jobs/info/6a06a7d47c753c287f704c70?utm_campaign=1065&utm_source=git)** | US-California-San Jose | On Site | May 14 |
 | **[Power Integrations](https://www.power.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a0699d4a88ea73abf7fcc74?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | May 14 |
+| **[TYLin](http://www.tylin.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a06ba5ef3d6cc51d63954f9?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Workday Intern](https://jobright.ai/jobs/info/6a0693f5320bff2205eadb69?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | May 14 |
 | **[ROGO](https://rogorent.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a068c33a88ea73abf7fc936?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | May 14 |
 | **[Spectrum Brands, Inc](http://www.spectrumbrands.com)** | **[Social Media Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a068c17320bff2205ead60a?utm_campaign=1065&utm_source=git)** | Earth City, MO | On Site | May 14 |
@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Power Integrations](https://www.power.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a06495d7c753c287f7017da?utm_campaign=1065&utm_source=git)** | San Jose, California | On Site | May 14 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Fan Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a064957a88ea73abf7fa148?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | May 14 |
 | **[Papa Johns](http://www.papajohns.com)** | **[Marketing Analytics Summer Intern (8-weeks only)](https://jobright.ai/jobs/info/6a064937a88ea73abf7fa07d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | May 14 |
-| **[Patriot Disposal](https://www.patriotdisposalservices.com)** | **[Digital Marketing & Analytics Intern](https://jobright.ai/jobs/info/6a06661a6c07461fe1720087?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 14 |
-| ↳ | **[Digital Marketing & Analytics Intern](https://jobright.ai/jobs/info/6a06663ff3d6cc51d6393266?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | May 14 |
+| **[Patriot Disposal](https://www.patriotdisposalservices.com)** | **[Digital Marketing & Analytics Intern](https://jobright.ai/jobs/info/6a06663ff3d6cc51d6393266?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | May 14 |
+| ↳ | **[Digital Marketing & Analytics Intern](https://jobright.ai/jobs/info/6a06661a6c07461fe1720087?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 14 |
 | **[Pearl River Resort](http://www.pearlriverresort.com)** | **[INTERN - PUBLIC RELATIONS - RESORT MKT - CRDE](https://jobright.ai/jobs/info/6a0648ffa88ea73abf7f9f2d?utm_campaign=1065&utm_source=git)** | Choctaw, MS 39350, USA | On Site | May 14 |
 | **[See's Candies](http://www.sees.com)** | **[Social Media Summer Internship](https://jobright.ai/jobs/info/6a0647c5f3d6cc51d6391ac0?utm_campaign=1065&utm_source=git)** | San Francisco, CA, US | Hybrid | May 14 |
 | **[Native Realty](https://nativerealty.com)** | **[Real Estate Marketing Intern](https://jobright.ai/jobs/info/6a064612bc4184089f24db64?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | May 14 |
@@ -150,8 +150,8 @@ For a complete list, click the following sortable link below:
 | **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[Consumer Health Brand Marketing Intern](https://jobright.ai/jobs/info/6a061f026c07461fe171c8cc?utm_campaign=1065&utm_source=git)** | Princeton, NJ, USA | Hybrid | May 14 |
 | **[Northwell Health](https://www.northwell.edu/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a061e8bbc4184089f24b4b8?utm_campaign=1065&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | Hybrid | May 14 |
 | **[SCIENTIFIC GAMES](https://www.scientificgames.com/)** | **[Strategic Communications Intern](https://jobright.ai/jobs/info/6a061d71bc4184089f24b3f7?utm_campaign=1065&utm_source=git)** | Alpharetta, GA, US | On Site | May 14 |
-| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[PR & Communications Intern - Agricultural Insurance Internship](https://jobright.ai/jobs/info/6a061d04bc4184089f24b3c7?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | May 14 |
-| ↳ | **[PR & Communications Intern - Agricultural Insurance Internship](https://jobright.ai/jobs/info/6a061d04bc4184089f24b3c8?utm_campaign=1065&utm_source=git)** | Lansing, MI, US | On Site | May 14 |
+| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[PR & Communications Intern - Agricultural Insurance Internship](https://jobright.ai/jobs/info/6a061d04bc4184089f24b3c8?utm_campaign=1065&utm_source=git)** | Lansing, MI, US | On Site | May 14 |
+| ↳ | **[PR & Communications Intern - Agricultural Insurance Internship](https://jobright.ai/jobs/info/6a061d04bc4184089f24b3c7?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | May 14 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a061a6df3d6cc51d638f1ae?utm_campaign=1065&utm_source=git)** | Pleasantville, NY 10570, USA | On Site | May 14 |
 | **[Legends Global](http://legends.net)** | **[Administrative Internship](https://jobright.ai/jobs/info/6a061a0ea88ea73abf7f74a9?utm_campaign=1065&utm_source=git)** | Pensacola, FL | On Site | May 14 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6a061a00a88ea73abf7f7454?utm_campaign=1065&utm_source=git)** | Lake Charles, LA | On Site | May 14 |
