@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[lil sweet treat](lilsweettreat.com)** | **[Summer Social Media Internship Program](https://jobright.ai/jobs/info/6a0687297c753c287f703eba?utm_campaign=1065&utm_source=git)** | Venice, CA | On Site | May 14 |
+| **[Albert A. Webb Associates (WEBB)](http://webbassociates.com)** | **[Proposal and Marketing Production Intern](https://jobright.ai/jobs/info/6a0684977c753c287f703dac?utm_campaign=1065&utm_source=git)** | Riverside,CA,US | On Site | May 14 |
+| **[Pete & Pedro](https://peteandpedro.com)** | **[Haircare & Lifestyle Ambassador Intern](https://jobright.ai/jobs/info/6a0680ff7c753c287f703ae6?utm_campaign=1065&utm_source=git)** | United States | Remote | May 14 |
+| **[Mac Properties](http://macapartments.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a067ea57c753c287f703a0a?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | May 14 |
 | **[Vent Now](https://www.ventnow.ai/)** | **[Intern -- Content Specialist Marketer](https://jobright.ai/jobs/info/6a0677eb6c07461fe17209e0?utm_campaign=1065&utm_source=git)** | United States | Remote | May 14 |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a06769abc4184089f24fd27?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 14 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a067582a88ea73abf7fbfdb?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 14 |
 | **[McMillan Pazdan Smith Architecture](http://mcmillanpazdansmith.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69f405781f90bd6ae23d3495?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | May 14 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[PR & Communications Intern - Agricultural Insurance Internship](https://jobright.ai/jobs/info/6a0670917c753c287f703681?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | May 14 |
 | **[SNFout](http://www.SNFout.com)** | **[Social Media Intern – Summer 2026 (Unpaid, For College Credit)](https://jobright.ai/jobs/info/6a067004a88ea73abf7fbdd0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | May 14 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Power Integrations](https://www.power.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a06495d7c753c287f7017da?utm_campaign=1065&utm_source=git)** | San Jose, California | On Site | May 14 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Fan Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a064957a88ea73abf7fa148?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | May 14 |
 | **[Papa Johns](http://www.papajohns.com)** | **[Marketing Analytics Summer Intern (8-weeks only)](https://jobright.ai/jobs/info/6a064937a88ea73abf7fa07d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | May 14 |
-| **[Patriot Disposal](https://www.patriotdisposalservices.com)** | **[Digital Marketing & Analytics Intern](https://jobright.ai/jobs/info/6a06661a6c07461fe1720087?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 14 |
-| ↳ | **[Digital Marketing & Analytics Intern](https://jobright.ai/jobs/info/6a06663ff3d6cc51d6393266?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | May 14 |
+| **[Patriot Disposal](https://www.patriotdisposalservices.com)** | **[Digital Marketing & Analytics Intern](https://jobright.ai/jobs/info/6a06663ff3d6cc51d6393266?utm_campaign=1065&utm_source=git)** | Manassas, VA | On Site | May 14 |
+| ↳ | **[Digital Marketing & Analytics Intern](https://jobright.ai/jobs/info/6a06661a6c07461fe1720087?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 14 |
 | **[Pearl River Resort](http://www.pearlriverresort.com)** | **[INTERN - PUBLIC RELATIONS - RESORT MKT - CRDE](https://jobright.ai/jobs/info/6a0648ffa88ea73abf7f9f2d?utm_campaign=1065&utm_source=git)** | Choctaw, MS 39350, USA | On Site | May 14 |
 | **[See's Candies](http://www.sees.com)** | **[Social Media Summer Internship](https://jobright.ai/jobs/info/6a0647c5f3d6cc51d6391ac0?utm_campaign=1065&utm_source=git)** | San Francisco, CA, US | Hybrid | May 14 |
 | **[Native Realty](https://nativerealty.com)** | **[Real Estate Marketing Intern](https://jobright.ai/jobs/info/6a064612bc4184089f24db64?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | May 14 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[Consumer Health Brand Marketing Intern](https://jobright.ai/jobs/info/6a061f026c07461fe171c8cc?utm_campaign=1065&utm_source=git)** | Princeton, NJ, USA | Hybrid | May 14 |
 | **[Northwell Health](https://www.northwell.edu/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a061e8bbc4184089f24b4b8?utm_campaign=1065&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | Hybrid | May 14 |
 | **[SCIENTIFIC GAMES](https://www.scientificgames.com/)** | **[Strategic Communications Intern](https://jobright.ai/jobs/info/6a061d71bc4184089f24b3f7?utm_campaign=1065&utm_source=git)** | Alpharetta, GA, US | On Site | May 14 |
-| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[PR & Communications Intern - Agricultural Insurance Internship](https://jobright.ai/jobs/info/6a061d04bc4184089f24b3c8?utm_campaign=1065&utm_source=git)** | Lansing, MI, US | On Site | May 14 |
-| ↳ | **[PR & Communications Intern - Agricultural Insurance Internship](https://jobright.ai/jobs/info/6a061d04bc4184089f24b3c7?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | May 14 |
+| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[PR & Communications Intern - Agricultural Insurance Internship](https://jobright.ai/jobs/info/6a061d04bc4184089f24b3c7?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | May 14 |
+| ↳ | **[PR & Communications Intern - Agricultural Insurance Internship](https://jobright.ai/jobs/info/6a061d04bc4184089f24b3c8?utm_campaign=1065&utm_source=git)** | Lansing, MI, US | On Site | May 14 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a061a6df3d6cc51d638f1ae?utm_campaign=1065&utm_source=git)** | Pleasantville, NY 10570, USA | On Site | May 14 |
 | **[Legends Global](http://legends.net)** | **[Administrative Internship](https://jobright.ai/jobs/info/6a061a0ea88ea73abf7f74a9?utm_campaign=1065&utm_source=git)** | Pensacola, FL | On Site | May 14 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6a061a00a88ea73abf7f7454?utm_campaign=1065&utm_source=git)** | Lake Charles, LA | On Site | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing-1](https://jobright.ai/jobs/info/6a0617777c753c287f6ff0dd?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 14 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a06176f7c753c287f6ff0b2?utm_campaign=1065&utm_source=git)** | Ellenton, FL | On Site | May 14 |
 | ↳ | **[Intern, Social Media](https://jobright.ai/jobs/info/6a06176a7c753c287f6ff08f?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 14 |
-| **[Legends Global](http://legends.net)** | **[Social Media and Content Intern](https://jobright.ai/jobs/info/6a061691bc4184089f24af16?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | May 14 |
-| ↳ | **[Ohio State Athletics- Social Media Internship](https://jobright.ai/jobs/info/6a061691bc4184089f24af1c?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
