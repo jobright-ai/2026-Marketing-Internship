@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a08c6903b54ed42d74d929c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 16 |
+| **[Vent Now](https://www.ventnow.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a08d592939a5f01db95bc13?utm_campaign=1065&utm_source=git)** | United States | Remote | May 16 |
+| **[University of La Verne](http://laverne.edu)** | **[Makerspace Outreach & Promotions Assistant - NFWS (2026/2027)](https://jobright.ai/jobs/info/6a08cd36a203b1052e445ff8?utm_campaign=1065&utm_source=git)** | La Verne, CA | On Site | May 16 |
+| **[MHMR of Tarrant County](https://www.mhmrtarrant.org/)** | **[2026 Intern- Communication & Marketing](https://jobright.ai/jobs/info/6a08ccd16186f4685988a420?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | May 16 |
+| **[Allen County Public Library](https://acpl.lib.in.us)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a08cc678f3e371eb61819e3?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | May 16 |
+| **[Blue Mountain](http://coolblue.com)** | **[Remote Marketing Internship](https://jobright.ai/jobs/info/6a08cc528f3e371eb618199e?utm_campaign=1065&utm_source=git)** | State College, PA | Remote | May 16 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Social Media Marketing Intern (Flexible, 10-20hrs/week)](https://jobright.ai/jobs/info/6a08c5c1403fc339507ef633?utm_campaign=1065&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 16 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Marketing Innovation Intern](https://jobright.ai/jobs/info/6a08c3af6186f46859889e41?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | May 16 |
 | **[Imagine Museum](http://www.imaginemuseum.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a08b66c3b54ed42d74d8cbb?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | On Site | May 16 |
@@ -69,30 +73,30 @@ For a complete list, click the following sortable link below:
 | **[Flinn](http://flinnsci.com)** | **[Merchandising Internship - Summer 2026 (2744)](https://jobright.ai/jobs/info/6a089f468f3e371eb61811f6?utm_campaign=1065&utm_source=git)** | BATAVIA, IL 60510 | On Site | May 16 |
 | **[Cosm](https://www.cosm.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69d0625b891d7b11cfcdb07e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | May 16 |
 | **[CBRE](https://www.cbre.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a088e153b54ed42d74d83d8?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | May 16 |
-| **[Axway](http://www.axway.com)** | **[Demand Generation & Marketing Internship](https://jobright.ai/jobs/info/6a0889eea203b1052e44509b?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
-| ↳ | **[Demand Generation & Marketing Internship](https://jobright.ai/jobs/info/6a0889eea203b1052e44509c?utm_campaign=1065&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
+| **[Axway](http://www.axway.com)** | **[Demand Generation & Marketing Internship](https://jobright.ai/jobs/info/6a0889eea203b1052e44509c?utm_campaign=1065&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
+| ↳ | **[Demand Generation & Marketing Internship](https://jobright.ai/jobs/info/6a0889eea203b1052e44509b?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/6a0882c8403fc339507ee68a?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | May 16 |
-| **[AdTheorent](http://www.adtheorent.com)** | **[Events Associate Intern](https://jobright.ai/jobs/info/6a086c00403fc339507ee023?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | May 16 |
-| ↳ | **[Events Associate Intern](https://jobright.ai/jobs/info/6a086c00403fc339507ee022?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | May 16 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Creative Marketing Intern, Social Media & Digital / Full-Time /Remote](https://jobright.ai/jobs/info/6a0868f23b54ed42d74d7794?utm_campaign=1065&utm_source=git)** | United States | Remote | May 16 |
-| ↳ | **[Creative Marketing Intern, Social Media & Digital / Full-Time /Remote](https://jobright.ai/jobs/info/6a0868f23b54ed42d74d7793?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | May 16 |
+| **[AdTheorent](http://www.adtheorent.com)** | **[Events Associate Intern](https://jobright.ai/jobs/info/6a086c00403fc339507ee022?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | May 16 |
+| ↳ | **[Events Associate Intern](https://jobright.ai/jobs/info/6a086c00403fc339507ee023?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | May 16 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Creative Marketing Intern, Social Media & Digital / Full-Time /Remote](https://jobright.ai/jobs/info/6a0868f23b54ed42d74d7793?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | May 16 |
+| ↳ | **[Creative Marketing Intern, Social Media & Digital / Full-Time /Remote](https://jobright.ai/jobs/info/6a0868f23b54ed42d74d7794?utm_campaign=1065&utm_source=git)** | United States | Remote | May 16 |
 | **[HomeSmiles](https://homesmiles.com/)** | **[Marketing Intern – Social Media & Video Content](https://jobright.ai/jobs/info/6a085f236186f46859887ffd?utm_campaign=1065&utm_source=git)** | Mount Pleasant, SC | Hybrid | May 16 |
 | **[LIV Golf](https://www.livgolf.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69a92afe79f3f4037f43e996?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 16 |
-| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Board Engagement Intern](https://jobright.ai/jobs/info/6a08513a8f3e371eb617f809?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | May 16 |
-| ↳ | **[Board Engagement Intern](https://jobright.ai/jobs/info/6a08513a8f3e371eb617f808?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | May 16 |
-| **[Carollo Engineers](http://www.carollo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a085108939a5f01db9587a1?utm_campaign=1065&utm_source=git)** | US-AZ-Phoenix | On Site | May 16 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a085108939a5f01db9587a0?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, US | On Site | May 16 |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Board Engagement Intern](https://jobright.ai/jobs/info/6a08513a8f3e371eb617f808?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | May 16 |
+| ↳ | **[Board Engagement Intern](https://jobright.ai/jobs/info/6a08513a8f3e371eb617f809?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | May 16 |
+| **[Carollo Engineers](http://www.carollo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a085108939a5f01db9587a0?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, US | On Site | May 16 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a085108939a5f01db9587a1?utm_campaign=1065&utm_source=git)** | US-AZ-Phoenix | On Site | May 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69b3cf26ae2a534885eb41b2?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 16 |
 | **[Clear Edge Filtration](https://www.clear-edge.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0850e96186f468598879ba?utm_campaign=1065&utm_source=git)** | US-NY-Buffalo | On Site | May 16 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a0850e86186f468598879b7?utm_campaign=1065&utm_source=git)** | Buffalo, NY, US | On Site | May 16 |
-| **[Lynker](https://lynker.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0850453b54ed42d74d6810?utm_campaign=1065&utm_source=git)** | Charleston, SC, US | Remote | May 16 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a0850453b54ed42d74d680e?utm_campaign=1065&utm_source=git)** | US-SC-Charleston | Remote | May 16 |
+| **[Lynker](https://lynker.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0850453b54ed42d74d680e?utm_campaign=1065&utm_source=git)** | US-SC-Charleston | Remote | May 16 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a0850453b54ed42d74d6810?utm_campaign=1065&utm_source=git)** | Charleston, SC, US | Remote | May 16 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Marketing Data Analyst Intern](https://jobright.ai/jobs/info/6a08500c403fc339507ecd68?utm_campaign=1065&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
 | ↳ | **[Marketing Data Analyst Intern](https://jobright.ai/jobs/info/6a08500b403fc339507ecd60?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | May 16 |
-| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a084f993b54ed42d74d65f9?utm_campaign=1065&utm_source=git)** | 811 Regal Row, Dallas, TX | On Site | May 16 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a084f993b54ed42d74d65fa?utm_campaign=1065&utm_source=git)** | Arbor Metals - Dallas, TX | On Site | May 16 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a084f8e3b54ed42d74d65ca?utm_campaign=1065&utm_source=git)** | US-TX-Dallas | On Site | May 16 |
+| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a084f993b54ed42d74d65fa?utm_campaign=1065&utm_source=git)** | Arbor Metals - Dallas, TX | On Site | May 16 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a084f993b54ed42d74d65f9?utm_campaign=1065&utm_source=git)** | 811 Regal Row, Dallas, TX | On Site | May 16 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a084f8e3b54ed42d74d65c9?utm_campaign=1065&utm_source=git)** | Dallas, TX, US | On Site | May 16 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a084f8e3b54ed42d74d65ca?utm_campaign=1065&utm_source=git)** | US-TX-Dallas | On Site | May 16 |
 | **[CECO Environmental Corporation](https://www.cecoenviro.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a084f77a203b1052e4433b0?utm_campaign=1065&utm_source=git)** | US-TX-Addison | Hybrid | May 16 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a051f0ebc4184089f243042?utm_campaign=1065&utm_source=git)** | Addison, TX, US | Hybrid | May 16 |
 | **[IndeVets](https://indevets.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a084eb13b54ed42d74d63cd?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, US | Hybrid | May 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mortenson](https://www.mortenson.com)** | **[Marketing Intern - Civil](https://jobright.ai/jobs/info/6a079bd6939a5f01db95239b?utm_campaign=1065&utm_source=git)** | Minnesota, United States | On Site | May 15 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/6a079a41403fc339507e6733?utm_campaign=1065&utm_source=git)** | Michigan Medicine - Ann Arbor | Hybrid | May 15 |
 | ↳ | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/6a079a41403fc339507e6734?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | May 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Marketing Intern, Regional (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0799cca203b1052e43cf0d?utm_campaign=1065&utm_source=git)** | Oakville | Hybrid | May 15 |
-| ↳ | **[Marketing Intern, Regional (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0799cca203b1052e43cf0c?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| **[Nike](https://www.nike.com)** | **[NIKE, Inc. Marketing Vanguard Program (MVP) Graduate Internship](https://jobright.ai/jobs/info/6a0799bfa203b1052e43cf01?utm_campaign=1065&utm_source=git)** | Beaverton, Oregon, US | On Site | May 15 |
-| **[Rho](https://rho.co)** | **[Events and Community Intern](https://jobright.ai/jobs/info/6a0799a9939a5f01db952084?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
