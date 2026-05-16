@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Integrated Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6a081cf5403fc339507eae3b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 16 |
+| **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Marketing AI Content Writer Intern](https://jobright.ai/jobs/info/6a08140e8f3e371eb617d188?utm_campaign=1065&utm_source=git)** | Duryea, PA | On Site | May 15 |
 | **[Editory](https://www.stringer.news/)** | **[Social Media News Creator (Content Internship)](https://jobright.ai/jobs/info/6a080b303b54ed42d74d3e2b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 15 |
 | **[GO Car Wash](https://gocarwash.com/)** | **[Intern - Brand and Customer Experience](https://jobright.ai/jobs/info/6a0805f7a203b1052e440a9f?utm_campaign=1065&utm_source=git)** | Englewood, CO | Remote | May 15 |
 | **[Easter Seals Alberta](http://www.easterseals.ab.ca)** | **[Marketing Cordinator ( Canada Summer Jobs placement)](https://jobright.ai/jobs/info/6a0805f6a203b1052e440a98?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 15 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a07deb83b54ed42d74d2703?utm_campaign=1065&utm_source=git)** | Dallas | On Site | May 15 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6a07dd60403fc339507e8994?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | May 15 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a07dd5d403fc339507e8983?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | May 15 |
+| **[SJE Inc.](https://sjeinc.com/)** | **[Internship - Digital Marketing](https://jobright.ai/jobs/info/6a081c8e939a5f01db95654e?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | May 15 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a07d815403fc339507e870b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 15 |
 | **[Spectrum Brands, Inc](http://www.spectrumbrands.com)** | **[Social Media Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0801608f3e371eb617c803?utm_campaign=1065&utm_source=git)** | Middleton, WI | Hybrid | May 15 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / California State University - Stanislaus](https://jobright.ai/jobs/info/6a07d2c4939a5f01db953f66?utm_campaign=1065&utm_source=git)** | Turlock, CA | On Site | May 15 |
@@ -78,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[City of McKinney](https://www.mckinneytexas.org/)** | **[College Intern - Visit McKinney (MCVB)](https://jobright.ai/jobs/info/6a0805b6939a5f01db955a7a?utm_campaign=1065&utm_source=git)** | McKinney, TX | On Site | May 15 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing / Sales](https://jobright.ai/jobs/info/6a07fa778f3e371eb617c339?utm_campaign=1065&utm_source=git)** | Metamora, OH | On Site | May 15 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a07c9ac403fc339507e8078?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 15 |
-| **[Mission Pet Health](https://missionvetpartners.com/)** | **[Market Planner and Strategy Intern - Atlanta, GA](https://jobright.ai/jobs/info/6a07bccb8f3e371eb617a101?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | May 15 |
-| ↳ | **[Marketing Technology Intern - Mission Pet Health](https://jobright.ai/jobs/info/6a07bccb8f3e371eb617a100?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | May 15 |
+| **[Mission Pet Health](https://missionvetpartners.com/)** | **[Marketing Technology Intern - Mission Pet Health](https://jobright.ai/jobs/info/6a07bccb8f3e371eb617a100?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | May 15 |
+| ↳ | **[Market Planner and Strategy Intern - Atlanta, GA](https://jobright.ai/jobs/info/6a07bccb8f3e371eb617a101?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | May 15 |
 | **[FIKA](fikafikafika.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a07bccb6186f46859882790?utm_campaign=1065&utm_source=git)** | Greater Los Angeles, CA | Hybrid | May 15 |
 | ↳ | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a07bc64a203b1052e43e2d7?utm_campaign=1065&utm_source=git)** | Greater Los Angeles, CA | Hybrid | May 15 |
 | **[Red Rocks Credit Union](https://www.redrocks.org/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a07b9d6403fc339507e7864?utm_campaign=1065&utm_source=git)** | 8195 Southpark Lane, Littleton, CO, United States | Hybrid | May 15 |
@@ -99,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Mortenson](https://www.mortenson.com)** | **[Marketing Intern - Civil](https://jobright.ai/jobs/info/6a079bd6939a5f01db95239b?utm_campaign=1065&utm_source=git)** | Minnesota, United States | On Site | May 15 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/6a079a41403fc339507e6734?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | May 15 |
 | ↳ | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/6a079a41403fc339507e6733?utm_campaign=1065&utm_source=git)** | Michigan Medicine - Ann Arbor | Hybrid | May 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Marketing Intern, Regional (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0799cca203b1052e43cf0c?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Marketing Intern, Regional (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0799cca203b1052e43cf0d?utm_campaign=1065&utm_source=git)** | Oakville | Hybrid | May 15 |
+| **[Geotab](http://www.geotab.com/)** | **[Marketing Intern, Regional (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0799cca203b1052e43cf0d?utm_campaign=1065&utm_source=git)** | Oakville | Hybrid | May 15 |
+| ↳ | **[Marketing Intern, Regional (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0799cca203b1052e43cf0c?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
 | **[Nike](https://www.nike.com)** | **[NIKE, Inc. Marketing Vanguard Program (MVP) Graduate Internship](https://jobright.ai/jobs/info/6a0799bfa203b1052e43cf01?utm_campaign=1065&utm_source=git)** | Beaverton, Oregon, US | On Site | May 15 |
 | **[Rho](https://rho.co)** | **[Events and Community Intern](https://jobright.ai/jobs/info/6a0799a9939a5f01db952084?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 15 |
 | **[TYLin](http://www.tylin.com)** | **[Marketing Intern (Sales Enablement)](https://jobright.ai/jobs/info/6a079558939a5f01db951f00?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lighthouse Mission Ministries](https://www.thelighthousemission.org)** | **[Advancement Internship](https://jobright.ai/jobs/info/6a07690d8f3e371eb61767a7?utm_campaign=1065&utm_source=git)** | Bellingham, Washington, United States | On Site | May 15 |
 | **[GO Car Wash](https://gocarwash.com/)** | **[Intern - Brand and Customer Experience](https://jobright.ai/jobs/info/6a07685f939a5f01db94f11b?utm_campaign=1065&utm_source=git)** | Greenwood Village, Colorado, United States | Remote | May 15 |
 | **[SJE Inc.](https://sjeinc.com/)** | **[Internship - Digital Marketing](https://jobright.ai/jobs/info/6a0767333b54ed42d74cd005?utm_campaign=1065&utm_source=git)** | Hoover, Alabama, United States | On Site | May 15 |
-| **[Revere Control Systems](http://reverecontrol.com)** | **[Internship - Digital Marketing](https://jobright.ai/jobs/info/6a076731939a5f01db94f04d?utm_campaign=1065&utm_source=git)** | Hoover, Alabama, United States | On Site | May 15 |
-| **[The Swift Club](www.theswiftclub.com)** | **[Brand Partnerships & Marketing Associate (Intern)](https://jobright.ai/jobs/info/6a0765e23b54ed42d74ccf60?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | May 15 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Global Engagement Church Channels Social Media Marketing Intern](https://jobright.ai/jobs/info/6a07654c3b54ed42d74cceb1?utm_campaign=1065&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
