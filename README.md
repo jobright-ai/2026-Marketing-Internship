@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a07bd24939a5f01db953615?utm_campaign=1065&utm_source=git)** | US-ST PAUL MN | Hybrid | May 15 |
+| **[Mission Pet Health](https://missionvetpartners.com/)** | **[Marketing Technology Intern - Mission Pet Health](https://jobright.ai/jobs/info/6a07bccb8f3e371eb617a100?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | May 15 |
+| ↳ | **[Market Planner and Strategy Intern - Atlanta, GA](https://jobright.ai/jobs/info/6a07bccb8f3e371eb617a101?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | May 15 |
+| **[FIKA](fikafikafika.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a07bccb6186f46859882790?utm_campaign=1065&utm_source=git)** | Greater Los Angeles, CA | Hybrid | May 15 |
+| ↳ | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a07bc64a203b1052e43e2d7?utm_campaign=1065&utm_source=git)** | Greater Los Angeles, CA | Hybrid | May 15 |
+| **[Red Rocks Credit Union](https://www.redrocks.org/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a07b9d6403fc339507e7864?utm_campaign=1065&utm_source=git)** | 8195 Southpark Lane, Littleton, CO, United States | Hybrid | May 15 |
+| **[GO Car Wash](https://gocarwash.com/)** | **[Brand and Customer Experience Intern](https://jobright.ai/jobs/info/6a07b933a203b1052e43e0a1?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | May 15 |
+| **[The Citco Group Limited](https://www.citco.com)** | **[Intern, Group Marketing](https://jobright.ai/jobs/info/6a07b73a6186f468598822c7?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 15 |
+| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Internship - PR](https://jobright.ai/jobs/info/6a07b3023b54ed42d74d10a3?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | May 15 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern, Digital Communications & Community Engagement (Part-Time) – Public Works](https://jobright.ai/jobs/info/6a07ac9f403fc339507e7295?utm_campaign=1065&utm_source=git)** | San Jose Metropolitan Area | On Site | May 15 |
 | **[CMG Worldwide](https://www.cmgworldwide.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a07ab90403fc339507e71e5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 15 |
 | **[City of San José](http://www.sanjoseca.gov/)** | **[Student Intern, Digital Communications & Community Engagement (Part-Time) – Public Works](https://jobright.ai/jobs/info/6a07ab8e6186f46859881fb2?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | May 15 |
 | **[Buffalo Bills](https://www.buffalobills.com/)** | **[Communications Training Camp Intern](https://jobright.ai/jobs/info/6a04c9167c753c287f6f3412?utm_campaign=1065&utm_source=git)** | Orchard Park, NY | On Site | May 15 |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a07aa33a203b1052e43da91?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 15 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a07a8283b54ed42d74d0dcb?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 15 |
 | **[Clear Edge Filtration](https://www.clear-edge.com/)** | **[Brand and Content Intern](https://jobright.ai/jobs/info/6a07a7ed6186f46859881e2b?utm_campaign=1065&utm_source=git)** | US-GA-Fairburn | Hybrid | May 15 |
 | ↳ | **[Brand and Content Intern](https://jobright.ai/jobs/info/6a07a7ed6186f46859881e2a?utm_campaign=1065&utm_source=git)** | Fairburn, GA, US | Hybrid | May 15 |
 | **[Andrea Leigh Co](andrealeighco.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/6a07a676403fc339507e700e?utm_campaign=1065&utm_source=git)** | United States | Remote | May 15 |
@@ -75,10 +82,10 @@ For a complete list, click the following sortable link below:
 | **[The Citco Group Limited](https://www.citco.com)** | **[Intern, Group Marketing](https://jobright.ai/jobs/info/6a079ca33b54ed42d74d06ac?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | May 15 |
 | **[Mortenson](https://www.mortenson.com)** | **[Marketing Intern - Civil](https://jobright.ai/jobs/info/6a079bd6939a5f01db95239b?utm_campaign=1065&utm_source=git)** | Minnesota, United States | On Site | May 15 |
 | **[OCF](https://www.makemorepossible.glass/)** | **[Marketing and Finance Intern](https://jobright.ai/jobs/info/6a079bc7403fc339507e6882?utm_campaign=1065&utm_source=git)** | Toledo, Ohio Metropolitan Area | Hybrid | May 15 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/6a079a41403fc339507e6733?utm_campaign=1065&utm_source=git)** | Michigan Medicine - Ann Arbor | Hybrid | May 15 |
-| ↳ | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/6a079a41403fc339507e6734?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | May 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Marketing Intern, Regional (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0799cca203b1052e43cf0c?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Marketing Intern, Regional (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0799cca203b1052e43cf0d?utm_campaign=1065&utm_source=git)** | Oakville | Hybrid | May 15 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/6a079a41403fc339507e6734?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | May 15 |
+| ↳ | **[Website and Digital Strategy Intern](https://jobright.ai/jobs/info/6a079a41403fc339507e6733?utm_campaign=1065&utm_source=git)** | Michigan Medicine - Ann Arbor | Hybrid | May 15 |
+| **[Geotab](http://www.geotab.com/)** | **[Marketing Intern, Regional (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0799cca203b1052e43cf0d?utm_campaign=1065&utm_source=git)** | Oakville | Hybrid | May 15 |
+| ↳ | **[Marketing Intern, Regional (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0799cca203b1052e43cf0c?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
 | **[Nike](https://www.nike.com)** | **[NIKE, Inc. Marketing Vanguard Program (MVP) Graduate Internship](https://jobright.ai/jobs/info/6a0799bfa203b1052e43cf01?utm_campaign=1065&utm_source=git)** | Beaverton, Oregon, US | On Site | May 15 |
 | **[Rho](https://rho.co)** | **[Events and Community Intern](https://jobright.ai/jobs/info/6a0799a9939a5f01db952084?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 15 |
 | **[TYLin](http://www.tylin.com)** | **[Marketing Intern (Sales Enablement)](https://jobright.ai/jobs/info/6a079558939a5f01db951f00?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 15 |
@@ -100,11 +107,9 @@ For a complete list, click the following sortable link below:
 | **[AutoSavvy](https://autosavvy.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/6a078640403fc339507e5b41?utm_campaign=1065&utm_source=git)** | Woods Cross, UT 84087 | On Site | May 15 |
 | **[Pocket Prep](http://www.pocketprep.com)** | **[Growth Intern: Marketing Content](https://jobright.ai/jobs/info/6a0784b63b54ed42d74cef0e?utm_campaign=1065&utm_source=git)** | Durham, NC | Hybrid | May 15 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Intern Social Media Manager - Podcast Company](https://jobright.ai/jobs/info/6a0783f43b54ed42d74cedf4?utm_campaign=1065&utm_source=git)** | United States | Remote | May 15 |
-| **[Àuda.B](https://audabbeauty.com/)** | **[Influencer & Community Marketing Intern](https://jobright.ai/jobs/info/6a0783dd403fc339507e5850?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | May 15 |
 | **[Radware](https://www.radware.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a0783d0403fc339507e5811?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | May 15 |
 | **[University of La Verne](http://laverne.edu)** | **[NFWS - Office of Admission Social Media Specialist II 2026-2027 (Student)](https://jobright.ai/jobs/info/6a077f7f3b54ed42d74ce9de?utm_campaign=1065&utm_source=git)** | La Verne, CA | On Site | May 15 |
 | **[Revere Control Systems](http://reverecontrol.com)** | **[Internship - Digital Marketing](https://jobright.ai/jobs/info/6a077f7f3b54ed42d74ce9d0?utm_campaign=1065&utm_source=git)** | Hoover, AL | On Site | May 15 |
-| **[El Centro Family Health](https://ecfh.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a077f6c3b54ed42d74ce976?utm_campaign=1065&utm_source=git)** | Santa Fe, NM | On Site | May 15 |
 | **[MSI Defense Solutions](https://www.msidefense.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a077f39a203b1052e43b80c?utm_campaign=1065&utm_source=git)** | Mooresville, NC | On Site | May 15 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Innisfree Social Media Intern](https://jobright.ai/jobs/info/6a077edb939a5f01db950849?utm_campaign=1065&utm_source=git)** | New York | On Site | May 15 |
 | **[CMC](https://www.cmc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a07a50a6186f46859881c68?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | May 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a07619fa203b1052e439eeb?utm_campaign=1065&utm_source=git)** | North Shore | On Site | May 15 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Hybrid Marketing Administrative Intern (June 2026 - December 2026 Full Time)](https://jobright.ai/jobs/info/6a0761156186f4685987d8db?utm_campaign=1065&utm_source=git)** | MVC Orlando Telesales, US | Hybrid | May 15 |
 | **[Smartly](http://smartly.io)** | **[Marketing Science Intern](https://jobright.ai/jobs/info/6a07605e403fc339507e35a0?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 15 |
-| ↳ | **[Marketing Science Intern](https://jobright.ai/jobs/info/6a07605c403fc339507e359f?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 15 |
-| **[Honey Homes](https://www.honeyhomes.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a075b38939a5f01db94e937?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | May 15 |
-| **[Celonis](https://www.celonis.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6a075b30939a5f01db94e90a?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | May 15 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/6a0755fd3b54ed42d74cc819?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | Remote | May 15 |
-| **[Iterative Health](https://iterative.health)** | **[Summer MBA Marketing Intern](https://jobright.ai/jobs/info/6a077ef2939a5f01db950896?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
