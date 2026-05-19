@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6a0bd6d422d0d34036c8ff4c?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 18 |
+| **[Vetra Technologies](https://www.vetratechnologies.com)** | **[Marketing & PR Intern — Vetra Technologies / Summer 2026](https://jobright.ai/jobs/info/6a0bcffd0411d7417a1b4467?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | May 18 |
 | **[VYRO](https://www.linkedin.com/company/112303800)** | **[Social Media Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0bc45a963f7a67d95d2d4d?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 18 |
 | **[California Institute for Behavioral Health Solutions (CIBHS)](https://www.cibhs.org)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/6a0bc21f538d03366dc88849?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Hybrid | May 18 |
 | **[Superior Roofing Company](superior-roofing-company.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a0bb8810411d7417a1b3c54?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | May 18 |
@@ -99,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[IT Communications Intern](https://jobright.ai/jobs/info/6a0b84bc4d93203636871db7?utm_campaign=1065&utm_source=git)** | AUSTIN, TX | On Site | May 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6a0b80ad538d03366dc862b5?utm_campaign=1065&utm_source=git)** | IL-Chicago; 303 E Wacker Drive, US | On Site | May 18 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Market Research](https://jobright.ai/jobs/info/6a0b7d12538d03366dc86087?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | May 18 |
-| **[BIC](http://bicworld.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0b7cc022d0d34036c8ce7b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Outreach Intern](https://jobright.ai/jobs/info/6a0b7ba04d93203636871919?utm_campaign=1065&utm_source=git)** | US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 SFP Campaigns and Communications Intern](https://jobright.ai/jobs/info/6a0b7b9322d0d34036c8cde7?utm_campaign=1065&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 SFP Campaigns and Communications Intern](https://jobright.ai/jobs/info/6a0b7b9222d0d34036c8cde6?utm_campaign=1065&utm_source=git)** | United States-Remote, US | Remote | May 18 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Brandefy App](https://beyondthelabel.brandefy.info)** | **[Paid Social & Content Creation Internship](https://jobright.ai/jobs/info/6a0b6d2a22d0d34036c8c1ac?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | May 18 |
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Dining Marketing Student Intern - Midd Dining (AY 25-26 902170)](https://jobright.ai/jobs/info/6a0b6944963f7a67d95cf85f?utm_campaign=1065&utm_source=git)** | Middlebury, Vermont, United States | On Site | May 18 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Marketing Internship](https://jobright.ai/jobs/info/6a0b6594963f7a67d95cf5a6?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | May 18 |
-| **[Knowledge Services](http://www.knowledgeservices.com)** | **[GovRAMP Marketing & Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6a0b612122d0d34036c8b9be?utm_campaign=1065&utm_source=git)** | Indianapolis, Indiana, US | On Site | May 18 |
-| ↳ | **[GovRAMP Marketing & Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6a0b612122d0d34036c8b9bd?utm_campaign=1065&utm_source=git)** | Indianapolis, Indiana | On Site | May 18 |
+| **[Knowledge Services](http://www.knowledgeservices.com)** | **[GovRAMP Marketing & Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6a0b612122d0d34036c8b9bd?utm_campaign=1065&utm_source=git)** | Indianapolis, Indiana | On Site | May 18 |
+| ↳ | **[GovRAMP Marketing & Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6a0b612122d0d34036c8b9be?utm_campaign=1065&utm_source=git)** | Indianapolis, Indiana, US | On Site | May 18 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC & Telemundo Connecticut Sales Marketing Internship - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0b60ec963f7a67d95cf28d?utm_campaign=1065&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | May 18 |
 | **[STEVENS POINT AREA YMCA](http://spymca.org)** | **[Pointers Connect Internship - Marketing Intern](https://jobright.ai/jobs/info/6a0b6001a235d749afa84b48?utm_campaign=1065&utm_source=git)** | Stevens Point,WI,US | On Site | May 18 |
 | **[PowerGrid Services](https://www.powergridservices.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0b5f16538d03366dc84bfb?utm_campaign=1065&utm_source=git)** | Irondale, AL 35210, USA | On Site | May 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Market Research](https://jobright.ai/jobs/info/6a0b1e230411d7417a1ad368?utm_campaign=1065&utm_source=git)** | Buffalo, NY, US | On Site | May 18 |
 | **[Sartorius](http://sartorius.com)** | **[Marketing Support Intern](https://jobright.ai/jobs/info/6a0b1d49a235d749afa81a7d?utm_campaign=1065&utm_source=git)** | Marlborough, MA, United States of America | On Site | May 18 |
 | ↳ | **[Marketing Support Intern](https://jobright.ai/jobs/info/6a0b1d40a235d749afa81a7a?utm_campaign=1065&utm_source=git)** | Bohemia, NY, United States of America | On Site | May 18 |
-| **[Fair Oaks Farms](https://fofarms.com)** | **[Social Media Intern / Brand Content Ambassador](https://jobright.ai/jobs/info/6a0b1cfaa235d749afa81a62?utm_campaign=1065&utm_source=git)** | La Crosse, WI, US | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
