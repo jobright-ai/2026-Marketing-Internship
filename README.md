@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a0bfb2d22d0d34036c90dfb?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 18 |
 | **[Red Rocks Credit Union](https://www.redrocks.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0bf82aa235d749afa8998a?utm_campaign=1065&utm_source=git)** | Littleton, CO | Hybrid | May 18 |
 | **[Cruze](https://cruzemaps.com/)** | **[Marketing And Sales Intern](https://jobright.ai/jobs/info/6a0bf78a4d9320363687538c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 18 |
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a0bf785538d03366dc89e2b?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[IT Communications Intern](https://jobright.ai/jobs/info/6a0b8b6f538d03366dc86917?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | May 18 |
 | **[Antora Energy](https://www.antoraenergy.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a0b8b6f4d93203636872164?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | May 18 |
 | **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Social Media & Marketing Intern)](https://jobright.ai/jobs/info/6a0b857a22d0d34036c8d696?utm_campaign=1065&utm_source=git)** | Lisle, IL, USA | Hybrid | May 18 |
-| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Communications Intern](https://jobright.ai/jobs/info/6a0b8560963f7a67d95d0bab?utm_campaign=1065&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Communications Intern](https://jobright.ai/jobs/info/6a0b8560963f7a67d95d0baa?utm_campaign=1065&utm_source=git)** | US | Hybrid | May 18 |
+| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Communications Intern](https://jobright.ai/jobs/info/6a0b8560963f7a67d95d0baa?utm_campaign=1065&utm_source=git)** | US | Hybrid | May 18 |
+| ↳ | **[Fall 2026 Communications Intern](https://jobright.ai/jobs/info/6a0b8560963f7a67d95d0bab?utm_campaign=1065&utm_source=git)** | Washington, DC, US | Hybrid | May 18 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications Specialist Intern](https://jobright.ai/jobs/info/6a0b8528a235d749afa86439?utm_campaign=1065&utm_source=git)** | Longview, TX | On Site | May 18 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[IT Communications Intern](https://jobright.ai/jobs/info/6a0b84bc4d93203636871db7?utm_campaign=1065&utm_source=git)** | AUSTIN, TX | On Site | May 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6a0b80ad538d03366dc862b5?utm_campaign=1065&utm_source=git)** | IL-Chicago; 303 E Wacker Drive, US | On Site | May 18 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Brandefy App](https://beyondthelabel.brandefy.info)** | **[Paid Social & Content Creation Internship](https://jobright.ai/jobs/info/6a0b6d2a22d0d34036c8c1ac?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | May 18 |
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Dining Marketing Student Intern - Midd Dining (AY 25-26 902170)](https://jobright.ai/jobs/info/6a0b6944963f7a67d95cf85f?utm_campaign=1065&utm_source=git)** | Middlebury, Vermont, United States | On Site | May 18 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Marketing Internship](https://jobright.ai/jobs/info/6a0b6594963f7a67d95cf5a6?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | May 18 |
-| **[Knowledge Services](http://www.knowledgeservices.com)** | **[GovRAMP Marketing & Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6a0b612122d0d34036c8b9be?utm_campaign=1065&utm_source=git)** | Indianapolis, Indiana, US | On Site | May 18 |
-| ↳ | **[GovRAMP Marketing & Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6a0b612122d0d34036c8b9bd?utm_campaign=1065&utm_source=git)** | Indianapolis, Indiana | On Site | May 18 |
+| **[Knowledge Services](http://www.knowledgeservices.com)** | **[GovRAMP Marketing & Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6a0b612122d0d34036c8b9bd?utm_campaign=1065&utm_source=git)** | Indianapolis, Indiana | On Site | May 18 |
+| ↳ | **[GovRAMP Marketing & Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6a0b612122d0d34036c8b9be?utm_campaign=1065&utm_source=git)** | Indianapolis, Indiana, US | On Site | May 18 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC & Telemundo Connecticut Sales Marketing Internship - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0b60ec963f7a67d95cf28d?utm_campaign=1065&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | May 18 |
 | **[STEVENS POINT AREA YMCA](http://spymca.org)** | **[Pointers Connect Internship - Marketing Intern](https://jobright.ai/jobs/info/6a0b6001a235d749afa84b48?utm_campaign=1065&utm_source=git)** | Stevens Point,WI,US | On Site | May 18 |
 | **[PowerGrid Services](https://www.powergridservices.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0b5f16538d03366dc84bfb?utm_campaign=1065&utm_source=git)** | Irondale, AL 35210, USA | On Site | May 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Marketing Technology](https://jobright.ai/jobs/info/6a0b3255538d03366dc8294c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
 | **[Gosnold Behavioral Health](http://www.gosnold.org)** | **[Marketing Intern: Photography/Videography](https://jobright.ai/jobs/info/6a0b2eb922d0d34036c893dd?utm_campaign=1065&utm_source=git)** | Plymouth, MA, US | On Site | May 18 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Social Media Video and Content Intern](https://jobright.ai/jobs/info/6a0b2c6d0411d7417a1add8f?utm_campaign=1065&utm_source=git)** | Somerville-MA, US | Hybrid | May 18 |
-| **[rbb Communications](https://rbbcommunications.com/)** | **[Fall 2026 Internships: PR & Communications](https://jobright.ai/jobs/info/6a0b2c08963f7a67d95ccd36?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | Hybrid | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
