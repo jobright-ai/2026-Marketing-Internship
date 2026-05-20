@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a0d63c4538d03366dc96349?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 20 |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a0d66790411d7417a1c1c55?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 20 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Marketing Support Assistant](https://jobright.ai/jobs/info/6a0d63950411d7417a1c1ba8?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | May 20 |
 | **[FM](https://www.fm.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a0d5f7aa235d749afa95ca4?utm_campaign=1065&utm_source=git)** | Johnston, RI | On Site | May 20 |
 | **[Cruze](https://cruzemaps.com/)** | **[Marketing And Promotions Intern](https://jobright.ai/jobs/info/6a0d539b538d03366dc95b93?utm_campaign=1065&utm_source=git)** | United States | Remote | May 19 |
@@ -91,9 +91,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Intern](https://jobright.ai/jobs/info/6a0cf55ca235d749afa923eb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
 | **[CRH](http://crh.com)** | **[Communications & Administrative Intern](https://jobright.ai/jobs/info/6a0d1ceda235d749afa937dc?utm_campaign=1065&utm_source=git)** | Spokane, WA | On Site | May 19 |
 | **[816 Collective](https://collective816.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a0cedfb4d9320363687da54?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | May 19 |
-| **[Centric Brands](https://centricbrands.com)** | **[CRM Intern](https://jobright.ai/jobs/info/6a0ced7022d0d34036c9a3b3?utm_campaign=1065&utm_source=git)** | US-CA-Los Angeles | On Site | May 19 |
+| **[Centric Brands](https://centricbrands.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a0ced704d9320363687da04?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | May 19 |
+| ↳ | **[CRM Intern](https://jobright.ai/jobs/info/6a0ced7022d0d34036c9a3b3?utm_campaign=1065&utm_source=git)** | US-CA-Los Angeles | On Site | May 19 |
 | ↳ | **[CRM Intern](https://jobright.ai/jobs/info/6a0ced7022d0d34036c9a3b2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | May 19 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a0ced704d9320363687da04?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | May 19 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a0ced6f4d9320363687da03?utm_campaign=1065&utm_source=git)** | US-CA-Los Angeles | On Site | May 19 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Seasonal Social Media Content Creator Intern - Austin, TX](https://jobright.ai/jobs/info/6a0ce954538d03366dc9299c?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | May 19 |
 | ↳ | **[Seasonal Social Media Content Creator Intern - Orlando, FL](https://jobright.ai/jobs/info/6a0ce8d04d9320363687d72f?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 19 |
