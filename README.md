@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a0dd4b709ecfd704b3e311c?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 20 |
+| **[Tabañero Holdings](https://tabanero.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a0dd46c83d7144289812cf2?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | On Site | May 20 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a0dd21ebeb4d73cb622be0f?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 20 |
+| **[Greenberg Traurig Amsterdam](https://www.gtlaw.com/en/locations/amsterdam)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0dd09409ecfd704b3e2f86?utm_campaign=1065&utm_source=git)** | Chicago, US | On Site | May 20 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Sheep Marketing Intern](https://jobright.ai/jobs/info/65076e1d9fd81a9623a81973?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | May 20 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/6a0dcccf47fea1610bca3eb0?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | May 20 |
+| ↳ | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/6a0dcccf47fea1610bca3eaf?utm_campaign=1065&utm_source=git)** | US-GA-Atlanta | On Site | May 20 |
+| **[Capital City Bank Group, Inc.](https://www.ccbg.com/)** | **[Capital City Home Loans   Mortgage Intern - Kennesaw](https://jobright.ai/jobs/info/6a0dcc03beb4d73cb622bae8?utm_campaign=1065&utm_source=git)** | Kennesaw, Georgia, United States | On Site | May 20 |
+| **[Elevated Web Design](https://www.elevatedwebdesign.com/)** | **[Growth Marketing Internship for Tech Startup (US only)](https://jobright.ai/jobs/info/6a0dca5f80bf0430c762623b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 20 |
+| **[Coop Sleep Goods](http://www.coophomegoods.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a0dca30beb4d73cb622b931?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | May 20 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Employer Brand Intern (September to December)](https://jobright.ai/jobs/info/69d506e4891d7b11cfcfef14?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | May 20 |
 | **[Chicago Venture Partners](http://www.chicagoventure.com)** | **[New Market Development Internship](https://jobright.ai/jobs/info/6a0dc972beb4d73cb622b8cf?utm_campaign=1065&utm_source=git)** | Chicago,IL,US | On Site | May 20 |
 | **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a0dc563c152ac782447fb2a?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | May 20 |
 | **[Polyuno](https://polyuno.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0dc4b6beb4d73cb622b6bc?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | May 20 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Marketing Intern - Heartland](https://jobright.ai/jobs/info/6a0cdf4d4d9320363687cdbf?utm_campaign=1065&utm_source=git)** | Kansas City | Hybrid | May 19 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Seasonal Social Media Content Creator Intern - Orlando, FL](https://jobright.ai/jobs/info/6a0cd6bda235d749afa90fe9?utm_campaign=1065&utm_source=git)** | Vineland | On Site | May 19 |
 | ↳ | **[Seasonal Social Media Content Creator Intern - Orlando, FL](https://jobright.ai/jobs/info/6a0cd6b8a235d749afa90fe8?utm_campaign=1065&utm_source=git)** | Orlando International | On Site | May 19 |
-| ↳ | **[Seasonal Social Media Content Creator Intern - Orlando, FL](https://jobright.ai/jobs/info/6a0cd6b7a235d749afa90fe6?utm_campaign=1065&utm_source=git)** | Orlando Outlet | On Site | May 19 |
-| **[The Patch Method](www.thepatchmethod.com)** | **[The Patch Method Brand Ambassador](https://jobright.ai/jobs/info/6a0cd13e22d0d34036c98b12?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | May 19 |
-| **[Earnscliffe](http://earnscliffe.ca)** | **[PR Intern](https://jobright.ai/jobs/info/6a0cd10a963f7a67d95dbeb6?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | May 19 |
-| **[Simantel](https://www.simantel.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a0cd03a4d9320363687c67d?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | May 19 |
-| **[The Village Dallas](https://www.thevillagedallas.com)** | **[Event Operations Intern - The Village Dallas](https://jobright.ai/jobs/info/6a0cd009963f7a67d95dbe57?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 19 |
-| **[DogiZone](https://www.dogizone.com/)** | **[Media & Marketing Intern](https://jobright.ai/jobs/info/6a0ccf01a235d749afa90bb0?utm_campaign=1065&utm_source=git)** | Rockville,MD,US | On Site | May 19 |
-| **[University of St. Thomas](http://www.stthomas.edu)** | **[Summer Marketing and Communications Intern](https://jobright.ai/jobs/info/6a0ccef222d0d34036c988ea?utm_campaign=1065&utm_source=git)** | St. Paul, MN, US | On Site | May 19 |
-| ↳ | **[Summer Marketing and Communications Intern](https://jobright.ai/jobs/info/6a0ccef222d0d34036c988eb?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | On Site | May 19 |
-| **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Marketing & Data Support Intern (Short-Term)](https://jobright.ai/jobs/info/6a0ccede22d0d34036c988cf?utm_campaign=1065&utm_source=git)** | San Francisco, CA, USA | On Site | May 19 |
-| **[MIRA Safety](https://www.mirasafety.com)** | **[Affiliate Marketing Intern - Remote](https://jobright.ai/jobs/info/6a0cced3538d03366dc916f7?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | Remote | May 19 |
-| **[Narrative Strategies](https://narrativestrategies.com)** | **[Fall 2026 Strategic Communications Internship](https://jobright.ai/jobs/info/6a0ccded963f7a67d95dbc6e?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
