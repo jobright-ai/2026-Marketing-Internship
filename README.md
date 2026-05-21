@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blazel](https://www.blazel.com)** | **[Content and Social Media Intern](https://jobright.ai/jobs/info/6a0ed22b12f8b43cf3979c96?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | May 21 |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a0ed1a409ecfd704b3eb75c?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 21 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a0ed0a312f8b43cf3979bdb?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 21 |
+| **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bc76714828227293fe57e4?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | May 21 |
+| **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6a0ec9f909ecfd704b3eb4b6?utm_campaign=1065&utm_source=git)** | US-California-San Jose | On Site | May 21 |
 | **[Barkera™](https://barkera.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0ec69983d714428981b1f1?utm_campaign=1065&utm_source=git)** | Ft. Lauderdale, Florida | Remote | May 21 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a0eb60383d714428981aafe?utm_campaign=1065&utm_source=git)** | United States | Remote | May 21 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[ESA, Edtech, Scholarship Community Outreach Intern (Flexible, 5-10hrs/week)](https://jobright.ai/jobs/info/6a0e9a5f47fea1610bcab4e5?utm_campaign=1065&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 20 |
@@ -66,7 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Growth & Operations Intern](https://jobright.ai/jobs/info/6a0e830f83d714428981982b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 20 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Sponsorship](https://jobright.ai/jobs/info/6a0e82a947fea1610bcaa949?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 20 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6a0e7d5383d7144289819749?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 20 |
-| **[Cognizant](https://www.cognizant.com)** | **[Cognizant Workday Intern](https://jobright.ai/jobs/info/6a0e7d3683d7144289819724?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | May 20 |
+| **[Cognizant](https://www.cognizant.com)** | **[Cognizant Workday Intern](https://jobright.ai/jobs/info/6a0e7d3683d7144289819723?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | May 20 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a0e77ed80bf0430c762d02b?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 20 |
 | **[National HealthCare Corporation (NHC)](https://nhccare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0e75a680bf0430c762cfbf?utm_campaign=1065&utm_source=git)** | St Charles, MO | On Site | May 20 |
 | **[AMZ Advisers](https://www.amzadvisers.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a0e756b12f8b43cf3977b72?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 20 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Altadis U.S.A.](https://www.altadisusa.com/)** | **[Intern](https://jobright.ai/jobs/info/6a0debdfc152ac7824481445?utm_campaign=1065&utm_source=git)** | US-FL-Fort Lauderdale | On Site | May 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a0debdfc152ac7824481446?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, US | On Site | May 20 |
 | **[Nexthink](http://www.nexthink.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a0deb2783d7144289813de3?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | May 20 |
-| **[Sartorius](http://sartorius.com)** | **[Event & Marketing Operations Intern](https://jobright.ai/jobs/info/6a0dea9847fea1610bca52c0?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI, United States of America | On Site | May 20 |
-| ↳ | **[Event & Marketing Operations Intern](https://jobright.ai/jobs/info/6a0dea9847fea1610bca52bf?utm_campaign=1065&utm_source=git)** | Home Office United States of America, US | On Site | May 20 |
+| **[Sartorius](http://sartorius.com)** | **[Event & Marketing Operations Intern](https://jobright.ai/jobs/info/6a0dea9847fea1610bca52bf?utm_campaign=1065&utm_source=git)** | Home Office United States of America, US | On Site | May 20 |
 | ↳ | **[Event & Marketing Operations Intern](https://jobright.ai/jobs/info/6a0dea9847fea1610bca52c1?utm_campaign=1065&utm_source=git)** | Memphis, TN, United States of America | On Site | May 20 |
-| **[Greenberg Traurig, LLP](https://www.gtlaw.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0de95ebeb4d73cb622d08d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 20 |
-| **[JDH](http://www.jdhco.com)** | **[Merchandising/Trader Assistant - Intern](https://jobright.ai/jobs/info/6a0de85783d7144289813be7?utm_campaign=1065&utm_source=git)** | Ankeny,IA,US | On Site | May 20 |
-| **[TABACALERA USA Inc.](https://www.tabacalerausa.com/)** | **[Intern](https://jobright.ai/jobs/info/6a0de84380bf0430c762767e?utm_campaign=1065&utm_source=git)** | US-FL-Fort Lauderdale | On Site | May 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a0de84380bf0430c762767d?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, US | On Site | May 20 |
-| **[Net Conversion](http://www.net-conversion.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a0de7a083d7144289813bc6?utm_campaign=1065&utm_source=git)** | Orlando,FL,US | On Site | May 20 |
+| ↳ | **[Event & Marketing Operations Intern](https://jobright.ai/jobs/info/6a0dea9847fea1610bca52c0?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI, United States of America | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
