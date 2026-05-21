@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Helpful Hearts Health Services Inc](www.helpfulheartshealthservices.com)** | **[Marketing and Community Outreach Intern](https://jobright.ai/jobs/info/6a0ef6de80bf0430c76300d2?utm_campaign=1065&utm_source=git)** | Owings Mills, MD | On Site | May 21 |
+| **[Shelley Whitman Associates](https://www.shelleywhitman.com/)** | **[Copywriting Internship](https://jobright.ai/jobs/info/6a0ef157619335383fb284a3?utm_campaign=1065&utm_source=git)** | United States | Remote | May 21 |
+| **[Creative Expansions, Inc](cei)** | **[Applying Late for a Summer Internship, apply Now!](https://jobright.ai/jobs/info/6a0ef0de72b52f7225f3a0ff?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | May 21 |
 | **[Agentio](https://www.agentio.com)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/69499c5b63141d18845939a3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 21 |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a0eee0012f8b43cf397adcb?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Marketing Engineer Intern (AI & Automation) - Intern (Summer/Spring/Fall 2026)](https://jobright.ai/jobs/info/69d6a87652a5bf580012af34?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 21 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a0eeced12f8b43cf397ab7e?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 21 |
 | **[Northside Hospital](http://www.northside.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/6a0ee54483d714428981bbee?utm_campaign=1065&utm_source=git)** | Lawrenceville, GA, US | On Site | May 21 |
 | **[CCMC](http://ccmcnet.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69f27826ecbc8c2f7320a94b?utm_campaign=1065&utm_source=git)** | Babcock Ranch, FL | On Site | May 21 |
 | **[Sunpath Solar](https://sunpath.solar)** | **[Storytelling & Marketing Intern](https://jobright.ai/jobs/info/6a0edfed72b52f7225f39465?utm_campaign=1065&utm_source=git)** | United States | Remote | May 21 |
@@ -69,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[MCA Connect](http://mcaconnect.com/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0edb7783d714428981b93d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 21 |
 | **[Blazel](https://www.blazel.com)** | **[Content and Social Media Intern](https://jobright.ai/jobs/info/6a0ed22b12f8b43cf3979c96?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | May 21 |
 | **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bc76714828227293fe57e4?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | May 21 |
-| **[Barkera™](https://barkera.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0ec69983d714428981b1f1?utm_campaign=1065&utm_source=git)** | Ft. Lauderdale, Florida | Remote | May 21 |
+| **[Barkera®](https://barkera.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0ec69983d714428981b1f1?utm_campaign=1065&utm_source=git)** | Ft. Lauderdale, Florida | Remote | May 21 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a0eb60383d714428981aafe?utm_campaign=1065&utm_source=git)** | United States | Remote | May 21 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[ESA, Edtech, Scholarship Community Outreach Intern (Flexible, 5-10hrs/week)](https://jobright.ai/jobs/info/6a0e9a5f47fea1610bcab4e5?utm_campaign=1065&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 20 |
 | **[Fume Studio](fume-studio.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a0e904b80bf0430c762daec?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 20 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Marketing & Merchandising](https://jobright.ai/jobs/info/6a0e24f709ecfd704b3e672a?utm_campaign=1065&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | **[Net Conversion](http://www.net-conversion.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a0e24c509ecfd704b3e66ce?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 20 |
 | **[Wedgewood](https://www.wedgewood.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0e246c47fea1610bca784a?utm_campaign=1065&utm_source=git)** | Swedesboro, NJ | Hybrid | May 20 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Data Science Intern - Marketing](https://jobright.ai/jobs/info/6a0e204ebeb4d73cb622f655?utm_campaign=1065&utm_source=git)** | Nottingham, MD, US | On Site | May 20 |
-| ↳ | **[Data Science Intern - Marketing](https://jobright.ai/jobs/info/6a0e204ebeb4d73cb622f656?utm_campaign=1065&utm_source=git)** | US-MD-Nottingham | On Site | May 20 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Data Science Intern - Marketing](https://jobright.ai/jobs/info/6a0e204ebeb4d73cb622f656?utm_campaign=1065&utm_source=git)** | US-MD-Nottingham | On Site | May 20 |
+| ↳ | **[Data Science Intern - Marketing](https://jobright.ai/jobs/info/6a0e204ebeb4d73cb622f655?utm_campaign=1065&utm_source=git)** | Nottingham, MD, US | On Site | May 20 |
 | **[Luminate Bank](https://www.luminate.bank)** | **[Intern - Administrative & Marketing Support](https://jobright.ai/jobs/info/6a0e1e0747fea1610bca73a6?utm_campaign=1065&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | May 20 |
 | **[Boys Lie](https://boyslieofficial.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0e1cde09ecfd704b3e60d3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 20 |
 | **[Wealth Warden Partners](www.wardenpartners.com)** | **[Financial Services Marketing Intern (Unpaid/Tampa, FL) / Portuguese/English](https://jobright.ai/jobs/info/6a0e1bae09ecfd704b3e6005?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | May 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sartorius](http://sartorius.com)** | **[Event & Marketing Operations Intern](https://jobright.ai/jobs/info/6a0df05747fea1610bca556d?utm_campaign=1065&utm_source=git)** | Memphis, TN | Remote | May 20 |
 | ↳ | **[Event & Marketing Operations Intern](https://jobright.ai/jobs/info/6a0df05409ecfd704b3e43a7?utm_campaign=1065&utm_source=git)** | United States | Remote | May 20 |
 | ↳ | **[Event & Marketing Operations Intern](https://jobright.ai/jobs/info/6a0df05409ecfd704b3e43a6?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Remote | May 20 |
-| **[Derby City Gaming & Hotel](http://www.derbycitygaming.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/69f16604ecbc8c2f73205896?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
