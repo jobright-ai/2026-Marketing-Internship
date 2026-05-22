@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northside Hospital](http://www.northside.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/6a102eab83d714428982481d?utm_campaign=1065&utm_source=git)** | Lawrenceville, GA | On Site | May 22 |
+| **[Coty](https://www.coty.com/)** | **[Influence Marketing Intern](https://jobright.ai/jobs/info/6a102c85619335383fb30d7f?utm_campaign=1065&utm_source=git)** | Berthier | On Site | May 22 |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a10239183d7144289824453?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 22 |
+| **[Freestyle](https://freestyleokc.com)** | **[Internship / Fellowship: Digital Marketing & Social Media](https://jobright.ai/jobs/info/6a101b1f12f8b43cf398309a?utm_campaign=1065&utm_source=git)** | OKC, USA | On Site | May 22 |
+| **[Heiden Technology Solutions](https://www.heidentechnology.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a101953619335383fb30863?utm_campaign=1065&utm_source=git)** | Saginaw, MI | On Site | May 22 |
 | **[Wonderful Agency](http://www.wonderful.com)** | **[Wonderful Summer Internship, Marketing & Advertising Agency](https://jobright.ai/jobs/info/6a1007d29f654b3359ce93f0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | May 22 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[Product Marketing Intern - Remote](https://jobright.ai/jobs/info/6a1007239f654b3359ce93df?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a1006c572b52f7225f414f5?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a10067d12f8b43cf39829da?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 22 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a10051112f8b43cf39829b0?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 22 |
 | **[Purdue University College of Engineering-Office of Academic Affairs](https://engineering.purdue.edu/Engr/AboutUs/Administration/AcademicAffairs)** | **[Job Title:  Student - Marketing & Communications Intern](https://jobright.ai/jobs/info/6a0ffdfb12f8b43cf3982863?utm_campaign=1065&utm_source=git)** | Hammond, IN | On Site | May 21 |
 | **[Yelp](https://www.yelp.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a0ffd5472b52f7225f412f7?utm_campaign=1065&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 21 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a0ffd4f72b52f7225f412ef?utm_campaign=1065&utm_source=git)** | US-Remote-Remote | Remote | May 21 |
+| **[ROCKWOOL Group](https://www.rockwoolgroup.com/)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6a102de069bd827926aec9ec?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | May 21 |
 | **[PacePal](https://pace-pal.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0ff50c83d714428982378a?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 21 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Interns (Los Angeles/Dallas or Nashville/Chicago) Summer/Fall 2026](https://jobright.ai/jobs/info/6a0ff0c580bf0430c7637062?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | May 21 |
 | **[Tailwind Group](https://thetailwindgroup.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0fed9812f8b43cf398250c?utm_campaign=1065&utm_source=git)** | Mankato, MN | On Site | May 21 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Challenge Manufacturing](http://challenge-mfg.com)** | **[Marketing Creative Specialist Intern](https://jobright.ai/jobs/info/6a0f4bd483d714428981e658?utm_campaign=1065&utm_source=git)** | 3200 Fruit Ridge Ave, Walker, MI 49544 | On Site | May 21 |
 | ↳ | **[Marketing Creative Specialist Intern](https://jobright.ai/jobs/info/6a0f4bcf83d714428981e654?utm_campaign=1065&utm_source=git)** | Walker, MI - Corporate | On Site | May 21 |
 | **[Stingray](http://www.stingray.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a0f4b5b72b52f7225f3c831?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | On Site | May 21 |
-| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriter Internship](https://jobright.ai/jobs/info/6a0f489c619335383fb2a8e3?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | May 21 |
 | **[Oberto Snacks Inc.](http://www.oberto.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d589aacdb525785fbd1a88?utm_campaign=1065&utm_source=git)** | Kent, WA | On Site | May 21 |
 | **[Elwood Clothing](www.elwoodclothing.com)** | **[Summer Influencer Marketing Intern](https://jobright.ai/jobs/info/6a0fc26672b52f7225f4044f?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | May 21 |
 | **[Mall of America](https://www.mallofamerica.com)** | **[Experiential Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a0f428d12f8b43cf397cfc7?utm_campaign=1065&utm_source=git)** | 60 E Broadway, Bloomington, MN 55425, USA | On Site | May 21 |
 | ↳ | **[PR + Social Media Intern - Fall 2026](https://jobright.ai/jobs/info/6a0f428c83d714428981e1e6?utm_campaign=1065&utm_source=git)** | 60 E Broadway, Bloomington, MN 55425, USA | On Site | May 21 |
 | ↳ | **[Retail Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a0f428b619335383fb2a65e?utm_campaign=1065&utm_source=git)** | 60 E Broadway, Bloomington, MN 55425, USA | On Site | May 21 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Segment Marketing Summer Intern](https://jobright.ai/jobs/info/6a0f424180bf0430c7632209?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | May 21 |
-| ↳ | **[Summer - Technology Portfolio Management Intern](https://jobright.ai/jobs/info/6a0f418a9f654b3359ce3e11?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | May 21 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Residential Energy Growth & Marketing (Fall 2026)](https://jobright.ai/jobs/info/6a0f40f4619335383fb2a5e4?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
