@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Interns (Los Angeles/Dallas or Nashville/Chicago) Summer/Fall 2026](https://jobright.ai/jobs/info/6a0ff0c580bf0430c7637062?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | May 21 |
+| **[Tailwind Group](https://thetailwindgroup.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0fed9812f8b43cf398250c?utm_campaign=1065&utm_source=git)** | Mankato, MN | On Site | May 21 |
 | **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a0fea1612f8b43cf39824ae?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a0fe5df9f654b3359ce8cd4?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | May 21 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Events Intern / Part-Time / Donald L Tucker Civic Center](https://jobright.ai/jobs/info/6a0fe35b619335383fb2faa5?utm_campaign=1065&utm_source=git)** | US-FL-Tallahassee | On Site | May 21 |
@@ -78,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Wireside Communications®](http://www.wireside.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a0fab1080bf0430c76359d8?utm_campaign=1065&utm_source=git)** | Richmond, Virginia, United States | Hybrid | May 21 |
 | **[rbb Communications](https://rbbcommunications.com/)** | **[Fall 2026 Internship: Integrated Marketing](https://jobright.ai/jobs/info/6a0fa86d80bf0430c7635962?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | May 21 |
 | **[Spottr Labs, Inc](https://www.spottr.fit/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0fa45172b52f7225f3f7b5?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | May 21 |
-| **[rbb Communications](https://rbbcommunications.com/)** | **[Fall 2026 Internship: Integrated Marketing](https://jobright.ai/jobs/info/6a0f9ed983d7144289821bd6?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | May 21 |
+| **[rbb Communications](https://rbbcommunications.com/)** | **[Fall 2026 Internship: Integrated Marketing](https://jobright.ai/jobs/info/6a0f9ed983d7144289821bd7?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | May 21 |
 | **[DemaDose](https://www.demadose.com/)** | **[SEO Specialist Internship (US Only)](https://jobright.ai/jobs/info/6a0f9e9d83d7144289821b72?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | May 21 |
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Year-Round Commercial Intern -Mahwah, NJ](https://jobright.ai/jobs/info/6a0f99f680bf0430c7635481?utm_campaign=1065&utm_source=git)** | Mahwah, NJ | Hybrid | May 21 |
 | **[Prophet](http://www.prophet.com)** | **[2026 Austin Internship](https://jobright.ai/jobs/info/6a0f93b2619335383fb2dfba?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Social Media Content/Script Writer](https://jobright.ai/jobs/info/6a0f68a112f8b43cf397ed5b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 21 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a0f3b9380bf0430c7631db0?utm_campaign=1065&utm_source=git)** | R2Net Operations New York, NY, US | On Site | May 21 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern- SEO Analytics & Optimization](https://jobright.ai/jobs/info/69d6735de63cea7a8b668f36?utm_campaign=1065&utm_source=git)** | Miramar, FL | On Site | May 21 |
-| **[Modine Manufacturing Company](http://www.modine.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/6a0f0f6583d714428981c9c9?utm_campaign=1065&utm_source=git)** | Racine, WI | Hybrid | May 21 |
-| **[Taste Salud](https://tastesalud.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0f332872b52f7225f3ba18?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | Remote | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
