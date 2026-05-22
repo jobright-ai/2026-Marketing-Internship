@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6a10379e9fdbf21f36cad29e?utm_campaign=1065&utm_source=git)** | US-California-San Jose | On Site | May 22 |
+| **[Hideouts](https://madlyradlabs.web.app)** | **[Summer High School Marketing Startup Intern (Remote)](https://jobright.ai/jobs/info/6a1036a383d7144289824a5f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[MARKETING INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/699fd0c5ce78e77b4fe5bb28?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 22 |
 | **[Northside Hospital](http://www.northside.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/6a102eab83d714428982481d?utm_campaign=1065&utm_source=git)** | Lawrenceville, GA | On Site | May 22 |
 | **[Coty](https://www.coty.com/)** | **[Influence Marketing Intern](https://jobright.ai/jobs/info/6a102c85619335383fb30d7f?utm_campaign=1065&utm_source=git)** | Berthier | On Site | May 22 |
 | **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a10239183d7144289824453?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 22 |
@@ -128,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Media Network, Licensing & Entertainment Intern - Summer](https://jobright.ai/jobs/info/6a0f69879f654b3359ce5922?utm_campaign=1065&utm_source=git)** | Support Center, 1707 Market Place Blvd., Suite 200, Irving, TX, US | On Site | May 21 |
 | **[Julius AI](https://julius.codes)** | **[Growth Intern](https://jobright.ai/jobs/info/6a0f6964619335383fb2c272?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 21 |
 | **[Martin Engineering](https://www.martin-eng.com)** | **[Summer Intern (Marketing)](https://jobright.ai/jobs/info/6a0f694283d714428981fe03?utm_campaign=1065&utm_source=git)** | Neponset, IL | On Site | May 21 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/6a0f68c79f654b3359ce58a0?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 21 |
-| ↳ | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/6a0f68c79f654b3359ce58a1?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | May 21 |
+| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/6a0f68c79f654b3359ce58a1?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | May 21 |
+| ↳ | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/6a0f68c79f654b3359ce58a0?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 21 |
 | ↳ | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/6a0f68c59f654b3359ce5897?utm_campaign=1065&utm_source=git)** | United States | Remote | May 21 |
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Marketing Intern](https://jobright.ai/jobs/info/6a0f688a72b52f7225f3dacc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[RobotLAB Inc.](https://www.robotlab.com/?utm_source=linkedin&utm_medium=profbio&utm_campaign=website_in_bio&utm_id=website_in_bio)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0f687512f8b43cf397ecdf?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | May 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stingray](http://www.stingray.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a0f4b5b72b52f7225f3c831?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | On Site | May 21 |
 | **[Oberto Snacks Inc.](http://www.oberto.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69d589aacdb525785fbd1a88?utm_campaign=1065&utm_source=git)** | Kent, WA | On Site | May 21 |
 | **[Elwood Clothing](www.elwoodclothing.com)** | **[Summer Influencer Marketing Intern](https://jobright.ai/jobs/info/6a0fc26672b52f7225f4044f?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | May 21 |
-| **[Mall of America](https://www.mallofamerica.com)** | **[Experiential Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a0f428d12f8b43cf397cfc7?utm_campaign=1065&utm_source=git)** | 60 E Broadway, Bloomington, MN 55425, USA | On Site | May 21 |
-| ↳ | **[PR + Social Media Intern - Fall 2026](https://jobright.ai/jobs/info/6a0f428c83d714428981e1e6?utm_campaign=1065&utm_source=git)** | 60 E Broadway, Bloomington, MN 55425, USA | On Site | May 21 |
-| ↳ | **[Retail Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a0f428b619335383fb2a65e?utm_campaign=1065&utm_source=git)** | 60 E Broadway, Bloomington, MN 55425, USA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
