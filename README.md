@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a0faea212f8b43cf39810eb?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 21 |
+| **[STARS](https://www.stars.ca)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a0fbc2480bf0430c76361cb?utm_campaign=1065&utm_source=git)** | Saskatoon, SK, Canada | On Site | May 21 |
+| **[yondu](https://www.yonduai.com)** | **[Social Media & Content Intern - Summer 2026](https://jobright.ai/jobs/info/6a0fba3d9f654b3359ce7ebc?utm_campaign=1065&utm_source=git)** | Gardena, CA | On Site | May 21 |
+| **[CoreLab LLC](https://www.corelabla.com)** | **[Marketing Intern (Social Media & Brand)](https://jobright.ai/jobs/info/6a0fba199f654b3359ce7e86?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 21 |
+| **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Media Network, Licensing & Entertainment Intern - Summer](https://jobright.ai/jobs/info/6a0fb0c312f8b43cf39811b7?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | May 21 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[Social Media and Public Relations Intern - Remote](https://jobright.ai/jobs/info/6a0fae6d619335383fb2e91c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 21 |
 | **[Wireside Communications®](http://www.wireside.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a0fab1080bf0430c76359d8?utm_campaign=1065&utm_source=git)** | Richmond, Virginia, United States | Hybrid | May 21 |
-| **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6a0faac29f654b3359ce77b1?utm_campaign=1065&utm_source=git)** | US-California-San Jose | On Site | May 21 |
 | **[rbb Communications](https://rbbcommunications.com/)** | **[Fall 2026 Internship: Integrated Marketing](https://jobright.ai/jobs/info/6a0fa86d80bf0430c7635962?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | May 21 |
 | **[Spottr Labs, Inc](https://www.spottr.fit/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0fa45172b52f7225f3f7b5?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | May 21 |
 | **[Vene Health](https://venehealth.com)** | **[GTM Intern](https://jobright.ai/jobs/info/6a0f9ff112f8b43cf39809ac?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | May 21 |
-| **[rbb Communications](https://rbbcommunications.com/)** | **[Fall 2026 Internship: Integrated Marketing](https://jobright.ai/jobs/info/6a0f9ed983d7144289821bd7?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | May 21 |
+| **[rbb Communications](https://rbbcommunications.com/)** | **[Fall 2026 Internship: Integrated Marketing](https://jobright.ai/jobs/info/6a0f9ed983d7144289821bd6?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | May 21 |
 | **[DemaDose](https://www.demadose.com/)** | **[SEO Specialist Internship (US Only)](https://jobright.ai/jobs/info/6a0f9e9d83d7144289821b72?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | May 21 |
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Year-Round Commercial Intern -Mahwah, NJ](https://jobright.ai/jobs/info/6a0f99f680bf0430c7635481?utm_campaign=1065&utm_source=git)** | Mahwah, NJ | Hybrid | May 21 |
 | **[Prophet](http://www.prophet.com)** | **[2026 Austin Internship](https://jobright.ai/jobs/info/6a0f93b2619335383fb2dfba?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 21 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Media Network, Licensing & Entertainment Intern - Summer](https://jobright.ai/jobs/info/6a0f69879f654b3359ce5922?utm_campaign=1065&utm_source=git)** | Support Center, 1707 Market Place Blvd., Suite 200, Irving, TX, US | On Site | May 21 |
 | **[Julius AI](https://julius.codes)** | **[Growth Intern](https://jobright.ai/jobs/info/6a0f6964619335383fb2c272?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 21 |
 | **[Martin Engineering](https://www.martin-eng.com)** | **[Summer Intern (Marketing)](https://jobright.ai/jobs/info/6a0f694283d714428981fe03?utm_campaign=1065&utm_source=git)** | Neponset, IL | On Site | May 21 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/6a0f68c79f654b3359ce58a1?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | May 21 |
-| ↳ | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/6a0f68c79f654b3359ce58a0?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 21 |
+| **[The Dispatch](https://thedispatch.com/)** | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/6a0f68c79f654b3359ce58a0?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 21 |
+| ↳ | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/6a0f68c79f654b3359ce58a1?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | May 21 |
 | ↳ | **[Summer 2026 Social Media Internship](https://jobright.ai/jobs/info/6a0f68c59f654b3359ce5897?utm_campaign=1065&utm_source=git)** | United States | Remote | May 21 |
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Marketing Intern](https://jobright.ai/jobs/info/6a0f688a72b52f7225f3dacc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[RobotLAB Inc.](https://www.robotlab.com/?utm_source=linkedin&utm_medium=profbio&utm_campaign=website_in_bio&utm_id=website_in_bio)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0f687512f8b43cf397ecdf?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | May 21 |
@@ -143,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/6a0f0f6583d714428981c9c9?utm_campaign=1065&utm_source=git)** | Racine, WI | Hybrid | May 21 |
 | **[Taste Salud](https://tastesalud.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0f332872b52f7225f3ba18?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | Remote | May 21 |
 | **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a04e35a22395b6dc6da1b7f?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | May 21 |
-| **[JERRY SEINER CHEVROLET](http://www.jerryseiner.com)** | **[Dealership Social Media &amp; Content Internship](https://jobright.ai/jobs/info/6a0f330f619335383fb29d03?utm_campaign=1065&utm_source=git)** | Salt Lake City,UT,US | On Site | May 21 |
 | **[Launch That](http://launchthat.com)** | **[Digital Marketing Intern (June](https://jobright.ai/jobs/info/6a0f325572b52f7225f3b99e?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | May 21 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer - Technology Portfolio Management Intern](https://jobright.ai/jobs/info/6a0f30ed80bf0430c7631730?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | May 21 |
 | ↳ | **[Segment Marketing Summer Intern](https://jobright.ai/jobs/info/6a0f30ea619335383fb29b76?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/6a0f294e80bf0430c7631352?utm_campaign=1065&utm_source=git)** | United States | Remote | May 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Total Rewards (Fall 2026)](https://jobright.ai/jobs/info/6a0f4c9b12f8b43cf397d4df?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 21 |
 | **[Y.N. Marketing Solutions Inc](www.ynmarketingsolutionsinc.com)** | **[Entry Level Marketing Intern](https://jobright.ai/jobs/info/6a0507357c753c287f6f614d?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 21 |
-| **[Zywave](http://www.zywave.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0ce942538d03366dc9296a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
