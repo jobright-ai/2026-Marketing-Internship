@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a0f97d012f8b43cf3980793?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 21 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a0f958612f8b43cf3980719?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 21 |
+| **[Vene Health](https://venehealth.com)** | **[GTM Intern](https://jobright.ai/jobs/info/6a0f9ff112f8b43cf39809ac?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | May 21 |
+| **[rbb Communications](https://rbbcommunications.com/)** | **[Fall 2026 Internship: Integrated Marketing](https://jobright.ai/jobs/info/6a0f9ed983d7144289821bd7?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | May 21 |
+| **[DemaDose](https://www.demadose.com/)** | **[SEO Specialist Internship (US Only)](https://jobright.ai/jobs/info/6a0f9e9d83d7144289821b72?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | May 21 |
+| **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Year-Round Commercial Intern -Mahwah, NJ](https://jobright.ai/jobs/info/6a0f99f680bf0430c7635481?utm_campaign=1065&utm_source=git)** | Mahwah, NJ | Hybrid | May 21 |
 | **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a0f93e112f8b43cf39806c7?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 21 |
 | **[Prophet](http://www.prophet.com)** | **[2026 Austin Internship](https://jobright.ai/jobs/info/6a0f93b2619335383fb2dfba?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 21 |
 | **[DemaDose](https://www.demadose.com/)** | **[Internship SEO Specialist](https://jobright.ai/jobs/info/6a0f9351619335383fb2df52?utm_campaign=1065&utm_source=git)** | United States | Remote | May 21 |
@@ -107,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Vita Coco](https://www.thevitacococompany.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a0f67d783d714428981fc66?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[RVi Planning + Landscape Architecture](http://rviplanning.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/6a0f67c39f654b3359ce56e7?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Marketing Events](https://jobright.ai/jobs/info/6a0f38009f654b3359ce3846?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | May 21 |
-| **[GOOD CHEMISTRY](https://www.good-chemistry.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/6a0f632a72b52f7225f3d677?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | May 21 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Social Media Marketing](https://jobright.ai/jobs/info/69f29709f154d768fbaa7f30?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 21 |
 | **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69fae92f38179b6f1ae73a73?utm_campaign=1065&utm_source=git)** | Capitola, CA | On Site | May 21 |
 | **[Ashford Media Group](https://www.linkedin.com/company/69036277)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6a0f5fa680bf0430c76331d3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parkinson Canada](https://www.parkinson.ca)** | **[Event Coordinator - Summer Student](https://jobright.ai/jobs/info/6a0f836172b52f7225f3e9b4?utm_campaign=1065&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 21 |
 | **[One Million by One Million (1Mby1M)](http://1mby1m.com)** | **[Research and Write About Regional Startup Accelerators Internship](https://jobright.ai/jobs/info/6a0f1c9d83d714428981cf09?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Remote | May 21 |
 | **[Fort Greene Park Conservancy](http://www.fortgreenepark.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a0f3d1f83d714428981df2a?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | May 21 |
-| **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Livestream Fundraising & Community Events Internship](https://jobright.ai/jobs/info/69f2bd7bab4ec4779fffbe35?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
