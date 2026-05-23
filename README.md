@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a11720212f8b43cf398a5d6?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 23 |
-| **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a11715e69bd827926af3780?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 23 |
 | **[Smartly](http://smartly.io)** | **[Events Marketing Intern](https://jobright.ai/jobs/info/6a1160769fdbf21f36cb3a99?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 23 |
 | ↳ | **[Events Marketing Intern](https://jobright.ai/jobs/info/6a1160769fdbf21f36cb3a98?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 23 |
 | **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a115f14619335383fb37837?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | May 23 |
@@ -90,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Save the Children US](http://savethechildren.org)** | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10f6ea9f654b3359cef048?utm_campaign=1065&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
 | **[Blue Diamond Growers](https://bluediamondgrowers.com/)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/6a11144383d714428982a50f?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | May 22 |
 | **[Britepaths](https://britepaths.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a10cb409fdbf21f36cb0e1c?utm_campaign=1065&utm_source=git)** | Fairfax, VA | Hybrid | May 22 |
-| **[BBQ Holdings, Inc.](https://www.bbq-holdings.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a10f4039fdbf21f36cb1c23?utm_campaign=1065&utm_source=git)** | Minnetonka, MN | Hybrid | May 22 |
 | **[BuzzSpoon](BuzzSpoon.com)** | **[Culinary Creator & Regional Marketing Internship](https://jobright.ai/jobs/info/6a10f48f619335383fb35b40?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
 | **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/6a10f47283d7144289829665?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | May 22 |
 | **[Coldwell Banker](http://www.coldwellbanker.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a10c3ce83d7144289828421?utm_campaign=1065&utm_source=git)** | Greater Boston | On Site | May 22 |
@@ -142,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Pittsburgh](https://jobright.ai/jobs/info/6a10877112f8b43cf3985b6f?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, US | On Site | May 22 |
 | **[Top of Mind PR](https://www.topofmind-pr.com)** | **[Fall Social Media and Public Relations Intern](https://jobright.ai/jobs/info/6a10845c9fdbf21f36caf0d6?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, USA | Remote | May 22 |
 | **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69faf15986d5cd46527d1330?utm_campaign=1065&utm_source=git)** | Capitola, CA | On Site | May 22 |
-| **[Prophet](http://www.prophet.com)** | **[Verbal Branding Intern](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbc?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 22 |
-| ↳ | **[Verbal Branding Intern](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbd?utm_campaign=1065&utm_source=git)** | Chicago | Hybrid | May 22 |
+| **[Prophet](http://www.prophet.com)** | **[Verbal Branding Intern](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbd?utm_campaign=1065&utm_source=git)** | Chicago | Hybrid | May 22 |
+| ↳ | **[Verbal Branding Intern](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbc?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 22 |
 | ↳ | **[Verbal Branding Intern](https://jobright.ai/jobs/info/6a107fd8619335383fb32dbb?utm_campaign=1065&utm_source=git)** | San Francisco | Hybrid | May 22 |
 | ↳ | **[Verbal Branding Intern](https://jobright.ai/jobs/info/6a107fd7619335383fb32db7?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | May 22 |
 | **[Citi](https://www.citi.com)** | **[Services - Summer Analyst Program, New York City - US, 2027](https://jobright.ai/jobs/info/69d6d224706f771673bae368?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 22 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Xylem](https://heimplanet.com/)** | **[Intern, Marketing Communications](https://jobright.ai/jobs/info/6a10701112f8b43cf39851f2?utm_campaign=1065&utm_source=git)** | Pittsburgh, Pennsylvania, US | Remote | May 22 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Marketing Intern](https://jobright.ai/jobs/info/6a106de39fdbf21f36cae673?utm_campaign=1065&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 22 |
 | ↳ | **[Drexel Co-op Marketing CRM Intern](https://jobright.ai/jobs/info/6a106da883d71442898261d5?utm_campaign=1065&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 22 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Operations Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69bc73cf45e08b3dc1f93049?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | May 22 |
+| **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a10672d9fdbf21f36cae473?utm_campaign=1065&utm_source=git)** | REMOTE, US | Remote | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
