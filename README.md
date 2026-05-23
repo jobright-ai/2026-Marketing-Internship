@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a1194a683d714428982bce2?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 23 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a1191e412f8b43cf398aa7c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 23 |
 | **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a118f0c69bd827926af3ca7?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 23 |
 | **[Rovicare](https://www.rovicare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a118cc712f8b43cf398a9ac?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | May 23 |
 | **[Health Monitor Network](http://www.healthmonitornetwork.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a118cc39f654b3359cf1327?utm_campaign=1065&utm_source=git)** | Montvale, NJ, US | On Site | May 23 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Leitner-Poma Of America](https://leitner-poma.com)** | **[Sales & Marketing Intern - The Pipeline Project](https://jobright.ai/jobs/info/6a10a9149fdbf21f36cb000e?utm_campaign=1065&utm_source=git)** | Grand Junction,CO,US | On Site | May 22 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a10a89212f8b43cf3986a04?utm_campaign=1065&utm_source=git)** | Washington,DC,US | On Site | May 22 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Pittsburgh](https://jobright.ai/jobs/info/6a10a7cb9fdbf21f36caffc2?utm_campaign=1065&utm_source=git)** | 4200 Fifth Ave, Pittsburgh, PA, 15260, US | On Site | May 22 |
-| **[Save the Children US](http://savethechildren.org)** | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b569bd827926aefbf2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
-| ↳ | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b569bd827926aefbf1?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 22 |
+| **[Save the Children US](http://savethechildren.org)** | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b569bd827926aefbf1?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 22 |
+| ↳ | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b569bd827926aefbf2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b469bd827926aefbea?utm_campaign=1065&utm_source=git)** | Lexington, Kentucky, United States | Hybrid | May 22 |
 | ↳ | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b469bd827926aefbeb?utm_campaign=1065&utm_source=git)** | Fairfield, Town of, Connecticut, United States | Hybrid | May 22 |
 | **[Pure Fishing](https://www.purefishing.com)** | **[Marketing Intern - Bass Category Innovation & Trends](https://jobright.ai/jobs/info/69d809cb9f97a42dc9c19d94?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | May 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Services - Summer Analyst Program, New York City - US, 2027](https://jobright.ai/jobs/info/69d6d224706f771673bae368?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Finance & Spend Management Product Marketing - Communications Intern](https://jobright.ai/jobs/info/6a0f5ed69f654b3359ce522a?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | May 22 |
 | **[Xometry](https://www.xometry.com)** | **[TMS Marketing Intern](https://jobright.ai/jobs/info/6a107e0d9fdbf21f36caec84?utm_campaign=1065&utm_source=git)** | North Bethesda, MD | Hybrid | May 22 |
-| **[Axiom Optics](http://axiomoptics.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a1077819f654b3359cec0cc?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | May 22 |
-| **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Church News Social Media Intern - Portuguese - Summer/Fall 2026](https://jobright.ai/jobs/info/6a1074d39f654b3359cebff1?utm_campaign=1065&utm_source=git)** | SLC Triad Center, US | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
