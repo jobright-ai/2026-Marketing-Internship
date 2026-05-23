@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Oneblvd](oneblvd.co)** | **[USC Marketing and Growth Intern](https://jobright.ai/jobs/info/6a10e49b69bd827926af0ec8?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | May 22 |
-| **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a10e43269bd827926af0e97?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 22 |
 | **[The Hatcher Group](https://www.thehatchergroup.com)** | **[Intern, Digital](https://jobright.ai/jobs/info/6a10de9483d7144289828dc5?utm_campaign=1065&utm_source=git)** | bethesda,MD,US | Hybrid | May 22 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Digital Messaging Marketing Intern](https://jobright.ai/jobs/info/6a10d89b69bd827926af0b88?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA, US | On Site | May 22 |
 | **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/6a10d88c83d7144289828c45?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | May 22 |
@@ -76,7 +75,10 @@ For a complete list, click the following sortable link below:
 | **[Launch That](http://launchthat.com)** | **[Digital Marketing Intern (August](https://jobright.ai/jobs/info/6a10bc3669bd827926af02df?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | May 22 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/6a10bbf812f8b43cf39870f2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
 | **[Glia](https://www.glia.com)** | **[Impact Communications Intern](https://jobright.ai/jobs/info/6a10b8629f654b3359ced86e?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | May 22 |
+| **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a10ef289fdbf21f36cb1815?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | May 22 |
+| **[The Sideline](Thesideline.co)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a10ef0e12f8b43cf398805e?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
 | **[EXP](http://www.exp.com/)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/6a10ae9512f8b43cf3986d1f?utm_campaign=1065&utm_source=git)** | 205 North Michigan Avenue, Chicago, IL, 60601, US | On Site | May 22 |
+| **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Proposal Intern](https://jobright.ai/jobs/info/6a10eca49fdbf21f36cb1782?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 22 |
 | **[The Bluebird Group](http://www.thebluebirdgrp.com)** | **[Retail Media Intern](https://jobright.ai/jobs/info/6a10a9709fdbf21f36cb001d?utm_campaign=1065&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | May 22 |
 | **[Leitner-Poma Of America](https://leitner-poma.com)** | **[Sales & Marketing Intern - The Pipeline Project](https://jobright.ai/jobs/info/6a10a9149fdbf21f36cb000e?utm_campaign=1065&utm_source=git)** | Grand Junction,CO,US | On Site | May 22 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a10a89212f8b43cf3986a04?utm_campaign=1065&utm_source=git)** | Washington,DC,US | On Site | May 22 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Top of Mind PR](https://www.topofmind-pr.com)** | **[Fall Social Media and Public Relations Intern](https://jobright.ai/jobs/info/6a10845c9fdbf21f36caf0d6?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, USA | Remote | May 22 |
 | **[With Honor](https://withhonor.org/)** | **[Digital Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/6a107fe783d71442898268ce?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | May 22 |
 | **[Bay Federal Credit Union](https://www.bayfed.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69faf15986d5cd46527d1330?utm_campaign=1065&utm_source=git)** | Capitola, CA | On Site | May 22 |
-| **[Prophet](http://www.prophet.com)** | **[Verbal Branding Intern](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbd?utm_campaign=1065&utm_source=git)** | Chicago | Hybrid | May 22 |
-| ↳ | **[Verbal Branding Intern](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbc?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 22 |
+| **[Prophet](http://www.prophet.com)** | **[Verbal Branding Intern](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbc?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 22 |
+| ↳ | **[Verbal Branding Intern](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbd?utm_campaign=1065&utm_source=git)** | Chicago | Hybrid | May 22 |
 | ↳ | **[Verbal Branding Intern](https://jobright.ai/jobs/info/6a107fd8619335383fb32dbb?utm_campaign=1065&utm_source=git)** | San Francisco | Hybrid | May 22 |
 | ↳ | **[Verbal Branding Intern](https://jobright.ai/jobs/info/6a107fd7619335383fb32db7?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | May 22 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69f423401f90bd6ae23d3966?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tailwind Group](https://thetailwindgroup.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0fc76712f8b43cf39819cd?utm_campaign=1065&utm_source=git)** | Mankato,MN,US | On Site | May 21 |
 | **[ASAE: The Center for Association Leadership](https://www.asaecenter.org)** | **[AOPA Digital Communications Intern](https://jobright.ai/jobs/info/6a0fc4bf619335383fb2f1dc?utm_campaign=1065&utm_source=git)** | Alexandria, VA | Hybrid | May 21 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Summer Internship, Marketing & Advertising Agency](https://jobright.ai/jobs/info/6a0fc3fe80bf0430c7636495?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 21 |
-| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0fc1e372b52f7225f403da?utm_campaign=1065&utm_source=git)** | Eatontown, NJ | On Site | May 21 |
-| **[Julius AI](https://julius.codes)** | **[Growth Intern](https://jobright.ai/jobs/info/6a0fc1cd83d7144289822a40?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
