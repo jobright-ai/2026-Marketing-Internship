@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a113c0a83d714428982af75?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 22 |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a11574483d714428982b362?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 23 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a11569b12f8b43cf398a18b?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 23 |
+| **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a11549b69bd827926af3365?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 23 |
+| **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/69950f8981476f6176acee27?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 22 |
+| **[BEACH HOUSE GROUP](http://www.beachhousegrp.com/)** | **[Ecommerce Intern, NOYZ](https://jobright.ai/jobs/info/6a1145879f654b3359cf086a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 22 |
 | **[Welch Design Studio](https://www.welchdesignstudio.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a11335a12f8b43cf3989b72?utm_campaign=1065&utm_source=git)** | Manhattan Beach, CA | On Site | May 22 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a1128c4619335383fb36f54?utm_campaign=1065&utm_source=git)** | Winter Park | On Site | May 22 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Marketing and Business Development Intern](https://jobright.ai/jobs/info/6a1128ac9fdbf21f36cb3157?utm_campaign=1065&utm_source=git)** | Austin, Texas | On Site | May 22 |
@@ -106,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Leitner-Poma Of America](https://leitner-poma.com)** | **[Sales & Marketing Intern - The Pipeline Project](https://jobright.ai/jobs/info/6a10a9149fdbf21f36cb000e?utm_campaign=1065&utm_source=git)** | Grand Junction,CO,US | On Site | May 22 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a10a89212f8b43cf3986a04?utm_campaign=1065&utm_source=git)** | Washington,DC,US | On Site | May 22 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Pittsburgh](https://jobright.ai/jobs/info/6a10a7cb9fdbf21f36caffc2?utm_campaign=1065&utm_source=git)** | 4200 Fifth Ave, Pittsburgh, PA, 15260, US | On Site | May 22 |
-| **[Save the Children US](http://savethechildren.org)** | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b569bd827926aefbf1?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 22 |
-| ↳ | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b569bd827926aefbf2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
+| **[Save the Children US](http://savethechildren.org)** | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b569bd827926aefbf2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
+| ↳ | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b569bd827926aefbf1?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 22 |
 | ↳ | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b469bd827926aefbeb?utm_campaign=1065&utm_source=git)** | Fairfield, Town of, Connecticut, United States | Hybrid | May 22 |
 | ↳ | **[Content & Communications Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b469bd827926aefbea?utm_campaign=1065&utm_source=git)** | Lexington, Kentucky, United States | Hybrid | May 22 |
 | **[Pure Fishing](https://www.purefishing.com)** | **[Marketing Intern - Bass Category Innovation & Trends](https://jobright.ai/jobs/info/69d809cb9f97a42dc9c19d94?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | May 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Drexel Co-op Marketing CRM Intern](https://jobright.ai/jobs/info/6a106da883d71442898261d5?utm_campaign=1065&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 22 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Operations Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69bc73cf45e08b3dc1f93049?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | May 22 |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a10672d9fdbf21f36cae473?utm_campaign=1065&utm_source=git)** | REMOTE, US | Remote | May 22 |
-| **[Systel, Inc.](http://www.systelusa.com/)** | **[Intern](https://jobright.ai/jobs/info/6a10654f69bd827926aee049?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | May 22 |
-| **[uAvionix Corporation](http://www.uavionix.com/)** | **[Marketing AI Intern](https://jobright.ai/jobs/info/6a10648512f8b43cf3984caf?utm_campaign=1065&utm_source=git)** | Beverly, MA | On Site | May 22 |
-| **[Dal-Tile LLC](http://dal-tile.com)** | **[MARKETING INTERN](https://jobright.ai/jobs/info/699ff59fce78e77b4fe6000d?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 22 |
-| **[Osmose](https://www.osmose.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a105c5f69bd827926aeda17?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
