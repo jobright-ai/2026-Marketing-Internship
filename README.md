@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a13378e83d714428983046d?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 24 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a13350d12f8b43cf398e9cc?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 24 |
+| **[Zynq](https://zynq.io/)** | **[Marketing Intern / GTM Associate](https://jobright.ai/jobs/info/6a132bf912f8b43cf398e8dd?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | May 24 |
 | **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a13179569bd827926af7787?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 24 |
 | **[DolFinContent](https://www.dolfincontent.com)** | **[Social Media Marketing Internship (Summer 2026)](https://jobright.ai/jobs/info/6a130fd412f8b43cf398e3db?utm_campaign=1065&utm_source=git)** | United States | Remote | May 24 |
 | **[MMS8P Agency](https://www.linkedin.com/company/106545292)** | **[LOCAL SEO & GOOGLE BUSINESS PROFILE INTERN (UNPAID — 3 MONTH INTERNSHIP)](https://jobright.ai/jobs/info/6a130e0d9f654b3359cf530e?utm_campaign=1065&utm_source=git)** | United States | Remote | May 24 |
@@ -70,8 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[Athlete Outreach Intern](https://jobright.ai/jobs/info/6a12fce683d714428982fc05?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | May 24 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a12fb29619335383fb3be69?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 24 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a12f8e59f654b3359cf508f?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 24 |
-| **[SellWizr](https://www.sellwizr.ai/)** | **[Growth & Marketing Engineering Intern](https://jobright.ai/jobs/info/6a12f7d99fdbf21f36cb7fec?utm_campaign=1065&utm_source=git)** | United States | Hybrid | May 24 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a12f7a883d714428982fb6c?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 24 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a12f7a883d714428982fb6c?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 24 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a12f77d12f8b43cf398e14e?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 24 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a12f74a619335383fb3be15?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 24 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a12f52b9f654b3359cf5040?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 24 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace Display Advertising Intern, Summer 2026](https://jobright.ai/jobs/info/6a117be083d714428982b87a?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | May 23 |
 | **[Tennis Channel](http://www.tennischannel.com/)** | **[Summer 2026 Intern – Marketing](https://jobright.ai/jobs/info/69d7fce5f4ea471a51fe2cc5?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | May 23 |
 | **[MathWorks](http://www.mathworks.com)** | **[University of Nevada, Reno MATLAB Student Ambassador](https://jobright.ai/jobs/info/69d82414b861c42857c48d4e?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | May 23 |
-| **[Smartly](http://smartly.io)** | **[Events Marketing Intern](https://jobright.ai/jobs/info/6a1160769fdbf21f36cb3a98?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 23 |
-| ↳ | **[Events Marketing Intern](https://jobright.ai/jobs/info/6a1160769fdbf21f36cb3a99?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 23 |
+| **[Smartly](http://smartly.io)** | **[Events Marketing Intern](https://jobright.ai/jobs/info/6a1160769fdbf21f36cb3a99?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 23 |
+| ↳ | **[Events Marketing Intern](https://jobright.ai/jobs/info/6a1160769fdbf21f36cb3a98?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 23 |
 | **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a115f14619335383fb37837?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | May 23 |
 | **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/69950f8981476f6176acee27?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 22 |
 | **[BEACH HOUSE GROUP](http://www.beachhousegrp.com/)** | **[Ecommerce Intern, NOYZ](https://jobright.ai/jobs/info/6a1145879f654b3359cf086a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/6a10f47283d7144289829665?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | May 22 |
 | **[Coldwell Banker](http://www.coldwellbanker.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a10c3ce83d7144289828421?utm_campaign=1065&utm_source=git)** | Greater Boston | On Site | May 22 |
 | **[Verifyt](www.verifyt.com)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/6a10c3b19fdbf21f36cb083c?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | May 22 |
-| **[All For Signs](https://allforsigns.com/)** | **[Digital Content & Social Media Intern (Part-Time)](https://jobright.ai/jobs/info/6a10c23c69bd827926af04ae?utm_campaign=1065&utm_source=git)** | Hollywood, FL | On Site | May 22 |
-| **[Onsite](https://www.onsiteworkshops.com)** | **[Marketing and Digital Intern](https://jobright.ai/jobs/info/6a10c13e69bd827926af0477?utm_campaign=1065&utm_source=git)** | USA | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
