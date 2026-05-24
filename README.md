@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a123a9783d714428982d609?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 23 |
+| **[Sueep](https://sueep.com)** | **[Digital Marketing Summer Intern](https://jobright.ai/jobs/info/6a12440f69bd827926af578a?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | May 23 |
+| **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Mission Team](https://jobright.ai/jobs/info/6a12439a9fdbf21f36cb5bf4?utm_campaign=1065&utm_source=git)** | Greater Cincinnati | On Site | May 23 |
 | **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a12372669bd827926af5527?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 23 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[Product Marketing Intern - Remote](https://jobright.ai/jobs/info/6a0fda6280bf0430c7636b30?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | May 23 |
 | **[Cruze](https://cruzemaps.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/6a1235739fdbf21f36cb598a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 23 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Digital Marketing EMEA, Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a11b516619335383fb3892d?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 23 |
 | ↳ | **[Digital Marketing EMEA, Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a11b514619335383fb3892c?utm_campaign=1065&utm_source=git)** | Oakville | Hybrid | May 23 |
 | **[Ameritas](http://www.ameritas.com)** | **[Marketing Intern - Communications](https://jobright.ai/jobs/info/6a11ad8983d714428982c3e8?utm_campaign=1065&utm_source=git)** | 5900 O St, Lincoln, NE68510-2234 | Hybrid | May 23 |
-| **[Rovicare](https://www.rovicare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a118cc712f8b43cf398a9ac?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | May 23 |
 | **[Health Monitor Network](http://www.healthmonitornetwork.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a118cc39f654b3359cf1327?utm_campaign=1065&utm_source=git)** | Montvale, NJ, US | On Site | May 23 |
 | **[Interbiz Consulting Pvt. Ltd.](https://interbizconsulting.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a118c8c83d714428982bb9f?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | May 23 |
 | **[Electro](electrogum.com)** | **[Influencer Outreach Intern](https://jobright.ai/jobs/info/6a1189dc12f8b43cf398a920?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | May 23 |
@@ -103,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[NULLZEC](https://www.nullzec.com/)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/6a11178c12f8b43cf3989496?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a110f2c9fdbf21f36cb284e?utm_campaign=1065&utm_source=git)** | Los Angeles Office | On Site | May 22 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / University of Pittsburgh](https://jobright.ai/jobs/info/6a1109709fdbf21f36cb25a2?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | May 22 |
-| **[PEPE INTERNATIONAL, INC.](www.chefpepe.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a1104489f654b3359cef571?utm_campaign=1065&utm_source=git)** | Salinas, CA | On Site | May 22 |
 | **[Ironveil Game Studio](https://www.linkedin.com/company/115564276)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a10fee212f8b43cf3988a0c?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | May 22 |
 | **[Glia](https://www.glia.com)** | **[Impact Communications Intern](https://jobright.ai/jobs/info/6a11105912f8b43cf398901e?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
 | **[The Hatcher Group](https://www.thehatchergroup.com)** | **[Intern, Digital](https://jobright.ai/jobs/info/6a10de9483d7144289828dc5?utm_campaign=1065&utm_source=git)** | bethesda,MD,US | Hybrid | May 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SproutsAI](http://www.sproutsai.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6a1093449fdbf21f36caf862?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | May 22 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Marketing Intern](https://jobright.ai/jobs/info/6a11001a83d7144289829ce6?utm_campaign=1065&utm_source=git)** | Greater Philadelphia | On Site | May 22 |
 | ↳ | **[Drexel Co-op Marketing CRM Intern](https://jobright.ai/jobs/info/6a10fff0619335383fb360a9?utm_campaign=1065&utm_source=git)** | Greater Philadelphia | On Site | May 22 |
+| **[Canadian Cancer Society](http://www.cancer.ca#)** | **[Communications Assistant (Summer Internship)](https://jobright.ai/jobs/info/6a10fed39fdbf21f36cb2235?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
