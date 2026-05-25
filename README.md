@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a146ccddc845f4be5bd2137?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 25 |
+| **[Summit Events](summiteventsclt.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a146738dc845f4be5bd202a?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | May 25 |
+| **[HOOST](https://www.hoost.it/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a146450738a270c8bfa79a5?utm_campaign=1065&utm_source=git)** | SD Metro Area | Remote | May 25 |
+| **[K&I Healthcare Services, LLC](http://www.kihealthcareservices.org)** | **[Marketing & Outreach Intern — Baltimore](https://jobright.ai/jobs/info/6a14620dbc9bff375af010a2?utm_campaign=1065&utm_source=git)** | Baltimore, Maryland, United States | On Site | May 25 |
+| ↳ | **[Marketing & Outreach Intern — Waldorf](https://jobright.ai/jobs/info/6a1461fddc845f4be5bd1efd?utm_campaign=1065&utm_source=git)** | Waldorf, Maryland, United States | On Site | May 25 |
+| **[DemaDose](https://www.demadose.com/)** | **[Internship Search Engine Optimization Specialist](https://jobright.ai/jobs/info/6a146130c48b503aeffbec37?utm_campaign=1065&utm_source=git)** | California, United States | Remote | May 25 |
+| **[K&I Healthcare Services, LLC](http://www.kihealthcareservices.org)** | **[Marketing & Outreach Intern Waldorf](https://jobright.ai/jobs/info/6a145e6d128680351d95d781?utm_campaign=1065&utm_source=git)** | Waldorf, MD, US | On Site | May 25 |
 | **[KCMCONNECT](https://kcmconnect.co/)** | **[LA: Social Media Internship](https://jobright.ai/jobs/info/6a1458a5c48b503aeffbead5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 25 |
 | **[Smartly](http://smartly.io)** | **[Growth Marketing Intern - ABM and Paid Media](https://jobright.ai/jobs/info/6a1456b9128680351d95d650?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 25 |
 | ↳ | **[Growth Marketing Intern - ABM and Paid Media](https://jobright.ai/jobs/info/6a1456b3128680351d95d64d?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 25 |
@@ -64,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[Athlete DM Outreach Intern](https://jobright.ai/jobs/info/6a1440acc48b503aeffbe7f9?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | May 25 |
 | ↳ | **[Brand Partnerships Intern](https://jobright.ai/jobs/info/6a143f8ac48b503aeffbe7db?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | May 25 |
 | **[ROCKWOOL Group](https://www.rockwoolgroup.com/)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6a102de069bd827926aec9ec?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | May 25 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Marketing & Market Research Internship](https://jobright.ai/jobs/info/6a14354f128680351d95d10a?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcd0a3e6a0d9792584ebbb?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 25 |
 | ↳ | **[Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fabd6c87a4820e6da81d7e?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 25 |
 | **[Maxis](http://www.maxis.com.my)** | **[Content Management Intern](https://jobright.ai/jobs/info/6a141119c2dca06fac4042e1?utm_campaign=1065&utm_source=git)** | Pinnacle, NC | On Site | May 25 |
@@ -142,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Systel Telecom](http://www.systelgroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a13d54158ee291d8052db63?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | May 23 |
 | **[uAvionix Corporation](http://www.uavionix.com/)** | **[Marketing AI Intern](https://jobright.ai/jobs/info/6a13d54e9f654b3359cf794b?utm_campaign=1065&utm_source=git)** | Beverly, MA | On Site | May 23 |
 | **[Lassonde Pappas & Company, Inc.](http://lassondepappas.com/)** | **[Category Management Intern - On-site/ Part-Time 15-20hrs/week](https://jobright.ai/jobs/info/69bc0ee85b89c002acf10797?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ | On Site | May 23 |
-| **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a11b5ee9fdbf21f36cb4bc0?utm_campaign=1065&utm_source=git)** | San Francisco | Hybrid | May 23 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6a11b5ee9fdbf21f36cb4bc2?utm_campaign=1065&utm_source=git)** | Austin, Texas, United States | Hybrid | May 23 |
+| **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a11b5ee9fdbf21f36cb4bc2?utm_campaign=1065&utm_source=git)** | Austin, Texas, United States | Hybrid | May 23 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6a11b5ee9fdbf21f36cb4bc0?utm_campaign=1065&utm_source=git)** | San Francisco | Hybrid | May 23 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/69bb1f5e06c1ba00c54d977d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 23 |
 | **[Geotab](http://www.geotab.com/)** | **[Digital Marketing EMEA, Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a11b516619335383fb3892d?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 23 |
 | ↳ | **[Digital Marketing EMEA, Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a11b514619335383fb3892c?utm_campaign=1065&utm_source=git)** | Oakville | Hybrid | May 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[POM Wonderful](http://www.pomwonderful.com)** | **[Brand Marketing Internship](https://jobright.ai/jobs/info/6a13f1479fdbf21f36cbae32?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | May 23 |
 | **[Health Monitor Network](http://www.healthmonitornetwork.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a118cc39f654b3359cf1327?utm_campaign=1065&utm_source=git)** | Montvale, NJ, US | On Site | May 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Campaign Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6966eb06b098f4515f4e54aa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 23 |
-| **[MathWorks](http://www.mathworks.com)** | **[Simon Fraser University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69d8098e869c7e25d8593171?utm_campaign=1065&utm_source=git)** | Toronto, ON | Hybrid | May 23 |
-| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Development Operations Intern](https://jobright.ai/jobs/info/6a117c0b69bd827926af38a3?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | May 23 |
-| ↳ | **[Development Operations Intern](https://jobright.ai/jobs/info/6a117c0a69bd827926af38a2?utm_campaign=1065&utm_source=git)** | New York City | On Site | May 23 |
-| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace Display Advertising Intern, Summer 2026](https://jobright.ai/jobs/info/6a117be083d714428982b87a?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | May 23 |
-| **[MathWorks](http://www.mathworks.com)** | **[University of Nevada, Reno MATLAB Student Ambassador](https://jobright.ai/jobs/info/69d82414b861c42857c48d4e?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | May 23 |
-| **[Tennis Channel](http://www.tennischannel.com/)** | **[Summer 2026 Intern – Marketing](https://jobright.ai/jobs/info/69d7fce5f4ea471a51fe2cc5?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
