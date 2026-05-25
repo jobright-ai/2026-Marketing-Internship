@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SHAKE-SOCIAL](http://www.shakeapp.today)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a14aaa2738a270c8bfa84a7?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | May 25 |
 | **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a14a3e2dc845f4be5bd2aaa?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 25 |
 | **[Forte Group](https://forteseries.com/)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a14a1a8dc845f4be5bd2a09?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 25 |
 | **[BuzzSpoon](BuzzSpoon.com)** | **[Culinary Creator & Field Marketing Manager Temp/Contractor/Intern](https://jobright.ai/jobs/info/6a149fbdc48b503aeffbf6b2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 25 |
@@ -145,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[New Ground](https://www.wearenewground.com/)** | **[Content & PR Intern](https://jobright.ai/jobs/info/6a122863619335383fb3976c?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | May 23 |
 | **[Everbridge](https://www.everbridge.com)** | **[Marketing Intern (Demand Generation & Field Marketing)](https://jobright.ai/jobs/info/6a120c419fdbf21f36cb552e?utm_campaign=1065&utm_source=git)** | United States | Remote | May 23 |
 | **[Farmers State Bank](https://www.myfsb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a13cb41619335383fb3e185?utm_campaign=1065&utm_source=git)** | Marion, IA | On Site | May 23 |
-| **[Icon Train Smarter](http://icontraining.app)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a1204b5619335383fb39264?utm_campaign=1065&utm_source=git)** | United States | Remote | May 23 |
 | **[MathWorks](http://www.mathworks.com)** | **[Arizona State University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69d7effdb67cec4f9b099514?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | May 23 |
 | **[V2X Inc](https://gov2x.com)** | **[Marketing and Communications Intern (PT)](https://jobright.ai/jobs/info/6a13cfed58ee291d8052d8f0?utm_campaign=1065&utm_source=git)** | United States | Remote | May 23 |
 | **[Harbor Freight Tools](https://www.harborfreightjobs.com/)** | **[Marketing Intern - Remote](https://jobright.ai/jobs/info/6a0ead81619335383fb26db2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 23 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Rendezvous Robotics](https://www.rdvrobotics.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/6a11ec72619335383fb38fa4?utm_campaign=1065&utm_source=git)** | Golden, Colorado | On Site | May 23 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Communications & Community Engagement Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69d988ae9f97a42dc9c221ad?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 23 |
 | **[Y.N. Marketing Solutions Inc](www.ynmarketingsolutionsinc.com)** | **[Entry Level Marketing Intern](https://jobright.ai/jobs/info/6a0507357c753c287f6f614d?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 23 |
-| **[OpenEye](http://openeye.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a11d12b69bd827926af4a03?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | On Site | May 23 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a11d12b69bd827926af4a02?utm_campaign=1065&utm_source=git)** | Liberty Lake, Washington | On Site | May 23 |
+| **[OpenEye](http://openeye.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a11d12b69bd827926af4a02?utm_campaign=1065&utm_source=git)** | Liberty Lake, Washington | On Site | May 23 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a11d12b69bd827926af4a03?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | On Site | May 23 |
 | **[Systel Telecom](http://www.systelgroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a13d54158ee291d8052db63?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | May 23 |
 | **[uAvionix Corporation](http://www.uavionix.com/)** | **[Marketing AI Intern](https://jobright.ai/jobs/info/6a13d54e9f654b3359cf794b?utm_campaign=1065&utm_source=git)** | Beverly, MA | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
