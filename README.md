@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a136a7369bd827926af82c8?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 24 |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a138a3683d7144289830e69?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 24 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a13889012f8b43cf398f325?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 24 |
+| **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a13864e69bd827926af85bd?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 24 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/6a137a8883d7144289830ce4?utm_campaign=1065&utm_source=git)** | United States | Remote | May 24 |
 | **[HubSpot](http://www.hubspot.com)** | **[Product Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6a1340279f654b3359cf5a25?utm_campaign=1065&utm_source=git)** | Remote - USA | Remote | May 24 |
 | ↳ | **[Product Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6a1340269f654b3359cf5a24?utm_campaign=1065&utm_source=git)** | Remote - United States of America | Remote | May 24 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb14?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 24 |
-| ↳ | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 24 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 24 |
+| ↳ | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb14?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 24 |
 | **[Zynq](https://zynq.io/)** | **[Marketing Intern / GTM Associate](https://jobright.ai/jobs/info/6a132bf912f8b43cf398e8dd?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | May 24 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[6 months Internship in Strategy & Data Science / New York](https://jobright.ai/jobs/info/6a1309bc9f654b3359cf52b0?utm_campaign=1065&utm_source=git)** | New York | On Site | May 24 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1307cb12f8b43cf398e2f6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 24 |
@@ -70,8 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a1300f412f8b43cf398e1ec?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 24 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a1300e6619335383fb3bed9?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | May 24 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a1300e29f654b3359cf510f?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 24 |
-| **[Electro](electrogum.com)** | **[Athlete Outreach Intern](https://jobright.ai/jobs/info/6a12fce683d714428982fc05?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | May 24 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a12fb29619335383fb3be69?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 24 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a12fb29619335383fb3be69?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 24 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a12f8e59f654b3359cf508f?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 24 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a12f7a883d714428982fb6c?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 24 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a12f77d12f8b43cf398e14e?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 24 |
@@ -109,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Communications & Community Engagement Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69d988ae9f97a42dc9c221ad?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 23 |
 | **[Y.N. Marketing Solutions Inc](www.ynmarketingsolutionsinc.com)** | **[Entry Level Marketing Intern](https://jobright.ai/jobs/info/6a0507357c753c287f6f614d?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 23 |
 | **[Co-Mo Connect: Powered by Co-Mo Electric Cooperative, Inc.](https://www.co-mo.coop)** | **[Marketing and  Communications Intern](https://jobright.ai/jobs/info/6a11d56b83d714428982ca60?utm_campaign=1065&utm_source=git)** | Tipton,MO,US | On Site | May 23 |
-| **[OpenEye](http://openeye.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a11d12b69bd827926af4a03?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | On Site | May 23 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a11d12b69bd827926af4a02?utm_campaign=1065&utm_source=git)** | Liberty Lake, Washington | On Site | May 23 |
+| **[OpenEye](http://openeye.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a11d12b69bd827926af4a02?utm_campaign=1065&utm_source=git)** | Liberty Lake, Washington | On Site | May 23 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a11d12b69bd827926af4a03?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | On Site | May 23 |
 | **[Lassonde Pappas & Company, Inc.](http://lassondepappas.com/)** | **[Category Management Intern - On-site/ Part-Time 15-20hrs/week](https://jobright.ai/jobs/info/69bc0ee85b89c002acf10797?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ | On Site | May 23 |
 | **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a11b5ee9fdbf21f36cb4bc2?utm_campaign=1065&utm_source=git)** | Austin, Texas, United States | Hybrid | May 23 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6a11b5ee9fdbf21f36cb4bc0?utm_campaign=1065&utm_source=git)** | San Francisco | Hybrid | May 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Diamond Growers](https://bluediamondgrowers.com/)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/6a11144383d714428982a50f?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | May 22 |
 | **[Grounded Landscaping & Lawn Care](https://www.groundedcolumbus.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a12891412f8b43cf398cefa?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | May 22 |
 | **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/6a10f47283d7144289829665?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | May 22 |
-| **[Coldwell Banker](http://www.coldwellbanker.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a10c3ce83d7144289828421?utm_campaign=1065&utm_source=git)** | Greater Boston | On Site | May 22 |
-| **[Verifyt](www.verifyt.com)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/6a10c3b19fdbf21f36cb083c?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
