@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a1550d1128680351d960517?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 26 |
+| **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a154a331935fa61b3c67088?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 26 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Integrated Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6a154074738a270c8bfaa30f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 25 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Video Marketing + AI Tools Internship (5-15hrs/week)](https://jobright.ai/jobs/info/6a153e92554b0e12c058174f?utm_campaign=1065&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 25 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing and Sales Intern (Unpaid)](https://jobright.ai/jobs/info/6a1538f8128680351d960057?utm_campaign=1065&utm_source=git)** | United States | Remote | May 25 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcd0a3e6a0d9792584ebbb?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 25 |
 | ↳ | **[Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fabd6c87a4820e6da81d7e?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 25 |
 | **[Maxis](http://www.maxis.com.my)** | **[Content Management Intern](https://jobright.ai/jobs/info/6a141119c2dca06fac4042e1?utm_campaign=1065&utm_source=git)** | Pinnacle, NC | On Site | May 25 |
-| **[Soter](http://www.soter.com)** | **[Marketing Internship (Summer - 8 Weeks)](https://jobright.ai/jobs/info/6a140cc9c2dca06fac40423d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 25 |
 | **[Pilates At Zoé](https://momence.com/u/pilates-at-zoé-otkXHi)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/6a154963554b0e12c0581a06?utm_campaign=1065&utm_source=git)** | Bolton, Ontario, Canada | On Site | May 25 |
 | **[Osmose](https://www.osmose.com/)** | **[Marketing Intern ****Onsite in Atlanta, GA. No relocation or housing provided****](https://jobright.ai/jobs/info/6a13ebd5619335383fb3eae9?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 24 |
 | **[D5](https://www.d5render.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1503b7dc845f4be5bd3a46?utm_campaign=1065&utm_source=git)** | United States | Remote | May 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xpress Boats](https://xpressboats.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a129eb369bd827926af64b5?utm_campaign=1065&utm_source=git)** | Veranda Luxury Pontoons - Malvern, AR 72104 | On Site | May 23 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a129eb269bd827926af64b4?utm_campaign=1065&utm_source=git)** | Xpress Boats & Backtrack Trailers - Hot Springs, AR 71901 | On Site | May 23 |
 | **[Cousin Corporation of America](http://cousin.com)** | **[Social Media Intern - Virtual](https://jobright.ai/jobs/info/6a129c0f83d714428982ea6e?utm_campaign=1065&utm_source=git)** | New York , NY, United States | Remote | May 23 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Data Science Intern - Marketing](https://jobright.ai/jobs/info/6a0e54a280bf0430c762c04a?utm_campaign=1065&utm_source=git)** | Nottingham, MD | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
