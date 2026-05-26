@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a1511a7c48b503aeffc090a?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 25 |
+| **[Reach Records](https://www.reachrecords.com)** | **[Get MXD Marketing Internship – Summer 2026](https://jobright.ai/jobs/info/6a151c62bc9bff375af02f24?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 25 |
+| **[MMS8P Agency](https://www.linkedin.com/company/106545292)** | **[EXECUTIVE MARKETING ASSISTANT INTERN (UNPAID — 3 MONTH INTERNSHIP)](https://jobright.ai/jobs/info/6a151b1f554b0e12c0580cbe?utm_campaign=1065&utm_source=git)** | United States | Remote | May 25 |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a15183bdc845f4be5bd3dde?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 25 |
 | **[Aico AI DJ](aicoaidj.com)** | **[Instagram Digital Marketing Intern](https://jobright.ai/jobs/info/6a1511a3128680351d95f4ca?utm_campaign=1065&utm_source=git)** | United States | Remote | May 25 |
 | **[Gushcloud International](http://gushcloud.com)** | **[Creator Management Intern](https://jobright.ai/jobs/info/6a150a50dc845f4be5bd3bc9?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 25 |
 | **[Winona](https://bywinona.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a14fe1edc845f4be5bd3936?utm_campaign=1065&utm_source=git)** | Easley, SC | On Site | May 25 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Smartly](http://smartly.io)** | **[Growth Marketing Intern - ABM and Paid Media](https://jobright.ai/jobs/info/6a1456b9128680351d95d650?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 25 |
 | ↳ | **[Growth Marketing Intern - ABM and Paid Media](https://jobright.ai/jobs/info/6a1456b3128680351d95d64d?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 25 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales (Growth) Intern](https://jobright.ai/jobs/info/6a144e71738a270c8bfa76db?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 25 |
-| **[Electro](electrogum.com)** | **[Athlete DM Outreach Intern](https://jobright.ai/jobs/info/6a1440acc48b503aeffbe7f9?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | May 25 |
 | **[ROCKWOOL Group](https://www.rockwoolgroup.com/)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6a102de069bd827926aec9ec?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | May 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcd0a3e6a0d9792584ebbb?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 25 |
 | ↳ | **[Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fabd6c87a4820e6da81d7e?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 25 |
@@ -153,7 +154,6 @@ For a complete list, click the following sortable link below:
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Data Science Intern - Marketing](https://jobright.ai/jobs/info/6a0e54a280bf0430c762c04a?utm_campaign=1065&utm_source=git)** | Nottingham, MD | On Site | May 23 |
 | **[Alarm.com](http://www.alarm.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1297bf9f654b3359cf40b6?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | On Site | May 23 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a1297be9f654b3359cf40b5?utm_campaign=1065&utm_source=git)** | Liberty Lake, Washington | On Site | May 23 |
-| **[#FirstGenTalks](https://www.linkedin.com/company/109248245)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/6a1271b8619335383fb3a0db?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | May 23 |
 | **[rbb Communications](https://rbbcommunications.com/)** | **[Fall 2026 Internships: PR & Communications](https://jobright.ai/jobs/info/6a0b2c08963f7a67d95ccd36?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | Hybrid | May 23 |
 | ↳ | **[Fall 2026 Internship: Integrated Marketing](https://jobright.ai/jobs/info/6a0f6ac972b52f7225f3dc42?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | Hybrid | May 23 |
 | **[IB Flash](https://www.ibflash.com/)** | **[Growth & Marketing Intern, Investment Banking AI Finance Startup](https://jobright.ai/jobs/info/6a1501d0dc845f4be5bd39de?utm_campaign=1065&utm_source=git)** | United States | Remote | May 23 |
