@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Y.N. Marketing Solutions Inc](www.ynmarketingsolutionsinc.com)** | **[Entry Level Marketing Internship](https://jobright.ai/jobs/info/6a1591810073182bd92aaeb7?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 26 |
 | **[Audacity Sports](https://audacitysports.org)** | **[Growth Marketing Internship](https://jobright.ai/jobs/info/6a158bff1935fa61b3c68b4f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | **[Electro](electrogum.com)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/6a158bdf554b0e12c05835b7?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Remote | May 26 |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a1586ee128680351d961eef?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 26 |
 | **[Workout Anytime Franchising Systems, LLC](http://www.workoutanytime.com)** | **[Content Creator and Media Growth Intern](https://jobright.ai/jobs/info/6a1585860073182bd92aa5a8?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | May 26 |
 | **[K&I Healthcare Services, LLC](http://www.kihealthcareservices.org)** | **[Marketing & Outreach Intern Waldorf](https://jobright.ai/jobs/info/6a15829c554b0e12c05834ab?utm_campaign=1065&utm_source=git)** | Waldorf, MD | On Site | May 26 |
 | ↳ | **[Marketing & Outreach Intern Baltimore](https://jobright.ai/jobs/info/6a15828f1935fa61b3c68a4b?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 26 |
@@ -101,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Reach Records](https://www.reachrecords.com)** | **[Get MXD Marketing Internship – Summer 2026](https://jobright.ai/jobs/info/6a151c62bc9bff375af02f24?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 25 |
 | **[Gushcloud International](http://gushcloud.com)** | **[Creator Management Intern](https://jobright.ai/jobs/info/6a150a50dc845f4be5bd3bc9?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 25 |
 | **[Winona](https://bywinona.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a14fe1edc845f4be5bd3936?utm_campaign=1065&utm_source=git)** | Easley, SC | On Site | May 25 |
-| **[Micro](https://trymicro.io/)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a14ec8bc48b503aeffc02de?utm_campaign=1065&utm_source=git)** | United States | Remote | May 25 |
 | **[RPNZL Beauty](www.rpnzlbeauty.com)** | **[Social Media Manager Intern](https://jobright.ai/jobs/info/6a14ec6c738a270c8bfa9072?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | May 25 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Principal & Major Gifts Intern](https://jobright.ai/jobs/info/6a14e462128680351d95ed8e?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | May 25 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Local Marketing Internship](https://jobright.ai/jobs/info/6a14cfe6554b0e12c0580136?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | May 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6a1340269f654b3359cf5a24?utm_campaign=1065&utm_source=git)** | Remote - United States of America | Remote | May 24 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb14?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 24 |
 | ↳ | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 24 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Swine Marketing Intern](https://jobright.ai/jobs/info/68c8fa44f9c6ff7aedf15829?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
