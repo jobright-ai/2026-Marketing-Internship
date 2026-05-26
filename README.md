@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a1511a7c48b503aeffc090a?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 25 |
+| **[Aico AI DJ](aicoaidj.com)** | **[Instagram Digital Marketing Intern](https://jobright.ai/jobs/info/6a1511a3128680351d95f4ca?utm_campaign=1065&utm_source=git)** | United States | Remote | May 25 |
+| **[Gushcloud International](http://gushcloud.com)** | **[Creator Management Intern](https://jobright.ai/jobs/info/6a150a50dc845f4be5bd3bc9?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 25 |
 | **[Winona](https://bywinona.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a14fe1edc845f4be5bd3936?utm_campaign=1065&utm_source=git)** | Easley, SC | On Site | May 25 |
-| **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a14f4a3c48b503aeffc0408?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 25 |
 | **[DemaDose](https://www.demadose.com/)** | **[Search Engine Optimization Specialist Internship](https://jobright.ai/jobs/info/6a14ef0cdc845f4be5bd371f?utm_campaign=1065&utm_source=git)** | California, United States | Remote | May 25 |
 | **[Micro](https://trymicro.io/)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a14ec8bc48b503aeffc02de?utm_campaign=1065&utm_source=git)** | United States | Remote | May 25 |
 | **[RPNZL Beauty](www.rpnzlbeauty.com)** | **[Social Media Manager Intern](https://jobright.ai/jobs/info/6a14ec6c738a270c8bfa9072?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | May 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[rbb Communications](https://rbbcommunications.com/)** | **[Fall 2026 Internships: PR & Communications](https://jobright.ai/jobs/info/6a0b2c08963f7a67d95ccd36?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | Hybrid | May 23 |
 | ↳ | **[Fall 2026 Internship: Integrated Marketing](https://jobright.ai/jobs/info/6a0f6ac972b52f7225f3dc42?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | Hybrid | May 23 |
 | **[IB Flash](https://www.ibflash.com/)** | **[Growth & Marketing Intern, Investment Banking AI Finance Startup](https://jobright.ai/jobs/info/6a1501d0dc845f4be5bd39de?utm_campaign=1065&utm_source=git)** | United States | Remote | May 23 |
-| **[MathWorks](http://www.mathworks.com)** | **[University of Chicago MATLAB Student Ambassador](https://jobright.ai/jobs/info/6930bdacef4b48533d14e981?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | May 23 |
-| **[ASAE: The Center for Association Leadership](https://www.asaecenter.org)** | **[AOPA Digital Communications Intern](https://jobright.ai/jobs/info/6a13c90758ee291d8052d4a7?utm_campaign=1065&utm_source=git)** | Alexandria, VA | Hybrid | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
