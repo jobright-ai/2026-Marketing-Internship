@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heiler Painting](http://heilerpainting.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a15cd11554b0e12c058617b?utm_campaign=1065&utm_source=git)** | Media, PA | On Site | May 26 |
+| ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a15cd0e554b0e12c058617a?utm_campaign=1065&utm_source=git)** | USA | On Site | May 26 |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[CTE Summer Communications Student Intern](https://jobright.ai/jobs/info/6a15cc770073182bd92acf40?utm_campaign=1065&utm_source=git)** | Service Center - Marysville, Washington | On Site | May 26 |
+| **[Vheda Health](http://www.vheda.com)** | **[Intern, Digital Marketing (Summer 2026)](https://jobright.ai/jobs/info/6a15cb53a429fd279da923b7?utm_campaign=1065&utm_source=git)** | Remote (United States) | Remote | May 26 |
+| **[SCRAM Systems](https://www.scramsystems.com)** | **[Content Writing Intern](https://jobright.ai/jobs/info/6a15cb34dc845f4be5bd9057?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
+| **[Louisiana Blue](https://www.bcbsla.com/)** | **[CW Corporate Strategy Intern](https://jobright.ai/jobs/info/6a15ca50554b0e12c0586043?utm_campaign=1065&utm_source=git)** | Corporate - Baton Rouge, LA, US | On Site | May 26 |
 | **[Aspect Build](https://www.aspect.build/)** | **[Part-Time Marketing Intern (Paid)](https://jobright.ai/jobs/info/6a15c719dc845f4be5bd8b62?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | **[Fezzora, Inc.](fezzorainc.com)** | **[Entry Level Marketing 2026 Internship](https://jobright.ai/jobs/info/6a0f295f9f654b3359ce30cd?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[pladis Global](http://www.pladisglobal.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a15c6081935fa61b3c6af87?utm_campaign=1065&utm_source=git)** | US White Plains Office, US | On Site | May 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Outreach Intern Waldorf](https://jobright.ai/jobs/info/6a145e6d128680351d95d781?utm_campaign=1065&utm_source=git)** | Waldorf, MD, US | On Site | May 25 |
 | **[MOTOR Information Systems](http://motor.com)** | **[Marketing Intern - Data, AI & Market Intelligence (Revenue Marketing Operations)](https://jobright.ai/jobs/info/69eae7e916b2612c2a11810a?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | May 25 |
 | **[Smartly](http://smartly.io)** | **[Growth Marketing Intern - ABM and Paid Media](https://jobright.ai/jobs/info/6a1456b9128680351d95d650?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 25 |
-| ↳ | **[Growth Marketing Intern - ABM and Paid Media](https://jobright.ai/jobs/info/6a1456b3128680351d95d64d?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 25 |
-| **[ROCKWOOL Group](https://www.rockwoolgroup.com/)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6a102de069bd827926aec9ec?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | May 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcd0a3e6a0d9792584ebbb?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 25 |
-| ↳ | **[Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fabd6c87a4820e6da81d7e?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 25 |
-| **[Maxis](http://www.maxis.com.my)** | **[Content Management Intern](https://jobright.ai/jobs/info/6a141119c2dca06fac4042e1?utm_campaign=1065&utm_source=git)** | Pinnacle, NC | On Site | May 25 |
-| **[Pilates At Zoé](https://momence.com/u/pilates-at-zoé-otkXHi)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/6a154963554b0e12c0581a06?utm_campaign=1065&utm_source=git)** | Bolton, Ontario, Canada | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
