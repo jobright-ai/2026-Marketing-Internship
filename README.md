@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Social Media and Marketing Intern (Flexible, 10hrs/week)](https://jobright.ai/jobs/info/6a14cac0128680351d95ea29?utm_campaign=1065&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 25 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Marketing: AI Discoverability & Optimization Intern (Summer 2026)](https://jobright.ai/jobs/info/6a14c97adc845f4be5bd3188?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 25 |
+| **[Electro](electrogum.com)** | **[NIL Outreach Intern](https://jobright.ai/jobs/info/6a14c5cb554b0e12c057ff82?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | May 25 |
+| ↳ | **[TikTok Influencer Outreach Intern](https://jobright.ai/jobs/info/6a14c4dbc48b503aeffbfd28?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | May 25 |
 | **[Originature](www.originaturestore.com)** | **[SEO and Social Media Intern](https://jobright.ai/jobs/info/6a14c17bbc9bff375af02179?utm_campaign=1065&utm_source=git)** | United States | Remote | May 25 |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a14c034dc845f4be5bd3063?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 25 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Local Marketing Internship](https://jobright.ai/jobs/info/6a14b996dc845f4be5bd2f51?utm_campaign=1065&utm_source=git)** | US-NC-Charlotte | On Site | May 25 |
 | ↳ | **[Local Marketing Internship](https://jobright.ai/jobs/info/6a14b98ddc845f4be5bd2f4e?utm_campaign=1065&utm_source=git)** | Charlotte, NC, US | On Site | May 25 |
-| **[Rosie & Company Global](https://www.rosiecoglobal.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a14b915738a270c8bfa88a5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 25 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Brand & Community Relations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a14b80c738a270c8bfa886f?utm_campaign=1065&utm_source=git)** | Moody Center (Austin, TX) | On Site | May 25 |
 | ↳ | **[Brand & Community Relations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a14b80b738a270c8bfa886e?utm_campaign=1065&utm_source=git)** | US-TX-Austin | On Site | May 25 |
 | **[Winona](https://bywinona.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a14b0ff738a270c8bfa86ef?utm_campaign=1065&utm_source=git)** | Easley, SC | On Site | May 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Everbridge](https://www.everbridge.com)** | **[Marketing Intern (Demand Generation & Field Marketing)](https://jobright.ai/jobs/info/6a120c419fdbf21f36cb552e?utm_campaign=1065&utm_source=git)** | United States | Remote | May 23 |
 | **[Farmers State Bank](https://www.myfsb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a13cb41619335383fb3e185?utm_campaign=1065&utm_source=git)** | Marion, IA | On Site | May 23 |
 | **[MathWorks](http://www.mathworks.com)** | **[Arizona State University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69d7effdb67cec4f9b099514?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | May 23 |
-| **[V2X Inc](https://gov2x.com)** | **[Marketing and Communications Intern (PT)](https://jobright.ai/jobs/info/6a13cfed58ee291d8052d8f0?utm_campaign=1065&utm_source=git)** | United States | Remote | May 23 |
-| **[Harbor Freight Tools](https://www.harborfreightjobs.com/)** | **[Marketing Intern - Remote](https://jobright.ai/jobs/info/6a0ead81619335383fb26db2?utm_campaign=1065&utm_source=git)** | United States | Remote | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
