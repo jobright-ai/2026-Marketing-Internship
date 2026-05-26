@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Audacity Sports](https://audacitysports.org)** | **[Growth Marketing Internship](https://jobright.ai/jobs/info/6a158bff1935fa61b3c68b4f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
+| **[Electro](electrogum.com)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/6a158bdf554b0e12c05835b7?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Remote | May 26 |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a1586ee128680351d961eef?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 26 |
+| **[Workout Anytime Franchising Systems, LLC](http://www.workoutanytime.com)** | **[Content Creator and Media Growth Intern](https://jobright.ai/jobs/info/6a1585860073182bd92aa5a8?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | May 26 |
+| **[K&I Healthcare Services, LLC](http://www.kihealthcareservices.org)** | **[Marketing & Outreach Intern Waldorf](https://jobright.ai/jobs/info/6a15829c554b0e12c05834ab?utm_campaign=1065&utm_source=git)** | Waldorf, MD | On Site | May 26 |
+| ↳ | **[Marketing & Outreach Intern Baltimore](https://jobright.ai/jobs/info/6a15828f1935fa61b3c68a4b?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 26 |
 | **[Crystal Skies LLC](https://www.linkedin.com/company/106800421)** | **[Short-Form Video & Marketing Intern](https://jobright.ai/jobs/info/6a157d85128680351d961c49?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | May 26 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern LI - HR Marketing Intern](https://jobright.ai/jobs/info/69faf748e1560008411556e2?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | May 26 |
 | **[Walapay](https://www.3mint.io)** | **[Social Media & Content Marketing Intern](https://jobright.ai/jobs/info/6a157cf6128680351d961c00?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
@@ -80,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/69fb0dfbe156000841155b2b?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | May 26 |
 | **[American Heritage Railways Inc](http://americanheritagerailways.com/)** | **[GSMR Marketing Intern](https://jobright.ai/jobs/info/6a155d88554b0e12c058211b?utm_campaign=1065&utm_source=git)** | BRYSON CITY, NC 28713 | On Site | May 26 |
 | **[Communications Strategy Group (CSG®)](https://wearecsg.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a155d82128680351d960afa?utm_campaign=1065&utm_source=git)** | CO - Denver, CO 80206 | On Site | May 26 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/6a155cd61935fa61b3c676af?utm_campaign=1065&utm_source=git)** | 1 Mercedes-Drive | On Site | May 26 |
-| ↳ | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/6a155cd61935fa61b3c676ae?utm_campaign=1065&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 26 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/6a155cd61935fa61b3c676ae?utm_campaign=1065&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 26 |
+| ↳ | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/6a155cd61935fa61b3c676af?utm_campaign=1065&utm_source=git)** | 1 Mercedes-Drive | On Site | May 26 |
 | ↳ | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/6a155cc41935fa61b3c676ab?utm_campaign=1065&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 26 |
 | **[Etaily](https://etaily.com)** | **[Ecommerce Analyst Intern](https://jobright.ai/jobs/info/6a155be7128680351d9609d3?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a154a331935fa61b3c67088?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 26 |
@@ -132,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[MOTOR Information Systems](http://motor.com)** | **[Marketing Intern - Data, AI & Market Intelligence (Revenue Marketing Operations)](https://jobright.ai/jobs/info/69eae7e916b2612c2a11810a?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | May 25 |
 | **[Smartly](http://smartly.io)** | **[Growth Marketing Intern - ABM and Paid Media](https://jobright.ai/jobs/info/6a1456b9128680351d95d650?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 25 |
 | ↳ | **[Growth Marketing Intern - ABM and Paid Media](https://jobright.ai/jobs/info/6a1456b3128680351d95d64d?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 25 |
-| **[Starbeam](www.starbeam.org)** | **[Marketing & Sales (Growth) Intern](https://jobright.ai/jobs/info/6a144e71738a270c8bfa76db?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | May 25 |
 | **[ROCKWOOL Group](https://www.rockwoolgroup.com/)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6a102de069bd827926aec9ec?utm_campaign=1065&utm_source=git)** | Milton, Ontario, Canada | On Site | May 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcd0a3e6a0d9792584ebbb?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 25 |
 | ↳ | **[Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fabd6c87a4820e6da81d7e?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6a1340269f654b3359cf5a24?utm_campaign=1065&utm_source=git)** | Remote - United States of America | Remote | May 24 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb14?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 24 |
 | ↳ | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 24 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Swine Marketing Intern](https://jobright.ai/jobs/info/68c8fa44f9c6ff7aedf15829?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | May 24 |
-| **[Zynq](https://zynq.io/)** | **[Marketing Intern / GTM Associate](https://jobright.ai/jobs/info/6a132bf912f8b43cf398e8dd?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | May 24 |
-| **[Clarkson University](http://www.clarkson.edu)** | **[Summer Intern - Marketing & Communications Support](https://jobright.ai/jobs/info/6a13a3dc619335383fb3d426?utm_campaign=1065&utm_source=git)** | Potsdam, NY | On Site | May 24 |
-| **[Ekimetrics](http://www.ekimetrics.com/)** | **[6 months Internship in Strategy & Data Science / New York](https://jobright.ai/jobs/info/6a1309bc9f654b3359cf52b0?utm_campaign=1065&utm_source=git)** | New York | On Site | May 24 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1307cb12f8b43cf398e2f6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
