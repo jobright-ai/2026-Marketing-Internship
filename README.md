@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smartly](http://smartly.io)** | **[Growth Marketing Intern - ABM and Paid Media](https://jobright.ai/jobs/info/69dd706d5356a60f40fee451?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 26 |
+| ↳ | **[Growth Marketing Intern - Website, Email, and Marketing Operations](https://jobright.ai/jobs/info/69dd76c3738f2f099e8b669a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 26 |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a15a280128680351d962c9a?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 26 |
+| **[MCA Connect](http://mcaconnect.com/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69faf19186d5cd46527d13f7?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | **[Y.N. Marketing Solutions Inc](www.ynmarketingsolutionsinc.com)** | **[Entry Level Marketing Internship](https://jobright.ai/jobs/info/6a1591810073182bd92aaeb7?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 26 |
 | **[Audacity Sports](https://audacitysports.org)** | **[Growth Marketing Internship](https://jobright.ai/jobs/info/6a158bff1935fa61b3c68b4f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | **[Electro](electrogum.com)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/6a158bdf554b0e12c05835b7?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Remote | May 26 |
@@ -125,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[The Swift Club](www.theswiftclub.com)** | **[Social Media & Brand Marketing Associate (Intern)](https://jobright.ai/jobs/info/6a14855bc48b503aeffbf221?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | May 25 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Customer, Brand Strategy & Marketing](https://jobright.ai/jobs/info/69fabb9d18b94b2515bdc146?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | May 25 |
 | **[K&I Healthcare Services, LLC](http://www.kihealthcareservices.org)** | **[Marketing & Outreach Intern Baltimore](https://jobright.ai/jobs/info/6a147bf6dc845f4be5bd232b?utm_campaign=1065&utm_source=git)** | Baltimore, MD, US | On Site | May 25 |
-| **[Lawrence-Lynch Corp.](https://www.lawrencelynch.com/)** | **[Social Media &amp; Content Creation Intern](https://jobright.ai/jobs/info/6a1479bcdc845f4be5bd22e1?utm_campaign=1065&utm_source=git)** | 396 Gifford Street, Falmouth, MA 02540, USA | On Site | May 25 |
 | **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a1475df554b0e12c057f279?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States | Hybrid | May 25 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6a1475dc554b0e12c057f277?utm_campaign=1065&utm_source=git)** | San Francisco | Hybrid | May 25 |
 | **[Enove Strategies](https://enovestrategies.com/)** | **[Direct Marketing Intern](https://jobright.ai/jobs/info/6a146ffec48b503aeffbeec6?utm_campaign=1065&utm_source=git)** | Pasadena, TX | On Site | May 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Delivery iXp Intern - Strategic Content and Communications](https://jobright.ai/jobs/info/69a0ce6f81476f6176bb1860?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | May 24 |
 | **[HubSpot](http://www.hubspot.com)** | **[Product Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6a1340279f654b3359cf5a25?utm_campaign=1065&utm_source=git)** | Remote - USA | Remote | May 24 |
 | ↳ | **[Product Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6a1340269f654b3359cf5a24?utm_campaign=1065&utm_source=git)** | Remote - United States of America | Remote | May 24 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb14?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 24 |
-| ↳ | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 24 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Swine Marketing Intern](https://jobright.ai/jobs/info/68c8fa44f9c6ff7aedf15829?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
