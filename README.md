@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a1550d1128680351d960517?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 26 |
+| **[American Heritage Railways Inc](http://americanheritagerailways.com/)** | **[GSMR Marketing Intern](https://jobright.ai/jobs/info/6a155d88554b0e12c058211b?utm_campaign=1065&utm_source=git)** | BRYSON CITY, NC 28713 | On Site | May 26 |
+| **[Communications Strategy Group (CSG®)](https://wearecsg.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a155d82128680351d960afa?utm_campaign=1065&utm_source=git)** | CO - Denver, CO 80206 | On Site | May 26 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/6a155cd61935fa61b3c676af?utm_campaign=1065&utm_source=git)** | 1 Mercedes-Drive | On Site | May 26 |
+| ↳ | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/6a155cd61935fa61b3c676ae?utm_campaign=1065&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 26 |
+| ↳ | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/6a155cc41935fa61b3c676ab?utm_campaign=1065&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 26 |
+| **[Etaily](https://etaily.com)** | **[Ecommerce Analyst Intern](https://jobright.ai/jobs/info/6a155be7128680351d9609d3?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | **[Museum of Contemporary Art Toronto Canada](http://moca.ca)** | **[Events Intern](https://jobright.ai/jobs/info/6a154a331935fa61b3c67088?utm_campaign=1065&utm_source=git)** | Museum of Contemporary Art Toronto, Canada | Hybrid | May 26 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Integrated Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6a154074738a270c8bfaa30f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 25 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Video Marketing + AI Tools Internship (5-15hrs/week)](https://jobright.ai/jobs/info/6a153e92554b0e12c058174f?utm_campaign=1065&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 25 |
@@ -125,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Delivery iXp Intern - Strategic Content and Communications](https://jobright.ai/jobs/info/69a0ce6f81476f6176bb1860?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | May 24 |
 | **[HubSpot](http://www.hubspot.com)** | **[Product Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6a1340279f654b3359cf5a25?utm_campaign=1065&utm_source=git)** | Remote - USA | Remote | May 24 |
 | ↳ | **[Product Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6a1340269f654b3359cf5a24?utm_campaign=1065&utm_source=git)** | Remote - United States of America | Remote | May 24 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb14?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 24 |
-| ↳ | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 24 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 24 |
+| ↳ | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a133fcd12f8b43cf398eb14?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 24 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Swine Marketing Intern](https://jobright.ai/jobs/info/68c8fa44f9c6ff7aedf15829?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | May 24 |
 | **[Zynq](https://zynq.io/)** | **[Marketing Intern / GTM Associate](https://jobright.ai/jobs/info/6a132bf912f8b43cf398e8dd?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | May 24 |
 | **[Clarkson University](http://www.clarkson.edu)** | **[Summer Intern - Marketing & Communications Support](https://jobright.ai/jobs/info/6a13a3dc619335383fb3d426?utm_campaign=1065&utm_source=git)** | Potsdam, NY | On Site | May 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Vein Restoration](http://www.centerforvein.com/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a129ffd12f8b43cf398d352?utm_campaign=1065&utm_source=git)** | Fully Remote | Remote | May 23 |
 | **[Senergy Petroleum](https://www.gosenergy.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a129ff1619335383fb3b095?utm_campaign=1065&utm_source=git)** | SP Gilbert - Gilbert, AZ 85233 | On Site | May 23 |
 | **[Brad Hall Companies](https://bradhallfuel.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a129fdc83d714428982ec0c?utm_campaign=1065&utm_source=git)** | SP Gilbert - Gilbert, AZ 85233 | On Site | May 23 |
-| **[Railbookers Group](https://www.railbookersgroup.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a129f7f12f8b43cf398d2ef?utm_campaign=1065&utm_source=git)** | Fully Remote | Remote | May 23 |
-| **[Flinn](http://flinnsci.com)** | **[Marketing Internship (5202)](https://jobright.ai/jobs/info/6a129edb9fdbf21f36cb70ed?utm_campaign=1065&utm_source=git)** | BATAVIA, IL 60510 | On Site | May 23 |
-| **[Xpress Boats](https://xpressboats.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a129eb369bd827926af64b5?utm_campaign=1065&utm_source=git)** | Veranda Luxury Pontoons - Malvern, AR 72104 | On Site | May 23 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a129eb269bd827926af64b4?utm_campaign=1065&utm_source=git)** | Xpress Boats & Backtrack Trailers - Hot Springs, AR 71901 | On Site | May 23 |
-| **[Cousin Corporation of America](http://cousin.com)** | **[Social Media Intern - Virtual](https://jobright.ai/jobs/info/6a129c0f83d714428982ea6e?utm_campaign=1065&utm_source=git)** | New York , NY, United States | Remote | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
