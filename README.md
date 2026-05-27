@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BFC Solutions](https://www.bfcsolutions.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1722f65b0a497d52108bc7?utm_campaign=1065&utm_source=git)** | Nashville, TN, US | On Site | May 27 |
+| **[Vent Now](https://www.ventnow.ai/)** | **[Intern - Content Marketing](https://jobright.ai/jobs/info/6a172c61b091c7417c4fb7cd?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
+| **[DreamCollege.ai](https://dreamcollege.ai)** | **[AI Marketing & Content Intern (College & High School)](https://jobright.ai/jobs/info/6a172b155b0a497d52109193?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
+| **[The US Oncology Network](http://www.usoncology.com/)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6a172aba1430333075cce067?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 27 |
+| **[PacePal](https://pace-pal.com)** | **[2026 Summer - Marketing Intern](https://jobright.ai/jobs/info/6a1729839005d858e94f6a09?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 27 |
+| **[Bloody Knuckle Jobs](https://www.bloodyknucklejobs.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a17282ef45c6530ce9a96ad?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
 | **[Butler Machinery](https://www.butlermachinery.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1721b6b091c7417c4fb19a?utm_campaign=1065&utm_source=git)** | Fargo, ND, US | On Site | May 27 |
 | **[3LC ai](https://www.threelc.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a172091f45c6530ce9a932c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
 | **[Law Offices of Spar & Bernstein, P.C.](https://www.lawsb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a171e5f5b0a497d521089ec?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 27 |
@@ -112,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a16f410f45c6530ce9a7585?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 27 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a16f400b091c7417c4f934d?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 27 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a16f3f05b0a497d52106c95?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 27 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a16f3f85b0a497d52106c9a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 27 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a16f3f6f45c6530ce9a757e?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 27 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a16f3f85b0a497d52106c9a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 27 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a16f3ed1430333075ccbaa1?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 27 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fa531fb1fc847fc1aefa76?utm_campaign=1065&utm_source=git)** | Winter Park, FL | On Site | May 27 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a16d57c9005d858e94f3a27?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 27 |
@@ -140,11 +144,11 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Influencer Intern  ](https://jobright.ai/jobs/info/6a169015554b0e12c058d202?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 26 |
 | **[Koble](https://www.koblesystems.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a168fc3202ae849ed8d429e?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | May 26 |
 | **[Flowcode](https://www.flowcode.com/)** | **[Social Media Summer Intern](https://jobright.ai/jobs/info/6a168c50202ae849ed8d3ec1?utm_campaign=1065&utm_source=git)** | New York | On Site | May 26 |
-| **[Protopia](https://protopia.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c10?utm_campaign=1065&utm_source=git)** | Chapel Hill | Hybrid | May 26 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c0e?utm_campaign=1065&utm_source=git)** | Raleigh | Hybrid | May 26 |
+| **[Protopia](https://protopia.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c0e?utm_campaign=1065&utm_source=git)** | Raleigh | Hybrid | May 26 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c10?utm_campaign=1065&utm_source=git)** | Chapel Hill | Hybrid | May 26 |
 | **[Clickspring Design](https://www.clickspringdesign.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671c5202ae849ed8d3546?utm_campaign=1065&utm_source=git)** | Sacramento area, CA, United States | On Site | May 26 |
-| **[GiftRocket](http://www.giftrocket.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671b7202ae849ed8d3520?utm_campaign=1065&utm_source=git)** | Berkeley, CA, USA | On Site | May 26 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671b7202ae849ed8d351f?utm_campaign=1065&utm_source=git)** | San Francisco, CA, USA | On Site | May 26 |
+| **[GiftRocket](http://www.giftrocket.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671b7202ae849ed8d351f?utm_campaign=1065&utm_source=git)** | San Francisco, CA, USA | On Site | May 26 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671b7202ae849ed8d3520?utm_campaign=1065&utm_source=git)** | Berkeley, CA, USA | On Site | May 26 |
 | **[CODAworx](https://www.codaworx.com/)** | **[International PR Internship](https://jobright.ai/jobs/info/6a1671b4202ae849ed8d3511?utm_campaign=1065&utm_source=git)** | Madison, WI, United States | On Site | May 26 |
 | **[A24](http://a24films.com/)** | **[International Publicity Intern](https://jobright.ai/jobs/info/6a166f13554b0e12c058bff3?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 26 |
 | **[Chatham County](https://chathamnc.org)** | **[Communications Intern Closes 3/15/2023](https://jobright.ai/jobs/info/6a165b46dc845f4be5bdeda7?utm_campaign=1065&utm_source=git)** | Lenoir, NC | On Site | May 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1655c01935fa61b3c70e89?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 26 |
 | **[Cutsforth](https://www.cutsforth.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a164e490073182bd92b1f6d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | ↳ | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a164e37554b0e12c058b087?utm_campaign=1065&utm_source=git)** | Ferndale, WA | Remote | May 26 |
-| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Miami Swim Week Kickoff Event Intern (Celebrity & Macro Influencer Experiential Gifting Event)](https://jobright.ai/jobs/info/6a164d3ca429fd279da975a7?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | On Site | May 26 |
-| **[PACCAR](http://www.paccar.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6a164b53554b0e12c058af93?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | May 26 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6a164981554b0e12c058af2f?utm_campaign=1065&utm_source=git)** | Renton, WA, US, 98057 | On Site | May 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a164025128680351d96950c?utm_campaign=1065&utm_source=git)** | Seattle | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
