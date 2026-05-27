@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yamaha Corporation](https://www.yamaha.com)** | **[Winds & Strings Marketing Intern](https://jobright.ai/jobs/info/69fb512938179b6f1ae777b5?utm_campaign=1065&utm_source=git)** | Buena Park, CA | Hybrid | May 27 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1703979005d858e94f508f?utm_campaign=1065&utm_source=git)** | St Louis, MO | Remote | May 27 |
+| **[Yamaha Corporation](https://www.yamaha.com)** | **[Drums and Percussion Marketing Intern](https://jobright.ai/jobs/info/69df24e718cf504166e32877?utm_campaign=1065&utm_source=git)** | Buena Park, CA | Hybrid | May 27 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Client Relation Center Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69dec24aaba61f14173179a0?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | May 27 |
+| **[Future Tech Leaders](https://futuretechleader.com)** | **[Social Media Marketing Internship Summer 2026](https://jobright.ai/jobs/info/6a1701fed6a04f21602e212b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | May 27 |
+| **[407 ETR](https://407etr.com)** | **[Communications and Public Affairs Intern](https://jobright.ai/jobs/info/6a1700ae1430333075ccc479?utm_campaign=1065&utm_source=git)** | Woodbridge, Ontario, CA | On Site | May 27 |
+| **[Digi Security Systems](https://www.digiss.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/6a17007c1430333075ccc452?utm_campaign=1065&utm_source=git)** | Dallas, Texas, United States | Hybrid | May 27 |
+| ↳ | **[Summer Marketing Intern](https://jobright.ai/jobs/info/6a16ff6b1430333075ccc387?utm_campaign=1065&utm_source=git)** | Dallas, Texas | Hybrid | May 27 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[CC Intern](https://jobright.ai/jobs/info/69c1c4fe75f7ff1cd8101c49?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | May 27 |
 | **[Durham School Services](http://www.durhamschoolservices.com/Pages/default.aspx)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1625e3554b0e12c0589c3a?utm_campaign=1065&utm_source=git)** | Warrenville, IL | On Site | May 27 |
 | **[Crystal Clear Communications Hawaii](http://www.crystalclearhawaii.com)** | **[Public Relations Internship](https://jobright.ai/jobs/info/6a16fd91b091c7417c4f99ac?utm_campaign=1065&utm_source=git)** | Honolulu, HI | Hybrid | May 27 |
@@ -85,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a16f400b091c7417c4f934d?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 27 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a16f3f05b0a497d52106c95?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 27 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a16f3f6f45c6530ce9a757e?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 27 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a16f3f85b0a497d52106c9a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 27 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a16f3ed1430333075ccbaa1?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 27 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a16f3f85b0a497d52106c9a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fa531fb1fc847fc1aefa76?utm_campaign=1065&utm_source=git)** | Winter Park, FL | On Site | May 27 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a16d57c9005d858e94f3a27?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 27 |
 | **[High Spirits Hospitality](http://www.highspiritshospitality.com/)** | **[High Spirits Hospitality Intern - Fall 2026](https://jobright.ai/jobs/info/6a16d1801430333075ccae53?utm_campaign=1065&utm_source=git)** | Greenville, 701 Easley Bridge Road, US | On Site | May 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a162bec554b0e12c0589ed1?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | May 26 |
 | **[Centric Brands](https://centricbrands.com)** | **[CRM Intern - Favorite Daughter](https://jobright.ai/jobs/info/6a1629d20073182bd92b0c8c?utm_campaign=1065&utm_source=git)** | US-CA-Los Angeles | On Site | May 26 |
 | ↳ | **[CRM Intern - Favorite Daughter](https://jobright.ai/jobs/info/6a1629cd0073182bd92b0c8a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | May 26 |
-| ↳ | **[Digital Marketing Intern - Favorite Daughter](https://jobright.ai/jobs/info/6a1629ccdc845f4be5bdd153?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | May 26 |
-| ↳ | **[Digital Marketing Intern - Favorite Daughter](https://jobright.ai/jobs/info/6a1629cadc845f4be5bdd152?utm_campaign=1065&utm_source=git)** | US-CA-Los Angeles | On Site | May 26 |
-| **[MethodSense, Inc.](https://methodsense.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a16788e1b2f6918b0e324bc?utm_campaign=1065&utm_source=git)** | Morrisville, NC | On Site | May 26 |
-| **[Utopia Experience](https://www.utopiaexperience.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a160a150073182bd92af8b3?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | May 26 |
-| **[Arya Health](https://www.aryahealth.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a161ccb128680351d967fdd?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 26 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a161a65dc845f4be5bdc536?utm_campaign=1065&utm_source=git)** | New York | On Site | May 26 |
-| **[General Assembly](https://generalassemb.ly/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a161a600073182bd92b006f?utm_campaign=1065&utm_source=git)** | United States | On Site | May 26 |
-| **[Mission North](http://www.missionnorth.com/)** | **[PR Intern](https://jobright.ai/jobs/info/6a161a150073182bd92affce?utm_campaign=1065&utm_source=git)** | New York City | Hybrid | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
