@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Protopia](https://protopia.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c10?utm_campaign=1065&utm_source=git)** | Chapel Hill | Hybrid | May 26 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c0e?utm_campaign=1065&utm_source=git)** | Raleigh | Hybrid | May 26 |
+| **[Clickspring Design](https://www.clickspringdesign.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671c5202ae849ed8d3546?utm_campaign=1065&utm_source=git)** | Sacramento area, CA, United States | On Site | May 26 |
+| **[GiftRocket](http://www.giftrocket.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671b7202ae849ed8d3520?utm_campaign=1065&utm_source=git)** | Berkeley, CA, USA | On Site | May 26 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671b7202ae849ed8d351f?utm_campaign=1065&utm_source=git)** | San Francisco, CA, USA | On Site | May 26 |
+| **[CODAworx](https://www.codaworx.com/)** | **[International PR Internship](https://jobright.ai/jobs/info/6a1671b4202ae849ed8d3511?utm_campaign=1065&utm_source=git)** | Madison, WI, United States | On Site | May 26 |
+| **[A24](http://a24films.com/)** | **[International Publicity Intern](https://jobright.ai/jobs/info/6a166f13554b0e12c058bff3?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 26 |
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Social media Management intern](https://jobright.ai/jobs/info/6a165e8a128680351d96a4f3?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 26 |
 | **[Chatham County](https://chathamnc.org)** | **[Communications Intern Closes 3/15/2023](https://jobright.ai/jobs/info/6a165b46dc845f4be5bdeda7?utm_campaign=1065&utm_source=git)** | Lenoir, NC | On Site | May 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Customer Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1655c11935fa61b3c70e8b?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 26 |
@@ -64,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Cutsforth](https://www.cutsforth.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a164e490073182bd92b1f6d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | ↳ | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a164e37554b0e12c058b087?utm_campaign=1065&utm_source=git)** | Ferndale, WA | Remote | May 26 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Miami Swim Week Kickoff Event Intern (Celebrity & Macro Influencer Experiential Gifting Event)](https://jobright.ai/jobs/info/6a164d3ca429fd279da975a7?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | On Site | May 26 |
+| **[Ellie Mental Health-Capital Region NY](www.elliementalhealth.com)** | **[Social Media Content Manager Intern](https://jobright.ai/jobs/info/6a16683c1b2f6918b0e3195b?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | May 26 |
 | **[PACCAR](http://www.paccar.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6a164b53554b0e12c058af93?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | May 26 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6a164981554b0e12c058af2f?utm_campaign=1065&utm_source=git)** | Renton, WA, US, 98057 | On Site | May 26 |
 | **[Planora](planoraapp.net)** | **[Social Media and Content Creator Intern](https://jobright.ai/jobs/info/6a1648511935fa61b3c705e3?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
@@ -128,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[RevolutionParts](http://www.revolutionparts.com)** | **[Intern, Digital Marketing (Copy)](https://jobright.ai/jobs/info/6a15e1e7128680351d9650ef?utm_campaign=1065&utm_source=git)** | Tempe | Hybrid | May 26 |
 | **[Breast Cancer Can Stick It! Foundation, Inc.](http://www.breastcancercanstickit.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a15e1270073182bd92ad725?utm_campaign=1065&utm_source=git)** | McKinney, TX | Remote | May 26 |
 | **[Icon Train Smarter](http://icontraining.app)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a15fa7b0073182bd92aea5d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
+| **[City of Burlington, Vermont](http://www.burlingtonvt.gov)** | **[Social Media & Communications Internship](https://jobright.ai/jobs/info/6a166a11554b0e12c058bde6?utm_campaign=1065&utm_source=git)** | South Burlington, VT | On Site | May 26 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Community Fundraising](https://jobright.ai/jobs/info/69eb257b0a6e0955530449d7?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Hybrid | May 26 |
 | **[Roylo Partners](https://www.roylopartnersltd.co.uk/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a15d700128680351d964d47?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | May 26 |
 | **[Democratic Attorneys General Association](https://www.dems.ag)** | **[DAGA Fall 2026 Internship Opportunities](https://jobright.ai/jobs/info/6a15d6fe554b0e12c0586675?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | May 26 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fezzora, Inc.](fezzorainc.com)** | **[Entry Level Marketing 2026 Internship](https://jobright.ai/jobs/info/6a0f295f9f654b3359ce30cd?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Swish Breaks](https://www.swishbreaks.com)** | **[Social Media Coordinator (Intern)](https://jobright.ai/jobs/info/6a15c5d9dc845f4be5bd88e2?utm_campaign=1065&utm_source=git)** | New York | On Site | May 26 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Principal & Major Gifts Intern](https://jobright.ai/jobs/info/6a15c56e128680351d963fca?utm_campaign=1065&utm_source=git)** | New York City | On Site | May 26 |
-| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Marketing Intern- OVO SOUND](https://jobright.ai/jobs/info/6a15c4c7dc845f4be5bd87c2?utm_campaign=1065&utm_source=git)** | Canada, Ontario, Toronto | On Site | May 26 |
-| ↳ | **[Marketing Intern- OVO SOUND](https://jobright.ai/jobs/info/6a15c4c1dc845f4be5bd87bd?utm_campaign=1065&utm_source=git)** | Canada | Remote | May 26 |
-| **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Marketing CRM Intern](https://jobright.ai/jobs/info/6a10fff0619335383fb360a9?utm_campaign=1065&utm_source=git)** | Greater Philadelphia | On Site | May 26 |
-| ↳ | **[Drexel Co-op Marketing Communications Intern](https://jobright.ai/jobs/info/6a10f99d12f8b43cf3988824?utm_campaign=1065&utm_source=git)** | Greater Philadelphia | On Site | May 26 |
-| ↳ | **[Drexel Co-op Marketing Intern](https://jobright.ai/jobs/info/6a11001a83d7144289829ce6?utm_campaign=1065&utm_source=git)** | Greater Philadelphia | On Site | May 26 |
-| **[Ayming](https://www.ayming.fr/)** | **[Marketing/Sales Intern (Summer Internship)](https://jobright.ai/jobs/info/6a15be89128680351d963d62?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 26 |
-| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Public Relations & Communications Intern](https://jobright.ai/jobs/info/69dbfc12869c7e25d85a8bb9?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | May 26 |
-| **[CAE](http://www.cae.com)** | **[C-CO-100 Communication Intern (Summer Internship)](https://jobright.ai/jobs/info/6a15bb48554b0e12c05854d4?utm_campaign=1065&utm_source=git)** | Montreal (St. Laurent), CA | Hybrid | May 26 |
-| **[Starbeam](www.starbeam.org)** | **[Marketing and Sales (Growth) Intern](https://jobright.ai/jobs/info/6a15d5d5a429fd279da928a9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
