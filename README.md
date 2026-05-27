@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Social media Management intern](https://jobright.ai/jobs/info/6a165e8a128680351d96a4f3?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 26 |
+| **[Chatham County](https://chathamnc.org)** | **[Communications Intern Closes 3/15/2023](https://jobright.ai/jobs/info/6a165b46dc845f4be5bdeda7?utm_campaign=1065&utm_source=git)** | Lenoir, NC | On Site | May 26 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Customer Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1655c11935fa61b3c70e8b?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 26 |
+| ↳ | **[Customer Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1655c01935fa61b3c70e89?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 26 |
 | **[Cutsforth](https://www.cutsforth.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a164e490073182bd92b1f6d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | ↳ | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a164e37554b0e12c058b087?utm_campaign=1065&utm_source=git)** | Ferndale, WA | Remote | May 26 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Miami Swim Week Kickoff Event Intern (Celebrity & Macro Influencer Experiential Gifting Event)](https://jobright.ai/jobs/info/6a164d3ca429fd279da975a7?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | On Site | May 26 |
 | **[PACCAR](http://www.paccar.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6a164b53554b0e12c058af93?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | May 26 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6a164981554b0e12c058af2f?utm_campaign=1065&utm_source=git)** | Renton, WA, US, 98057 | On Site | May 26 |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a16491d128680351d969829?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 26 |
 | **[Planora](planoraapp.net)** | **[Social Media and Content Creator Intern](https://jobright.ai/jobs/info/6a1648511935fa61b3c705e3?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
-| **[Vent Now](https://www.ventnow.ai/)** | **[Marketing - Internship](https://jobright.ai/jobs/info/6a16451ddc845f4be5bde0d5?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a164025128680351d96950c?utm_campaign=1065&utm_source=git)** | Seattle | On Site | May 26 |
 | **[Draper](https://www.draper.com)** | **[Market Intelligence Intern](https://jobright.ai/jobs/info/6a163f84128680351d9694ba?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | May 26 |
 | ↳ | **[Market Intelligence Intern](https://jobright.ai/jobs/info/6a163f7fa429fd279da97162?utm_campaign=1065&utm_source=git)** | Greater Boston | Hybrid | May 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Public Relations & Communications Intern](https://jobright.ai/jobs/info/69dbfc12869c7e25d85a8bb9?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | May 26 |
 | **[CAE](http://www.cae.com)** | **[C-CO-100 Communication Intern (Summer Internship)](https://jobright.ai/jobs/info/6a15bb48554b0e12c05854d4?utm_campaign=1065&utm_source=git)** | Montreal (St. Laurent), CA | Hybrid | May 26 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing and Sales (Growth) Intern](https://jobright.ai/jobs/info/6a15d5d5a429fd279da928a9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 26 |
-| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Summer 2026 - Influencer Marketing & Partnerships Intern](https://jobright.ai/jobs/info/69dbfca2f748bc5d08a59407?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | May 26 |
-| **[Golden](glowgolden.co)** | **[Social Media & Influencer Marketing Summer Intern](https://jobright.ai/jobs/info/6a15b5300073182bd92abf51?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
