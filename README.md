@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Summer 2026](https://jobright.ai/jobs/info/6a16a8031935fa61b3c72d6b?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | May 27 |
-| **[IdeaTek](http://ideatek.com)** | **[Content Marketing Summer 2026 Intern](https://jobright.ai/jobs/info/6a16a6a7554b0e12c058d533?utm_campaign=1065&utm_source=git)** | Wichita, KS | Hybrid | May 27 |
 | **[Gift of Life Marrow Registry](https://www.giftoflife.org/)** | **[Campus Ambassador Internship Program](https://jobright.ai/jobs/info/6a0749b88f3e371eb61755e5?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | May 27 |
 | **[Vheda Health](http://www.vheda.com)** | **[Intern, Digital Marketing (Summer 2026)](https://jobright.ai/jobs/info/6a169e24202ae849ed8d441a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Marketing Intern / Part-Time / Addition Financial Arena (Formerly CFE Arena)](https://jobright.ai/jobs/info/6a169656128680351d96bf6d?utm_campaign=1065&utm_source=git)** | US-FL-Orlando | On Site | May 26 |
@@ -67,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Koble](https://www.koblesystems.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a168fc3202ae849ed8d429e?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | May 26 |
 | **[Flowcode](https://www.flowcode.com/)** | **[Social Media Summer Intern](https://jobright.ai/jobs/info/6a168c50202ae849ed8d3ec1?utm_campaign=1065&utm_source=git)** | New York | On Site | May 26 |
 | **[Park My Ride, LLC](http://parkmyride.io)** | **[SEO (Wordpress Specialist) - Internship (USA ONLY)](https://jobright.ai/jobs/info/6a1687211935fa61b3c72192?utm_campaign=1065&utm_source=git)** | SD Metro Area | Remote | May 26 |
-| **[Protopia](https://protopia.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c0e?utm_campaign=1065&utm_source=git)** | Raleigh | Hybrid | May 26 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c10?utm_campaign=1065&utm_source=git)** | Chapel Hill | Hybrid | May 26 |
+| **[Protopia](https://protopia.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c10?utm_campaign=1065&utm_source=git)** | Chapel Hill | Hybrid | May 26 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c0e?utm_campaign=1065&utm_source=git)** | Raleigh | Hybrid | May 26 |
 | **[Clickspring Design](https://www.clickspringdesign.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671c5202ae849ed8d3546?utm_campaign=1065&utm_source=git)** | Sacramento area, CA, United States | On Site | May 26 |
 | **[GiftRocket](http://www.giftrocket.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671b7202ae849ed8d3520?utm_campaign=1065&utm_source=git)** | Berkeley, CA, USA | On Site | May 26 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671b7202ae849ed8d351f?utm_campaign=1065&utm_source=git)** | San Francisco, CA, USA | On Site | May 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Heiler Painting](http://heilerpainting.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a15cd11554b0e12c058617b?utm_campaign=1065&utm_source=git)** | Media, PA | On Site | May 26 |
 | ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a15cd0e554b0e12c058617a?utm_campaign=1065&utm_source=git)** | USA | On Site | May 26 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[CTE Summer Communications Student Intern](https://jobright.ai/jobs/info/6a15cc770073182bd92acf40?utm_campaign=1065&utm_source=git)** | Service Center - Marysville, Washington | On Site | May 26 |
+| **[Vheda Health](http://www.vheda.com)** | **[Intern, Digital Marketing (Summer 2026)](https://jobright.ai/jobs/info/6a15cb53a429fd279da923b7?utm_campaign=1065&utm_source=git)** | Remote (United States) | Remote | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
