@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Plumbers Inc.](https://www.deltaplumbersinc.com/)** | **[SEO Intern - Hybrid Unpaid Co-op](https://jobright.ai/jobs/info/6a174a83f45c6530ce9aafe2?utm_campaign=1065&utm_source=git)** | Ontario, Canada | Hybrid | May 27 |
+| **[Next Level Sports & Entertainment](https://www.nlse.com)** | **[Intern - Next Collegiate League Operations](https://jobright.ai/jobs/info/6a174977f45c6530ce9aaf6b?utm_campaign=1065&utm_source=git)** | Hanover, MD | On Site | May 27 |
+| **[BD](https://www.bd.com)** | **[Marketing Intern, US Pharmacy Automation](https://jobright.ai/jobs/info/6a1746e0b091c7417c4fcc82?utm_campaign=1065&utm_source=git)** | USA NC - Durham - Roche Drive, US | On Site | May 27 |
 | **[Vertige - The Vertigo Tracker](https://www.vertige.app)** | **[Digital Marketing & Community Intern](https://jobright.ai/jobs/info/6a174250d6a04f21602e4e1d?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Remote | May 27 |
 | **[The Jackson Laboratory](http://www.jax.org)** | **[Student Intern - Marketing](https://jobright.ai/jobs/info/6a1740d75b0a497d5210a443?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | May 27 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Multimedia Specialist Intern (Hybrid)](https://jobright.ai/jobs/info/6a173fc9b091c7417c4fc8c5?utm_campaign=1065&utm_source=git)** | Clearwater, FL | Hybrid | May 27 |
 | **[Texas Oncology](http://www.texasoncology.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6a173fc6b091c7417c4fc8c0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 27 |
 | **[Narrative Strategies](https://narrativestrategies.com)** | **[Fall 2026 Strategic Communications Internship](https://jobright.ai/jobs/info/6a173f7b9005d858e94f7d29?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | May 27 |
-| **[Vent Now](https://www.ventnow.ai/)** | **[Marketing Intern - Content](https://jobright.ai/jobs/info/6a173f1d5b0a497d5210a33e?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
 | **[Acne Studios](http://www.acnestudios.com/)** | **[PR and Marketing Intern](https://jobright.ai/jobs/info/6a173e61d6a04f21602e4ba5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Prometric](https://www.prometric.com)** | **[Client Advocacy Marketing Intern](https://jobright.ai/jobs/info/6a173c39b091c7417c4fc6de?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
 | **[Thales](http://www.thalesgroup.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69fb8b2986d5cd46527d6428?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | May 27 |
@@ -135,12 +137,12 @@ For a complete list, click the following sortable link below:
 | **[Smartly](http://smartly.io)** | **[Growth Marketing Intern - Website, Email, and Marketing Operations](https://jobright.ai/jobs/info/6a16ded21430333075ccb038?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 27 |
 | ↳ | **[Growth Marketing Intern - Website, Email, and Marketing Operations](https://jobright.ai/jobs/info/6a16dec61430333075ccb033?utm_campaign=1065&utm_source=git)** | New York | Hybrid | May 27 |
 | **[High Spirits Hospitality](http://www.highspiritshospitality.com/)** | **[High Spirits Hospitality Intern - Fall 2026](https://jobright.ai/jobs/info/6a16fba75b0a497d52106f4b?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | May 27 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a16f410f45c6530ce9a7585?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 27 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a16f3f05b0a497d52106c95?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 27 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a16f400b091c7417c4f934d?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 27 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a16f3f05b0a497d52106c95?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 27 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a16f3f6f45c6530ce9a757e?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 27 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a16f410f45c6530ce9a7585?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 27 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a16f3ed1430333075ccbaa1?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 27 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a16f3f85b0a497d52106c9a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 27 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a16f3f6f45c6530ce9a757e?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 27 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69fa531fb1fc847fc1aefa76?utm_campaign=1065&utm_source=git)** | Winter Park, FL | On Site | May 27 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a16d57c9005d858e94f3a27?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 27 |
 | **[High Spirits Hospitality](http://www.highspiritshospitality.com/)** | **[High Spirits Hospitality Intern - Fall 2026](https://jobright.ai/jobs/info/6a16d1801430333075ccae53?utm_campaign=1065&utm_source=git)** | Greenville, 701 Easley Bridge Road, US | On Site | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Chemours Company](https://www.chemours.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69dd4e285356a60f40fed80f?utm_campaign=1065&utm_source=git)** | New Castle County, DE | On Site | May 27 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship - Email Marketing](https://jobright.ai/jobs/info/6a16c0d81935fa61b3c734bb?utm_campaign=1065&utm_source=git)** | Headquarters International, NL | Hybrid | May 27 |
 | **[Gigamon](http://www.gigamon.com)** | **[Marketing Operations Intern - Santa Clara, CA - Hybrid](https://jobright.ai/jobs/info/69fb2cc438179b6f1ae765c3?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | Hybrid | May 27 |
-| **[Spectrum Brands, Inc](http://www.spectrumbrands.com)** | **[Social Media Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a16b6ff202ae849ed8d4db5?utm_campaign=1065&utm_source=git)** | Wisconsin, United States | Hybrid | May 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a16b4841935fa61b3c73337?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
