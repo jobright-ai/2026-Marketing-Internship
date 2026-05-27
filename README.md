@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cutsforth](https://www.cutsforth.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a164e490073182bd92b1f6d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
+| ↳ | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a164e37554b0e12c058b087?utm_campaign=1065&utm_source=git)** | Ferndale, WA | Remote | May 26 |
+| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Miami Swim Week Kickoff Event Intern (Celebrity & Macro Influencer Experiential Gifting Event)](https://jobright.ai/jobs/info/6a164d3ca429fd279da975a7?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | On Site | May 26 |
+| **[PACCAR](http://www.paccar.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6a164b53554b0e12c058af93?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | May 26 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6a164981554b0e12c058af2f?utm_campaign=1065&utm_source=git)** | Renton, WA, US, 98057 | On Site | May 26 |
 | **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a16491d128680351d969829?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 26 |
 | **[Planora](planoraapp.net)** | **[Social Media and Content Creator Intern](https://jobright.ai/jobs/info/6a1648511935fa61b3c705e3?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Starbeam](www.starbeam.org)** | **[Marketing and Sales (Growth) Intern](https://jobright.ai/jobs/info/6a15d5d5a429fd279da928a9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 26 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Summer 2026 - Influencer Marketing & Partnerships Intern](https://jobright.ai/jobs/info/69dbfca2f748bc5d08a59407?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | May 26 |
 | **[Golden](glowgolden.co)** | **[Social Media & Influencer Marketing Summer Intern](https://jobright.ai/jobs/info/6a15b5300073182bd92abf51?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | May 26 |
-| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6a15b43a1935fa61b3c6a4b4?utm_campaign=1065&utm_source=git)** | Plantation, Florida, United States | Hybrid | May 26 |
-| **[With Honor](https://withhonor.org/)** | **[Digital Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/6a15ec6c128680351d965d59?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | May 26 |
-| **[Crystal Clear Communications Hawaii](http://www.crystalclearhawaii.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a15af8e554b0e12c0584f60?utm_campaign=1065&utm_source=git)** | Honolulu, HI | Hybrid | May 26 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Social Media & Communications Internship](https://jobright.ai/jobs/info/6a15ae9fa429fd279da9118c?utm_campaign=1065&utm_source=git)** | BTV - 1200 Airport Drive, South Burlington, VT | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
