@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vent Now](https://www.ventnow.ai/)** | **[Intern-Marketing](https://jobright.ai/jobs/info/6a1677021b2f6918b0e32446?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | May 26 |
 | **[Protopia](https://protopia.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c10?utm_campaign=1065&utm_source=git)** | Chapel Hill | Hybrid | May 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c0e?utm_campaign=1065&utm_source=git)** | Raleigh | Hybrid | May 26 |
 | **[Clickspring Design](https://www.clickspringdesign.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671c5202ae849ed8d3546?utm_campaign=1065&utm_source=git)** | Sacramento area, CA, United States | On Site | May 26 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Ellie Mental Health-Capital Region NY](www.elliementalhealth.com)** | **[Social Media Content Manager Intern](https://jobright.ai/jobs/info/6a16683c1b2f6918b0e3195b?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | May 26 |
 | **[PACCAR](http://www.paccar.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6a164b53554b0e12c058af93?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | May 26 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6a164981554b0e12c058af2f?utm_campaign=1065&utm_source=git)** | Renton, WA, US, 98057 | On Site | May 26 |
-| **[Planora](planoraapp.net)** | **[Social Media and Content Creator Intern](https://jobright.ai/jobs/info/6a1648511935fa61b3c705e3?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a164025128680351d96950c?utm_campaign=1065&utm_source=git)** | Seattle | On Site | May 26 |
 | **[Draper](https://www.draper.com)** | **[Market Intelligence Intern](https://jobright.ai/jobs/info/6a163f84128680351d9694ba?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | May 26 |
 | ↳ | **[Market Intelligence Intern](https://jobright.ai/jobs/info/6a163f7fa429fd279da97162?utm_campaign=1065&utm_source=git)** | Greater Boston | Hybrid | May 26 |
@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Marketing Intern - Favorite Daughter](https://jobright.ai/jobs/info/6a1629ccdc845f4be5bdd153?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | May 26 |
 | ↳ | **[Digital Marketing Intern - Favorite Daughter](https://jobright.ai/jobs/info/6a1629cadc845f4be5bdd152?utm_campaign=1065&utm_source=git)** | US-CA-Los Angeles | On Site | May 26 |
 | **[Respect My Region](https://www.respectmyregion.com)** | **[Social Media Manager Internship](https://jobright.ai/jobs/info/6a1628b0128680351d9686ed?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 26 |
+| **[MethodSense, Inc.](https://methodsense.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a16788e1b2f6918b0e324bc?utm_campaign=1065&utm_source=git)** | Morrisville, NC | On Site | May 26 |
 | **[Utopia Experience](https://www.utopiaexperience.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a160a150073182bd92af8b3?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | May 26 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Summer Internship - Public Relations](https://jobright.ai/jobs/info/6a161e47554b0e12c0589900?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | May 26 |
 | **[Arya Health](https://www.aryahealth.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a161ccb128680351d967fdd?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a161a65dc845f4be5bdc536?utm_campaign=1065&utm_source=git)** | New York | On Site | May 26 |
 | **[General Assembly](https://generalassemb.ly/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a161a600073182bd92b006f?utm_campaign=1065&utm_source=git)** | United States | On Site | May 26 |
