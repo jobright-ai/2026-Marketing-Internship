@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Summer 2026](https://jobright.ai/jobs/info/6a16a8031935fa61b3c72d6b?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | May 27 |
+| **[IdeaTek](http://ideatek.com)** | **[Content Marketing Summer 2026 Intern](https://jobright.ai/jobs/info/6a16a6a7554b0e12c058d533?utm_campaign=1065&utm_source=git)** | Wichita, KS | Hybrid | May 27 |
+| **[Gift of Life Marrow Registry](https://www.giftoflife.org/)** | **[Campus Ambassador Internship Program](https://jobright.ai/jobs/info/6a0749b88f3e371eb61755e5?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | May 27 |
+| **[Vheda Health](http://www.vheda.com)** | **[Intern, Digital Marketing (Summer 2026)](https://jobright.ai/jobs/info/6a169e24202ae849ed8d441a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Marketing Intern / Part-Time / Addition Financial Arena (Formerly CFE Arena)](https://jobright.ai/jobs/info/6a169656128680351d96bf6d?utm_campaign=1065&utm_source=git)** | US-FL-Orlando | On Site | May 26 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a1691a5a429fd279da9987a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | **[Tombras](http://tombras.com)** | **[Influencer Intern  ](https://jobright.ai/jobs/info/6a169015554b0e12c058d202?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 26 |
@@ -72,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[A24](http://a24films.com/)** | **[International Publicity Intern](https://jobright.ai/jobs/info/6a166f13554b0e12c058bff3?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 26 |
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Social media Management intern](https://jobright.ai/jobs/info/6a165e8a128680351d96a4f3?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 26 |
 | **[Chatham County](https://chathamnc.org)** | **[Communications Intern Closes 3/15/2023](https://jobright.ai/jobs/info/6a165b46dc845f4be5bdeda7?utm_campaign=1065&utm_source=git)** | Lenoir, NC | On Site | May 26 |
+| **[Volo Sports](https://www.volosports.com)** | **[Sports Management Marketing Internship - Fall 2026](https://jobright.ai/jobs/info/6a169c9a554b0e12c058d3d6?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | May 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Customer Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1655c11935fa61b3c70e8b?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 26 |
 | ↳ | **[Customer Advocacy Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1655c01935fa61b3c70e89?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 26 |
 | **[Cutsforth](https://www.cutsforth.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a164e490073182bd92b1f6d?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
@@ -104,7 +109,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Intern - Favorite Daughter](https://jobright.ai/jobs/info/6a1629cd0073182bd92b0c8a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | May 26 |
 | ↳ | **[Digital Marketing Intern - Favorite Daughter](https://jobright.ai/jobs/info/6a1629ccdc845f4be5bdd153?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | May 26 |
 | ↳ | **[Digital Marketing Intern - Favorite Daughter](https://jobright.ai/jobs/info/6a1629cadc845f4be5bdd152?utm_campaign=1065&utm_source=git)** | US-CA-Los Angeles | On Site | May 26 |
-| **[Respect My Region](https://www.respectmyregion.com)** | **[Social Media Manager Internship](https://jobright.ai/jobs/info/6a1628b0128680351d9686ed?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | May 26 |
 | **[MethodSense, Inc.](https://methodsense.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a16788e1b2f6918b0e324bc?utm_campaign=1065&utm_source=git)** | Morrisville, NC | On Site | May 26 |
 | **[Utopia Experience](https://www.utopiaexperience.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a160a150073182bd92af8b3?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | May 26 |
 | **[Arya Health](https://www.aryahealth.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a161ccb128680351d967fdd?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | May 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Heiler Painting](http://heilerpainting.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a15cd11554b0e12c058617b?utm_campaign=1065&utm_source=git)** | Media, PA | On Site | May 26 |
 | ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a15cd0e554b0e12c058617a?utm_campaign=1065&utm_source=git)** | USA | On Site | May 26 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[CTE Summer Communications Student Intern](https://jobright.ai/jobs/info/6a15cc770073182bd92acf40?utm_campaign=1065&utm_source=git)** | Service Center - Marysville, Washington | On Site | May 26 |
-| **[Vheda Health](http://www.vheda.com)** | **[Intern, Digital Marketing (Summer 2026)](https://jobright.ai/jobs/info/6a15cb53a429fd279da923b7?utm_campaign=1065&utm_source=git)** | Remote (United States) | Remote | May 26 |
-| **[SCRAM Systems](https://www.scramsystems.com)** | **[Content Writing Intern](https://jobright.ai/jobs/info/6a15cb34dc845f4be5bd9057?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
-| **[CAE](http://www.cae.com)** | **[C-CO-100 Communication Intern (Summer Internship)-EN](https://jobright.ai/jobs/info/6a15f52d128680351d9662aa?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 26 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a15e6be128680351d965a70?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
