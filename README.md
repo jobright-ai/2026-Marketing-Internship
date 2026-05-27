@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Marketing Intern / Part-Time / Addition Financial Arena (Formerly CFE Arena)](https://jobright.ai/jobs/info/6a169656128680351d96bf6d?utm_campaign=1065&utm_source=git)** | US-FL-Orlando | On Site | May 26 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a1691a5a429fd279da9987a?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
+| **[Tombras](http://tombras.com)** | **[Influencer Intern  ](https://jobright.ai/jobs/info/6a169015554b0e12c058d202?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 26 |
+| **[Koble](https://www.koblesystems.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a168fc3202ae849ed8d429e?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | May 26 |
+| **[Flowcode](https://www.flowcode.com/)** | **[Social Media Summer Intern](https://jobright.ai/jobs/info/6a168c50202ae849ed8d3ec1?utm_campaign=1065&utm_source=git)** | New York | On Site | May 26 |
 | **[Park My Ride, LLC](http://parkmyride.io)** | **[SEO (Wordpress Specialist) - Internship (USA ONLY)](https://jobright.ai/jobs/info/6a1687211935fa61b3c72192?utm_campaign=1065&utm_source=git)** | SD Metro Area | Remote | May 26 |
-| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a168374202ae849ed8d3ae5?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | May 26 |
-| **[Vent Now](https://www.ventnow.ai/)** | **[Intern-Marketing](https://jobright.ai/jobs/info/6a1677021b2f6918b0e32446?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | May 26 |
 | **[Protopia](https://protopia.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c0e?utm_campaign=1065&utm_source=git)** | Raleigh | Hybrid | May 26 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a1671ea1935fa61b3c71c10?utm_campaign=1065&utm_source=git)** | Chapel Hill | Hybrid | May 26 |
 | **[Clickspring Design](https://www.clickspringdesign.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671c5202ae849ed8d3546?utm_campaign=1065&utm_source=git)** | Sacramento area, CA, United States | On Site | May 26 |
-| **[GiftRocket](http://www.giftrocket.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671b7202ae849ed8d351f?utm_campaign=1065&utm_source=git)** | San Francisco, CA, USA | On Site | May 26 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671b7202ae849ed8d3520?utm_campaign=1065&utm_source=git)** | Berkeley, CA, USA | On Site | May 26 |
+| **[GiftRocket](http://www.giftrocket.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671b7202ae849ed8d3520?utm_campaign=1065&utm_source=git)** | Berkeley, CA, USA | On Site | May 26 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a1671b7202ae849ed8d351f?utm_campaign=1065&utm_source=git)** | San Francisco, CA, USA | On Site | May 26 |
 | **[CODAworx](https://www.codaworx.com/)** | **[International PR Internship](https://jobright.ai/jobs/info/6a1671b4202ae849ed8d3511?utm_campaign=1065&utm_source=git)** | Madison, WI, United States | On Site | May 26 |
 | **[A24](http://a24films.com/)** | **[International Publicity Intern](https://jobright.ai/jobs/info/6a166f13554b0e12c058bff3?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 26 |
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Social media Management intern](https://jobright.ai/jobs/info/6a165e8a128680351d96a4f3?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SCRAM Systems](https://www.scramsystems.com)** | **[Content Writing Intern](https://jobright.ai/jobs/info/6a15cb34dc845f4be5bd9057?utm_campaign=1065&utm_source=git)** | United States | Remote | May 26 |
 | **[CAE](http://www.cae.com)** | **[C-CO-100 Communication Intern (Summer Internship)-EN](https://jobright.ai/jobs/info/6a15f52d128680351d9662aa?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 26 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a15e6be128680351d965a70?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | May 26 |
-| **[Louisiana Blue](https://www.bcbsla.com/)** | **[CW Corporate Strategy Intern](https://jobright.ai/jobs/info/6a15ca50554b0e12c0586043?utm_campaign=1065&utm_source=git)** | Corporate - Baton Rouge, LA, US | On Site | May 26 |
-| **[Fezzora, Inc.](fezzorainc.com)** | **[Entry Level Marketing 2026 Internship](https://jobright.ai/jobs/info/6a0f295f9f654b3359ce30cd?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 26 |
-| **[Swish Breaks](https://www.swishbreaks.com)** | **[Social Media Coordinator (Intern)](https://jobright.ai/jobs/info/6a15c5d9dc845f4be5bd88e2?utm_campaign=1065&utm_source=git)** | New York | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
