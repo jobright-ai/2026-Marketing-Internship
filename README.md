@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Planora](planoraapp.net)** | **[Social Media and Growth Intern](https://jobright.ai/jobs/info/6a17a1189005d858e94fb806?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
+| **[nothing else](thenothingelse.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a17ad3881fe455c705aaefa?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 27 |
+| **[Iradaa Creative](https://iradaacreative.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a17abe4b091c7417c500a02?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
+| **[Noé Lux](www.noelux.com)** | **[Creative Marketing Agency Intern](https://jobright.ai/jobs/info/6a17a83f81fe455c705aab5b?utm_campaign=1065&utm_source=git)** | Babylon, NY | On Site | May 27 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Digital Content, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17a7eff45c6530ce9ae81b?utm_campaign=1065&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
+| **[Fremont Bank](http://www.fremontbank.com)** | **[Intern - Client Relations](https://jobright.ai/jobs/info/6a17a7319005d858e94fbbc7?utm_campaign=1065&utm_source=git)** | Livermore, CA | On Site | May 27 |
+| **[Geotab](http://www.geotab.com/)** | **[Product Marketing Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a17a53c5b0a497d5210e167?utm_campaign=1065&utm_source=git)** | Oakville | Hybrid | May 27 |
+| ↳ | **[Product Marketing Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a17a53c5b0a497d5210e168?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 27 |
 | **[Jelly IV](jellyiv.com)** | **[Vegas Strip Grassroots Marketing/Sales Intern](https://jobright.ai/jobs/info/6a179c0cb091c7417c500187?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | May 27 |
 | **[Specialty Herd Solutions](https://hoofstrong.com/)** | **[Summer Intern – Brand Demand & Customer Engagement](https://jobright.ai/jobs/info/6a1792ab81fe455c705aa35c?utm_campaign=1065&utm_source=git)** | Fresno,CA,US | On Site | May 27 |
 | **[Olli Salumeria](https://www.olli.com)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6a17900481fe455c705aa29b?utm_campaign=1065&utm_source=git)** | Oceanside, CA | On Site | May 27 |
@@ -68,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a1789bc5b0a497d5210d577?utm_campaign=1065&utm_source=git)** | New York City, NY | Hybrid | May 27 |
 | ↳ | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a1789bc5b0a497d5210d576?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States | Hybrid | May 27 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/6a178995b091c7417c4ff8c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | May 27 |
+| **[AviatorPro](AviatorPro.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a17a4b01430333075cd2d33?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | May 27 |
 | **[Rise8](https://rise8.us/)** | **[SkillBridge Intern - Marketing](https://jobright.ai/jobs/info/6a17878cb091c7417c4ff464?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Adminstrative (Marketing Data, AI & Digital Experience)](https://jobright.ai/jobs/info/6a1786a35b0a497d5210d076?utm_campaign=1065&utm_source=git)** | Chandler, AZ | On Site | May 27 |
 | **[SupermaxCloud](https://www.supermaxcloud.com)** | **[Marketing Associate Intern](https://jobright.ai/jobs/info/6a1784d75b0a497d5210cff9?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Remote | May 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[J. Wade Public Relations](https://jwadepr.com)** | **[Social Media Internship at Coveted Boutique Lifestyle Firm (paid, full-time, SF-based)](https://jobright.ai/jobs/info/6a171d451430333075ccd760?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | May 27 |
 | **[SANDOW](http://www.sandow.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a171c4d9005d858e94f6163?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
 | **[BeGenius Records](www.BeGeniusRecords.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a171894b091c7417c4fa8be?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 27 |
-| **[Curology](https://curology.com)** | **[Social & Influencer Marketing Intern](https://jobright.ai/jobs/info/6a17185b5b0a497d521081e8?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
-| **[The New York Times](https://www.nytco.com/)** | **[Marketing Team, Wirecutter Intern](https://jobright.ai/jobs/info/6a1716055b0a497d52107e54?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 27 |
-| **[Butler Ag Equipment](https://butlerag.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a1712b9f45c6530ce9a8585?utm_campaign=1065&utm_source=git)** | Fargo, ND, US | On Site | May 27 |
-| **[Exclusive Resorts](http://www.exclusiveresorts.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1710abd6a04f21602e262e?utm_campaign=1065&utm_source=git)** | Denver Corporate Office - Hybrid, Denver, CO, US | Hybrid | May 27 |
-| **[Law Offices of Spar & Bernstein, P.C.](https://www.lawsb.com)** | **[Marketing-Intern](https://jobright.ai/jobs/info/6a170f495b0a497d52107c1d?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | May 27 |
-| **[Services for the UnderServed](https://www.sus.org)** | **[Social Media Assistant Intern](https://jobright.ai/jobs/info/69fb347686d5cd46527d3f5e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 27 |
-| **[Motom, Inc.](https://www.motom.me)** | **[Influencer & Affiliate Marketing Intern (Paid, NYC-based)](https://jobright.ai/jobs/info/6a170b889005d858e94f53e6?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
