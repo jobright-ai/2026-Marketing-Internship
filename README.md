@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Technical Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69fb9d49d21cf86d1e3d4444?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | May 28 |
+| **[GoMarble AI](https://www.gomarble.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a1810263c1a380237ac0d76?utm_campaign=1065&utm_source=git)** | United States | Remote | May 28 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a18011981f8da15dc7d5076?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | May 28 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6a17ffd154962c1bb4b065ba?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | May 28 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Marketing and Communications Intern – Events](https://jobright.ai/jobs/info/6a17fcce3c1a380237ac07f6?utm_campaign=1065&utm_source=git)** | Bloomington, IL | On Site | May 28 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Public Relations & Partnerships Intern, Summer 2026](https://jobright.ai/jobs/info/6a17f7bc81f8da15dc7d475b?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | May 28 |
 | **[Initio Capital](https://initiostudios.io)** | **[Growth & Deals Analyst](https://jobright.ai/jobs/info/6a17ed4dc8110e28b75b135c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[TABACALERA USA Inc.](https://www.tabacalerausa.com/)** | **[Intern](https://jobright.ai/jobs/info/6a0dfdd5beb4d73cb622dcc2?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | May 27 |
-| **[Flash Forward Foundation](www.flashforwardfoundation.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a17de065b0a497d5210fe7f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
 | **[Man Group](http://www.man.com)** | **[Man Global Markets High-Frequency Quantitative Research Summer 2026 Internship](https://jobright.ai/jobs/info/6a17ddedda08264614c90ef8?utm_campaign=1065&utm_source=git)** | New York | On Site | May 27 |
 | **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a17d7cdda08264614c90aa1?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | May 27 |
 | **[Planned Parenthood of Orange and San Bernardino Counties](http://www.plannedparenthood.org/orange-san-bernardino)** | **[Social Media & Digital Communications Graduate Intern](https://jobright.ai/jobs/info/6a17d28db091c7417c501b59?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | May 27 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Intern - Favorite Daughter](https://jobright.ai/jobs/info/6a17cf4ada08264614c908a9?utm_campaign=1065&utm_source=git)** | US-CA-Los Angeles | On Site | May 27 |
 | ↳ | **[Digital Marketing Intern - Favorite Daughter](https://jobright.ai/jobs/info/6a17cf385b0a497d5210f807?utm_campaign=1065&utm_source=git)** | US-CA-Los Angeles | On Site | May 27 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Arena Marketing & Sales Intern/ Part-Time / NOW Arena](https://jobright.ai/jobs/info/6a17cc515b0a497d5210f6b9?utm_campaign=1065&utm_source=git)** | US-IL-Hoffman Estates | On Site | May 27 |
-| ↳ | **[Social Media Marketing Intern, Social Media & Digital / Full-Time /Remote](https://jobright.ai/jobs/info/6a17cc4d5b0a497d5210f6b6?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
 | ↳ | **[Social Media Marketing Intern, Social Media & Digital / Full-Time /Remote](https://jobright.ai/jobs/info/6a17cc4d5b0a497d5210f6b4?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | May 27 |
+| ↳ | **[Social Media Marketing Intern, Social Media & Digital / Full-Time /Remote](https://jobright.ai/jobs/info/6a17cc4d5b0a497d5210f6b6?utm_campaign=1065&utm_source=git)** | United States | Remote | May 27 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Fall 2026 - Brand Management](https://jobright.ai/jobs/info/6a17cc28da08264614c90747?utm_campaign=1065&utm_source=git)** | Idaho Falls | On Site | May 27 |
 | ↳ | **[Internship Fall 2026 - Brand Management](https://jobright.ai/jobs/info/6a17cc28da08264614c90748?utm_campaign=1065&utm_source=git)** | Idaho Falls, ID, US | On Site | May 27 |
 | **[Highlight](http://highlighttech.com/)** | **[Alumni Advocacy and State Relations Intern](https://jobright.ai/jobs/info/6a17c1f0b091c7417c501423?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | May 27 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[nothing else](thenothingelse.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a17ad3881fe455c705aaefa?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Digital Content, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17a7eff45c6530ce9ae81b?utm_campaign=1065&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | **[Fremont Bank](http://www.fremontbank.com)** | **[Intern - Client Relations](https://jobright.ai/jobs/info/6a17a7319005d858e94fbbc7?utm_campaign=1065&utm_source=git)** | Livermore, CA | On Site | May 27 |
-| **[Geotab](http://www.geotab.com/)** | **[Product Marketing Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a17a53c5b0a497d5210e167?utm_campaign=1065&utm_source=git)** | Oakville | Hybrid | May 27 |
-| ↳ | **[Product Marketing Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a17a53c5b0a497d5210e168?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 27 |
+| **[Geotab](http://www.geotab.com/)** | **[Product Marketing Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a17a53c5b0a497d5210e168?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 27 |
+| ↳ | **[Product Marketing Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a17a53c5b0a497d5210e167?utm_campaign=1065&utm_source=git)** | Oakville | Hybrid | May 27 |
 | **[Jelly IV](jellyiv.com)** | **[Vegas Strip Grassroots Marketing/Sales Intern](https://jobright.ai/jobs/info/6a179c0cb091c7417c500187?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | May 27 |
 | **[Specialty Herd Solutions](https://hoofstrong.com/)** | **[Summer Intern – Brand Demand & Customer Engagement](https://jobright.ai/jobs/info/6a1792ab81fe455c705aa35c?utm_campaign=1065&utm_source=git)** | Fresno,CA,US | On Site | May 27 |
 | **[Olli Salumeria](https://www.olli.com)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6a17900481fe455c705aa29b?utm_campaign=1065&utm_source=git)** | Oceanside, CA | On Site | May 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[407 ETR](https://407etr.com)** | **[Communications and Public Affairs Intern](https://jobright.ai/jobs/info/6a1781305b0a497d5210cf32?utm_campaign=1065&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | May 27 |
 | **[BD](https://www.bd.com)** | **[Marketing Intern, US Pharmacy Automation](https://jobright.ai/jobs/info/6a1746e0b091c7417c4fcc82?utm_campaign=1065&utm_source=git)** | USA NC - Durham - Roche Drive, US | On Site | May 27 |
 | **[The Jackson Laboratory](http://www.jax.org)** | **[Student Intern - Marketing](https://jobright.ai/jobs/info/6a1740d75b0a497d5210a443?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | May 27 |
-| **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Multimedia Specialist Intern (Hybrid)](https://jobright.ai/jobs/info/6a173fc9b091c7417c4fc8c5?utm_campaign=1065&utm_source=git)** | Clearwater, FL | Hybrid | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
