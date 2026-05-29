@@ -65,14 +65,16 @@ For a complete list, click the following sortable link below:
 | **[Awakenings](http://www.awakeningsart.org)** | **[Nonprofit Creative Outreach Intern](https://jobright.ai/jobs/info/6a18f720c2a87d6cd3df6353?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 28 |
 | **[Erbe USA Incorporated](https://www.erbe-med.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a18f3ff6243320e8d169263?utm_campaign=1065&utm_source=git)** | Marietta, GA | On Site | May 28 |
 | **[Scyntic](https://www.scyntic.ai)** | **[High School Marketing Intern](https://jobright.ai/jobs/info/6a18f332abc8f63abac7d69f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 28 |
+| **[Purple Lotus Technologies](https://purplelotusmh.com/)** | **[Growth & Marketing Internship at Purple Lotus](https://jobright.ai/jobs/info/6a1917abdbc80963f9349d2d?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 28 |
 | **[Literacy for Adults in Brevard](http://www.labfl.org)** | **[Part Time Marketing Intern - Literacy for Adults in Brevard](https://jobright.ai/jobs/info/6a18ed5cabc8f63abac7d49e?utm_campaign=1065&utm_source=git)** | Brevard County, FL | Remote | May 28 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18eb44abc8f63abac7d3f8?utm_campaign=1065&utm_source=git)** | Greater Madison Area | On Site | May 28 |
 | **[Versaterm](https://www.versaterm.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a18e78954a441713ae8900b?utm_campaign=1065&utm_source=git)** | Lexington, SC | On Site | May 28 |
 | **[Turnitin](http://www.turnitin.com/)** | **[Social Research Internship - Summer 2026 (Remote, USA)](https://jobright.ai/jobs/info/6a18e77617492d3a389baab3?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 28 |
+| **[Services for the UnderServed](https://www.sus.org)** | **[Social Media Assistant Intern](https://jobright.ai/jobs/info/6a191c4f17492d3a389bc401?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[Pioneer Executives Inc.](https://pioneerexecs.com/)** | **[College Grads & Interns – Entry-Level Marketing (Full-Time / Paid Training / No Experience)](https://jobright.ai/jobs/info/6a18dd4ec2a87d6cd3df5842?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | May 28 |
 | **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc22?utm_campaign=1065&utm_source=git)** | New York City, NY | Hybrid | May 28 |
-| ↳ | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc20?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 28 |
 | ↳ | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc23?utm_campaign=1065&utm_source=git)** | San Francisco, California | Hybrid | May 28 |
+| ↳ | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc20?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 28 |
 | **[SchoolMint](https://www.schoolmint.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a18d96654a441713ae88691?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | May 28 |
 | **[West Paw](https://westpaw.com)** | **[Marketing Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/6a18cf06c2a87d6cd3df4e68?utm_campaign=1065&utm_source=git)** | Bozeman, Montana, United States | Hybrid | May 28 |
 | **[Piedmont](http://www.piedmont.org)** | **[Brand Growth Patient Insights Intern](https://jobright.ai/jobs/info/6a18ca0717492d3a389b9cc9?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | May 28 |
@@ -104,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b41c54a441713ae87541?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b40817492d3a389b8ecf?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b40654a441713ae8753d?utm_campaign=1065&utm_source=git)** | College Park, MD | On Site | May 28 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b4056243320e8d16735a?utm_campaign=1065&utm_source=git)** | Mobile, AL | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b4056243320e8d167359?utm_campaign=1065&utm_source=git)** | Union, NJ | On Site | May 28 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b4056243320e8d16735a?utm_campaign=1065&utm_source=git)** | Mobile, AL | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b402abc8f63abac7b706?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3f817492d3a389b8ec3?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3f8abc8f63abac7b6f9?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | May 28 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3f5abc8f63abac7b6f6?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3f4abc8f63abac7b6f5?utm_campaign=1065&utm_source=git)** | Kent, OH | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3ee54a441713ae8752d?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | May 28 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3eadbc80963f9346b30?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3ea17492d3a389b8ebd?utm_campaign=1065&utm_source=git)** | Charleston County, SC | On Site | May 28 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3eadbc80963f9346b30?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3e517492d3a389b8ebb?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | May 28 |
 | **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a18b1a854a441713ae8748c?utm_campaign=1065&utm_source=git)** | Chippewa Falls, WI | Hybrid | May 28 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a18b1a1abc8f63abac7b63f?utm_campaign=1065&utm_source=git)** | Corporate Office, 1251 1st Avenue, Chippewa Falls, Wisconsin, United States of America | Hybrid | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TABACALERA USA Inc.](https://www.tabacalerausa.com/)** | **[Intern](https://jobright.ai/jobs/info/6a188aa4dbc80963f93452b5?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | May 28 |
 | **[Yancey Bros. Co.](http://www.yanceybros.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a18deca54a441713ae88d89?utm_campaign=1065&utm_source=git)** | Austell, GA | On Site | May 28 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern, Marketing & Customer Engagement](https://jobright.ai/jobs/info/6a18d09317492d3a389b9efb?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | May 28 |
-| **[PwC](http://pwc.com)** | **[Markets Intern](https://jobright.ai/jobs/info/6a18895b54a441713ae85c0f?utm_campaign=1065&utm_source=git)** | Kingston, OK | On Site | May 28 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern – Market Research & Insights](https://jobright.ai/jobs/info/6a188904dbc80963f93451fb?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
