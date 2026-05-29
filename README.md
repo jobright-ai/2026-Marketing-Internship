@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Client Facing Departments - Summer Internship](https://jobright.ai/jobs/info/69aa02cd9ca4e908ec6552fc?utm_campaign=1065&utm_source=git)** | Trenton, NJ | On Site | May 29 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1349dc9fdbf21f36cb8ab6?utm_campaign=1065&utm_source=git)** | San Diego, United States - California | On Site | May 29 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a19703dc2a87d6cd3df90d2?utm_campaign=1065&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | May 29 |
 | ↳ | **[Fundraising & Event Intern](https://jobright.ai/jobs/info/6a197028fee8f3402435417f?utm_campaign=1065&utm_source=git)** | Chicago, IL 60601, USA | Remote | May 29 |
 | ↳ | **[Fundraising Intern](https://jobright.ai/jobs/info/6a197025e24ef36525824fe9?utm_campaign=1065&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | May 29 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Event and Employer Brand Intern](https://jobright.ai/jobs/info/6a192c376243320e8d16aa6a?utm_campaign=1065&utm_source=git)** | VEG Headquarters, White Plains, NY | On Site | May 28 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a0fe5df9f654b3359ce8cd4?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | May 28 |
 | ↳ | **[Marketing Intern (Arlington Transit)](https://jobright.ai/jobs/info/6a1913f7c2a87d6cd3df6ed0?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | May 28 |
-| **[Faraday Future](https://www.ff.com)** | **[Content Commerce Internship](https://jobright.ai/jobs/info/6a18a34754a441713ae86c2b?utm_campaign=1065&utm_source=git)** | El Segundo, CA-HQ | On Site | May 28 |
-| ↳ | **[Content Commerce Internship](https://jobright.ai/jobs/info/6a18a34a54a441713ae86c2e?utm_campaign=1065&utm_source=git)** | El Segundo, California, United States | On Site | May 28 |
+| **[Faraday Future](https://www.ff.com)** | **[Content Commerce Internship](https://jobright.ai/jobs/info/6a18a34a54a441713ae86c2e?utm_campaign=1065&utm_source=git)** | El Segundo, California, United States | On Site | May 28 |
+| ↳ | **[Content Commerce Internship](https://jobright.ai/jobs/info/6a18a34754a441713ae86c2b?utm_campaign=1065&utm_source=git)** | El Segundo, CA-HQ | On Site | May 28 |
 | **[M+C Saatchi Performance](https://www.mcsaatchiperformance.com/?utm_source=agencylist.com&utm_medium=referral&utm_campaign=WebListings)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a1901e7dbc80963f934944a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a18fa5dabc8f63abac7de34?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | May 28 |
 | **[Everbridge](https://www.everbridge.com)** | **[Digital Demand Center (Part-Time, Remote) - Summer Intern](https://jobright.ai/jobs/info/6a18f9e46243320e8d1698fa?utm_campaign=1065&utm_source=git)** | United States | Remote | May 28 |
@@ -89,9 +91,9 @@ For a complete list, click the following sortable link below:
 | **[Turnitin](http://www.turnitin.com/)** | **[Social Research Internship - Summer 2026 (Remote, USA)](https://jobright.ai/jobs/info/6a18e77617492d3a389baab3?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | May 28 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Social Media Assistant Intern](https://jobright.ai/jobs/info/6a191c4f17492d3a389bc401?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[Pioneer Executives Inc.](https://pioneerexecs.com/)** | **[College Grads & Interns – Entry-Level Marketing (Full-Time / Paid Training / No Experience)](https://jobright.ai/jobs/info/6a18dd4ec2a87d6cd3df5842?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | May 28 |
-| **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc23?utm_campaign=1065&utm_source=git)** | San Francisco, California | Hybrid | May 28 |
-| ↳ | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc22?utm_campaign=1065&utm_source=git)** | New York City, NY | Hybrid | May 28 |
+| **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc22?utm_campaign=1065&utm_source=git)** | New York City, NY | Hybrid | May 28 |
 | ↳ | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc20?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 28 |
+| ↳ | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc23?utm_campaign=1065&utm_source=git)** | San Francisco, California | Hybrid | May 28 |
 | **[SchoolMint](https://www.schoolmint.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a18d96654a441713ae88691?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | May 28 |
 | **[West Paw](https://westpaw.com)** | **[Marketing Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/6a18cf06c2a87d6cd3df4e68?utm_campaign=1065&utm_source=git)** | Bozeman, Montana, United States | Hybrid | May 28 |
 | **[Piedmont](http://www.piedmont.org)** | **[Brand Growth Patient Insights Intern](https://jobright.ai/jobs/info/6a18ca0717492d3a389b9cc9?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | May 28 |
@@ -114,16 +116,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b42ddbc80963f9346b4d?utm_campaign=1065&utm_source=git)** | Wilmington, NC | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b42b17492d3a389b8edd?utm_campaign=1065&utm_source=git)** | Durham, NH | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b42954a441713ae87549?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | May 28 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b42517492d3a389b8edb?utm_campaign=1065&utm_source=git)** | Clemson, SC | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b425abc8f63abac7b71a?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 28 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b42517492d3a389b8edb?utm_campaign=1065&utm_source=git)** | Clemson, SC | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b423dbc80963f9346b46?utm_campaign=1065&utm_source=git)** | Newark, NJ | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b42117492d3a389b8ed5?utm_campaign=1065&utm_source=git)** | Greater Orlando | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b41f6243320e8d167361?utm_campaign=1065&utm_source=git)** | Pullman, WA | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b41c54a441713ae87541?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b40817492d3a389b8ecf?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b40654a441713ae8753d?utm_campaign=1065&utm_source=git)** | College Park, MD | On Site | May 28 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b4056243320e8d16735a?utm_campaign=1065&utm_source=git)** | Mobile, AL | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b4056243320e8d167359?utm_campaign=1065&utm_source=git)** | Union, NJ | On Site | May 28 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b4056243320e8d16735a?utm_campaign=1065&utm_source=git)** | Mobile, AL | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b402abc8f63abac7b706?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3f817492d3a389b8ec3?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3f8abc8f63abac7b6f9?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | May 28 |
@@ -131,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3f5abc8f63abac7b6f6?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3f4abc8f63abac7b6f5?utm_campaign=1065&utm_source=git)** | Kent, OH | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3ee54a441713ae8752d?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | May 28 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3eadbc80963f9346b30?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3ea17492d3a389b8ebd?utm_campaign=1065&utm_source=git)** | Charleston County, SC | On Site | May 28 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3eadbc80963f9346b30?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | On Site | May 28 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b3e517492d3a389b8ebb?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | May 28 |
 | **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a18b1a854a441713ae8748c?utm_campaign=1065&utm_source=git)** | Chippewa Falls, WI | Hybrid | May 28 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a18b1a1abc8f63abac7b63f?utm_campaign=1065&utm_source=git)** | Corporate Office, 1251 1st Avenue, Chippewa Falls, Wisconsin, United States of America | Hybrid | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LandedHQ](https://www.landedhq.dev/)** | **[Content & Marketing Intern](https://jobright.ai/jobs/info/6a189e5a17492d3a389b7f0c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 28 |
 | **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Event Manager Internship - Fall 2026](https://jobright.ai/jobs/info/6a18d66f17492d3a389ba024?utm_campaign=1065&utm_source=git)** | West Chester, PA | On Site | May 28 |
 | **[Iris North America](https://www.pricingsolutions.com/)** | **[Media Public Relations Intern](https://jobright.ai/jobs/info/6a189d6f17492d3a389b7eee?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 28 |
-| **[The Moran Group](http://moranadvertising.com)** | **[SEO & Digital Content Intern](https://jobright.ai/jobs/info/6a18988d6243320e8d1661e0?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | May 28 |
-| **[AUC Group](https://aucgroup.net)** | **[Market & Customer Business Analyst Intern - FL/TX](https://jobright.ai/jobs/info/6a189669dbc80963f93458f2?utm_campaign=1065&utm_source=git)** | Tampa,FL,US | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
