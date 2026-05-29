@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AFM Agency](https://afmagency.net/)** | **[Influencer Marketing Summer Intern (NYC)](https://jobright.ai/jobs/info/6a19f642c2a87d6cd3dfc9ab?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[Benton Lane](https://www.bentonlane.com/)** | **[Content/Brand Intern](https://jobright.ai/jobs/info/6a19f2026b135014dbc87240?utm_campaign=1065&utm_source=git)** | Fayetteville, AR | On Site | May 29 |
 | **[Iradaa Creative](https://iradaacreative.com/)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/6a19ee492b206f3955eb1812?utm_campaign=1065&utm_source=git)** | United States | Remote | May 29 |
 | **[Kubby](https://www.kubby.io )** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/6a19e7ea2b206f3955eb1700?utm_campaign=1065&utm_source=git)** | United States | Remote | May 29 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[Market Operations Intern](https://jobright.ai/jobs/info/6a19c031e24ef36525827475?utm_campaign=1065&utm_source=git)** | United States | Remote | May 29 |
 | **[Tampa Counseling Place, LLC](https://tampacounselingplace.com)** | **[Public Relations, Social Media & Non-Profit Intern](https://jobright.ai/jobs/info/6a19c027547e292ae13948c6?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | May 29 |
 | **[AMOpportunities](https://www.amopportunities.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a19bfdcc2a87d6cd3dfb3d2?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 29 |
-| **[SERHANT.](https://www.serhant.com)** | **[Real Estate Content Creator and Social Media Intern](https://jobright.ai/jobs/info/6a19bf42547e292ae1394869?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | May 29 |
 | **[Biasly](http://www.biasly.com)** | **[Digital Marketing Internship Offered at Biasly](https://jobright.ai/jobs/info/6a19be45c2a87d6cd3dfb2f5?utm_campaign=1065&utm_source=git)** | Salt Lake City, United States | Remote | May 29 |
 | **[Celonis](https://www.celonis.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6a19be359111f771d1a08197?utm_campaign=1065&utm_source=git)** | New York, US, New York | On Site | May 29 |
 | **[Downing Capital Group](https://www.downingcap.com)** | **[DCG Fundraising Intern](https://jobright.ai/jobs/info/6a19bdb7c2a87d6cd3dfb1bd?utm_campaign=1065&utm_source=git)** | New York City | Hybrid | May 29 |
@@ -134,14 +134,13 @@ For a complete list, click the following sortable link below:
 | **[Cravings by Chrissy Teigen](https://cravingsbychrissyteigen.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a18f74154a441713ae898a7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | **[Awakenings](http://www.awakeningsart.org)** | **[Nonprofit Creative Outreach Intern](https://jobright.ai/jobs/info/6a18f720c2a87d6cd3df6353?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 28 |
 | **[Scyntic](https://www.scyntic.ai)** | **[High School Marketing Intern](https://jobright.ai/jobs/info/6a18f332abc8f63abac7d69f?utm_campaign=1065&utm_source=git)** | United States | Remote | May 28 |
-| **[Literacy for Adults in Brevard](http://www.labfl.org)** | **[Part Time Marketing Intern - Literacy for Adults in Brevard](https://jobright.ai/jobs/info/6a18ed5cabc8f63abac7d49e?utm_campaign=1065&utm_source=git)** | Brevard County, FL | Remote | May 28 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18eb44abc8f63abac7d3f8?utm_campaign=1065&utm_source=git)** | Greater Madison Area | On Site | May 28 |
 | **[Versaterm](https://www.versaterm.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a18e78954a441713ae8900b?utm_campaign=1065&utm_source=git)** | Lexington, SC | On Site | May 28 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Social Media Assistant Intern](https://jobright.ai/jobs/info/6a191c4f17492d3a389bc401?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[Pioneer Executives Inc.](https://pioneerexecs.com/)** | **[College Grads & Interns – Entry-Level Marketing (Full-Time / Paid Training / No Experience)](https://jobright.ai/jobs/info/6a18dd4ec2a87d6cd3df5842?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | May 28 |
 | **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc20?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 28 |
-| ↳ | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc22?utm_campaign=1065&utm_source=git)** | New York City, NY | Hybrid | May 28 |
 | ↳ | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc23?utm_campaign=1065&utm_source=git)** | San Francisco, California | Hybrid | May 28 |
+| ↳ | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a18daa6abc8f63abac7cc22?utm_campaign=1065&utm_source=git)** | New York City, NY | Hybrid | May 28 |
 | **[SchoolMint](https://www.schoolmint.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a18d96654a441713ae88691?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | May 28 |
 | **[West Paw](https://westpaw.com)** | **[Marketing Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/6a18cf06c2a87d6cd3df4e68?utm_campaign=1065&utm_source=git)** | Bozeman, Montana, United States | Hybrid | May 28 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Summer Marketing and Communications Intern](https://jobright.ai/jobs/info/6a18c9e86243320e8d167fdd?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | On Site | May 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Complex NTWRK](https://www.complex.com)** | **[Social Editor Intern - College Credit](https://jobright.ai/jobs/info/6a18bdd4c2a87d6cd3df43c4?utm_campaign=1065&utm_source=git)** | New York | On Site | May 28 |
 | **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Intern, TikTok Creator Sourcing](https://jobright.ai/jobs/info/6a18b909abc8f63abac7b8a1?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 28 |
 | **[Opportunities, Inc.](https://opportunities-inc.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a18b43c17492d3a389b8eef?utm_campaign=1065&utm_source=git)** | Lanham, MD, US | Hybrid | May 28 |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18b43317492d3a389b8ee5?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
