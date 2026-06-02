@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gypsum Management and Supply](http://www.gms.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a1ed670dce5db1256d1037a?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Jun 02 |
+| **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Karen Wellington Foundation Marketing & Events Intern](https://jobright.ai/jobs/info/6a1ed3e109442629a6855263?utm_campaign=1065&utm_source=git)** | Mount St. Joseph University - Cincinnati, OH 45233 | On Site | Jun 02 |
+| **[X0PA AI](https://www.x0pa.com)** | **[Intern](https://jobright.ai/jobs/info/6a1ed351b61b2c65b37ad042?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 02 |
+| **[Dragon Seats](https://dragonseats.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a1ed2a809442629a685523c?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Jun 02 |
+| **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Public Relations Internship / Fall 2026](https://jobright.ai/jobs/info/6a040ffdbc4184089f237a3a?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Jun 02 |
+| **[Novo Holdings](http://www.novoholdings.dk)** | **[Undergraduate Intern, Growth Investments](https://jobright.ai/jobs/info/6a020ec1c2ffb31f45369661?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States | On Site | Jun 02 |
+| **[Raybourn Group International](https://raybourn.com/)** | **[Fall 2026 RGI Communications/Marketing Intern](https://jobright.ai/jobs/info/6a1ec1efb61b2c65b37acc5c?utm_campaign=1065&utm_source=git)** | Indianapolis, IN 46268, USA | On Site | Jun 02 |
+| **[New York Sports Club](https://www.newyorksportsclubs.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a1ec19a80491567811646e3?utm_campaign=1065&utm_source=git)** | New York, NY 10018, USA | On Site | Jun 02 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Brand Representative Internship](https://jobright.ai/jobs/info/6a1ec16880491567811646c1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Social Media Intern](https://jobright.ai/jobs/info/6a1eb75780491567811642c1?utm_campaign=1065&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jun 02 |
 | **[Sonnet Insurance](https://www.sonnet.ca/)** | **[Market Segmentation Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a1a17382b206f3955eb2a92?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 02 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Affiliate Marketing Intern - Remote](https://jobright.ai/jobs/info/6a1eb1f109442629a68547bb?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 02 |
@@ -64,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy Intern (TikTok Shop Resource Management) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd156db10602456281f750?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 02 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976df9a3778585635106291?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 02 |
 | ↳ | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697840a388e2b47213bc4a3b?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 02 |
-| **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a1eae8ba507373dff6bae91?utm_campaign=1065&utm_source=git)** | Austin, Texas, United States | Hybrid | Jun 02 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6a1eae8ba507373dff6bae90?utm_campaign=1065&utm_source=git)** | San Francisco | Hybrid | Jun 02 |
+| **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a1eae8ba507373dff6bae90?utm_campaign=1065&utm_source=git)** | San Francisco | Hybrid | Jun 02 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6a1eae8ba507373dff6bae91?utm_campaign=1065&utm_source=git)** | Austin, Texas, United States | Hybrid | Jun 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 02 |
 | **[Etaily](https://etaily.com)** | **[Ecommerce Analyst Intern](https://jobright.ai/jobs/info/6a1e9909dce5db1256d0f366?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Hand To Hold](https://handtohold.org )** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a1dd7cbb524ae49285a8f05?utm_campaign=1065&utm_source=git)** | Austin,TX,US | Hybrid | Jun 02 |
@@ -136,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Son of Noise](https://www.sonofnoise.co)** | **[Integrated Brand Marketing Summer Intern](https://jobright.ai/jobs/info/6a1e1fdf3e538a28c204e4cf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 01 |
 | **[ODK Media](https://www.odkmedia.net/)** | **[Advertising Operations Internship](https://jobright.ai/jobs/info/6a1e195bb524ae49285aaa90?utm_campaign=1065&utm_source=git)** | Irvine, California, United States | On Site | Jun 01 |
 | **[Desjardins](https://www.desjardins.com)** | **[Internship, Market Analysis and Strategy](https://jobright.ai/jobs/info/6a1dcf4de24ef3652583a168?utm_campaign=1065&utm_source=git)** | Montréal, CA | Hybrid | Jun 01 |
-| **[Plasiv](https://plasiv.com)** | **[Content & Social Media Strategy Intern](https://jobright.ai/jobs/info/6a1e18a9b524ae49285aaa86?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Fall 2026 Marketing (Paid) Intern](https://jobright.ai/jobs/info/6a1e319c9111f771d1a1db9c?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
 | ↳ | **[Fall 2026 Public Relations (Paid) Intern](https://jobright.ai/jobs/info/6a1e311a9111f771d1a1db78?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Fall 2026 Community Development & Philanthropy Intern](https://jobright.ai/jobs/info/6a1e14856b135014dbc9a89a?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[San Antonio Museum of Art](https://www.samuseum.org)** | **[MARKETING INTERN](https://jobright.ai/jobs/info/6a1dd3546b135014dbc98c26?utm_campaign=1065&utm_source=git)** | San Antonio Museum of Art - SAN ANTONIO, TX 78215 | On Site | Jun 01 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Marketing Internship / Cincinnati](https://jobright.ai/jobs/info/6a1e0ac8b524ae49285aa664?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
 | **[Power Integrations](https://www.power.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a06495d7c753c287f7017da?utm_campaign=1065&utm_source=git)** | San Jose, California | On Site | Jun 01 |
-| **[Kirtland Credit Union](https://kirtlandcu.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69fd17b1938a651755f9912e?utm_campaign=1065&utm_source=git)** | Albuquerque, NM, US | On Site | Jun 01 |
-| **[International Code Council](https://www.iccsafe.org/)** | **[Events and Meetings Intern](https://jobright.ai/jobs/info/6a1dd8bcc2a87d6cd3e0e37a?utm_campaign=1065&utm_source=git)** | Country Club Hills,IL,US | On Site | Jun 01 |
-| **[Lambda](https://lambda.ai)** | **[AI Research Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6a1e0256b524ae49285aa1cf?utm_campaign=1065&utm_source=git)** | San Francisco Office (Second St) | Hybrid | Jun 01 |
-| **[Camp Arrow Wood](http://www.camparrowwood.com)** | **[Sports Marketing & Media Counselor](https://jobright.ai/jobs/info/6a1e6fb4c5277c00c647f826?utm_campaign=1065&utm_source=git)** | Pittsfield, MA | On Site | Jun 01 |
-| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a654a441713ae84e20?utm_campaign=1065&utm_source=git)** | TAMPA, FL, US | On Site | Jun 01 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a4c2a87d6cd3df17c7?utm_campaign=1065&utm_source=git)** | San Francisco, CA, US | On Site | Jun 01 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a18779eabc8f63abac78ede?utm_campaign=1065&utm_source=git)** | NEW BRUNSWICK, NJ, US | On Site | Jun 01 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877afc2a87d6cd3df17d2?utm_campaign=1065&utm_source=git)** | SYRACUSE, NY, US | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
