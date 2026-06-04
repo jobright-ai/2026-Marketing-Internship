@@ -57,18 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Cattle Feeder Marketing Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301271?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 04 |
 | **[German American Bank](https://germanamerican.com/)** | **[Internship Membership, Events & Communication (12 months)](https://jobright.ai/jobs/info/6a2195187c30cc2cc5169aa7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[West Austin Chamber of Commerce](http://www.westaustinchamber.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2194217c30cc2cc5169a18?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jun 04 |
 | **[IBSS](http://ibsscorp.com)** | **[Summer Fundraising & Nonprofit Development Intern](https://jobright.ai/jobs/info/6a21936e902d19201c7b81a9?utm_campaign=1065&utm_source=git)** | Silver Spring, MD | Hybrid | Jun 04 |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of North Carolina - Charlotte](https://jobright.ai/jobs/info/6a21930f4bdf8a5a96bd6646?utm_campaign=1065&utm_source=git)** | 9201 University City Blvd, Charlotte, NC, 28223, US | On Site | Jun 04 |
-| ↳ | **[Food Sustainability + Marketing Intern, Chartwells Higher Ed / New York University](https://jobright.ai/jobs/info/6a21930fc00e701fe836eff8?utm_campaign=1065&utm_source=git)** | 60 Washington Sq. SE, New York, NY, 10012, US | On Site | Jun 04 |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Food Sustainability + Marketing Intern, Chartwells Higher Ed / New York University](https://jobright.ai/jobs/info/6a21930fc00e701fe836eff8?utm_campaign=1065&utm_source=git)** | 60 Washington Sq. SE, New York, NY, 10012, US | On Site | Jun 04 |
+| ↳ | **[Marketing Intern, Chartwells Higher Ed / University of North Carolina - Charlotte](https://jobright.ai/jobs/info/6a21930f4bdf8a5a96bd6646?utm_campaign=1065&utm_source=git)** | 9201 University City Blvd, Charlotte, NC, 28223, US | On Site | Jun 04 |
 | **[JohnsByrne](http://johnsbyrne.com)** | **[Intern Year 1](https://jobright.ai/jobs/info/6a218f6a902d19201c7b801a?utm_campaign=1065&utm_source=git)** | JB-CHI Oakton - Niles, IL 60714 | On Site | Jun 04 |
 | **[Trees Atlanta](https://treesatlanta.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a218b27902d19201c7b7ed7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jun 04 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2188454bdf8a5a96bd62c9?utm_campaign=1065&utm_source=git)** | Jericho, NY, US | On Site | Jun 04 |
 | **[Drive IT](https://drivenash.com)** | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/6a2189ca7c30cc2cc5169692?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Jun 04 |
 | ↳ | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/6a2189c17c30cc2cc516968f?utm_campaign=1065&utm_source=git)** | Nashville, TN, US | On Site | Jun 04 |
-| **[Antora Energy](https://www.antoraenergy.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcfae6b135014dbc98a91?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Hybrid | Jun 04 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcfaf6b135014dbc98a93?utm_campaign=1065&utm_source=git)** | Onsite - San Jose, CA | Hybrid | Jun 04 |
+| **[Antora Energy](https://www.antoraenergy.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcfaf6b135014dbc98a93?utm_campaign=1065&utm_source=git)** | Onsite - San Jose, CA | Hybrid | Jun 04 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcfae6b135014dbc98a91?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Hybrid | Jun 04 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcf9b6b135014dbc98a7a?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jun 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Events Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1e5997b61b2c65b37ab5a4?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 04 |
 | **[Iris USA](https://www.iris-worldwide.com/)** | **[Copywriter Summer Intern](https://jobright.ai/jobs/info/6a188767c2a87d6cd3df230e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 04 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Xiaohongshu](https://www.xiaohongshu.com)** | **[User Research Project Intern(Rednote Shop)](https://jobright.ai/jobs/info/6a210737902d19201c7b5d5e?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 03 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: FREE Initiative](https://jobright.ai/jobs/info/6a21067c4bdf8a5a96bd42bf?utm_campaign=1065&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
 | ↳ | **[Fall Intern: FREE Initiative](https://jobright.ai/jobs/info/6a1874586243320e8d16495f?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
-| **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Marketing Intern - Research, Data & Insights](https://jobright.ai/jobs/info/6a20ceca4bdf8a5a96bd32b8?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, USA | On Site | Jun 03 |
-| ↳ | **[Marketing Intern - Research, Data & Insights](https://jobright.ai/jobs/info/6a20cec84bdf8a5a96bd32b7?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jun 03 |
+| **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Marketing Intern - Research, Data & Insights](https://jobright.ai/jobs/info/6a20cec84bdf8a5a96bd32b7?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jun 03 |
+| ↳ | **[Marketing Intern - Research, Data & Insights](https://jobright.ai/jobs/info/6a20ceca4bdf8a5a96bd32b8?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, USA | On Site | Jun 03 |
 | **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a1de1569111f771d1a1ba91?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jun 03 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern Merchandising](https://jobright.ai/jobs/info/6a20fce34bdf8a5a96bd3fb0?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jun 03 |
 | **[Xiaohongshu](https://www.xiaohongshu.com)** | **[User Research Project Intern (Rednote Shop)](https://jobright.ai/jobs/info/6a20ef7b3a5f0145f4c179df?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 03 |
@@ -140,10 +141,10 @@ For a complete list, click the following sortable link below:
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Digital Marketing Intern - Summer 2026 / Chicago IL](https://jobright.ai/jobs/info/6a20ad8eca8f0b365d7a2db1?utm_campaign=1065&utm_source=git)** | Morton Grove, Illinois, United States | Hybrid | Jun 03 |
 | **[Fohr](https://www.fohr.co/about)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a20ad4b3a5f0145f4c165f7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 03 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-time Intern, Communication and Engagement](https://jobright.ai/jobs/info/6a20ab58c00e701fe836b1e8?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 03 |
-| **[NPR](http://www.npr.org)** | **[Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a20894f3a5f0145f4c1522c?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 03 |
+| **[NPR](http://www.npr.org)** | **[Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a2089513a5f0145f4c15232?utm_campaign=1065&utm_source=git)** | Washington, DC - HQ | On Site | Jun 03 |
+| ↳ | **[Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a20894f3a5f0145f4c1522c?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 03 |
 | ↳ | **[Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a20894f3a5f0145f4c1522b?utm_campaign=1065&utm_source=git)** | New York City | On Site | Jun 03 |
 | ↳ | **[Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a20894f3a5f0145f4c1522a?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
-| ↳ | **[Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a2089513a5f0145f4c15232?utm_campaign=1065&utm_source=git)** | Washington, DC - HQ | On Site | Jun 03 |
 | **[Attain Sports](https://attainsports.com)** | **[Merchandise Intern](https://jobright.ai/jobs/info/6a20a7844bdf8a5a96bd252f?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Jun 03 |
 | **[Enhanced](https://www.enhanced.com/)** | **[Community & Influencer Manager (intern)](https://jobright.ai/jobs/info/6a20ec67902d19201c7b5524?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
 | **[Vocal Media](https://vocal-media.io/)** | **[AI Social Media Content Intern](https://jobright.ai/jobs/info/6a20a5634bdf8a5a96bd224e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Strategic Marketing Intern- Coaching](https://jobright.ai/jobs/info/6a209324338c01230511a17d?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 03 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a209abeca8f0b365d7a2443?utm_campaign=1065&utm_source=git)** | Herndon, VA | Hybrid | Jun 03 |
 | **[Phusion Projects](http://www.phusionprojects.com)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/6a2093d2c00e701fe836a5e6?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jun 03 |
-| **[VLP Financial Advisors](https://www.vlpfa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a209362902d19201c7b33c0?utm_campaign=1065&utm_source=git)** | Vienna, VA | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
