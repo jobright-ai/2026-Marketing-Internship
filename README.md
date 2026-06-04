@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HqO](https://www.hqo.com)** | **[Marketing Coordinator Internship (Summer 2026)](https://jobright.ai/jobs/info/6a04ff7dbc4184089f241ddd?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jun 04 |
+| **[SACC Chicago (Swedish American Chamber of Commerce Chicago)](http://www.sacc-chicago.org/)** | **[Marketing Intern, Axis Communications, Fall 2026](https://jobright.ai/jobs/info/6a2177104bdf8a5a96bd5dd5?utm_campaign=1065&utm_source=git)** | Chelmsford, MA | On Site | Jun 04 |
+| **[Great Lakes Outreach Wisconsin](https://www.glowisconsin.com/)** | **[Business & Marketing Internship](https://jobright.ai/jobs/info/6a2174da4bdf8a5a96bd5d5f?utm_campaign=1065&utm_source=git)** | Greater Milwaukee | On Site | Jun 04 |
+| **[Compass Group Canada](http://www.compass-canada.com)** | **[Food Sustainability + Marketing Intern, Chartwells Higher Ed / New York University](https://jobright.ai/jobs/info/6a2172e94bdf8a5a96bd5cf2?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Jun 04 |
 | **[Jobster](https://www.jobster.com)** | **[Marketing Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a2169af4bdf8a5a96bd5a68?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Jun 04 |
 | **[Melhem Scientific](melhemscientific.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a2169ad4bdf8a5a96bd5a66?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
 | **[AgriNovus Indiana](https://agrinovusindiana.com/)** | **[Field Atlas Ambassador Intern](https://jobright.ai/jobs/info/6a216883902d19201c7b7433?utm_campaign=1065&utm_source=git)** | Indiana, United States | On Site | Jun 04 |
@@ -71,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Symmetry Systems](https://www.symmetry-systems.com)** | **[2026 Summer Intern - Marketing](https://jobright.ai/jobs/info/6a214e56902d19201c7b6ec1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Collectible Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a05a5306c07461fe17176f5?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
 | **[CECO Environmental Corporation](https://www.cecoenviro.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a185b5cc2a87d6cd3defded?utm_campaign=1065&utm_source=git)** | US-TX-Addison | Hybrid | Jun 04 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[Social Marketing and Audience Growth Intern](https://jobright.ai/jobs/info/6a04ecbdf3d6cc51d63846fb?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 04 |
-| ↳ | **[Social Marketing and Audience Growth Intern](https://jobright.ai/jobs/info/6a084e886186f4685988731f?utm_campaign=1065&utm_source=git)** | Fairfield, CT, 06824, US | On Site | Jun 04 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[Social Marketing and Audience Growth Intern](https://jobright.ai/jobs/info/6a084e886186f4685988731f?utm_campaign=1065&utm_source=git)** | Fairfield, CT, 06824, US | On Site | Jun 04 |
+| ↳ | **[Social Marketing and Audience Growth Intern](https://jobright.ai/jobs/info/6a04ecbdf3d6cc51d63846fb?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Duetti](https://duetti.co)** | **[Music Partnerships & Marketing Intern](https://jobright.ai/jobs/info/6a2133dcc00e701fe836d950?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 04 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing: AI Discoverability & Optimization Intern (Summer 2026)](https://jobright.ai/jobs/info/6a14c97adc845f4be5bd3188?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jun 04 |
 | **[City of Newcastle, Australia](https://newcastle.nsw.gov.au/smarter-living)** | **[Expressions of Interest - New Annual Future Fit Internship](https://jobright.ai/jobs/info/6a212e72c00e701fe836d7b3?utm_campaign=1065&utm_source=git)** | Newcastle, CA | On Site | Jun 04 |
@@ -89,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: FREE Initiative](https://jobright.ai/jobs/info/6a21067c4bdf8a5a96bd42bf?utm_campaign=1065&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
 | ↳ | **[Fall Intern: FREE Initiative](https://jobright.ai/jobs/info/6a1874586243320e8d16495f?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | Jun 03 |
 | **[Phusion Projects](http://www.phusionprojects.com)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/6a2104c3338c01230511c92d?utm_campaign=1065&utm_source=git)** | Chicago,IL,US | Hybrid | Jun 03 |
-| **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Marketing Intern - Research, Data & Insights](https://jobright.ai/jobs/info/6a20ceca4bdf8a5a96bd32b8?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, USA | On Site | Jun 03 |
-| ↳ | **[Marketing Intern - Research, Data & Insights](https://jobright.ai/jobs/info/6a20cec84bdf8a5a96bd32b7?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jun 03 |
+| **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Marketing Intern - Research, Data & Insights](https://jobright.ai/jobs/info/6a20cec84bdf8a5a96bd32b7?utm_campaign=1065&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jun 03 |
+| ↳ | **[Marketing Intern - Research, Data & Insights](https://jobright.ai/jobs/info/6a20ceca4bdf8a5a96bd32b8?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, USA | On Site | Jun 03 |
 | **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a1de1569111f771d1a1ba91?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jun 03 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern Merchandising](https://jobright.ai/jobs/info/6a20fce34bdf8a5a96bd3fb0?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jun 03 |
 | **[Xiaohongshu](https://www.xiaohongshu.com)** | **[User Research Project Intern (Rednote Shop)](https://jobright.ai/jobs/info/6a20ef7b3a5f0145f4c179df?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 03 |
@@ -119,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Digital Marketing Intern - Summer 2026 / Chicago IL](https://jobright.ai/jobs/info/6a20ad8eca8f0b365d7a2db1?utm_campaign=1065&utm_source=git)** | Morton Grove, Illinois, United States | Hybrid | Jun 03 |
 | **[Fohr](https://www.fohr.co/about)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a20ad4b3a5f0145f4c165f7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 03 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-time Intern, Communication and Engagement](https://jobright.ai/jobs/info/6a20ab58c00e701fe836b1e8?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 03 |
-| **[NPR](http://www.npr.org)** | **[Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a20894f3a5f0145f4c1522c?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 03 |
-| ↳ | **[Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a20894f3a5f0145f4c1522a?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
+| **[NPR](http://www.npr.org)** | **[Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a20894f3a5f0145f4c1522a?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
+| ↳ | **[Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a20894f3a5f0145f4c1522c?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 03 |
 | ↳ | **[Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a2089513a5f0145f4c15232?utm_campaign=1065&utm_source=git)** | Washington, DC - HQ | On Site | Jun 03 |
 | ↳ | **[Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a20894f3a5f0145f4c1522b?utm_campaign=1065&utm_source=git)** | New York City | On Site | Jun 03 |
 | **[Attain Sports](https://attainsports.com)** | **[Merchandise Intern](https://jobright.ai/jobs/info/6a20a7844bdf8a5a96bd252f?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Jun 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Heritage Group](https://thgrp.com)** | **[Community Events and Communications Intern](https://jobright.ai/jobs/info/6a207ab74bdf8a5a96bd0f96?utm_campaign=1065&utm_source=git)** | Urbana, IL, US | On Site | Jun 03 |
 | **[Delishous](www.delishous.com)** | **[Marketing Intern Unpaid](https://jobright.ai/jobs/info/6a213f97ca8f0b365d7a5861?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jun 03 |
 | **[Empire Abrasive Equipment Co.](http://empire-airblast.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6a2079fac00e701fe8369a92?utm_campaign=1065&utm_source=git)** | Langhorne, PA | On Site | Jun 03 |
-| **[Per Diem](https://tryperdiem.com)** | **[Brand Marketing Creator Intern (Paid)](https://jobright.ai/jobs/info/6a20a0bb4bdf8a5a96bd20ad?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jun 03 |
-| **[Authority Brands](https://www.theauthoritybrands.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a207499338c012305119422?utm_campaign=1065&utm_source=git)** | Atlanta Metro | On Site | Jun 03 |
-| **[Evolv](https://introducingevolv.com/)** | **[Brand Marketing Internship](https://jobright.ai/jobs/info/6a206db54bdf8a5a96bd09cb?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Jun 03 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a206d5d4bdf8a5a96bd0940?utm_campaign=1065&utm_source=git)** | US Nationwide - Remote, US | Remote | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
