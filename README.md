@@ -58,6 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1349dc9fdbf21f36cb8ab6?utm_campaign=1065&utm_source=git)** | San Diego, United States - California | On Site | Jun 06 |
+| **[Kirtland Credit Union](https://kirtlandcu.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2423a014de9460dc846223?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Jun 06 |
+| **[Smartly](http://smartly.io)** | **[Marketing Science Intern](https://jobright.ai/jobs/info/6a07605e403fc339507e35a0?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Jun 06 |
+| ↳ | **[Marketing Science Intern](https://jobright.ai/jobs/info/6a07605c403fc339507e359f?utm_campaign=1065&utm_source=git)** | New York | Hybrid | Jun 06 |
+| ↳ | **[Marketing Science Intern](https://jobright.ai/jobs/info/6a15fda4554b0e12c0587dca?utm_campaign=1065&utm_source=git)** | Illinois | Hybrid | Jun 06 |
+| ↳ | **[Marketing Science Intern](https://jobright.ai/jobs/info/6a15fdaf554b0e12c0587dcf?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing / Sales](https://jobright.ai/jobs/info/6a07fa778f3e371eb617c339?utm_campaign=1065&utm_source=git)** | Metamora, OH | On Site | Jun 06 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a19703dc2a87d6cd3df90d2?utm_campaign=1065&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jun 06 |
 | **[Cutsforth](https://www.cutsforth.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a2414a56624e500cad0d3a5?utm_campaign=1065&utm_source=git)** | Ferndale, WA | On Site | Jun 06 |
@@ -86,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Balchem Corporation](http://balchem.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a076304939a5f01db94ece9?utm_campaign=1065&utm_source=git)** | Montvale, NJ | On Site | Jun 05 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a04cf1a7c753c287f6f388c?utm_campaign=1065&utm_source=git)** | Oklahoma City, Oklahoma, US | On Site | Jun 05 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Event Booking](https://jobright.ai/jobs/info/69fbee843160b250eb1ba29e?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Jun 05 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Internal Activation & Storytelling, Global Sponsorships](https://jobright.ai/jobs/info/6a07e3f13b54ed42d74d2bce?utm_campaign=1065&utm_source=git)** | New York, NY, US, 10001 | On Site | Jun 05 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Internal Activation & Storytelling, Global Sponsorships](https://jobright.ai/jobs/info/6a07e35d939a5f01db954995?utm_campaign=1065&utm_source=git)** | New York, NY, US, 10001 | On Site | Jun 05 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 05 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Retail Marketing Partnerships Intern/ Co-op](https://jobright.ai/jobs/info/6a065233320bff2205eab828?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Jun 05 |
 | **[Fifth & Cor](https://www.fifthandcor.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a2358df6624e500cad0b6ba?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Hybrid | Jun 05 |
@@ -119,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a22c208757ade085b6acbb1?utm_campaign=1065&utm_source=git)** | Ballston Spa,NY,US | On Site | Jun 05 |
 | **[Jubilant Pharma Limited](http://www.jubilantpharma.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a06b55d6c07461fe1721f27?utm_campaign=1065&utm_source=git)** | Spokane, WA | Remote | Jun 05 |
 | **[Aircall](https://aircall.io/)** | **[Regional Marketing Intern, LATAM (12 months)](https://jobright.ai/jobs/info/6996421ece78e77b4fda3bbf?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jun 05 |
-| **[SchoolMint](https://www.schoolmint.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a18d96654a441713ae88691?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Jun 05 |
+| **[SchoolMint](https://www.schoolmint.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a07010f1f7fa33581c9979a?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Jun 05 |
 | **[Legends Global](http://legends.net)** | **[Merchandise Internship 2026: Indianapolis Motor Speedway](https://jobright.ai/jobs/info/6a22ab9c757ade085b6ac8fc?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Jun 05 |
 | ↳ | **[Ohio State Athletics- Social Media Internship](https://jobright.ai/jobs/info/6a061691bc4184089f24af1c?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jun 05 |
 | ↳ | **[Administrative Internship](https://jobright.ai/jobs/info/6a061a0ea88ea73abf7f74a9?utm_campaign=1065&utm_source=git)** | Pensacola, FL | On Site | Jun 05 |
@@ -136,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[ICC Social Media and Marketing Intern](https://jobright.ai/jobs/info/6a22870f94d89a1392b52067?utm_campaign=1065&utm_source=git)** | Flint, MI | On Site | Jun 05 |
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Social Media Intern](https://jobright.ai/jobs/info/6a2273448e98cb42c8a839f3?utm_campaign=1065&utm_source=git)** | Champaign, IL 61820-7892, USA | Hybrid | Jun 04 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a225b0cd1ab07243c7f7ce8?utm_campaign=1065&utm_source=git)** | UNION, NJ, US | On Site | Jun 04 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a225b0a8e98cb42c8a835b6?utm_campaign=1065&utm_source=git)** | OMAHA, NE, US | On Site | Jun 04 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a225b0a8e98cb42c8a835b7?utm_campaign=1065&utm_source=git)** | US-NE-OMAHA | On Site | Jun 04 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a225b0a8e98cb42c8a835b6?utm_campaign=1065&utm_source=git)** | OMAHA, NE, US | On Site | Jun 04 |
 | **[New York Proton Center](https://www.nyproton.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2390ff6624e500cad0c061?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[City of Bangor, Maine](https://www.bangormaine.gov/)** | **[Seasonal Marketing Intern](https://jobright.ai/jobs/info/6a2238c67c30cc2cc516ddfc?utm_campaign=1065&utm_source=git)** | Bangor, ME | On Site | Jun 04 |
 | **[Wizard International, Inc.](https://wizardcutters.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/6a223514902d19201c7bc81c?utm_campaign=1065&utm_source=git)** | Sedro-Woolley, WA | On Site | Jun 04 |
@@ -150,11 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Randall's Island Park Alliance](https://randallsisland.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a221cc1902d19201c7bc1b7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Social Media Content Creator Internship](https://jobright.ai/jobs/info/6a2217ce4bdf8a5a96bda3c9?utm_campaign=1065&utm_source=git)** | Allen, TX | Remote | Jun 04 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Social Media Coordinator- Intern](https://jobright.ai/jobs/info/6a2214ed338c012305122b7f?utm_campaign=1065&utm_source=git)** | Allentown, PA | On Site | Jun 04 |
-| **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Hendersonville (59931)](https://jobright.ai/jobs/info/6a22015dca8f0b365d7aa72a?utm_campaign=1065&utm_source=git)** | Parks Ford Hendersonville - Hendersonville, NC 28792 | On Site | Jun 04 |
-| ↳ | **[Social Media Intern- Hendersonville (59931)](https://jobright.ai/jobs/info/6a22015dca8f0b365d7aa729?utm_campaign=1065&utm_source=git)** | Parks Management Company - Winston Salem, NC 27101 | On Site | Jun 04 |
-| ↳ | **[Social Media Intern- Roanoke (59932)](https://jobright.ai/jobs/info/6a22015a338c012305122603?utm_campaign=1065&utm_source=git)** | Parks Luxury Roanoke - Roanoke, VA 24017 | On Site | Jun 04 |
-| ↳ | **[Social Media Intern- Roanoke (59932)](https://jobright.ai/jobs/info/6a220159338c012305122602?utm_campaign=1065&utm_source=git)** | Parks Management Company - Winston Salem, NC 27101 | On Site | Jun 04 |
-| **[NYC School Bus Umbrella Services, Inc](https://www.nycsbus.com)** | **[Social Media and Digital Marketing Intern](https://jobright.ai/jobs/info/6a21fb9dca8f0b365d7aa576?utm_campaign=1065&utm_source=git)** | Brooklyn, NY 11222, USA | Hybrid | Jun 04 |
-| **[tasc](http://www.tascperformance.com)** | **[Digital Marketing Intern - Summer 2026What You’ll Work OnOur Ideal Candidate](https://jobright.ai/jobs/info/6a21f96cca8f0b365d7aa449?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | Jun 04 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Marketing Internship (VAB)](https://jobright.ai/jobs/info/6a21f7a0c00e701fe8372387?utm_campaign=1065&utm_source=git)** | VT, Colchester, US | On Site | Jun 04 |
+| **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Hendersonville (59931)](https://jobright.ai/jobs/info/6a22015dca8f0b365d7aa729?utm_campaign=1065&utm_source=git)** | Parks Management Company - Winston Salem, NC 27101 | On Site | Jun 04 |
+| ↳ | **[Social Media Intern- Hendersonville (59931)](https://jobright.ai/jobs/info/6a22015dca8f0b365d7aa72a?utm_campaign=1065&utm_source=git)** | Parks Ford Hendersonville - Hendersonville, NC 28792 | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
