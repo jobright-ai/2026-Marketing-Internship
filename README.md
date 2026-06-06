@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Creator & Partner Marketing Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69eb52c816b2612c2a11aede?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 06 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6a24003d6624e500cad0d114?utm_campaign=1065&utm_source=git)** | Glen Allen, VA, US | On Site | Jun 06 |
+| **[Peninsula Open Space Trust (POST)](https://openspacetrust.org)** | **[Community Engagement & Marketing Intern](https://jobright.ai/jobs/info/6a23f94a14de9460dc845ce3?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Jun 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69b3cf26ae2a534885eb41b2?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 06 |
+| ↳ | **[Creator & Partner Marketing Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69eb52c816b2612c2a11aede?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 06 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Erborian Sales & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69f84215db88714bcdfba5fb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69b37dc9ad360c0340a8a646?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 06 |
 | **[Cincinnati Symphony Orchestra](http://www.cincinnatisymphony.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a23c434d46c0f7996085b87?utm_campaign=1065&utm_source=git)** | Cincinnati,OH,US | On Site | Jun 05 |
@@ -79,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Balchem Corporation](http://balchem.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a076304939a5f01db94ece9?utm_campaign=1065&utm_source=git)** | Montvale, NJ | On Site | Jun 05 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a04cf1a7c753c287f6f388c?utm_campaign=1065&utm_source=git)** | Oklahoma City, Oklahoma, US | On Site | Jun 05 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Event Booking](https://jobright.ai/jobs/info/69fbee843160b250eb1ba29e?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Jun 05 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Internal Activation & Storytelling, Global Sponsorships](https://jobright.ai/jobs/info/6a07e3f13b54ed42d74d2bce?utm_campaign=1065&utm_source=git)** | New York, NY, US, 10001 | On Site | Jun 05 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 05 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Internal Activation & Storytelling, Global Sponsorships](https://jobright.ai/jobs/info/6a07e35d939a5f01db954995?utm_campaign=1065&utm_source=git)** | New York, NY, US, 10001 | On Site | Jun 05 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 05 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Retail Marketing Partnerships Intern/ Co-op](https://jobright.ai/jobs/info/6a065233320bff2205eab828?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Jun 05 |
 | **[Fifth & Cor](https://www.fifthandcor.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a2358df6624e500cad0b6ba?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Hybrid | Jun 05 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Retail Marketing Partnerships Intern/ Co-op](https://jobright.ai/jobs/info/69fa201fdb88714bcdfc14d7?utm_campaign=1065&utm_source=git)** | Carlsbad, California, United States of America | On Site | Jun 05 |
@@ -103,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Ridgeview Construction](http://www.greenbuildernh.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a22db324239a4353887cfe2?utm_campaign=1065&utm_source=git)** | Deerfield, NH - New Hampshire, United States | On Site | Jun 05 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1349dc9fdbf21f36cb8ab6?utm_campaign=1065&utm_source=git)** | San Diego, United States - California | On Site | Jun 05 |
 | **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a0619abbc4184089f24b203?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Jun 05 |
-| **[Kirtland Credit Union](https://kirtlandcu.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a22d1d914de9460dc84334f?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Jun 05 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a21f7867c30cc2cc516cb8c?utm_campaign=1065&utm_source=git)** | Office - Corporate HQ - Winter Park | Hybrid | Jun 05 |
 | **[ECI Group](http://ecigroups.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/6a0600237c753c287f6fdfe8?utm_campaign=1065&utm_source=git)** | Atlanta,GA,US | On Site | Jun 05 |
 | **[Drive IT](https://drivenash.com)** | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/6a22ca76757ade085b6acd18?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 05 |
@@ -116,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Aircall](https://aircall.io/)** | **[Regional Marketing Intern, LATAM (12 months)](https://jobright.ai/jobs/info/6996421ece78e77b4fda3bbf?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jun 05 |
 | **[SchoolMint](https://www.schoolmint.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a07010f1f7fa33581c9979a?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Jun 05 |
 | **[Legends Global](http://legends.net)** | **[Merchandise Internship 2026: Indianapolis Motor Speedway](https://jobright.ai/jobs/info/6a22ab9c757ade085b6ac8fc?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Jun 05 |
-| ↳ | **[Ohio State Athletics- Social Media Internship](https://jobright.ai/jobs/info/6a061691bc4184089f24af1c?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jun 05 |
 | ↳ | **[Administrative Internship](https://jobright.ai/jobs/info/6a061a0ea88ea73abf7f74a9?utm_campaign=1065&utm_source=git)** | Pensacola, FL | On Site | Jun 05 |
+| ↳ | **[Ohio State Athletics- Social Media Internship](https://jobright.ai/jobs/info/6a061691bc4184089f24af1c?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jun 05 |
 | ↳ | **[Social Media and Content Intern](https://jobright.ai/jobs/info/6a061691bc4184089f24af16?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | Jun 05 |
 | ↳ | **[Revenue Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a22aa81757ade085b6ac8db?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jun 05 |
 | ↳ | **[Events Intern - Raising Cane's River Center](https://jobright.ai/jobs/info/6a0619b2320bff2205ea81bd?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Jun 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Marketing Internship (VAB)](https://jobright.ai/jobs/info/6a21f7a0c00e701fe8372387?utm_campaign=1065&utm_source=git)** | VT, Colchester, US | On Site | Jun 04 |
 | **[Brick & Banister Real Estate Co.](https://brickandbanister.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a21f5fc7c30cc2cc516ca4e?utm_campaign=1065&utm_source=git)** | Taylors Falls, MN | On Site | Jun 04 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales (Growth) Intern](https://jobright.ai/jobs/info/6a21f5aeca8f0b365d7aa100?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 04 |
-| **[Repair Ally](https://www.repairally.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a21e746c00e701fe8371b03?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 04 |
-| **[ETC (Media & Events)](https://etcnetwork.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a21eaaac00e701fe8371d27?utm_campaign=1065&utm_source=git)** | New York, NY 10036, USA | Remote | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
