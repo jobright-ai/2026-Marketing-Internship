@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Campbell Street](https://campbellstreetsl.com/)** | **[Digital Media Internship](https://jobright.ai/jobs/info/6a1d0dc79111f771d1a175e1?utm_campaign=1065&utm_source=git)** | Des Moines, IA 50314 | Hybrid | Jun 06 |
+| **[Voluntas Juvenium](https://www.juvenium.org/)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/6a24bb6c6624e500cad0e37f?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jun 06 |
 | **[NorthOps™](https://www.linkedin.com/company/117294960)** | **[Growth Intern](https://jobright.ai/jobs/info/6a24aaa36624e500cad0e265?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 06 |
 | **[Vizmark Inc](www.vizmark.com)** | **[Marketing & Communications Specialist](https://jobright.ai/jobs/info/6a24a266dedf78312c7aee31?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Jun 06 |
 | **[Ambrosia Systems Inc](https://www.ambrosiasys.com)** | **[Student Intern](https://jobright.ai/jobs/info/6a249db2dedf78312c7aedea?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 06 |
@@ -83,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Kirtland Credit Union](https://kirtlandcu.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2423a014de9460dc846223?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Jun 06 |
 | **[Smartly](http://smartly.io)** | **[Marketing Science Intern](https://jobright.ai/jobs/info/6a15fdaf554b0e12c0587dcf?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 06 |
 | ↳ | **[Marketing Science Intern](https://jobright.ai/jobs/info/6a15fda4554b0e12c0587dca?utm_campaign=1065&utm_source=git)** | Illinois | Hybrid | Jun 06 |
-| ↳ | **[Marketing Science Intern](https://jobright.ai/jobs/info/6a07605c403fc339507e359f?utm_campaign=1065&utm_source=git)** | New York | Hybrid | Jun 06 |
 | ↳ | **[Marketing Science Intern](https://jobright.ai/jobs/info/6a07605e403fc339507e35a0?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Jun 06 |
+| ↳ | **[Marketing Science Intern](https://jobright.ai/jobs/info/6a07605c403fc339507e359f?utm_campaign=1065&utm_source=git)** | New York | Hybrid | Jun 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing / Sales](https://jobright.ai/jobs/info/6a07fa778f3e371eb617c339?utm_campaign=1065&utm_source=git)** | Metamora, OH | On Site | Jun 06 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a19703dc2a87d6cd3df90d2?utm_campaign=1065&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jun 06 |
 | **[Cutsforth](https://www.cutsforth.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a2414a56624e500cad0d3a5?utm_campaign=1065&utm_source=git)** | Ferndale, WA | On Site | Jun 06 |
@@ -112,8 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Balchem Corporation](http://balchem.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a076304939a5f01db94ece9?utm_campaign=1065&utm_source=git)** | Montvale, NJ | On Site | Jun 05 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a04cf1a7c753c287f6f388c?utm_campaign=1065&utm_source=git)** | Oklahoma City, Oklahoma, US | On Site | Jun 05 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Event Booking](https://jobright.ai/jobs/info/69fbee843160b250eb1ba29e?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Jun 05 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Internal Activation & Storytelling, Global Sponsorships](https://jobright.ai/jobs/info/6a07e3f13b54ed42d74d2bce?utm_campaign=1065&utm_source=git)** | New York, NY, US, 10001 | On Site | Jun 05 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 05 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 05 |
 | **[Albert A. Webb Associates (WEBB)](http://webbassociates.com)** | **[Proposal and Marketing Production Intern](https://jobright.ai/jobs/info/6a1a5bb86b135014dbc89e10?utm_campaign=1065&utm_source=git)** | Riverside, CA | Hybrid | Jun 05 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Retail Marketing Partnerships Intern/ Co-op](https://jobright.ai/jobs/info/6a065233320bff2205eab828?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Jun 05 |
 | **[Fifth & Cor](https://www.fifthandcor.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a2358df6624e500cad0b6ba?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Hybrid | Jun 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[Communications Intern-Corporate](https://jobright.ai/jobs/info/69d1f5c6366bb95ba552ac6c?utm_campaign=1065&utm_source=git)** | Portsmouth, NH | On Site | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68ce831bfb49c96ca6ea116f?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 05 |
 | ↳ | **[Creator Growth Marketing Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/699558ed81476f6176ad41c6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 05 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Talent Marketing Intern](https://jobright.ai/jobs/info/69fceed7b113035a9f8ecfeb?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, US | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
