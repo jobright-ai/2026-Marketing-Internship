@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elemica](http://www.elemica.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2800c1883c0d3be653f0a4?utm_campaign=1065&utm_source=git)** | NA_Remote_WA, US | Remote | Jun 09 |
+| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Intern: Fundraising Events](https://jobright.ai/jobs/info/6a2800962d6c332ee52e308c?utm_campaign=1065&utm_source=git)** | Philadelphia Campus- Roberts Center for Pediatric Research, US | On Site | Jun 09 |
 | **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a21d243c00e701fe8371105?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jun 09 |
 | **[Skild AI](https://www.skild.ai/)** | **[Social Media Intern](https://jobright.ai/jobs/info/699a1dc4ce78e77b4fdef72d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Jun 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0be4dba235d749afa892b8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida](http://www.usf.edu)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a26ebe7ca77fd3096d24282?utm_campaign=1065&utm_source=git)** | 4202 E Fowler Ave, Tampa, FL, 33620, US | On Site | Jun 08 |
 | **[Holly Poultry](https://www.hollypoultry.com)** | **[Marketing & Events Internship (47701)](https://jobright.ai/jobs/info/6a27299c4ec8d737d6dfe49a?utm_campaign=1065&utm_source=git)** | 2121 Wicomico Street - Baltimore, MD 21230 | On Site | Jun 08 |
 | **[Twin Cities PBS](http://www.tpt.org)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/6a2728f87d827633afff90b4?utm_campaign=1065&utm_source=git)** | St Paul, Minnesota, United States | Hybrid | Jun 08 |
-| **[Kirtland Credit Union](https://kirtlandcu.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a27281212f020234226303c?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Jun 08 |
 | **[Breck School](http://www.breckschool.org)** | **[Alumni Relations Intern](https://jobright.ai/jobs/info/6a27243130042e75390875d0?utm_campaign=1065&utm_source=git)** | Golden Valley, MN | On Site | Jun 08 |
 | **[Night](https://night.co/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69f2a7bf8d8d624381aa1fb3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 | **[Orthodox Union](https://www.ou.org)** | **[Social Media Intern, Summer 2026](https://jobright.ai/jobs/info/6a2721e212f0202342262cab?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Jun 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern, Chartwells Higher Ed / Juilliard School of American Ballet](https://jobright.ai/jobs/info/6a26f1dc2056260dd6e84195?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Jun 08 |
 | **[Empire Elite Marketing](https://empireelitemarketinginc.com)** | **[Entry Level Marketing Internship](https://jobright.ai/jobs/info/6a26f0c7ca77fd3096d244e9?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Jun 08 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a26eb647d827633afff75cc?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 08 |
-| **[ConfiDental](https://getconfidental.com/)** | **[Marketing Assistant](https://jobright.ai/jobs/info/6a26f298ca77fd3096d245f9?utm_campaign=1065&utm_source=git)** | Palatine, IL | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
