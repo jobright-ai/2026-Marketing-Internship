@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a21d243c00e701fe8371105?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jun 09 |
+| **[Skild AI](https://www.skild.ai/)** | **[Social Media Intern](https://jobright.ai/jobs/info/699a1dc4ce78e77b4fdef72d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Jun 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0be4dba235d749afa892b8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
 | ↳ | **[Product Marketing Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697d6fac727747250d585879?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jun 09 |
 | **[Bourns, Inc.](http://www.bourns.com/)** | **[Marcom Intern, Digital Marketing - Sr](https://jobright.ai/jobs/info/6a27ca8badd4b5278cb600c1?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Jun 09 |
@@ -69,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Operation Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a278a7a1dbd8437bebc6e92?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 08 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a278a13883c0d3be653db62?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 08 |
 | **[Net Conversion](http://www.net-conversion.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a2124764bdf8a5a96bd4c4d?utm_campaign=1065&utm_source=git)** | Orlando,FL,US | On Site | Jun 08 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Marketing & Communications Operations Intern](https://jobright.ai/jobs/info/6a2780c61e6c1163ef0f2f98?utm_campaign=1065&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 08 |
-| ↳ | **[Marketing & Communications Operations Intern](https://jobright.ai/jobs/info/6a2780c71e6c1163ef0f2f99?utm_campaign=1065&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 08 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Marketing & Communications Operations Intern](https://jobright.ai/jobs/info/6a2780c71e6c1163ef0f2f99?utm_campaign=1065&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 08 |
+| ↳ | **[Marketing & Communications Operations Intern](https://jobright.ai/jobs/info/6a2780c61e6c1163ef0f2f98?utm_campaign=1065&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Communications (8 Months)](https://jobright.ai/jobs/info/6a27a2ea7061b51a3a5f1e6b?utm_campaign=1065&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | **[Net Conversion](http://www.net-conversion.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a0e24c509ecfd704b3e66ce?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 08 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[External Communications & Public Relations Intern – Summer 2026](https://jobright.ai/jobs/info/6a277d0ac4af071f66136fac?utm_campaign=1065&utm_source=git)** | Morrisville, North Carolina | Hybrid | Jun 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empire Elite Marketing](https://empireelitemarketinginc.com)** | **[Entry Level Marketing Internship](https://jobright.ai/jobs/info/6a26f0c7ca77fd3096d244e9?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Jun 08 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a26eb647d827633afff75cc?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 08 |
 | **[ConfiDental](https://getconfidental.com/)** | **[Marketing Assistant](https://jobright.ai/jobs/info/6a26f298ca77fd3096d245f9?utm_campaign=1065&utm_source=git)** | Palatine, IL | On Site | Jun 08 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Annuity Marketing Data Intern](https://jobright.ai/jobs/info/6a26ba304ec8d737d6dfb927?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 08 |
-| **[Hollingsworth & Vose](https://www.hollingsworth-vose.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6a26e0552056260dd6e83b12?utm_campaign=1065&utm_source=git)** | East Walpole, MA | Hybrid | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
