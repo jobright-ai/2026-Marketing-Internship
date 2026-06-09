@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / New York University](https://jobright.ai/jobs/info/6a2862d01dbd8437bebcaccc?utm_campaign=1065&utm_source=git)** | 60 Washington Sq. SE, New York, NY, 10012, US | On Site | Jun 09 |
+| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Intern: Fundraising Events](https://jobright.ai/jobs/info/6a2800962d6c332ee52e308c?utm_campaign=1065&utm_source=git)** | Philadelphia Campus- Roberts Center for Pediatric Research, US | On Site | Jun 09 |
+| **[happyhopper](https://happyhopper.app)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a285cd540ac8e32932a0fd1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
+| **[BAZZAAL](https://bazzaal.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a285b7a883c0d3be65416d8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[AI-Powered Growth Marketing Intern](https://jobright.ai/jobs/info/6a285ac440ac8e32932a0f10?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e740ac8e32932a0e96?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e640ac8e32932a0e95?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
@@ -106,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Marketing Intern – September 2026 – 8 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6a28220a7061b51a3a5f386c?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | Jun 09 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Social Media Content Creator Internship](https://jobright.ai/jobs/info/6a2217ce4bdf8a5a96bda3c9?utm_campaign=1065&utm_source=git)** | Allen, TX | Remote | Jun 09 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[IT Communications Intern](https://jobright.ai/jobs/info/6a0b8b6f538d03366dc86917?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jun 09 |
-| **[Antora Energy](https://www.antoraenergy.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcf9b6b135014dbc98a7a?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jun 09 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcfae6b135014dbc98a91?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Hybrid | Jun 09 |
+| **[Antora Energy](https://www.antoraenergy.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcfae6b135014dbc98a91?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Hybrid | Jun 09 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcf9b6b135014dbc98a7a?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jun 09 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcfaf6b135014dbc98a93?utm_campaign=1065&utm_source=git)** | Onsite - San Jose, CA | Hybrid | Jun 09 |
 | **[Phoenix Contact USA](https://www.phoenixcontact.com/en-us/)** | **[Marketing Intern (EtherWAN)](https://jobright.ai/jobs/info/6a281f811dbd8437bebc8d81?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jun 09 |
 | **[TrueBridge Capital Partners](http://www.truebridgecapital.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a281eb72d6c332ee52e39c0?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC | Hybrid | Jun 09 |
@@ -117,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Wawner Strategies](http://www.wawnerstrategies.com)** | **[Intern](https://jobright.ai/jobs/info/6a281deb7061b51a3a5f3503?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Jun 09 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1349dc9fdbf21f36cb8ab6?utm_campaign=1065&utm_source=git)** | San Diego, United States - California | On Site | Jun 09 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Employer Brand Intern (September to December)](https://jobright.ai/jobs/info/6a281d81883c0d3be653f835?utm_campaign=1065&utm_source=git)** | Needham, MA, United States | On Site | Jun 09 |
-| **[Influence](https://www.owninfluence.com/)** | **[Marketing Fellowship Internship](https://jobright.ai/jobs/info/6a281c49883c0d3be653f79e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Grunley Construction Company, Inc.](http://grunley.com)** | **[Marketing Proposal Intern](https://jobright.ai/jobs/info/6a280eca1dbd8437bebc8721?utm_campaign=1065&utm_source=git)** | Rockville, MD 20850, USA | On Site | Jun 09 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[IT Communications Intern](https://jobright.ai/jobs/info/6a0b84bc4d93203636871db7?utm_campaign=1065&utm_source=git)** | AUSTIN, TX | On Site | Jun 09 |
 | **[Motion](https://www.motion.com)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/69d0b64c0b098b7a6707ccc7?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Jun 09 |
@@ -125,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Internship - Community Outreach & Communication](https://jobright.ai/jobs/info/6a280d70883c0d3be653f391?utm_campaign=1065&utm_source=git)** | Brown Mill, Concord, NC, US | On Site | Jun 09 |
 | **[Grainger](https://www.grainger.com)** | **[eCommerce Merchandising Search Intern - Fall 2026 Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6a280a06fd37e62bb47a6484?utm_campaign=1065&utm_source=git)** | GREEN BAY, WI, US, 54301-5160 | Hybrid | Jun 09 |
 | ↳ | **[eCommerce Onsite Search Intern - Fall 2026 Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6a280a057061b51a3a5f2ead?utm_campaign=1065&utm_source=git)** | GREEN BAY, WI, US, 54301-5160 | On Site | Jun 09 |
-| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Intern: Fundraising Events](https://jobright.ai/jobs/info/6a2800962d6c332ee52e308c?utm_campaign=1065&utm_source=git)** | Philadelphia Campus- Roberts Center for Pediatric Research, US | On Site | Jun 09 |
 | **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a21d243c00e701fe8371105?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jun 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2853501dbd8437bebca5b9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
 | **[Skild AI](https://www.skild.ai/)** | **[Social Media Intern](https://jobright.ai/jobs/info/699a1dc4ce78e77b4fdef72d?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Jun 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Purpose Financial](https://havepurpose.com/)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/6a283f6140ac8e32932a02db?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Jun 08 |
 | **[Haws®](http://hawsco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2749c84ec8d737d6dff142?utm_campaign=1065&utm_source=git)** | Sparks, NV 89431-6467, USA | On Site | Jun 08 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Outreach and Engagement Intern](https://jobright.ai/jobs/info/6a2709cb4ec8d737d6dfd728?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jun 08 |
-| **[The Dana on Mission Bay](http://www.thedana.com)** | **[Digital Marketing & Content Intern - Part Time](https://jobright.ai/jobs/info/6a2749332056260dd6e86743?utm_campaign=1065&utm_source=git)** | Bartell Hotels Corporate Offices, San Diego, CA, US | On Site | Jun 08 |
-| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/6a10d88c83d7144289828c45?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
