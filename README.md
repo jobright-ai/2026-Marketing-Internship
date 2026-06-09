@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nvak Collective](https://nvakcollective.xyz/)** | **[Fan Engagement Intern](https://jobright.ai/jobs/info/6a2757574ec8d737d6dff3a7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 08 |
+| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Public Relations - Summer Internship](https://jobright.ai/jobs/info/6a27559e2056260dd6e86969?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jun 08 |
 | **[Haws®](http://hawsco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2749c84ec8d737d6dff142?utm_campaign=1065&utm_source=git)** | Sparks, NV 89431-6467, USA | On Site | Jun 08 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Outreach and Engagement Intern](https://jobright.ai/jobs/info/6a2709cb4ec8d737d6dfd728?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jun 08 |
 | **[The Dana on Mission Bay](http://www.thedana.com)** | **[Digital Marketing & Content Intern - Part Time](https://jobright.ai/jobs/info/6a2749332056260dd6e86743?utm_campaign=1065&utm_source=git)** | Bartell Hotels Corporate Offices, San Diego, CA, US | On Site | Jun 08 |
 | **[Lincoln Savings Bank](https://mylsb.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6a27492e7d827633afff9f33?utm_campaign=1065&utm_source=git)** | TechWorks, Waterloo, IA, US | On Site | Jun 08 |
 | **[Sweety High Media](http://www.sweetyhigh.com)** | **[Summer 2026 Brand Partnerships and Talent Marketing](https://jobright.ai/jobs/info/6a2747832056260dd6e866ca?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Purpose Financial](https://havepurpose.com/)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/6a27475d4ec8d737d6dff092?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Jun 08 |
+| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/6a10d88c83d7144289828c45?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Jun 08 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Creative Copywriter Intern](https://jobright.ai/jobs/info/6a20f20cca8f0b365d7a42e3?utm_campaign=1065&utm_source=git)** | Sandy,UT,US | On Site | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, United Way Campaign Associate (4 Months)](https://jobright.ai/jobs/info/6a2745712056260dd6e865a3?utm_campaign=1065&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | Jun 08 |
 | **[TRG Management Company](https://trgmanagementcompany.com)** | **[Intern - TRGM](https://jobright.ai/jobs/info/6a2745482056260dd6e8658c?utm_campaign=1065&utm_source=git)** | Weston, Florida, United States | On Site | Jun 08 |
@@ -102,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / California State University - East Bay](https://jobright.ai/jobs/info/6a271767ca77fd3096d2555c?utm_campaign=1065&utm_source=git)** | Hayward, CA | On Site | Jun 08 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Content & Social Media Internship (Unpaid)](https://jobright.ai/jobs/info/6a271708ca77fd3096d25537?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Pareto Labs](https://www.trypareto.ai/)** | **[Go-to-Market Intern](https://jobright.ai/jobs/info/6a2716e6ca77fd3096d25528?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 08 |
-| **[American Battery Technology Company](https://americanbatterytechnology.com/)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/6a2716cb30042e7539086ffe?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Jun 08 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / California State University - East Bay](https://jobright.ai/jobs/info/6a27114f12f02023422625cf?utm_campaign=1065&utm_source=git)** | 25800 Carlos Bee Blvd, Hayward, CA, 94542, US | On Site | Jun 08 |
 | **[Oilgear](http://oilgear.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a27106712f0202342262578?utm_campaign=1065&utm_source=git)** | Fremont, NE, US | On Site | Jun 08 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Queens](https://jobright.ai/jobs/info/6a270f7312f02023422624fb?utm_campaign=1065&utm_source=git)** | Queens, NY, US | On Site | Jun 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hyatt](http://www.hyatt.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/69b634b23b74eb1e2c83ea72?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Jun 08 |
 | **[Crescendo International](https://crescendointernational.co/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a1d7e059111f771d1a18e52?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 08 |
 | **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6880cd7a29ad6b2744adc425?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 08 |
-| ↳ | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a0f2f7072b52f7225f3b7bd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 08 |
-| ↳ | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a21bf98338c0123051203cd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
