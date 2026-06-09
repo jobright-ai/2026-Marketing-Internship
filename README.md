@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0be4dba235d749afa892b8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
+| ↳ | **[Product Marketing Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697d6fac727747250d585879?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jun 09 |
 | **[Bourns, Inc.](http://www.bourns.com/)** | **[Marcom Intern, Digital Marketing - Sr](https://jobright.ai/jobs/info/6a27ca8badd4b5278cb600c1?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Jun 09 |
 | **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[Marketing & Development Paid Intern](https://jobright.ai/jobs/info/6a272c042056260dd6e85b1f?utm_campaign=1065&utm_source=git)** | Washington,DC,US | Hybrid | Jun 09 |
 | **[AuraPath AI](aurapathai.com)** | **[Events & Community Marketing Intern](https://jobright.ai/jobs/info/6a27a8167061b51a3a5f1f87?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Jun 08 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Net Conversion](http://www.net-conversion.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a0e24c509ecfd704b3e66ce?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 08 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[External Communications & Public Relations Intern – Summer 2026](https://jobright.ai/jobs/info/6a277d0ac4af071f66136fac?utm_campaign=1065&utm_source=git)** | Morrisville, North Carolina | Hybrid | Jun 08 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Orlando/Miami or NYC/Philly/Boston) Summer/Fall 2026](https://jobright.ai/jobs/info/6a277898c4af071f66136e10?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jun 08 |
-| **[Asha Leopard INC.](http://asha-leopard.com)** | **[Marketing Assistant](https://jobright.ai/jobs/info/6a276fa230042e7539088ec9?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jun 08 |
 | **[Lincoln Savings Bank](https://mylsb.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6a27492e7d827633afff9f33?utm_campaign=1065&utm_source=git)** | TechWorks, Waterloo, IA, US | On Site | Jun 08 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Queens](https://jobright.ai/jobs/info/6a276a9a4ec8d737d6dffa2f?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Jun 08 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6a2766114ec8d737d6dff8c1?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Jun 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ConfiDental](https://getconfidental.com/)** | **[Marketing Assistant](https://jobright.ai/jobs/info/6a26f298ca77fd3096d245f9?utm_campaign=1065&utm_source=git)** | Palatine, IL | On Site | Jun 08 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Annuity Marketing Data Intern](https://jobright.ai/jobs/info/6a26ba304ec8d737d6dfb927?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 08 |
 | **[Hollingsworth & Vose](https://www.hollingsworth-vose.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6a26e0552056260dd6e83b12?utm_campaign=1065&utm_source=git)** | East Walpole, MA | Hybrid | Jun 08 |
-| **[New York Cruise Lines, Inc.](http://www.nycl.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a26df8b30042e75390858a5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
