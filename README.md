@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 09 |
 | **[DMR Technologies](https://www.alsetai.com/)** | **[Social Media Coordinator](https://jobright.ai/jobs/info/6a28f4e340ac8e32932a4801?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Jun 09 |
 | **[The Mind Company](https://themindcompany.com)** | **[Video Marketing Design Intern](https://jobright.ai/jobs/info/6a28f1ddfd37e62bb47ac008?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Center for Human Services (CHS)](https://www.centerforhumanservices.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a28ec58fd37e62bb47abded?utm_campaign=1065&utm_source=git)** | Center for Human Services - Modesto, CA 95350 | On Site | Jun 09 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Evident Microscopy](https://www.evidentscientific.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a287d5bfd37e62bb47a986b?utm_campaign=1065&utm_source=git)** | Needham Heights, MA | On Site | Jun 09 |
 | **[Refresco](https://www.refresco.com)** | **[Intern - Commercial Strategy](https://jobright.ai/jobs/info/6a287be140ac8e32932a1ec4?utm_campaign=1065&utm_source=git)** | Tampa, Florida, United States | On Site | Jun 09 |
 | **[UPrep Seattle](http://www.universityprep.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a287bd140ac8e32932a1ebf?utm_campaign=1065&utm_source=git)** | University Prep - Seattle, WA 98115 | On Site | Jun 09 |
-| **[Equine Network](https://www.equinenetwork.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/6a287ac2883c0d3be6542591?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Sezzle](https://sezzle.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a285565883c0d3be6541368?utm_campaign=1065&utm_source=git)** | United States, Remote | Remote | Jun 09 |
 | **[Haag, a Salas O'Brien Company](https://haagglobal.com/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a28795e2d6c332ee52e64a2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[rbb Communications](https://rbbcommunications.com/)** | **[Fall 2026 Internship: Integrated Marketing](https://jobright.ai/jobs/info/6a287747883c0d3be6542415?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jun 09 |
