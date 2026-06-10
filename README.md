@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Combi Packaging Systems LLC](http://combi.com)** | **[Part Time Summer Digital Marketing Intern](https://jobright.ai/jobs/info/6a28c926883c0d3be65440c8?utm_campaign=1065&utm_source=git)** | North Canton, OH | On Site | Jun 09 |
+| **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a28c7762d6c332ee52e807f?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Jun 09 |
+| **[LXN Photography](http://LXNPhotography.com/)** | **[User Research Intern (Unpaid, Remote, Professional Development Opportunities Available)](https://jobright.ai/jobs/info/6a28c422fd37e62bb47ab00d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 09 |
+| **[Bourns, Inc.](http://www.bourns.com/)** | **[Marcom Intern, Digital Marketing - Sr Job Details / Bourns](https://jobright.ai/jobs/info/6a28c2f9fd37e62bb47aafcf?utm_campaign=1065&utm_source=git)** | Riverside, CA, US | On Site | Jun 09 |
+| **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e540ac8e32932a0e93?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
+| ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e640ac8e32932a0e95?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
+| **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a28bc7cfd37e62bb47aad46?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 09 |
 | **[PowerPlan, Inc.](http://powerplan.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a28b80a40ac8e32932a33f6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | Jun 09 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a28b7a9883c0d3be6543b6e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Nonprofit Marketing Internship](https://jobright.ai/jobs/info/6a28b7927061b51a3a5f77ad?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Jun 09 |
@@ -71,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Field Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2899ca883c0d3be65431c5?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | Hybrid | Jun 09 |
 | **[ADHD Online](https://adhdonline.com/)** | **[2026 PR Intern](https://jobright.ai/jobs/info/6a2896c27061b51a3a5f6cce?utm_campaign=1065&utm_source=git)** | Grandville, Michigan, United States | On Site | Jun 09 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Raising Readers Central Marketing Internship](https://jobright.ai/jobs/info/6a2895c81dbd8437bebcc2cb?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
-| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[B2B Marketing Intern](https://jobright.ai/jobs/info/6a28924840ac8e32932a2758?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a289244fd37e62bb47aa01a?utm_campaign=1065&utm_source=git)** | Monterey, CA | On Site | Jun 09 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Erborian Sales & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a2891cd2d6c332ee52e6ec2?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 09 |
 | **[Tulane University](https://brain.tulane.edu/)** | **[NTC Marketing and Communications Student Intern](https://jobright.ai/jobs/info/6a289000fd37e62bb47a9eb6?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Jun 09 |
@@ -107,8 +113,6 @@ For a complete list, click the following sortable link below:
 | **[BAZZAAL](https://bazzaal.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a285b7a883c0d3be65416d8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
 | **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e740ac8e32932a0e96?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e640ac8e32932a0e94?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jun 09 |
-| ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e640ac8e32932a0e95?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
-| ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e540ac8e32932a0e93?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Livestock Marketing Intern](https://jobright.ai/jobs/info/68cff1c6846f0b04af686481?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 09 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Raising Readers Central Marketing Internship](https://jobright.ai/jobs/info/6a285613883c0d3be65413d7?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Jun 09 |
 | **[Chi Forest](https://www.drinkgenki.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a2855fa40ac8e32932a0b8e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[Market Fundamentals Intern](https://jobright.ai/jobs/info/6a28222c40ac8e329329f2d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Marketing Strategy & Planning Intern – September 2026 – 8 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6a2822142d6c332ee52e3c4c?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | Jun 09 |
 | ↳ | **[Digital Marketing Intern – September 2026 – 8 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6a28220a7061b51a3a5f386c?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | Jun 09 |
-| **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Social Media Content Creator Internship](https://jobright.ai/jobs/info/6a2217ce4bdf8a5a96bda3c9?utm_campaign=1065&utm_source=git)** | Allen, TX | Remote | Jun 09 |
-| **[Texas Health and Human Services](http://hhs.texas.gov)** | **[IT Communications Intern](https://jobright.ai/jobs/info/6a0b8b6f538d03366dc86917?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jun 09 |
-| **[Antora Energy](https://www.antoraenergy.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcfae6b135014dbc98a91?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Hybrid | Jun 09 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcf9b6b135014dbc98a7a?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
