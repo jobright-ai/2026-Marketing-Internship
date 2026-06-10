@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 09 |
+| **[American Modern Insurance Group](https://www.amig.com/)** | **[Internship, Long-Term Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a291f0cfd37e62bb47acf1b?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
+| **[Ferrari](https://www.ferrari.com/)** | **[Fleet Marketing Internship (Englewood Cliffs, USA) Job Details / Ferrari](https://jobright.ai/jobs/info/6a291e8e7061b51a3a5f9b02?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, US | On Site | Jun 10 |
+| **[Trakstar, part of Mitratech](http://www.trakstar.com)** | **[ATL Marketing Team--Social Media Intern](https://jobright.ai/jobs/info/6a291deb1dbd8437bebcf070?utm_campaign=1065&utm_source=git)** | Duluth, Georgia, United States | Hybrid | Jun 10 |
+| **[PowerPlan, Inc.](http://powerplan.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a28b80a40ac8e32932a33f6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | Jun 10 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 09 |
 | **[DMR Technologies](https://www.alsetai.com/)** | **[Social Media Coordinator](https://jobright.ai/jobs/info/6a28f4e340ac8e32932a4801?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Jun 09 |
 | **[The Mind Company](https://themindcompany.com)** | **[Video Marketing Design Intern](https://jobright.ai/jobs/info/6a28f1ddfd37e62bb47ac008?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Center for Human Services (CHS)](https://www.centerforhumanservices.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a28ec58fd37e62bb47abded?utm_campaign=1065&utm_source=git)** | Center for Human Services - Modesto, CA 95350 | On Site | Jun 09 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e640ac8e32932a0e95?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e540ac8e32932a0e93?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
 | **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a28bc7cfd37e62bb47aad46?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 09 |
-| **[PowerPlan, Inc.](http://powerplan.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a28b80a40ac8e32932a33f6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | Jun 09 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a28b7a9883c0d3be6543b6e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Nonprofit Marketing Internship](https://jobright.ai/jobs/info/6a28b7927061b51a3a5f77ad?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Jun 09 |
 | **[DigiFinex Global](https://www.digifinex.com/)** | **[Marketing Intern-India Market-Unpaid](https://jobright.ai/jobs/info/6a28b767883c0d3be6543b61?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jun 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Publicity Intern, Fall 2026](https://jobright.ai/jobs/info/6a287f4e883c0d3be6542798?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
 | **[Acadium](http://www.acadium.com)** | **[Search Engine Optimization and Marketing Intern](https://jobright.ai/jobs/info/6a2828de2d6c332ee52e4005?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Wedgewood](https://www.wedgewood.com/)** | **[Marketing Intern - Animal Health](https://jobright.ai/jobs/info/6a28436ffd37e62bb47a7ed0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
-| **[Corient](https://corient.com)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0ba4c5538d03366dc878e9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
-| **[Ding Darling Wildlife Society](http://www.dingdarlingsociety.org/)** | **[Development and Communications Intern](https://jobright.ai/jobs/info/6a28237740ac8e329329f3a0?utm_campaign=1065&utm_source=git)** | Sanibel, FL | On Site | Jun 09 |
-| **[Etaily](https://etaily.com)** | **[Ecommerce Analyst Intern](https://jobright.ai/jobs/info/6a28234bfd37e62bb47a6ed2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
