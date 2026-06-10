@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DMR Technologies](https://www.alsetai.com/)** | **[Social Media Coordinator](https://jobright.ai/jobs/info/6a28f4e340ac8e32932a4801?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Jun 09 |
 | **[The Mind Company](https://themindcompany.com)** | **[Video Marketing Design Intern](https://jobright.ai/jobs/info/6a28f1ddfd37e62bb47ac008?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Center for Human Services (CHS)](https://www.centerforhumanservices.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a28ec58fd37e62bb47abded?utm_campaign=1065&utm_source=git)** | Center for Human Services - Modesto, CA 95350 | On Site | Jun 09 |
 | **[Geotab](http://www.geotab.com/)** | **[Events Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1e5997b61b2c65b37ab5a4?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corient](https://corient.com)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0ba4c5538d03366dc878e9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
 | **[Ding Darling Wildlife Society](http://www.dingdarlingsociety.org/)** | **[Development and Communications Intern](https://jobright.ai/jobs/info/6a28237740ac8e329329f3a0?utm_campaign=1065&utm_source=git)** | Sanibel, FL | On Site | Jun 09 |
 | **[Etaily](https://etaily.com)** | **[Ecommerce Analyst Intern](https://jobright.ai/jobs/info/6a28234bfd37e62bb47a6ed2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
-| **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[Market Fundamentals Intern](https://jobright.ai/jobs/info/6a28222c40ac8e329329f2d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
