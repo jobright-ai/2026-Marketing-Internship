@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenAIx](https://genaix.org)** | **[Marketing Intern B2B](https://jobright.ai/jobs/info/6a28a3c62d6c332ee52e75c9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
+| **[CardsIQ](www.cardsiq.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a28a1b0883c0d3be6543571?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[MAKE UP FOR EVER](http://www.makeupforever.com/us/en-us)** | **[Intern, PR & Influencer Relations](https://jobright.ai/jobs/info/6a289c5cfd37e62bb47aa39e?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 09 |
 | **[Zipline](https://www.zipline.com/)** | **[Field Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2899ca883c0d3be65431c5?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | Hybrid | Jun 09 |
 | **[ADHD Online](https://adhdonline.com/)** | **[2026 PR Intern](https://jobright.ai/jobs/info/6a2896c27061b51a3a5f6cce?utm_campaign=1065&utm_source=git)** | Grandville, Michigan, United States | On Site | Jun 09 |
@@ -65,9 +67,9 @@ For a complete list, click the following sortable link below:
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a289244fd37e62bb47aa01a?utm_campaign=1065&utm_source=git)** | Monterey, CA | On Site | Jun 09 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Erborian Sales & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a2891cd2d6c332ee52e6ec2?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 09 |
 | **[Tulane University](https://brain.tulane.edu/)** | **[NTC Marketing and Communications Student Intern](https://jobright.ai/jobs/info/6a289000fd37e62bb47a9eb6?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Jun 09 |
+| **[RED STAR OUTDOOR ADVERTISING](http://redstaroutdoor.com/)** | **[Intern-Sales/Marketing/Social Media-20-30 hours per week](https://jobright.ai/jobs/info/6a28a7c21dbd8437bebcc96b?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Jun 09 |
 | **[Corii Burns](https://www.coriiburns.com)** | **[Social Media /Brand Outreach Intern](https://jobright.ai/jobs/info/6a2889bf883c0d3be6542ab7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
 | **[CLUBWAKA](http://www.clubwaka.com)** | **[SOCIAL MEDIA & SPORTS MARKETING INTERN](https://jobright.ai/jobs/info/6a28894f883c0d3be6542aa1?utm_campaign=1065&utm_source=git)** | Hampton Roads, Virginia Metropolitan Area | Hybrid | Jun 09 |
-| **[DirectCare AI](www.directcareai.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a288876fd37e62bb47a9bdf?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Flourish By Sage](https://flourishbysage.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a288775fd37e62bb47a9bc4?utm_campaign=1065&utm_source=git)** | East Orange, NJ | Hybrid | Jun 09 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1349dc9fdbf21f36cb8ab6?utm_campaign=1065&utm_source=git)** | San Diego, United States - California | On Site | Jun 09 |
 | **[Grow Through Life Counseling](https://www.growthroughlifecounseling.com)** | **[Marketing & Communication Intern](https://jobright.ai/jobs/info/6a288606fd37e62bb47a9b72?utm_campaign=1065&utm_source=git)** | San Diego, California, US | On Site | Jun 09 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[BAZZAAL](https://bazzaal.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a285b7a883c0d3be65416d8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[AI-Powered Growth Marketing Intern](https://jobright.ai/jobs/info/6a285ac440ac8e32932a0f10?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e740ac8e32932a0e96?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jun 09 |
-| ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e640ac8e32932a0e94?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e640ac8e32932a0e95?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
+| ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e640ac8e32932a0e94?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e540ac8e32932a0e93?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Livestock Marketing Intern](https://jobright.ai/jobs/info/68cff1c6846f0b04af686481?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 09 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Raising Readers Central Marketing Internship](https://jobright.ai/jobs/info/6a285613883c0d3be65413d7?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Jun 09 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Marketing Intern – September 2026 – 8 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6a28220a7061b51a3a5f386c?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | Jun 09 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Social Media Content Creator Internship](https://jobright.ai/jobs/info/6a2217ce4bdf8a5a96bda3c9?utm_campaign=1065&utm_source=git)** | Allen, TX | Remote | Jun 09 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[IT Communications Intern](https://jobright.ai/jobs/info/6a0b8b6f538d03366dc86917?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jun 09 |
-| **[Antora Energy](https://www.antoraenergy.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcfae6b135014dbc98a91?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Hybrid | Jun 09 |
+| **[Antora Energy](https://www.antoraenergy.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a0b3bd622d0d34036c89ab5?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jun 09 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcfaf6b135014dbc98a93?utm_campaign=1065&utm_source=git)** | Onsite - San Jose, CA | Hybrid | Jun 09 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcf9b6b135014dbc98a7a?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jun 09 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a1dcfae6b135014dbc98a91?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Hybrid | Jun 09 |
 | **[Phoenix Contact USA](https://www.phoenixcontact.com/en-us/)** | **[Marketing Intern (EtherWAN)](https://jobright.ai/jobs/info/6a281f811dbd8437bebc8d81?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jun 09 |
 | **[TrueBridge Capital Partners](http://www.truebridgecapital.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a281eb72d6c332ee52e39c0?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC | Hybrid | Jun 09 |
 | **[Reach Records](https://www.reachrecords.com)** | **[Get MXD Marketing Internship – Summer 2026](https://jobright.ai/jobs/info/6a281e3940ac8e329329efcf?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jun 09 |
-| **[Formlabs](http://www.formlabs.com)** | **[Paid Advertising Intern (Fall 2026)](https://jobright.ai/jobs/info/6a281e302d6c332ee52e3957?utm_campaign=1065&utm_source=git)** | Somerville, MA | On Site | Jun 09 |
-| ↳ | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a281e302d6c332ee52e3956?utm_campaign=1065&utm_source=git)** | Somerville, MA | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
