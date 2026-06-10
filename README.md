@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a262a36dedf78312c7b142d?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 10 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6a29259e2d6c332ee52ea141?utm_campaign=1065&utm_source=git)** | East Los Angeles, CA | On Site | Jun 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Social Media Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a29242e883c0d3be65460ed?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
 | ↳ | **[Intern - Marketing Strategy Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a29215540ac8e32932a5755?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Ferrari](https://www.ferrari.com/)** | **[Fleet Marketing Internship (Englewood Cliffs, USA) Job Details / Ferrari](https://jobright.ai/jobs/info/6a291e8e7061b51a3a5f9b02?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, US | On Site | Jun 10 |
 | **[Trakstar, part of Mitratech](http://www.trakstar.com)** | **[ATL Marketing Team--Social Media Intern](https://jobright.ai/jobs/info/6a291deb1dbd8437bebcf070?utm_campaign=1065&utm_source=git)** | Duluth, Georgia, United States | Hybrid | Jun 10 |
 | **[PowerPlan, Inc.](http://powerplan.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a28b80a40ac8e32932a33f6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | Jun 10 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 09 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 09 |
 | **[DMR Technologies](https://www.alsetai.com/)** | **[Social Media Coordinator](https://jobright.ai/jobs/info/6a28f4e340ac8e32932a4801?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Jun 09 |
 | **[The Mind Company](https://themindcompany.com)** | **[Video Marketing Design Intern](https://jobright.ai/jobs/info/6a28f1ddfd37e62bb47ac008?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Center for Human Services (CHS)](https://www.centerforhumanservices.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a28ec58fd37e62bb47abded?utm_campaign=1065&utm_source=git)** | Center for Human Services - Modesto, CA 95350 | On Site | Jun 09 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a28c7762d6c332ee52e807f?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Jun 09 |
 | **[LXN Photography](http://LXNPhotography.com/)** | **[User Research Intern (Unpaid, Remote, Professional Development Opportunities Available)](https://jobright.ai/jobs/info/6a28c422fd37e62bb47ab00d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 09 |
 | **[Bourns, Inc.](http://www.bourns.com/)** | **[Marcom Intern, Digital Marketing - Sr Job Details / Bourns](https://jobright.ai/jobs/info/6a28c2f9fd37e62bb47aafcf?utm_campaign=1065&utm_source=git)** | Riverside, CA, US | On Site | Jun 09 |
-| **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e540ac8e32932a0e93?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
-| ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e640ac8e32932a0e95?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
+| **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e640ac8e32932a0e95?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
+| ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e540ac8e32932a0e93?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
 | **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a28bc7cfd37e62bb47aad46?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 09 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a28b7a9883c0d3be6543b6e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Nonprofit Marketing Internship](https://jobright.ai/jobs/info/6a28b7927061b51a3a5f77ad?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Jun 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Communications Intern - Fall Internship (Potentially Year Round)](https://jobright.ai/jobs/info/6a0b9463538d03366dc8711f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
 | **[Kirtland Credit Union](https://kirtlandcu.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a282e4e1dbd8437bebc9554?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Jun 09 |
 | **[Neon Postgres](https://neon.tech)** | **[Publicity Intern, Fall 2026](https://jobright.ai/jobs/info/6a282e27883c0d3be65401b4?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jun 09 |
-| ↳ | **[Publicity Intern, Fall 2026](https://jobright.ai/jobs/info/6a282e26883c0d3be65401b3?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
