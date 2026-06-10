@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Combi Packaging Systems LLC](http://combi.com)** | **[Part Time Summer Digital Marketing Intern](https://jobright.ai/jobs/info/6a28c926883c0d3be65440c8?utm_campaign=1065&utm_source=git)** | North Canton, OH | On Site | Jun 09 |
+| **[Albany Area Chamber of Commerce](https://albanychamber.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a28cd8f1dbd8437bebcd544?utm_campaign=1065&utm_source=git)** | Albany, OR | On Site | Jun 09 |
 | **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a28c7762d6c332ee52e807f?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Jun 09 |
 | **[LXN Photography](http://LXNPhotography.com/)** | **[User Research Intern (Unpaid, Remote, Professional Development Opportunities Available)](https://jobright.ai/jobs/info/6a28c422fd37e62bb47ab00d?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 09 |
 | **[Bourns, Inc.](http://www.bourns.com/)** | **[Marcom Intern, Digital Marketing - Sr Job Details / Bourns](https://jobright.ai/jobs/info/6a28c2f9fd37e62bb47aafcf?utm_campaign=1065&utm_source=git)** | Riverside, CA, US | On Site | Jun 09 |
-| **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e540ac8e32932a0e93?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
-| ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e640ac8e32932a0e95?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
+| **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e640ac8e32932a0e95?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
+| ↳ | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a2859e540ac8e32932a0e93?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
 | **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a28bc7cfd37e62bb47aad46?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 09 |
 | **[PowerPlan, Inc.](http://powerplan.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a28b80a40ac8e32932a33f6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | Hybrid | Jun 09 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a28b7a9883c0d3be6543b6e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
@@ -140,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Juno](https://joinjuno.com)** | **[Pre-MBA Growth Intern (Remote)](https://jobright.ai/jobs/info/6a283aa11dbd8437bebc9a80?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jun 09 |
 | **[Let's Roam](https://www.letsroam.com)** | **[Fully Remote Intern - AI SEO Growth Marketing](https://jobright.ai/jobs/info/6a2838ba883c0d3be654061d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Neon Postgres](https://neon.tech)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a2838057061b51a3a5f42f5?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jun 09 |
+| **[FUTURA SOUND](www.FuturaSound.com)** | **[Marketing & Public Relations Internship Opportunity at an International Music & Arts Company](https://jobright.ai/jobs/info/6a2836cb1dbd8437bebc98d1?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 09 |
 | **[Neon Logistics](https://www.neon-logistics.com)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a283208883c0d3be654037a?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jun 09 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Communications Intern - Fall Internship (Potentially Year Round)](https://jobright.ai/jobs/info/6a0b9463538d03366dc8711f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
 | **[Kirtland Credit Union](https://kirtlandcu.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a282e4e1dbd8437bebc9554?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Jun 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Etaily](https://etaily.com)** | **[Ecommerce Analyst Intern](https://jobright.ai/jobs/info/6a28234bfd37e62bb47a6ed2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[Market Fundamentals Intern](https://jobright.ai/jobs/info/6a28222c40ac8e329329f2d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Marketing Strategy & Planning Intern – September 2026 – 8 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6a2822142d6c332ee52e3c4c?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | Jun 09 |
-| ↳ | **[Digital Marketing Intern – September 2026 – 8 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6a28220a7061b51a3a5f386c?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
