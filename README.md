@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LXN Photography](http://LXNPhotography.com/)** | **[Marketing Strategist Intern / Unpaid (Professional Development, Portrait Headshots, Written Referral, Career Coaching)](https://jobright.ai/jobs/info/6a2e366df1751b183c81c21f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 13 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Community & Events Programme Intern (Northern Europe)](https://jobright.ai/jobs/info/6a2e284bf1751b183c81c08d?utm_campaign=1065&utm_source=git)** | NL-Hub | On Site | Jun 13 |
 | **[WOW Brand](http://wowpayments.com)** | **[Chinese Bilingual Intern – CAN START ASAP](https://jobright.ai/jobs/info/6a2df240f1751b183c81ba9b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 13 |
 | **[Jane Owen PR](https://janeowenpr.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a2de8d2d3ec94183f4c021d?utm_campaign=1065&utm_source=git)** | West Hartford, CT | Remote | Jun 13 |
@@ -111,9 +112,8 @@ For a complete list, click the following sortable link below:
 | **[1st Jackpot Casino Tunica](http://www.1stjackpot.com/)** | **[MARKETING REPRESENTATIVE INTERN - Seasonal](https://jobright.ai/jobs/info/6a2c583dd3ec94183f4bc71f?utm_campaign=1065&utm_source=git)** | Selma, TX, US | On Site | Jun 12 |
 | **[LuvMyJewelry (LMJ)](https://luvmyjewelry.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a2c5652fc0644749054968c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Social Media and Communications (Year-round)](https://jobright.ai/jobs/info/6a2c5602f1751b183c818006?utm_campaign=1065&utm_source=git)** | Melville, NY | On Site | Jun 12 |
-| **[New Hope Treatment Centers](https://www.newhopetreatment.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a2c5419fc064474905495f4?utm_campaign=1065&utm_source=git)** | New Hope C - Rock Hill, SC 29732 | On Site | Jun 12 |
-| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e32fc064474905484a0?utm_campaign=1065&utm_source=git)** | United States-California-Los Angeles | On Site | Jun 12 |
-| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e2dfc0644749054849a?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jun 12 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e2dfc0644749054849a?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jun 12 |
+| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e32fc064474905484a0?utm_campaign=1065&utm_source=git)** | United States-California-Los Angeles | On Site | Jun 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Finance & Spend Management Product Marketing - Communications Intern](https://jobright.ai/jobs/info/6a0f5ed69f654b3359ce522a?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Jun 12 |
 | **[Snap-on](http://www.snapon.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2c3c40c260bb1b8ae154d4?utm_campaign=1065&utm_source=git)** | Richfield, OH, US | On Site | Jun 12 |
 | **[Intercos America](https://www.linkedin.com/company/100347141)** | **[Strategic Marketing Intern](https://jobright.ai/jobs/info/6a2c7700fc0644749054a281?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Jun 12 |
