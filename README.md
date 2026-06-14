@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2ece6cf1751b183c81ca77?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 14 |
+| **[Emotiv Media Group](http://emotivmediagroup.com)** | **[Social Media + Video Promo Intern (Unpaid)](https://jobright.ai/jobs/info/6a2edef0f1751b183c81cbca?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Jun 14 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2edb3ffc0644749054e22d?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Jun 14 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2ece6cf1751b183c81ca77?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 14 |
 | **[Curvaceous Behavior](https://www.curvaceousbehavior.org/about)** | **[Fall 2026 Community Engagement, Marketing & Event Planning Internship](https://jobright.ai/jobs/info/6a2ec97fd3ec94183f4c1339?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Jun 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2eb5f2d3ec94183f4c11fb?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 14 |
 | **[Suger](https://www.suger.io)** | **[Marketing Intern (Full-time/Part-Time)](https://jobright.ai/jobs/info/6a2a18941de59e0682a82952?utm_campaign=1065&utm_source=git)** | Vancouver, BC | Hybrid | Jun 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Brand Representative Internship](https://jobright.ai/jobs/info/6a2ea9f1a1d15e3c552ffe87?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2ec620d3ec94183f4c1325?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a2ea988c260bb1b8ae1a7ce?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
-| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964e781706a5bd2171a1d?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
+| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964cadb88714bcdfbed0f?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
 | ↳ | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/69fc0fa83160b250eb1bbd78?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Short Video Strategy Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696998a3639b452fb57f8a13?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 14 |
 | ↳ | **[Creator Campaign Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2904dc1dbd8437bebce8d8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ComForCare](https://comforcare.com/)** | **[Summer Administrative & Marketing Intern](https://jobright.ai/jobs/info/6a2bfdebfc06447490547b9c?utm_campaign=1065&utm_source=git)** | Towson, MD, US | On Site | Jun 12 |
 | **[Child Development Centers](https://www.cdcenters.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a2be2b77cd40a338fae3f54?utm_campaign=1065&utm_source=git)** | Asbury, Erie, PA, US | On Site | Jun 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Sports Strategy and Operations Project Intern (TikTok-Operations-Sports Creators and Athletes) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a2bdff2d3ec94183f4ba88c?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Jun 12 |
-| **[Challenge Manufacturing](http://challenge-mfg.com)** | **[Marketing Creative Specialist Intern](https://jobright.ai/jobs/info/6a0f919683d714428982186c?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Jun 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa56bc2ebd316bece219c8?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
