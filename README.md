@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Marketing Tactics Creation and Implementation Internship](https://jobright.ai/jobs/info/6a2ff8a9524fd5657fe0e3df?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jun 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2ff69c43732c05812dfe0e?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Jun 15 |
+| **[On Trend Group](https://weareontrendgroup.com/)** | **[Events Intern](https://jobright.ai/jobs/info/6a2a67221de59e0682a845da?utm_campaign=1065&utm_source=git)** | Long Beach, CA | On Site | Jun 15 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship - Email Marketing](https://jobright.ai/jobs/info/6a2fe41a89f8f147d3732ae5?utm_campaign=1065&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 15 |
 | **[Maxis](http://www.maxis.com.my)** | **[Content Management Intern](https://jobright.ai/jobs/info/6a141119c2dca06fac4042e1?utm_campaign=1065&utm_source=git)** | Pinnacle, NC | On Site | Jun 15 |
 | **[REVO Music](https://revomusic.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2fe0f8093df201d07ae9f3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 15 |
@@ -89,10 +92,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Representative Internship](https://jobright.ai/jobs/info/6a2ea9f1a1d15e3c552ffe87?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2ec620d3ec94183f4c1325?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a2ea988c260bb1b8ae1a7ce?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
-| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/69fc0fa83160b250eb1bbd78?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 14 |
-| ↳ | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964e781706a5bd2171a1d?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
+| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964cadb88714bcdfbed0f?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
+| ↳ | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/69fc0fa83160b250eb1bbd78?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 14 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[Co-op Student: Communications Assistant Internship](https://jobright.ai/jobs/info/6a2e6991a1d15e3c552ffa1f?utm_campaign=1065&utm_source=git)** | Ontario-Toronto | Hybrid | Jun 14 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 13 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 13 |
 | **[LXN Photography](http://LXNPhotography.com/)** | **[Marketing Strategist Intern / Unpaid (Professional Development, Portrait Headshots, Written Referral, Career Coaching)](https://jobright.ai/jobs/info/6a2e366df1751b183c81c21f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 13 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Community & Events Programme Intern (Northern Europe)](https://jobright.ai/jobs/info/6a2e284bf1751b183c81c08d?utm_campaign=1065&utm_source=git)** | NL-Hub | On Site | Jun 13 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Data Analyst](https://jobright.ai/jobs/info/6a2f618f89f8f147d3731ad6?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jun 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Celonis](https://www.celonis.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6a2c4b907cd40a338fae5aff?utm_campaign=1065&utm_source=git)** | New York, US, New York | On Site | Jun 12 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Athletics Communications Post Grad Intern](https://jobright.ai/jobs/info/6a2c4a2ac260bb1b8ae159dd?utm_campaign=1065&utm_source=git)** | Manhattan, KS | On Site | Jun 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Marketing Events](https://jobright.ai/jobs/info/6a0f38009f654b3359ce3846?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Jun 12 |
-| **[Axis Communications](http://www.axis.com/)** | **[Marketing Intern, Canada](https://jobright.ai/jobs/info/6a2c4498f1751b183c817b13?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | On Site | Jun 12 |
-| **[Neshama Entertainment](https://www.neshamaent.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a2c43a0fc064474905490c1?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 12 |
-| **[Acenda Integrated Health](https://acendahealth.org/)** | **[Maternal Health Intern](https://jobright.ai/jobs/info/6a2c4096fc06447490548efe?utm_campaign=1065&utm_source=git)** | US NJ Glassboro 42 Delsea Drive South - Building A, US | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
