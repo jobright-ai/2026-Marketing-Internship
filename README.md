@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jupiter Publishing](https://www.linkedin.com/company/125644149)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a2f296ba1d15e3c553006e1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 14 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Swine Marketing Intern](https://jobright.ai/jobs/info/68c8fa44f9c6ff7aedf15829?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
 | **[Emotiv Media Group](http://emotivmediagroup.com)** | **[Social Media + Video Promo Intern (Unpaid)](https://jobright.ai/jobs/info/6a2edef0f1751b183c81cbca?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Jun 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2edb3ffc0644749054e22d?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Jun 14 |
@@ -69,7 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2ec620d3ec94183f4c1325?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a2ea988c260bb1b8ae1a7ce?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/69fc0fa83160b250eb1bbd78?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 14 |
-| ↳ | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964cadb88714bcdfbed0f?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
+| ↳ | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964e781706a5bd2171a1d?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Short Video Strategy Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696998a3639b452fb57f8a13?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 14 |
 | ↳ | **[Creator Campaign Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2904dc1dbd8437bebce8d8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 14 |
 | ↳ | **[Global Brand and Communications Project Intern (Brand and Creative) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a125be5218a81676725eff?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Axis Communications](http://www.axis.com/)** | **[Marketing Intern, Canada](https://jobright.ai/jobs/info/6a2c162cc260bb1b8ae1470b?utm_campaign=1065&utm_source=git)** | Canada - ON - Toronto, CA | On Site | Jun 12 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Communications Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8b8a3b74eb1e2c8a0502?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jun 12 |
 | ↳ | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8d0006c1ba00c54e1b7d?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jun 12 |
-| **[Ekimetrics](http://www.ekimetrics.com/)** | **[6 months Internship in Strategy & Data Science / New York](https://jobright.ai/jobs/info/692f32c64c474121999dcf8b?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
