@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insta360](http://www.insta360.com)** | **[Event Marketing Operations Intern](https://jobright.ai/jobs/info/6a2fb414b9f4dd0b4d51cd26?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 15 |
+| **[Railsware](http://railsware.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2fb2b5afabbe533fb87c6c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
+| **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a2916857061b51a3a5f9876?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jun 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9f8beace377055eb3275?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 14 |
 | ↳ | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2026 Summer  (MBA)](https://jobright.ai/jobs/info/6a2f9f4d89f8f147d37323a1?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 14 |
 | **[Kimbell Art Museum](https://www.kimbellart.org)** | **[PR/Marketing Internship, Part-Time](https://jobright.ai/jobs/info/6a2f9f39afabbe533fb87b69?utm_campaign=1065&utm_source=git)** | Fort Worth, TX 76107 | On Site | Jun 14 |
@@ -81,7 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Representative Internship](https://jobright.ai/jobs/info/6a2ea9f1a1d15e3c552ffe87?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2ec620d3ec94183f4c1325?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a2ea988c260bb1b8ae1a7ce?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
-| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964cadb88714bcdfbed0f?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
+| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964e781706a5bd2171a1d?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
 | ↳ | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/69fc0fa83160b250eb1bbd78?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 14 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[Co-op Student: Communications Assistant Internship](https://jobright.ai/jobs/info/6a2e6991a1d15e3c552ffa1f?utm_campaign=1065&utm_source=git)** | Ontario-Toronto | Hybrid | Jun 14 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plug and Play Tech Center](http://plugandplaytechcenter.com/insurance/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2bfdc8f1751b183c816461?utm_campaign=1065&utm_source=git)** | Sunnyvale, California, United States | On Site | Jun 12 |
 | **[Anywhere Real Estate Inc.](https://www.anywhere.re)** | **[Summer Intern, Communications - Madison, NJ/ NYC](https://jobright.ai/jobs/info/6a2c3b1ad3ec94183f4bbd5c?utm_campaign=1065&utm_source=git)** | 175 Park Ave, Madison, NJ, 07940, US | On Site | Jun 12 |
 | **[Visit Indy](https://www.visitindy.com/)** | **[Communications Intern - Fall 2026](https://jobright.ai/jobs/info/6a2c3979f1751b183c81764c?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jun 12 |
-| **[Compass International Holdings](https://www.linkedin.com/company/111655670)** | **[Summer Intern, Communications - Madison, NJ/ NYC](https://jobright.ai/jobs/info/6a2c2e2ed3ec94183f4bb87f?utm_campaign=1065&utm_source=git)** | Madison, NJ | On Site | Jun 12 |
-| ↳ | **[Summer Intern, Communications - Madison, NJ/ NYC](https://jobright.ai/jobs/info/6a2c2bced3ec94183f4bb7e0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 12 |
-| **[Suger](https://www.suger.io)** | **[Marketing Intern (Full-time/Part-Time)](https://jobright.ai/jobs/info/6a2c2bb47cd40a338fae4f46?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
