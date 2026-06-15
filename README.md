@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OMNI Breakthrough](https://www.linkedin.com/company/88884554)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a2fd549afabbe533fb8811c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a2fbf0843732c05812df70e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Social Media & Content Creation Intern, K-food & K-beauty](https://jobright.ai/jobs/info/6a2fba19afabbe533fb87dcf?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Jun 15 |
 | **[Insta360](http://www.insta360.com)** | **[Event Marketing Operations Intern](https://jobright.ai/jobs/info/6a2fb414b9f4dd0b4d51cd26?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 15 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Wella Company](https://www.wellacompany.com/)** | **[Marketing Intern, Prestige Care Job Details / Wella](https://jobright.ai/jobs/info/6a2f4ab8f1751b183c81d228?utm_campaign=1065&utm_source=git)** | CA, US | On Site | Jun 14 |
 | **[Chatter Buzz](https://www.chatterbuzzmedia.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a2f4aa2d3ec94183f4c1be1?utm_campaign=1065&utm_source=git)** | Orlando, Florida, United States | On Site | Jun 14 |
 | **[Mid-Ohio Food Collective](http://www.mofc.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a2f49e5a1d15e3c553008bf?utm_campaign=1065&utm_source=git)** | Grove City, OH | On Site | Jun 14 |
-| **[Twelve Saturdays](https://www.linkedin.com/company/108154565)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a2f4979a1d15e3c55300883?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 14 |
 | **[Favens](favens.ca)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a2f4975a1d15e3c55300841?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 14 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Swine Marketing Intern](https://jobright.ai/jobs/info/68c8fa44f9c6ff7aedf15829?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2edb3ffc0644749054e22d?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Jun 14 |
@@ -86,10 +86,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Representative Internship](https://jobright.ai/jobs/info/6a2ea9f1a1d15e3c552ffe87?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2ec620d3ec94183f4c1325?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a2ea988c260bb1b8ae1a7ce?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
-| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964e781706a5bd2171a1d?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
+| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964cadb88714bcdfbed0f?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
 | ↳ | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/69fc0fa83160b250eb1bbd78?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 14 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[Co-op Student: Communications Assistant Internship](https://jobright.ai/jobs/info/6a2e6991a1d15e3c552ffa1f?utm_campaign=1065&utm_source=git)** | Ontario-Toronto | Hybrid | Jun 14 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 13 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 13 |
 | **[LXN Photography](http://LXNPhotography.com/)** | **[Marketing Strategist Intern / Unpaid (Professional Development, Portrait Headshots, Written Referral, Career Coaching)](https://jobright.ai/jobs/info/6a2e366df1751b183c81c21f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 13 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Community & Events Programme Intern (Northern Europe)](https://jobright.ai/jobs/info/6a2e284bf1751b183c81c08d?utm_campaign=1065&utm_source=git)** | NL-Hub | On Site | Jun 13 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Data Analyst](https://jobright.ai/jobs/info/6a2f618f89f8f147d3731ad6?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jun 13 |
@@ -116,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Oliver Smith Jeweler](https://www.oliversmithjeweler.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a2cfd04f1751b183c81a462?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Jun 12 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a2cf125c260bb1b8ae180df?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Jun 12 |
 | **[Zipline](https://www.zipline.com/)** | **[Communications Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2ce66c7cd40a338fae7fe2?utm_campaign=1065&utm_source=git)** | South San Francisco, CA | On Site | Jun 12 |
-| **[WiCi Technologies, Inc.](https://wici.ai)** | **[Technology Brand Marketing Associate](https://jobright.ai/jobs/info/6a2cdf56d3ec94183f4be886?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Jun 12 |
+| **[WiCi AI](https://wici.ai/)** | **[Technology Brand Marketing Associate](https://jobright.ai/jobs/info/6a2cdf56d3ec94183f4be886?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Jun 12 |
 | **[Cadence](https://www.cadence.care/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a2cd684f1751b183c819f3f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 12 |
 | **[OfferUp](https://offerup.com)** | **[Marketing Intern, Social & Creative - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2ccd0cd3ec94183f4be668?utm_campaign=1065&utm_source=git)** | Bellevue, WA | Hybrid | Jun 12 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6a2cc42af1751b183c819d42?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
