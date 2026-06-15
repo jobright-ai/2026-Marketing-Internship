@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdvanSix](https://www.advansix.com/)** | **[Marketing Analyst - Intern](https://jobright.ai/jobs/info/6a3072cf89f8f147d3735911?utm_campaign=1065&utm_source=git)** | Parsippany, Parsippany-Troy Hills, NJ, USA | On Site | Jun 15 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Fan Engagement Intern - Fall 2026](https://jobright.ai/jobs/info/6a306ce543732c05812e2600?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jun 15 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3068f3093df201d07b1559?utm_campaign=1065&utm_source=git)** | Sandy,UT,US | On Site | Jun 15 |
 | **[Gaia, Inc.](https://www.gaia.com/)** | **[CRO Intern - Internship](https://jobright.ai/jobs/info/6a1812b03c1a380237ac0e07?utm_campaign=1065&utm_source=git)** | Louisville, CO | Hybrid | Jun 15 |
 | **[Breckenridge Outdoor Education Center](http://www.boec.org)** | **[Marketing & Events Internship](https://jobright.ai/jobs/info/6a306551093df201d07b13e0?utm_campaign=1065&utm_source=git)** | Breckenridge,CO,US | On Site | Jun 15 |
@@ -89,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Meet Minneapolis](http://www.minneapolis.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3036d843732c05812e12f6?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | On Site | Jun 15 |
 | **[Kafka Media Group](https://kafka.com)** | **[Public Relations Intern - Fall 2026](https://jobright.ai/jobs/info/6a303219eace377055eb4fe2?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jun 15 |
 | **[LCOR](http://lcor.com)** | **[Marketing Intern (Temp position July - November 2026) Chesterbrook, PA](https://jobright.ai/jobs/info/6a302e1deace377055eb4dd3?utm_campaign=1065&utm_source=git)** | Chesterbrook, Pennsylvania, United States | On Site | Jun 15 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Fan Engagement Intern - Fall 2026](https://jobright.ai/jobs/info/6a302c00524fd5657fe0f3c2?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jun 15 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Fan Engagement Intern - Fall 2026](https://jobright.ai/jobs/info/6a302a94093df201d07afc62?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jun 15 |
 | **[Central Virginia Electric Cooperative](https://www.mycvec.com/)** | **[Communication Intern (Seasonal)](https://jobright.ai/jobs/info/6a30255743732c05812e0bab?utm_campaign=1065&utm_source=git)** | Arrington, VA | On Site | Jun 15 |
 | **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Workplace Ambassador- Intern](https://jobright.ai/jobs/info/6a2ffc6d093df201d07aedcd?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 15 |
@@ -147,14 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Representative Internship](https://jobright.ai/jobs/info/6a2ea9f1a1d15e3c552ffe87?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2ec620d3ec94183f4c1325?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a2ea988c260bb1b8ae1a7ce?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
-| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/69fc0fa83160b250eb1bbd78?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 14 |
-| ↳ | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964cadb88714bcdfbed0f?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
+| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964e781706a5bd2171a1d?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
+| ↳ | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/69fc0fa83160b250eb1bbd78?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 14 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[Co-op Student: Communications Assistant Internship](https://jobright.ai/jobs/info/6a2e6991a1d15e3c552ffa1f?utm_campaign=1065&utm_source=git)** | Ontario-Toronto | Hybrid | Jun 14 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 13 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 13 |
 | **[LXN Photography](http://LXNPhotography.com/)** | **[Marketing Strategist Intern / Unpaid (Professional Development, Portrait Headshots, Written Referral, Career Coaching)](https://jobright.ai/jobs/info/6a2e366df1751b183c81c21f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 13 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Community & Events Programme Intern (Northern Europe)](https://jobright.ai/jobs/info/6a2e284bf1751b183c81c08d?utm_campaign=1065&utm_source=git)** | NL-Hub | On Site | Jun 13 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Data Analyst](https://jobright.ai/jobs/info/6a2f618f89f8f147d3731ad6?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jun 13 |
 | **[WOW Brand](http://wowpayments.com)** | **[Chinese Bilingual Intern – CAN START ASAP](https://jobright.ai/jobs/info/6a2df240f1751b183c81ba9b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 13 |
 | **[Rancher Hat Bar](www.rancherhatbar.com)** | **[Event Management Intern](https://jobright.ai/jobs/info/6a2ddb03a1d15e3c552fed6d?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Jun 13 |
-| ↳ | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a2dd923c260bb1b8ae196ff?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
