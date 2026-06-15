@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship - Email Marketing](https://jobright.ai/jobs/info/6a2fe41a89f8f147d3732ae5?utm_campaign=1065&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 15 |
+| **[Maxis](http://www.maxis.com.my)** | **[Content Management Intern](https://jobright.ai/jobs/info/6a141119c2dca06fac4042e1?utm_campaign=1065&utm_source=git)** | Pinnacle, NC | On Site | Jun 15 |
+| **[REVO Music](https://revomusic.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2fe0f8093df201d07ae9f3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 15 |
 | **[OMNI Breakthrough](https://www.linkedin.com/company/88884554)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a2fd549afabbe533fb8811c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a2fbf0843732c05812df70e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Social Media & Content Creation Intern, K-food & K-beauty](https://jobright.ai/jobs/info/6a2fba19afabbe533fb87dcf?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Jun 15 |
@@ -86,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Representative Internship](https://jobright.ai/jobs/info/6a2ea9f1a1d15e3c552ffe87?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2ec620d3ec94183f4c1325?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a2ea988c260bb1b8ae1a7ce?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
-| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964cadb88714bcdfbed0f?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
-| ↳ | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/69fc0fa83160b250eb1bbd78?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 14 |
+| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/69fc0fa83160b250eb1bbd78?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 14 |
+| ↳ | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964e781706a5bd2171a1d?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[Co-op Student: Communications Assistant Internship](https://jobright.ai/jobs/info/6a2e6991a1d15e3c552ffa1f?utm_campaign=1065&utm_source=git)** | Ontario-Toronto | Hybrid | Jun 14 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 13 |
 | **[LXN Photography](http://LXNPhotography.com/)** | **[Marketing Strategist Intern / Unpaid (Professional Development, Portrait Headshots, Written Referral, Career Coaching)](https://jobright.ai/jobs/info/6a2e366df1751b183c81c21f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 13 |
@@ -143,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[1st Jackpot Casino Tunica](http://www.1stjackpot.com/)** | **[MARKETING REPRESENTATIVE INTERN - Seasonal](https://jobright.ai/jobs/info/6a2c583dd3ec94183f4bc71f?utm_campaign=1065&utm_source=git)** | Selma, TX, US | On Site | Jun 12 |
 | **[LuvMyJewelry (LMJ)](https://luvmyjewelry.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a2c5652fc0644749054968c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Social Media and Communications (Year-round)](https://jobright.ai/jobs/info/6a2c5602f1751b183c818006?utm_campaign=1065&utm_source=git)** | Melville, NY | On Site | Jun 12 |
-| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e2dfc0644749054849a?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jun 12 |
-| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e32fc064474905484a0?utm_campaign=1065&utm_source=git)** | United States-California-Los Angeles | On Site | Jun 12 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e32fc064474905484a0?utm_campaign=1065&utm_source=git)** | United States-California-Los Angeles | On Site | Jun 12 |
+| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e2dfc0644749054849a?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jun 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Finance & Spend Management Product Marketing - Communications Intern](https://jobright.ai/jobs/info/6a0f5ed69f654b3359ce522a?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Jun 12 |
 | **[Snap-on](http://www.snapon.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2c3c40c260bb1b8ae154d4?utm_campaign=1065&utm_source=git)** | Richfield, OH, US | On Site | Jun 12 |
 | **[Intercos America](https://www.linkedin.com/company/100347141)** | **[Strategic Marketing Intern](https://jobright.ai/jobs/info/6a2c7700fc0644749054a281?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Jun 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Axis Communications](http://www.axis.com/)** | **[Marketing Intern, Canada](https://jobright.ai/jobs/info/6a2c4498f1751b183c817b13?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | On Site | Jun 12 |
 | **[Neshama Entertainment](https://www.neshamaent.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a2c43a0fc064474905490c1?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 12 |
 | **[Acenda Integrated Health](https://acendahealth.org/)** | **[Maternal Health Intern](https://jobright.ai/jobs/info/6a2c4096fc06447490548efe?utm_campaign=1065&utm_source=git)** | US NJ Glassboro 42 Delsea Drive South - Building A, US | On Site | Jun 12 |
-| **[Altera Digital Health](http://www.alterahealth.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a2c3eb0f1751b183c817805?utm_campaign=1065&utm_source=git)** | Arizona, United States, US | Remote | Jun 12 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a2c3b8af1751b183c8176f5?utm_campaign=1065&utm_source=git)** | Arizona, United States, US | Remote | Jun 12 |
-| **[Plug and Play Tech Center](http://plugandplaytechcenter.com/insurance/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2bfdc8f1751b183c816461?utm_campaign=1065&utm_source=git)** | Sunnyvale, California, United States | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
