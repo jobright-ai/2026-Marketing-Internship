@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSharpCorner](http://www.c-sharpcorner.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a30a13589f8f147d37365d6?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jun 15 |
+| **[nowfluence 🌐](https://nowfluence.co)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a309b1ceace377055eb7223?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 15 |
+| **[Flighthouse Media](https://www.flighthousemedia.com)** | **[Music Marketing Intern](https://jobright.ai/jobs/info/6a3099b643732c05812e32cd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 15 |
 | **[SANCTUM Aspen](www.sanctumaspen.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3096ed89f8f147d373639c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Orthofix](http://www.orthofix.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a30649b43732c05812e2303?utm_campaign=1065&utm_source=git)** | Lewisville, US | On Site | Jun 15 |
 | **[Flighthouse Media](https://www.flighthousemedia.com)** | **[Music Marketing Intern](https://jobright.ai/jobs/info/6a308ef0524fd5657fe1180c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 15 |
 | **[Food Innovations | Food Consultancy](http://www.innovatefood.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a30851689f8f147d3735fc7?utm_campaign=1065&utm_source=git)** | Huntington Beach, CA | Hybrid | Jun 15 |
+| **[AdvanSix](https://www.advansix.com/)** | **[Marketing Analyst - Intern](https://jobright.ai/jobs/info/6a3072cf89f8f147d3735911?utm_campaign=1065&utm_source=git)** | Parsippany, Parsippany-Troy Hills, NJ, USA | On Site | Jun 15 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-The Woodlands, TX or immediate surrounding area](https://jobright.ai/jobs/info/6a30800eeace377055eb6c4d?utm_campaign=1065&utm_source=git)** | Spring, TX | On Site | Jun 15 |
 | ↳ | **[Intern, Development & Community Events-Fayetteville, AR immediate surrounding area](https://jobright.ai/jobs/info/6a307ffe43732c05812e2cb8?utm_campaign=1065&utm_source=git)** | Fayetteville, AR | On Site | Jun 15 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3068f3093df201d07b1559?utm_campaign=1065&utm_source=git)** | Sandy,UT,US | On Site | Jun 15 |
@@ -68,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Qode Social](https://www.qodesocial.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a307be1093df201d07b1bbc?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jun 15 |
 | **[Innodata Inc.](http://www.innodata.com)** | **[Events & Community Growth Intern](https://jobright.ai/jobs/info/6a307865eace377055eb68fd?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jun 15 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Fan Engagement Intern - Fall 2026](https://jobright.ai/jobs/info/6a3077daafabbe533fb8b4bf?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jun 15 |
+| **[Aki Lashes](https://www.akilashes.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a309ecb093df201d07b23e6?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | Jun 15 |
 | **[Innodata Inc.](http://www.innodata.com)** | **[Events & Community Growth Intern](https://jobright.ai/jobs/info/6a307462093df201d07b183c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
-| **[AdvanSix](https://www.advansix.com/)** | **[Marketing Analyst - Intern](https://jobright.ai/jobs/info/6a3072cf89f8f147d3735911?utm_campaign=1065&utm_source=git)** | Parsippany, Parsippany-Troy Hills, NJ, USA | On Site | Jun 15 |
 | **[Highland Management Group, Inc](http://highlandapts.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a30137143732c05812e06c9?utm_campaign=1065&utm_source=git)** | Edina,MN,US | On Site | Jun 15 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Fan Engagement Intern - Fall 2026](https://jobright.ai/jobs/info/6a306ce543732c05812e2600?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jun 15 |
 | **[Gaia, Inc.](https://www.gaia.com/)** | **[CRO Intern - Internship](https://jobright.ai/jobs/info/6a1812b03c1a380237ac0e07?utm_campaign=1065&utm_source=git)** | Louisville, CO | Hybrid | Jun 15 |
@@ -84,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[InstaLILY AI](https://instalily.ai)** | **[GTM-Operations Intern, Events](https://jobright.ai/jobs/info/6a305c3743732c05812e1f00?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jun 15 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-The Woodlands, TX or immediate surrounding area](https://jobright.ai/jobs/info/6a305b6c524fd5657fe10616?utm_campaign=1065&utm_source=git)** | Spring, TX, US | On Site | Jun 15 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6a305a4e43732c05812e1e09?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Jun 15 |
+| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Summer PR Intern](https://jobright.ai/jobs/info/6a309eb3eace377055eb7310?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jun 15 |
 | **[AppleTree Institute for Education Innovation](http://www.appletreeinstitute.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3057de524fd5657fe104ee?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | Jun 15 |
 | **[Glow Recipe](http://www.glowrecipe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a30579c093df201d07b0d9c?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jun 15 |
 | **[Georgia Production Partnership (GPP)](https://www.georgiaproduction.org)** | **[Twin Cities PBS: Marketing & Communications Internship](https://jobright.ai/jobs/info/6a30542c43732c05812e1c4d?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Jun 15 |
@@ -93,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Fayetteville, AR immediate surrounding area](https://jobright.ai/jobs/info/6a304bf9524fd5657fe1019b?utm_campaign=1065&utm_source=git)** | Fayetteville, AR, US | On Site | Jun 15 |
 | **[Tabflows](https://www.tabflows.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a30479cafabbe533fb8a314?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 15 |
 | **[Riverside Health](http://www.riversideonline.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a3044d1524fd5657fe0fec4?utm_campaign=1065&utm_source=git)** | Denbigh, VA | On Site | Jun 15 |
-| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fe2eace377055eb433b?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, US | Hybrid | Jun 15 |
-| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Hybrid | Jun 15 |
+| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Hybrid | Jun 15 |
+| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fe2eace377055eb433b?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, US | Hybrid | Jun 15 |
 | **[V&A Group](https://vandagroup.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a304038afabbe533fb8a05c?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 15 |
 | **[Evans Management Group](https://www.evansmanagementgroup.com)** | **[Content Creator / Marketing Intern](https://jobright.ai/jobs/info/6a3010a243732c05812e0597?utm_campaign=1065&utm_source=git)** | North Charleston, SC 29418 | On Site | Jun 15 |
 | **[Logitech](https://www.logitech.com)** | **[Portfolio Intern - Personal Work Solutions](https://jobright.ai/jobs/info/6a303800524fd5657fe0fab5?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jun 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2eb5f2d3ec94183f4c11fb?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 14 |
 | **[Suger](https://www.suger.io)** | **[Marketing Intern (Full-time/Part-Time)](https://jobright.ai/jobs/info/6a2a18941de59e0682a82952?utm_campaign=1065&utm_source=git)** | Vancouver, BC | Hybrid | Jun 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2ee962fc0644749054e2fe?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
-| ↳ | **[Brand Representative Internship](https://jobright.ai/jobs/info/6a2ea9f1a1d15e3c552ffe87?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a2ec620d3ec94183f4c1325?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a2ea988c260bb1b8ae1a7ce?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 14 |
-| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship (WINTER 2025: Dec. - April)](https://jobright.ai/jobs/info/69f964e781706a5bd2171a1d?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jun 14 |
-| ↳ | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/69fc0fa83160b250eb1bbd78?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
