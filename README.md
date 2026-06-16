@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Evident Microscopy](https://www.evidentscientific.com)** | **[Brand Marketing Intern Job Details / Evident](https://jobright.ai/jobs/info/6a310ec1093df201d07b358e?utm_campaign=1065&utm_source=git)** | Needham, MA, US | On Site | Jun 16 |
+| **[NetEase Games](https://www.neteasegames.com)** | **[Social Media Content Marketing Intern](https://jobright.ai/jobs/info/6a31040e43732c05812e4386?utm_campaign=1065&utm_source=git)** | Canada-Remote | Remote | Jun 16 |
+| ↳ | **[Social Media Content Marketing Intern](https://jobright.ai/jobs/info/6a31040e43732c05812e4385?utm_campaign=1065&utm_source=git)** | United States-Remote | Remote | Jun 16 |
 | **[EARTH SYSTEMS](http://earthsystems.com)** | **[Marketing Intern (San Luis Obispo)](https://jobright.ai/jobs/info/6a3101f189f8f147d3737507?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Marketing Program Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30f62589f8f147d3737431?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Jun 16 |
 | **[PetVet Care Centers](http://www.petvetcarecenters.com/)** | **[Marketing Intern - Hagyard Equine Medical Institute](https://jobright.ai/jobs/info/6a30e7bd093df201d07b2fd9?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Jun 15 |
@@ -101,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Micro](https://trymicro.io/)** | **[Content Intern (Unpaid)](https://jobright.ai/jobs/info/6a3063d943732c05812e225e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Growth Marketing Creative Producer Intern](https://jobright.ai/jobs/info/6a305e1643732c05812e1fe2?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jun 15 |
 | ↳ | **[Growth Marketing Creative Producer Intern](https://jobright.ai/jobs/info/6a305e16093df201d07b1059?utm_campaign=1065&utm_source=git)** | Kirkland, WA | Hybrid | Jun 15 |
-| **[DEX Imaging](https://www.deximaging.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a305d5789f8f147d373507f?utm_campaign=1065&utm_source=git)** | St. Petersburg, Florida | On Site | Jun 15 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a305d5789f8f147d3735080?utm_campaign=1065&utm_source=git)** | Tampa, Florida | On Site | Jun 15 |
+| **[DEX Imaging](https://www.deximaging.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a305d5789f8f147d3735080?utm_campaign=1065&utm_source=git)** | Tampa, Florida | On Site | Jun 15 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a305d5789f8f147d373507f?utm_campaign=1065&utm_source=git)** | St. Petersburg, Florida | On Site | Jun 15 |
 | **[UW Credit Union](http://uwcu.org/)** | **[Social Media and Brand Marketing Intern](https://jobright.ai/jobs/info/6a303fa443732c05812e159c?utm_campaign=1065&utm_source=git)** | Madison, WI, US | On Site | Jun 15 |
 | **[InstaLILY AI](https://instalily.ai)** | **[GTM-Operations Intern, Events](https://jobright.ai/jobs/info/6a305c3743732c05812e1f00?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jun 15 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-The Woodlands, TX or immediate surrounding area](https://jobright.ai/jobs/info/6a305b6c524fd5657fe10616?utm_campaign=1065&utm_source=git)** | Spring, TX, US | On Site | Jun 15 |
@@ -117,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[White Management Restaurant Group](http://www.whiterestaurants.com)** | **[Capital Trail Alliance Intern - Marketing/Social Media](https://jobright.ai/jobs/info/6a304ca543732c05812e1a7d?utm_campaign=1065&utm_source=git)** | Albany, NY | Hybrid | Jun 15 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Fayetteville, AR immediate surrounding area](https://jobright.ai/jobs/info/6a304bf9524fd5657fe1019b?utm_campaign=1065&utm_source=git)** | Fayetteville, AR, US | On Site | Jun 15 |
 | **[Riverside Health](http://www.riversideonline.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a3044d1524fd5657fe0fec4?utm_campaign=1065&utm_source=git)** | Denbigh, VA | On Site | Jun 15 |
-| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fe2eace377055eb433b?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, US | Hybrid | Jun 15 |
-| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Hybrid | Jun 15 |
+| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Hybrid | Jun 15 |
+| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fe2eace377055eb433b?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, US | Hybrid | Jun 15 |
 | **[Evans Management Group](https://www.evansmanagementgroup.com)** | **[Content Creator / Marketing Intern](https://jobright.ai/jobs/info/6a3010a243732c05812e0597?utm_campaign=1065&utm_source=git)** | North Charleston, SC 29418 | On Site | Jun 15 |
 | **[Logitech](https://www.logitech.com)** | **[Portfolio Intern - Personal Work Solutions](https://jobright.ai/jobs/info/6a303800524fd5657fe0fab5?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jun 15 |
 | **[Meet Minneapolis](http://www.minneapolis.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3036d843732c05812e12f6?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | On Site | Jun 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Railsware](http://railsware.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2fb2b5afabbe533fb87c6c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
 | **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a2916857061b51a3a5f9876?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jun 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9f8beace377055eb3275?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 14 |
-| ↳ | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2026 Summer  (MBA)](https://jobright.ai/jobs/info/6a2f9f4d89f8f147d37323a1?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 14 |
-| **[Kimbell Art Museum](https://www.kimbellart.org)** | **[PR/Marketing Internship, Part-Time](https://jobright.ai/jobs/info/6a2f9f39afabbe533fb87b69?utm_campaign=1065&utm_source=git)** | Fort Worth, TX 76107 | On Site | Jun 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Campaign Operation Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9be7093df201d07ae27e?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
