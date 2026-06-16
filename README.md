@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tread Athletics](https://treadathletics.com/)** | **[Content Internship](https://jobright.ai/jobs/info/6a319f6d5958816970015d77?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jun 16 |
+| **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Merchandising Operations Intern](https://jobright.ai/jobs/info/6a319f1035e80310003a8424?utm_campaign=1065&utm_source=git)** | 1 Horizon Way, Deerfield, ILLINOIS | On Site | Jun 16 |
+| **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a319e000ff23769fdb1f2f3?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Jun 16 |
+| **[Rossen Law Firm](https://www.rossenlawfirm.com)** | **[Marketing & Content Creator Intern](https://jobright.ai/jobs/info/6a319e005958816970015ce9?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Jun 16 |
+| **[Ironside IT Partners](https://www.ironsideit.com)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6a319d982ee3ac1b4bef0095?utm_campaign=1065&utm_source=git)** | Blackwood, NJ | On Site | Jun 16 |
+| **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Influencer Marketing Internship / Summer/Fall 2026](https://jobright.ai/jobs/info/6a319b5e2ee3ac1b4beeff4c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 16 |
+| **[Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates](http://www.skadden.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3199d135e80310003a81a0?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jun 16 |
+| **[Fast Forward](https://www.fastforwardevents.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a319900e7b7d514a3bd4638?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jun 16 |
+| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Louisville, KY or the immediate surrounding area](https://jobright.ai/jobs/info/6a3198672ee3ac1b4beefdff?utm_campaign=1065&utm_source=git)** | Louisville, KY, US | Hybrid | Jun 16 |
+| **[Ayming](https://www.ayming.fr/)** | **[Marketing/Sales Intern (Summer Internship)](https://jobright.ai/jobs/info/6a15be89128680351d963d62?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 16 |
+| **[LIFT, Inc.](https://www.whywelift.org)** | **[Development & Communications Intern](https://jobright.ai/jobs/info/6a31911059588169700155c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 16 |
 | **[PKPR](https://pkpr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a318dc5c477a5075f48d90e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 16 |
 | **[Formula Marketing](https://www.formulamarketingsd.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6a3186e50ff23769fdb1e73f?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jun 16 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriter Internship](https://jobright.ai/jobs/info/6a318682e7b7d514a3bd3e18?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 16 |
@@ -78,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Evans Management Group](https://www.evansmanagementgroup.com)** | **[Content Creator / Marketing Intern](https://jobright.ai/jobs/info/6a3010a243732c05812e0597?utm_campaign=1065&utm_source=git)** | North Charleston, SC 29418 | On Site | Jun 16 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Influencer Marketing Internship / Fall 2026](https://jobright.ai/jobs/info/6a3186950ff23769fdb1e730?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Jun 16 |
 | **[Cincinnati Country Day School](https://www.countryday.net/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a316793595881697001472c?utm_campaign=1065&utm_source=git)** | Indian Hill, OH | Hybrid | Jun 16 |
-| **[LandedHQ](https://www.landedhq.dev/)** | **[Content & Marketing Intern](https://jobright.ai/jobs/info/6a3166cbe7b7d514a3bd33f6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 16 |
 | **[The IRONMAN Group](https://www.ironman.com/)** | **[PR Intern](https://jobright.ai/jobs/info/6a3164e035e80310003a6c28?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 16 |
 | **[Meet Minneapolis](http://www.minneapolis.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3036d843732c05812e12f6?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | On Site | Jun 16 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Brand Marketing Intern](https://jobright.ai/jobs/info/6a2a535f0c4972328e7e84c3?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Jun 16 |
@@ -111,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[adaption](https://www.adaptionlabs.ai/)** | **[Growth Intern (6 Month Contract)](https://jobright.ai/jobs/info/6a30dc5289f8f147d373715e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jun 15 |
 | ↳ | **[Growth Intern (6 Month Contract)](https://jobright.ai/jobs/info/6a30d8e1093df201d07b2e3d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Joint Commission](http://www.jointcommission.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a30d7ab093df201d07b2dfc?utm_campaign=1065&utm_source=git)** | Oak Brook, IL, US | Hybrid | Jun 15 |
-| **[Monigle](https://www.monigle.com)** | **[Intern, Brand Strategy](https://jobright.ai/jobs/info/6a30d17aafabbe533fb8c795?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 15 |
-| ↳ | **[Intern, Brand Strategy](https://jobright.ai/jobs/info/6a30d17aafabbe533fb8c796?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jun 15 |
+| **[Monigle](https://www.monigle.com)** | **[Intern, Brand Strategy](https://jobright.ai/jobs/info/6a30d17aafabbe533fb8c796?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jun 15 |
+| ↳ | **[Intern, Brand Strategy](https://jobright.ai/jobs/info/6a30d17aafabbe533fb8c795?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 15 |
 | ↳ | **[Intern, Brand Strategy](https://jobright.ai/jobs/info/6a30d166afabbe533fb8c78a?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jun 15 |
 | **[1-800 Contacts](http://www.1800contacts.com)** | **[Ecommerce Merchandising & Marketing Intern](https://jobright.ai/jobs/info/6a30cdcc89f8f147d3736dc9?utm_campaign=1065&utm_source=git)** | Draper, UT (Hybrid) | Hybrid | Jun 15 |
 | **[adaption](https://www.adaptionlabs.ai/)** | **[Growth Intern (6 Month Contract)](https://jobright.ai/jobs/info/6a30c58289f8f147d3736c43?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 15 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gaia, Inc.](https://www.gaia.com/)** | **[CRO Intern - Internship](https://jobright.ai/jobs/info/6a1812b03c1a380237ac0e07?utm_campaign=1065&utm_source=git)** | Louisville, CO | Hybrid | Jun 15 |
 | **[Breckenridge Outdoor Education Center](http://www.boec.org)** | **[Marketing & Events Internship](https://jobright.ai/jobs/info/6a306551093df201d07b13e0?utm_campaign=1065&utm_source=git)** | Breckenridge,CO,US | On Site | Jun 15 |
 | **[Micro](https://trymicro.io/)** | **[Content Intern (Unpaid)](https://jobright.ai/jobs/info/6a3063d943732c05812e225e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[Growth Marketing Creative Producer Intern](https://jobright.ai/jobs/info/6a305e1643732c05812e1fe2?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jun 15 |
-| ↳ | **[Growth Marketing Creative Producer Intern](https://jobright.ai/jobs/info/6a305e16093df201d07b1059?utm_campaign=1065&utm_source=git)** | Kirkland, WA | Hybrid | Jun 15 |
-| **[UW Credit Union](http://uwcu.org/)** | **[Social Media and Brand Marketing Intern](https://jobright.ai/jobs/info/6a303fa443732c05812e159c?utm_campaign=1065&utm_source=git)** | Madison, WI, US | On Site | Jun 15 |
-| **[InstaLILY AI](https://instalily.ai)** | **[GTM-Operations Intern, Events](https://jobright.ai/jobs/info/6a305c3743732c05812e1f00?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jun 15 |
-| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-The Woodlands, TX or immediate surrounding area](https://jobright.ai/jobs/info/6a305b6c524fd5657fe10616?utm_campaign=1065&utm_source=git)** | Spring, TX, US | On Site | Jun 15 |
-| **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6a305a4e43732c05812e1e09?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Jun 15 |
-| **[AppleTree Institute for Education Innovation](http://www.appletreeinstitute.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3057de524fd5657fe104ee?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | Jun 15 |
-| **[Glow Recipe](http://www.glowrecipe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a30579c093df201d07b0d9c?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jun 15 |
-| **[Georgia Production Partnership (GPP)](https://www.georgiaproduction.org)** | **[Twin Cities PBS: Marketing & Communications Internship](https://jobright.ai/jobs/info/6a30542c43732c05812e1c4d?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Jun 15 |
-| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-San Antonio, TX](https://jobright.ai/jobs/info/6a3053de093df201d07b0c31?utm_campaign=1065&utm_source=git)** | San Antonio, TX, US | On Site | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
