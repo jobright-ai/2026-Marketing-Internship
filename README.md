@@ -57,21 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[LeyLine](https://leylinepro.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a31e54fe7b7d514a3bd61af?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 16 |
+| **[WD Partners](https://www.wdpartners.com)** | **[Brand Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3202dac477a5075f49036c?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Remote | Jun 16 |
+| ↳ | **[Brand Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3202d6c477a5075f490369?utm_campaign=1065&utm_source=git)** | Columbus, Ohio | Remote | Jun 16 |
+| **[LeyLine](https://leylinepro.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3201e3e7b7d514a3bd6992?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 16 |
+| **[Cyprus Federal Credit Union](https://www.cypruscu.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a31fe08c477a5075f49027f?utm_campaign=1065&utm_source=git)** | West Jordan, UT | On Site | Jun 16 |
 | **[0xKnowledge](https://0xknowledge.io)** | **[GTM Intern](https://jobright.ai/jobs/info/6a31df755958816970017556?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 16 |
 | **[Florida Gulf Coast University](http://www.fgcu.edu/)** | **[Digital Communication & Outreach Student Intern](https://jobright.ai/jobs/info/6a31deb835e80310003a9d23?utm_campaign=1065&utm_source=git)** | Main Campus, US | On Site | Jun 16 |
 | **[Culangex](https://www.culangex.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a31de1b0ff23769fdb20dba?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 16 |
 | **[Lomography](http://www.lomography.com)** | **[Sales & Marketing Intern - College Credit](https://jobright.ai/jobs/info/6a31d7e70ff23769fdb20cb9?utm_campaign=1065&utm_source=git)** | Brooklyn, US | On Site | Jun 16 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Louisville, KY or the immediate surrounding area](https://jobright.ai/jobs/info/6a31d1a3c477a5075f48f6e7?utm_campaign=1065&utm_source=git)** | Louisville, KY | Hybrid | Jun 16 |
 | ↳ | **[Intern, Development & Community Events-Dayton, OH, or the immediate surrounding](https://jobright.ai/jobs/info/6a31d19c2ee3ac1b4bef152f?utm_campaign=1065&utm_source=git)** | Dayton, OH | Hybrid | Jun 16 |
+| **[The Unusual Suspects Theatre Company](https://www.theunusualsuspects.org)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6a31fb21e7b7d514a3bd68a8?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Jun 16 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/6a31cfce0ff23769fdb209e5?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Jun 16 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a31cfb7e7b7d514a3bd5c4f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 16 |
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a31cfb62ee3ac1b4bef1499?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 16 |
 | **[IUCN World Commission on Environmental Law](https://www.iucn.org/commissions/world-commission-environmental-law)** | **[Communications Intern (IUCN US Fund)](https://jobright.ai/jobs/info/6a31cfa859588169700170e4?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jun 16 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Travel Product Content & AI Copywriting](https://jobright.ai/jobs/info/6a31c8fa5958816970016e59?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 16 |
-| **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/6a31a2780ff23769fdb1f4aa?utm_campaign=1065&utm_source=git)** | New York City, New York, United States | On Site | Jun 16 |
+| **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Workplace Ambassador- Intern](https://jobright.ai/jobs/info/6a2ffc6d093df201d07aedcd?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
+| ↳ | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/6a31a2780ff23769fdb1f4aa?utm_campaign=1065&utm_source=git)** | New York City, New York, United States | On Site | Jun 16 |
 | ↳ | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/6a31a2790ff23769fdb1f4ab?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
-| ↳ | **[Workplace Ambassador- Intern](https://jobright.ai/jobs/info/6a2ffc6d093df201d07aedcd?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
 | **[Enveda](https://enveda.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a31c8292ee3ac1b4bef1188?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jun 16 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern) @ The Bookie WSU Pullman](https://jobright.ai/jobs/info/6a31c76a35e80310003a9540?utm_campaign=1065&utm_source=git)** | PULLMAN, WA, US | On Site | Jun 16 |
 | **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a31c632e7b7d514a3bd58b1?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jun 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PetVet Care Centers](http://www.petvetcarecenters.com/)** | **[Marketing Intern - Hagyard Equine Medical Institute](https://jobright.ai/jobs/info/6a30e7bd093df201d07b2fd9?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Jun 15 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Marketing Intern](https://jobright.ai/jobs/info/6a30e072524fd5657fe127b2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 15 |
 | **[adaption](https://www.adaptionlabs.ai/)** | **[Growth Intern (6 Month Contract)](https://jobright.ai/jobs/info/6a30dc5289f8f147d373715e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jun 15 |
-| ↳ | **[Growth Intern (6 Month Contract)](https://jobright.ai/jobs/info/6a30d8e1093df201d07b2e3d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
-| **[Joint Commission](http://www.jointcommission.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a30d7ab093df201d07b2dfc?utm_campaign=1065&utm_source=git)** | Oak Brook, IL, US | Hybrid | Jun 15 |
-| **[Monigle](https://www.monigle.com)** | **[Intern, Brand Strategy](https://jobright.ai/jobs/info/6a30d17aafabbe533fb8c795?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 15 |
-| ↳ | **[Intern, Brand Strategy](https://jobright.ai/jobs/info/6a30d17aafabbe533fb8c796?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
