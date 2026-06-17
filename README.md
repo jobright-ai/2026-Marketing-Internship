@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Fall 2026 Business Survey Intern](https://jobright.ai/jobs/info/6a32ab8a29c90c607e4d7666?utm_campaign=1065&utm_source=git)** | Richmond, VA, US | On Site | Jun 17 |
+| **[Conzia](https://conzia.com/)** | **[Internship in Marketing](https://jobright.ai/jobs/info/6a32ab717f3fdd180d4c2c28?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 17 |
+| **[Retrofête](https://retrofete.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a32aaf8ce501060b5ce9a3f?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jun 17 |
+| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Fall 2026 Business Survey Intern](https://jobright.ai/jobs/info/6a32a91929c90c607e4d7558?utm_campaign=1065&utm_source=git)** | Richmond, VA, US | On Site | Jun 17 |
+| **[Notionyx](www.notionyx.com)** | **[Marketing Assistant - B2B](https://jobright.ai/jobs/info/6a32a814ce501060b5ce997f?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 17 |
+| **[Iowa Renewable Fuels Association](https://iowarfa.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32a7abce501060b5ce9973?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | On Site | Jun 17 |
+| **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a73129c90c607e4d7501?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jun 17 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72d7f3fdd180d4c2aaf?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jun 17 |
+| **[The Mosaic Group](https://www.mosaicgroup.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32a0b97f3fdd180d4c2971?utm_campaign=1065&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Jun 17 |
+| **[Lenovo](https://www.lenovo.com/in/en)** | **[Marketing Intern – Client Experience (World Cup Support)](https://jobright.ai/jobs/info/6a32a054910b734910710d5a?utm_campaign=1065&utm_source=git)** | Morrisville, North Carolina | Hybrid | Jun 17 |
+| **[The State University of New York](https://www.suny.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a329e8d649fdf16292eddd1?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Jun 17 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a328b5cf6b55d12c7914842?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 17 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a328b55f6b55d12c7914841?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 17 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a328a05f6b55d12c79147ee?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Jun 17 |
@@ -76,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[SEO Intern](https://jobright.ai/jobs/info/6a31bcbe35e80310003a91d6?utm_campaign=1065&utm_source=git)** | KS-Lenexa-Uniform, US | On Site | Jun 16 |
 | **[Pareto Labs](https://www.trypareto.ai/)** | **[Go-to-Market Intern](https://jobright.ai/jobs/info/6a320c4035e80310003aa8ff?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 16 |
 | **[STRAWBERRY PARIS](www.strawberryparis.com)** | **[INTERNSHIP - Content Creation Specialist (Women's Luxury Fashion)](https://jobright.ai/jobs/info/6a3204fcc477a5075f4903bc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 16 |
-| **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern (On-site Overland Park, KS)](https://jobright.ai/jobs/info/6a322081e7b7d514a3bd7014?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[WD Partners](https://www.wdpartners.com)** | **[Brand Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3202dac477a5075f49036c?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Remote | Jun 16 |
 | ↳ | **[Brand Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3202d6c477a5075f490369?utm_campaign=1065&utm_source=git)** | Columbus, Ohio | Remote | Jun 16 |
 | **[LeyLine](https://leylinepro.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3201e3e7b7d514a3bd6992?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 16 |
@@ -92,9 +102,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a31cfb62ee3ac1b4bef1499?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 16 |
 | **[IUCN World Commission on Environmental Law](https://www.iucn.org/commissions/world-commission-environmental-law)** | **[Communications Intern (IUCN US Fund)](https://jobright.ai/jobs/info/6a31cfa859588169700170e4?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jun 16 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Travel Product Content & AI Copywriting](https://jobright.ai/jobs/info/6a31c8fa5958816970016e59?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 16 |
-| **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Workplace Ambassador- Intern](https://jobright.ai/jobs/info/6a2ffc6d093df201d07aedcd?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
-| ↳ | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/6a31a2790ff23769fdb1f4ab?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
+| **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/6a31a2790ff23769fdb1f4ab?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
 | ↳ | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/6a31a2780ff23769fdb1f4aa?utm_campaign=1065&utm_source=git)** | New York City, New York, United States | On Site | Jun 16 |
+| ↳ | **[Workplace Ambassador- Intern](https://jobright.ai/jobs/info/6a2ffc6d093df201d07aedcd?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
 | **[Enveda](https://enveda.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a31c8292ee3ac1b4bef1188?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jun 16 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern) @ The Bookie WSU Pullman](https://jobright.ai/jobs/info/6a31c76a35e80310003a9540?utm_campaign=1065&utm_source=git)** | PULLMAN, WA, US | On Site | Jun 16 |
 | **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a31c632e7b7d514a3bd58b1?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jun 16 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Greater Phoenix area](https://jobright.ai/jobs/info/6a3162dfe7b7d514a3bd32cc?utm_campaign=1065&utm_source=git)** | Tempe, AZ, US | On Site | Jun 16 |
 | **[Kedrion Biopharma](https://www.kedrion.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6a315fccc477a5075f48c9eb?utm_campaign=1065&utm_source=git)** | Fort Lee, NJ | Hybrid | Jun 16 |
 | **[MSI Defense Solutions](https://www.msidefense.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a315d7be7b7d514a3bd3108?utm_campaign=1065&utm_source=git)** | Mooresville, NC | On Site | Jun 16 |
-| **[Acadium](http://www.acadium.com)** | **[Video Marketing & Lead Generation Intern](https://jobright.ai/jobs/info/6a3158752ee3ac1b4beee310?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 16 |
-| **[Synchrony](https://www.synchrony.com/)** | **[BLP Intern - Marketing](https://jobright.ai/jobs/info/6a314aea0ff23769fdb1d406?utm_campaign=1065&utm_source=git)** | Stamford Hub, US | Hybrid | Jun 16 |
-| **[Phantom Brands](www.phantomchef.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a31738b5958816970014a30?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 16 |
-| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern LI - HR Marketing Intern](https://jobright.ai/jobs/info/69faf748e1560008411556e2?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jun 16 |
-| **[NEON](http://neon-nyc.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6a313ad3e7b7d514a3bd2135?utm_campaign=1065&utm_source=git)** | NY NY 100 W 33rd | Hybrid | Jun 16 |
-| ↳ | **[Copy Intern](https://jobright.ai/jobs/info/6a313a8d5958816970013384?utm_campaign=1065&utm_source=git)** | NY NY 100 W 33rd | Hybrid | Jun 16 |
-| ↳ | **[Brand Strategy Intern](https://jobright.ai/jobs/info/6a313a87e7b7d514a3bd20fd?utm_campaign=1065&utm_source=git)** | NY NY 100 W 33rd | Hybrid | Jun 16 |
-| **[RIVUS Consulting LLC](https://rivus.us)** | **[Part-time Proposal Writer - Intern](https://jobright.ai/jobs/info/6a30808eeace377055eb6c77?utm_campaign=1065&utm_source=git)** | MD-Lanham-20706 Fully Remote - US | Remote | Jun 16 |
-| **[BPM-PR Firm](http://bpm-prfirm.com/)** | **[Part Time Public Relations Intern](https://jobright.ai/jobs/info/6970dfb7587dfa0bb55e6f62?utm_campaign=1065&utm_source=git)** | New York , NY 10020 | Hybrid | Jun 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a30d54543732c05812e3e07?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
