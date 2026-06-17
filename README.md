@@ -57,22 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Financial Bank Texas](https://ffin.com)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/6a3300b429c90c607e4d9a8b?utm_campaign=1065&utm_source=git)** | Abilene Main, US | On Site | Jun 17 |
+| **[Samantha Siu New York](https://www.samanthasiu.com)** | **[Media Communication Management Intern](https://jobright.ai/jobs/info/6a3314b4f6b55d12c7917a96?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jun 17 |
+| **[The Powder Room Studio LA](https://www.thepowderroomstudiola.com/)** | **[Social Media Marketing Intern (Part Time)](https://jobright.ai/jobs/info/6a331197f6b55d12c79179cd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Marketing Intern - South Lake Tahoe](https://jobright.ai/jobs/info/6a3308cace501060b5cebf46?utm_campaign=1065&utm_source=git)** | South Lake Tahoe, CA | On Site | Jun 17 |
 | **[Vene Health](https://venehealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3307f8f6b55d12c79176be?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 17 |
 | **[Coty](https://www.coty.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3307de7f3fdd180d4c532a?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 17 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Marketing Intern, Chartwells Higher Ed / Northeastern University](https://jobright.ai/jobs/info/6a33075ff6b55d12c791766e?utm_campaign=1065&utm_source=git)** | Boston, MA, US | On Site | Jun 17 |
-| **[BLUE JEANS PUBLIC RELATIONS](bluejeanspublicrelations.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3304467f3fdd180d4c50d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 17 |
 | **[BlueCross BlueShield of Tennessee](http://www.bcbst.com)** | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0531?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Jun 17 |
 | ↳ | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0532?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | Hybrid | Jun 17 |
+| **[BLUE JEANS PUBLIC RELATIONS](bluejeanspublicrelations.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3304467f3fdd180d4c50d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Crosstown Concourse](https://crosstownconcourse.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6a330311649fdf16292f0517?utm_campaign=1065&utm_source=git)** | Memphis Metro | On Site | Jun 17 |
 | **[11:11 Media](http://www.parishilton.com)** | **[11:11 Social Media Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a33030d910b734910713602?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jun 17 |
 | **[IFF](http://iff.com)** | **[Intern - Marketing & Digital Experience](https://jobright.ai/jobs/info/6a32cd7129c90c607e4d81f2?utm_campaign=1065&utm_source=git)** | Citrus Innovation Ctr FL USA, US | On Site | Jun 17 |
 | **[FARRYNHEIGHT](https://farrynheight.com)** | **[Social & Influencer Intern](https://jobright.ai/jobs/info/6a3302ba7f3fdd180d4c503e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 17 |
-| **[First Financial Bank Texas](https://ffin.com)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/6a3300b429c90c607e4d9a8b?utm_campaign=1065&utm_source=git)** | Abilene Main, US | On Site | Jun 17 |
 | **[Champions Group Holdings](http://ChampionsGroupHoldings.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a32feb0649fdf16292f0298?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Jun 17 |
 | **[Tamr](http://www.tamr.com)** | **[Marketing Co-Op 2026 (H2)](https://jobright.ai/jobs/info/6a32fc6729c90c607e4d9614?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Jun 17 |
 | **[Turf Doc Landscaping](https://www.turfdoclandscaping.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32fbe4910b734910713066?utm_campaign=1065&utm_source=git)** | Randallstown, MD | On Site | Jun 17 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Intern (Fall '26)](https://jobright.ai/jobs/info/6a32f9cff6b55d12c7916dad?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 17 |
 | **[Current Branding](https://currentbrandinginc.com/)** | **[Summer Marketing Internship](https://jobright.ai/jobs/info/6a32f4b47f3fdd180d4c4826?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jun 17 |
 | **[Slip Robotics](https://sliprobotics.com/)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/6a32f48b910b734910712d65?utm_campaign=1065&utm_source=git)** | Norcross, GA | On Site | Jun 17 |
 | **[White Bear Mitsubishi](https://www.whitebearmitsubishi.com/)** | **[Events & Marketing Intern](https://jobright.ai/jobs/info/6a32f388f6b55d12c7916be4?utm_campaign=1065&utm_source=git)** | White Bear Lake, MN | On Site | Jun 17 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Title Resources Group](https://trguw.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32eefd29c90c607e4d8feb?utm_campaign=1065&utm_source=git)** | US | On Site | Jun 17 |
 | **[Pure Power Engineering](https://www.purepower.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a32eeda7f3fdd180d4c44c2?utm_campaign=1065&utm_source=git)** | Hoboken,NJ,US | Hybrid | Jun 17 |
 | **[Fresno Equipment Company](https://www.fresnoequipment.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32ebe37f3fdd180d4c4391?utm_campaign=1065&utm_source=git)** | Metropolitan Fresno | On Site | Jun 17 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a172d11f45c6530ce9a99a1?utm_campaign=1065&utm_source=git)** | King of Prussia, PA | On Site | Jun 17 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Fall 2026 Business Survey Intern](https://jobright.ai/jobs/info/6a32e771910b7349107126fe?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Jun 17 |
 | **[Benchmark Senior Living](https://www.benchmarkseniorliving.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32c3b4ce501060b5cea1d6?utm_campaign=1065&utm_source=git)** | 201 Jones Rd, Waltham, MA 02451, USA | Hybrid | Jun 17 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jun 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a31cfb62ee3ac1b4bef1499?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 16 |
 | **[IUCN World Commission on Environmental Law](https://www.iucn.org/commissions/world-commission-environmental-law)** | **[Communications Intern (IUCN US Fund)](https://jobright.ai/jobs/info/6a31cfa859588169700170e4?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jun 16 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Travel Product Content & AI Copywriting](https://jobright.ai/jobs/info/6a31c8fa5958816970016e59?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 16 |
-| **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Workplace Ambassador- Intern](https://jobright.ai/jobs/info/6a2ffc6d093df201d07aedcd?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
-| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern) @ The Bookie WSU Pullman](https://jobright.ai/jobs/info/6a31c76a35e80310003a9540?utm_campaign=1065&utm_source=git)** | PULLMAN, WA, US | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
