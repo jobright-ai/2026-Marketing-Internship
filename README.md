@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pareto Connect](https://apply.trypareto.ai/)** | **[Go-to-Market Intern](https://jobright.ai/jobs/info/6a3234995958816970018799?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 16 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[Co-op Student: Communications Assistant Internship](https://jobright.ai/jobs/info/6a322bfde7b7d514a3bd71e7?utm_campaign=1065&utm_source=git)** | Ontario-Toronto | Hybrid | Jun 16 |
 | **[Shennon Biotechnologies](https://www.shennonbio.com/)** | **[Summer PhD/MBA Intern - Oncology Market Analysis and Research](https://jobright.ai/jobs/info/6a321c902ee3ac1b4bef277e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 16 |
 | **[HeyPao](https://pace-pal.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6a32130ce7b7d514a3bd6d09?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jun 16 |
@@ -81,9 +82,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a31cfb62ee3ac1b4bef1499?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 16 |
 | **[IUCN World Commission on Environmental Law](https://www.iucn.org/commissions/world-commission-environmental-law)** | **[Communications Intern (IUCN US Fund)](https://jobright.ai/jobs/info/6a31cfa859588169700170e4?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jun 16 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Travel Product Content & AI Copywriting](https://jobright.ai/jobs/info/6a31c8fa5958816970016e59?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 16 |
-| **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Workplace Ambassador- Intern](https://jobright.ai/jobs/info/6a2ffc6d093df201d07aedcd?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
+| **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/6a31a2790ff23769fdb1f4ab?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
+| ↳ | **[Workplace Ambassador- Intern](https://jobright.ai/jobs/info/6a2ffc6d093df201d07aedcd?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
 | ↳ | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/6a31a2780ff23769fdb1f4aa?utm_campaign=1065&utm_source=git)** | New York City, New York, United States | On Site | Jun 16 |
-| ↳ | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/6a31a2790ff23769fdb1f4ab?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
 | **[Enveda](https://enveda.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a31c8292ee3ac1b4bef1188?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jun 16 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern) @ The Bookie WSU Pullman](https://jobright.ai/jobs/info/6a31c76a35e80310003a9540?utm_campaign=1065&utm_source=git)** | PULLMAN, WA, US | On Site | Jun 16 |
 | **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a31c632e7b7d514a3bd58b1?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jun 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Content Marketing Intern](https://jobright.ai/jobs/info/6a31040e43732c05812e4386?utm_campaign=1065&utm_source=git)** | Canada-Remote | Remote | Jun 16 |
 | **[EARTH SYSTEMS](http://earthsystems.com)** | **[Marketing Intern (San Luis Obispo)](https://jobright.ai/jobs/info/6a3101f189f8f147d3737507?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Jun 16 |
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Outreach Intern (Remote)](https://jobright.ai/jobs/info/69ef7c9616b2612c2a129a38?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jun 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Marketing Program Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30f62589f8f147d3737431?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
