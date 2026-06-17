@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[Co-op Student: Communications Assistant Internship](https://jobright.ai/jobs/info/6a322bfde7b7d514a3bd71e7?utm_campaign=1065&utm_source=git)** | Ontario-Toronto | Hybrid | Jun 16 |
+| **[Shennon Biotechnologies](https://www.shennonbio.com/)** | **[Summer PhD/MBA Intern - Oncology Market Analysis and Research](https://jobright.ai/jobs/info/6a321c902ee3ac1b4bef277e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 16 |
 | **[HeyPao](https://pace-pal.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6a32130ce7b7d514a3bd6d09?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jun 16 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[SEO Intern](https://jobright.ai/jobs/info/6a31bcbe35e80310003a91d6?utm_campaign=1065&utm_source=git)** | KS-Lenexa-Uniform, US | On Site | Jun 16 |
 | **[Pareto Labs](https://www.trypareto.ai/)** | **[Go-to-Market Intern](https://jobright.ai/jobs/info/6a320c4035e80310003aa8ff?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 16 |
 | **[For Love & Lemons](http://www.forloveandlemons.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a3208e40ff23769fdb2174c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 16 |
 | **[STRAWBERRY PARIS](www.strawberryparis.com)** | **[INTERNSHIP - Content Creation Specialist (Women's Luxury Fashion)](https://jobright.ai/jobs/info/6a3204fcc477a5075f4903bc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 16 |
+| **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern (On-site Overland Park, KS)](https://jobright.ai/jobs/info/6a322081e7b7d514a3bd7014?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[WD Partners](https://www.wdpartners.com)** | **[Brand Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3202dac477a5075f49036c?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Remote | Jun 16 |
 | ↳ | **[Brand Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3202d6c477a5075f490369?utm_campaign=1065&utm_source=git)** | Columbus, Ohio | Remote | Jun 16 |
 | **[LeyLine](https://leylinepro.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3201e3e7b7d514a3bd6992?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 16 |
@@ -78,9 +81,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a31cfb62ee3ac1b4bef1499?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 16 |
 | **[IUCN World Commission on Environmental Law](https://www.iucn.org/commissions/world-commission-environmental-law)** | **[Communications Intern (IUCN US Fund)](https://jobright.ai/jobs/info/6a31cfa859588169700170e4?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jun 16 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Travel Product Content & AI Copywriting](https://jobright.ai/jobs/info/6a31c8fa5958816970016e59?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 16 |
-| **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/6a31a2790ff23769fdb1f4ab?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
+| **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Workplace Ambassador- Intern](https://jobright.ai/jobs/info/6a2ffc6d093df201d07aedcd?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
 | ↳ | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/6a31a2780ff23769fdb1f4aa?utm_campaign=1065&utm_source=git)** | New York City, New York, United States | On Site | Jun 16 |
-| ↳ | **[Workplace Ambassador- Intern](https://jobright.ai/jobs/info/6a2ffc6d093df201d07aedcd?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
+| ↳ | **[Workplace Ambassador - Intern](https://jobright.ai/jobs/info/6a31a2790ff23769fdb1f4ab?utm_campaign=1065&utm_source=git)** | New York, New York, United States of America | On Site | Jun 16 |
 | **[Enveda](https://enveda.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a31c8292ee3ac1b4bef1188?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jun 16 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern) @ The Bookie WSU Pullman](https://jobright.ai/jobs/info/6a31c76a35e80310003a9540?utm_campaign=1065&utm_source=git)** | PULLMAN, WA, US | On Site | Jun 16 |
 | **[816 Collective](https://collective816.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a31c632e7b7d514a3bd58b1?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Jun 16 |
@@ -142,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Phantom Brands](www.phantomchef.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a31738b5958816970014a30?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern LI - HR Marketing Intern](https://jobright.ai/jobs/info/69faf748e1560008411556e2?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jun 16 |
 | **[NEON](http://neon-nyc.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6a313ad3e7b7d514a3bd2135?utm_campaign=1065&utm_source=git)** | NY NY 100 W 33rd | Hybrid | Jun 16 |
-| ↳ | **[Copy Intern](https://jobright.ai/jobs/info/6a313a8d0ff23769fdb1c9ed?utm_campaign=1065&utm_source=git)** | NY NY 100 W 33rd | Hybrid | Jun 16 |
+| ↳ | **[Copy Intern](https://jobright.ai/jobs/info/6a313a8d5958816970013384?utm_campaign=1065&utm_source=git)** | NY NY 100 W 33rd | Hybrid | Jun 16 |
 | ↳ | **[Brand Strategy Intern](https://jobright.ai/jobs/info/6a313a87e7b7d514a3bd20fd?utm_campaign=1065&utm_source=git)** | NY NY 100 W 33rd | Hybrid | Jun 16 |
 | **[RIVUS Consulting LLC](https://rivus.us)** | **[Part-time Proposal Writer - Intern](https://jobright.ai/jobs/info/6a30808eeace377055eb6c77?utm_campaign=1065&utm_source=git)** | MD-Lanham-20706 Fully Remote - US | Remote | Jun 16 |
 | **[BPM-PR Firm](http://bpm-prfirm.com/)** | **[Part Time Public Relations Intern](https://jobright.ai/jobs/info/6970dfb7587dfa0bb55e6f62?utm_campaign=1065&utm_source=git)** | New York , NY 10020 | Hybrid | Jun 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EARTH SYSTEMS](http://earthsystems.com)** | **[Marketing Intern (San Luis Obispo)](https://jobright.ai/jobs/info/6a3101f189f8f147d3737507?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Jun 16 |
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Outreach Intern (Remote)](https://jobright.ai/jobs/info/69ef7c9616b2612c2a129a38?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Marketing Program Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30f62589f8f147d3737431?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Jun 16 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Growth Marketing Intern (B2B + AI)](https://jobright.ai/jobs/info/6a3186a359588169700151cc?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 15 |
-| **[PetVet Care Centers](http://www.petvetcarecenters.com/)** | **[Marketing Intern - Hagyard Equine Medical Institute](https://jobright.ai/jobs/info/6a30e7bd093df201d07b2fd9?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Jun 15 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Marketing Intern](https://jobright.ai/jobs/info/6a30e072524fd5657fe127b2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
