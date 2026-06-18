@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VELORA](https://thevelora.app)** | **[Growth Strategy & Marketing Intern](https://jobright.ai/jobs/info/6a3360c7ce501060b5ced425?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 17 |
+| **[My Senior Health Plan](https://myseniorhealthplan.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a335d41910b734910714e81?utm_campaign=1065&utm_source=git)** | La Jolla, CA | On Site | Jun 17 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Brand Communications Intern (12 Months)](https://jobright.ai/jobs/info/6a334dd029c90c607e4db02a?utm_campaign=1065&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jun 17 |
 | **[VOLTAS](www.voltas.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a333cee649fdf16292f158c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Title Resources Group](https://trguw.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32eefd29c90c607e4d8feb?utm_campaign=1065&utm_source=git)** | US | On Site | Jun 17 |
@@ -128,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Iowa Renewable Fuels Association](https://iowarfa.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32a7abce501060b5ce9973?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | On Site | Jun 17 |
 | **[The Mosaic Group](https://www.mosaicgroup.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32a0b97f3fdd180d4c2971?utm_campaign=1065&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Jun 17 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Marketing Intern – Client Experience (World Cup Support)](https://jobright.ai/jobs/info/6a32a054910b734910710d5a?utm_campaign=1065&utm_source=git)** | Morrisville, North Carolina | Hybrid | Jun 17 |
-| **[WG Business Enterprises, LLC](https://wgbusinessenterprises.com/about-whitney-business-consultant/)** | **[Content Writer - Intern](https://jobright.ai/jobs/info/6a332bb57f3fdd180d4c5e06?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 17 |
 | **[The State University of New York](https://www.suny.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a329e8d649fdf16292eddd1?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Jun 17 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a331ef57f3fdd180d4c5ad0?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jun 17 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a328b5cf6b55d12c7914842?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[SEO Intern](https://jobright.ai/jobs/info/6a31bcbe35e80310003a91d6?utm_campaign=1065&utm_source=git)** | KS-Lenexa-Uniform, US | On Site | Jun 16 |
 | **[Pareto Labs](https://www.trypareto.ai/)** | **[Go-to-Market Intern](https://jobright.ai/jobs/info/6a320c4035e80310003aa8ff?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 16 |
 | **[STRAWBERRY PARIS](www.strawberryparis.com)** | **[INTERNSHIP - Content Creation Specialist (Women's Luxury Fashion)](https://jobright.ai/jobs/info/6a3204fcc477a5075f4903bc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 16 |
-| **[WD Partners](https://www.wdpartners.com)** | **[Brand Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3202dac477a5075f49036c?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Remote | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
