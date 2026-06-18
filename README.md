@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Reno](https://jobright.ai/jobs/info/6a346788ce501060b5cf1177?utm_campaign=1065&utm_source=git)** | Reno, NV, US | On Site | Jun 18 |
+| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6a3466f5f6b55d12c791ca83?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Internal Communications Intern](https://jobright.ai/jobs/info/6a346387f6b55d12c791c96a?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Jun 18 |
+| **[Gradida](www.gradida.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/6a34629bf6b55d12c791c924?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Topline Pro](https://www.toplinepro.com)** | **[Content Marketing Intern [Paid] - Summer 2026](https://jobright.ai/jobs/info/6a345f42ce501060b5cf0f15?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jun 18 |
 | **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a345d60f6b55d12c791c7b4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 18 |
-| **[Todd](https://toddagriscience.com)** | **[Product Marketing Intern (Fall 26)](https://jobright.ai/jobs/info/6a345d4429c90c607e4dee9f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 18 |
 | **[M+C Saatchi Group](https://mcsaatchi.com/)** | **[Paid Media Intern](https://jobright.ai/jobs/info/6a345d44f6b55d12c791c7ab?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 18 |
 | **[Damoov](https://damoov.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a345c9b29c90c607e4dee6b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Northeastern University](https://jobright.ai/jobs/info/6a345c961232144fb155fb43?utm_campaign=1065&utm_source=git)** | 11 Speare Place, Boston, MA, 02115, US | On Site | Jun 18 |
@@ -112,6 +115,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cleveland Talent Alliance Internship - Fall 2026](https://jobright.ai/jobs/info/6a34077429c90c607e4dce9a?utm_campaign=1065&utm_source=git)** | Cleveland,OH,US | On Site | Jun 18 |
 | **[ChangeMakers](https://changemakers.ca)** | **[Public Relations Internship - Fall 2026](https://jobright.ai/jobs/info/6a270a1812f02023422622fe?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 18 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Communications, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf60dc39b9a66c0c558f3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 18 |
+| **[Gutchess Lumber Co., Inc.](https://www.gutchess.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a346429ce501060b5cf1083?utm_campaign=1065&utm_source=git)** | Cortland, NY | On Site | Jun 18 |
 | **[Emerald Canning Partners](https://emeraldcanningpartners.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a33fb641232144fb155d885?utm_campaign=1065&utm_source=git)** | Mount Clemens, MI | Hybrid | Jun 18 |
 | **[Coty](https://www.coty.com/)** | **[Operational Trade Marketing Intern](https://jobright.ai/jobs/info/6a341e717f3fdd180d4c8ce0?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 18 |
 | **[407 ETR](https://407etr.com)** | **[Communications Intern (12 Month Contract)](https://jobright.ai/jobs/info/6a18695edbc80963f9343742?utm_campaign=1065&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | Jun 18 |
@@ -128,14 +132,13 @@ For a complete list, click the following sortable link below:
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a32d43cf6b55d12c7915e2c?utm_campaign=1065&utm_source=git)** | Sandy,UT,US | On Site | Jun 17 |
 | **[SYSTRA](https://www.systra.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a334f5f7f3fdd180d4c6575?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 17 |
 | **[Pure Power Engineering](https://www.purepower.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a32eeda7f3fdd180d4c44c2?utm_campaign=1065&utm_source=git)** | Hoboken,NJ,US | Hybrid | Jun 17 |
-| **[BlueCross BlueShield of Tennessee](http://www.bcbst.com)** | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0531?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Jun 17 |
-| ↳ | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0532?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | Hybrid | Jun 17 |
+| **[BlueCross BlueShield of Tennessee](http://www.bcbst.com)** | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0532?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | Hybrid | Jun 17 |
+| ↳ | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0531?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Jun 17 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Marketing & Communications-Remote in Cleveland or Northeast Ohio area](https://jobright.ai/jobs/info/6a33230e649fdf16292f0fc9?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Jun 17 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, IT Organizational Change Management](https://jobright.ai/jobs/info/6a3322077f3fdd180d4c5bb2?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 17 |
 | **[First Financial Bank Texas](https://ffin.com)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/6a3300b429c90c607e4d9a8b?utm_campaign=1065&utm_source=git)** | Abilene Main, US | On Site | Jun 17 |
 | **[The Powder Room Studio LA](https://www.thepowderroomstudiola.com/)** | **[Social Media Marketing Intern (Part Time)](https://jobright.ai/jobs/info/6a331197f6b55d12c79179cd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Marketing Intern - South Lake Tahoe](https://jobright.ai/jobs/info/6a3308cace501060b5cebf46?utm_campaign=1065&utm_source=git)** | South Lake Tahoe, CA | On Site | Jun 17 |
-| **[Vene Health](https://venehealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3307f8f6b55d12c79176be?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 17 |
 | **[Coty](https://www.coty.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3307de7f3fdd180d4c532a?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 17 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Marketing Intern, Chartwells Higher Ed / Northeastern University](https://jobright.ai/jobs/info/6a33075ff6b55d12c791766e?utm_campaign=1065&utm_source=git)** | Boston, MA, US | On Site | Jun 17 |
 | **[Crosstown Concourse](https://crosstownconcourse.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6a330311649fdf16292f0517?utm_campaign=1065&utm_source=git)** | Memphis Metro | On Site | Jun 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a172d11f45c6530ce9a99a1?utm_campaign=1065&utm_source=git)** | King of Prussia, PA | On Site | Jun 17 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Fall 2026 Business Survey Intern](https://jobright.ai/jobs/info/6a32e771910b7349107126fe?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Jun 17 |
 | **[Benchmark Senior Living](https://www.benchmarkseniorliving.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32c3b4ce501060b5cea1d6?utm_campaign=1065&utm_source=git)** | 201 Jones Rd, Waltham, MA 02451, USA | Hybrid | Jun 17 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jun 17 |
-| **[Groupe Clarins](http://www.groupeclarins.com)** | **[Intern, Marketing - Makeup & Treatment](https://jobright.ai/jobs/info/6a0b5cf94d93203636870313?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Jun 17 |
-| **[Sophie Society Co.](https://www.sophiesociety.com/)** | **[Amazon Content Intern](https://jobright.ai/jobs/info/6a32de81910b7349107121fe?utm_campaign=1065&utm_source=git)** | Hopewell, NJ | Remote | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
