@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Monigle](https://www.monigle.com)** | **[Intern, Brand Strategy](https://jobright.ai/jobs/info/6a30d17aafabbe533fb8c795?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 17 |
-| ↳ | **[Intern, Brand Strategy](https://jobright.ai/jobs/info/6a30d166afabbe533fb8c78a?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jun 17 |
+| **[Monigle](https://www.monigle.com)** | **[Intern, Brand Strategy](https://jobright.ai/jobs/info/6a30d166afabbe533fb8c78a?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jun 17 |
+| ↳ | **[Intern, Brand Strategy](https://jobright.ai/jobs/info/6a30d17aafabbe533fb8c795?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 17 |
 | ↳ | **[Intern, Brand Strategy](https://jobright.ai/jobs/info/6a30d17aafabbe533fb8c796?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jun 17 |
 | **[Lost Angels](https://lostangelsbeauty.com)** | **[Beauty Brand Intern - Summer 2026](https://jobright.ai/jobs/info/6a3388aa649fdf16292f24b7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
 | **[LivingQ](https://livingq.city)** | **[Marketing Internship Commercial Real Estate](https://jobright.ai/jobs/info/6a337fc7649fdf16292f23cf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
@@ -71,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a32d43cf6b55d12c7915e2c?utm_campaign=1065&utm_source=git)** | Sandy,UT,US | On Site | Jun 17 |
 | **[SYSTRA](https://www.systra.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a334f5f7f3fdd180d4c6575?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 17 |
 | **[Pure Power Engineering](https://www.purepower.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a32eeda7f3fdd180d4c44c2?utm_campaign=1065&utm_source=git)** | Hoboken,NJ,US | Hybrid | Jun 17 |
-| **[BlueCross BlueShield of Tennessee](http://www.bcbst.com)** | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0531?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Jun 17 |
-| ↳ | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0532?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | Hybrid | Jun 17 |
+| **[BlueCross BlueShield of Tennessee](http://www.bcbst.com)** | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0532?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | Hybrid | Jun 17 |
+| ↳ | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0531?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Jun 17 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Marketing & Communications-Remote in Cleveland or Northeast Ohio area](https://jobright.ai/jobs/info/6a33230e649fdf16292f0fc9?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Jun 17 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, IT Organizational Change Management](https://jobright.ai/jobs/info/6a3322077f3fdd180d4c5bb2?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 17 |
 | **[First Financial Bank Texas](https://ffin.com)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/6a3300b429c90c607e4d9a8b?utm_campaign=1065&utm_source=git)** | Abilene Main, US | On Site | Jun 17 |
