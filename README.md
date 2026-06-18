@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Title Resources Group](https://trguw.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32eefd29c90c607e4d8feb?utm_campaign=1065&utm_source=git)** | US | On Site | Jun 17 |
+| **[Litmus](http://litmus.io)** | **[Partner Marketing Intern](https://jobright.ai/jobs/info/6a3335f929c90c607e4daadf?utm_campaign=1065&utm_source=git)** | Toronto, Canada | Hybrid | Jun 17 |
+| **[Topfoxx](https://www.topfoxx.com)** | **[Content & Social Media Intern / Fashion / TopFoxx Eyewear](https://jobright.ai/jobs/info/6a3328fbf6b55d12c791805c?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 17 |
+| **[DolFinContent](https://www.dolfincontent.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3328ea29c90c607e4da882?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 17 |
 | **[BlueCross BlueShield of Tennessee](http://www.bcbst.com)** | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0531?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Jun 17 |
 | ↳ | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0532?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | Hybrid | Jun 17 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Marketing & Communications-Remote in Cleveland or Northeast Ohio area](https://jobright.ai/jobs/info/6a33230e649fdf16292f0fc9?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Jun 17 |
@@ -68,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Vene Health](https://venehealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3307f8f6b55d12c79176be?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 17 |
 | **[Coty](https://www.coty.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3307de7f3fdd180d4c532a?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 17 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Marketing Intern, Chartwells Higher Ed / Northeastern University](https://jobright.ai/jobs/info/6a33075ff6b55d12c791766e?utm_campaign=1065&utm_source=git)** | Boston, MA, US | On Site | Jun 17 |
-| **[BLUE JEANS PUBLIC RELATIONS](bluejeanspublicrelations.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3304467f3fdd180d4c50d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Crosstown Concourse](https://crosstownconcourse.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6a330311649fdf16292f0517?utm_campaign=1065&utm_source=git)** | Memphis Metro | On Site | Jun 17 |
 | **[11:11 Media](http://www.parishilton.com)** | **[11:11 Social Media Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a33030d910b734910713602?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jun 17 |
 | **[IFF](http://iff.com)** | **[Intern - Marketing & Digital Experience](https://jobright.ai/jobs/info/6a32cd7129c90c607e4d81f2?utm_campaign=1065&utm_source=git)** | Citrus Innovation Ctr FL USA, US | On Site | Jun 17 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Northeastern University](https://jobright.ai/jobs/info/6a32f2727f3fdd180d4c4612?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jun 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - SAP Americas Field Marketing Intern](https://jobright.ai/jobs/info/6a1610f4a429fd279da954a2?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Jun 17 |
 | **[Proserv Crane Group](https://www.proservcrane.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a32f055ce501060b5ceb2d5?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 17 |
-| **[Title Resources Group](https://trguw.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32eefd29c90c607e4d8feb?utm_campaign=1065&utm_source=git)** | US | On Site | Jun 17 |
 | **[Pure Power Engineering](https://www.purepower.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a32eeda7f3fdd180d4c44c2?utm_campaign=1065&utm_source=git)** | Hoboken,NJ,US | Hybrid | Jun 17 |
 | **[Fresno Equipment Company](https://www.fresnoequipment.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32ebe37f3fdd180d4c4391?utm_campaign=1065&utm_source=git)** | Metropolitan Fresno | On Site | Jun 17 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a172d11f45c6530ce9a99a1?utm_campaign=1065&utm_source=git)** | King of Prussia, PA | On Site | Jun 17 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Digital Fashion Week](https://digitalfashionweek.nyc)** | **[Digital Fashion Social Media Intern](https://jobright.ai/jobs/info/6a32ba56ce501060b5ce9f2b?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jun 17 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Public Relations & Communications Intern](https://jobright.ai/jobs/info/69dbfc12869c7e25d85a8bb9?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Jun 17 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Marketing Intern - Metairie, LA](https://jobright.ai/jobs/info/6965906c5ad3a93f8230d6dd?utm_campaign=1065&utm_source=git)** | Metairie, LA | On Site | Jun 17 |
-| **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72829c90c607e4d74fd?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jun 17 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a73129c90c607e4d7501?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jun 17 |
+| **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a73129c90c607e4d7501?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jun 17 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a728ce501060b5ce994c?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jun 17 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a116fc769bd827926af3760?utm_campaign=1065&utm_source=git)** | 60 Vista Dr, Versailles, OH, 45380, US | On Site | Jun 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/6a32af8bf6b55d12c79150a7?utm_campaign=1065&utm_source=git)** | 450 Ryder St, Vallejo, CA | On Site | Jun 17 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Fall 2026 Business Survey Intern](https://jobright.ai/jobs/info/6a32ab8a29c90c607e4d7666?utm_campaign=1065&utm_source=git)** | Richmond, VA, US | On Site | Jun 17 |
@@ -123,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Iowa Renewable Fuels Association](https://iowarfa.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32a7abce501060b5ce9973?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | On Site | Jun 17 |
 | **[The Mosaic Group](https://www.mosaicgroup.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32a0b97f3fdd180d4c2971?utm_campaign=1065&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Jun 17 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Marketing Intern – Client Experience (World Cup Support)](https://jobright.ai/jobs/info/6a32a054910b734910710d5a?utm_campaign=1065&utm_source=git)** | Morrisville, North Carolina | Hybrid | Jun 17 |
+| **[WG Business Enterprises, LLC](https://wgbusinessenterprises.com/about-whitney-business-consultant/)** | **[Content Writer - Intern](https://jobright.ai/jobs/info/6a332bb57f3fdd180d4c5e06?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 17 |
 | **[The State University of New York](https://www.suny.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a329e8d649fdf16292eddd1?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Jun 17 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a331ef57f3fdd180d4c5ad0?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jun 17 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a328b5cf6b55d12c7914842?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Florida Gulf Coast University](http://www.fgcu.edu/)** | **[Digital Communication & Outreach Student Intern](https://jobright.ai/jobs/info/6a31deb835e80310003a9d23?utm_campaign=1065&utm_source=git)** | Main Campus, US | On Site | Jun 16 |
 | **[Lomography](http://www.lomography.com)** | **[Sales & Marketing Intern - College Credit](https://jobright.ai/jobs/info/6a31d7e70ff23769fdb20cb9?utm_campaign=1065&utm_source=git)** | Brooklyn, US | On Site | Jun 16 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Louisville, KY or the immediate surrounding area](https://jobright.ai/jobs/info/6a31d1a3c477a5075f48f6e7?utm_campaign=1065&utm_source=git)** | Louisville, KY | Hybrid | Jun 16 |
-| ↳ | **[Intern, Development & Community Events-Dayton, OH, or the immediate surrounding](https://jobright.ai/jobs/info/6a31d19c2ee3ac1b4bef152f?utm_campaign=1065&utm_source=git)** | Dayton, OH | Hybrid | Jun 16 |
-| **[The Unusual Suspects Theatre Company](https://www.theunusualsuspects.org)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6a31fb21e7b7d514a3bd68a8?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Jun 16 |
-| **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/6a31cfce0ff23769fdb209e5?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
