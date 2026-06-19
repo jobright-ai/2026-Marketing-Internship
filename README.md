@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[GTM Intern](https://jobright.ai/jobs/info/6a35673ace501060b5cf4168?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jun 19 |
+| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18b0ab17492d3a389b8db8?utm_campaign=1065&utm_source=git)** | Remote-Wisconsin, US | Remote | Jun 19 |
+| **[Westman Atelier](https://www.westman-atelier.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a1f1ebf09442629a685758b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[Energy & Environmental Design Services, LLC](www.eandeds.com)** | **[Marketing & Community Outreach Intern](https://jobright.ai/jobs/info/6a355981649fdf16292f89f7?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | On Site | Jun 19 |
 | **[Willis Johnson Wealth](https://wjohnsonwealth.com/)** | **[Marketing Internship: Fall 2026](https://jobright.ai/jobs/info/6a3558e47f3fdd180d4cd226?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 19 |
 | **[Schlitterbahn Waterparks & Resort](http://schlitterbahn.com/)** | **[Social Media Intern - Seasonal](https://jobright.ai/jobs/info/6a355701649fdf16292f8912?utm_campaign=1065&utm_source=git)** | Schlitterbahn Waterpark Galveston, Gene Lucas Blvd, Galveston, TX, USA | On Site | Jun 19 |
 | **[ARTECHOUSE](https://www.artechouse.com)** | **[Social Media Content Creator Intern (Washington DC)](https://jobright.ai/jobs/info/6a3556f11232144fb1562c05?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
-| **[MIRA Safety](https://www.mirasafety.com)** | **[Remote/Onsite - Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a203bca4bdf8a5a96bcf525?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
-| ↳ | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a317fe80ff23769fdb1e538?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
+| **[MIRA Safety](https://www.mirasafety.com)** | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a317fe80ff23769fdb1e538?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
+| ↳ | **[Remote/Onsite - Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a203bca4bdf8a5a96bcf525?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
 | **[LYNA](https://www.lynacycle.app/)** | **[Growth Marketing Intern (Remote)](https://jobright.ai/jobs/info/6a35566cf6b55d12c791f5a9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[University of Arkansas](http://uark.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a355078ce501060b5cf3ba6?utm_campaign=1065&utm_source=git)** | Fayetteville, US | On Site | Jun 19 |
 | **[Orthofix](http://www.orthofix.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a355255ce501060b5cf3c14?utm_campaign=1065&utm_source=git)** | Lewisville, US | On Site | Jun 19 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Global Trade Integration: Connecting Poor Communities](www.gticonnect.org)** | **[Search Engine Optimization Specialist (Unpaid Internship)](https://jobright.ai/jobs/info/6a353d057f3fdd180d4ccbd7?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 19 |
 | **[Gift](https://www.shine.gift)** | **[Music Community Growth Intern](https://jobright.ai/jobs/info/6a35369e29c90c607e4e16d3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 19 |
 | **[Plombon Insurance](https://www.plomboninsurance.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3533111232144fb1562446?utm_campaign=1065&utm_source=git)** | Media, PA | On Site | Jun 19 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Marketing & Market Research Internship](https://jobright.ai/jobs/info/6a352dd21232144fb1562345?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jun 19 |
 | **[Fall Creek®](http://www.fallcreeknursery.com)** | **[Marketing Communications & Events Intern](https://jobright.ai/jobs/info/6a1866d9abc8f63abac77f15?utm_campaign=1065&utm_source=git)** | Eugene-Springfield Area | Hybrid | Jun 19 |
 | **[Love, Bonito](https://www.lovebonito.com/)** | **[Social & Community Intern - New York](https://jobright.ai/jobs/info/6a3551987f3fdd180d4ccff2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Operations Project Intern (TikTok LIVE) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3519487f3fdd180d4cc61c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empire Elite Marketing](https://empireelitemarketinginc.com)** | **[Entry Level Marketing Internship](https://jobright.ai/jobs/info/6a344b3829c90c607e4de701?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Jun 18 |
 | **[GrowthExpertz](https://growthexpertz.com)** | **[Startup Marketing Internship (With Training)](https://jobright.ai/jobs/info/6a341fe4649fdf16292f42b9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a341dda7f3fdd180d4c8c94?utm_campaign=1065&utm_source=git)** | Ballston Spa, NY, USA | On Site | Jun 18 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Brand Marketing](https://jobright.ai/jobs/info/6a341791f6b55d12c791ad0c?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jun 18 |
-| **[Topline Pro](https://www.toplinepro.com)** | **[Content Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6a34176e29c90c607e4dd353?utm_campaign=1065&utm_source=git)** | Brooklyn Office | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
