@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ozarks Regional YMCA](https://www.orymca.org/)** | **[Marketing & Communications Fall Semester Intern- Springfield, MO](https://jobright.ai/jobs/info/6a3576ce29c90c607e4e256c?utm_campaign=1065&utm_source=git)** | Springfield, MO 65806, USA | On Site | Jun 19 |
+| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, National Corporate Relations-Remote](https://jobright.ai/jobs/info/6a3571d4649fdf16292f8ffb?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Jun 19 |
+| **[Four Seasons](http://www.fourseasons.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a35406d7f3fdd180d4ccc87?utm_campaign=1065&utm_source=git)** | Miami Beach, US | On Site | Jun 19 |
 | **[GenPark](https://genpark.ai)** | **[GTM Intern](https://jobright.ai/jobs/info/6a35673ace501060b5cf4168?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jun 19 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18b0ab17492d3a389b8db8?utm_campaign=1065&utm_source=git)** | Remote-Wisconsin, US | Remote | Jun 19 |
 | **[Westman Atelier](https://www.westman-atelier.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a1f1ebf09442629a685758b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
@@ -64,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Willis Johnson Wealth](https://wjohnsonwealth.com/)** | **[Marketing Internship: Fall 2026](https://jobright.ai/jobs/info/6a3558e47f3fdd180d4cd226?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 19 |
 | **[Schlitterbahn Waterparks & Resort](http://schlitterbahn.com/)** | **[Social Media Intern - Seasonal](https://jobright.ai/jobs/info/6a355701649fdf16292f8912?utm_campaign=1065&utm_source=git)** | Schlitterbahn Waterpark Galveston, Gene Lucas Blvd, Galveston, TX, USA | On Site | Jun 19 |
 | **[ARTECHOUSE](https://www.artechouse.com)** | **[Social Media Content Creator Intern (Washington DC)](https://jobright.ai/jobs/info/6a3556f11232144fb1562c05?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
-| **[MIRA Safety](https://www.mirasafety.com)** | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a317fe80ff23769fdb1e538?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
-| ↳ | **[Remote/Onsite - Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a203bca4bdf8a5a96bcf525?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
+| **[MIRA Safety](https://www.mirasafety.com)** | **[Remote/Onsite - Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a203bca4bdf8a5a96bcf525?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
+| ↳ | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a317fe80ff23769fdb1e538?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[LYNA](https://www.lynacycle.app/)** | **[Growth Marketing Intern (Remote)](https://jobright.ai/jobs/info/6a35566cf6b55d12c791f5a9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[University of Arkansas](http://uark.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a355078ce501060b5cf3ba6?utm_campaign=1065&utm_source=git)** | Fayetteville, US | On Site | Jun 19 |
 | **[Orthofix](http://www.orthofix.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a355255ce501060b5cf3c14?utm_campaign=1065&utm_source=git)** | Lewisville, US | On Site | Jun 19 |
@@ -76,8 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Dougherty Manufacturing](http://www.doughertymade.com)** | **[FAME INTERNSHIP](https://jobright.ai/jobs/info/6a354722ce501060b5cf3936?utm_campaign=1065&utm_source=git)** | Edgewater, FL, US | On Site | Jun 19 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a35461229c90c607e4e1916?utm_campaign=1065&utm_source=git)** | Fayetteville, US | On Site | Jun 19 |
 | **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a18b1a1abc8f63abac7b63f?utm_campaign=1065&utm_source=git)** | Corporate Office, 1251 1st Avenue, Chippewa Falls, Wisconsin, United States of America | Hybrid | Jun 19 |
-| **[AgileGrid Solutions](https://www.agilegridsolution.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3544fe7f3fdd180d4ccd20?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
-| **[Four Seasons](http://www.fourseasons.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a35406d7f3fdd180d4ccc87?utm_campaign=1065&utm_source=git)** | Miami Beach, US | On Site | Jun 19 |
 | **[Sophia](meetsophia.co)** | **[Social Media & Growth Intern](https://jobright.ai/jobs/info/6a355b3e649fdf16292f8a80?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[Global Trade Integration: Connecting Poor Communities](www.gticonnect.org)** | **[Search Engine Optimization Specialist (Unpaid Internship)](https://jobright.ai/jobs/info/6a353d057f3fdd180d4ccbd7?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 19 |
 | **[Gift](https://www.shine.gift)** | **[Music Community Growth Intern](https://jobright.ai/jobs/info/6a35369e29c90c607e4e16d3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 19 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698aa067c5761b521a99e70c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 19 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd16f54828227293ff49a6?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 19 |
 | **[LYNA](https://www.lynacycle.app/)** | **[Community Intern (Remote)](https://jobright.ai/jobs/info/6a350fee29c90c607e4e10ee?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jun 19 |
-| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriting Internship](https://jobright.ai/jobs/info/6a34cdfcf6b55d12c791e1f8?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jun 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34c94d1232144fb156148a?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 18 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall Corporate Intern - Global Marketing](https://jobright.ai/jobs/info/6a346d60f6b55d12c791cc81?utm_campaign=1065&utm_source=git)** | Interval Corporate Office Sunset, US | Hybrid | Jun 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Internal Communications Intern](https://jobright.ai/jobs/info/6a345b57ce501060b5cf0da3?utm_campaign=1065&utm_source=git)** | 3201 N Garden Dr, Lehi, UT, 84048, US | Hybrid | Jun 18 |
