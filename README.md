@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TapBlaze](http://www.tapblaze.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a35a069f6b55d12c7920ccc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
+| **[Interac Corp.](http://www.interac.ca)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a359e37ce501060b5cf514f?utm_campaign=1065&utm_source=git)** | Toronto, Canada | Hybrid | Jun 19 |
+| **[CodePay](https://thecodepay.ai)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6a359df41232144fb15640b1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[UXD Lab](www.uxd-lab.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a358486ce501060b5cf4991?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Jun 19 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Dairy Cattle Marketing Intern](https://jobright.ai/jobs/info/66c5c7980b7d57d04a94d286?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 19 |
 | **[Pulsewave](https://www.pulsewave.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a357dd8ce501060b5cf4827?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Jun 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sheep Marketing Intern](https://jobright.ai/jobs/info/65076e1d9fd81a9623a81973?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 18 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](https://lebizcanada.com)** | **[Fall 2026 Internship - Communications & Event Coordinator](https://jobright.ai/jobs/info/6a178b9ab091c7417c4ffc1b?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jun 18 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Arlington, VA](https://jobright.ai/jobs/info/6a342b2729c90c607e4ddc0d?utm_campaign=1065&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 18 |
-| **[Groot PR](https://grootpr.com)** | **[Public Relations& Social Media Intern - IMMEDIATE START](https://jobright.ai/jobs/info/6a34503e1232144fb155f57f?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Jun 18 |
-| **[Empire Elite Marketing](https://empireelitemarketinginc.com)** | **[Entry Level Marketing Internship](https://jobright.ai/jobs/info/6a344b3829c90c607e4de701?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Jun 18 |
-| **[GrowthExpertz](https://growthexpertz.com)** | **[Startup Marketing Internship (With Training)](https://jobright.ai/jobs/info/6a341fe4649fdf16292f42b9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
