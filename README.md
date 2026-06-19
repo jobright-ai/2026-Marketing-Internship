@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Doodli AI](https://doodli.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3505b11232144fb1561dce?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriting Internship](https://jobright.ai/jobs/info/6a34cdfcf6b55d12c791e1f8?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jun 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34c94d1232144fb156148a?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 18 |
 | **[Flash Forward Foundation](www.flashforwardfoundation.org)** | **[Growth Intern](https://jobright.ai/jobs/info/6a34b21729c90c607e4e02de?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LivingQ](https://livingq.city)** | **[Marketing Internship Commercial Real Estate](https://jobright.ai/jobs/info/6a337fc7649fdf16292f23cf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a34cb8f1232144fb1561557?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 17 |
 | **[SYSTRA Canada](https://www.systracanada.com/en/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a343447f6b55d12c791b845?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 17 |
-| **[My Senior Health Plan](https://myseniorhealthplan.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a335d41910b734910714e81?utm_campaign=1065&utm_source=git)** | La Jolla, CA | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
