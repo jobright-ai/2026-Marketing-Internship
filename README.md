@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698aa067c5761b521a99e70c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 19 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd16f54828227293ff49a6?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 19 |
+| **[LYNA](https://www.lynacycle.app/)** | **[Community Intern (Remote)](https://jobright.ai/jobs/info/6a350fee29c90c607e4e10ee?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jun 19 |
+| **[Northside Hospital](http://www.northside.com)** | **[Sponsorship Internship](https://jobright.ai/jobs/info/6a3424ca649fdf16292f44bc?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Jun 19 |
 | **[Doodli AI](https://doodli.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3505b11232144fb1561dce?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriting Internship](https://jobright.ai/jobs/info/6a34cdfcf6b55d12c791e1f8?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jun 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34c94d1232144fb156148a?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 18 |
@@ -129,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](https://lebizcanada.com)** | **[Fall 2026 Internship - Communications & Event Coordinator](https://jobright.ai/jobs/info/6a178b9ab091c7417c4ffc1b?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jun 18 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Arlington, VA](https://jobright.ai/jobs/info/6a342b2729c90c607e4ddc0d?utm_campaign=1065&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 18 |
 | **[Groot PR](https://grootpr.com)** | **[Public Relations& Social Media Intern - IMMEDIATE START](https://jobright.ai/jobs/info/6a34503e1232144fb155f57f?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Jun 18 |
-| **[Northside Hospital](http://www.northside.com)** | **[Sponsorship Internship](https://jobright.ai/jobs/info/6a3424ca649fdf16292f44bc?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Jun 18 |
 | **[Empire Elite Marketing](https://empireelitemarketinginc.com)** | **[Entry Level Marketing Internship](https://jobright.ai/jobs/info/6a344b3829c90c607e4de701?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Jun 18 |
 | **[GrowthExpertz](https://growthexpertz.com)** | **[Startup Marketing Internship (With Training)](https://jobright.ai/jobs/info/6a341fe4649fdf16292f42b9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a341dda7f3fdd180d4c8c94?utm_campaign=1065&utm_source=git)** | Ballston Spa, NY, USA | On Site | Jun 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lost Angels](https://lostangelsbeauty.com)** | **[Beauty Brand Intern - Summer 2026](https://jobright.ai/jobs/info/6a3388aa649fdf16292f24b7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Brand Representative Internship](https://jobright.ai/jobs/info/6a34d4fa29c90c607e4e0a4b?utm_campaign=1065&utm_source=git)** | College Park, MD | On Site | Jun 17 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a34d310f6b55d12c791e2db?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 17 |
-| **[LivingQ](https://livingq.city)** | **[Marketing Internship Commercial Real Estate](https://jobright.ai/jobs/info/6a337fc7649fdf16292f23cf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a34cb8f1232144fb1561557?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 17 |
-| **[SYSTRA Canada](https://www.systracanada.com/en/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a343447f6b55d12c791b845?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
