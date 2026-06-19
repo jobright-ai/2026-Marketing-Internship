@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dolby Laboratories](http://www.dolby.com)** | **[Global Social Media Intern](https://jobright.ai/jobs/info/6a349424f6b55d12c791d71d?utm_campaign=1065&utm_source=git)** | Burbank, US | Hybrid | Jun 18 |
+| **[Brightside Child & Family Advocacy](https://www.brightsideadvocacy.org)** | **[Marketing And Development Intern](https://jobright.ai/jobs/info/6a349364f6b55d12c791d6e8?utm_campaign=1065&utm_source=git)** | Savannah, GA | Hybrid | Jun 18 |
+| **[DigiFinex Global](https://www.digifinex.com/)** | **[Marketing Intern – Korea Marketing (Unpaid)](https://jobright.ai/jobs/info/6a348fefce501060b5cf1d11?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jun 18 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Global Social Media Intern](https://jobright.ai/jobs/info/6a3489347f3fdd180d4cafe3?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Jun 18 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Summer 2026 Public Relations Intern](https://jobright.ai/jobs/info/6a34892b649fdf16292f668f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 | **[Future Tech Leaders](https://futuretechleader.com)** | **[Brand & Social Media Intern](https://jobright.ai/jobs/info/6a34871f1232144fb1560776?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Jun 18 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a345d60f6b55d12c791c7b4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 18 |
 | **[M+C Saatchi Group](https://mcsaatchi.com/)** | **[Paid Media Intern](https://jobright.ai/jobs/info/6a345d44f6b55d12c791c7ab?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 18 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6a3479317f3fdd180d4cab3d?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 18 |
-| **[Damoov](https://damoov.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a345c9b29c90c607e4dee6b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Northeastern University](https://jobright.ai/jobs/info/6a345c961232144fb155fb43?utm_campaign=1065&utm_source=git)** | 11 Speare Place, Boston, MA, 02115, US | On Site | Jun 18 |
 | **[Brightside Boutique LLC](http://www.shopbrightside.com)** | **[MARKETING + SOCIAL MEDIA INTERN](https://jobright.ai/jobs/info/6a345b5b1232144fb155fadd?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Jun 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Internal Communications Intern](https://jobright.ai/jobs/info/6a345b57ce501060b5cf0da3?utm_campaign=1065&utm_source=git)** | 3201 N Garden Dr, Lehi, UT, 84048, US | Hybrid | Jun 18 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a32d43cf6b55d12c7915e2c?utm_campaign=1065&utm_source=git)** | Sandy,UT,US | On Site | Jun 17 |
 | **[SYSTRA](https://www.systra.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a334f5f7f3fdd180d4c6575?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 17 |
 | **[Pure Power Engineering](https://www.purepower.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a32eeda7f3fdd180d4c44c2?utm_campaign=1065&utm_source=git)** | Hoboken,NJ,US | Hybrid | Jun 17 |
-| **[BlueCross BlueShield of Tennessee](http://www.bcbst.com)** | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0532?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | Hybrid | Jun 17 |
-| ↳ | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0531?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Jun 17 |
+| **[BlueCross BlueShield of Tennessee](http://www.bcbst.com)** | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0531?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Jun 17 |
+| ↳ | **[Intern - Digital Experience](https://jobright.ai/jobs/info/6a330347649fdf16292f0532?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | Hybrid | Jun 17 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Marketing & Communications-Remote in Cleveland or Northeast Ohio area](https://jobright.ai/jobs/info/6a33230e649fdf16292f0fc9?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Jun 17 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, IT Organizational Change Management](https://jobright.ai/jobs/info/6a3322077f3fdd180d4c5bb2?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 17 |
 | **[First Financial Bank Texas](https://ffin.com)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/6a3300b429c90c607e4d9a8b?utm_campaign=1065&utm_source=git)** | Abilene Main, US | On Site | Jun 17 |
 | **[The Powder Room Studio LA](https://www.thepowderroomstudiola.com/)** | **[Social Media Marketing Intern (Part Time)](https://jobright.ai/jobs/info/6a331197f6b55d12c79179cd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 Marketing Intern - South Lake Tahoe](https://jobright.ai/jobs/info/6a3308cace501060b5cebf46?utm_campaign=1065&utm_source=git)** | South Lake Tahoe, CA | On Site | Jun 17 |
-| **[Coty](https://www.coty.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3307de7f3fdd180d4c532a?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 17 |
-| **[Compass Group Canada](http://www.compass-canada.com)** | **[Marketing Intern, Chartwells Higher Ed / Northeastern University](https://jobright.ai/jobs/info/6a33075ff6b55d12c791766e?utm_campaign=1065&utm_source=git)** | Boston, MA, US | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
