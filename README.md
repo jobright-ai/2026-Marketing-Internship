@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UXD Lab](www.uxd-lab.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a358486ce501060b5cf4991?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Jun 19 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Dairy Cattle Marketing Intern](https://jobright.ai/jobs/info/66c5c7980b7d57d04a94d286?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 19 |
+| **[Pulsewave](https://www.pulsewave.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a357dd8ce501060b5cf4827?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Jun 19 |
+| **[Crocs, Inc.](http://www.crocs.com)** | **[Seasonal Social Media Content Creator Intern - NYC](https://jobright.ai/jobs/info/6a19c9b4547e292ae1394d23?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 19 |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a357712649fdf16292f91bf?utm_campaign=1065&utm_source=git)** | CLEMSON, SC, US | On Site | Jun 19 |
 | **[Ozarks Regional YMCA](https://www.orymca.org/)** | **[Marketing & Communications Fall Semester Intern- Springfield, MO](https://jobright.ai/jobs/info/6a3576ce29c90c607e4e256c?utm_campaign=1065&utm_source=git)** | Springfield, MO 65806, USA | On Site | Jun 19 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, National Corporate Relations-Remote](https://jobright.ai/jobs/info/6a3571d4649fdf16292f8ffb?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Jun 19 |
 | **[Four Seasons](http://www.fourseasons.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a35406d7f3fdd180d4ccc87?utm_campaign=1065&utm_source=git)** | Miami Beach, US | On Site | Jun 19 |
-| **[GenPark](https://genpark.ai)** | **[GTM Intern](https://jobright.ai/jobs/info/6a35673ace501060b5cf4168?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jun 19 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18b0ab17492d3a389b8db8?utm_campaign=1065&utm_source=git)** | Remote-Wisconsin, US | Remote | Jun 19 |
 | **[Westman Atelier](https://www.westman-atelier.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a1f1ebf09442629a685758b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[Energy & Environmental Design Services, LLC](www.eandeds.com)** | **[Marketing & Community Outreach Intern](https://jobright.ai/jobs/info/6a355981649fdf16292f89f7?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | On Site | Jun 19 |
@@ -69,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[ARTECHOUSE](https://www.artechouse.com)** | **[Social Media Content Creator Intern (Washington DC)](https://jobright.ai/jobs/info/6a3556f11232144fb1562c05?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Remote/Onsite - Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a203bca4bdf8a5a96bcf525?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
 | ↳ | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a317fe80ff23769fdb1e538?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
-| **[LYNA](https://www.lynacycle.app/)** | **[Growth Marketing Intern (Remote)](https://jobright.ai/jobs/info/6a35566cf6b55d12c791f5a9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[University of Arkansas](http://uark.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a355078ce501060b5cf3ba6?utm_campaign=1065&utm_source=git)** | Fayetteville, US | On Site | Jun 19 |
 | **[Orthofix](http://www.orthofix.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a355255ce501060b5cf3c14?utm_campaign=1065&utm_source=git)** | Lewisville, US | On Site | Jun 19 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3552481232144fb1562ace?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Jun 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](https://lebizcanada.com)** | **[Fall 2026 Internship - Communications & Event Coordinator](https://jobright.ai/jobs/info/6a178b9ab091c7417c4ffc1b?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jun 18 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Arlington, VA](https://jobright.ai/jobs/info/6a342b2729c90c607e4ddc0d?utm_campaign=1065&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 18 |
 | **[Groot PR](https://grootpr.com)** | **[Public Relations& Social Media Intern - IMMEDIATE START](https://jobright.ai/jobs/info/6a34503e1232144fb155f57f?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Jun 18 |
-| **[Empire Elite Marketing](https://empireelitemarketinginc.com)** | **[Entry Level Marketing Internship](https://jobright.ai/jobs/info/6a344b3829c90c607e4de701?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Jun 18 |
-| **[GrowthExpertz](https://growthexpertz.com)** | **[Startup Marketing Internship (With Training)](https://jobright.ai/jobs/info/6a341fe4649fdf16292f42b9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 18 |
-| **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a341dda7f3fdd180d4c8c94?utm_campaign=1065&utm_source=git)** | Ballston Spa, NY, USA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
