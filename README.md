@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing - South Florida](https://jobright.ai/jobs/info/6a0b6d35538d03366dc85312?utm_campaign=1065&utm_source=git)** | Hollywood, FL | On Site | Jun 19 |
+| **[Dougherty Manufacturing](http://www.doughertymade.com)** | **[FAME INTERNSHIP](https://jobright.ai/jobs/info/6a354722ce501060b5cf3936?utm_campaign=1065&utm_source=git)** | Edgewater, FL, US | On Site | Jun 19 |
+| **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a35461229c90c607e4e1916?utm_campaign=1065&utm_source=git)** | Fayetteville, US | On Site | Jun 19 |
+| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a18b1a1abc8f63abac7b63f?utm_campaign=1065&utm_source=git)** | Corporate Office, 1251 1st Avenue, Chippewa Falls, Wisconsin, United States of America | Hybrid | Jun 19 |
+| **[AgileGrid Solutions](https://www.agilegridsolution.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3544fe7f3fdd180d4ccd20?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Four Seasons](http://www.fourseasons.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a35406d7f3fdd180d4ccc87?utm_campaign=1065&utm_source=git)** | Miami Beach, US | On Site | Jun 19 |
 | **[Global Trade Integration: Connecting Poor Communities](www.gticonnect.org)** | **[Search Engine Optimization Specialist (Unpaid Internship)](https://jobright.ai/jobs/info/6a353d057f3fdd180d4ccbd7?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 19 |
 | **[Gift](https://www.shine.gift)** | **[Music Community Growth Intern](https://jobright.ai/jobs/info/6a35369e29c90c607e4e16d3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emerald Canning Partners](https://emeraldcanningpartners.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a33fb641232144fb155d885?utm_campaign=1065&utm_source=git)** | Mount Clemens, MI | Hybrid | Jun 18 |
 | **[Coty](https://www.coty.com/)** | **[Operational Trade Marketing Intern](https://jobright.ai/jobs/info/6a341e717f3fdd180d4c8ce0?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 18 |
 | **[407 ETR](https://407etr.com)** | **[Communications Intern (12 Month Contract)](https://jobright.ai/jobs/info/6a18695edbc80963f9343742?utm_campaign=1065&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | Jun 18 |
-| **[Culangex](https://www.culangex.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a340234f6b55d12c791a687?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 18 |
-| **[TikTok](https://www.tiktok.com)** | **[News Partnerships and Operations Project Intern (TikTok-Operations-News) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fb2a9ae1560008411573cc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
-| ↳ | **[Brand Campaign Project Intern (TikTok Shop) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33bd34f6b55d12c791991f?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
-| **[Lost Angels](https://lostangelsbeauty.com)** | **[Beauty Brand Intern - Summer 2026](https://jobright.ai/jobs/info/6a3388aa649fdf16292f24b7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Brand Representative Internship](https://jobright.ai/jobs/info/6a34d4fa29c90c607e4e0a4b?utm_campaign=1065&utm_source=git)** | College Park, MD | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
