@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriting Internship](https://jobright.ai/jobs/info/6a34cdfcf6b55d12c791e1f8?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jun 18 |
+| **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34c94d1232144fb156148a?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 18 |
 | **[Flash Forward Foundation](www.flashforwardfoundation.org)** | **[Growth Intern](https://jobright.ai/jobs/info/6a34b21729c90c607e4e02de?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall Corporate Intern - Global Marketing](https://jobright.ai/jobs/info/6a346d60f6b55d12c791cc81?utm_campaign=1065&utm_source=git)** | Interval Corporate Office Sunset, US | Hybrid | Jun 18 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Agent PR & Partnerships Executive Intern](https://jobright.ai/jobs/info/6a34a949649fdf16292f6c32?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Internal Communications Intern](https://jobright.ai/jobs/info/6a345b57ce501060b5cf0da3?utm_campaign=1065&utm_source=git)** | 3201 N Garden Dr, Lehi, UT, 84048, US | Hybrid | Jun 18 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Social Media & Digital Content Intern](https://jobright.ai/jobs/info/6a34a78ff6b55d12c791da33?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 18 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a3436da649fdf16292f4af7?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 18 |
+| **[Stellar Socials By Limitless](https://www.stellarsocialsbylimitless.com/)** | **[Events Marketing Intern / $400](https://jobright.ai/jobs/info/6a34ce0f649fdf16292f7444?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 18 |
 | **[UF Health](https://ufhealth.org/)** | **[Student / Intern / Web Services / Day / Part-Time](https://jobright.ai/jobs/info/6a34a3c9649fdf16292f6b2c?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jun 18 |
 | **[Rossen Law Firm](https://www.rossenlawfirm.com)** | **[Marketing & Content Creator Intern](https://jobright.ai/jobs/info/6a34a2fa7f3fdd180d4cb45d?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, Florida | On Site | Jun 18 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Reno](https://jobright.ai/jobs/info/6a349993f6b55d12c791d7e4?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Jun 18 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Campaign Project Intern (TikTok Shop) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33bd34f6b55d12c791991f?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | **[Lost Angels](https://lostangelsbeauty.com)** | **[Beauty Brand Intern - Summer 2026](https://jobright.ai/jobs/info/6a3388aa649fdf16292f24b7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
 | **[LivingQ](https://livingq.city)** | **[Marketing Internship Commercial Real Estate](https://jobright.ai/jobs/info/6a337fc7649fdf16292f23cf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a34cb8f1232144fb1561557?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 17 |
 | **[SYSTRA Canada](https://www.systracanada.com/en/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a343447f6b55d12c791b845?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 17 |
 | **[My Senior Health Plan](https://myseniorhealthplan.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a335d41910b734910714e81?utm_campaign=1065&utm_source=git)** | La Jolla, CA | On Site | Jun 17 |
 | **[Litmus](http://litmus.io)** | **[Partner Marketing Intern](https://jobright.ai/jobs/info/6a3335f929c90c607e4daadf?utm_campaign=1065&utm_source=git)** | Toronto, Canada | Hybrid | Jun 17 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Brand Communications Intern (12 Months)](https://jobright.ai/jobs/info/6a334dd029c90c607e4db02a?utm_campaign=1065&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jun 17 |
-| **[Title Resources Group](https://trguw.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a32eefd29c90c607e4d8feb?utm_campaign=1065&utm_source=git)** | US | On Site | Jun 17 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a32d43cf6b55d12c7915e2c?utm_campaign=1065&utm_source=git)** | Sandy,UT,US | On Site | Jun 17 |
-| **[SYSTRA](https://www.systra.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a334f5f7f3fdd180d4c6575?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 17 |
-| **[Pure Power Engineering](https://www.purepower.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a32eeda7f3fdd180d4c44c2?utm_campaign=1065&utm_source=git)** | Hoboken,NJ,US | Hybrid | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
