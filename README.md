@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moments By Max: Balloon Decor, Marquees & Event Rentals](www.momentsbymax.com)** | **[Social Media, Marketing & Admin Internship](https://jobright.ai/jobs/info/6a31b03f5958816970016496?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 20 |
+| **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bb2a863b74eb1e2c899a19?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 20 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Marketing Intern / Fall 2026](https://jobright.ai/jobs/info/6a366dc1a0f3e56e86d6b5e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 20 |
+| **[The Greater Oklahoma City Hispanic Chamber of Commerce](http://www.okchispanicchamber.org)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6a36916629c90c607e4e53de?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Jun 20 |
 | **[Attain Sports](https://attainsports.com)** | **[2026 Orange Ambassador Internship](https://jobright.ai/jobs/info/6a36612dce501060b5cf6e54?utm_campaign=1065&utm_source=git)** | Bowie, MD | On Site | Jun 20 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a19c434c2a87d6cd3dfb56e?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 20 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Intern, Partnership](https://jobright.ai/jobs/info/6a0e045783d7144289814ca6?utm_campaign=1065&utm_source=git)** | Brea, California, United States | On Site | Jun 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Uniform Atelier](https://www.theuniformatelier.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a348515ce501060b5cf19e7?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | On Site | Jun 18 |
 | **[MUBI](http://mubi.com)** | **[Global Content Marketing Intern](https://jobright.ai/jobs/info/6a34a11c29c90c607e4e0001?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 18 |
 | **[Liv Hospitality, LLC](http://www.livhotelgroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a345aa029c90c607e4dedb9?utm_campaign=1065&utm_source=git)** | Rapid City, SD | On Site | Jun 18 |
-| **[SellScale](https://www.sellscale.com)** | **[Growth Intern (Summer 2026)](https://jobright.ai/jobs/info/6a34562ef6b55d12c791c406?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Jun 18 |
-| **[Exowatt](http://exowatt.com)** | **[AI Marketing Intern](https://jobright.ai/jobs/info/6a34507a29c90c607e4de926?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jun 18 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Communications and Design Intern Job ID : 279451](https://jobright.ai/jobs/info/6a347bf6ce501060b5cf1736?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
