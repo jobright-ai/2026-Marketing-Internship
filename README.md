@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Knot](https://www.redknotcomms.com)** | **[Internship](https://jobright.ai/jobs/info/6a36c9d1ce501060b5cf799a?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 20 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (Immediate and ON-SITE)](https://jobright.ai/jobs/info/6a36b4ebf6b55d12c79231bb?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Jun 20 |
 | **[Conifer Life Sciences Group, LLC](https://www.linkedin.com/company/91407006)** | **[Marketing Associate (Paid Internship)](https://jobright.ai/jobs/info/6a36a8bba0f3e56e86d6ba6c?utm_campaign=1065&utm_source=git)** | Worcester, MA | On Site | Jun 20 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a36a237a0f3e56e86d6b9e4?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jun 20 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Development & Community Events-Tulsa, OK or immediate surrounding area](https://jobright.ai/jobs/info/6a34746bf6b55d12c791ce84?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Jun 18 |
 | **[Universal Atlantic Systems](http://uas.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3472a81232144fb15601a9?utm_campaign=1065&utm_source=git)** | Paoli, PA | On Site | Jun 18 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Outreach & Fundraising Intern (CSLP FWS)](https://jobright.ai/jobs/info/6a346f7bf6b55d12c791cd45?utm_campaign=1065&utm_source=git)** | AZ Phoenix, US | On Site | Jun 18 |
-| **[RedCircle](https://redcircle.com)** | **[Ad Operations Intern](https://jobright.ai/jobs/info/6a346b61f6b55d12c791cbb7?utm_campaign=1065&utm_source=git)** | Los Angeles | Hybrid | Jun 18 |
-| ↳ | **[Ad Operations Intern](https://jobright.ai/jobs/info/6a346b61f6b55d12c791cbb6?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Jun 18 |
+| **[RedCircle](https://redcircle.com)** | **[Ad Operations Intern](https://jobright.ai/jobs/info/6a346b61f6b55d12c791cbb6?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Jun 18 |
+| ↳ | **[Ad Operations Intern](https://jobright.ai/jobs/info/6a346b61f6b55d12c791cbb7?utm_campaign=1065&utm_source=git)** | Los Angeles | Hybrid | Jun 18 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Marketing (Web Experimentation)](https://jobright.ai/jobs/info/6a343426649fdf16292f49bd?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jun 18 |
 | ↳ | **[Intern - Repeat Marketing: CRM & Email Marketing](https://jobright.ai/jobs/info/6a343428649fdf16292f49be?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jun 18 |
 | ↳ | **[Intern - Repeat Marketing: Luxury Events & Content Marketing](https://jobright.ai/jobs/info/6a34342a649fdf16292f49bf?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jun 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6a3466f5f6b55d12c791ca83?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 | **[Topline Pro](https://www.toplinepro.com)** | **[Content Marketing Intern [Paid] - Summer 2026](https://jobright.ai/jobs/info/6a345f42ce501060b5cf0f15?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jun 18 |
 | **[M+C Saatchi Group](https://mcsaatchi.com/)** | **[Paid Media Intern](https://jobright.ai/jobs/info/6a345d44f6b55d12c791c7ab?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 18 |
-| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6a3479317f3fdd180d4cab3d?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
