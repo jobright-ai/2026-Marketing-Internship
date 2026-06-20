@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Operater](https://operater.io)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/6a36f647a0f3e56e86d6c1e1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 20 |
+| **[HYPE IN NYC](hypeinnyc.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a36f33d29c90c607e4e5c8a?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jun 20 |
 | **[Gasser Chair](http://gasserchair.com)** | **[Marketing & Market Intelligence Intern](https://jobright.ai/jobs/info/6a36e9c21232144fb1566b87?utm_campaign=1065&utm_source=git)** | Youngstown, OH | On Site | Jun 20 |
 | **[Nerveli (Techstars '24)](https://www.getnerveli.com/)** | **[Social Media Content Creation Intern](https://jobright.ai/jobs/info/6a36e338649fdf16292fc619?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Jun 20 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Marketing (Web Experimentation)](https://jobright.ai/jobs/info/6a343426649fdf16292f49bd?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jun 18 |
 | ↳ | **[Intern - Repeat Marketing: CRM & Email Marketing](https://jobright.ai/jobs/info/6a343428649fdf16292f49be?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jun 18 |
 | ↳ | **[Intern - Repeat Marketing: Luxury Events & Content Marketing](https://jobright.ai/jobs/info/6a34342a649fdf16292f49bf?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jun 18 |
-| ↳ | **[Intern - Digital Marketing (Performance Marketing)](https://jobright.ai/jobs/info/6a3485561232144fb15606ca?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 18 |
-| ↳ | **[Intern - Partnership Marketing](https://jobright.ai/jobs/info/6a34342c7f3fdd180d4c942d?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
