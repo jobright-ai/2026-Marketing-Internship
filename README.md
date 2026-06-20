@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Intern, Partnership](https://jobright.ai/jobs/info/6a0e045783d7144289814ca6?utm_campaign=1065&utm_source=git)** | Brea, California, United States | On Site | Jun 20 |
 | **[Hospital Council of Northwest Ohio](https://www.hcno.org/)** | **[Community Engagement Intern- Queens Village](https://jobright.ai/jobs/info/6a364991649fdf16292fb237?utm_campaign=1065&utm_source=git)** | Toledo, OH | Hybrid | Jun 20 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Gifting/PR Intern / Fall 2026](https://jobright.ai/jobs/info/6a3636bfa0f3e56e86d6ab8e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[SocialSoule](https://www.socialsoule.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3614c5f6b55d12c7921fdc?utm_campaign=1065&utm_source=git)** | Kansas City, MO | Remote | Jun 19 |
 | **[The Be. Org](https://www.thebeorg.com)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/698f69a30cc8ea15f1d9ef64?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[LangPal](https://www.lang-pal.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a35f2521232144fb1565177?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
+| **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Stagiaire marketing de la restauration – 6 mois à partir de janvier 2027 (H/F/D)](https://jobright.ai/jobs/info/6a3653e4649fdf16292fb2fd?utm_campaign=1065&utm_source=git)** | La Malbaie, Quebec, Canada | On Site | Jun 19 |
 | **[Palouse Habitat For Humanity](http://palousehabitat.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a35eb9af6b55d12c7921c5e?utm_campaign=1065&utm_source=git)** | Moscow, Idaho, US | On Site | Jun 19 |
 | **[Endeavor Venture Fund & Venture Studio](www.gershoncapital.com)** | **[Social Media Internship (unpaid)](https://jobright.ai/jobs/info/6a35e0e11232144fb1564de4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[Syft.ai](https://syft-ai.lovable.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a35e0dd649fdf16292fa8a2?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Hybrid | Jun 19 |
@@ -131,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Development & Community Events-Tulsa, OK or immediate surrounding area](https://jobright.ai/jobs/info/6a34746bf6b55d12c791ce84?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Jun 18 |
 | **[Universal Atlantic Systems](http://uas.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3472a81232144fb15601a9?utm_campaign=1065&utm_source=git)** | Paoli, PA | On Site | Jun 18 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Outreach & Fundraising Intern (CSLP FWS)](https://jobright.ai/jobs/info/6a346f7bf6b55d12c791cd45?utm_campaign=1065&utm_source=git)** | AZ Phoenix, US | On Site | Jun 18 |
-| **[RedCircle](https://redcircle.com)** | **[Ad Operations Intern](https://jobright.ai/jobs/info/6a346b61f6b55d12c791cbb6?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Jun 18 |
-| ↳ | **[Ad Operations Intern](https://jobright.ai/jobs/info/6a346b61f6b55d12c791cbb7?utm_campaign=1065&utm_source=git)** | Los Angeles | Hybrid | Jun 18 |
+| **[RedCircle](https://redcircle.com)** | **[Ad Operations Intern](https://jobright.ai/jobs/info/6a346b61f6b55d12c791cbb7?utm_campaign=1065&utm_source=git)** | Los Angeles | Hybrid | Jun 18 |
+| ↳ | **[Ad Operations Intern](https://jobright.ai/jobs/info/6a346b61f6b55d12c791cbb6?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Jun 18 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Marketing (Web Experimentation)](https://jobright.ai/jobs/info/6a343426649fdf16292f49bd?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jun 18 |
 | ↳ | **[Intern - Repeat Marketing: CRM & Email Marketing](https://jobright.ai/jobs/info/6a343428649fdf16292f49be?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jun 18 |
 | ↳ | **[Intern - Repeat Marketing: Luxury Events & Content Marketing](https://jobright.ai/jobs/info/6a34342a649fdf16292f49bf?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jun 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Tulsa, OK or immediate surrounding area](https://jobright.ai/jobs/info/6a344ed57f3fdd180d4c9d10?utm_campaign=1065&utm_source=git)** | Tulsa, OK, US | On Site | Jun 18 |
 | ↳ | **[Intern, Development & Community Events-Irving, TX](https://jobright.ai/jobs/info/6a344eb81232144fb155f4ae?utm_campaign=1065&utm_source=git)** | Irving, TX, US | Hybrid | Jun 18 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Communications Fall 2026 Internship](https://jobright.ai/jobs/info/6a344bcf7f3fdd180d4c9c1f?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jun 18 |
-| **[JZW Architects](https://jzw-a.com)** | **[Marketing & Business Development Intern (Part-Time)](https://jobright.ai/jobs/info/6a344b53ce501060b5cf0711?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jun 18 |
-| **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a344a781232144fb155f376?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
