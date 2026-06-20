@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Attain Sports](https://attainsports.com)** | **[2026 Orange Ambassador Internship](https://jobright.ai/jobs/info/6a36612dce501060b5cf6e54?utm_campaign=1065&utm_source=git)** | Bowie, MD | On Site | Jun 20 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a19c434c2a87d6cd3dfb56e?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 20 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Intern, Partnership](https://jobright.ai/jobs/info/6a0e045783d7144289814ca6?utm_campaign=1065&utm_source=git)** | Brea, California, United States | On Site | Jun 20 |
 | **[Hospital Council of Northwest Ohio](https://www.hcno.org/)** | **[Community Engagement Intern- Queens Village](https://jobright.ai/jobs/info/6a364991649fdf16292fb237?utm_campaign=1065&utm_source=git)** | Toledo, OH | Hybrid | Jun 20 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Gifting/PR Intern / Fall 2026](https://jobright.ai/jobs/info/6a3636bfa0f3e56e86d6ab8e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
+| **[Tastepoint by IFF](https://www.tastepoint.com)** | **[Intern - Marketing & Digital Experience](https://jobright.ai/jobs/info/6a365f86a0f3e56e86d6afb1?utm_campaign=1065&utm_source=git)** | Citrus Park, FL | On Site | Jun 19 |
 | **[SocialSoule](https://www.socialsoule.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3614c5f6b55d12c7921fdc?utm_campaign=1065&utm_source=git)** | Kansas City, MO | Remote | Jun 19 |
+| **[PenFed Credit Union](https://www.penfed.org)** | **[Summer Intern, Event Coordinator](https://jobright.ai/jobs/info/6a365f91649fdf16292fb57a?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Jun 19 |
+| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Orlando/Miami, FL) Summer/Fall 2026](https://jobright.ai/jobs/info/6a365f79f6b55d12c79225c3?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Jun 19 |
 | **[The Be. Org](https://www.thebeorg.com)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/698f69a30cc8ea15f1d9ef64?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[LangPal](https://www.lang-pal.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a35f2521232144fb1565177?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Stagiaire marketing de la restauration – 6 mois à partir de janvier 2027 (H/F/D)](https://jobright.ai/jobs/info/6a3653e4649fdf16292fb2fd?utm_campaign=1065&utm_source=git)** | La Malbaie, Quebec, Canada | On Site | Jun 19 |
@@ -72,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Holiday Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a35d99d649fdf16292fa2a6?utm_campaign=1065&utm_source=git)** | South San Francisco, California, USA | On Site | Jun 19 |
 | **[The Little Lighthouse Foundation](http://www.TheLittleLighthouse.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a35c1c1ce501060b5cf5663?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | Hybrid | Jun 19 |
 | **[ERO Resources Corporation](https://www.eroresources.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a35bd7e29c90c607e4e3524?utm_campaign=1065&utm_source=git)** | Lakewood, CO | Hybrid | Jun 19 |
-| **[Operater](https://operater.io)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6a35baee29c90c607e4e34f7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/6a35de2c7f3fdd180d4cef6d?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Jun 19 |
 | **[Intrigue](http://www.intriguemag.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a35b189649fdf16292f9f8d?utm_campaign=1065&utm_source=git)** | Media, PA | Remote | Jun 19 |
 | **[Ares Technology Consultants](www.arestc.com)** | **[Marketing/Social Media Intern](https://jobright.ai/jobs/info/6a35a6fb649fdf16292f9e54?utm_campaign=1065&utm_source=git)** | Remote (United States) | Remote | Jun 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SellScale](https://www.sellscale.com)** | **[Growth Intern (Summer 2026)](https://jobright.ai/jobs/info/6a34562ef6b55d12c791c406?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Jun 18 |
 | **[Exowatt](http://exowatt.com)** | **[AI Marketing Intern](https://jobright.ai/jobs/info/6a34507a29c90c607e4de926?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jun 18 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Communications and Design Intern Job ID : 279451](https://jobright.ai/jobs/info/6a347bf6ce501060b5cf1736?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 18 |
-| **[Minnesota Farmers Union](http://www.mfu.org)** | **[Events Planning Paid Internship](https://jobright.ai/jobs/info/6a344ff129c90c607e4de8a7?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Jun 18 |
-| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Tulsa, OK or immediate surrounding area](https://jobright.ai/jobs/info/6a344ed57f3fdd180d4c9d10?utm_campaign=1065&utm_source=git)** | Tulsa, OK, US | On Site | Jun 18 |
-| ↳ | **[Intern, Development & Community Events-Irving, TX](https://jobright.ai/jobs/info/6a344eb81232144fb155f4ae?utm_campaign=1065&utm_source=git)** | Irving, TX, US | Hybrid | Jun 18 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Communications Fall 2026 Internship](https://jobright.ai/jobs/info/6a344bcf7f3fdd180d4c9c1f?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
