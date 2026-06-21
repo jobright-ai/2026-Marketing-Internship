@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Youth Programs Marketing](https://jobright.ai/jobs/info/6a2a5bd40c4972328e7e8759?utm_campaign=1065&utm_source=git)** | Harrison, NJ | Hybrid | Jun 21 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a37e832649fdf16292fdc37?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 21 |
+| **[AgileGrid Solutions](https://www.agilegridsolution.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a37e7e41232144fb156809d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Merchandising Strategy Manager Intern (TikTok Shop Affiliate Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a37c2f9649fdf16292fda08?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 21 |
 | **[Starco Brands](https://www.starcobrands.com)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/6a37c0f029c90c607e4e6dae?utm_campaign=1065&utm_source=git)** | Los Angeles, CA 90038 | On Site | Jun 21 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting/Social Media (Intern)](https://jobright.ai/jobs/info/6a3772b1649fdf16292fd307?utm_campaign=1065&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Jun 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brightside Child & Family Advocacy](https://www.brightsideadvocacy.org)** | **[Marketing And Development Intern](https://jobright.ai/jobs/info/6a349364f6b55d12c791d6e8?utm_campaign=1065&utm_source=git)** | Savannah, GA | Hybrid | Jun 18 |
 | **[DigiFinex Global](https://www.digifinex.com/)** | **[Marketing Intern – Korea Marketing (Unpaid)](https://jobright.ai/jobs/info/6a348fefce501060b5cf1d11?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jun 18 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Global Social Media Intern](https://jobright.ai/jobs/info/6a3489347f3fdd180d4cafe3?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Jun 18 |
-| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Summer 2026 Public Relations Intern](https://jobright.ai/jobs/info/6a34892b649fdf16292f668f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
-| **[Future Tech Leaders](https://futuretechleader.com)** | **[Brand & Social Media Intern](https://jobright.ai/jobs/info/6a34871f1232144fb1560776?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Jun 18 |
-| **[Northgate Resorts](https://northgateresorts.com)** | **[Hospitality Marketing Intern](https://jobright.ai/jobs/info/6a34798e1232144fb156039b?utm_campaign=1065&utm_source=git)** | Breaux Bridge, LA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
