@@ -86,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bb2a863b74eb1e2c899a19?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 20 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Marketing Intern / Fall 2026](https://jobright.ai/jobs/info/6a366dc1a0f3e56e86d6b5e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 20 |
 | **[The Greater Oklahoma City Hispanic Chamber of Commerce](http://www.okchispanicchamber.org)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6a36916629c90c607e4e53de?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Jun 20 |
+| ↳ | **[Intern, Marketing Media](https://jobright.ai/jobs/info/6a3789d629c90c607e4e68b3?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Jun 20 |
 | **[Attain Sports](https://attainsports.com)** | **[2026 Orange Ambassador Internship](https://jobright.ai/jobs/info/6a36612dce501060b5cf6e54?utm_campaign=1065&utm_source=git)** | Bowie, MD | On Site | Jun 20 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a19c434c2a87d6cd3dfb56e?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jun 20 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Intern, Partnership](https://jobright.ai/jobs/info/6a0e045783d7144289814ca6?utm_campaign=1065&utm_source=git)** | Brea, California, United States | On Site | Jun 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northgate Resorts](https://northgateresorts.com)** | **[Hospitality Marketing Intern](https://jobright.ai/jobs/info/6a34798e1232144fb156039b?utm_campaign=1065&utm_source=git)** | Breaux Bridge, LA | On Site | Jun 18 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Arlington, VA](https://jobright.ai/jobs/info/6a3474d0649fdf16292f60c5?utm_campaign=1065&utm_source=git)** | Virginia, United States | Hybrid | Jun 18 |
 | ↳ | **[Intern, Development & Community Events-Irving, TX](https://jobright.ai/jobs/info/6a34747ace501060b5cf1568?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Jun 18 |
-| ↳ | **[Intern, Development & Community Events-Tulsa, OK or immediate surrounding area](https://jobright.ai/jobs/info/6a34746bf6b55d12c791ce84?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
