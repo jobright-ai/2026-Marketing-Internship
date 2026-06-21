@@ -57,8 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lisen Imprinting Diagnostics](http://lisenid.com)** | **[Business Operations & Marketing Intern](https://jobright.ai/jobs/info/6a380a721232144fb15682c9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 21 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a38072a1232144fb1568281?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 21 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a38071429c90c607e4e71fc?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 21 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a3807141232144fb156827c?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jun 21 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a380713649fdf16292fde21?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jun 21 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a3807121232144fb156827a?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Jun 21 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a380711ce501060b5cf917d?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 21 |
+| ↳ | **[Brand Representative Internship](https://jobright.ai/jobs/info/6a38070f29c90c607e4e71f8?utm_campaign=1065&utm_source=git)** | College Park, MD | On Site | Jun 21 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Youth Programs Marketing](https://jobright.ai/jobs/info/6a2a5bd40c4972328e7e8759?utm_campaign=1065&utm_source=git)** | Harrison, NJ | Hybrid | Jun 21 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a37e832649fdf16292fdc37?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 21 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a3807181232144fb156827e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 21 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a380714649fdf16292fde23?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 21 |
+| ↳ | **[Brand Representative Internship](https://jobright.ai/jobs/info/6a38071029c90c607e4e71fa?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 21 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a38070ff6b55d12c7924f5c?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 21 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a37e832649fdf16292fdc37?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 21 |
 | **[AgileGrid Solutions](https://www.agilegridsolution.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a37e7e41232144fb156809d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Merchandising Strategy Manager Intern (TikTok Shop Affiliate Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a37c2f9649fdf16292fda08?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 21 |
 | **[Starco Brands](https://www.starcobrands.com)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/6a37c0f029c90c607e4e6dae?utm_campaign=1065&utm_source=git)** | Los Angeles, CA 90038 | On Site | Jun 21 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Love, Bonito](https://www.lovebonito.com/)** | **[Social & Community Intern - New York](https://jobright.ai/jobs/info/6a3551987f3fdd180d4ccff2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Operations Project Intern (TikTok LIVE) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3519487f3fdd180d4cc61c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | ↳ | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698aa067c5761b521a99e70c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 19 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd16f54828227293ff49a6?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34c94d1232144fb156148a?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 18 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall Corporate Intern - Global Marketing](https://jobright.ai/jobs/info/6a346d60f6b55d12c791cc81?utm_campaign=1065&utm_source=git)** | Interval Corporate Office Sunset, US | Hybrid | Jun 18 |
-| **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Agent PR & Partnerships Executive Intern](https://jobright.ai/jobs/info/6a34a949649fdf16292f6c32?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 18 |
-| ↳ | **[Jr. Social Media & Digital Content Intern](https://jobright.ai/jobs/info/6a34a78ff6b55d12c791da33?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 18 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a3436da649fdf16292f4af7?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 18 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, Reno](https://jobright.ai/jobs/info/6a349993f6b55d12c791d7e4?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Jun 18 |
-| **[Dolby Laboratories](http://www.dolby.com)** | **[Global Social Media Intern](https://jobright.ai/jobs/info/6a349424f6b55d12c791d71d?utm_campaign=1065&utm_source=git)** | Burbank, US | Hybrid | Jun 18 |
-| **[Brightside Child & Family Advocacy](https://www.brightsideadvocacy.org)** | **[Marketing And Development Intern](https://jobright.ai/jobs/info/6a349364f6b55d12c791d6e8?utm_campaign=1065&utm_source=git)** | Savannah, GA | Hybrid | Jun 18 |
-| **[DigiFinex Global](https://www.digifinex.com/)** | **[Marketing Intern – Korea Marketing (Unpaid)](https://jobright.ai/jobs/info/6a348fefce501060b5cf1d11?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Jun 18 |
-| **[Dolby Laboratories](http://www.dolby.com)** | **[Global Social Media Intern](https://jobright.ai/jobs/info/6a3489347f3fdd180d4cafe3?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Jun 18 |
-| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Summer 2026 Public Relations Intern](https://jobright.ai/jobs/info/6a34892b649fdf16292f668f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
