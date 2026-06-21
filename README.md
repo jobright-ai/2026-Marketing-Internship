@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Janji](http://janji.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6a37473329c90c607e4e630e?utm_campaign=1065&utm_source=git)** | Somerville, MA | On Site | Jun 20 |
+| **[WEARSHIKA](www.wearshika.com)** | **[Influencer Partnerships Intern](https://jobright.ai/jobs/info/6a37442d1232144fb1567382?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 20 |
 | **[Howl Marketing](https://howl-marketing.com/)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/6a3737dbce501060b5cf82c7?utm_campaign=1065&utm_source=git)** | Rough and Ready, CA | On Site | Jun 20 |
 | **[Operater](https://operater.io)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/6a36f647a0f3e56e86d6c1e1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 20 |
 | **[Gasser Chair](http://gasserchair.com)** | **[Marketing & Market Intelligence Intern](https://jobright.ai/jobs/info/6a36e9c21232144fb1566b87?utm_campaign=1065&utm_source=git)** | Youngstown, OH | On Site | Jun 20 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Hospital Council of Northwest Ohio](https://www.hcno.org/)** | **[Community Engagement Intern- Queens Village](https://jobright.ai/jobs/info/6a364991649fdf16292fb237?utm_campaign=1065&utm_source=git)** | Toledo, OH | Hybrid | Jun 20 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Gifting/PR Intern / Fall 2026](https://jobright.ai/jobs/info/6a3636bfa0f3e56e86d6ab8e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Tastepoint by IFF](https://www.tastepoint.com)** | **[Intern - Marketing & Digital Experience](https://jobright.ai/jobs/info/6a365f86a0f3e56e86d6afb1?utm_campaign=1065&utm_source=git)** | Citrus Park, FL | On Site | Jun 19 |
-| **[SocialSoule](https://www.socialsoule.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3614c5f6b55d12c7921fdc?utm_campaign=1065&utm_source=git)** | Kansas City, MO | Remote | Jun 19 |
 | **[PenFed Credit Union](https://www.penfed.org)** | **[Summer Intern, Event Coordinator](https://jobright.ai/jobs/info/6a365f91649fdf16292fb57a?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Jun 19 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Orlando/Miami, FL) Summer/Fall 2026](https://jobright.ai/jobs/info/6a365f79f6b55d12c79225c3?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Jun 19 |
 | **[Northside Hospital](http://www.northside.com)** | **[Sponsorship Internship](https://jobright.ai/jobs/info/6a3424ca649fdf16292f44bc?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Jun 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Universal Atlantic Systems](http://uas.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3472a81232144fb15601a9?utm_campaign=1065&utm_source=git)** | Paoli, PA | On Site | Jun 18 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Outreach & Fundraising Intern (CSLP FWS)](https://jobright.ai/jobs/info/6a346f7bf6b55d12c791cd45?utm_campaign=1065&utm_source=git)** | AZ Phoenix, US | On Site | Jun 18 |
 | **[RedCircle](https://redcircle.com)** | **[Ad Operations Intern](https://jobright.ai/jobs/info/6a346b61f6b55d12c791cbb7?utm_campaign=1065&utm_source=git)** | Los Angeles | Hybrid | Jun 18 |
-| ↳ | **[Ad Operations Intern](https://jobright.ai/jobs/info/6a346b61f6b55d12c791cbb6?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
