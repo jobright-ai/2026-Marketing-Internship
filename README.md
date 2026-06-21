@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Operater](https://operater.io)** | **[Social Media Content Internship](https://jobright.ai/jobs/info/6a38153b1232144fb1568388?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 21 |
 | **[Lisen Imprinting Diagnostics](http://lisenid.com)** | **[Business Operations & Marketing Intern](https://jobright.ai/jobs/info/6a380a721232144fb15682c9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 21 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a38072a1232144fb1568281?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 21 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a38071429c90c607e4e71fc?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 21 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a3807141232144fb156827c?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jun 21 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a38071429c90c607e4e71fc?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 21 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a380713649fdf16292fde21?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jun 21 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a3807121232144fb156827a?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Jun 21 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a380711ce501060b5cf917d?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 21 |
@@ -84,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Nerveli](https://www.getnerveli.com/)** | **[Social Media Content Creation Intern](https://jobright.ai/jobs/info/6a36e338649fdf16292fc619?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Jun 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - The Friend Digital Messaging (Church Magazines)](https://jobright.ai/jobs/info/6a3709281232144fb1566e99?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 20 |
 | ↳ | **[Full Time Paid Intern – Youth Social Media (Strive to Be) Content Creator](https://jobright.ai/jobs/info/6a19fdd9c2a87d6cd3dfcb98?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 20 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 20 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 20 |
 | **[Red Knot](https://www.redknotcomms.com)** | **[Internship](https://jobright.ai/jobs/info/6a36c9d1ce501060b5cf799a?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time Paid Intern –Youth Social Media Writer](https://jobright.ai/jobs/info/6a19fded6b135014dbc876ed?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 20 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (Immediate and ON-SITE)](https://jobright.ai/jobs/info/6a36b4ebf6b55d12c79231bb?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Jun 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plombon Insurance](https://www.plomboninsurance.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3533111232144fb1562446?utm_campaign=1065&utm_source=git)** | Media, PA | On Site | Jun 19 |
 | **[Love, Bonito](https://www.lovebonito.com/)** | **[Social & Community Intern - New York](https://jobright.ai/jobs/info/6a3551987f3fdd180d4ccff2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Operations Project Intern (TikTok LIVE) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3519487f3fdd180d4cc61c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
-| ↳ | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698aa067c5761b521a99e70c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
