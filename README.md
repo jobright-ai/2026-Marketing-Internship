@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting/Social Media (Intern)](https://jobright.ai/jobs/info/6a3772b1649fdf16292fd307?utm_campaign=1065&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Jun 20 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Paid Digital Marketing Intern #677 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a376d5ca0f3e56e86d6cb9e?utm_campaign=1065&utm_source=git)** | La Crosse, WI, US, 54603 | On Site | Jun 20 |
+| **[FICUS HEALTH](https://www.ficus-health.de/)** | **[Founder's Associate Intern – Marketing (m/w/d)](https://jobright.ai/jobs/info/6a376ac2649fdf16292fd208?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 20 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting/Social Media (Intern)](https://jobright.ai/jobs/info/6a37697129c90c607e4e6607?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jun 20 |
 | **[Janji](http://janji.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6a37473329c90c607e4e630e?utm_campaign=1065&utm_source=git)** | Somerville, MA | On Site | Jun 20 |
 | **[Howl Marketing](https://howl-marketing.com/)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/6a3737dbce501060b5cf82c7?utm_campaign=1065&utm_source=git)** | Rough and Ready, CA | On Site | Jun 20 |
@@ -66,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[DemaDose](https://www.demadose.com/)** | **[Internship SEO Specialist](https://jobright.ai/jobs/info/6a370ba9ce501060b5cf7ee6?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Jun 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - The Friend Digital Messaging (Church Magazines)](https://jobright.ai/jobs/info/6a3709281232144fb1566e99?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 20 |
 | ↳ | **[Full Time Paid Intern – Youth Social Media (Strive to Be) Content Creator](https://jobright.ai/jobs/info/6a19fdd9c2a87d6cd3dfcb98?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 20 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 20 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 20 |
 | **[Red Knot](https://www.redknotcomms.com)** | **[Internship](https://jobright.ai/jobs/info/6a36c9d1ce501060b5cf799a?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time Paid Intern –Youth Social Media Writer](https://jobright.ai/jobs/info/6a19fded6b135014dbc876ed?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 20 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (Immediate and ON-SITE)](https://jobright.ai/jobs/info/6a36b4ebf6b55d12c79231bb?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Jun 20 |
@@ -120,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Westman Atelier](https://www.westman-atelier.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a1f1ebf09442629a685758b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[Energy & Environmental Design Services, LLC](www.eandeds.com)** | **[Marketing & Community Outreach Intern](https://jobright.ai/jobs/info/6a355981649fdf16292f89f7?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | On Site | Jun 19 |
 | **[Willis Johnson Wealth](https://wjohnsonwealth.com/)** | **[Marketing Internship: Fall 2026](https://jobright.ai/jobs/info/6a3558e47f3fdd180d4cd226?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 19 |
-| **[MIRA Safety](https://www.mirasafety.com)** | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a317fe80ff23769fdb1e538?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
-| ↳ | **[Remote/Onsite - Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a203bca4bdf8a5a96bcf525?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
+| **[MIRA Safety](https://www.mirasafety.com)** | **[Remote/Onsite - Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a203bca4bdf8a5a96bcf525?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
+| ↳ | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a317fe80ff23769fdb1e538?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[University of Arkansas](http://uark.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a355078ce501060b5cf3ba6?utm_campaign=1065&utm_source=git)** | Fayetteville, US | On Site | Jun 19 |
 | **[Orthofix](http://www.orthofix.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a355255ce501060b5cf3c14?utm_campaign=1065&utm_source=git)** | Lewisville, US | On Site | Jun 19 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3552481232144fb1562ace?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Jun 19 |
@@ -142,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Agent PR & Partnerships Executive Intern](https://jobright.ai/jobs/info/6a34a949649fdf16292f6c32?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 18 |
 | ↳ | **[Jr. Social Media & Digital Content Intern](https://jobright.ai/jobs/info/6a34a78ff6b55d12c791da33?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 18 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a3436da649fdf16292f4af7?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 18 |
-| **[Stellar Socials By Limitless](https://www.stellarsocialsbylimitless.com/)** | **[Events Marketing Intern / $400](https://jobright.ai/jobs/info/6a34ce0f649fdf16292f7444?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 18 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Reno](https://jobright.ai/jobs/info/6a349993f6b55d12c791d7e4?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Jun 18 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Global Social Media Intern](https://jobright.ai/jobs/info/6a349424f6b55d12c791d71d?utm_campaign=1065&utm_source=git)** | Burbank, US | Hybrid | Jun 18 |
 | **[Brightside Child & Family Advocacy](https://www.brightsideadvocacy.org)** | **[Marketing And Development Intern](https://jobright.ai/jobs/info/6a349364f6b55d12c791d6e8?utm_campaign=1065&utm_source=git)** | Savannah, GA | Hybrid | Jun 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Development & Community Events-Irving, TX](https://jobright.ai/jobs/info/6a34747ace501060b5cf1568?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Jun 18 |
 | ↳ | **[Intern, Development & Community Events-Tulsa, OK or immediate surrounding area](https://jobright.ai/jobs/info/6a34746bf6b55d12c791ce84?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Jun 18 |
 | **[Universal Atlantic Systems](http://uas.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3472a81232144fb15601a9?utm_campaign=1065&utm_source=git)** | Paoli, PA | On Site | Jun 18 |
-| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Outreach & Fundraising Intern (CSLP FWS)](https://jobright.ai/jobs/info/6a346f7bf6b55d12c791cd45?utm_campaign=1065&utm_source=git)** | AZ Phoenix, US | On Site | Jun 18 |
-| **[RedCircle](https://redcircle.com)** | **[Ad Operations Intern](https://jobright.ai/jobs/info/6a346b61f6b55d12c791cbb6?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
