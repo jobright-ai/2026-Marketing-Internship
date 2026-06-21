@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Delishous](www.delishous.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a370fa129c90c607e4e5eef?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jun 20 |
+| **[Howl Marketing](https://howl-marketing.com/)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/6a3737dbce501060b5cf82c7?utm_campaign=1065&utm_source=git)** | Rough and Ready, CA | On Site | Jun 20 |
 | **[Operater](https://operater.io)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/6a36f647a0f3e56e86d6c1e1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 20 |
 | **[Gasser Chair](http://gasserchair.com)** | **[Marketing & Market Intelligence Intern](https://jobright.ai/jobs/info/6a36e9c21232144fb1566b87?utm_campaign=1065&utm_source=git)** | Youngstown, OH | On Site | Jun 20 |
 | **[Nerveli (Techstars '24)](https://www.getnerveli.com/)** | **[Social Media Content Creation Intern](https://jobright.ai/jobs/info/6a36e338649fdf16292fc619?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Jun 20 |
