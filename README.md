@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Communications](https://jobright.ai/jobs/info/6a39359606a4fd4b1fab8d02?utm_campaign=1065&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jun 22 |
+| ↳ | **[College Intern - Communications](https://jobright.ai/jobs/info/6a39359106a4fd4b1fab8d01?utm_campaign=1065&utm_source=git)** | William Green Building30 West Spring Street | On Site | Jun 22 |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Community Engagement Intern](https://jobright.ai/jobs/info/6a1d6600b524ae49285a625a?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Music Group Marketing Intern](https://jobright.ai/jobs/info/6a1d7e5ce24ef36525837e38?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
+| **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Communications](https://jobright.ai/jobs/info/6a393320f6b55d12c7926ad0?utm_campaign=1065&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jun 22 |
+| **[Tutelage School Solutions](https://tutelage.education/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a39313e214ae004c7a1d535?utm_campaign=1065&utm_source=git)** | Columbia, South Carolina Metropolitan Area | Hybrid | Jun 22 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing](https://jobright.ai/jobs/info/69d40f4e366bb95ba553a209?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Jun 22 |
+| ↳ | **[MK Intern - Marketing (Bay Area)](https://jobright.ai/jobs/info/6a337433f6b55d12c7918f43?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA, US | On Site | Jun 22 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Music Group Marketing Intern](https://jobright.ai/jobs/info/6a1d65b7c2a87d6cd3e0b660?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
 | **[Agentio](https://www.agentio.com)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/69499c5b63141d18845939a3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Social Media & Digital Content Intern](https://jobright.ai/jobs/info/6a390cd2a0f3e56e86d6ebf6?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Remote | Jun 22 |
@@ -65,13 +73,13 @@ For a complete list, click the following sortable link below:
 | **[SourceReady](https://www.sourceready.com)** | **[Creative Marketing Intern (Video Content)](https://jobright.ai/jobs/info/6a389d66f6b55d12c7925a4c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 21 |
 | **[Delishous](www.delishous.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3868e729c90c607e4e794a?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jun 21 |
 | **[BZAR](https://bzar.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a38677c649fdf16292fe583?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Jun 21 |
-| **[Find Community Connection Project](https://www.findccproject.org/)** | **[Grant Writing & Fundraising Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a3829531232144fb156848d?utm_campaign=1065&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
-| ↳ | **[Grant Writing & Fundraising Intern/Volunteer](https://jobright.ai/jobs/info/6a382953f6b55d12c7925191?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
+| **[Find Community Connection Project](https://www.findccproject.org/)** | **[Grant Writing & Fundraising Intern/Volunteer](https://jobright.ai/jobs/info/6a382953f6b55d12c7925191?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
+| ↳ | **[Grant Writing & Fundraising Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a3829531232144fb156848d?utm_campaign=1065&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
 | ↳ | **[Social Media Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a38294f1232144fb156848c?utm_campaign=1065&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
 | ↳ | **[Social Media Intern/Volunteer](https://jobright.ai/jobs/info/6a38294dce501060b5cf939b?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a38072a1232144fb1568281?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 21 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a38071429c90c607e4e71fc?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 21 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a3807141232144fb156827c?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jun 21 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a38071429c90c607e4e71fc?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 21 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a380713649fdf16292fde21?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jun 21 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a3807121232144fb156827a?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Jun 21 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a380711ce501060b5cf917d?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 21 |
@@ -95,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Nerveli](https://www.getnerveli.com/)** | **[Social Media Content Creation Intern](https://jobright.ai/jobs/info/6a36e338649fdf16292fc619?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Jun 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - The Friend Digital Messaging (Church Magazines)](https://jobright.ai/jobs/info/6a3709281232144fb1566e99?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 20 |
 | ↳ | **[Full Time Paid Intern – Youth Social Media (Strive to Be) Content Creator](https://jobright.ai/jobs/info/6a19fdd9c2a87d6cd3dfcb98?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 20 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 20 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 20 |
 | **[Red Knot](https://www.redknotcomms.com)** | **[Internship](https://jobright.ai/jobs/info/6a36c9d1ce501060b5cf799a?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time Paid Intern –Youth Social Media Writer](https://jobright.ai/jobs/info/6a19fded6b135014dbc876ed?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 20 |
 | **[TriCounty Young Professionals](https://www.tricountyareachamber.com/our-programs/tricounty-young-professionals.aspx)** | **[Events Planning Internship](https://jobright.ai/jobs/info/6a36b51e1232144fb15665ea?utm_campaign=1065&utm_source=git)** | Pottstown, PA | On Site | Jun 20 |
@@ -124,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Katie Chase Insurance & Financial Services, Inc.](http://www.KatieChase.com)** | **[INTERN - STATE FARM AGENT TEAM MEMBER](https://jobright.ai/jobs/info/6a361f7cce501060b5cf64e6?utm_campaign=1065&utm_source=git)** | Rohnert Park, CA | On Site | Jun 19 |
 | **[Tastepoint by IFF](https://www.tastepoint.com)** | **[Intern - Marketing & Digital Experience](https://jobright.ai/jobs/info/6a365f86a0f3e56e86d6afb1?utm_campaign=1065&utm_source=git)** | Citrus Park, FL | On Site | Jun 19 |
 | **[PenFed Credit Union](https://www.penfed.org)** | **[Summer Intern, Event Coordinator](https://jobright.ai/jobs/info/6a365f91649fdf16292fb57a?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Jun 19 |
-| **[Northside Hospital](http://www.northside.com)** | **[Sponsorship Internship](https://jobright.ai/jobs/info/6a3424ca649fdf16292f44bc?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Jun 19 |
 | **[The Be. Org](https://www.thebeorg.com)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/698f69a30cc8ea15f1d9ef64?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Stagiaire marketing de la restauration – 6 mois à partir de janvier 2027 (H/F/D)](https://jobright.ai/jobs/info/6a3653e4649fdf16292fb2fd?utm_campaign=1065&utm_source=git)** | La Malbaie, Quebec, Canada | On Site | Jun 19 |
 | **[Palouse Habitat For Humanity](http://palousehabitat.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a35eb9af6b55d12c7921c5e?utm_campaign=1065&utm_source=git)** | Moscow, Idaho, US | On Site | Jun 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18b0ab17492d3a389b8db8?utm_campaign=1065&utm_source=git)** | Remote-Wisconsin, US | Remote | Jun 19 |
 | **[Jonas Software](http://www.jonassoftware.com)** | **[Marketing Intern (Fall & Winter Internship – 8 Months)](https://jobright.ai/jobs/info/6a18908ac2a87d6cd3df2944?utm_campaign=1065&utm_source=git)** | Markham, Ontario, Canada | On Site | Jun 19 |
 | **[UF Health](https://ufhealth.org/)** | **[Social Media Intern / Communications / Day / Part-Time](https://jobright.ai/jobs/info/6a34a3c9649fdf16292f6b2c?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jun 19 |
-| **[Westman Atelier](https://www.westman-atelier.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a1f1ebf09442629a685758b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
-| **[Energy & Environmental Design Services, LLC](www.eandeds.com)** | **[Marketing & Community Outreach Intern](https://jobright.ai/jobs/info/6a355981649fdf16292f89f7?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | On Site | Jun 19 |
-| **[Willis Johnson Wealth](https://wjohnsonwealth.com/)** | **[Marketing Internship: Fall 2026](https://jobright.ai/jobs/info/6a3558e47f3fdd180d4cd226?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 19 |
-| **[MIRA Safety](https://www.mirasafety.com)** | **[Remote/Onsite - Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a203bca4bdf8a5a96bcf525?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
-| ↳ | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a317fe80ff23769fdb1e538?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
-| **[University of Arkansas](http://uark.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a355078ce501060b5cf3ba6?utm_campaign=1065&utm_source=git)** | Fayetteville, US | On Site | Jun 19 |
-| **[Orthofix](http://www.orthofix.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a355255ce501060b5cf3c14?utm_campaign=1065&utm_source=git)** | Lewisville, US | On Site | Jun 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
