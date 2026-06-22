@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delishous](www.delishous.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3868e729c90c607e4e794a?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jun 21 |
+| **[BZAR](https://bzar.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a38677c649fdf16292fe583?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Jun 21 |
 | **[Cashu Group](https://www.cashugroup.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3853cf1232144fb15687a2?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Jun 21 |
 | **[The Aston Thomas Integrity Commission](https://www.astonthomas.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a38475aa0f3e56e86d6db5e?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Jun 21 |
 | **[Find Community Connection Project](https://www.findccproject.org/)** | **[Grant Writing & Fundraising Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a3829531232144fb156848d?utm_campaign=1065&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
@@ -115,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Gifting/PR Intern / Fall 2026](https://jobright.ai/jobs/info/6a3636bfa0f3e56e86d6ab8e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Tastepoint by IFF](https://www.tastepoint.com)** | **[Intern - Marketing & Digital Experience](https://jobright.ai/jobs/info/6a365f86a0f3e56e86d6afb1?utm_campaign=1065&utm_source=git)** | Citrus Park, FL | On Site | Jun 19 |
 | **[PenFed Credit Union](https://www.penfed.org)** | **[Summer Intern, Event Coordinator](https://jobright.ai/jobs/info/6a365f91649fdf16292fb57a?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Jun 19 |
-| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Orlando/Miami, FL) Summer/Fall 2026](https://jobright.ai/jobs/info/6a365f79f6b55d12c79225c3?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Jun 19 |
 | **[Northside Hospital](http://www.northside.com)** | **[Sponsorship Internship](https://jobright.ai/jobs/info/6a3424ca649fdf16292f44bc?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Jun 19 |
 | **[The Be. Org](https://www.thebeorg.com)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/698f69a30cc8ea15f1d9ef64?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Stagiaire marketing de la restauration – 6 mois à partir de janvier 2027 (H/F/D)](https://jobright.ai/jobs/info/6a3653e4649fdf16292fb2fd?utm_campaign=1065&utm_source=git)** | La Malbaie, Quebec, Canada | On Site | Jun 19 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Westman Atelier](https://www.westman-atelier.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a1f1ebf09442629a685758b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[Energy & Environmental Design Services, LLC](www.eandeds.com)** | **[Marketing & Community Outreach Intern](https://jobright.ai/jobs/info/6a355981649fdf16292f89f7?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | On Site | Jun 19 |
 | **[Willis Johnson Wealth](https://wjohnsonwealth.com/)** | **[Marketing Internship: Fall 2026](https://jobright.ai/jobs/info/6a3558e47f3fdd180d4cd226?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 19 |
-| **[MIRA Safety](https://www.mirasafety.com)** | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a317fe80ff23769fdb1e538?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
-| ↳ | **[Remote/Onsite - Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a203bca4bdf8a5a96bcf525?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
+| **[MIRA Safety](https://www.mirasafety.com)** | **[Remote/Onsite - Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a203bca4bdf8a5a96bcf525?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
+| ↳ | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a317fe80ff23769fdb1e538?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 19 |
 | **[University of Arkansas](http://uark.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a355078ce501060b5cf3ba6?utm_campaign=1065&utm_source=git)** | Fayetteville, US | On Site | Jun 19 |
 | **[Orthofix](http://www.orthofix.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a355255ce501060b5cf3c14?utm_campaign=1065&utm_source=git)** | Lewisville, US | On Site | Jun 19 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3552481232144fb1562ace?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Jun 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dougherty Manufacturing](http://www.doughertymade.com)** | **[FAME INTERNSHIP](https://jobright.ai/jobs/info/6a354722ce501060b5cf3936?utm_campaign=1065&utm_source=git)** | Edgewater, FL, US | On Site | Jun 19 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a35461229c90c607e4e1916?utm_campaign=1065&utm_source=git)** | Fayetteville, US | On Site | Jun 19 |
 | **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a18b1a1abc8f63abac7b63f?utm_campaign=1065&utm_source=git)** | Corporate Office, 1251 1st Avenue, Chippewa Falls, Wisconsin, United States of America | Hybrid | Jun 19 |
-| **[Sophia Matchmaking](meetsophia.co)** | **[Social Media & Growth Intern](https://jobright.ai/jobs/info/6a355b3e649fdf16292f8a80?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
