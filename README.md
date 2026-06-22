@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ironside IT Partners](https://www.ironsideit.com)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6a319d982ee3ac1b4bef0095?utm_campaign=1065&utm_source=git)** | Blackwood, NJ | On Site | Jun 22 |
+| **[Nolan Transportation Group (NTG)](https://www.ntgfreight.com/)** | **[Social Media & Content Creation Intern (Part-Time)](https://jobright.ai/jobs/info/6a39397c06a4fd4b1fab8de6?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jun 22 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Communications](https://jobright.ai/jobs/info/6a39359606a4fd4b1fab8d02?utm_campaign=1065&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jun 22 |
 | ↳ | **[College Intern - Communications](https://jobright.ai/jobs/info/6a39359106a4fd4b1fab8d01?utm_campaign=1065&utm_source=git)** | William Green Building30 West Spring Street | On Site | Jun 22 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Community Engagement Intern](https://jobright.ai/jobs/info/6a1d6600b524ae49285a625a?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons](http://www.fourseasons.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a35406d7f3fdd180d4ccc87?utm_campaign=1065&utm_source=git)** | Miami Beach, US | On Site | Jun 19 |
 | **[MJH Life Sciences®](https://managedhealthcareexecutive.com)** | **[Summer Intern](https://jobright.ai/jobs/info/693886c9aabec14a727d6a43?utm_campaign=1065&utm_source=git)** | Cranbury, NJ | On Site | Jun 19 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18b0ab17492d3a389b8db8?utm_campaign=1065&utm_source=git)** | Remote-Wisconsin, US | Remote | Jun 19 |
-| **[Jonas Software](http://www.jonassoftware.com)** | **[Marketing Intern (Fall & Winter Internship – 8 Months)](https://jobright.ai/jobs/info/6a18908ac2a87d6cd3df2944?utm_campaign=1065&utm_source=git)** | Markham, Ontario, Canada | On Site | Jun 19 |
-| **[UF Health](https://ufhealth.org/)** | **[Social Media Intern / Communications / Day / Part-Time](https://jobright.ai/jobs/info/6a34a3c9649fdf16292f6b2c?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jun 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
