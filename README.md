@@ -57,18 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Riley AI](http://askriley.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a38bc20f6b55d12c7925d96?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 21 |
 | **[SourceReady](https://www.sourceready.com)** | **[Creative Marketing Intern (Video Content)](https://jobright.ai/jobs/info/6a389d66f6b55d12c7925a4c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 21 |
 | **[Delishous](www.delishous.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3868e729c90c607e4e794a?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jun 21 |
 | **[BZAR](https://bzar.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a38677c649fdf16292fe583?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Jun 21 |
-| **[Cashu Group](https://www.cashugroup.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3853cf1232144fb15687a2?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Jun 21 |
 | **[Find Community Connection Project](https://www.findccproject.org/)** | **[Grant Writing & Fundraising Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a3829531232144fb156848d?utm_campaign=1065&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
 | ↳ | **[Grant Writing & Fundraising Intern/Volunteer](https://jobright.ai/jobs/info/6a382953f6b55d12c7925191?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
 | ↳ | **[Social Media Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a38294f1232144fb156848c?utm_campaign=1065&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
 | ↳ | **[Social Media Intern/Volunteer](https://jobright.ai/jobs/info/6a38294dce501060b5cf939b?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
 | **[Operater](https://operater.io)** | **[Social Media Content Internship](https://jobright.ai/jobs/info/6a38153b1232144fb1568388?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 21 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a38072a1232144fb1568281?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 21 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a3807141232144fb156827c?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jun 21 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a38071429c90c607e4e71fc?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 21 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a3807141232144fb156827c?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jun 21 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a380713649fdf16292fde21?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jun 21 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a3807121232144fb156827a?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Jun 21 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a380711ce501060b5cf917d?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jun 21 |
@@ -92,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Nerveli](https://www.getnerveli.com/)** | **[Social Media Content Creation Intern](https://jobright.ai/jobs/info/6a36e338649fdf16292fc619?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Jun 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - The Friend Digital Messaging (Church Magazines)](https://jobright.ai/jobs/info/6a3709281232144fb1566e99?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 20 |
 | ↳ | **[Full Time Paid Intern – Youth Social Media (Strive to Be) Content Creator](https://jobright.ai/jobs/info/6a19fdd9c2a87d6cd3dfcb98?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 20 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/6a076e456186f4685987e3b6?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 20 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Community Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc373?utm_campaign=1065&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Jun 20 |
 | **[Red Knot](https://www.redknotcomms.com)** | **[Internship](https://jobright.ai/jobs/info/6a36c9d1ce501060b5cf799a?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time Paid Intern –Youth Social Media Writer](https://jobright.ai/jobs/info/6a19fded6b135014dbc876ed?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 20 |
 | **[TriCounty Young Professionals](https://www.tricountyareachamber.com/our-programs/tricounty-young-professionals.aspx)** | **[Events Planning Internship](https://jobright.ai/jobs/info/6a36b51e1232144fb15665ea?utm_campaign=1065&utm_source=git)** | Pottstown, PA | On Site | Jun 20 |
