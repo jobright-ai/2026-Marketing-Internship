@@ -74,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Marketing and AI Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c7a82cde2824469be818?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 22 |
 | **[Charleston Battery](https://www.charlestonbattery.com)** | **[Internship (Fall Semester) - Grassroots Marketing & Front Office Support](https://jobright.ai/jobs/info/6a39e8811232144fb156da75?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Jun 22 |
 | **[Alliance Highway Safety](http://alliancehighwaysafety.com)** | **[Marketing and Events Internship - Fall](https://jobright.ai/jobs/info/6a39e8801232144fb156da74?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jun 22 |
-| **[Influence](https://www.owninfluence.com/)** | **[Growth Intern Fellowship](https://jobright.ai/jobs/info/6a39e86c6484fb75f2b340ca?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 22 |
 | **[The Bartolotta Restaurants](https://www.bartolottas.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a39a2ce649fdf16293021f9?utm_campaign=1065&utm_source=git)** | Milwaukee,WI,US | On Site | Jun 22 |
 | **[Lagunitas Brewing Company](http://lagunitas.com)** | **[Marketing Program Support Intern](https://jobright.ai/jobs/info/6a39dd66649fdf162930320e?utm_campaign=1065&utm_source=git)** | Petaluma, CA | Hybrid | Jun 22 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39d7d46484fb75f2b33dbf?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Jun 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MK Intern - Marketing](https://jobright.ai/jobs/info/69d40f4e366bb95ba553a209?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Jun 22 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Music Group PR & Promo Intern](https://jobright.ai/jobs/info/6a319f14c477a5075f48e22a?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
 | ↳ | **[Insomniac - Paid Fall Music Group Marketing Intern](https://jobright.ai/jobs/info/6a1d65b7c2a87d6cd3e0b660?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
+| **[Agentio](https://www.agentio.com)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/69499c5b63141d18845939a3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
