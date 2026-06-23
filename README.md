@@ -58,6 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Marketing Internship / Cincinnati](https://jobright.ai/jobs/info/6a3a608d06a4fd4b1fabd4cc?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jun 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcc8bde6a0d9792584d1c9?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 23 |
+| **[QIAGEN](http://www.qiagen.com)** | **[Summer Internship Program – Marketing & Events Operations (Germantown)](https://jobright.ai/jobs/info/6a1d86746b135014dbc96880?utm_campaign=1065&utm_source=git)** | Germantown, MD | On Site | Jun 23 |
+| ↳ | **[Summer Internship Program – Marketing & Events Operations (Philadelphia)](https://jobright.ai/jobs/info/6a1d868db524ae49285a6944?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 23 |
 | **[LXN Photography](http://LXNPhotography.com/)** | **[User Research Intern (Unpaid, Remote, Written Reference, Portrait Headshots, Professional Development Opportunities Available)](https://jobright.ai/jobs/info/6a3a40b31232144fb156e3b8?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 23 |
 | **[MAËLYS](http://www.maelyscosmetics.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3a2c6a1232144fb156e247?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Jun 22 |
 | **[Read Better Be Better](http://www.readbetterbebetter.org)** | **[Internship - Fundraising and Development - Fall](https://jobright.ai/jobs/info/6a3a27ee1232144fb156e1bb?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, US | Hybrid | Jun 22 |
@@ -102,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Summer/Fall 2026: Development & Communications Intern (Unpaid)](https://jobright.ai/jobs/info/6a39970f214ae004c7a1f79d?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jun 22 |
 | **[Optimal Health Chiropractic & Physical Therapy](https://optimalhealth.fit/)** | **[Intern](https://jobright.ai/jobs/info/6a399623649fdf1629301bb9?utm_campaign=1065&utm_source=git)** | Egg Harbor, NJ | On Site | Jun 22 |
 | **[Mitratech](http://www.mitratech.com)** | **[Marketing Internship - Legal Solutions](https://jobright.ai/jobs/info/6a3995cb1232144fb156c22a?utm_campaign=1065&utm_source=git)** | Remote US | Remote | Jun 22 |
-| **[MIRA Safety](https://www.mirasafety.com)** | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a317fe80ff23769fdb1e538?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 22 |
-| ↳ | **[Remote/Onsite - Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a203bca4bdf8a5a96bcf525?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jun 22 |
+| **[MIRA Safety](https://www.mirasafety.com)** | **[Remote/Onsite - Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a203bca4bdf8a5a96bcf525?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Jun 22 |
+| ↳ | **[Affiliate Marketing Intern](https://jobright.ai/jobs/info/6a317fe80ff23769fdb1e538?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 22 |
 | **[South Carolina Stingrays](https://www.stingrayshockey.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6a3992d86484fb75f2b32760?utm_campaign=1065&utm_source=git)** | North Charleston, SC | On Site | Jun 22 |
 | **[Kitsch](https://www.mykitsch.com)** | **[TikTok Shop Creator Sourcing Intern](https://jobright.ai/jobs/info/6a39ca05649fdf1629302dc4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 22 |
 | **[Willis Johnson Wealth](https://wjohnsonwealth.com/)** | **[Marketing Internship: Fall 2026](https://jobright.ai/jobs/info/6a39916b6484fb75f2b326d2?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 22 |
@@ -121,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Maven Clinic](http://www.mavenclinic.com)** | **[Influencer & Community Intern](https://jobright.ai/jobs/info/6a395df0214ae004c7a1e0bd?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 22 |
 | ↳ | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a395df6f6b55d12c79276ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 22 |
 | **[IDX™](https://www.idx.inc)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a391551f6b55d12c79265c9?utm_campaign=1065&utm_source=git)** | Phoenix,United States | Hybrid | Jun 22 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a32c0c07f3fdd180d4c32d1?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 22 |
 | **[The Lab Consulting](http://www.thelabconsulting.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3972bb214ae004c7a1e9c8?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 22 |
 | **[South Asian Council for Social Services](https://www.sacssny.org)** | **[Communications Internship](https://jobright.ai/jobs/info/6a396ec4f6b55d12c7928027?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of North Alabama (FALL SEMESTER)](https://jobright.ai/jobs/info/6a396a4b6484fb75f2b316c0?utm_campaign=1065&utm_source=git)** | One Harrison Plaza  UNA Box 50, Florence, AL, 35632, US | On Site | Jun 22 |
@@ -131,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Fezzora, Inc.](fezzorainc.com)** | **[Entry Level Marketing 2026 Internship](https://jobright.ai/jobs/info/6a395f66649fdf1629300767?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jun 22 |
 | **[Starbeam](www.starbeam.org)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a395dd9f6b55d12c79276f7?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jun 22 |
 | **[Barnhart Crane & Rigging](https://www.barnhartcrane.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a394eb106a4fd4b1fab942f?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Jun 22 |
-| **[Erie Events](https://www.erieevents.com/)** | **[Trade Show Internship](https://jobright.ai/jobs/info/6a3957cb6484fb75f2b30d1d?utm_campaign=1065&utm_source=git)** | Erie, PA | On Site | Jun 22 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Tommie Athletics Marketing and Promotions Student Intern](https://jobright.ai/jobs/info/6a39562f06a4fd4b1fab9661?utm_campaign=1065&utm_source=git)** | St. Paul, MN, US | On Site | Jun 22 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/6a3953b7649fdf1629300428?utm_campaign=1065&utm_source=git)** | Chandler, Arizona, United States | Hybrid | Jun 22 |
 | ↳ | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/6a3953ae649fdf1629300421?utm_campaign=1065&utm_source=git)** | Tempe, Arizona, United States | Hybrid | Jun 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Marketing Internship](https://jobright.ai/jobs/info/6a3061d4524fd5657fe108e0?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing](https://jobright.ai/jobs/info/69d40f4e366bb95ba553a209?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Jun 22 |
 | ↳ | **[MK Intern - Marketing (Bay Area)](https://jobright.ai/jobs/info/6a337433f6b55d12c7918f43?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA, US | On Site | Jun 22 |
-| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Music Group PR & Promo Intern](https://jobright.ai/jobs/info/6a319f14c477a5075f48e22a?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
-| ↳ | **[Insomniac - Paid Fall Music Group Marketing Intern](https://jobright.ai/jobs/info/6a1d65b7c2a87d6cd3e0b660?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
-| **[Agentio](https://www.agentio.com)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/69499c5b63141d18845939a3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
