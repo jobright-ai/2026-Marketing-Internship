@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BR Public Relations](http://www.brpublicrelations.com/)** | **[Urgent Hiring Summer 2026 Public Relations Intern](https://jobright.ai/jobs/info/6a3a8b11649fdf1629304840?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 23 |
+| **[Altadis U.S.A.](https://www.altadisusa.com/)** | **[Intern](https://jobright.ai/jobs/info/6a3a8afc649fdf1629304838?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, US | On Site | Jun 23 |
 | **[Achieve Atlanta](https://achieveatlanta.org)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a3a8823649fdf1629304779?utm_campaign=1065&utm_source=git)** | 191 Peachtree Rd NE, Atlanta, GA 30303, USA | Hybrid | Jun 23 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Seasonal Social Media Content Creator Intern - NYC Job Details / Crocs, Inc.](https://jobright.ai/jobs/info/6a3a8196dd879c60912af21e?utm_campaign=1065&utm_source=git)** | New York, NY, US, 10001 | Hybrid | Jun 23 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Marketing Internship / Cincinnati](https://jobright.ai/jobs/info/6a3a608d06a4fd4b1fabd4cc?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jun 23 |
@@ -89,11 +91,9 @@ For a complete list, click the following sortable link below:
 | **[Isuzu Motors America, LLC](http://www.isuzuengines.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a39e2b9649fdf1629303374?utm_campaign=1065&utm_source=git)** | Plymouth, MI | On Site | Jun 22 |
 | **[Kiva](http://kiva.org)** | **[Marketing Documentation & Project Management Intern](https://jobright.ai/jobs/info/6a0410b8f3d6cc51d637c0a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 22 |
 | **[AARP](http://www.aarp.org)** | **[Social Media Intern (Fall)](https://jobright.ai/jobs/info/6a39b75c6484fb75f2b335c1?utm_campaign=1065&utm_source=git)** | Montana, United States | Hybrid | Jun 22 |
-| **[Getty Advance](https://gettyadvance.com)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/6a39b651649fdf1629302926?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[AWAL Canada Intern](https://jobright.ai/jobs/info/6a39b109214ae004c7a20232?utm_campaign=1065&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jun 22 |
 | **[Craftmix](https://www.craftmix.com/)** | **[Social Media Internship](https://jobright.ai/jobs/info/6a39af7b6484fb75f2b332dc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 22 |
 | **[AARP](http://www.aarp.org)** | **[Social Media Intern (Fall)](https://jobright.ai/jobs/info/6a39ad666484fb75f2b3323e?utm_campaign=1065&utm_source=git)** | Helena,Montana,United States | Remote | Jun 22 |
-| **[AV Social Media](https://www.linkedin.com/company/108340437)** | **[Social Media Student Internship (Co-op)](https://jobright.ai/jobs/info/6a39d2b806a4fd4b1fabc329?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 22 |
 | **[InBody USA](http://www.inbody.com/)** | **[E-Commerce Marketing Operations Intern (HYBRID)](https://jobright.ai/jobs/info/6a39a585214ae004c7a1fe5d?utm_campaign=1065&utm_source=git)** | Cerritos, CA | Hybrid | Jun 22 |
 | **[Index - Web Marketing Agency](http://www.indexwebmarketing.com/en/)** | **[Web Marketing Coordinator, Internship](https://jobright.ai/jobs/info/6a39a540649fdf1629302361?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 22 |
 | **[Aramark UK](aramark.co.uk)** | **[Marketing Intern - Texas State University](https://jobright.ai/jobs/info/6a39a28e06a4fd4b1fabb54c?utm_campaign=1065&utm_source=git)** | San Marcos, TX, US, 78666 | On Site | Jun 22 |
@@ -121,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Mitratech](http://www.mitratech.com)** | **[Marketing Internship - Legal Solutions](https://jobright.ai/jobs/info/6a3980a31232144fb156bad4?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Jun 22 |
 | **[Utility Management Services, Inc.](https://utilmanagement.com/?utm_source=LinkedIn&utm_medium=Custom+Button&utm_campaign=LI+Company+Page)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a397e4c06a4fd4b1faba6ca?utm_campaign=1065&utm_source=git)** | Wilmington, NC | On Site | Jun 22 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Summer/Fall 2026: Development & Communications Intern (Unpaid)](https://jobright.ai/jobs/info/6a397a72649fdf16293010f1?utm_campaign=1065&utm_source=git)** | San Diego, CA, US | Hybrid | Jun 22 |
-| **[VENTURE RICHMOND, INC.](https://venturerichmond.com)** | **[Marketing and Content Creation Intern](https://jobright.ai/jobs/info/6a39772d214ae004c7a1ead8?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Jun 22 |
 | **[Outcast](https://thisisoutcast.com)** | **[Communications Associate (Intern)](https://jobright.ai/jobs/info/6a3976786484fb75f2b31b17?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jun 22 |
 | **[Maven Clinic](http://www.mavenclinic.com)** | **[Influencer & Community Intern](https://jobright.ai/jobs/info/6a395df0214ae004c7a1e0bd?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 22 |
 | ↳ | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a395df6f6b55d12c79276ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Music Group Marketing Intern](https://jobright.ai/jobs/info/6a1d7e5ce24ef36525837e38?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Communications](https://jobright.ai/jobs/info/6a393320f6b55d12c7926ad0?utm_campaign=1065&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jun 22 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Marketing Internship](https://jobright.ai/jobs/info/6a3061d4524fd5657fe108e0?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing (Bay Area)](https://jobright.ai/jobs/info/6a337433f6b55d12c7918f43?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA, US | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
