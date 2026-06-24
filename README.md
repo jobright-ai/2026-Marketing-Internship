@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Just For Teens](https://www.justforteens.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3b4704649fdf1629307bf5?utm_campaign=1065&utm_source=git)** | Anaheim, CA | On Site | Jun 23 |
 | **[Hook](https://hookmusic.com)** | **[Viral Content Marketing Intern](https://jobright.ai/jobs/info/6a3ae6c6dbedbf5680c71b17?utm_campaign=1065&utm_source=git)** | Los Angeles | Remote | Jun 23 |
 | ↳ | **[Viral Content Marketing Intern](https://jobright.ai/jobs/info/6a3ae6c8dbedbf5680c71b19?utm_campaign=1065&utm_source=git)** | New York City | Remote | Jun 23 |
-| **[Elevated Web Design](https://www.elevatedwebdesign.com/)** | **[AI Marketing Internship](https://jobright.ai/jobs/info/6a3b3a0c649fdf16293079c5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 23 |
 | **[Plot](https://www.plot.so)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3b39cfdd879c60912b249f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 23 |
-| **[Giant Noise](http://giantnoise.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a3ae7401232144fb1570a13?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Jun 23 |
-| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/6a3ae7581232144fb1570a1f?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jun 23 |
+| **[Giant Noise](http://giantnoise.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a3ae7581232144fb1570a1f?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jun 23 |
+| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/6a3ae7401232144fb1570a13?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Jun 23 |
 | **[AMOREPACIFIC](https://ventures.amorepacific.com/index.do)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/6a273e89ca77fd3096d26542?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 23 |
 | **[Mall of America](https://www.mallofamerica.com)** | **[PR + Social Media Intern - Fall 2026](https://jobright.ai/jobs/info/6a3b3097dbedbf5680c73134?utm_campaign=1065&utm_source=git)** | 60 E Broadway, Bloomington, MN 55425, USA | On Site | Jun 23 |
 | **[LAGOM](https://www.lagomliving.co/)** | **[Market Research Intern](https://jobright.ai/jobs/info/6a3b2b8106a4fd4b1fac09e4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 23 |
@@ -92,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Major League Baseball Players Association](https://www.mlbplayers.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a3aefb106a4fd4b1fabf98b?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jun 23 |
 | **[Active Minds, Inc.](http://www.activeminds.org)** | **[Community Initiatives Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3aef1b649fdf16293067d4?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jun 23 |
 | **[Jetvia](https://atijet.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/6a3aeefe649fdf16293067cd?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jun 23 |
-| **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Internship](https://jobright.ai/jobs/info/6a3aed08797099171917c631?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Jun 23 |
 | **[Casa de Montecristo](https://www.casademontecristo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3ae86fdbedbf5680c71bf3?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 23 |
 | **[Altadis U.S.A.](https://www.altadisusa.com/)** | **[Intern](https://jobright.ai/jobs/info/6a3a8afc649fdf1629304838?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, US | On Site | Jun 23 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Integrated Marketing, Intern](https://jobright.ai/jobs/info/6a3ae417dd879c60912b0e33?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Jun 23 |
@@ -108,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Atlas](http://www.atlasvanlines.com)** | **[Marketing Intern (Fall 2026 - Fall 2027)](https://jobright.ai/jobs/info/6a3acf8b649fdf1629305d53?utm_campaign=1065&utm_source=git)** | Evansville, IN, US | On Site | Jun 23 |
 | **[LUPFR Entertainment](Lupfr.com)** | **[Marketing & Strategy Intern](https://jobright.ai/jobs/info/6a3ace4a1232144fb15702d4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 23 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Market Research & Data Analytics Intern](https://jobright.ai/jobs/info/6a3acc38797099171917bb35?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jun 23 |
+| **[Mark3ting - Digital Marketing Solutions](https://www.mark3ting.ca)** | **[Digital marketing intern](https://jobright.ai/jobs/info/6a3b0096649fdf1629306db7?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 23 |
 | **[TABACALERA USA Inc.](https://www.tabacalerausa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3ac91b06a4fd4b1fabed45?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 23 |
-| **[Mark3ting - Digital Marketing Solutions](https://www.mark3ting.ca)** | **[Digital Marketing Intern (unpaid)](https://jobright.ai/jobs/info/6a3b0096649fdf1629306db7?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Remote | Jun 23 |
 | **[MESA Charter High School](http://mesacharter.org)** | **[SY 26-27 Communications Intern](https://jobright.ai/jobs/info/6a3ac72c649fdf1629305a35?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jun 23 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jun 23 |
 | **[MOC Marine Institute](http://www.mocmarineinstitute.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3ac64ddbedbf5680c71040?utm_campaign=1065&utm_source=git)** | Wailuku, HI | Remote | Jun 23 |
@@ -148,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Marketing Internship / Cincinnati](https://jobright.ai/jobs/info/6a3a608d06a4fd4b1fabd4cc?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jun 23 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Sacramento](https://jobright.ai/jobs/info/6a1e31819111f771d1a1db8f?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Jun 23 |
 | ↳ | **[Community Intern, Columbus](https://jobright.ai/jobs/info/6a1e31ed9111f771d1a1dbb1?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jun 23 |
+| ↳ | **[Community Intern, Salt Lake City](https://jobright.ai/jobs/info/6a1e308ec2a87d6cd3e1076d?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcc8bde6a0d9792584d1c9?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 23 |
 | **[Acadium](http://www.acadium.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3a86bedd879c60912af3c9?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30d28843732c05812e3d4e?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 23 |
