@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[THE REAL Mental Health Foundation](https://thereal.care)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3baeca8bfad862bc997c01?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jun 24 |
+| **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Events Marketing Intern](https://jobright.ai/jobs/info/6a3ba9a6982bb239f812cfaa?utm_campaign=1065&utm_source=git)** | Providence, RI | On Site | Jun 24 |
 | **[Texas Water Utilities](www.swwc.com/texas)** | **[Communications Intern Job Details / Nexus Water Group](https://jobright.ai/jobs/info/6a3b98694d047136e092dfe3?utm_campaign=1065&utm_source=git)** | Covina, CA, US | On Site | Jun 24 |
 | **[Xometry](https://www.xometry.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69458dde63141d1884551b17?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Jun 24 |
 | **[KorrAI](https://www.korrai.com)** | **[Content Writer (Intern)](https://jobright.ai/jobs/info/6a3b957ed261407de97fadd6?utm_campaign=1065&utm_source=git)** | CA | Remote | Jun 24 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[MIM, Musical Instrument Museum](http://mim.org)** | **[COPY WRITING INTERN](https://jobright.ai/jobs/info/6a3ad6e6dd879c60912b0b02?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 23 |
 | **[Orthofix](http://www.orthofix.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a355255ce501060b5cf3c14?utm_campaign=1065&utm_source=git)** | Lewisville, US | On Site | Jun 23 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Events and Immersive Experiences, Strategic Partnerships (Fall 2026)](https://jobright.ai/jobs/info/6a3affaa649fdf1629306d6e?utm_campaign=1065&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 23 |
-| **[Woolpert](http://www.woolpert.com)** | **[Proposal Intern - Fall 2026](https://jobright.ai/jobs/info/6a3aadebdbedbf5680c7074d?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 23 |
-| ↳ | **[Proposal Intern - Fall 2026](https://jobright.ai/jobs/info/6a3aadeddbedbf5680c7074f?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jun 23 |
+| **[Woolpert](http://www.woolpert.com)** | **[Proposal Intern - Fall 2026](https://jobright.ai/jobs/info/6a3aadeddbedbf5680c7074f?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jun 23 |
+| ↳ | **[Proposal Intern - Fall 2026](https://jobright.ai/jobs/info/6a3aadebdbedbf5680c7074d?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 23 |
 | **[Atlas](http://www.atlasvanlines.com)** | **[Marketing Intern (Fall 2026 - Fall 2027)](https://jobright.ai/jobs/info/6a3acf8b649fdf1629305d53?utm_campaign=1065&utm_source=git)** | Evansville, IN, US | On Site | Jun 23 |
 | **[LUPFR Entertainment](Lupfr.com)** | **[Marketing & Strategy Intern](https://jobright.ai/jobs/info/6a3ace4a1232144fb15702d4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 23 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Market Research & Data Analytics Intern](https://jobright.ai/jobs/info/6a3acc38797099171917bb35?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jun 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Intern, Columbus](https://jobright.ai/jobs/info/6a1e31ed9111f771d1a1dbb1?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jun 23 |
 | ↳ | **[Community Intern, Salt Lake City](https://jobright.ai/jobs/info/6a1e308ec2a87d6cd3e1076d?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcc8bde6a0d9792584d1c9?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 23 |
-| **[Acadium](http://www.acadium.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3a86bedd879c60912af3c9?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jun 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30d28843732c05812e3d4e?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
