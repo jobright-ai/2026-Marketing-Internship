@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Longfellow Communications](https://www.longfellowcomms.com)** | **[Public Relations + Communications Intern](https://jobright.ai/jobs/info/6a3bfabd8bfad862bc9987cf?utm_campaign=1065&utm_source=git)** | Portland, Maine Metropolitan Area | On Site | Jun 24 |
 | **[Fruit of the Loom, Inc.](https://www.fotlinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3bf229982bb239f812dba7?utm_campaign=1065&utm_source=git)** | Jefferson, IA, US | On Site | Jun 24 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Healthy Living-Remote](https://jobright.ai/jobs/info/6a3bf14d8bfad862bc998648?utm_campaign=1065&utm_source=git)** | Dallas, TX, US | Remote | Jun 24 |
 | **[MSU Federal Credit Union](http://www.msufcu.org)** | **[Internal and Corporate Communications Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be9cd122f340d29cebaf2?utm_campaign=1065&utm_source=git)** | East Lansing, Michigan, United States | Hybrid | Jun 24 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[The Radley Firm](www.theradleyfirm.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3be729122f340d29ceba89?utm_campaign=1065&utm_source=git)** | Tampa, FL | Remote | Jun 24 |
 | **[University Partners](http://www.universitypartners.com)** | **[Social Media Intern - Student Housing](https://jobright.ai/jobs/info/6a3be51e882f121f56a3279a?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | Hybrid | Jun 24 |
 | **[Continental](http://www.continentaltire.com)** | **[Marketing Intern - Bicycle Tire](https://jobright.ai/jobs/info/6a3bd8bf982bb239f812d576?utm_campaign=1065&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Jun 24 |
-| ↳ | **[Marketing Intern - Bicycle Tire](https://jobright.ai/jobs/info/6a3bd8cd982bb239f812d579?utm_campaign=1065&utm_source=git)** | Denver, CO area | Hybrid | Jun 24 |
 | ↳ | **[Marketing Intern - Bicycle Tire](https://jobright.ai/jobs/info/6a3bd8cd982bb239f812d578?utm_campaign=1065&utm_source=git)** | Golden, CO | Hybrid | Jun 24 |
+| ↳ | **[Marketing Intern - Bicycle Tire](https://jobright.ai/jobs/info/6a3bd8cd982bb239f812d579?utm_campaign=1065&utm_source=git)** | Denver, CO area | Hybrid | Jun 24 |
 | **[The Leasing Experts (Multifamily Market Makers)](https://www.theleasingxperts.com)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/6a3be0cc8bfad862bc9980c8?utm_campaign=1065&utm_source=git)** | Port Chester, NY | On Site | Jun 24 |
 | **[RailPros](http://railpros.com)** | **[Intern - Communications and PR](https://jobright.ai/jobs/info/6a1f268009442629a6857b40?utm_campaign=1065&utm_source=git)** | Irving, TX 75038 | Hybrid | Jun 24 |
 | **[KorrAI](https://www.korrai.com)** | **[Content Writer (Intern)](https://jobright.ai/jobs/info/6a3b9578d261407de97fadd5?utm_campaign=1065&utm_source=git)** | Remote (IN; CA) | Remote | Jun 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Global Engagement Church Channels Intern](https://jobright.ai/jobs/info/6a3a9d6ddd879c60912af9c2?utm_campaign=1065&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jun 23 |
 | **[BMO](http://www.bmo.com)** | **[Marketing Coordinator, Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/6a3aa83a1232144fb156f52c?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jun 23 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Social Media Community Management Intern](https://jobright.ai/jobs/info/6a1df4e46b135014dbc99b54?utm_campaign=1065&utm_source=git)** | San Diego, US | Hybrid | Jun 23 |
-| **[Outrig](https://outrig.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3aa1e9dbedbf5680c704fe?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
