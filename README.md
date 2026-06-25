@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Michaels Organization](https://tmo.com)** | **[Intern - Corporate Marketing](https://jobright.ai/jobs/info/6a3d4ed5122f340d29cefdb3?utm_campaign=1065&utm_source=git)** | Camden,New Jersey,United States | On Site | Jun 25 |
+| **[The Post and Courier](http://www.postandcourier.com/)** | **[Book Publishing Intern](https://jobright.ai/jobs/info/6a3d4d5d8bfad862bc99c5a7?utm_campaign=1065&utm_source=git)** | Charleston, South Carolina, United States | Hybrid | Jun 25 |
 | **[Belong Lending](www.belonglending.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3d3cb5d261407de97ff762?utm_campaign=1065&utm_source=git)** | Detroit Metro | Hybrid | Jun 25 |
 | **[Gypsum Management and Supply](http://www.gms.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a3d3c8878237a036d5e0535?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Jun 25 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/6a3d3b27882f121f56a3681f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 25 |
@@ -92,30 +94,30 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c1e5c982bb239f812e6a9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Communications Internship](https://jobright.ai/jobs/info/6a3c554c4d047136e0930838?utm_campaign=1065&utm_source=git)** | New York City, NY | Hybrid | Jun 24 |
 | ↳ | **[[Fall 2026] Marketing Internship](https://jobright.ai/jobs/info/6a3c5546882f121f56a34665?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 24 |
-| **[Fizz](https://fizz.social/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5519882f121f56a34643?utm_campaign=1065&utm_source=git)** | Remote, Oregon | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5519882f121f56a34644?utm_campaign=1065&utm_source=git)** | Remote, Connecticut | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34636?utm_campaign=1065&utm_source=git)** | Remote, Vermont | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34635?utm_campaign=1065&utm_source=git)** | Remote, New Jersey | Remote | Jun 24 |
+| **[Fizz](https://fizz.social/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5519882f121f56a34644?utm_campaign=1065&utm_source=git)** | Remote, Connecticut | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5519882f121f56a34643?utm_campaign=1065&utm_source=git)** | Remote, Oregon | Remote | Jun 24 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34640?utm_campaign=1065&utm_source=git)** | Remote, Illinois | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34632?utm_campaign=1065&utm_source=git)** | Remote, Wisconsin | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34634?utm_campaign=1065&utm_source=git)** | Remote, Maryland | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a3463c?utm_campaign=1065&utm_source=git)** | Remote, Iowa | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34639?utm_campaign=1065&utm_source=git)** | Remote, Pennsylvania | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a3463e?utm_campaign=1065&utm_source=git)** | Remote, Washington DC | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34631?utm_campaign=1065&utm_source=git)** | Remote, Washington | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a3463d?utm_campaign=1065&utm_source=git)** | Remote, Texas | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34633?utm_campaign=1065&utm_source=git)** | Remote, Indiana | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a3463b?utm_campaign=1065&utm_source=git)** | Remote, Florida | Remote | Jun 24 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34641?utm_campaign=1065&utm_source=git)** | Remote, Georgia | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a3463a?utm_campaign=1065&utm_source=git)** | Remote, Massachusetts | Remote | Jun 24 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a3463f?utm_campaign=1065&utm_source=git)** | Remote, Virginia | Remote | Jun 24 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34637?utm_campaign=1065&utm_source=git)** | Remote, Kentucky | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a3463d?utm_campaign=1065&utm_source=git)** | Remote, Texas | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34635?utm_campaign=1065&utm_source=git)** | Remote, New Jersey | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a3463c?utm_campaign=1065&utm_source=git)** | Remote, Iowa | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34636?utm_campaign=1065&utm_source=git)** | Remote, Vermont | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a3463a?utm_campaign=1065&utm_source=git)** | Remote, Massachusetts | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34634?utm_campaign=1065&utm_source=git)** | Remote, Maryland | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34639?utm_campaign=1065&utm_source=git)** | Remote, Pennsylvania | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a3463e?utm_campaign=1065&utm_source=git)** | Remote, Washington DC | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34632?utm_campaign=1065&utm_source=git)** | Remote, Wisconsin | Remote | Jun 24 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34642?utm_campaign=1065&utm_source=git)** | Remote, New York | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34633?utm_campaign=1065&utm_source=git)** | Remote, Indiana | Remote | Jun 24 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34638?utm_campaign=1065&utm_source=git)** | Remote, Oklahoma | Remote | Jun 24 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5517882f121f56a3462e?utm_campaign=1065&utm_source=git)** | Remote, California | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a3463b?utm_campaign=1065&utm_source=git)** | Remote, Florida | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5518882f121f56a34631?utm_campaign=1065&utm_source=git)** | Remote, Washington | Remote | Jun 24 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5517882f121f56a3462d?utm_campaign=1065&utm_source=git)** | Remote, Rhode Island | Remote | Jun 24 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5517882f121f56a34630?utm_campaign=1065&utm_source=git)** | Remote, Tennessee | Remote | Jun 24 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5517882f121f56a3462f?utm_campaign=1065&utm_source=git)** | Remote, Louisiana | Remote | Jun 24 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5517882f121f56a3462e?utm_campaign=1065&utm_source=git)** | Remote, California | Remote | Jun 24 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c550c882f121f56a34629?utm_campaign=1065&utm_source=git)** | New York | Remote | Jun 24 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[B2B Marketing Intern](https://jobright.ai/jobs/info/6a3c54338bfad862bc99a0c4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Marketing Intern, Retail - Fall 2026](https://jobright.ai/jobs/info/6a3c1e82d261407de97fc75a?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jun 24 |
@@ -127,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN West Palm Fall 2026 Internship](https://jobright.ai/jobs/info/6a3c4217982bb239f812f13c?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Jun 24 |
 | **[1Milk2Sugars Inc.](https://1milk2sugars.com/)** | **[PR Student Intern - Fall 2026 Term](https://jobright.ai/jobs/info/6a3c4004882f121f56a34133?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[The Institute for Study Abroad](https://ifsa-butler.org)** | **[Content Marketing Intern  (Remote, USA)](https://jobright.ai/jobs/info/6a3c3fc14d047136e093036f?utm_campaign=1065&utm_source=git)** | United States, Indianapolis, IN, US | Remote | Jun 24 |
-| **[Media Research Center](https://www.mrc.org)** | **[Fall 2026 Internship Program](https://jobright.ai/jobs/info/6a3c3f73982bb239f812f01c?utm_campaign=1065&utm_source=git)** | Herndon, VA | On Site | Jun 24 |
 | **[Comcast](https://corporate.comcast.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6a3c3c804d047136e0930210?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jun 24 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Orange County (South)](https://jobright.ai/jobs/info/6a3c3b6d8bfad862bc999ac9?utm_campaign=1065&utm_source=git)** | Orange County, CA, US | On Site | Jun 24 |
 | **[Benco Dental](https://www.benco.com/)** | **[Marketing Marketplace Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3c3a62122f340d29ced1aa?utm_campaign=1065&utm_source=git)** | Pittston, PA | On Site | Jun 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MSU Federal Credit Union](http://www.msufcu.org)** | **[Internal and Corporate Communications Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be9cd122f340d29cebaf2?utm_campaign=1065&utm_source=git)** | East Lansing, Michigan, United States | Hybrid | Jun 24 |
 | **[University Partners](http://www.universitypartners.com)** | **[Social Media Intern - Student Housing](https://jobright.ai/jobs/info/6a3be51e882f121f56a3279a?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | Hybrid | Jun 24 |
 | **[The Leasing Experts (Multifamily Market Makers)](https://www.theleasingxperts.com)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/6a3be0cc8bfad862bc9980c8?utm_campaign=1065&utm_source=git)** | Port Chester, NY | On Site | Jun 24 |
-| **[RailPros](http://railpros.com)** | **[Intern - Communications and PR](https://jobright.ai/jobs/info/6a1f268009442629a6857b40?utm_campaign=1065&utm_source=git)** | Irving, TX 75038 | Hybrid | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
