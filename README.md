@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Communications Internship](https://jobright.ai/jobs/info/6a3e76cb882f121f56a3a1b7?utm_campaign=1065&utm_source=git)** | HALIFAX, NS, CA | On Site | Jun 26 |
+| **[Kinsley Construction](http://kinsleyconstruction.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3e729a78237a036d5e3fff?utm_campaign=1065&utm_source=git)** | York, Pennsylvania, United States | On Site | Jun 26 |
 | **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a3e6bb0d261407de9803110?utm_campaign=1065&utm_source=git)** | San Francisco, United States | Hybrid | Jun 26 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6a3e6bafd261407de980310f?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jun 26 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6a3e6ba2d261407de980310c?utm_campaign=1065&utm_source=git)** | Austin, Texas, United States | Hybrid | Jun 26 |
@@ -138,15 +140,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MK Intern - Marketing (Bay Area)](https://jobright.ai/jobs/info/6a2f6b3343732c05812dee20?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA | On Site | Jun 24 |
 | **[Agentio](https://www.agentio.com)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/69499eea63141d1884593cea?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 24 |
 | **[LMCU](https://www.lmcu.org/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6a3d7e2c8bfad862bc99d63d?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Jun 24 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing (Bay Area)](https://jobright.ai/jobs/info/6a337433f6b55d12c7918f43?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA, US | On Site | Jun 24 |
-| ↳ | **[MK Intern - Marketing](https://jobright.ai/jobs/info/69d40f4e366bb95ba553a209?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Jun 24 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[MK Intern - Marketing](https://jobright.ai/jobs/info/69d40f4e366bb95ba553a209?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Jun 24 |
+| ↳ | **[MK Intern - Marketing (Bay Area)](https://jobright.ai/jobs/info/6a337433f6b55d12c7918f43?utm_campaign=1065&utm_source=git)** | Walnut Creek, CA, US | On Site | Jun 24 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[PR & Hockey Operations Intern](https://jobright.ai/jobs/info/6a3d855278237a036d5e1beb?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[Global Partnerships Media Integration Intern](https://jobright.ai/jobs/info/6a3d85544d047136e0933fbc?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[Social Impact Intern](https://jobright.ai/jobs/info/6a3d8554122f340d29cf0fa5?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[Global Partnerships Media Integration Intern](https://jobright.ai/jobs/info/6a3d85544d047136e0933fbc?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6a3dbc9f8bfad862bc99e5fb?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[Brand Intern](https://jobright.ai/jobs/info/6a3dbc9b78237a036d5e2961?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[Global Partnerships Marketing Intern](https://jobright.ai/jobs/info/6a3dbc9c8bfad862bc99e5fa?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[Live Entertainment & Venue Marketing Intern](https://jobright.ai/jobs/info/6a3dbc9a122f340d29cf1e7a?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[Global Partnerships Marketing Intern](https://jobright.ai/jobs/info/6a3dbc9c8bfad862bc99e5fa?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[KOSÉ America](https://kose-usa.com/)** | **[Social & Influencer Marketing Intern](https://jobright.ai/jobs/info/6a3c99ecd261407de97fe1fb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 24 |
 | **[KeyMik](www.keymik.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3c5ea2982bb239f812f86e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6a3d0228122f340d29cef046?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN West Palm Fall 2026 Internship](https://jobright.ai/jobs/info/6a3c5a89122f340d29ceda83?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL, US | On Site | Jun 24 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c1e5c982bb239f812e6a9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Communications Internship](https://jobright.ai/jobs/info/6a3c554c4d047136e0930838?utm_campaign=1065&utm_source=git)** | New York City, NY | Hybrid | Jun 24 |
-| ↳ | **[[Fall 2026] Marketing Internship](https://jobright.ai/jobs/info/6a3c5546882f121f56a34665?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 24 |
-| **[Fizz](https://fizz.social/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c5519882f121f56a34643?utm_campaign=1065&utm_source=git)** | Remote, Oregon | Remote | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
