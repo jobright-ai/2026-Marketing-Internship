@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Children's Museum Houston](https://www.cmhouston.org/)** | **[Marketing Communications Fall Intern](https://jobright.ai/jobs/info/6a3ecd84122f340d29cf4bc9?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 26 |
+| **[The Nackard Companies](https://www.nackard.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3ec6a8d261407de98046f0?utm_campaign=1065&utm_source=git)** | Flagstaff, AZ, US | On Site | Jun 26 |
 | **[Democracy Now! Productions](http://www.democracynow.org/)** | **[Fundraising and Outreach Intern](https://jobright.ai/jobs/info/6a3ec3f1882f121f56a3b46c?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 26 |
-| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Communications - Earned Media and Communications Strategy](https://jobright.ai/jobs/info/6a3ec05078237a036d5e5351?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 26 |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Communications - Earned Media and Communications Strategy](https://jobright.ai/jobs/info/6a3ec05078237a036d5e534f?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- NY | Hybrid | Jun 26 |
+| ↳ | **[Fall 2026 Undergraduate Intern, Communications - Earned Media and Communications Strategy](https://jobright.ai/jobs/info/6a3ec05078237a036d5e5351?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 26 |
 | ↳ | **[Fall 2026 Undergraduate Intern, Communications - Earned Media and Communications Strategy](https://jobright.ai/jobs/info/6a3ec05078237a036d5e5350?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- Washington D.C. | Hybrid | Jun 26 |
-| ↳ | **[Fall 2026 Undergraduate Intern, Communications - Earned Media and Communications Strategy](https://jobright.ai/jobs/info/6a3ec05078237a036d5e534f?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- NY | Hybrid | Jun 26 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3ebf89882f121f56a3b28f?utm_campaign=1065&utm_source=git)** | Winter Park, FL | Hybrid | Jun 26 |
 | **[KCMCONNECT](https://kcmconnect.co/)** | **[Public Relations Intern (Unpaid / College Credit)](https://jobright.ai/jobs/info/6a3eb977122f340d29cf4600?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jun 26 |
 | **[Cases by LJ](casesbylj.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3eb8b1122f340d29cf45e9?utm_campaign=1065&utm_source=git)** | Whittier, CA | Hybrid | Jun 26 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MN Winter Sports History Digital Map Intern](https://jobright.ai/jobs/info/6a3e01aa4d047136e0935782?utm_campaign=1065&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Pareto Connect](https://apply.trypareto.ai/)** | **[Marketing & Growth Intern](https://jobright.ai/jobs/info/6a3df7b88bfad862bc99edb3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 25 |
 | **[City of New Haven](https://www.newhavenct.gov)** | **[Student Intern - Health Communications](https://jobright.ai/jobs/info/6a3df4ca4d047136e093556d?utm_campaign=1065&utm_source=git)** | New Haven, CT | On Site | Jun 25 |
-| **[JinIX Rare Disease Care](www.jinix.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3de6b7882f121f56a39201?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 25 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[Book Publishing Intern](https://jobright.ai/jobs/info/6a3d4d5d8bfad862bc99c5a7?utm_campaign=1065&utm_source=git)** | Charleston, South Carolina, United States | Hybrid | Jun 25 |
 | **[PENN Entertainment, Inc](https://www.pennentertainment.com)** | **[Marketing Intern - PT](https://jobright.ai/jobs/info/6a3de081d261407de980220a?utm_campaign=1065&utm_source=git)** | Columbus,Ohio,United States | On Site | Jun 25 |
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Marketing and AI Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c7a82cde2824469be818?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 25 |
@@ -130,12 +131,10 @@ For a complete list, click the following sortable link below:
 | **[The Michaels Organization](https://tmo.com)** | **[Intern - Corporate Marketing](https://jobright.ai/jobs/info/6a3d4ed5122f340d29cefdb3?utm_campaign=1065&utm_source=git)** | Camden,New Jersey,United States | On Site | Jun 25 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Market Development](https://jobright.ai/jobs/info/69b06957dfaeda6ff59a333c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 25 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Marketing & Media Intern (Fire Department)](https://jobright.ai/jobs/info/6a3d65df122f340d29cf057e?utm_campaign=1065&utm_source=git)** | Fire Department Administrative Office, 216 S Dewey St, Eau Claire, WI | On Site | Jun 25 |
-| **[AMD](http://www.amd.com)** | **[Short Term 2026 Technical Marketing - Performance Analysis Intern/Co-Op](https://jobright.ai/jobs/info/6a3d5dbb78237a036d5e0e96?utm_campaign=1065&utm_source=git)** | MARKHAM, ON, CA | On Site | Jun 25 |
 | **[Maner Costerisan](http://www.manercpa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3d5ba04d047136e0933279?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | Jun 25 |
 | **[Casa de Montecristo](https://www.casademontecristo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3d5a18122f340d29cf01f7?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, US | On Site | Jun 25 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jun 25 |
 | **[Capsule](https://ourcapsule.ai)** | **[Capsule GTM & Content Operations Intern](https://jobright.ai/jobs/info/6a3d6f60122f340d29cf08c1?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Jun 25 |
-| **[Belong Lending](www.belonglending.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3d3cb5d261407de97ff762?utm_campaign=1065&utm_source=git)** | Detroit Metro | Hybrid | Jun 25 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Digital Marketing Intern - Summer 2026 / Chicago IL](https://jobright.ai/jobs/info/6a20a2f23a5f0145f4c15e93?utm_campaign=1065&utm_source=git)** | Morton Grove, IL | Hybrid | Jun 25 |
 | **[Acadium](http://www.acadium.com)** | **[Social Media & Email Marketing Intern](https://jobright.ai/jobs/info/6a3d6c7e8bfad862bc99cfb4?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jun 25 |
 | **[1st Jackpot Casino Tunica](http://www.1stjackpot.com/)** | **[Marketing Intern - PT](https://jobright.ai/jobs/info/6a3d3302122f340d29cef6af?utm_campaign=1065&utm_source=git)** | Columbus, OH, US | On Site | Jun 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a3c94c54d047136e093133c?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 24 |
 | **[Anchor Home](https://anchorhomeinc.com)** | **[Content Creation & Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c92e7122f340d29cee311?utm_campaign=1065&utm_source=git)** | Timonium, MD | On Site | Jun 24 |
 | **[Ares Technology Consultants](www.arestc.com)** | **[Marketing/Social Media Intern](https://jobright.ai/jobs/info/6a3c92df8bfad862bc99ac36?utm_campaign=1065&utm_source=git)** | Remote (United States) | Remote | Jun 24 |
+| **[Groundwork Ohio River Valley](https://www.groundworkorv.org/)** | **[SOCIAL MEDIA INTERNSHIP](https://jobright.ai/jobs/info/6a3c8d8c982bb239f812ff0d?utm_campaign=1065&utm_source=git)** | Media, PA | Hybrid | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
