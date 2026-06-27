@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orchestra](https://www.orchestraco.com)** | **[Emerging Talent Communications Internship – Philanthropy & Impact (Fall 2026)](https://jobright.ai/jobs/info/6a3f239778237a036d5e69be?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 26 |
+| ↳ | **[Emerging Talent Communications Internship – Integrated Marketing (Fall 2026)](https://jobright.ai/jobs/info/6a3f238cd261407de9805bc4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 26 |
+| **[Retell](https://retellai.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a3f2132d261407de9805b92?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Jun 26 |
+| **[Orchestra](https://www.orchestraco.com)** | **[Emerging Talent Communications Internship – Consumer, Sports & Technology (Fall 2026)](https://jobright.ai/jobs/info/6a3f210fce7cce40b342314d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 26 |
 | **[Axway](http://www.axway.com)** | **[Product Marketing Internship](https://jobright.ai/jobs/info/6a3f12f9ce7cce40b3422eec?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Jun 26 |
 | **[Whalar Group](https://www.whalargroup.com)** | **[Summer Intern, Client Services](https://jobright.ai/jobs/info/6a3f12f4882f121f56a3c707?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 26 |
 | **[Snowflake](https://www.snowflake.com)** | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jun 26 |
@@ -122,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Market Research Internship](https://jobright.ai/jobs/info/6a3e1e8ed261407de98028f3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 25 |
 | ↳ | **[Market Research Internship](https://jobright.ai/jobs/info/6a37a34d29c90c607e4e6a1d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Traffic Strategy & Operations Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3e1e6c122f340d29cf2b04?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 25 |
-| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[MN Winter Sports History Digital Map Intern](https://jobright.ai/jobs/info/6a3e01aa4d047136e0935782?utm_campaign=1065&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
-| ↳ | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a3e01aa4d047136e0935781?utm_campaign=1065&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
+| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a3e01aa4d047136e0935781?utm_campaign=1065&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
+| ↳ | **[MN Winter Sports History Digital Map Intern](https://jobright.ai/jobs/info/6a3e01aa4d047136e0935782?utm_campaign=1065&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Pareto Connect](https://apply.trypareto.ai/)** | **[Marketing & Growth Intern](https://jobright.ai/jobs/info/6a3df7b88bfad862bc99edb3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 25 |
 | **[City of New Haven](https://www.newhavenct.gov)** | **[Student Intern - Health Communications](https://jobright.ai/jobs/info/6a3df4ca4d047136e093556d?utm_campaign=1065&utm_source=git)** | New Haven, CT | On Site | Jun 25 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[Book Publishing Intern](https://jobright.ai/jobs/info/6a3d4d5d8bfad862bc99c5a7?utm_campaign=1065&utm_source=git)** | Charleston, South Carolina, United States | Hybrid | Jun 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Cattle Feeder Marketing Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301271?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 25 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - US Marketing Community Professional Channel](https://jobright.ai/jobs/info/6a3d6f974d047136e09338df?utm_campaign=1065&utm_source=git)** | Carson, CA | Hybrid | Jun 25 |
 | **[Drive IT](https://drivenash.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/6a3d700f122f340d29cf090d?utm_campaign=1065&utm_source=git)** | Wilmington, NC, US | On Site | Jun 25 |
-| **[Geotab](http://www.geotab.com/)** | **[Strategic Communications Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a3d6e33122f340d29cf0811?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 25 |
-| **[The Michaels Organization](https://tmo.com)** | **[Intern - Corporate Marketing](https://jobright.ai/jobs/info/6a3d4ed5122f340d29cefdb3?utm_campaign=1065&utm_source=git)** | Camden,New Jersey,United States | On Site | Jun 25 |
-| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Market Development](https://jobright.ai/jobs/info/69b06957dfaeda6ff59a333c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 25 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Marketing & Media Intern (Fire Department)](https://jobright.ai/jobs/info/6a3d65df122f340d29cf057e?utm_campaign=1065&utm_source=git)** | Fire Department Administrative Office, 216 S Dewey St, Eau Claire, WI | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
