@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geotab](http://www.geotab.com/)** | **[Digital Marketing EMEA, Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a40f1b11afc66714d3ca6ec?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 28 |
 | **[X0PA AI](https://www.x0pa.com)** | **[Intern](https://jobright.ai/jobs/info/6a40dd3e16b1493953283b3c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 28 |
 | **[Databerry, LLC.](https://www.databerry.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a40982f1afc66714d3ca259?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | Hybrid | Jun 27 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Paid Advertising Intern](https://jobright.ai/jobs/info/6a3f925116b14939532824dd?utm_campaign=1065&utm_source=git)** | 3201 N Garden Dr, Lehi, UT, 84048, US | Hybrid | Jun 27 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Emerging Talent Communications Internship – Philanthropy & Impact (Fall 2026)](https://jobright.ai/jobs/info/6a3f2f59d261407de9805cc4?utm_campaign=1065&utm_source=git)** | Washington, D.C. | Hybrid | Jun 26 |
 | ↳ | **[Emerging Talent Communications Internship – Consumer, Sports & Technology (Fall 2026)](https://jobright.ai/jobs/info/6a3f2f5878237a036d5e6ac2?utm_campaign=1065&utm_source=git)** | Washington, D.C. | Hybrid | Jun 26 |
 | ↳ | **[Emerging Talent Communications Internship – Consumer, Sports & Technology (Fall 2026)](https://jobright.ai/jobs/info/6a3f2f5878237a036d5e6ac1?utm_campaign=1065&utm_source=git)** | New York, N.Y. | Hybrid | Jun 26 |
-| ↳ | **[Emerging Talent Communications Internship – Integrated Marketing (Fall 2026)](https://jobright.ai/jobs/info/6a3f2f574d047136e0938ede?utm_campaign=1065&utm_source=git)** | Washington, D.C. | Hybrid | Jun 26 |
 | ↳ | **[Emerging Talent Communications Internship – Integrated Marketing (Fall 2026)](https://jobright.ai/jobs/info/6a3f2f574d047136e0938edd?utm_campaign=1065&utm_source=git)** | New York, N.Y. | Hybrid | Jun 26 |
+| ↳ | **[Emerging Talent Communications Internship – Integrated Marketing (Fall 2026)](https://jobright.ai/jobs/info/6a3f2f574d047136e0938ede?utm_campaign=1065&utm_source=git)** | Washington, D.C. | Hybrid | Jun 26 |
 | ↳ | **[Emerging Talent Communications Internship – Philanthropy & Impact (Fall 2026)](https://jobright.ai/jobs/info/6a3f239778237a036d5e69be?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 26 |
 | ↳ | **[Emerging Talent Communications Internship – Integrated Marketing (Fall 2026)](https://jobright.ai/jobs/info/6a3f238cd261407de9805bc4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 26 |
 | **[Retell](https://retellai.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a3f2132d261407de9805b92?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Jun 26 |
@@ -122,9 +123,9 @@ For a complete list, click the following sortable link below:
 | **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a3946466484fb75f2b306d5?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jun 26 |
 | **[The Nackard Companies](https://www.nackard.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3ec6a8d261407de98046f0?utm_campaign=1065&utm_source=git)** | Flagstaff, AZ, US | On Site | Jun 26 |
 | **[Democracy Now! Productions](http://www.democracynow.org/)** | **[Fundraising and Outreach Intern](https://jobright.ai/jobs/info/6a3ec3f1882f121f56a3b46c?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 26 |
-| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Communications - Earned Media and Communications Strategy](https://jobright.ai/jobs/info/6a3ec05078237a036d5e534f?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- NY | Hybrid | Jun 26 |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Communications - Earned Media and Communications Strategy](https://jobright.ai/jobs/info/6a3ec05078237a036d5e5351?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 26 |
+| ↳ | **[Fall 2026 Undergraduate Intern, Communications - Earned Media and Communications Strategy](https://jobright.ai/jobs/info/6a3ec05078237a036d5e534f?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- NY | Hybrid | Jun 26 |
 | ↳ | **[Fall 2026 Undergraduate Intern, Communications - Earned Media and Communications Strategy](https://jobright.ai/jobs/info/6a3ec05078237a036d5e5350?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- Washington D.C. | Hybrid | Jun 26 |
-| ↳ | **[Fall 2026 Undergraduate Intern, Communications - Earned Media and Communications Strategy](https://jobright.ai/jobs/info/6a3ec05078237a036d5e5351?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 26 |
 | **[Penn State University](http://psu.edu)** | **[Public Relations and Marketing multimedia/video communications intern](https://jobright.ai/jobs/info/6a3ee4ba882f121f56a3bd7c?utm_campaign=1065&utm_source=git)** | University Park, PA | On Site | Jun 26 |
 | **[Cases by LJ](casesbylj.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3eb8b1122f340d29cf45e9?utm_campaign=1065&utm_source=git)** | Whittier, CA | Hybrid | Jun 26 |
 | **[Kao EMEA & Americas](http://www.kao.com/)** | **[Social Media/ Agile Content  Intern](https://jobright.ai/jobs/info/6a3ea37e4d047136e0936e6a?utm_campaign=1065&utm_source=git)** | Cincinnati | Hybrid | Jun 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creator Growth Marketing Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30196beace377055eb4624?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
 | ↳ | **[Campaign Traffic Strategy & Operations Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3e42558bfad862bc99f521?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 26 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Summer/Fall 2026: Development & Communications Intern (Unpaid)](https://jobright.ai/jobs/info/6a39970f214ae004c7a1f79d?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jun 26 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Market Research Internship](https://jobright.ai/jobs/info/6a3e1e8ed261407de98028f3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
