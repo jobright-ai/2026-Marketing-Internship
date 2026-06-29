@@ -59,16 +59,17 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Alliance for Citizen Engagement (ACE)](http://ace-usa.org/)** | **[Fall 2026 Social Media Intern](https://jobright.ai/jobs/info/6a4256c0adab21425e9fd5ac?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 29 |
 | **[Crescendo International](https://crescendointernational.co/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a424f326faf7560609668d2?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 29 |
-| **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a0f2f7072b52f7225f3b7bd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
-| ↳ | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a21bf98338c0123051203cd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
+| **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a21bf98338c0123051203cd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
+| ↳ | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a0f2f7072b52f7225f3b7bd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
+| ↳ | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6880cd7a29ad6b2744adc425?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a424b83557b3862f15e0c07?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a424b7b6a9c2774b3fa5c6d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Market Research Internship](https://jobright.ai/jobs/info/6a424b6dadab21425e9fd447?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/6a424b68adab21425e9fd446?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | ↳ | **[Market Research Internship](https://jobright.ai/jobs/info/6a424b656faf756060966830?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Market Research Internship](https://jobright.ai/jobs/info/6a424b601cc9cc2b12feb5c6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a1e4b02a507373dff6b9bc8?utm_campaign=1065&utm_source=git)** | Schenectady, NY, US | Hybrid | Jun 29 |
-| ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b34dd4ad360c0340a86f03?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Jun 29 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b34dd4ad360c0340a86f03?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Jun 29 |
+| ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a1e4b02a507373dff6b9bc8?utm_campaign=1065&utm_source=git)** | Schenectady, NY, US | Hybrid | Jun 29 |
 | **[Suger](https://www.suger.io)** | **[Marketing Intern (Full-Time/Part-Time)](https://jobright.ai/jobs/info/6a424387ff87fd527f983e98?utm_campaign=1065&utm_source=git)** | Vancouver, BC | Hybrid | Jun 29 |
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a423dc41cc9cc2b12feb0e8?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 29 |
 | **[Codexa Labs Private Limited](https://codexalabs.io/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a423eaf6a9c2774b3fa5940?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Children's Museum Houston](https://www.cmhouston.org/)** | **[Marketing Communications Fall Intern](https://jobright.ai/jobs/info/6a3ecd84122f340d29cf4bc9?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 26 |
 | **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a3946466484fb75f2b306d5?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jun 26 |
 | **[The Nackard Companies](https://www.nackard.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3ec6a8d261407de98046f0?utm_campaign=1065&utm_source=git)** | Flagstaff, AZ, US | On Site | Jun 26 |
-| **[Democracy Now! Productions](http://www.democracynow.org/)** | **[Fundraising and Outreach Intern](https://jobright.ai/jobs/info/6a3ec3f1882f121f56a3b46c?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
