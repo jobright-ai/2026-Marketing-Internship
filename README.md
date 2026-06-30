@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEON](http://neon-nyc.com/)** | **[Engagement Strategy Intern](https://jobright.ai/jobs/info/6a43c621105260150b71e239?utm_campaign=1065&utm_source=git)** | NY NY 100 W 33rd | Hybrid | Jun 30 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern) @ The Bookie WSU Pullman](https://jobright.ai/jobs/info/6a31c76a35e80310003a9540?utm_campaign=1065&utm_source=git)** | PULLMAN, WA, US | On Site | Jun 30 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 FOX Corporation Internship Program - Ad Sales](https://jobright.ai/jobs/info/6a0a92c9a203b1052e44dd83?utm_campaign=1065&utm_source=git)** | New York, New York, USA, US | On Site | Jun 30 |
 | **[Cenergistic](https://cenergistic.com)** | **[Internship](https://jobright.ai/jobs/info/6a39beb7649fdf1629302b95?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Jun 30 |
@@ -69,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Black Star Fund](https://blackstar.fund)** | **[XRP Black Star NEXUS Internship – Crypto Adoption & Community Outreach (Blockchain Crypto wallet Ambassador Internship)](https://jobright.ai/jobs/info/6a2200a47c30cc2cc516cfd8?utm_campaign=1065&utm_source=git)** | Lydia Ave, Charlotte, NC 28205, USA | Hybrid | Jun 30 |
 | **[The St. James](https://www.thestjames.com/)** | **[Sports Marketing & Social Media Intern (Spring 2026)  (2029)](https://jobright.ai/jobs/info/6a3c0965982bb239f812e0cc?utm_campaign=1065&utm_source=git)** | Springfield Flagship - Springfield, VA 22151 | On Site | Jun 30 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Irving, TX](https://jobright.ai/jobs/info/6a344eb81232144fb155f4ae?utm_campaign=1065&utm_source=git)** | Irving, TX, US | Hybrid | Jun 30 |
-| **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43975014eb9f55686c5de4?utm_campaign=1065&utm_source=git)** | Hyattsville, MD | Hybrid | Jun 30 |
-| ↳ | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43974f8208843cea1f20bb?utm_campaign=1065&utm_source=git)** | Fairfax, VA | Hybrid | Jun 30 |
+| **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43974f8208843cea1f20bb?utm_campaign=1065&utm_source=git)** | Fairfax, VA | Hybrid | Jun 30 |
+| ↳ | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43975014eb9f55686c5de4?utm_campaign=1065&utm_source=git)** | Hyattsville, MD | Hybrid | Jun 30 |
 | ↳ | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43974c8208843cea1f20ba?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Jun 30 |
 | **[Urban Unity INC](https://urbanunity.us)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a43579dc8bca56ab22476fb?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Jun 29 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Marketing Internship / Cincinnati](https://jobright.ai/jobs/info/6a43390d4461bf091787b581?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jun 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a1e4b02a507373dff6b9bc8?utm_campaign=1065&utm_source=git)** | Schenectady, NY, US | Hybrid | Jun 29 |
 | ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b34dd4ad360c0340a86f03?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Jun 29 |
 | **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a3946466484fb75f2b306d5?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jun 29 |
-| **[Suger](https://www.suger.io)** | **[Marketing Intern (Full-Time/Part-Time)](https://jobright.ai/jobs/info/6a424387ff87fd527f983e98?utm_campaign=1065&utm_source=git)** | Vancouver, BC | Hybrid | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
