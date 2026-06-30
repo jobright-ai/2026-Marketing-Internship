@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stream](https://stream.co)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6a43b0a514eb9f55686c621f?utm_campaign=1065&utm_source=git)** | Manchester, NH, United States | On Site | Jun 30 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a3e9bffd261407de9803a3a?utm_campaign=1065&utm_source=git)** | TAMPA, FL, US | On Site | Jun 30 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Queens](https://jobright.ai/jobs/info/6a276a9a4ec8d737d6dffa2f?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Jun 30 |
 | **[Achieve Atlanta](https://achieveatlanta.org)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a3a8823649fdf1629304779?utm_campaign=1065&utm_source=git)** | 191 Peachtree Rd NE, Atlanta, GA 30303, USA | Hybrid | Jun 30 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Social Media- Communications and Marketing Department](https://jobright.ai/jobs/info/6a42eca6ff87fd527f9860e6?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- New York City | Hybrid | Jun 29 |
 | **[Blueprint](https://www.blueprint.ai/)** | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea296faf75606096879f?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jun 29 |
 | ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea291cc9cc2b12fed4e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
-| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea276faf75606096879d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 29 |
 | ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea271cc9cc2b12fed4e5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jun 29 |
+| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea276faf75606096879d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 29 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Communications & Public Relations Intern - New York](https://jobright.ai/jobs/info/6a42e6b31cc9cc2b12fed440?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Houston - Clear Lake](https://jobright.ai/jobs/info/6a42dd7c1cc9cc2b12fed2ba?utm_campaign=1065&utm_source=git)** | 2700 Bay Area Blvd, Houston, TX, 77058, US | On Site | Jun 29 |
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Marketing and AI Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c7a82cde2824469be818?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.co/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6a41d2b416b1493953284a38?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | Hybrid | Jun 28 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Search Engine Marketing Intern](https://jobright.ai/jobs/info/6a2ae4290ad4053b108c94c6?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 28 |
 | **[Visual Property Management](https://www.visualpm.com)** | **[Summer Leasing & Marketing Intern](https://jobright.ai/jobs/info/6a41bc2e16b1493953284529?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 28 |
-| **[1AM Talent Group](https://www.1amtalentgroup.com)** | **[Social Media Intern – Creator Growth](https://jobright.ai/jobs/info/6a41b1e49dd7f954cafe8fce?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
