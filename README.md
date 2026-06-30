@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BHDP Architecture](http://bhdp.com)** | **[Fall Marketing Internship / Cincinnati](https://jobright.ai/jobs/info/6a43390d4461bf091787b581?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jun 29 |
 | **[Advita Ortho](http://www.advita.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a4333604461bf091787b1dc?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jun 29 |
 | **[Environment America](http://environmentamerica.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a4333004461bf091787b108?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jun 29 |
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Mareting Intern（Remote）](https://jobright.ai/jobs/info/6a4332f8b0f2553559ecf0a5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 29 |
@@ -74,9 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Pop Deux Balloons](http://www.popdeux.com)** | **[Social Media Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a4324c53a9004648946ab7a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 29 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / University of Houston - Clear Lake](https://jobright.ai/jobs/info/6a4323ba3a9004648946aa07?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 29 |
 | **[LeadingIndia.AI](https://leadingindia.ai)** | **[Digital Marketing & Growth Intern](https://jobright.ai/jobs/info/6a43206538fa630841050471?utm_campaign=1065&utm_source=git)** | Remote, Kansas | Remote | Jun 29 |
-| **[Atlas Roofing Corporation](https://www.atlasroofing.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a430f56a5e15b106837b16f?utm_campaign=1065&utm_source=git)** | 2100 Riveredge Parkway
-Suite 600, Atlanta, GA,30328 | On Site | Jun 29 |
-| **[LeadingIndia.AI](https://leadingindia.ai)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a43180d78fcb767e27557d7?utm_campaign=1065&utm_source=git)** | Home, KS | Remote | Jun 29 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a43180d78fcb767e27557d7?utm_campaign=1065&utm_source=git)** | Home, KS | Remote | Jun 29 |
 | **[Gift](https://www.shine.gift)** | **[Music Community Growth Intern](https://jobright.ai/jobs/info/6a4317f8c662c35651adb740?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
 | **[Aramark UK](aramark.co.uk)** | **[Marketing Intern - Texas State University Job Details / Aramark](https://jobright.ai/jobs/info/6a4314abff87fd527f986868?utm_campaign=1065&utm_source=git)** | San Marcos, TX, US | On Site | Jun 29 |
 | ↳ | **[Marekting Intern - Southern Arkansas University Job Details / Aramark](https://jobright.ai/jobs/info/6a43140f6a9c2774b3fa8494?utm_campaign=1065&utm_source=git)** | Magnolia, AR, US, 71753 | On Site | Jun 29 |
@@ -94,13 +93,13 @@ Suite 600, Atlanta, GA,30328 | On Site | Jun 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Social Media- Communications and Marketing Department](https://jobright.ai/jobs/info/6a42eca6ff87fd527f9860e6?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- New York City | Hybrid | Jun 29 |
 | **[Blueprint](https://www.blueprint.ai/)** | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea291cc9cc2b12fed4e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
 | ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea296faf75606096879f?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jun 29 |
-| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea276faf75606096879d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 29 |
 | ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea271cc9cc2b12fed4e5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jun 29 |
+| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea276faf75606096879d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 29 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Communications & Public Relations Intern - New York](https://jobright.ai/jobs/info/6a42e6b31cc9cc2b12fed440?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Houston - Clear Lake](https://jobright.ai/jobs/info/6a42dd7c1cc9cc2b12fed2ba?utm_campaign=1065&utm_source=git)** | 2700 Bay Area Blvd, Houston, TX, 77058, US | On Site | Jun 29 |
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Marketing and AI Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c7a82cde2824469be818?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 29 |
-| **[Compass Group Canada](http://www.compass-canada.com)** | **[Social Media Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42d980ff87fd527f985ce4?utm_campaign=1065&utm_source=git)** | Keene, NH, US | On Site | Jun 29 |
-| ↳ | **[Promotions & Events Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42d980a5e15b106837a73f?utm_campaign=1065&utm_source=git)** | Keene, NH, US | On Site | Jun 29 |
+| **[Compass Group Canada](http://www.compass-canada.com)** | **[Promotions & Events Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42d980a5e15b106837a73f?utm_campaign=1065&utm_source=git)** | Keene, NH, US | On Site | Jun 29 |
+| ↳ | **[Social Media Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42d980ff87fd527f985ce4?utm_campaign=1065&utm_source=git)** | Keene, NH, US | On Site | Jun 29 |
 | **[New York City Ballet](http://nycballet.com)** | **[Fall Intern - Special Events](https://jobright.ai/jobs/info/6a42d8151cc9cc2b12fed119?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Jun 29 |
 | **[AskSia](https://asksia.ai/)** | **[Content & Social Marketing Intern (Paid, Remote)](https://jobright.ai/jobs/info/6a42d7f46a9c2774b3fa78eb?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 29 |
 | **[Sophia Matchmaking](meetsophia.co)** | **[Growth & Content Creation Intern](https://jobright.ai/jobs/info/6a42d6c66c326942b4e845b2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 29 |
@@ -145,8 +144,8 @@ Suite 600, Atlanta, GA,30328 | On Site | Jun 29 |
 | ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/6a424b68adab21425e9fd446?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | ↳ | **[Market Research Internship](https://jobright.ai/jobs/info/6a424b656faf756060966830?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Market Research Internship](https://jobright.ai/jobs/info/6a424b601cc9cc2b12feb5c6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 29 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b34dd4ad360c0340a86f03?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Jun 29 |
-| ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a1e4b02a507373dff6b9bc8?utm_campaign=1065&utm_source=git)** | Schenectady, NY, US | Hybrid | Jun 29 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a1e4b02a507373dff6b9bc8?utm_campaign=1065&utm_source=git)** | Schenectady, NY, US | Hybrid | Jun 29 |
+| ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b34dd4ad360c0340a86f03?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Jun 29 |
 | **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a3946466484fb75f2b306d5?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jun 29 |
 | **[Suger](https://www.suger.io)** | **[Marketing Intern (Full-Time/Part-Time)](https://jobright.ai/jobs/info/6a424387ff87fd527f983e98?utm_campaign=1065&utm_source=git)** | Vancouver, BC | Hybrid | Jun 29 |
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a423dc41cc9cc2b12feb0e8?utm_campaign=1065&utm_source=git)** | 18900 NE 25th Ave, Miami, FL, United States | On Site | Jun 29 |
