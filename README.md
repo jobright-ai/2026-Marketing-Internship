@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novarus Technologies](https://novarustech.com)** | **[Marketing And Promotions Intern](https://jobright.ai/jobs/info/6a44027f65e80d3c99f2b2d0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Akron Children's](http://www.akronchildrens.org)** | **[PR Intern](https://jobright.ai/jobs/info/6a43f90f57ffc22029405d39?utm_campaign=1065&utm_source=git)** | Akron, OH | Hybrid | Jun 30 |
 | **[The Aston Thomas Integrity Commission](https://www.astonthomas.org)** | **[Communications Internship Summer 2026](https://jobright.ai/jobs/info/6a43f5c8b156014e414baf66?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Jun 30 |
 | **[ENE GROUP](https://ericnewton.com)** | **[Part Time Marketing Intern](https://jobright.ai/jobs/info/6a43f3e90153061b8b3deba8?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Jun 30 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[The Kim Komando Show](https://www.komando.com)** | **[Business & Media Operations Intern (MBA)](https://jobright.ai/jobs/info/6a43e97865e80d3c99f2ad24?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 30 |
 | **[Lincoln Savings Bank](https://mylsb.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6a27492e7d827633afff9f33?utm_campaign=1065&utm_source=git)** | TechWorks, Waterloo, IA, US | On Site | Jun 30 |
 | **[Continental](http://www.benecke-kaliko.com)** | **[Intern - Marketing - Bicycle Tire, Year-Round](https://jobright.ai/jobs/info/6a43de5365e80d3c99f2a7dd?utm_campaign=1065&utm_source=git)** | Denver, CO, USA | Hybrid | Jun 30 |
-| **[Seas of Sunshine](https://www.seasofsunshine.com/)** | **[Social Media Marketing Intern - Clean Beauty Start Up](https://jobright.ai/jobs/info/6a43dcf565e80d3c99f2a5b9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
 | **[GrowthExpertz](https://growthexpertz.com)** | **[Mobile App Startup Marketing Internship (With Training)](https://jobright.ai/jobs/info/6a43dcd765e80d3c99f2a591?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Stealth Startup](https://www.definitive.io )** | **[GTM Intern](https://jobright.ai/jobs/info/6a43dbeb65e80d3c99f2a3fe?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Institute of Corporate Directors](https://www.icd.ca)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/6a43cbb365e80d3c99f29009?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 30 |
@@ -128,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Axis Communications](http://www.axis.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6a42ba44a5e15b1068379f59?utm_campaign=1065&utm_source=git)** | USA - MA - Chelmsford, US | On Site | Jun 29 |
 | **[Versaunt](https://www.versaunt.com)** | **[Growth Intern](https://jobright.ai/jobs/info/6a42f79fa5e15b106837ae18?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Social Media- Communications and Marketing Department](https://jobright.ai/jobs/info/6a42eca6ff87fd527f9860e6?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- New York City | Hybrid | Jun 29 |
-| **[Blueprint](https://www.blueprint.ai/)** | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea291cc9cc2b12fed4e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
-| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea296faf75606096879f?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jun 29 |
+| **[Blueprint](https://www.blueprint.ai/)** | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea296faf75606096879f?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jun 29 |
+| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea291cc9cc2b12fed4e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
 | ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea271cc9cc2b12fed4e5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jun 29 |
 | ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea276faf75606096879d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 29 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Communications & Public Relations Intern - New York](https://jobright.ai/jobs/info/6a42e6b31cc9cc2b12fed440?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 29 |
