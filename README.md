@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thalos Labs](https://thaloslabs.xyz)** | **[Digital/Online Marketing Intern](https://jobright.ai/jobs/info/6a42feb21cc9cc2b12fed9a9?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jun 29 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[Seascape Corporate Footprint Analysis Internship](https://jobright.ai/jobs/info/6a42fd7fa5e15b106837aeef?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jun 29 |
+| **[Axis Communications](http://www.axis.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6a42ba44a5e15b1068379f59?utm_campaign=1065&utm_source=git)** | USA - MA - Chelmsford, US | On Site | Jun 29 |
+| **[Waybox](https://linktr.ee/waybox)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a42f7df1cc9cc2b12fed8bf?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Jun 29 |
+| **[Versaunt](https://www.versaunt.com)** | **[Growth Intern](https://jobright.ai/jobs/info/6a42f79fa5e15b106837ae18?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
+| **[The Aston Thomas Integrity Commission](https://www.astonthomas.org)** | **[Communications Internship](https://jobright.ai/jobs/info/6a42f45fa5e15b106837ad34?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Jun 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Social Media- Communications and Marketing Department](https://jobright.ai/jobs/info/6a42eca6ff87fd527f9860e6?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- New York City | Hybrid | Jun 29 |
-| **[Blueprint](https://www.blueprint.ai/)** | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea291cc9cc2b12fed4e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
-| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea296faf75606096879f?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jun 29 |
+| **[Blueprint](https://www.blueprint.ai/)** | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea296faf75606096879f?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jun 29 |
+| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea291cc9cc2b12fed4e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
 | ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea276faf75606096879d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 29 |
 | ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea271cc9cc2b12fed4e5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jun 29 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Communications & Public Relations Intern - New York](https://jobright.ai/jobs/info/6a42e6b31cc9cc2b12fed440?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 29 |
@@ -79,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Reineke Family Dealerships](https://www.drivereineke.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a42bd701cc9cc2b12fecaba?utm_campaign=1065&utm_source=git)** | Reineke Ford Lincoln - Findlay, OH 45840 | On Site | Jun 29 |
 | **[C2 Tactical](https://c2tactical.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a42bce3ff87fd527f985603?utm_campaign=1065&utm_source=git)** | C2 Tactical Phoenix - Phoenix, AZ 85054 | On Site | Jun 29 |
 | **[HatchByte Studios](https://hatchbytestudios.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a42bc181cc9cc2b12feca53?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
-| **[Axis Communications](http://www.axis.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6a42ba44a5e15b1068379f59?utm_campaign=1065&utm_source=git)** | USA - MA - Chelmsford, US | On Site | Jun 29 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Summer Intern - Public Relations](https://jobright.ai/jobs/info/6a42b90c6c326942b4e83e68?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jun 29 |
 | **[Greater Philadelphia YMCA](https://philaymca.org/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a42b8da6faf756060967b8c?utm_campaign=1065&utm_source=git)** | Conshohocken, PA | Hybrid | Jun 29 |
 | **[Benco Dental](https://www.benco.com/)** | **[Digital Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a42b61b6a9c2774b3fa7057?utm_campaign=1065&utm_source=git)** | Pittston, PA | On Site | Jun 29 |
@@ -101,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[GrowthExpertz](https://growthexpertz.com)** | **[Startup Marketing Internship (With Training)](https://jobright.ai/jobs/info/6a4284f16a9c2774b3fa64b6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Market Research Internship](https://jobright.ai/jobs/info/6a428370a5e15b10683792c5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Sacramento, CA](https://jobright.ai/jobs/info/6a42823ea5e15b1068379277?utm_campaign=1065&utm_source=git)** | Sacramento, CA, US | Hybrid | Jun 29 |
-| **[C • L • E Cotton Candy](http://www.clecottoncandy.com)** | **[Event Planning, Social Media and Public Relations Intern](https://jobright.ai/jobs/info/6a427b796c326942b4e82f90?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Jun 29 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Communications Internship](https://jobright.ai/jobs/info/6a3e7b2a8bfad862bc99fbab?utm_campaign=1065&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jun 29 |
 | ↳ | **[Communications Internship](https://jobright.ai/jobs/info/6a3e76cb882f121f56a3a1b7?utm_campaign=1065&utm_source=git)** | HALIFAX, NS, CA | On Site | Jun 29 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a4271086a9c2774b3fa60ba?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30d29689f8f147d3736f17?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
 | **[Albert A. Webb Associates (WEBB)](http://webbassociates.com)** | **[Proposal and Marketing Production Intern](https://jobright.ai/jobs/info/6a2df576d3ec94183f4c034b?utm_campaign=1065&utm_source=git)** | Riverside,CA,US | On Site | Jun 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/695c04bff1f8465b79f2113b?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 27 |
-| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Marketing &amp; Creative Services Intern](https://jobright.ai/jobs/info/6a40009bd528ac2915f962e9?utm_campaign=1065&utm_source=git)** | Vermont | On Site | Jun 27 |
-| **[New Look Painting & Remodeling](https://newlookpainting-remodeling.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a403897d528ac2915f966fe?utm_campaign=1065&utm_source=git)** | Levittown, PA | On Site | Jun 27 |
-| **[MicroVention-Terumo](http://microvention.com)** | **[Intern, MBA Marketing](https://jobright.ai/jobs/info/6a3fe246d528ac2915f95e82?utm_campaign=1065&utm_source=git)** | Aliso Viejo, California, USA | On Site | Jun 27 |
-| **[NIL Academy](https://www.linkedin.com/company/109192007)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/6a40075fd528ac2915f96396?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
