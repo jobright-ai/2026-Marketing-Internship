@@ -57,16 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LeadingIndia.AI](https://leadingindia.ai)** | **[Digital Marketing & Growth Intern](https://jobright.ai/jobs/info/6a43206538fa630841050471?utm_campaign=1065&utm_source=git)** | Remote, Kansas | Remote | Jun 29 |
+| **[Atlas Roofing Corporation](https://www.atlasroofing.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a430f56a5e15b106837b16f?utm_campaign=1065&utm_source=git)** | 2100 Riveredge Parkway
+Suite 600, Atlanta, GA,30328 | On Site | Jun 29 |
 | **[LeadingIndia.AI](https://leadingindia.ai)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a43180d78fcb767e27557d7?utm_campaign=1065&utm_source=git)** | Home, KS | Remote | Jun 29 |
 | **[Gift](https://www.shine.gift)** | **[Music Community Growth Intern](https://jobright.ai/jobs/info/6a4317f8c662c35651adb740?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
 | **[Aramark UK](aramark.co.uk)** | **[Marketing Intern - Texas State University Job Details / Aramark](https://jobright.ai/jobs/info/6a4314abff87fd527f986868?utm_campaign=1065&utm_source=git)** | San Marcos, TX, US | On Site | Jun 29 |
 | ↳ | **[Marekting Intern - Southern Arkansas University Job Details / Aramark](https://jobright.ai/jobs/info/6a43140f6a9c2774b3fa8494?utm_campaign=1065&utm_source=git)** | Magnolia, AR, US, 71753 | On Site | Jun 29 |
 | ↳ | **[Marketing Intern - College of Charleston Job Details / Aramark](https://jobright.ai/jobs/info/6a4313d36a9c2774b3fa8479?utm_campaign=1065&utm_source=git)** | Charleston, SC, US, 29424 | On Site | Jun 29 |
 | **[Renee Washington Media & Consulting](www.reneepwashington.com/rwmc)** | **[Marketing, Media & Brand Strategy Internship (Academic Credit / Unpaid)](https://jobright.ai/jobs/info/6a4311ba1cc9cc2b12fedc6e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 29 |
-| **[Lee Web and Media Studio](https://www.linkedin.com/company/117074102)** | **[Marketing & Community Intern](https://jobright.ai/jobs/info/6a4310916c326942b4e8514b?utm_campaign=1065&utm_source=git)** | Tustin, CA | Remote | Jun 29 |
 | **[THE rAVe Agency](https://theraveagency.com)** | **[Marketing & Program Intern](https://jobright.ai/jobs/info/6a4310071cc9cc2b12fedc1a?utm_campaign=1065&utm_source=git)** | Chapel Hill, North Carolina, United States | Hybrid | Jun 29 |
-| **[Atlas Roofing Corporation](https://www.atlasroofing.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a430f56a5e15b106837b16f?utm_campaign=1065&utm_source=git)** | 2100 Riveredge Parkway
-Suite 600, Atlanta, GA,30328 | On Site | Jun 29 |
 | **[Eliot Group](https://eliotconsultinggroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a430c356faf756060968e94?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 29 |
 | **[Value Alpha](https://valuealpha.ai)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a43099f6faf756060968e06?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 29 |
 | **[Innodata Inc.](http://www.innodata.com)** | **[Events & Community Growth Intern](https://jobright.ai/jobs/info/6a430877a5e15b106837b01c?utm_campaign=1065&utm_source=git)** | Remote - Washington | Remote | Jun 29 |
@@ -77,15 +77,15 @@ Suite 600, Atlanta, GA,30328 | On Site | Jun 29 |
 | **[Versaunt](https://www.versaunt.com)** | **[Growth Intern](https://jobright.ai/jobs/info/6a42f79fa5e15b106837ae18?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
 | **[The Aston Thomas Integrity Commission](https://www.astonthomas.org)** | **[Communications Internship](https://jobright.ai/jobs/info/6a42f45fa5e15b106837ad34?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Jun 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Social Media- Communications and Marketing Department](https://jobright.ai/jobs/info/6a42eca6ff87fd527f9860e6?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- New York City | Hybrid | Jun 29 |
-| **[Blueprint](https://www.blueprint.ai/)** | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea296faf75606096879f?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jun 29 |
-| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea291cc9cc2b12fed4e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
+| **[Blueprint](https://www.blueprint.ai/)** | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea291cc9cc2b12fed4e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
+| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea296faf75606096879f?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jun 29 |
 | ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea271cc9cc2b12fed4e5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jun 29 |
 | ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea276faf75606096879d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 29 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Communications & Public Relations Intern - New York](https://jobright.ai/jobs/info/6a42e6b31cc9cc2b12fed440?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Houston - Clear Lake](https://jobright.ai/jobs/info/6a42dd7c1cc9cc2b12fed2ba?utm_campaign=1065&utm_source=git)** | 2700 Bay Area Blvd, Houston, TX, 77058, US | On Site | Jun 29 |
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Marketing and AI Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c7a82cde2824469be818?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 29 |
-| **[Compass Group Canada](http://www.compass-canada.com)** | **[Social Media Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42d980ff87fd527f985ce4?utm_campaign=1065&utm_source=git)** | Keene, NH, US | On Site | Jun 29 |
-| ↳ | **[Promotions & Events Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42d980a5e15b106837a73f?utm_campaign=1065&utm_source=git)** | Keene, NH, US | On Site | Jun 29 |
+| **[Compass Group Canada](http://www.compass-canada.com)** | **[Promotions & Events Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42d980a5e15b106837a73f?utm_campaign=1065&utm_source=git)** | Keene, NH, US | On Site | Jun 29 |
+| ↳ | **[Social Media Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42d980ff87fd527f985ce4?utm_campaign=1065&utm_source=git)** | Keene, NH, US | On Site | Jun 29 |
 | **[New York City Ballet](http://nycballet.com)** | **[Fall Intern - Special Events](https://jobright.ai/jobs/info/6a42d8151cc9cc2b12fed119?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Jun 29 |
 | **[AskSia](https://asksia.ai/)** | **[Content & Social Marketing Intern (Paid, Remote)](https://jobright.ai/jobs/info/6a42d7f46a9c2774b3fa78eb?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 29 |
 | **[Sophia Matchmaking](meetsophia.co)** | **[Growth & Content Creation Intern](https://jobright.ai/jobs/info/6a42d6c66c326942b4e845b2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 29 |
@@ -123,8 +123,8 @@ Suite 600, Atlanta, GA,30328 | On Site | Jun 29 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a4271086a9c2774b3fa60ba?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 29 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/6a28f8d8883c0d3be6545264?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Jun 29 |
 | **[Crescendo International](https://crescendointernational.co/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a424f326faf7560609668d2?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 29 |
-| **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a21bf98338c0123051203cd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
-| ↳ | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a0f2f7072b52f7225f3b7bd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
+| **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a0f2f7072b52f7225f3b7bd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
+| ↳ | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a21bf98338c0123051203cd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
 | ↳ | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6880cd7a29ad6b2744adc425?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a424b83557b3862f15e0c07?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a424b7b6a9c2774b3fa5c6d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
