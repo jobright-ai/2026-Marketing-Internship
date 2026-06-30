@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Queens](https://jobright.ai/jobs/info/6a276a9a4ec8d737d6dffa2f?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Jun 30 |
+| **[Achieve Atlanta](https://achieveatlanta.org)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a3a8823649fdf1629304779?utm_campaign=1065&utm_source=git)** | 191 Peachtree Rd NE, Atlanta, GA 30303, USA | Hybrid | Jun 30 |
 | **[Black Star Fund](https://blackstar.fund)** | **[XRP Black Star NEXUS Internship – Crypto Adoption & Community Outreach (Blockchain Crypto wallet Ambassador Internship)](https://jobright.ai/jobs/info/6a2200a47c30cc2cc516cfd8?utm_campaign=1065&utm_source=git)** | Lydia Ave, Charlotte, NC 28205, USA | Hybrid | Jun 30 |
 | **[The St. James](https://www.thestjames.com/)** | **[Sports Marketing & Social Media Intern (Spring 2026)  (2029)](https://jobright.ai/jobs/info/6a3c0965982bb239f812e0cc?utm_campaign=1065&utm_source=git)** | Springfield Flagship - Springfield, VA 22151 | On Site | Jun 30 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Irving, TX](https://jobright.ai/jobs/info/6a344eb81232144fb155f4ae?utm_campaign=1065&utm_source=git)** | Irving, TX, US | Hybrid | Jun 30 |
@@ -92,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Social Media- Communications and Marketing Department](https://jobright.ai/jobs/info/6a42eca6ff87fd527f9860e6?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- New York City | Hybrid | Jun 29 |
 | **[Blueprint](https://www.blueprint.ai/)** | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea296faf75606096879f?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jun 29 |
 | ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea291cc9cc2b12fed4e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
-| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea271cc9cc2b12fed4e5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jun 29 |
 | ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea276faf75606096879d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 29 |
+| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea271cc9cc2b12fed4e5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jun 29 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Communications & Public Relations Intern - New York](https://jobright.ai/jobs/info/6a42e6b31cc9cc2b12fed440?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Houston - Clear Lake](https://jobright.ai/jobs/info/6a42dd7c1cc9cc2b12fed2ba?utm_campaign=1065&utm_source=git)** | 2700 Bay Area Blvd, Houston, TX, 77058, US | On Site | Jun 29 |
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Marketing and AI Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c7a82cde2824469be818?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 29 |
@@ -105,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Ottawa Sports and Entertainment Group (OSEG)](http://www.tdplace.ca)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6a42d5d46faf7560609682cf?utm_campaign=1065&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 29 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfd61cc9cc2b12fece85?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace Search Ads Intern, Summer 2026](https://jobright.ai/jobs/info/6a42cf786a9c2774b3fa75ca?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jun 29 |
-| **[Revilo Technologies](https://www.revilotechnologies.com)** | **[Social Media Intern l U.S.-Based Automotive AI Startup](https://jobright.ai/jobs/info/6a42cc196a9c2774b3fa7539?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 29 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Promotions & Events Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42c0bc1cc9cc2b12fecb7e?utm_campaign=1065&utm_source=git)** | 229 Main Street, Keene, NH, 03435, US | On Site | Jun 29 |
 | ↳ | **[Social Media Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42c0bb6faf756060967dd7?utm_campaign=1065&utm_source=git)** | 229 Main Street, Keene, NH, 03435, US | On Site | Jun 29 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Social Media Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42eac96a9c2774b3fa7cf1?utm_campaign=1065&utm_source=git)** | Keene, NH | On Site | Jun 29 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a4271086a9c2774b3fa60ba?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jun 29 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Direct Marketing Operations Internship - Summer 2026 - Escondido, CA](https://jobright.ai/jobs/info/6a28f8d8883c0d3be6545264?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Jun 29 |
 | **[Crescendo International](https://crescendointernational.co/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a424f326faf7560609668d2?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 29 |
-| **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a21bf98338c0123051203cd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
-| ↳ | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a0f2f7072b52f7225f3b7bd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
+| **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a0f2f7072b52f7225f3b7bd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
+| ↳ | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6a21bf98338c0123051203cd?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
 | ↳ | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6880cd7a29ad6b2744adc425?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a424b83557b3862f15e0c07?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a424b7b6a9c2774b3fa5c6d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Nonprofit Marketing Internship](https://jobright.ai/jobs/info/6a41a1fb1afc66714d3cae7d?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Jun 28 |
 | **[Southwestern Healthcare](https://www.southwestern.org)** | **[Marketing/Public Relations Spring 2027 Internship](https://jobright.ai/jobs/info/6a4187fa3bfa967791ec1129?utm_campaign=1065&utm_source=git)** | Evansville, IN | On Site | Jun 28 |
 | **[Juno](https://joinjuno.com)** | **[Pre-MBA Growth Intern (Remote)](https://jobright.ai/jobs/info/6a417e3ed528ac2915f976c7?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jun 28 |
-| **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a41621d1afc66714d3cabc8?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States | Hybrid | Jun 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
