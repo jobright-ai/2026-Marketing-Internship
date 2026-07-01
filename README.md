@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, National Corporate Relations-Remote](https://jobright.ai/jobs/info/6a354d717f3fdd180d4cce9a?utm_campaign=1065&utm_source=git)** | Dallas, TX, US | Remote | Jul 01 |
+| **[Acadium](http://www.acadium.com)** | **[Email Marketing & Growth Intern](https://jobright.ai/jobs/info/6a44b634105260150b722704?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jun 30 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Arlington, VA](https://jobright.ai/jobs/info/6a342b2729c90c607e4ddc0d?utm_campaign=1065&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 30 |
 | **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a44a01f57ffc22029407b33?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jun 30 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72829c90c607e4d74fd?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jun 30 |
@@ -74,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Employment Solutions - Sault College](http://www.employment-solutions.ca/)** | **[Marketing & Communications Research Intern](https://jobright.ai/jobs/info/6a446bb0ef17a815538a3fba?utm_campaign=1065&utm_source=git)** | Sault Ste. Marie, Ontario, Canada | On Site | Jun 30 |
 | **[KAMINSKIY DESIGN & REMODELING](http://kaminskiyinc.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a44674f65e80d3c99f2c93b?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jun 30 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jun 30 |
-| **[LUPFR Entertainment](Lupfr.com)** | **[Marketing & Strategy Intern](https://jobright.ai/jobs/info/6a4442a0b156014e414bc090?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 30 |
+| **[Convective Capital](https://www.convectivecapital.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a44aedbef17a815538a4785?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
 | **[Merz Aesthetics](http://www.merzusa.com)** | **[Radiesse Upstream Marketing Internship](https://jobright.ai/jobs/info/6a43f251105260150b720450?utm_campaign=1065&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | Jun 30 |
 | **[Cutsforth](https://www.cutsforth.com)** | **[Intern- Marketing Specialist](https://jobright.ai/jobs/info/6a443082ef17a815538a359d?utm_campaign=1065&utm_source=git)** | Ferndale, WA | On Site | Jun 30 |
 | **[The Forum of Executive Women](https://foew.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a442efc0153061b8b3dfad6?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 30 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Impact X 360](https://impactx360.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a44269aef17a815538a32a4?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jun 30 |
 | **[The New York Academy of Medicine](http://nyam.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4425a657ffc22029406705?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 30 |
 | **[Benco Dental](https://www.benco.com/)** | **[Marketing and Sales Enablement Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4423a365e80d3c99f2bafa?utm_campaign=1065&utm_source=git)** | Pittston, PA | On Site | Jun 30 |
+| **[RWS Global](https://www.rwsglobal.com)** | **[Intern, Sports Strategy & Activation / Fall 2026 RWS Global](https://jobright.ai/jobs/info/6a44ae8c105260150b7225da?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[Continental](http://www.benecke-kaliko.com)** | **[Intern - Marketing - Bicycle Tire, Year-Round](https://jobright.ai/jobs/info/6a43de5365e80d3c99f2a7dd?utm_campaign=1065&utm_source=git)** | Denver, CO, USA | Hybrid | Jun 30 |
 | **[Live! Casino & Hotel Maryland](https://maryland.livecasinohotel.com)** | **[Marketing Intern - Maryland](https://jobright.ai/jobs/info/6a3987ddf6b55d12c79289c7?utm_campaign=1065&utm_source=git)** | Hanover, MD, US | On Site | Jun 30 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/6a4442f80153061b8b3dfe96?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
@@ -131,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Black Star Fund](https://blackstar.fund)** | **[XRP Black Star NEXUS Internship – Crypto Adoption & Community Outreach (Blockchain Crypto wallet Ambassador Internship)](https://jobright.ai/jobs/info/6a2200a47c30cc2cc516cfd8?utm_campaign=1065&utm_source=git)** | Lydia Ave, Charlotte, NC 28205, USA | Hybrid | Jun 30 |
 | **[The St. James](https://www.thestjames.com/)** | **[Sports Marketing & Social Media Intern (Spring 2026)  (2029)](https://jobright.ai/jobs/info/6a3c0965982bb239f812e0cc?utm_campaign=1065&utm_source=git)** | Springfield Flagship - Springfield, VA 22151 | On Site | Jun 30 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Irving, TX](https://jobright.ai/jobs/info/6a344eb81232144fb155f4ae?utm_campaign=1065&utm_source=git)** | Irving, TX, US | Hybrid | Jun 30 |
-| **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43975014eb9f55686c5de4?utm_campaign=1065&utm_source=git)** | Hyattsville, MD | Hybrid | Jun 30 |
-| ↳ | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43974f8208843cea1f20bb?utm_campaign=1065&utm_source=git)** | Fairfax, VA | Hybrid | Jun 30 |
+| **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43974f8208843cea1f20bb?utm_campaign=1065&utm_source=git)** | Fairfax, VA | Hybrid | Jun 30 |
+| ↳ | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43975014eb9f55686c5de4?utm_campaign=1065&utm_source=git)** | Hyattsville, MD | Hybrid | Jun 30 |
 | ↳ | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43974c8208843cea1f20ba?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Jun 30 |
 | **[digest.pro](https://www.digest.pro)** | **[Digital Marketing Specialist (Intern)](https://jobright.ai/jobs/info/6a43436fc8bca56ab2246efa?utm_campaign=1065&utm_source=git)** | Enterprise, NV | On Site | Jun 29 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Marketing Internship / Cincinnati](https://jobright.ai/jobs/info/6a43390d4461bf091787b581?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jun 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aramark UK](aramark.co.uk)** | **[Marketing Intern - Texas State University Job Details / Aramark](https://jobright.ai/jobs/info/6a4314abff87fd527f986868?utm_campaign=1065&utm_source=git)** | San Marcos, TX, US | On Site | Jun 29 |
 | ↳ | **[Marekting Intern - Southern Arkansas University Job Details / Aramark](https://jobright.ai/jobs/info/6a43140f6a9c2774b3fa8494?utm_campaign=1065&utm_source=git)** | Magnolia, AR, US, 71753 | On Site | Jun 29 |
 | ↳ | **[Marketing Intern - College of Charleston Job Details / Aramark](https://jobright.ai/jobs/info/6a4313d36a9c2774b3fa8479?utm_campaign=1065&utm_source=git)** | Charleston, SC, US, 29424 | On Site | Jun 29 |
-| **[THE rAVe Agency](https://theraveagency.com)** | **[Marketing & Program Intern](https://jobright.ai/jobs/info/6a4310071cc9cc2b12fedc1a?utm_campaign=1065&utm_source=git)** | Chapel Hill, North Carolina, United States | Hybrid | Jun 29 |
-| **[Innodata Inc.](http://www.innodata.com)** | **[Events & Community Growth Intern](https://jobright.ai/jobs/info/6a430877a5e15b106837b01c?utm_campaign=1065&utm_source=git)** | Remote - Washington | Remote | Jun 29 |
-| **[Base Power Company](https://www.basepowercompany.com)** | **[Growth Intern](https://jobright.ai/jobs/info/6a43084e6a9c2774b3fa8251?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
