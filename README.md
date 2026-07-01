@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a44a01f57ffc22029407b33?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jun 30 |
+| **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72829c90c607e4d74fd?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jun 30 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Seattle Eastside](https://jobright.ai/jobs/info/6a1df454c2a87d6cd3e0f051?utm_campaign=1065&utm_source=git)** | East Seattle, WA, US | On Site | Jun 30 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Growth Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4497c5ef17a815538a4530?utm_campaign=1065&utm_source=git)** | Los Angeles, California | On Site | Jun 30 |
 | **[Net Conversion](http://www.net-conversion.com)** | **[Intern, Analytics](https://jobright.ai/jobs/info/6a447be8b156014e414bc94e?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 30 |
 | **[Banc of California](http://www.bancofcal.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4445be105260150b721878?utm_campaign=1065&utm_source=git)** | Santa Ana, California, United States | On Site | Jun 30 |
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a44774757ffc22029407627?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
@@ -105,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Rogers for Senate](https://rogersforsenate.com)** | **[Intern](https://jobright.ai/jobs/info/6a44049f105260150b72077a?utm_campaign=1065&utm_source=git)** | Detroit Metro | On Site | Jun 30 |
 | **[Lincoln Savings Bank](https://mylsb.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6a27492e7d827633afff9f33?utm_campaign=1065&utm_source=git)** | TechWorks, Waterloo, IA, US | On Site | Jun 30 |
 | **[GrowthExpertz](https://growthexpertz.com)** | **[Mobile App Startup Marketing Internship (With Training)](https://jobright.ai/jobs/info/6a43dcd765e80d3c99f2a591?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
-| **[Stealth Startup](https://www.definitive.io )** | **[GTM Intern](https://jobright.ai/jobs/info/6a43dbeb65e80d3c99f2a3fe?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Institute of Corporate Directors](https://www.icd.ca)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/6a43cbb365e80d3c99f29009?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Traffic Strategy & Operations Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3e1e6c122f340d29cf2b04?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 30 |
 | **[Acadium](http://www.acadium.com)** | **[AI Growth & Partnerships Intern](https://jobright.ai/jobs/info/6a43d3860153061b8b3dcae4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
@@ -128,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Black Star Fund](https://blackstar.fund)** | **[XRP Black Star NEXUS Internship – Crypto Adoption & Community Outreach (Blockchain Crypto wallet Ambassador Internship)](https://jobright.ai/jobs/info/6a2200a47c30cc2cc516cfd8?utm_campaign=1065&utm_source=git)** | Lydia Ave, Charlotte, NC 28205, USA | Hybrid | Jun 30 |
 | **[The St. James](https://www.thestjames.com/)** | **[Sports Marketing & Social Media Intern (Spring 2026)  (2029)](https://jobright.ai/jobs/info/6a3c0965982bb239f812e0cc?utm_campaign=1065&utm_source=git)** | Springfield Flagship - Springfield, VA 22151 | On Site | Jun 30 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Irving, TX](https://jobright.ai/jobs/info/6a344eb81232144fb155f4ae?utm_campaign=1065&utm_source=git)** | Irving, TX, US | Hybrid | Jun 30 |
-| **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43974f8208843cea1f20bb?utm_campaign=1065&utm_source=git)** | Fairfax, VA | Hybrid | Jun 30 |
-| ↳ | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43975014eb9f55686c5de4?utm_campaign=1065&utm_source=git)** | Hyattsville, MD | Hybrid | Jun 30 |
+| **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43975014eb9f55686c5de4?utm_campaign=1065&utm_source=git)** | Hyattsville, MD | Hybrid | Jun 30 |
+| ↳ | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43974f8208843cea1f20bb?utm_campaign=1065&utm_source=git)** | Fairfax, VA | Hybrid | Jun 30 |
 | ↳ | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43974c8208843cea1f20ba?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Jun 30 |
 | **[digest.pro](https://www.digest.pro)** | **[Digital Marketing Specialist (Intern)](https://jobright.ai/jobs/info/6a43436fc8bca56ab2246efa?utm_campaign=1065&utm_source=git)** | Enterprise, NV | On Site | Jun 29 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Marketing Internship / Cincinnati](https://jobright.ai/jobs/info/6a43390d4461bf091787b581?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jun 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[THE rAVe Agency](https://theraveagency.com)** | **[Marketing & Program Intern](https://jobright.ai/jobs/info/6a4310071cc9cc2b12fedc1a?utm_campaign=1065&utm_source=git)** | Chapel Hill, North Carolina, United States | Hybrid | Jun 29 |
 | **[Innodata Inc.](http://www.innodata.com)** | **[Events & Community Growth Intern](https://jobright.ai/jobs/info/6a430877a5e15b106837b01c?utm_campaign=1065&utm_source=git)** | Remote - Washington | Remote | Jun 29 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Growth Intern](https://jobright.ai/jobs/info/6a43084e6a9c2774b3fa8251?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jun 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30d4f789f8f147d3736fd4?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 29 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[Seascape Corporate Footprint Analysis Internship](https://jobright.ai/jobs/info/6a42fd7fa5e15b106837aeef?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jun 29 |
-| **[Axis Communications](http://www.axis.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6a42ba44a5e15b1068379f59?utm_campaign=1065&utm_source=git)** | USA - MA - Chelmsford, US | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
