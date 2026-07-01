@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Summer 2026](https://jobright.ai/jobs/info/6a44755757ffc220294075c6?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jun 30 |
+| **[University of St. Thomas](http://www.stthomas.edu)** | **[Tommie Athletics Marketing and Promotions Student Intern](https://jobright.ai/jobs/info/6a39562f06a4fd4b1fab9661?utm_campaign=1065&utm_source=git)** | St. Paul, MN, US | On Site | Jun 30 |
 | **[Fruit of the Loom, Inc.](https://www.fotlinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3bf229982bb239f812dba7?utm_campaign=1065&utm_source=git)** | Jefferson, IA, US | On Site | Jun 30 |
 | **[New Home Star](http://newhomestar.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a44326e65e80d3c99f2bfe4?utm_campaign=1065&utm_source=git)** | Elmhurst, Illinois, United States | Remote | Jun 30 |
 | **[Augmentrix](https://augmentrix.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a44569c57ffc22029407182?utm_campaign=1065&utm_source=git)** | Greater Prescott, AZ Area | Remote | Jun 30 |
 | **[NuvoAir Medical](http://www.healthcareinnovation.se)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a43e9b457ffc220294058cb?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
+| **[Employment Solutions - Sault College](http://www.employment-solutions.ca/)** | **[Marketing & Communications Research Intern](https://jobright.ai/jobs/info/6a446bb0ef17a815538a3fba?utm_campaign=1065&utm_source=git)** | Sault Ste. Marie, Ontario, Canada | On Site | Jun 30 |
 | **[KAMINSKIY DESIGN & REMODELING](http://kaminskiyinc.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a44674f65e80d3c99f2c93b?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jun 30 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jun 30 |
 | **[Banc of California](http://www.bancofcal.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4445be105260150b721878?utm_campaign=1065&utm_source=git)** | Santa Ana, California, United States | On Site | Jun 30 |
@@ -125,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43974f8208843cea1f20bb?utm_campaign=1065&utm_source=git)** | Fairfax, VA | Hybrid | Jun 30 |
 | ↳ | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43975014eb9f55686c5de4?utm_campaign=1065&utm_source=git)** | Hyattsville, MD | Hybrid | Jun 30 |
 | ↳ | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a43974c8208843cea1f20ba?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Jun 30 |
+| **[digest.pro](https://www.digest.pro)** | **[Digital Marketing Specialist (Intern)](https://jobright.ai/jobs/info/6a43436fc8bca56ab2246efa?utm_campaign=1065&utm_source=git)** | Enterprise, NV | On Site | Jun 29 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Marketing Internship / Cincinnati](https://jobright.ai/jobs/info/6a43390d4461bf091787b581?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jun 29 |
 | **[Advita Ortho](http://www.advita.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a4333604461bf091787b1dc?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jun 29 |
 | **[Environment America](http://environmentamerica.org)** | **[Marketing Internship, Environment Illinois](https://jobright.ai/jobs/info/6a4333004461bf091787b108?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jun 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Versaunt](https://www.versaunt.com)** | **[Growth Intern](https://jobright.ai/jobs/info/6a42f79fa5e15b106837ae18?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Social Media- Communications and Marketing Department](https://jobright.ai/jobs/info/6a42eca6ff87fd527f9860e6?utm_campaign=1065&utm_source=git)** | Remote/Hybrid- New York City | Hybrid | Jun 29 |
 | **[Blueprint](https://www.blueprint.ai/)** | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea296faf75606096879f?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Jun 29 |
-| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea291cc9cc2b12fed4e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
-| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea276faf75606096879d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jun 29 |
-| ↳ | **[Growth Marketing SEO & Content Intern (Paid)](https://jobright.ai/jobs/info/6a42ea271cc9cc2b12fed4e5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jun 29 |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Communications & Public Relations Intern - New York](https://jobright.ai/jobs/info/6a42e6b31cc9cc2b12fed440?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
