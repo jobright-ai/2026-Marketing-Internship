@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Arlington, VA](https://jobright.ai/jobs/info/6a342b2729c90c607e4ddc0d?utm_campaign=1065&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 30 |
 | **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a44a01f57ffc22029407b33?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jun 30 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72829c90c607e4d74fd?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jun 30 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Seattle Eastside](https://jobright.ai/jobs/info/6a1df454c2a87d6cd3e0f051?utm_campaign=1065&utm_source=git)** | East Seattle, WA, US | On Site | Jun 30 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Tommie Athletics Marketing and Promotions Student Intern](https://jobright.ai/jobs/info/6a39562f06a4fd4b1fab9661?utm_campaign=1065&utm_source=git)** | St. Paul, MN, US | On Site | Jun 30 |
 | **[Fruit of the Loom, Inc.](https://www.fotlinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3bf229982bb239f812dba7?utm_campaign=1065&utm_source=git)** | Jefferson, IA, US | On Site | Jun 30 |
 | **[New Home Star](http://newhomestar.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a44326e65e80d3c99f2bfe4?utm_campaign=1065&utm_source=git)** | Elmhurst, Illinois, United States | Remote | Jun 30 |
-| **[Augmentrix](https://augmentrix.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a44569c57ffc22029407182?utm_campaign=1065&utm_source=git)** | Greater Prescott, AZ Area | Remote | Jun 30 |
 | **[NuvoAir Medical](http://www.healthcareinnovation.se)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a43e9b457ffc220294058cb?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
 | **[MMS8P Agency](https://www.linkedin.com/company/106545292)** | **[Marketing Intern (Unpaid Educational Internship)](https://jobright.ai/jobs/info/6a448949105260150b72225a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Employment Solutions - Sault College](http://www.employment-solutions.ca/)** | **[Marketing & Communications Research Intern](https://jobright.ai/jobs/info/6a446bb0ef17a815538a3fba?utm_campaign=1065&utm_source=git)** | Sault Ste. Marie, Ontario, Canada | On Site | Jun 30 |
