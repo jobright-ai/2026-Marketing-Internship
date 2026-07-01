@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Codexa Labs Private Limited](https://codexalabs.io/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a456223c2d11a6a46669067?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 01 |
+| **[Shedd Aquarium](http://www.sheddaquarium.org/)** | **[Fall 2026 Internship - Public Relations](https://jobright.ai/jobs/info/6a4561db0dd56c76cc2f340b?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jul 01 |
+| **[Waresport](https://www.waresport.com/)** | **[Outreach and Growth Intern](https://jobright.ai/jobs/info/6a455f834f64ba41dcb4d2e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 01 |
+| **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Events Programming Intern](https://jobright.ai/jobs/info/6a455d9f3dbab558e29a10ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 01 |
+| **[MSU Federal Credit Union](http://www.msufcu.org)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a455b8648d2f00f2a86d51b?utm_campaign=1065&utm_source=git)** | East Lansing, Michigan, United States | Hybrid | Jul 01 |
 | **[Pauv](https://www.pauv.com/)** | **[Market Analyst Extern, Summer 2026](https://jobright.ai/jobs/info/6a4558793dbab558e29a0fc6?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Jul 01 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Events Programming Intern](https://jobright.ai/jobs/info/6a4556d548d2f00f2a86d3cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 01 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Marketing Coordinator – Internship Fall 2026](https://jobright.ai/jobs/info/6a4552ae48d2f00f2a86d2d6?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[OCR-2026-2i Communications and Engagement Intern](https://jobright.ai/jobs/info/6a43ea65105260150b720244?utm_campaign=1065&utm_source=git)** | Trenton, NJ | On Site | Jun 30 |
 | **[Rogers for Senate](https://rogersforsenate.com)** | **[Intern](https://jobright.ai/jobs/info/6a44049f105260150b72077a?utm_campaign=1065&utm_source=git)** | Detroit Metro | On Site | Jun 30 |
 | **[Lincoln Savings Bank](https://mylsb.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6a27492e7d827633afff9f33?utm_campaign=1065&utm_source=git)** | TechWorks, Waterloo, IA, US | On Site | Jun 30 |
-| **[GrowthExpertz](https://growthexpertz.com)** | **[Mobile App Startup Marketing Internship (With Training)](https://jobright.ai/jobs/info/6a43dcd765e80d3c99f2a591?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
-| **[Institute of Corporate Directors](https://www.icd.ca)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/6a43cbb365e80d3c99f29009?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 30 |
-| **[TikTok](https://www.tiktok.com)** | **[Campaign Traffic Strategy & Operations Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3e1e6c122f340d29cf2b04?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jun 30 |
-| **[Acadium](http://www.acadium.com)** | **[AI Growth & Partnerships Intern](https://jobright.ai/jobs/info/6a43d3860153061b8b3dcae4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 30 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 AS Home Merchandising and Marketing Internship](https://jobright.ai/jobs/info/6a43cf050153061b8b3dc9f8?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
