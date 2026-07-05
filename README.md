@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[We. Communications](https://www.wecommunications.com)** | **[Fall 2026 Public Relations Internship Program: Microsoft Corporate, External and Legal Affairs (CELA)](https://jobright.ai/jobs/info/6a42b30b6c326942b4e83c21?utm_campaign=1065&utm_source=git)** | Seattle, Washington | Hybrid | Jul 04 |
+| **[Strattec Security Corporation](http://www.strattec.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a429a9eff87fd527f984d3b?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, US | On Site | Jul 04 |
 | **[Performance Footfall](https://www.linkedin.com/company/92838406)** | **[Intern](https://jobright.ai/jobs/info/6a49a3694f64ba41dcb5a84d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 04 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a3e9bffd261407de9803a3a?utm_campaign=1065&utm_source=git)** | TAMPA, FL, US | On Site | Jul 04 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4993c75d7b097d2df3b87b?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Jul 04 |
@@ -92,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a92b7279f3f4037f43ea51?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 03 |
 | **[FAIRWINDS Credit Union](https://www.fairwinds.org)** | **[Video Production Intern - Marketing](https://jobright.ai/jobs/info/6a4803a45d7b097d2df391a9?utm_campaign=1065&utm_source=git)** | Orlando, Florida, United States | On Site | Jul 03 |
 | **[CKF, Co.](https://www.ckfco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a482011f9cbb100d1ab1d6b?utm_campaign=1065&utm_source=git)** | CKF Omaha - Omaha, NE 68127 | On Site | Jul 03 |
+| **[DoorTix](doortix.com)** | **[Fall 2026 Part-Time Growth Marketing Internship](https://jobright.ai/jobs/info/6a48acc84f64ba41dcb59514?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 03 |
 | **[Valamayo Social & Digital Marketing](https://www.valamayosocial.com)** | **[Social Media Content Creator Internship](https://jobright.ai/jobs/info/6a48738cc2d11a6a466748bd?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Jul 03 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-The Woodlands, TX or immediate surrounding area](https://jobright.ai/jobs/info/6a305b6c524fd5657fe10616?utm_campaign=1065&utm_source=git)** | Spring, TX, US | On Site | Jul 03 |
 | **[Codexa Labs Private Limited](https://codexalabs.io/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a48483d5d7b097d2df39d55?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 03 |
@@ -103,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Marketing + Content Creation Intern: Fall 2026](https://jobright.ai/jobs/info/6a47eb724f64ba41dcb57b5f?utm_campaign=1065&utm_source=git)** | Richmond, VA, US | On Site | Jul 03 |
 | **[MobiWeb360](https://www.linkedin.com/company/109441693)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a48d4f63dbab558e29ad51f?utm_campaign=1065&utm_source=git)** | Delhi, OH | On Site | Jul 03 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Communications & Public Relations Intern - New York](https://jobright.ai/jobs/info/6a47e3b95d7b097d2df389ad?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Jul 03 |
+| **[TheFamousHalwai](https://www.thefamoushalwai.com/)** | **[SEO & SMO Intern](https://jobright.ai/jobs/info/6a47ec9a5d7b097d2df38e30?utm_campaign=1065&utm_source=git)** | Delhi, NY | On Site | Jul 03 |
 | **[AntwerpXL](https://www.antwerpxl.com/)** | **[Wanted: Internship Hero!](https://jobright.ai/jobs/info/6a47dc42f9cbb100d1ab110f?utm_campaign=1065&utm_source=git)** | Flanders, NJ | On Site | Jul 03 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a1f425009442629a6858e52?utm_campaign=1065&utm_source=git)** | AL, Birmingham, US | Hybrid | Jul 03 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Sales Market Growth and Strategy (Fall 2026)](https://jobright.ai/jobs/info/6a45b50d076271587529de0d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 03 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Criteo](http://www.criteo.com)** | **[Field Marketing Intern, Americas](https://jobright.ai/jobs/info/6a29e4b10c4972328e7e670b?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jul 02 |
 | **[National Panhellenic Conference Inc.](http://www.npcwomen.org)** | **[NPC Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a4722c60dd56c76cc2fc048?utm_campaign=1065&utm_source=git)** | Carmel, IN | Hybrid | Jul 02 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a357712649fdf16292f91bf?utm_campaign=1065&utm_source=git)** | CLEMSON, SC, US | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a8dbc80963f93444b4?utm_campaign=1065&utm_source=git)** | FORT LAUDERDALE, FL, US | On Site | Jul 02 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877bbc2a87d6cd3df17e2?utm_campaign=1065&utm_source=git)** | BALTIMORE, MD, US | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a225b0a8e98cb42c8a835b6?utm_campaign=1065&utm_source=git)** | OMAHA, NE, US | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a4c2a87d6cd3df17c6?utm_campaign=1065&utm_source=git)** | US-DE-NEWARK | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877afc2a87d6cd3df17d2?utm_campaign=1065&utm_source=git)** | SYRACUSE, NY, US | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a225b0cd1ab07243c7f7ce8?utm_campaign=1065&utm_source=git)** | UNION, NJ, US | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877b0dbc80963f93444be?utm_campaign=1065&utm_source=git)** | US-TN-CLARKSVILLE | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a225b0a8e98cb42c8a835b7?utm_campaign=1065&utm_source=git)** | US-NE-OMAHA | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern) @ The Bookie WSU Pullman](https://jobright.ai/jobs/info/6a31c76a35e80310003a9540?utm_campaign=1065&utm_source=git)** | PULLMAN, WA, US | On Site | Jul 02 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a0abc8f63abac78ee0?utm_campaign=1065&utm_source=git)** | US-NJ-NEW BRUNSWICK | On Site | Jul 02 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877b0dbc80963f93444bd?utm_campaign=1065&utm_source=git)** | CLARKSVILLE, TN, US | On Site | Jul 02 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a654a441713ae84e1e?utm_campaign=1065&utm_source=git)** | US-FL-TAMPA | On Site | Jul 02 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a29ceac0c4972328e7e5f18?utm_campaign=1065&utm_source=git)** | Fairfield, CT, US | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
