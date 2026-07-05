@@ -61,8 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Conquest Advisors](https://www.conquest.nyc/)** | **[Vibe Coding Intern](https://jobright.ai/jobs/info/6a4aa7525d7b097d2df3c5b5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jul 05 |
 | **[Maner Costerisan](http://www.manercpa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3d5ba04d047136e0933279?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | Jul 05 |
 | **[LeadVaultAI](https://leadvault.gethireddigital.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a4a9dc1c2d11a6a46676d5f?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Remote | Jul 05 |
-| **[Electro](electrogum.com)** | **[Social Media & Athlete Relations Intern](https://jobright.ai/jobs/info/6a4a9cb2c2d11a6a46676d44?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jul 05 |
-| ↳ | **[Partnerships & Marketing Intern](https://jobright.ai/jobs/info/6a4a9caa971cd25b06f9677a?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Remote | Jul 05 |
+| **[Electro](electrogum.com)** | **[Partnerships & Marketing Intern](https://jobright.ai/jobs/info/6a4a9caa971cd25b06f9677a?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Remote | Jul 05 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4a9ca65d7b097d2df3c543?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jul 05 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a4a9ca75d7b097d2df3c544?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jul 05 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a4a9c985d7b097d2df3c53a?utm_campaign=1065&utm_source=git)** | Hoboken, NJ | On Site | Jul 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SNFout](http://www.SNFout.com)** | **[Social Media Intern – Summer 2026 (Unpaid, For College Credit)](https://jobright.ai/jobs/info/6a475dab8204a812e98cb985?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jul 02 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Irving, TX](https://jobright.ai/jobs/info/6a34747ace501060b5cf1568?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Jul 02 |
 | **[GODNII](https://GODNII.com)** | **[Community Communication Intern](https://jobright.ai/jobs/info/6a471ff53dbab558e29a9ba8?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jul 02 |
+| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Fayetteville, AR immediate surrounding area](https://jobright.ai/jobs/info/6a307ffe43732c05812e2cb8?utm_campaign=1065&utm_source=git)** | Fayetteville, AR | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
