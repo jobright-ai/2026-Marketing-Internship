@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Marketing Intern, Retail - Fall 2026](https://jobright.ai/jobs/info/6a49c3273dbab558e29ae814?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
 | **[We. Communications](https://www.wecommunications.com)** | **[Fall 2026 Public Relations Internship Program: Microsoft Corporate, External and Legal Affairs (CELA)](https://jobright.ai/jobs/info/6a42b30b6c326942b4e83c21?utm_campaign=1065&utm_source=git)** | Seattle, Washington | Hybrid | Jul 04 |
 | **[Strattec Security Corporation](http://www.strattec.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a429a9eff87fd527f984d3b?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, US | On Site | Jul 04 |
 | **[Performance Footfall](https://www.linkedin.com/company/92838406)** | **[Intern](https://jobright.ai/jobs/info/6a49a3694f64ba41dcb5a84d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 04 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Southwest Virginia](https://jobright.ai/jobs/info/6a3ab7d9dd879c60912b0083?utm_campaign=1065&utm_source=git)** | Roanoke, VA, US | Hybrid | Jul 04 |
 | ↳ | **[Intern, Marketing & Communications-Remote in Cleveland or Northeast Ohio area](https://jobright.ai/jobs/info/6a32ba9fce501060b5ce9f3e?utm_campaign=1065&utm_source=git)** | Cleveland, OH, US | On Site | Jul 04 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Marketing Intern, Retail - Fall 2026](https://jobright.ai/jobs/info/6a3c1e82d261407de97fc75a?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8d0006c1ba00c54e1b7d?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 04 |
 | **[Mirion Technologies](https://www.mirion.com/about/mirion-technologies)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0f7382619335383fb2c7bf?utm_campaign=1065&utm_source=git)** | Melbourne, FL, USA | On Site | Jul 04 |
 | **[Plug and Play Tech Center](http://plugandplaytechcenter.com/corporations/health/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2bfdc8f1751b183c816461?utm_campaign=1065&utm_source=git)** | Sunnyvale, California, United States | On Site | Jul 04 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Marketing Intern / Fall 2026](https://jobright.ai/jobs/info/6a366dc1a0f3e56e86d6b5e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 04 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Criteo](http://www.criteo.com)** | **[Field Marketing Intern, Americas](https://jobright.ai/jobs/info/6a29e4b10c4972328e7e670b?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jul 02 |
 | **[National Panhellenic Conference Inc.](http://www.npcwomen.org)** | **[NPC Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a4722c60dd56c76cc2fc048?utm_campaign=1065&utm_source=git)** | Carmel, IN | Hybrid | Jul 02 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a357712649fdf16292f91bf?utm_campaign=1065&utm_source=git)** | CLEMSON, SC, US | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877bbc2a87d6cd3df17e2?utm_campaign=1065&utm_source=git)** | BALTIMORE, MD, US | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a0abc8f63abac78ee0?utm_campaign=1065&utm_source=git)** | US-NJ-NEW BRUNSWICK | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877b0dbc80963f93444bd?utm_campaign=1065&utm_source=git)** | CLARKSVILLE, TN, US | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a654a441713ae84e1e?utm_campaign=1065&utm_source=git)** | US-FL-TAMPA | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a29ceac0c4972328e7e5f18?utm_campaign=1065&utm_source=git)** | Fairfield, CT, US | On Site | Jul 02 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a654a441713ae84e20?utm_campaign=1065&utm_source=git)** | TAMPA, FL, US | On Site | Jul 02 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1aa9d96b135014dbc8b39b?utm_campaign=1065&utm_source=git)** | US-NY-SYRACUSE | On Site | Jul 02 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877b0dbc80963f93444be?utm_campaign=1065&utm_source=git)** | US-TN-CLARKSVILLE | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
