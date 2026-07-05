@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of St. Thomas](http://www.stthomas.edu)** | **[Tommie Athletics Marketing and Promotions Student Lead Intern](https://jobright.ai/jobs/info/6a3ad9b5dd879c60912b0bf0?utm_campaign=1065&utm_source=git)** | St. Paul, MN, US | On Site | Jul 04 |
 | **[CreatriX Technology](https://www.linkedin.com/company/117474215)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/6a49e5efc2d11a6a46676481?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Jul 04 |
 | **[Optimal Health Chiropractic & Physical Therapy](https://optimalhealth.fit/)** | **[Intern](https://jobright.ai/jobs/info/6a49dd48f9cbb100d1ab44b1?utm_campaign=1065&utm_source=git)** | Egg Harbor Township, NJ | On Site | Jul 04 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Marketing Intern, Retail - Fall 2026](https://jobright.ai/jobs/info/6a49c3273dbab558e29ae814?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
@@ -77,20 +78,19 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Marketing Intern, Retail - Fall 2026](https://jobright.ai/jobs/info/6a3c1e82d261407de97fc75a?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8d0006c1ba00c54e1b7d?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 04 |
 | **[Mirion Technologies](https://www.mirion.com/about/mirion-technologies)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0f7382619335383fb2c7bf?utm_campaign=1065&utm_source=git)** | Melbourne, FL, USA | On Site | Jul 04 |
-| **[Plug and Play Tech Center](http://plugandplaytechcenter.com/corporations/health/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4131b316b1493953283f21?utm_campaign=1065&utm_source=git)** | Sunnyvale, California, United States | On Site | Jul 04 |
+| **[Plug and Play Tech Center](http://plugandplaytechcenter.com/corporations/health/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2bfdc8f1751b183c816461?utm_campaign=1065&utm_source=git)** | Sunnyvale, California, United States | On Site | Jul 04 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Marketing Intern / Fall 2026](https://jobright.ai/jobs/info/6a366dc1a0f3e56e86d6b5e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (TikTok Shop Product Marketing) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a48fd62f9cbb100d1ab332e?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jul 04 |
 | **[Compass International Holdings](https://www.linkedin.com/company/111655670)** | **[Summer Intern, Communications - Madison, NJ/ NYC](https://jobright.ai/jobs/info/6a2c2bced3ec94183f4bb7e0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 04 |
 | ↳ | **[Summer Intern, Communications - Madison, NJ/ NYC](https://jobright.ai/jobs/info/6a2c2e2ed3ec94183f4bb87f?utm_campaign=1065&utm_source=git)** | Madison, NJ | On Site | Jul 04 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a2cf125c260bb1b8ae180df?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Jul 04 |
-| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e2dfc0644749054849a?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jul 04 |
-| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e32fc064474905484a0?utm_campaign=1065&utm_source=git)** | United States-California-Los Angeles | On Site | Jul 04 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e32fc064474905484a0?utm_campaign=1065&utm_source=git)** | United States-California-Los Angeles | On Site | Jul 04 |
+| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e2dfc0644749054849a?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jul 04 |
 | **[Iris USA](https://www.iris-worldwide.com/)** | **[Copywriter Summer Intern](https://jobright.ai/jobs/info/6a48db054f64ba41dcb5978e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 04 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Gifting/PR Intern / Fall 2026](https://jobright.ai/jobs/info/6a3636bfa0f3e56e86d6ab8e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 04 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Tommie Athletics Marketing and Promotions Student Intern](https://jobright.ai/jobs/info/6a39562f06a4fd4b1fab9661?utm_campaign=1065&utm_source=git)** | St. Paul, MN, US | On Site | Jul 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c85c8bca56ab22459e8?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jul 03 |
 | **[Better Collective](http://bettercollective.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3ad958dd879c60912b0bde?utm_campaign=1065&utm_source=git)** | Remote, US | Remote | Jul 03 |
-| **[HIMALI](https://himalilife.com)** | **[Video + Multimedia Internship](https://jobright.ai/jobs/info/6a48ea35971cd25b06f94c62?utm_campaign=1065&utm_source=git)** | Boulder, CO | On Site | Jul 03 |
 | **[Lomography](http://www.lomography.com)** | **[Sales & Marketing Intern - College Credit](https://jobright.ai/jobs/info/6a31d7e70ff23769fdb20cb9?utm_campaign=1065&utm_source=git)** | Brooklyn, US | On Site | Jul 03 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a3da52dd261407de9801681?utm_campaign=1065&utm_source=git)** | Marina, CA, US | On Site | Jul 03 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a31cfb62ee3ac1b4bef1499?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 03 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Criteo](http://www.criteo.com)** | **[Field Marketing Intern, Americas](https://jobright.ai/jobs/info/6a29e4b10c4972328e7e670b?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jul 02 |
 | **[National Panhellenic Conference Inc.](http://www.npcwomen.org)** | **[NPC Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a4722c60dd56c76cc2fc048?utm_campaign=1065&utm_source=git)** | Carmel, IN | Hybrid | Jul 02 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a357712649fdf16292f91bf?utm_campaign=1065&utm_source=git)** | CLEMSON, SC, US | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a29ceac0c4972328e7e5f18?utm_campaign=1065&utm_source=git)** | Fairfield, CT, US | On Site | Jul 02 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a654a441713ae84e1e?utm_campaign=1065&utm_source=git)** | US-FL-TAMPA | On Site | Jul 02 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1aa9d96b135014dbc8b39b?utm_campaign=1065&utm_source=git)** | US-NY-SYRACUSE | On Site | Jul 02 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a225b0a8e98cb42c8a835b6?utm_campaign=1065&utm_source=git)** | OMAHA, NE, US | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
