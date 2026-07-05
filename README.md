@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conquest Advisors](https://www.conquest.nyc/)** | **[Vibe Coding Intern](https://jobright.ai/jobs/info/6a4aa7525d7b097d2df3c5b5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jul 05 |
+| **[Maner Costerisan](http://www.manercpa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3d5ba04d047136e0933279?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | Jul 05 |
 | **[LeadVaultAI](https://leadvault.gethireddigital.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a4a9dc1c2d11a6a46676d5f?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Remote | Jul 05 |
 | **[Electro](electrogum.com)** | **[Social Media & Athlete Relations Intern](https://jobright.ai/jobs/info/6a4a9cb2c2d11a6a46676d44?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jul 05 |
 | ↳ | **[Partnerships & Marketing Intern](https://jobright.ai/jobs/info/6a4a9caa971cd25b06f9677a?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Remote | Jul 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Irving, TX](https://jobright.ai/jobs/info/6a34747ace501060b5cf1568?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Jul 02 |
 | **[GODNII](https://GODNII.com)** | **[Community Communication Intern](https://jobright.ai/jobs/info/6a471ff53dbab558e29a9ba8?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Jul 02 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Fayetteville, AR immediate surrounding area](https://jobright.ai/jobs/info/6a307ffe43732c05812e2cb8?utm_campaign=1065&utm_source=git)** | Fayetteville, AR | On Site | Jul 02 |
-| **[D Volt Co.](https://d-volt.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a46f45a0dd56c76cc2fb9ac?utm_campaign=1065&utm_source=git)** | Greater Houston | On Site | Jul 02 |
-| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Louisville, KY or the immediate surrounding area](https://jobright.ai/jobs/info/6a31d1a3c477a5075f48f6e7?utm_campaign=1065&utm_source=git)** | Louisville, KY | Hybrid | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
