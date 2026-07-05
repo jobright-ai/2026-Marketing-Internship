@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Marketing & Publicity Intern (6 month contract- Toronto Hybrid)](https://jobright.ai/jobs/info/6a3d8433d261407de9800d46?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | Hybrid | Jul 05 |
+| **[Starco Brands](https://www.starcobrands.com)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/6a37c0f029c90c607e4e6dae?utm_campaign=1065&utm_source=git)** | Los Angeles, CA 90038 | On Site | Jul 05 |
 | **[Kepler Communications Inc.](https://kepler.space)** | **[Marketing Intern (September 2026) (8 months)](https://jobright.ai/jobs/info/6a2874f47061b51a3a5f5fb2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Jul 05 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Louisville, KY or the immediate surrounding area](https://jobright.ai/jobs/info/6a3198672ee3ac1b4beefdff?utm_campaign=1065&utm_source=git)** | Louisville, KY, US | Hybrid | Jul 05 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Data Analyst](https://jobright.ai/jobs/info/6a2f618f89f8f147d3731ad6?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jul 05 |
@@ -83,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Marketing Intern, Retail - Fall 2026](https://jobright.ai/jobs/info/6a3c1e82d261407de97fc75a?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8d0006c1ba00c54e1b7d?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 04 |
 | **[Mirion Technologies](https://www.mirion.com/about/mirion-technologies)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0f7382619335383fb2c7bf?utm_campaign=1065&utm_source=git)** | Melbourne, FL, USA | On Site | Jul 04 |
-| **[Plug and Play Tech Center](http://plugandplaytechcenter.com/insurance/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2bfdc8f1751b183c816461?utm_campaign=1065&utm_source=git)** | Sunnyvale, California, United States | On Site | Jul 04 |
+| **[Plug and Play Tech Center](http://plugandplaytechcenter.com/insurance/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4131b316b1493953283f21?utm_campaign=1065&utm_source=git)** | Sunnyvale, California, United States | On Site | Jul 04 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Marketing Intern / Fall 2026](https://jobright.ai/jobs/info/6a366dc1a0f3e56e86d6b5e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (TikTok Shop Product Marketing) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a48fd62f9cbb100d1ab332e?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jul 04 |
 | **[Compass International Holdings](https://www.linkedin.com/company/111655670)** | **[Summer Intern, Communications - Madison, NJ/ NYC](https://jobright.ai/jobs/info/6a2c2bced3ec94183f4bb7e0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Social Platforms Internship](https://jobright.ai/jobs/info/6a3455ba1232144fb155f7a7?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jul 02 |
 | **[Climate Democracy Initiative](www.climatedemocracyinitiative.org)** | **[Social Media & Communications Intern](https://jobright.ai/jobs/info/6a46e4134f64ba41dcb5550e?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Jul 02 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Reno](https://jobright.ai/jobs/info/6a346788ce501060b5cf1177?utm_campaign=1065&utm_source=git)** | Reno, NV, US | On Site | Jul 02 |
-| **[Brown County Convention and Visitors Bureau](http://browncounty.com)** | **[Digital Content & Social Media Intern](https://jobright.ai/jobs/info/6a46ffde4f64ba41dcb55af9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 02 |
-| **[Exowatt](http://exowatt.com)** | **[AI Marketing Intern](https://jobright.ai/jobs/info/6a34507a29c90c607e4de926?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
