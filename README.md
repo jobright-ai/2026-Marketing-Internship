@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a4a6fa65d7b097d2df3c2e3?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Jul 05 |
+| **[LeadVaultAI](https://leadvault.gethireddigital.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a4a9dc1c2d11a6a46676d5f?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Remote | Jul 05 |
+| **[Electro](electrogum.com)** | **[Social Media & Athlete Relations Intern](https://jobright.ai/jobs/info/6a4a9cb2c2d11a6a46676d44?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jul 05 |
+| ↳ | **[Partnerships & Marketing Intern](https://jobright.ai/jobs/info/6a4a9caa971cd25b06f9677a?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Remote | Jul 05 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4a9ca65d7b097d2df3c543?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jul 05 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a4a9ca75d7b097d2df3c544?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jul 05 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a4a9c985d7b097d2df3c53a?utm_campaign=1065&utm_source=git)** | Hoboken, NJ | On Site | Jul 05 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a4a6fa65d7b097d2df3c2e3?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Jul 05 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Marketing & Publicity Intern (6 month contract- Toronto Hybrid)](https://jobright.ai/jobs/info/6a3d8433d261407de9800d46?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | Hybrid | Jul 05 |
 | **[Waresport](https://www.waresport.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4a7222c2d11a6a46676a8c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Jul 05 |
 | **[Starco Brands](https://www.starcobrands.com)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/6a37c0f029c90c607e4e6dae?utm_campaign=1065&utm_source=git)** | Los Angeles, CA 90038 | On Site | Jul 05 |
@@ -116,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Akron Children's](http://www.akronchildrens.org)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a43f90f57ffc22029405d39?utm_campaign=1065&utm_source=git)** | Akron, OH | Hybrid | Jul 03 |
 | ↳ | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a47c488971cd25b06f92aa4?utm_campaign=1065&utm_source=git)** | Akron, OH, US | Hybrid | Jul 03 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual Spanish Marketing Intern](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b8c6?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 03 |
-| **[EventReels](eventreels.com)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a486bd5971cd25b06f94309?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Jul 03 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Marketing + Content Creation Intern: Fall 2026](https://jobright.ai/jobs/info/6a47eb724f64ba41dcb57b5f?utm_campaign=1065&utm_source=git)** | Richmond, VA, US | On Site | Jul 03 |
 | **[MobiWeb360](https://www.linkedin.com/company/109441693)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a48d4f63dbab558e29ad51f?utm_campaign=1065&utm_source=git)** | Delhi, OH | On Site | Jul 03 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Communications & Public Relations Intern - New York](https://jobright.ai/jobs/info/6a47e3b95d7b097d2df389ad?utm_campaign=1065&utm_source=git)** | New York, NY, US | On Site | Jul 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Fayetteville, AR immediate surrounding area](https://jobright.ai/jobs/info/6a307ffe43732c05812e2cb8?utm_campaign=1065&utm_source=git)** | Fayetteville, AR | On Site | Jul 02 |
 | **[D Volt Co.](https://d-volt.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a46f45a0dd56c76cc2fb9ac?utm_campaign=1065&utm_source=git)** | Greater Houston | On Site | Jul 02 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Louisville, KY or the immediate surrounding area](https://jobright.ai/jobs/info/6a31d1a3c477a5075f48f6e7?utm_campaign=1065&utm_source=git)** | Louisville, KY | Hybrid | Jul 02 |
-| ↳ | **[Intern, Development & Community Events-Arlington, VA](https://jobright.ai/jobs/info/6a3474d0649fdf16292f60c5?utm_campaign=1065&utm_source=git)** | Virginia, United States | Hybrid | Jul 02 |
-| **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a73129c90c607e4d7501?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jul 02 |
-| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Tulsa, OK or immediate surrounding area](https://jobright.ai/jobs/info/6a34746bf6b55d12c791ce84?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Jul 02 |
-| ↳ | **[Intern, Development & Community Events-Greater Philadelphia Area](https://jobright.ai/jobs/info/6a396650214ae004c7a1e5b1?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jul 02 |
-| **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a728ce501060b5ce994c?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
