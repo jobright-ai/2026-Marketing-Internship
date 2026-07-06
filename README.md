@@ -87,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a3e9bffd261407de9803a3a?utm_campaign=1065&utm_source=git)** | TAMPA, FL, US | On Site | Jul 04 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4993c75d7b097d2df3b87b?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Jul 04 |
 | ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/6a4993c73dbab558e29ae572?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Jul 04 |
+| **[Four Points Gen Z Democrats](https://fourpointsdemocrats.com/)** | **[Political Intern](https://jobright.ai/jobs/info/6a49af185d7b097d2df3ba3c?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jul 04 |
 | **[Pure Fishing](https://www.purefishing.com)** | **[Marketing Intern - Bass Category Innovation & Trends](https://jobright.ai/jobs/info/69d809cb9f97a42dc9c19d94?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Jul 04 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Marketing Events](https://jobright.ai/jobs/info/6a0f38009f654b3359ce3846?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Jul 04 |
 | ↳ | **[SAP iXp Intern - Finance & Spend Management Product Marketing - Communications Intern](https://jobright.ai/jobs/info/6a0f5ed69f654b3359ce522a?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Jul 04 |
@@ -117,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a3da52dd261407de9801681?utm_campaign=1065&utm_source=git)** | Marina, CA, US | On Site | Jul 03 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a31cfb62ee3ac1b4bef1499?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 03 |
 | **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69a92b7279f3f4037f43ea51?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 03 |
+| **[River Valley Yoga Festival](https://rivervalleyyogafestival.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4975e2971cd25b06f95752?utm_campaign=1065&utm_source=git)** | Stillwater, MN | Hybrid | Jul 03 |
 | **[FAIRWINDS Credit Union](https://www.fairwinds.org)** | **[Video Production Intern - Marketing](https://jobright.ai/jobs/info/6a4803a45d7b097d2df391a9?utm_campaign=1065&utm_source=git)** | Orlando, Florida, United States | On Site | Jul 03 |
 | **[CKF, Co.](https://www.ckfco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a482011f9cbb100d1ab1d6b?utm_campaign=1065&utm_source=git)** | CKF Omaha - Omaha, NE 68127 | On Site | Jul 03 |
 | **[DoorTix](doortix.com)** | **[Fall 2026 Part-Time Growth Marketing Internship](https://jobright.ai/jobs/info/6a48acc84f64ba41dcb59514?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GENTLE MONSTER](http://www.gentlemonster.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4702d13dbab558e29a97de?utm_campaign=1065&utm_source=git)** | Anaheim, CA | On Site | Jul 02 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Social Media Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfd61cc9cc2b12fece85?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Dayton, OH, or the immediate surrounding](https://jobright.ai/jobs/info/6a31d19c2ee3ac1b4bef152f?utm_campaign=1065&utm_source=git)** | Dayton, OH | Hybrid | Jul 02 |
-| **[SNFout](http://www.SNFout.com)** | **[Social Media Intern – Summer 2026 (Unpaid, For College Credit)](https://jobright.ai/jobs/info/6a475dab8204a812e98cb985?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jul 02 |
-| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-Irving, TX](https://jobright.ai/jobs/info/6a34747ace501060b5cf1568?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
