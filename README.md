@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maxis](http://www.maxis.com.my)** | **[Content Management Intern](https://jobright.ai/jobs/info/6a141119c2dca06fac4042e1?utm_campaign=1065&utm_source=git)** | Pinnacle, NC | On Site | Jul 06 |
+| **[Compass Group Canada](http://www.compass-canada.com)** | **[Social Media Marketing Intern, Chartwells Higher Ed / California State University - Northridge](https://jobright.ai/jobs/info/6a4ba34ec2d11a6a466782bd?utm_campaign=1065&utm_source=git)** | Northridge, CA, US | On Site | Jul 06 |
+| **[3-GIS](http://www.3-gis.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6a4b9b2bc2d11a6a4667816a?utm_campaign=1065&utm_source=git)** | Huntsville-Decatur-Albertville Area, AL | On Site | Jul 06 |
+| **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a4ba84f4f64ba41dcb5cb40?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30c0ed89f8f147d3736b5f?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jul 06 |
 | ↳ | **[Creator Campaign Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302ae4093df201d07afc80?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 06 |
 | ↳ | **[Short Video Strategy Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30e0f6afabbe533fb8cb16?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jul 06 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a4b0d02f9cbb100d1ab52c0?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States | Hybrid | Jul 05 |
 | **[Curvaceous Behavior](https://www.curvaceousbehavior.org/about)** | **[Fall 2026 Community Engagement, Marketing & Event Planning Internship](https://jobright.ai/jobs/info/6a4afea3c2d11a6a4667723d?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Jul 05 |
 | **[Pop Deux Balloons](http://www.popdeux.com)** | **[Social Media Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a4af6335d7b097d2df3c95e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 05 |
-| **[BigMouth Inc.](http://www.bigmouthinc.com/)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/6a4b6dbec2d11a6a46677cf4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 05 |
 | **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a4b18585d7b097d2df3cb8b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jul 05 |
 | **[Gutchess Lumber Co., Inc.](https://www.gutchess.com/)** | **[Marketing Intern - Cortland, NY - $19-$22 per hour](https://jobright.ai/jobs/info/6a4ae0ba4f64ba41dcb5b863?utm_campaign=1065&utm_source=git)** | Cortland, NY | On Site | Jul 05 |
 | **[Allstream Energy Partners](https://allstreamep.com/)** | **[Sales Executive Intern - Marketing & AI SEO in Energy](https://jobright.ai/jobs/info/6a4abf0a3dbab558e29af430?utm_campaign=1065&utm_source=git)** | Greater Houston | Hybrid | Jul 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live! Casino & Hotel Maryland](https://maryland.livecasinohotel.com)** | **[Marketing Intern - Maryland](https://jobright.ai/jobs/info/6a3987ddf6b55d12c79289c7?utm_campaign=1065&utm_source=git)** | Hanover, MD, US | On Site | Jul 03 |
 | **[Agency Eight](AgencyEight.com)** | **[Sourcing Intern, Creator Marketing](https://jobright.ai/jobs/info/6a4751548204a812e98cb838?utm_campaign=1065&utm_source=git)** | New York City | Remote | Jul 02 |
 | **[Vibes Meet LLC](vibesmeet.com)** | **[BizOps Growth Intern (Creator & Event Partnerships)](https://jobright.ai/jobs/info/6a4b45394eb370649b279bc4?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 02 |
-| **[Arlington County Government](https://www.arlingtonva.us)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/6a462cc0971cd25b06f8c72c?utm_campaign=1065&utm_source=git)** | 2100 Washington Blvd, Arlington, VA, 22204, US | On Site | Jul 02 |
-| **[Inspire Communities](https://www.inspirecommunities.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a47e93d3dbab558e29ab67d?utm_campaign=1065&utm_source=git)** | Greenwood Village, CO | Hybrid | Jul 02 |
-| **[Arlington County Government](https://www.arlingtonva.us)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/6a4736fdc2d11a6a46671df0?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
