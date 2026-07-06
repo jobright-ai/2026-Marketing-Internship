@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McCormick Taylor, Inc.](http://www.mccormicktaylor.com)** | **[Intern, Video Production Marketing](https://jobright.ai/jobs/info/6a4bb93c4f64ba41dcb5cde7?utm_campaign=1065&utm_source=git)** | Exton - Exton, PA 19341 US | On Site | Jul 06 |
+| **[Jetvia](https://atijet.com)** | **[Social Media & Content Creation Intern - Part Time](https://jobright.ai/jobs/info/6a4bb5f74f64ba41dcb5cd2d?utm_campaign=1065&utm_source=git)** | El Paso, Texas | On Site | Jul 06 |
+| **[Flexential](https://www.flexential.com/)** | **[GTM Internship](https://jobright.ai/jobs/info/6a4bb16d6189f64e437ef69f?utm_campaign=1065&utm_source=git)** | PA - Collegeville, United States of America | On Site | Jul 06 |
+| **[GBH](http://www.wgbh.org/)** | **[Education Marketing and Outreach Intern - Fall 2026](https://jobright.ai/jobs/info/6a4baebb6189f64e437ef643?utm_campaign=1065&utm_source=git)** | Boston, United States of America | On Site | Jul 06 |
+| **[University of Niagara Falls Canada](https://unfc.ca)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4bac9b4eb370649b27a8ad?utm_campaign=1065&utm_source=git)** | Niagara Falls, ON, CA | On Site | Jul 06 |
 | **[Maxis](http://www.maxis.com.my)** | **[Content Management Intern](https://jobright.ai/jobs/info/6a141119c2dca06fac4042e1?utm_campaign=1065&utm_source=git)** | Pinnacle, NC | On Site | Jul 06 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Social Media Marketing Intern, Chartwells Higher Ed / California State University - Northridge](https://jobright.ai/jobs/info/6a4ba34ec2d11a6a466782bd?utm_campaign=1065&utm_source=git)** | Northridge, CA, US | On Site | Jul 06 |
 | **[3-GIS](http://www.3-gis.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6a4b9b2bc2d11a6a4667816a?utm_campaign=1065&utm_source=git)** | Huntsville-Decatur-Albertville Area, AL | On Site | Jul 06 |
@@ -79,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Allstream Energy Partners](https://allstreamep.com/)** | **[Sales Executive Intern - Marketing & AI SEO in Energy](https://jobright.ai/jobs/info/6a4abf0a3dbab558e29af430?utm_campaign=1065&utm_source=git)** | Greater Houston | Hybrid | Jul 05 |
 | **[Conquest Advisors](https://www.conquest.nyc/)** | **[Vibe Coding Intern](https://jobright.ai/jobs/info/6a4aa7525d7b097d2df3c5b5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jul 05 |
 | **[Maner Costerisan](http://www.manercpa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3d5ba04d047136e0933279?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | Jul 05 |
-| **[Electro](electrogum.com)** | **[Partnerships & Marketing Intern](https://jobright.ai/jobs/info/6a4a9caa971cd25b06f9677a?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Remote | Jul 05 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Outreach Communications](https://jobright.ai/jobs/info/6a4b3950971cd25b06f970ee?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jul 05 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4a9ca65d7b097d2df3c543?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Jul 05 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a4a9ca75d7b097d2df3c544?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jul 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30226d89f8f147d3733927?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 03 |
 | **[Auberge Collection](https://aubergeresorts.com/)** | **[Brand Social Media Intern](https://jobright.ai/jobs/info/6a477fecc2d11a6a466728b8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Marketing + Content Creation Intern: Fall 2026](https://jobright.ai/jobs/info/6a2b3e8e0ad4053b108cb7c6?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Jul 03 |
-| **[Launch That](http://launchthat.com)** | **[Digital Marketing Intern - SEO](https://jobright.ai/jobs/info/6a4787cdc2d11a6a46672983?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jul 03 |
-| **[Live! Casino & Hotel Maryland](https://maryland.livecasinohotel.com)** | **[Marketing Intern - Maryland](https://jobright.ai/jobs/info/6a3987ddf6b55d12c79289c7?utm_campaign=1065&utm_source=git)** | Hanover, MD, US | On Site | Jul 03 |
-| **[Agency Eight](AgencyEight.com)** | **[Sourcing Intern, Creator Marketing](https://jobright.ai/jobs/info/6a4751548204a812e98cb838?utm_campaign=1065&utm_source=git)** | New York City | Remote | Jul 02 |
-| **[Vibes Meet LLC](vibesmeet.com)** | **[BizOps Growth Intern (Creator & Event Partnerships)](https://jobright.ai/jobs/info/6a4b45394eb370649b279bc4?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
