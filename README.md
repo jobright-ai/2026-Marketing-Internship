@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](electrogum.com)** | **[Social Media & Creator Partnerships Intern](https://jobright.ai/jobs/info/6a4bc15b6189f64e437efa7e?utm_campaign=1065&utm_source=git)** | Illinois, United States | Remote | Jul 06 |
+| **[Century Furniture](http://centuryfurniture.com/)** | **[Intern](https://jobright.ai/jobs/info/6a4bc0395d7b097d2df3e00a?utm_campaign=1065&utm_source=git)** | Century High Point Showroom - High Point, NC 27263 | On Site | Jul 06 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Public Relations Intern, Austin](https://jobright.ai/jobs/info/6a4bba4bc2d11a6a46678640?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jul 06 |
+| **[Intellect Design Arena Ltd](https://www.intellectdesign.com/)** | **[Marketing Intern - Bilingual](https://jobright.ai/jobs/info/6a4bba2f5d7b097d2df3de3a?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Jul 06 |
 | **[McCormick Taylor, Inc.](http://www.mccormicktaylor.com)** | **[Intern, Video Production Marketing](https://jobright.ai/jobs/info/6a4bb93c4f64ba41dcb5cde7?utm_campaign=1065&utm_source=git)** | Exton - Exton, PA 19341 US | On Site | Jul 06 |
 | **[Jetvia](https://atijet.com)** | **[Social Media & Content Creation Intern - Part Time](https://jobright.ai/jobs/info/6a4bb5f74f64ba41dcb5cd2d?utm_campaign=1065&utm_source=git)** | El Paso, Texas | On Site | Jul 06 |
 | **[Flexential](https://www.flexential.com/)** | **[GTM Internship](https://jobright.ai/jobs/info/6a4bb16d6189f64e437ef69f?utm_campaign=1065&utm_source=git)** | PA - Collegeville, United States of America | On Site | Jul 06 |
@@ -119,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Wella Company](https://www.wellacompany.com/)** | **[Marketing Intern, Prestige Care](https://jobright.ai/jobs/info/6a163d66a429fd279da970d4?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Jul 04 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Marketing Intern, Retail - Fall 2026](https://jobright.ai/jobs/info/6a3c1e82d261407de97fc75a?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8d0006c1ba00c54e1b7d?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 04 |
-| **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com/japan/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2bfdc8f1751b183c816461?utm_campaign=1065&utm_source=git)** | Sunnyvale, California, United States | On Site | Jul 04 |
+| **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com/japan/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4131b316b1493953283f21?utm_campaign=1065&utm_source=git)** | Sunnyvale, California, United States | On Site | Jul 04 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Marketing Intern / Fall 2026](https://jobright.ai/jobs/info/6a366dc1a0f3e56e86d6b5e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (TikTok Shop Product Marketing) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a48fd62f9cbb100d1ab332e?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jul 04 |
 | **[Compass International Holdings](https://www.linkedin.com/company/111655670)** | **[Summer Intern, Communications - Madison, NJ/ NYC](https://jobright.ai/jobs/info/6a2c2bced3ec94183f4bb7e0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a1f425009442629a6858e52?utm_campaign=1065&utm_source=git)** | AL, Birmingham, US | Hybrid | Jul 03 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Sales Market Growth and Strategy (Fall 2026)](https://jobright.ai/jobs/info/6a45b50d076271587529de0d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 03 |
 | **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Eurex Marketing (f/m/d)](https://jobright.ai/jobs/info/69f20b33825a315d7ca3a777?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 03 |
-| **[Anchor Home](https://anchorhomeinc.com)** | **[Content Creation & Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c92e7122f340d29cee311?utm_campaign=1065&utm_source=git)** | Timonium, MD | On Site | Jul 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Growth Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30226d89f8f147d3733927?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 03 |
-| **[Auberge Collection](https://aubergeresorts.com/)** | **[Brand Social Media Intern](https://jobright.ai/jobs/info/6a477fecc2d11a6a466728b8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 03 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Marketing + Content Creation Intern: Fall 2026](https://jobright.ai/jobs/info/6a2b3e8e0ad4053b108cb7c6?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
