@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Haleon](http://www.haleon.com/)** | **[Pain Portfolio Marketing Intern (12-month Internship)](https://jobright.ai/jobs/info/6a4c03294f64ba41dcb5e1d2?utm_campaign=1065&utm_source=git)** | Mississauga Standish Court, Canada | Hybrid | Jul 06 |
+| **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN LA Fall 2026 Internship](https://jobright.ai/jobs/info/6a4bfe7fc2d11a6a46679905?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | Jul 06 |
+| **[The Arena Group](https://thearenagroup.net/)** | **[Ad Tech & Programmatic Monetization Intern](https://jobright.ai/jobs/info/6a29ec80c07d4b6ae1c4396b?utm_campaign=1065&utm_source=git)** | USA,United States | Remote | Jul 06 |
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4be0d26189f64e437f0333?utm_campaign=1065&utm_source=git)** | Columbia, South Carolina | On Site | Jul 06 |
 | **[Oakridge](https://oakridge.ltd)** | **[Social Media intern for Film Development and Film Production](https://jobright.ai/jobs/info/6a4bfbb36189f64e437f0a2c?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Jul 06 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of North Alabama (FALL SEMESTER)](https://jobright.ai/jobs/info/6a396a4b6484fb75f2b316c0?utm_campaign=1065&utm_source=git)** | One Harrison Plaza  UNA Box 50, Florence, AL, 35632, US | On Site | Jul 06 |
@@ -69,12 +72,12 @@ For a complete list, click the following sortable link below:
 | **[Bumble Inc.](https://team.bumble.com)** | **[BFF College Marketing Intern](https://jobright.ai/jobs/info/6a4bf019971cd25b06f98ef9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Maven Clinic](http://www.mavenclinic.com)** | **[Influencer & Community Intern](https://jobright.ai/jobs/info/6a395df0214ae004c7a1e0bd?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
 | ↳ | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a395df6f6b55d12c79276ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
-| **[Vestra](https://www.gettruvo.com)** | **[Growth And Content Intern](https://jobright.ai/jobs/info/6a4bed45c2d11a6a4667940f?utm_campaign=1065&utm_source=git)** | New Jersey, United States | On Site | Jul 06 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Swine Marketing Intern](https://jobright.ai/jobs/info/68c8fa44f9c6ff7aedf15829?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 06 |
 | **[Portulans Institute](https://portulansinstitute.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a4be8a2971cd25b06f98d28?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Jul 06 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN LA Fall 2026 Internship](https://jobright.ai/jobs/info/6a4be85a4f64ba41dcb5db39?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 06 |
 | **[HSAD North America](http://hsadusa.com)** | **[New Business Intern](https://jobright.ai/jobs/info/6a4be694971cd25b06f98ccc?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Jul 06 |
 | **[HeyPao](https://pace-pal.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/6a4be27d4f64ba41dcb5d9c8?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jul 06 |
+| **[Weiber Consulting](https://www.weibers.com)** | **[Marketing and Public Relations Intern](https://jobright.ai/jobs/info/6a4bfd84c2d11a6a466798cd?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jul 06 |
 | **[Climate Democracy Initiative](www.climatedemocracyinitiative.org)** | **[Social Media & Communications Intern](https://jobright.ai/jobs/info/6a46e4134f64ba41dcb5550e?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Jul 06 |
 | **[Leons](https://www.leonsdigital.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a4bdf0c4eb370649b27b5d3?utm_campaign=1065&utm_source=git)** | Toronto, ON, CA | On Site | Jul 06 |
 | **[International Code Council](https://www.iccsafe.org/)** | **[Events and Meetings Intern](https://jobright.ai/jobs/info/6a210c1e3a5f0145f4c182b6?utm_campaign=1065&utm_source=git)** | Country Club Hills,IL,US | On Site | Jul 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Southwest Virginia](https://jobright.ai/jobs/info/6a3ab7d9dd879c60912b0083?utm_campaign=1065&utm_source=git)** | Roanoke, VA, US | Hybrid | Jul 04 |
 | ↳ | **[Intern, Marketing & Communications-Remote in Cleveland or Northeast Ohio area](https://jobright.ai/jobs/info/6a32ba9fce501060b5ce9f3e?utm_campaign=1065&utm_source=git)** | Cleveland, OH, US | On Site | Jul 04 |
 | **[Wella Company](https://www.wellacompany.com/)** | **[Marketing Intern, Prestige Care](https://jobright.ai/jobs/info/6a163d66a429fd279da970d4?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Jul 04 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Marketing Intern, Retail - Fall 2026](https://jobright.ai/jobs/info/6a3c1e82d261407de97fc75a?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8d0006c1ba00c54e1b7d?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 04 |
-| **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com/japan/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2bfdc8f1751b183c816461?utm_campaign=1065&utm_source=git)** | Sunnyvale, California, United States | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
