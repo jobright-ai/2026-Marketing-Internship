@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Digital Marketing Admin - Intern (Unpaid)](https://jobright.ai/jobs/info/6a4cf57bd27b2c4dda9b59ab?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ, United States | Hybrid | Jul 07 |
+| **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a4cf19dc643fd23fed3b21b?utm_campaign=1065&utm_source=git)** | Rockville, MD, United States | Hybrid | Jul 07 |
+| **[TikTok](https://www.tiktok.com)** | **[News Partnerships and Operations Project Intern (TikTok-Operations-News) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4cf174c643fd23fed3b20d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Agent PR & Partnerships Executive Intern](https://jobright.ai/jobs/info/6a4ceac035e45603c4bb1f7d?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 07 |
 | **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Hybrid | Jul 07 |
 | ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fe2eace377055eb433b?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, US | Hybrid | Jul 07 |
+| ↳ | **[Category Marketing Intern - Personal Work Solutions](https://jobright.ai/jobs/info/6a31b61b35e80310003a8e1a?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, United States of America | On Site | Jul 07 |
 | **[Blackrock Neurotech](https://blackrockneurotech.com)** | **[BCI Internship - Market Research & Business Development](https://jobright.ai/jobs/info/6a4c2cfb971cd25b06f99e34?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jul 07 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT - CGH Social Media/Communications Intern](https://jobright.ai/jobs/info/6a4c8d9499523700cbff349e?utm_campaign=1065&utm_source=git)** | Somerville, MA, United States | Remote | Jul 06 |
 | **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Marketing & Communications](https://jobright.ai/jobs/info/6a4c860e0209ea6fd684fbb6?utm_campaign=1065&utm_source=git)** | Madera, CA, United States | On Site | Jul 06 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30c0ed89f8f147d3736b5f?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jul 06 |
 | ↳ | **[Creator Campaign Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302ae4093df201d07afc80?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 06 |
 | ↳ | **[Short Video Strategy Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30e0f6afabbe533fb8cb16?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jul 06 |
-| **[Programmers Force](https://programmersforce.co.uk/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4b75cf4eb370649b27a2d2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
-| **[TikTok](https://www.tiktok.com)** | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a4b68154f64ba41dcb5c469?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jul 06 |
+| ↳ | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a4b68154f64ba41dcb5c469?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jul 06 |
 | **[The Wright Success](https://www.TheWrightSuccess.com)** | **[Events & Marketing Intern (Tech/AI/Crypto)](https://jobright.ai/jobs/info/6a4b54024eb370649b279f2c?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jul 06 |
-| **[Naviga](https://www.navigaglobal.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4b47c14f64ba41dcb5bfb5?utm_campaign=1065&utm_source=git)** | Remote - Tampa, FL | Remote | Jul 05 |
-| **[TMG Marketing Partners](https://themologroup.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4b6248971cd25b06f9759e?utm_campaign=1065&utm_source=git)** | Castle Rock, CO | Remote | Jul 05 |
-| **[Evo Integrate](https://evointegrate.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a4b1510c2d11a6a46677350?utm_campaign=1065&utm_source=git)** | McKees Rocks, PA | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
