@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT - CGH Social Media/Communications Intern](https://jobright.ai/jobs/info/6a4c8d9499523700cbff349e?utm_campaign=1065&utm_source=git)** | Somerville, MA, United States | Remote | Jul 06 |
 | **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Marketing & Communications](https://jobright.ai/jobs/info/6a4c860e0209ea6fd684fbb6?utm_campaign=1065&utm_source=git)** | Madera, CA, United States | On Site | Jul 06 |
 | **[Cognitive FX](https://www.cognitivefxusa.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a4c7b9d3122a76a8fd52fbc?utm_campaign=1065&utm_source=git)** | Provo, UT, United States | On Site | Jul 06 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting/Social Media (Intern)](https://jobright.ai/jobs/info/6a3772b1649fdf16292fd307?utm_campaign=1065&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Jul 06 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Marketing Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4c2ccb4eb370649b27c89c?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Jul 06 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Communications Intern](https://jobright.ai/jobs/info/6a4c2cba6189f64e437f1648?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[THE·TEAM](http://the.team)** | **[Fall 2026 Internship - NIL Marketing, Baseball](https://jobright.ai/jobs/info/6a4c55f16189f64e437f1cb5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 06 |
-| **[Griddy](https://getgriddy.ai/)** | **[Growth Marketing Intern (Paid)](https://jobright.ai/jobs/info/6a4c3e585d7b097d2df3ff37?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Crackd](crackd.it)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4c2482c2d11a6a4667a28f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (On-Site, Local Preferred)](https://jobright.ai/jobs/info/6a4c2454c2d11a6a4667a28b?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Jul 06 |
 | **[Playbook](https://playbook.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4c22284eb370649b27c693?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
