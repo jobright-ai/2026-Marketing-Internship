@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Marketing & Communications](https://jobright.ai/jobs/info/6a4c860e0209ea6fd684fbb6?utm_campaign=1065&utm_source=git)** | Madera, CA, United States | On Site | Jul 06 |
 | **[Cognitive FX](https://www.cognitivefxusa.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a4c7b9d3122a76a8fd52fbc?utm_campaign=1065&utm_source=git)** | Provo, UT, United States | On Site | Jul 06 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting/Social Media (Intern)](https://jobright.ai/jobs/info/6a3772b1649fdf16292fd307?utm_campaign=1065&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Jul 06 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Digital Marketing - Fall 2026](https://jobright.ai/jobs/info/6a4c6da1c643fd23fed3a5b0?utm_campaign=1065&utm_source=git)** | Burbank, CA, United States | On Site | Jul 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a4b0d02f9cbb100d1ab52c0?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States | Hybrid | Jul 05 |
 | **[Curvaceous Behavior](https://www.curvaceousbehavior.org/about)** | **[Fall 2026 Community Engagement, Marketing & Event Planning Internship](https://jobright.ai/jobs/info/6a4afea3c2d11a6a4667723d?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Jul 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Brand and Communications Project Intern (Brand and Creative) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30ccfc524fd5657fe1232c?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jul 05 |
-| **[Gutchess Lumber Co., Inc.](https://www.gutchess.com/)** | **[Marketing Intern - Cortland, NY - $19-$22 per hour](https://jobright.ai/jobs/info/6a4ae0ba4f64ba41dcb5b863?utm_campaign=1065&utm_source=git)** | Cortland, NY | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
