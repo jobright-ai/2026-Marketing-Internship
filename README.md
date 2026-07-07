@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lancaster & Rose](https://lancasterandrose.com/)** | **[Late Summer Marketing and Website Internship (Remote for East Coast)](https://jobright.ai/jobs/info/6a4d1eaed27b2c4dda9b6375?utm_campaign=1065&utm_source=git)** | Charleston, South Carolina Metropolitan Area, United States | Remote | Jul 07 |
+| **[Wasserman](https://the.team/)** | **[Fall 2026 Internship- Client Services, Baseball](https://jobright.ai/jobs/info/6a4d1e7835e45603c4bb2a1c?utm_campaign=1065&utm_source=git)** | NY, United States | Remote | Jul 07 |
+| ↳ | **[Fall 2026 Internship - Football](https://jobright.ai/jobs/info/6a4d1e6d99523700cbff463b?utm_campaign=1065&utm_source=git)** | USA-NV - Las Vegas Office, United States of America | Hybrid | Jul 07 |
+| **[NU Media Holdings](https://www.nu.marketing)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4d1e6199523700cbff4630?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 07 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Communications and Design [Montreal]](https://jobright.ai/jobs/info/6a4d1e253122a76a8fd543ac?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 07 |
+| **[Acadium](http://www.acadium.com)** | **[Social Media Marketing, SEO & Marketing Funnels Intern](https://jobright.ai/jobs/info/6a4d1dc199523700cbff4612?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 07 |
+| ↳ | **[Video Marketing & Lead Generation Intern](https://jobright.ai/jobs/info/6a4d19e73122a76a8fd542b0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Brkthru](https://brkthru.com)** | **[Media Intern - Fall 2026](https://jobright.ai/jobs/info/6a4d1359c643fd23fed3b8d4?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Jul 07 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a424b7b6a9c2774b3fa5c6d?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 07 |
 | ↳ | **[Market Research Internship](https://jobright.ai/jobs/info/6a424b656faf756060966830?utm_campaign=1065&utm_source=git)** | unknown, Chicago, IL, United States | On Site | Jul 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Foundation Events Intern](https://jobright.ai/jobs/info/6a4bcbd8971cd25b06f984c7?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States of America | On Site | Jul 06 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a4bcac65d7b097d2df3e27f?utm_campaign=1065&utm_source=git)** | 1626 Oak Street, La Crosse, WI, 54603 | On Site | Jul 06 |
 | **[Acadium](http://www.acadium.com)** | **[Digital Marketing Intern (LinkedIn Growth & Funnel Building)](https://jobright.ai/jobs/info/6a4bca754eb370649b27af40?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 06 |
-| **[La Maison du Chocolat USA](https://www.lamaisonduchocolat.us/en_us/)** | **[Marketing & Communication Intern](https://jobright.ai/jobs/info/6a4bca42c2d11a6a46678a57?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 06 |
-| **[Acadium](http://www.acadium.com)** | **[Content & SEO Intern](https://jobright.ai/jobs/info/6a4bc7605d7b097d2df3e163?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jul 06 |
-| **[University of Niagara Falls Canada](https://unfc.ca)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4bac9b4eb370649b27a8ad?utm_campaign=1065&utm_source=git)** | Niagara Falls, ON, CA | On Site | Jul 06 |
-| **[Gift of Life Marrow Registry](https://www.giftoflife.org/)** | **[Campus Ambassador Internship Program](https://jobright.ai/jobs/info/6a0749b88f3e371eb61755e5?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Jul 06 |
-| **[Century Furniture](http://centuryfurniture.com/)** | **[Intern](https://jobright.ai/jobs/info/6a4bc0395d7b097d2df3e00a?utm_campaign=1065&utm_source=git)** | Century High Point Showroom - High Point, NC 27263 | On Site | Jul 06 |
-| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Public Relations Intern, Austin](https://jobright.ai/jobs/info/6a4bba4bc2d11a6a46678640?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jul 06 |
-| **[Intellect Design Arena Ltd](https://www.intellectdesign.com/)** | **[Marketing Intern - Bilingual](https://jobright.ai/jobs/info/6a4bba2f5d7b097d2df3de3a?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
