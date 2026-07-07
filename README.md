@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WFYI Public Media](https://www.wfyi.org/)** | **[Marketing & Events Intern Fall 2026](https://jobright.ai/jobs/info/6a39a10f649fdf162930210e?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 06 |
+| **[Utah Jazz](http://www.nba.com/jazz)** | **[Social Video Intern](https://jobright.ai/jobs/info/6a4c2f12c2d11a6a4667a520?utm_campaign=1065&utm_source=git)** | Sandy, UT | On Site | Jul 06 |
+| **[Blackrock Neurotech](https://blackrockneurotech.com)** | **[BCI Internship - Market Research & Business Development](https://jobright.ai/jobs/info/6a4c2cfb971cd25b06f99e34?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jul 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Growth Marketing Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4c2ccb4eb370649b27c89c?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Jul 06 |
+| **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Communications Intern](https://jobright.ai/jobs/info/6a4c2cba6189f64e437f1648?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[Crackd](crackd.it)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4c2482c2d11a6a4667a28f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Fall)](https://jobright.ai/jobs/info/6a4c245b6189f64e437f1473?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jul 06 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (On-Site, Local Preferred)](https://jobright.ai/jobs/info/6a4c2454c2d11a6a4667a28b?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Jul 06 |
@@ -85,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Isuzu North America](http://www.isuzu.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3966baf6b55d12c7927cc9?utm_campaign=1065&utm_source=git)** | Plymouth, MI | On Site | Jul 06 |
 | **[Wasserman](https://the.team/)** | **[Fall 2026 Internship - NIL Marketing, Baseball](https://jobright.ai/jobs/info/6a4bf6444eb370649b27bb3e?utm_campaign=1065&utm_source=git)** | USA-CA - Los Angeles HQ, United States of America | Hybrid | Jul 06 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-San Antonio, TX](https://jobright.ai/jobs/info/6a3053de093df201d07b0c31?utm_campaign=1065&utm_source=git)** | San Antonio, TX, US | On Site | Jul 06 |
+| **[Process Analytics Factory - PAFnow by Celonis](https://pafnow.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6a4c2a926189f64e437f15ea?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jul 06 |
 | **[Bumble Inc.](https://team.bumble.com)** | **[BFF College Marketing Intern](https://jobright.ai/jobs/info/6a4bf019971cd25b06f98ef9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Maven Clinic](http://www.mavenclinic.com)** | **[Influencer & Community Intern](https://jobright.ai/jobs/info/6a395df0214ae004c7a1e0bd?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
 | ↳ | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a395df6f6b55d12c79276ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kepler Communications Inc.](https://kepler.space)** | **[Marketing Intern (September 2026) (8 months)](https://jobright.ai/jobs/info/6a2874f47061b51a3a5f5fb2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Jul 05 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Louisville, KY or the immediate surrounding area](https://jobright.ai/jobs/info/6a3198672ee3ac1b4beefdff?utm_campaign=1065&utm_source=git)** | Louisville, KY, US | Hybrid | Jul 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Marketing Program Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d0ef43732c05812e3c92?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 05 |
-| **[Mirion Technologies](https://www.mirion.com/about/mirion-technologies)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a0f7382619335383fb2c7bf?utm_campaign=1065&utm_source=git)** | Melbourne, FL, USA | On Site | Jul 05 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Data Analyst](https://jobright.ai/jobs/info/6a2f618f89f8f147d3731ad6?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | Hybrid | Jul 05 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c1e83122f340d29ceca1c?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 05 |
-| **[Mitratech Trakstar](http://www.trakstar.com)** | **[ATL Marketing Team--Social Media Intern](https://jobright.ai/jobs/info/6a3d1c23882f121f56a3621b?utm_campaign=1065&utm_source=git)** | Duluth, Georgia, United States | Hybrid | Jul 05 |
-| **[Atlas](http://www.atlasvanlines.com)** | **[Marketing Intern (Fall 2026 - Fall 2027)](https://jobright.ai/jobs/info/6a3acf8b649fdf1629305d53?utm_campaign=1065&utm_source=git)** | Evansville, IN, US | On Site | Jul 05 |
-| **[University of St. Thomas](http://www.stthomas.edu)** | **[Tommie Athletics Marketing and Promotions Student Lead Intern](https://jobright.ai/jobs/info/6a3ad9b5dd879c60912b0bf0?utm_campaign=1065&utm_source=git)** | St. Paul, MN, US | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
