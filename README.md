@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cognitive FX](https://www.cognitivefxusa.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a4c7b9d3122a76a8fd52fbc?utm_campaign=1065&utm_source=git)** | Provo, UT, United States | On Site | Jul 06 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting/Social Media (Intern)](https://jobright.ai/jobs/info/6a3772b1649fdf16292fd307?utm_campaign=1065&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Jul 06 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Digital Marketing - Fall 2026](https://jobright.ai/jobs/info/6a4c6da1c643fd23fed3a5b0?utm_campaign=1065&utm_source=git)** | Burbank, CA, United States | On Site | Jul 06 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Social Media Intern (Volunteer)](https://jobright.ai/jobs/info/6a4c6d8535e45603c4bb13fe?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Operation Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9be7093df201d07ae27e?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jul 06 |
 | **[Duke University](https://dumac.duke.edu/)** | **[Non Duke Student/Intern](https://jobright.ai/jobs/info/6a4c60804f64ba41dcb5f40f?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Jul 06 |
 | **[Worldwide Clinical Trials](https://www.worldwide.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6a4c44b8c2d11a6a4667a830?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Jul 06 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Content and Marketing](https://jobright.ai/jobs/info/6a4b6ab04eb370649b27a15d?utm_campaign=1065&utm_source=git)** | Tempe, AZ, US | Hybrid | Jul 06 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Media Relations Intern](https://jobright.ai/jobs/info/6a4c13336189f64e437f0ffd?utm_campaign=1065&utm_source=git)** | Lubbock | On Site | Jul 06 |
-| **[Griddy](https://getgriddy.ai/)** | **[Growth Marketing Intern (Paid)](https://jobright.ai/jobs/info/6a4c3e585d7b097d2df3ff37?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Cloud Security Web](https://cloudsecurityweb.com/)** | **[Growth Marketing Internship](https://jobright.ai/jobs/info/6a4c3e15c2d11a6a4667a74b?utm_campaign=1065&utm_source=git)** | Greater Phoenix Area | On Site | Jul 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Internship - Dayton](https://jobright.ai/jobs/info/6a4c34434f64ba41dcb5eea6?utm_campaign=1065&utm_source=git)** | Dayton, OH | On Site | Jul 06 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Marketing & Events Intern Fall 2026](https://jobright.ai/jobs/info/6a39a10f649fdf162930210e?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 06 |
@@ -71,9 +74,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Marketing Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4c2ccb4eb370649b27c89c?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Jul 06 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Communications Intern](https://jobright.ai/jobs/info/6a4c2cba6189f64e437f1648?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[THE·TEAM](http://the.team)** | **[Fall 2026 Internship - NIL Marketing, Baseball](https://jobright.ai/jobs/info/6a4c55f16189f64e437f1cb5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 06 |
-| **[Beckman Law PC](https://www.beckman.law)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a4c414b5d7b097d2df3ff7e?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | Remote | Jul 06 |
+| **[Griddy](https://getgriddy.ai/)** | **[Growth Marketing Intern (Paid)](https://jobright.ai/jobs/info/6a4c3e585d7b097d2df3ff37?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Crackd](crackd.it)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4c2482c2d11a6a4667a28f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 06 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Fall)](https://jobright.ai/jobs/info/6a4c245b6189f64e437f1473?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jul 06 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (On-Site, Local Preferred)](https://jobright.ai/jobs/info/6a4c2454c2d11a6a4667a28b?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Jul 06 |
 | **[Playbook](https://playbook.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4c22284eb370649b27c693?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Northly Group](northlygroup.com)** | **[Campaign Management Internship (Media Sales)](https://jobright.ai/jobs/info/6a4c1c2e5d7b097d2df3f8bf?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 06 |
@@ -83,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/6a394bba6484fb75f2b30908?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/6a4c3b935d7b097d2df3fefc?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Remote | Jul 06 |
 | **[BeGenius Records](www.BeGeniusRecords.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a4c10784f64ba41dcb5e510?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 06 |
+| **[Lincoln Savings Bank](https://mylsb.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6a27492e7d827633afff9f33?utm_campaign=1065&utm_source=git)** | TechWorks, Waterloo, IA, US | On Site | Jul 06 |
 | **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a3e6ba2d261407de980310c?utm_campaign=1065&utm_source=git)** | Austin, Texas, United States | Hybrid | Jul 06 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Fan Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c0a3e4eb370649b27bf86?utm_campaign=1065&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105, United States of America | On Site | Jul 06 |
 | ↳ | **[Digital Content Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c0a354eb370649b27bf81?utm_campaign=1065&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105, United States of America | On Site | Jul 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Curvaceous Behavior](https://www.curvaceousbehavior.org/about)** | **[Fall 2026 Community Engagement, Marketing & Event Planning Internship](https://jobright.ai/jobs/info/6a4afea3c2d11a6a4667723d?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Jul 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Brand and Communications Project Intern (Brand and Creative) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30ccfc524fd5657fe1232c?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jul 05 |
 | **[Gutchess Lumber Co., Inc.](https://www.gutchess.com/)** | **[Marketing Intern - Cortland, NY - $19-$22 per hour](https://jobright.ai/jobs/info/6a4ae0ba4f64ba41dcb5b863?utm_campaign=1065&utm_source=git)** | Cortland, NY | On Site | Jul 05 |
-| **[Allstream Energy Partners](https://allstreamep.com/)** | **[Sales Executive Intern - Marketing & AI SEO in Energy](https://jobright.ai/jobs/info/6a4abf0a3dbab558e29af430?utm_campaign=1065&utm_source=git)** | Greater Houston | Hybrid | Jul 05 |
-| **[Conquest Advisors](https://www.conquest.nyc/)** | **[Vibe Coding Intern](https://jobright.ai/jobs/info/6a4aa7525d7b097d2df3c5b5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jul 05 |
-| **[Maner Costerisan](http://www.manercpa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3d5ba04d047136e0933279?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
