@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Campaign Operation Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9be7093df201d07ae27e?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jul 06 |
 | **[Duke University](https://dumac.duke.edu/)** | **[Non Duke Student/Intern](https://jobright.ai/jobs/info/6a4c60804f64ba41dcb5f40f?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Jul 06 |
 | **[Worldwide Clinical Trials](https://www.worldwide.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6a4c44b8c2d11a6a4667a830?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Jul 06 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Content and Marketing](https://jobright.ai/jobs/info/6a4b6ab04eb370649b27a15d?utm_campaign=1065&utm_source=git)** | Tempe, AZ, US | Hybrid | Jul 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allstream Energy Partners](https://allstreamep.com/)** | **[Sales Executive Intern - Marketing & AI SEO in Energy](https://jobright.ai/jobs/info/6a4abf0a3dbab558e29af430?utm_campaign=1065&utm_source=git)** | Greater Houston | Hybrid | Jul 05 |
 | **[Conquest Advisors](https://www.conquest.nyc/)** | **[Vibe Coding Intern](https://jobright.ai/jobs/info/6a4aa7525d7b097d2df3c5b5?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jul 05 |
 | **[Maner Costerisan](http://www.manercpa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3d5ba04d047136e0933279?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | Jul 05 |
-| **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Outreach Communications](https://jobright.ai/jobs/info/6a4b3950971cd25b06f970ee?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
