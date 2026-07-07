@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fe2eace377055eb433b?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, US | Hybrid | Jul 07 |
-| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Hybrid | Jul 07 |
+| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Hybrid | Jul 07 |
+| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fe2eace377055eb433b?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, US | Hybrid | Jul 07 |
+| **[Blackrock Neurotech](https://blackrockneurotech.com)** | **[BCI Internship - Market Research & Business Development](https://jobright.ai/jobs/info/6a4c2cfb971cd25b06f99e34?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jul 07 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT - CGH Social Media/Communications Intern](https://jobright.ai/jobs/info/6a4c8d9499523700cbff349e?utm_campaign=1065&utm_source=git)** | Somerville, MA, United States | Remote | Jul 06 |
 | **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Marketing & Communications](https://jobright.ai/jobs/info/6a4c860e0209ea6fd684fbb6?utm_campaign=1065&utm_source=git)** | Madera, CA, United States | On Site | Jul 06 |
 | **[Cognitive FX](https://www.cognitivefxusa.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a4c7b9d3122a76a8fd52fbc?utm_campaign=1065&utm_source=git)** | Provo, UT, United States | On Site | Jul 06 |
@@ -74,10 +75,10 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Management Trainee Internship - Dayton](https://jobright.ai/jobs/info/6a4c34434f64ba41dcb5eea6?utm_campaign=1065&utm_source=git)** | Dayton, OH | On Site | Jul 06 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Marketing & Events Intern Fall 2026](https://jobright.ai/jobs/info/6a39a10f649fdf162930210e?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 06 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Social Video Intern](https://jobright.ai/jobs/info/6a4c2f12c2d11a6a4667a520?utm_campaign=1065&utm_source=git)** | Sandy, UT | On Site | Jul 06 |
-| **[Blackrock Neurotech](https://blackrockneurotech.com)** | **[BCI Internship - Market Research & Business Development](https://jobright.ai/jobs/info/6a4c2cfb971cd25b06f99e34?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Marketing Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4c2ccb4eb370649b27c89c?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Jul 06 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Communications Intern](https://jobright.ai/jobs/info/6a4c2cba6189f64e437f1648?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[THE·TEAM](http://the.team)** | **[Fall 2026 Internship - NIL Marketing, Baseball](https://jobright.ai/jobs/info/6a4c55f16189f64e437f1cb5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 06 |
+| **[MSU Federal Credit Union](http://www.msufcu.org)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a455b8648d2f00f2a86d51b?utm_campaign=1065&utm_source=git)** | East Lansing, Michigan, United States | Hybrid | Jul 06 |
 | **[Crackd](crackd.it)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4c2482c2d11a6a4667a28f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (On-Site, Local Preferred)](https://jobright.ai/jobs/info/6a4c2454c2d11a6a4667a28b?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Jul 06 |
 | **[Playbook](https://playbook.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4c22284eb370649b27c693?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
@@ -128,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Solutions by Sam](www.solutionsbysam.com)** | **[PR & Influencer Marketing Intern](https://jobright.ai/jobs/info/6a4bfbb55d7b097d2df3efef?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
 | **[ONE Sotheby's International Realty](https://www.onesothebysrealty.com/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/6a4bcfee4f64ba41dcb5d405?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 06 |
 | **[D1 TRAINING](https://www.d1training.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a463b764f64ba41dcb518c8?utm_campaign=1065&utm_source=git)** | Altoona, IA, US | Hybrid | Jul 06 |
-| **[Ray](https://raycommunity.com)** | **[Brand and Marketing Internship](https://jobright.ai/jobs/info/6a4c3eaf971cd25b06f9a1a6?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jul 06 |
+| **[RAY](https://rayisaplace.com)** | **[Brand and Marketing Internship](https://jobright.ai/jobs/info/6a4c3eaf971cd25b06f9a1a6?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jul 06 |
 | **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Foundation Events Intern](https://jobright.ai/jobs/info/6a4bcbd8971cd25b06f984c7?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States of America | On Site | Jul 06 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a4bcac65d7b097d2df3e27f?utm_campaign=1065&utm_source=git)** | 1626 Oak Street, La Crosse, WI, 54603 | On Site | Jul 06 |
 | **[Acadium](http://www.acadium.com)** | **[Digital Marketing Intern (LinkedIn Growth & Funnel Building)](https://jobright.ai/jobs/info/6a4bca754eb370649b27af40?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 06 |
@@ -140,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Public Relations Intern, Austin](https://jobright.ai/jobs/info/6a4bba4bc2d11a6a46678640?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jul 06 |
 | **[Intellect Design Arena Ltd](https://www.intellectdesign.com/)** | **[Marketing Intern - Bilingual](https://jobright.ai/jobs/info/6a4bba2f5d7b097d2df3de3a?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Jul 06 |
 | **[McCormick Taylor, Inc.](http://www.mccormicktaylor.com)** | **[Intern, Video Production Marketing](https://jobright.ai/jobs/info/6a4bb93c4f64ba41dcb5cde7?utm_campaign=1065&utm_source=git)** | Exton - Exton, PA 19341 US | On Site | Jul 06 |
-| **[Electro](electrogum.com)** | **[Social Media & Community Intern](https://jobright.ai/jobs/info/6a4bd48cc2d11a6a46678d9d?utm_campaign=1065&utm_source=git)** | Kansas City, MO | Remote | Jul 06 |
 | **[Jetvia](https://atijet.com)** | **[Social Media & Content Creation Intern - Part Time](https://jobright.ai/jobs/info/6a4bb5f74f64ba41dcb5cd2d?utm_campaign=1065&utm_source=git)** | El Paso, Texas | On Site | Jul 06 |
 | **[GBH](http://www.wgbh.org/)** | **[Education Marketing and Outreach Intern - Fall 2026](https://jobright.ai/jobs/info/6a4baebb6189f64e437ef643?utm_campaign=1065&utm_source=git)** | Boston, United States of America | On Site | Jul 06 |
 | **[Maxis](http://www.maxis.com.my)** | **[Content Management Intern](https://jobright.ai/jobs/info/6a141119c2dca06fac4042e1?utm_campaign=1065&utm_source=git)** | Pinnacle, NC | On Site | Jul 06 |
