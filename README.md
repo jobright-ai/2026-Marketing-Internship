@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Agent PR & Partnerships Executive Intern](https://jobright.ai/jobs/info/6a4ceac035e45603c4bb1f7d?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 07 |
 | **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Hybrid | Jul 07 |
 | ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fe2eace377055eb433b?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, US | Hybrid | Jul 07 |
 | **[Blackrock Neurotech](https://blackrockneurotech.com)** | **[BCI Internship - Market Research & Business Development](https://jobright.ai/jobs/info/6a4c2cfb971cd25b06f99e34?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jul 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Naviga](https://www.navigaglobal.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4b47c14f64ba41dcb5bfb5?utm_campaign=1065&utm_source=git)** | Remote - Tampa, FL | Remote | Jul 05 |
 | **[TMG Marketing Partners](https://themologroup.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4b6248971cd25b06f9759e?utm_campaign=1065&utm_source=git)** | Castle Rock, CO | Remote | Jul 05 |
 | **[Evo Integrate](https://evointegrate.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a4b1510c2d11a6a46677350?utm_campaign=1065&utm_source=git)** | McKees Rocks, PA | On Site | Jul 05 |
-| **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a4b0d02f9cbb100d1ab52c0?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States | Hybrid | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
