@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Media Relations Intern](https://jobright.ai/jobs/info/6a4c13336189f64e437f0ffd?utm_campaign=1065&utm_source=git)** | Lubbock | On Site | Jul 07 |
 | **[IPS-Integrated Project Services](https://www.ipsdb.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a4d8dfcc643fd23fed3d6b9?utm_campaign=1065&utm_source=git)** | Blue Bell, Pennsylvania, United States | Hybrid | Jul 07 |
 | **[Joint Commission](http://www.jointcommission.org)** | **[Intern, Digital Communications](https://jobright.ai/jobs/info/6a4dab3dc643fd23fed3dad3?utm_campaign=1065&utm_source=git)** | Oakbrook Terrace, IL, United States | On Site | Jul 07 |
 | **[Starbeam](www.starbeam.org)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a4da2ddd27b2c4dda9b83c4?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 07 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern, Talent Relations - Part-Time](https://jobright.ai/jobs/info/6a4d72a70209ea6fd685255a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
 | **[Radiological Society of North America (RSNA)](http://rsna.org/)** | **[Intern: Corporate Relations & Exhibition Serv](https://jobright.ai/jobs/info/6a4d6c254c6c9f7a619f7c2e?utm_campaign=1065&utm_source=git)** | Oak Brook, IL, United States | Hybrid | Jul 07 |
 | **[USA Football](http://usafootball.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a4d6b2035e45603c4bb3e47?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Remote | Jul 07 |
-| **[Waresport](https://www.waresport.com/)** | **[Meta Ads Intern](https://jobright.ai/jobs/info/6a4d6ab43122a76a8fd558c1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/6a4d6779d27b2c4dda9b78ac?utm_campaign=1065&utm_source=git)** | Washington , DC | Hybrid | Jul 07 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Marketing Intern, Chartwells Higher Ed / Texas Woman's University](https://jobright.ai/jobs/info/6a4d65143122a76a8fd556fe?utm_campaign=1065&utm_source=git)** | Denton, TX, US | On Site | Jul 07 |
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Fall 2026 Social Media Internship - Dollywood Parks & Resorts - Seasonal](https://jobright.ai/jobs/info/6a4d64614c6c9f7a619f79b3?utm_campaign=1065&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Jul 07 |
@@ -87,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[Frontline Marketing and Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a4d60a40209ea6fd6851f83?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 07 |
 | **[Shield HealthCare - Medical Supplies for Care at Home Since 1957](http://shieldhealthcare.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6a4d5f3735e45603c4bb3976?utm_campaign=1065&utm_source=git)** | Santa Clarita, CA, United States | On Site | Jul 07 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Communications Fall 2026 Internship](https://jobright.ai/jobs/info/6a4d5eca0209ea6fd6851f22?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 07 |
-| **[99 Yards Academy](https://99yardsacademy.com/)** | **[Social Media Marketing Summer Intern](https://jobright.ai/jobs/info/6a4d5deb3122a76a8fd5539f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Sofueled](http://www.sofueled.com)** | **[Social Media and Content Creation- Intern](https://jobright.ai/jobs/info/6a4d5af10209ea6fd6851e0d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[CallPass](https://callpass.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a4d5ab235e45603c4bb37ef?utm_campaign=1065&utm_source=git)** | Greater Tampa Bay Area | Remote | Jul 07 |
 | **[Gift](https://www.shine.gift)** | **[Music Community Growth Intern](https://jobright.ai/jobs/info/6a4d58a23122a76a8fd55246?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 07 |
@@ -116,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Revilo Technologies](https://www.revilotechnologies.com)** | **[Social Media Growth Intern — Building the Future of Automotive AI](https://jobright.ai/jobs/info/6a4d38a1d27b2c4dda9b6b6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[GKB Milwaukee Fall 2026 Internship](https://jobright.ai/jobs/info/6a4d33fc35e45603c4bb3055?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 07 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4d313cc643fd23fed3c133?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 07 |
-| **[Snowflake](https://www.snowflake.com)** | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
-| ↳ | **[Product Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39d7d46484fb75f2b33dbf?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Jul 07 |
+| **[Snowflake](https://www.snowflake.com)** | **[Product Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39d7d46484fb75f2b33dbf?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Jul 07 |
+| ↳ | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
 | **[FACE FOUNDRIÉ®️](https://www.facefoundrie.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a3a9e0506a4fd4b1fabe05f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 07 |
 | ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/6a3a9e0906a4fd4b1fabe062?utm_campaign=1065&utm_source=git)** | Farmington, UT | On Site | Jul 07 |
 | **[Let's Roam](https://www.letsroam.com)** | **[Fully Remote Intern - AI SEO Growth Marketing](https://jobright.ai/jobs/info/6a4d2ed1c643fd23fed3c0ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
@@ -148,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Simon Quick Advisors, LLC](http://www.simonquickadvisors.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4d0e3b3122a76a8fd53f7e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Franchise Management - Fall 2026](https://jobright.ai/jobs/info/6a4d53a699523700cbff53db?utm_campaign=1065&utm_source=git)** | Burbank, CA, United States | On Site | Jul 07 |
 | **[Sézane](https://www.sezane.com)** | **[Retail Marketing Internship](https://jobright.ai/jobs/info/6a4d0cc635e45603c4bb24d4?utm_campaign=1065&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 07 |
-| **[Gordon Feinblatt LLC](http://gfrlaw.com)** | **[Corporate Social Responsibility (CSR) Intern](https://jobright.ai/jobs/info/6a4d53000209ea6fd6851ca2?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 07 |
 | **[Cavender's](https://www.cavenders.com/)** | **[Copywriting Intern](https://jobright.ai/jobs/info/6a4d08660209ea6fd685087a?utm_campaign=1065&utm_source=git)** | Tyler, TX 75703, USA | On Site | Jul 07 |
 | **[Electro](electrogum.com)** | **[NIL & Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4d03750209ea6fd6850773?utm_campaign=1065&utm_source=git)** | Nevada, United States | Remote | Jul 07 |
 | **[Greenleaf Hospitality Group](https://greenleafhospitalitygroup.com/)** | **[Public Relations & Broadcasting Intern / Wings Event Center / Part Time](https://jobright.ai/jobs/info/6a4d01793122a76a8fd53c89?utm_campaign=1065&utm_source=git)** | Wings Event Center, United States | On Site | Jul 07 |
@@ -156,5 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a4cf19dc643fd23fed3b21b?utm_campaign=1065&utm_source=git)** | Rockville, MD, United States | Hybrid | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[News Partnerships and Operations Project Intern (TikTok-Operations-News) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4cf174c643fd23fed3b20d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Agent PR & Partnerships Executive Intern](https://jobright.ai/jobs/info/6a4ceac035e45603c4bb1f7d?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 07 |
-| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fe2eace377055eb433b?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, US | Hybrid | Jul 07 |
+| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Hybrid | Jul 07 |
+| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fe2eace377055eb433b?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, US | Hybrid | Jul 07 |
+| ↳ | **[Category Marketing Intern - Personal Work Solutions](https://jobright.ai/jobs/info/6a303800524fd5657fe0fab5?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
