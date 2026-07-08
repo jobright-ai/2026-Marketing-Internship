@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Social Media Marketing Intern, Chartwells Higher Ed / California State University - Northridge](https://jobright.ai/jobs/info/6a4d854cd27b2c4dda9b7fb4?utm_campaign=1065&utm_source=git)** | Northridge, CA, United States | On Site | Jul 07 |
+| **[Good Good Golf](https://goodgoodgolf.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4d83554c6c9f7a619f8117?utm_campaign=1065&utm_source=git)** | Prosper, TX, United States | On Site | Jul 07 |
+| **[NuMark Credit Union](https://www.numarkcu.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4d7e1fd27b2c4dda9b7dc9?utm_campaign=1065&utm_source=git)** | Warrenville, IL, United States | Hybrid | Jul 07 |
 | **[Etico Management](https://eticomanagement.com/)** | **[Leasing & Marketing Intern (Full-Time, Fall Semester)](https://jobright.ai/jobs/info/6a4d7c643122a76a8fd55c27?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 07 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Events Intern](https://jobright.ai/jobs/info/6a4d788f3122a76a8fd55b47?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 | **[Community Action House](https://www.communityactionhouse.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a4d78013122a76a8fd55acf?utm_campaign=1065&utm_source=git)** | 739 Paw Paw Drive, Holland MI 49423 | On Site | Jul 07 |
@@ -102,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Revilo Technologies](https://www.revilotechnologies.com)** | **[Social Media Growth Intern — Building the Future of Automotive AI](https://jobright.ai/jobs/info/6a4d38a1d27b2c4dda9b6b6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[GKB Milwaukee Fall 2026 Internship](https://jobright.ai/jobs/info/6a4d33fc35e45603c4bb3055?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 07 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4d313cc643fd23fed3c133?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 07 |
-| **[Snowflake](https://www.snowflake.com)** | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
-| ↳ | **[Product Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39d7d46484fb75f2b33dbf?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Jul 07 |
+| **[Snowflake](https://www.snowflake.com)** | **[Product Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39d7d46484fb75f2b33dbf?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Jul 07 |
+| ↳ | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
 | **[FACE FOUNDRIÉ®️](https://www.facefoundrie.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a3a9e0506a4fd4b1fabe05f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 07 |
 | ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/6a3a9e0906a4fd4b1fabe062?utm_campaign=1065&utm_source=git)** | Farmington, UT | On Site | Jul 07 |
 | **[Let's Roam](https://www.letsroam.com)** | **[Fully Remote Intern - AI SEO Growth Marketing](https://jobright.ai/jobs/info/6a4d2ed1c643fd23fed3c0ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cognitive FX](https://www.cognitivefxusa.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a4c7b9d3122a76a8fd52fbc?utm_campaign=1065&utm_source=git)** | Provo, UT, United States | On Site | Jul 06 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting/Social Media (Intern)](https://jobright.ai/jobs/info/6a3772b1649fdf16292fd307?utm_campaign=1065&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Jul 06 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Digital Marketing - Fall 2026](https://jobright.ai/jobs/info/6a4c6da1c643fd23fed3a5b0?utm_campaign=1065&utm_source=git)** | Burbank, CA, United States | On Site | Jul 06 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Social Media Intern (Volunteer)](https://jobright.ai/jobs/info/6a4c6d8535e45603c4bb13fe?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
-| **[TikTok](https://www.tiktok.com)** | **[Campaign Operation Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9be7093df201d07ae27e?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jul 06 |
-| **[Duke University](https://dumac.duke.edu/)** | **[Non Duke Student/Intern](https://jobright.ai/jobs/info/6a4c60804f64ba41dcb5f40f?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
