@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Seattle Eastside](https://jobright.ai/jobs/info/6a1df454c2a87d6cd3e0f051?utm_campaign=1065&utm_source=git)** | East Seattle, WA, United States | On Site | Jul 07 |
+| **[Axis Communications](http://www.axis.com/)** | **[Event Intern](https://jobright.ai/jobs/info/6a4dd76d35e45603c4bb4e93?utm_campaign=1065&utm_source=git)** | USA - MA - Chelmsford, United States of America | On Site | Jul 07 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Orlando/Miami) & Graphic Design Summer/Fall 2026](https://jobright.ai/jobs/info/6a4dceb80209ea6fd68532e9?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Jul 07 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Communications Intern - Chattanooga, TN (Fall 2026)](https://jobright.ai/jobs/info/6a4dc7fb35e45603c4bb4baa?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | On Site | Jul 07 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern (On-site Overland Park, KS)](https://jobright.ai/jobs/info/6a4dc7f00209ea6fd68531d5?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Jul 07 |
@@ -74,10 +76,11 @@ For a complete list, click the following sortable link below:
 | **[Rancher Hat Bar](https://www.rancherhatbar.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a4d8ee03122a76a8fd55f6e?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Jul 07 |
 | **[Halikas Enterprises](https://www.rankinenterprises.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4d8edd3122a76a8fd55f6d?utm_campaign=1065&utm_source=git)** | Boise, ID | Hybrid | Jul 07 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Social Media Marketing Intern, Chartwells Higher Ed / California State University - Northridge](https://jobright.ai/jobs/info/6a4d854cd27b2c4dda9b7fb4?utm_campaign=1065&utm_source=git)** | Northridge, CA, United States | On Site | Jul 07 |
+| **[THE·TEAM](http://the.team)** | **[Fall 2026 Internship - Talent Marketing](https://jobright.ai/jobs/info/6a4dcc9e4c6c9f7a619f8aa4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 07 |
+| ↳ | **[Fall 2026 Internship - Client Services & Marketing, NFL](https://jobright.ai/jobs/info/6a4de63c35e45603c4bb4fc3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 07 |
 | **[Good Good Golf](https://goodgoodgolf.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4d83554c6c9f7a619f8117?utm_campaign=1065&utm_source=git)** | Prosper, TX, United States | On Site | Jul 07 |
 | **[Etico Management](https://eticomanagement.com/)** | **[Leasing & Marketing Intern (Full-Time, Fall Semester)](https://jobright.ai/jobs/info/6a4d7c643122a76a8fd55c27?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 07 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Events Intern](https://jobright.ai/jobs/info/6a4d788f3122a76a8fd55b47?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
-| **[THE·TEAM](http://the.team)** | **[Fall 2026 Internship - Talent Marketing](https://jobright.ai/jobs/info/6a4dcc9e4c6c9f7a619f8aa4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Community Action House](https://www.communityactionhouse.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a4d78013122a76a8fd55acf?utm_campaign=1065&utm_source=git)** | 739 Paw Paw Drive, Holland MI 49423 | On Site | Jul 07 |
 | **[Nova Rubi](novarubi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4d74eb4c6c9f7a619f7d8b?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jul 07 |
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Promotions & Events Marketing - Part Time](https://jobright.ai/jobs/info/6a4d73140209ea6fd6852579?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Jul 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Franchise Management - Fall 2026](https://jobright.ai/jobs/info/6a4d53a699523700cbff53db?utm_campaign=1065&utm_source=git)** | Burbank, CA, United States | On Site | Jul 07 |
 | **[Sézane](https://www.sezane.com)** | **[Retail Marketing Internship](https://jobright.ai/jobs/info/6a4d0cc635e45603c4bb24d4?utm_campaign=1065&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 07 |
 | **[Cavender's](https://www.cavenders.com/)** | **[Copywriting Intern](https://jobright.ai/jobs/info/6a4d08660209ea6fd685087a?utm_campaign=1065&utm_source=git)** | Tyler, TX 75703, USA | On Site | Jul 07 |
-| **[Electro](electrogum.com)** | **[NIL & Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4d03750209ea6fd6850773?utm_campaign=1065&utm_source=git)** | Nevada, United States | Remote | Jul 07 |
-| **[Greenleaf Hospitality Group](https://greenleafhospitalitygroup.com/)** | **[Public Relations & Broadcasting Intern / Wings Event Center / Part Time](https://jobright.ai/jobs/info/6a4d01793122a76a8fd53c89?utm_campaign=1065&utm_source=git)** | Wings Event Center, United States | On Site | Jul 07 |
-| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Digital Marketing Admin - Intern (Unpaid)](https://jobright.ai/jobs/info/6a4cf57bd27b2c4dda9b59ab?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ, United States | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
