@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Communications & Public Relations Intern - New York](https://jobright.ai/jobs/info/6a4dfd6bfc327f422fef186d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | **[JobAiro](https://www.linkedin.com/company/116031926)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a4dedadc643fd23fed3e2c9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Seattle Eastside](https://jobright.ai/jobs/info/6a1df454c2a87d6cd3e0f051?utm_campaign=1065&utm_source=git)** | East Seattle, WA, United States | On Site | Jul 07 |
 | **[Axis Communications](http://www.axis.com/)** | **[Event Intern](https://jobright.ai/jobs/info/6a4dd76d35e45603c4bb4e93?utm_campaign=1065&utm_source=git)** | USA - MA - Chelmsford, United States of America | On Site | Jul 07 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Media Relations Intern](https://jobright.ai/jobs/info/6a4c13336189f64e437f0ffd?utm_campaign=1065&utm_source=git)** | Lubbock | On Site | Jul 07 |
 | **[IPS-Integrated Project Services](https://www.ipsdb.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a4d8dfcc643fd23fed3d6b9?utm_campaign=1065&utm_source=git)** | Blue Bell, Pennsylvania, United States | Hybrid | Jul 07 |
 | **[Joint Commission](http://www.jointcommission.org)** | **[Intern, Digital Communications](https://jobright.ai/jobs/info/6a4dab3dc643fd23fed3dad3?utm_campaign=1065&utm_source=git)** | Oakbrook Terrace, IL, United States | On Site | Jul 07 |
-| **[Starbeam](www.starbeam.org)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a4da2ddd27b2c4dda9b83c4?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 07 |
+| **[Starbeam](www.starbeam.org)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a4da2ddd27b2c4dda9b83c4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Purpose Connect](https://www.purposeconnect.io)** | **[Strategic Growth Intern (Funding & Partnerships)](https://jobright.ai/jobs/info/6a4da290c643fd23fed3d9cb?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[888 Creative](https://888creative.co/)** | **[Social Media Coordinator Intern](https://jobright.ai/jobs/info/6a4d9d7dc643fd23fed3d8ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Rancher Hat Bar](https://www.rancherhatbar.com)** | **[Event Management Intern](https://jobright.ai/jobs/info/6a4dc51b0209ea6fd68531ad?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Jul 07 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[D.C. United](http://dcunited.com)** | **[Intern- Communications Fall 2026 Internship](https://jobright.ai/jobs/info/6a4d5eca0209ea6fd6851f22?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 07 |
 | **[Sofueled](http://www.sofueled.com)** | **[Social Media and Content Creation- Intern](https://jobright.ai/jobs/info/6a4d5af10209ea6fd6851e0d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[CallPass](https://callpass.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a4d5ab235e45603c4bb37ef?utm_campaign=1065&utm_source=git)** | Greater Tampa Bay Area | Remote | Jul 07 |
-| **[Gift](https://www.shine.gift)** | **[Music Community Growth Intern](https://jobright.ai/jobs/info/6a4d58a23122a76a8fd55246?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 07 |
 | **[Portulans Institute](https://portulansinstitute.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a4dac4d4c6c9f7a619f86c0?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[Yellow Scene Magazine](https://yellowscene.com)** | **[Sales-Marketing-Fundraising Internship](https://jobright.ai/jobs/info/6a4d56b10209ea6fd6851d51?utm_campaign=1065&utm_source=git)** | Colorado, United States | On Site | Jul 07 |
 | **[Make-A-Wish Canada](https://makeawish.ca)** | **[Community Partnerships Intern (Events)](https://jobright.ai/jobs/info/6a432c9cb0f2553559ece360?utm_campaign=1065&utm_source=git)** | St. John's, NL, Canada | Hybrid | Jul 07 |
@@ -125,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Revilo Technologies](https://www.revilotechnologies.com)** | **[Social Media Growth Intern — Building the Future of Automotive AI](https://jobright.ai/jobs/info/6a4d38a1d27b2c4dda9b6b6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[GKB Milwaukee Fall 2026 Internship](https://jobright.ai/jobs/info/6a4d33fc35e45603c4bb3055?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 07 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4d313cc643fd23fed3c133?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 07 |
-| **[Snowflake](https://www.snowflake.com)** | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
-| ↳ | **[Product Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39d7d46484fb75f2b33dbf?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Jul 07 |
+| **[Snowflake](https://www.snowflake.com)** | **[Product Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39d7d46484fb75f2b33dbf?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Jul 07 |
+| ↳ | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
 | **[FACE FOUNDRIÉ®️](https://www.facefoundrie.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a3a9e0506a4fd4b1fabe05f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 07 |
 | ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/6a3a9e0906a4fd4b1fabe062?utm_campaign=1065&utm_source=git)** | Farmington, UT | On Site | Jul 07 |
 | **[Let's Roam](https://www.letsroam.com)** | **[Fully Remote Intern - AI SEO Growth Marketing](https://jobright.ai/jobs/info/6a4d2ed1c643fd23fed3c0ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
