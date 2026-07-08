@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[888 Creative](https://888creative.co/)** | **[Social Media Coordinator Intern](https://jobright.ai/jobs/info/6a4d9d7dc643fd23fed3d8ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
+| **[NuMark Credit Union](https://www.numarkcu.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4d99fad27b2c4dda9b8224?utm_campaign=1065&utm_source=git)** | Warrenville, IL, United States | Hybrid | Jul 07 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Digital Internship](https://jobright.ai/jobs/info/6a4d94464c6c9f7a619f834f?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[THE·TEAM](http://the.team)** | **[Fall 2026 Internship - Talent Marketing & Services, Baseball](https://jobright.ai/jobs/info/6a4d8ef835e45603c4bb4481?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 07 |
 | **[Purple Properties LLC](https://purplepropertiespdx.com/)** | **[Campus Marketing & Brand Ambassador Intern](https://jobright.ai/jobs/info/6a4d8ee735e45603c4bb4480?utm_campaign=1065&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Jul 07 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Revilo Technologies](https://www.revilotechnologies.com)** | **[Social Media Growth Intern — Building the Future of Automotive AI](https://jobright.ai/jobs/info/6a4d38a1d27b2c4dda9b6b6f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[GKB Milwaukee Fall 2026 Internship](https://jobright.ai/jobs/info/6a4d33fc35e45603c4bb3055?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 07 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4d313cc643fd23fed3c133?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 07 |
-| **[Snowflake](https://www.snowflake.com)** | **[Product Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39d7d46484fb75f2b33dbf?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Jul 07 |
-| ↳ | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
+| **[Snowflake](https://www.snowflake.com)** | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 07 |
+| ↳ | **[Product Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39d7d46484fb75f2b33dbf?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Jul 07 |
 | **[FACE FOUNDRIÉ®️](https://www.facefoundrie.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a3a9e0506a4fd4b1fabe05f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 07 |
 | ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/6a3a9e0906a4fd4b1fabe062?utm_campaign=1065&utm_source=git)** | Farmington, UT | On Site | Jul 07 |
 | **[Let's Roam](https://www.letsroam.com)** | **[Fully Remote Intern - AI SEO Growth Marketing](https://jobright.ai/jobs/info/6a4d2ed1c643fd23fed3c0ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fe2eace377055eb433b?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, US | Hybrid | Jul 07 |
 | ↳ | **[Category Marketing Intern - Personal Work Solutions](https://jobright.ai/jobs/info/6a303800524fd5657fe0fab5?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jul 07 |
 | ↳ | **[Category Marketing Intern - Personal Work Solutions](https://jobright.ai/jobs/info/6a31b61b35e80310003a8e1a?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, United States of America | On Site | Jul 07 |
-| **[Numerica Credit Union](https://www.numericacu.com/)** | **[Community Impact and Communications Intern](https://jobright.ai/jobs/info/6a4bfb144eb370649b27bc9b?utm_campaign=1065&utm_source=git)** | Spokane Valley,WA,US | Hybrid | Jul 07 |
-| **[Blackrock Neurotech](https://blackrockneurotech.com)** | **[BCI Internship - Market Research & Business Development](https://jobright.ai/jobs/info/6a4c2cfb971cd25b06f99e34?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
