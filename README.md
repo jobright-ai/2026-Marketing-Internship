@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walden Security](http://www.waldensecurity.com)** | **[Communications Intern - Chattanooga, TN (Fall 2026)](https://jobright.ai/jobs/info/6a4dc7fb35e45603c4bb4baa?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | On Site | Jul 07 |
+| **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern (On-site Overland Park, KS)](https://jobright.ai/jobs/info/6a4dc7f00209ea6fd68531d5?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Jul 07 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Media Relations Intern](https://jobright.ai/jobs/info/6a4c13336189f64e437f0ffd?utm_campaign=1065&utm_source=git)** | Lubbock | On Site | Jul 07 |
 | **[IPS-Integrated Project Services](https://www.ipsdb.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a4d8dfcc643fd23fed3d6b9?utm_campaign=1065&utm_source=git)** | Blue Bell, Pennsylvania, United States | Hybrid | Jul 07 |
 | **[Joint Commission](http://www.jointcommission.org)** | **[Intern, Digital Communications](https://jobright.ai/jobs/info/6a4dab3dc643fd23fed3dad3?utm_campaign=1065&utm_source=git)** | Oakbrook Terrace, IL, United States | On Site | Jul 07 |
 | **[Starbeam](www.starbeam.org)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a4da2ddd27b2c4dda9b83c4?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 07 |
 | **[Purpose Connect](https://www.purposeconnect.io)** | **[Strategic Growth Intern (Funding & Partnerships)](https://jobright.ai/jobs/info/6a4da290c643fd23fed3d9cb?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[888 Creative](https://888creative.co/)** | **[Social Media Coordinator Intern](https://jobright.ai/jobs/info/6a4d9d7dc643fd23fed3d8ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
+| **[Rancher Hat Bar](https://www.rancherhatbar.com)** | **[Event Management Intern](https://jobright.ai/jobs/info/6a4dc51b0209ea6fd68531ad?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Jul 07 |
 | **[NuMark Credit Union](https://www.numarkcu.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4d99fad27b2c4dda9b8224?utm_campaign=1065&utm_source=git)** | Warrenville, IL, United States | Hybrid | Jul 07 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Digital Internship](https://jobright.ai/jobs/info/6a4d94464c6c9f7a619f834f?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[THE·TEAM](http://the.team)** | **[Fall 2026 Internship - Talent Marketing & Services, Baseball](https://jobright.ai/jobs/info/6a4d8ef835e45603c4bb4481?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a4cf19dc643fd23fed3b21b?utm_campaign=1065&utm_source=git)** | Rockville, MD, United States | Hybrid | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[News Partnerships and Operations Project Intern (TikTok-Operations-News) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4cf174c643fd23fed3b20d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Agent PR & Partnerships Executive Intern](https://jobright.ai/jobs/info/6a4ceac035e45603c4bb1f7d?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 07 |
-| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Hybrid | Jul 07 |
-| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fe2eace377055eb433b?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, US | Hybrid | Jul 07 |
-| ↳ | **[Category Marketing Intern - Personal Work Solutions](https://jobright.ai/jobs/info/6a303800524fd5657fe0fab5?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
