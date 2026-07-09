@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Waresport](https://www.waresport.com/)** | **[Sports Media Intern (Content Creator)](https://jobright.ai/jobs/info/6a4ff3b31544d7246c0d7263?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 09 |
+| **[Fizz](https://fizz.social/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3c550c882f121f56a34629?utm_campaign=1065&utm_source=git)** | CA, United States | Remote | Jul 09 |
 | **[EDMO](https://www.goedmo.com)** | **[Podcast & Marketing Intern](https://jobright.ai/jobs/info/6a4ff2001544d7246c0d7227?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Jul 09 |
 | **[City of Elmhurst](https://elmhurst.org)** | **[Fall 2026 Marketing and Communications Intern](https://jobright.ai/jobs/info/6a4fecb6fc327f422fef718a?utm_campaign=1065&utm_source=git)** | Elmhurst, IL, United States | On Site | Jul 09 |
 | **[University of Niagara Falls Canada](https://unfc.ca)** | **[Student Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4feca69469c0662034f74e?utm_campaign=1065&utm_source=git)** | Niagara Falls, ON, CA | On Site | Jul 09 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[TABACALERA USA Inc.](https://www.tabacalerausa.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a4fe21cfc327f422fef6dcf?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 09 |
 | **[VCI Institute](https://www.vciinstitute.com)** | **[Content & Social Media Intern  (Summer 2026 Internship)](https://jobright.ai/jobs/info/6a4fdf3f397d8d353c28cece?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 09 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Professional Career Internship - TPS - Badeaux, Lisé  - 7.9.26](https://jobright.ai/jobs/info/6a4fdbe01544d7246c0d6c4b?utm_campaign=1065&utm_source=git)** | Lemont, IL USA, United States of America | Remote | Jul 09 |
+| **[Weiber Consulting](https://www.weibers.com)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/6a4ff7fafc327f422fef73c2?utm_campaign=1065&utm_source=git)** | New York City Metropolitan Area, United States | Hybrid | Jul 09 |
 | **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Social Media Marketing Intern-Fashion](https://jobright.ai/jobs/info/6a4fd9cb4649561ec08af46c?utm_campaign=1065&utm_source=git)** | Atlanta Metropolitan Area, United States | Remote | Jul 09 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Equine Marketing Intern](https://jobright.ai/jobs/info/68c7c26af42a830e1c7e7587?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 09 |
 | **[BPCM](http://www.bpcm.com)** | **[Fall Internship, Beauty](https://jobright.ai/jobs/info/6a4fd76e397d8d353c28cd84?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 09 |
@@ -81,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Charleston Wine + Food](https://charlestonwineandfood.com/)** | **[Fall 2026 + Spring 2027 Intern](https://jobright.ai/jobs/info/6a4fd1b49469c0662034f049?utm_campaign=1065&utm_source=git)** | Charleston, SC, United States | On Site | Jul 09 |
 | **[USA Football](http://usafootball.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4fd0d2397d8d353c28cb33?utm_campaign=1065&utm_source=git)** | AL, United States | Remote | Jul 09 |
 | **[JBI Securities LLC](www.jbi-securities.com)** | **[Unpaid Internship](https://jobright.ai/jobs/info/6a4fd0b0fc327f422fef69ac?utm_campaign=1065&utm_source=git)** | Highland, MI, United States | Remote | Jul 09 |
+| **[Bmore Studio](https://www.bmore.studio/)** | **[Social Media Operation intern](https://jobright.ai/jobs/info/6a4ff6f34649561ec08afb22?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jul 09 |
 | **[W. W. Norton & Company, Inc.](http://www.wwnorton.com)** | **[College Marketing Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fc5c2397d8d353c28c6d0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 09 |
 | ↳ | **[Marketing Design (Trade) Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fc59df57ed168c3416a09?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[Retrofête](https://retrofete.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a4fc4e31544d7246c0d6533?utm_campaign=1065&utm_source=git)** | New York City Metropolitan Area, United States | On Site | Jul 09 |
@@ -94,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[The Child Advocacy Center of Greater Rochester](https://www.cacgroc.org)** | **[Development & Events Intern (Fall Semester)](https://jobright.ai/jobs/info/6a4fb7ed9469c0662034e956?utm_campaign=1065&utm_source=git)** | Rochester, NY, United States | On Site | Jul 09 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 09 |
 | **[Red Moon Marketing](https://www.redmoonmkt.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a4fb66e4649561ec08aeaa4?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 09 |
-| **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72d7f3fdd180d4c2aaf?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jul 09 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72829c90c607e4d74fd?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, United States | On Site | Jul 09 |
+| **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72829c90c607e4d74fd?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, United States | On Site | Jul 09 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72d7f3fdd180d4c2aaf?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jul 09 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a73129c90c607e4d7501?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jul 09 |
 | **[Clickspring Design](https://www.clickspringdesign.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3d1c6f882f121f56a36221?utm_campaign=1065&utm_source=git)** | Sacramento area, CA, United States | On Site | Jul 09 |
 | **[Altadis U.S.A.](https://www.altadisusa.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a4facd5fc327f422fef5fcd?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 09 |
@@ -133,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Can of Soup](https://canofsoup.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/6a4eeba9fc327f422fef487c?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 08 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4eec2d397d8d353c28ab8d?utm_campaign=1065&utm_source=git)** | Meridian, ID, United States | On Site | Jul 08 |
 | **[AMAROK Security](https://www.amarok.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4f845efc327f422fef5a5b?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | On Site | Jul 08 |
+| **[Miller Industries](http://millerind.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4ff8d31544d7246c0d731d?utm_campaign=1065&utm_source=git)** | Ooltewah, TN, United States | Hybrid | Jul 08 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[B2B Marketing Intern](https://jobright.ai/jobs/info/6a3c54338bfad862bc99a0c4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 08 |
 | **[AMAROK Security](https://www.amarok.com)** | **[Marketing Intern, Corporate Events](https://jobright.ai/jobs/info/6a4eae78397d8d353c289ecb?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | On Site | Jul 08 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4edea915b4965afd584ea1?utm_campaign=1065&utm_source=git)** | Meridian, ID, United States | On Site | Jul 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Relations Intern, Fall 2026](https://jobright.ai/jobs/info/6a4ead8a397d8d353c289e4c?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Jul 08 |
 | ↳ | **[Influencer Marketing Intern, Fall 2026](https://jobright.ai/jobs/info/6a4e91090ea38951a6ff3a1f?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jul 08 |
 | ↳ | **[Email & SMS Marketing Intern, Fall 2026](https://jobright.ai/jobs/info/6a4e911d397d8d353c289716?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 08 |
-| **[S3Detailing](www.s3detailing.com)** | **[Marketing and Content Intern](https://jobright.ai/jobs/info/6a4f0f539469c0662034d48d?utm_campaign=1065&utm_source=git)** | Wilmington, NC, United States | On Site | Jul 08 |
-| **[My7on7](https://www.my7on7.com)** | **[Sports Management Internship](https://jobright.ai/jobs/info/6a4ee4559469c0662034cf39?utm_campaign=1065&utm_source=git)** | Greater Minneapolis-St. Paul Area, United States | Hybrid | Jul 08 |
-| **[Wasserman](https://the.team/)** | **[Fall 2026 Internship - Client Services & Marketing, NFL](https://jobright.ai/jobs/info/6a4ec42c9469c0662034ca05?utm_campaign=1065&utm_source=git)** | USA-CA - Los Angeles HQ, United States of America | On Site | Jul 08 |
-| **[HumanKind](https://www.humankind.org)** | **[Events Intern](https://jobright.ai/jobs/info/6a4ec12415b4965afd584911?utm_campaign=1065&utm_source=git)** | Lynchburg, VA, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
