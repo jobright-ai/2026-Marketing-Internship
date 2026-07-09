@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Chatter Buzz](https://www.chatterbuzzmedia.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a3d07f88bfad862bc99bb15?utm_campaign=1065&utm_source=git)** | Orlando, Florida, United States | On Site | Jul 09 |
+| **[BODYROK](http://bodyrok.com)** | **[Corporate Marketing and PR Intern - In Person and In Studio Miami, FL](https://jobright.ai/jobs/info/6a4eb1910ea38951a6ff428b?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Jul 09 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Strategic Communications Intern](https://jobright.ai/jobs/info/6a4ea9809469c0662034c36e?utm_campaign=1065&utm_source=git)** | Penn State University Park, United States of America | On Site | Jul 09 |
 | **[KOSTAL Group](http://www.kostal.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69deffc8aba61f1417319583?utm_campaign=1065&utm_source=git)** | Troy, OH, United States | On Site | Jul 09 |
 | **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a3e6ba2d261407de980310c?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 09 |
@@ -135,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[HeyPao](https://pace-pal.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4ea0900ea38951a6ff3edd?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jul 08 |
 | **[NETZSCH Group](https://www.netzsch.com/de)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a4ea02d397d8d353c289ba2?utm_campaign=1065&utm_source=git)** | 19341 Exton, PA, United States | Remote | Jul 08 |
 | **[Family Benefits Center](http://www.familybenefitscenter.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4e8bc41544d7246c0d33b2?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Remote | Jul 08 |
-| **[Ballston](https://ballstonva.org)** | **[Business Community Engagement and Marketing Intern (Part Time)](https://jobright.ai/jobs/info/6a4f0dc915b4965afd5854a0?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Jul 08 |
+| **[Ballston BID](https://ballstonva.org)** | **[Business Community Engagement and Marketing Intern (Part Time)](https://jobright.ai/jobs/info/6a4f0dc915b4965afd5854a0?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Jul 08 |
 | **[Charleston Wine + Food](https://charlestonwineandfood.com/)** | **[Fall 2026 + Spring 2027 Intern](https://jobright.ai/jobs/info/6a4e9c999469c0662034c0f4?utm_campaign=1065&utm_source=git)** | Charleston, SC, United States | On Site | Jul 08 |
 | **[Cos Bar](http://www.cosbar.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4e9b7b9469c0662034c0b1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a4e9b740ea38951a6ff3d97?utm_campaign=1065&utm_source=git)** | Aspen, CO, United States | On Site | Jul 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern, Chartwells Higher Ed / Hofstra University](https://jobright.ai/jobs/info/6a4e7f6b0ea38951a6ff3633?utm_campaign=1065&utm_source=git)** | Hempstead, NY, United States | On Site | Jul 08 |
 | **[MountainOne](http://mountainone.com)** | **[Marketing & Community Engagement Intern](https://jobright.ai/jobs/info/6a4ec3e4fc327f422fef4176?utm_campaign=1065&utm_source=git)** | North Adams, MA, United States | On Site | Jul 08 |
 | **[Laradon](https://www.laradon.org/)** | **[Communications & Volunteerism Internship](https://jobright.ai/jobs/info/6a4e7c0b15b4965afd5836f5?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Jul 08 |
-| **[Jam Theatricals](http://www.nederlander.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6a4e7a2a1544d7246c0d2ec0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
