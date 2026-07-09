@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altadis U.S.A.](https://www.altadisusa.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a4facd5fc327f422fef5fcd?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 09 |
+| **[Institute for Humane Studies](https://www.theihs.org/)** | **[Digital Marketing Intern (Remote)](https://jobright.ai/jobs/info/6a3d589e8bfad862bc99c98d?utm_campaign=1065&utm_source=git)** | Arlington, VA, United States | Remote | Jul 09 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Call Center Marketing Intern](https://jobright.ai/jobs/info/6a4f95b5fc327f422fef5c06?utm_campaign=1065&utm_source=git)** | MVC Orlando Call Center, United States | On Site | Jul 09 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Marketing  (Performance Marketing)](https://jobright.ai/jobs/info/6a34342cce501060b5ceff09?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 09 |
 | **[Eulerity](https://www.eulerity.com)** | **[Digital Marketing Intern - Technical AI & Automation](https://jobright.ai/jobs/info/6a4f8ee34649561ec08ae3b2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Chatter Buzz](https://www.chatterbuzzmedia.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a3d07f88bfad862bc99bb15?utm_campaign=1065&utm_source=git)** | Orlando, Florida, United States | On Site | Jul 09 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Strategic Communications Intern](https://jobright.ai/jobs/info/6a4ea9809469c0662034c36e?utm_campaign=1065&utm_source=git)** | Penn State University Park, United States of America | On Site | Jul 09 |
 | **[KOSTAL Group](http://www.kostal.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69deffc8aba61f1417319583?utm_campaign=1065&utm_source=git)** | Troy, OH, United States | On Site | Jul 09 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c1e5c982bb239f812e6a9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 09 |
 | **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a3e6ba2d261407de980310c?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33bd34f6b55d12c791991f?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 09 |
 | **[Continental](http://www.benecke-kaliko.com)** | **[Intern - Marketing - Bicycle Tire, Year-Round](https://jobright.ai/jobs/info/6a43de5365e80d3c99f2a7dd?utm_campaign=1065&utm_source=git)** | CO-470, Denver, CO, USA | Hybrid | Jul 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PURPLE](https://purplepr.com)** | **[VIP & Influencer Intern - Fall](https://jobright.ai/jobs/info/6a4e82930ea38951a6ff377f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | ↳ | **[Events Intern - Fall](https://jobright.ai/jobs/info/6a4e828a397d8d353c289445?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 08 |
-| **[PURPLE](https://purplepr.com)** | **[Lifestyle Intern - Fall](https://jobright.ai/jobs/info/6a4e82770ea38951a6ff3777?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
-| ↳ | **[Beauty Intern - Fall](https://jobright.ai/jobs/info/6a4e82619469c0662034ba35?utm_campaign=1065&utm_source=git)** | PURPLE New York | On Site | Jul 08 |
-| **[CKL Engineers, LLC](https://ckleng.com/)** | **[Intern - Marketing & Business Development](https://jobright.ai/jobs/info/6a4e8116397d8d353c2893b3?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
