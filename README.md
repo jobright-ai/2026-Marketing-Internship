@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern 2026](https://jobright.ai/jobs/info/6a5017064649561ec08b0394?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 09 |
 | **[Auburn University at Montgomery](http://www.aum.edu/)** | **[Student Marketing Intern](https://jobright.ai/jobs/info/6a500d33397d8d353c28dbd0?utm_campaign=1065&utm_source=git)** | Auburn University, AL, United States | On Site | Jul 09 |
 | **[W. W. Norton & Company, Inc.](http://www.wwnorton.com)** | **[Norton Young Readers Editorial & Marketing Internship, Fall 2026](https://jobright.ai/jobs/info/6a500bf1397d8d353c28db88?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[WETA](https://weta.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a500aa6397d8d353c28db1b?utm_campaign=1065&utm_source=git)** | Arlington, VA 22206, USA | On Site | Jul 09 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Public Engagement Intern](https://jobright.ai/jobs/info/6a4fe2f4f57ed168c3417270?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Jul 09 |
 | **[TABACALERA USA Inc.](https://www.tabacalerausa.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a4fe21cfc327f422fef6dcf?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 09 |
 | **[VCI Institute](https://www.vciinstitute.com)** | **[Content & Social Media Intern  (Summer 2026 Internship)](https://jobright.ai/jobs/info/6a4fdf3f397d8d353c28cece?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 09 |
+| **[Sylvan Learning of Erin Mills](https://locations.sylvanlearning.com/ca/erin-mills-mississauga-on)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a50186a1544d7246c0d7b05?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jul 09 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Professional Career Internship - TPS - Badeaux, Lisé  - 7.9.26](https://jobright.ai/jobs/info/6a4fdbe01544d7246c0d6c4b?utm_campaign=1065&utm_source=git)** | Lemont, IL USA, United States of America | Remote | Jul 09 |
 | **[Weiber Consulting](https://www.weibers.com)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/6a4ff7fafc327f422fef73c2?utm_campaign=1065&utm_source=git)** | New York City Metropolitan Area, United States | Hybrid | Jul 09 |
 | **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Social Media Marketing Intern-Fashion](https://jobright.ai/jobs/info/6a4fd9cb4649561ec08af46c?utm_campaign=1065&utm_source=git)** | Atlanta Metropolitan Area, United States | Remote | Jul 09 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 09 |
 | **[Red Moon Marketing](https://www.redmoonmkt.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a4fb66e4649561ec08aeaa4?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 09 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72829c90c607e4d74fd?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, United States | On Site | Jul 09 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72d7f3fdd180d4c2aaf?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jul 09 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a73129c90c607e4d7501?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jul 09 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72d7f3fdd180d4c2aaf?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jul 09 |
 | **[Fume Studio](fume-studio.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a5005bbfc327f422fef777c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[Clickspring Design](https://www.clickspringdesign.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3d1c6f882f121f56a36221?utm_campaign=1065&utm_source=git)** | Sacramento area, CA, United States | On Site | Jul 09 |
 | **[Altadis U.S.A.](https://www.altadisusa.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a4facd5fc327f422fef5fcd?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4edea915b4965afd584ea1?utm_campaign=1065&utm_source=git)** | Meridian, ID, United States | On Site | Jul 08 |
 | **[Silver Air Private Jets](https://www.silverair.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4ede8515b4965afd584e9f?utm_campaign=1065&utm_source=git)** | Los Angeles Metropolitan Area, United States | On Site | Jul 08 |
 | **[Komodo](https://wearekomodo.com/)** | **[Influencer campaign Intern](https://jobright.ai/jobs/info/6a4edaca9469c0662034ce40?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 08 |
-| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Social Commerce & Community Internship, Fall 2026](https://jobright.ai/jobs/info/6a4ead751544d7246c0d3c28?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 08 |
-| **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Development and Special Events](https://jobright.ai/jobs/info/6a3c453f882f121f56a34319?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
