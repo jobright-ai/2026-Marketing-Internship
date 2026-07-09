@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadium](http://www.acadium.com)** | **[HubSpot Marketing Automation & Outreach Intern](https://jobright.ai/jobs/info/6a4f53494649561ec08add53?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 09 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72829c90c607e4d74fd?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, United States | On Site | Jul 09 |
 | **[Baylor University](http://www.baylor.edu)** | **[Student Worker - WHFH Event Planner Intern - BC](https://jobright.ai/jobs/info/6a4f45ee397d8d353c28b68a?utm_campaign=1065&utm_source=git)** | Waco, TX, United States | On Site | Jul 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop - Brand Campaign) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4f40bcfc327f422fef5345?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 08 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4eec2d397d8d353c28ab8d?utm_campaign=1065&utm_source=git)** | Meridian, ID, United States | On Site | Jul 08 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[B2B Marketing Intern](https://jobright.ai/jobs/info/6a3c54338bfad862bc99a0c4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 08 |
 | **[AMAROK Security](https://www.amarok.com)** | **[Marketing Intern, Corporate Events](https://jobright.ai/jobs/info/6a4eae78397d8d353c289ecb?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | On Site | Jul 08 |
-| **[Micro](https://trymicro.io/)** | **[Growth Intern (Unpaid)](https://jobright.ai/jobs/info/6a4ee0ff397d8d353c28a9dd?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 08 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4edea915b4965afd584ea1?utm_campaign=1065&utm_source=git)** | Meridian, ID, United States | On Site | Jul 08 |
 | **[Silver Air Private Jets](https://www.silverair.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4ede8515b4965afd584e9f?utm_campaign=1065&utm_source=git)** | Los Angeles Metropolitan Area, United States | On Site | Jul 08 |
 | **[Komodo](https://wearekomodo.com/)** | **[Influencer campaign Intern](https://jobright.ai/jobs/info/6a4edaca9469c0662034ce40?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 08 |
@@ -150,8 +150,8 @@ For a complete list, click the following sortable link below:
 | **[PURPLE](https://purplepr.com)** | **[Lifestyle Intern - Summer](https://jobright.ai/jobs/info/6a4e77bf9469c0662034b644?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | **[Southern Tide](http://www.southerntide.com)** | **[Marketing Fall Intern](https://jobright.ai/jobs/info/6a4e715a15b4965afd5832e3?utm_campaign=1065&utm_source=git)** | Greenville, SC - Southern Tide Headquarters, United States of America | On Site | Jul 08 |
 | **[Texas Oral History Association](https://toha.web.baylor.edu/about)** | **[Student Worker - WHFH Social Media Intern - BC](https://jobright.ai/jobs/info/6a4e7012397d8d353c288d47?utm_campaign=1065&utm_source=git)** | Waco, TX, United States | On Site | Jul 08 |
-| **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a73129c90c607e4d7501?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jul 08 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72d7f3fdd180d4c2aaf?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jul 08 |
+| **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a728ce501060b5ce994c?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jul 08 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a73129c90c607e4d7501?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, US | On Site | Jul 08 |
 | **[PURPLE](https://purplepr.com)** | **[VIP & Influencer Services Intern - Fall](https://jobright.ai/jobs/info/6a4e6def15b4965afd58324b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
 | **[KAPPLER](https://kappler.de)** | **[Marketing Strategy & Social Media Intern](https://jobright.ai/jobs/info/6a4e67710ea38951a6ff2fad?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Kentucky](https://jobright.ai/jobs/info/6a4e66d915b4965afd5830be?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Jul 08 |
