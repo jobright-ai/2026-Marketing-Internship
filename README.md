@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Chatter Buzz](https://www.chatterbuzzmedia.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a3d07f88bfad862bc99bb15?utm_campaign=1065&utm_source=git)** | Orlando, Florida, United States | On Site | Jul 09 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Call Center Marketing Intern](https://jobright.ai/jobs/info/6a4f95b5fc327f422fef5c06?utm_campaign=1065&utm_source=git)** | MVC Orlando Call Center, United States | On Site | Jul 09 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Marketing  (Performance Marketing)](https://jobright.ai/jobs/info/6a34342cce501060b5ceff09?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 09 |
+| **[Eulerity](https://www.eulerity.com)** | **[Digital Marketing Intern - Technical AI & Automation](https://jobright.ai/jobs/info/6a4f8ee34649561ec08ae3b2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
 | **[BODYROK](http://bodyrok.com)** | **[Corporate Marketing and PR Intern - In Person and In Studio Miami, FL](https://jobright.ai/jobs/info/6a4eb1910ea38951a6ff428b?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Jul 09 |
+| **[Chatter Buzz](https://www.chatterbuzzmedia.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a3d07f88bfad862bc99bb15?utm_campaign=1065&utm_source=git)** | Orlando, Florida, United States | On Site | Jul 09 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Strategic Communications Intern](https://jobright.ai/jobs/info/6a4ea9809469c0662034c36e?utm_campaign=1065&utm_source=git)** | Penn State University Park, United States of America | On Site | Jul 09 |
 | **[KOSTAL Group](http://www.kostal.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69deffc8aba61f1417319583?utm_campaign=1065&utm_source=git)** | Troy, OH, United States | On Site | Jul 09 |
 | **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a3e6ba2d261407de980310c?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33bd34f6b55d12c791991f?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 09 |
 | **[Continental](http://www.benecke-kaliko.com)** | **[Intern - Marketing - Bicycle Tire, Year-Round](https://jobright.ai/jobs/info/6a43de5365e80d3c99f2a7dd?utm_campaign=1065&utm_source=git)** | CO-470, Denver, CO, USA | Hybrid | Jul 09 |
+| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Fall 2026 Business Survey Intern](https://jobright.ai/jobs/info/6a32e771910b7349107126fe?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Jul 09 |
 | **[IFF](http://iff.com)** | **[Intern - Marketing & Digital Experience](https://jobright.ai/jobs/info/6a32cd7129c90c607e4d81f2?utm_campaign=1065&utm_source=git)** | Citrus Innovation Ctr FL USA, US | On Site | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop - Brand Campaign) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4f40bcfc327f422fef5345?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 09 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Event Marketing Internship](https://jobright.ai/jobs/info/6a3c1d07882f121f56a3368f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PURPLE](https://purplepr.com)** | **[Lifestyle Intern - Fall](https://jobright.ai/jobs/info/6a4e82770ea38951a6ff3777?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | ↳ | **[Beauty Intern - Fall](https://jobright.ai/jobs/info/6a4e82619469c0662034ba35?utm_campaign=1065&utm_source=git)** | PURPLE New York | On Site | Jul 08 |
 | **[CKL Engineers, LLC](https://ckleng.com/)** | **[Intern - Marketing & Business Development](https://jobright.ai/jobs/info/6a4e8116397d8d353c2893b3?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 08 |
-| **[Compass Group Canada](http://www.compass-canada.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Kentucky](https://jobright.ai/jobs/info/6a4e7f741544d7246c0d30a9?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Jul 08 |
-| ↳ | **[Marketing Intern, Chartwells Higher Ed / Hofstra University](https://jobright.ai/jobs/info/6a4e7f6b0ea38951a6ff3633?utm_campaign=1065&utm_source=git)** | Hempstead, NY, United States | On Site | Jul 08 |
-| **[MountainOne](http://mountainone.com)** | **[Marketing & Community Engagement Intern](https://jobright.ai/jobs/info/6a4ec3e4fc327f422fef4176?utm_campaign=1065&utm_source=git)** | North Adams, MA, United States | On Site | Jul 08 |
-| **[Laradon](https://www.laradon.org/)** | **[Communications & Volunteerism Internship](https://jobright.ai/jobs/info/6a4e7c0b15b4965afd5836f5?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
