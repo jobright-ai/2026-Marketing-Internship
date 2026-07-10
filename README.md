@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Des Moines University Medicine and Health Sciences](http://www.dmu.edu/)** | **[Content Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a50b8d4d5d2a327b664d5eb?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | On Site | Jul 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a50b7bd5165966a1161b411?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 10 |
 | ↳ | **[Category User Growth Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a507640f57ed168c3418d88?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 10 |
 | **[Geotab](http://www.geotab.com/)** | **[Marketing Intern, U.S. (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a3ce1c1882f121f56a35b2e?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 10 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[InSource Solutions Group](http://www.insourcess.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5097f52e2ceb72963b33c1?utm_campaign=1065&utm_source=git)** | Richmond, VA 23235-4700, USA | Remote | Jul 09 |
 | **[WETA](https://weta.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a5097c542c6dc326e8e98f7?utm_campaign=1065&utm_source=git)** | Arlington, VA 22206, USA | On Site | Jul 09 |
 | **[The St. James](https://www.thestjames.com/)** | **[Sports Marketing & Social Media Intern (Spring 2026)  (2029)](https://jobright.ai/jobs/info/6a3c0965982bb239f812e0cc?utm_campaign=1065&utm_source=git)** | Springfield, VA 22151 | On Site | Jul 09 |
+| **[Object](https://www.object.tech)** | **[Marketing - Intern](https://jobright.ai/jobs/info/6a50bdce5165966a1161b779?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4497c5ef17a815538a4530?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
 | **[LSESU Global Brigades Society](https://www.globalbrigades.org/)** | **[Marketing Intern / 2026](https://jobright.ai/jobs/info/6a50a63bd5d2a327b664c88c?utm_campaign=1065&utm_source=git)** | Date, MO, United States | Remote | Jul 09 |
 | **[New Renaissance Art Advisory](https://www.newrenaissanceartadvisory.com/)** | **[Marketing Intern - Public Relations](https://jobright.ai/jobs/info/6a507d9bf41ec61f561b50d7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 09 |
@@ -106,20 +108,20 @@ For a complete list, click the following sortable link below:
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales (Growth) Intern](https://jobright.ai/jobs/info/6a501e60397d8d353c28df50?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 09 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2026 Fall Internship / Frisco Bowl / Marketing & Digital Media](https://jobright.ai/jobs/info/6a3d8b69d261407de9800fb8?utm_campaign=1065&utm_source=git)** | Frisco, TX, United States | On Site | Jul 09 |
 | **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern 2026](https://jobright.ai/jobs/info/6a5017064649561ec08b0394?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 09 |
-| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a654a441713ae84e1e?utm_campaign=1065&utm_source=git)** | US-FL-TAMPA | On Site | Jul 09 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1aa9d96b135014dbc8b39b?utm_campaign=1065&utm_source=git)** | US-NY-SYRACUSE | On Site | Jul 09 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a0abc8f63abac78ee0?utm_campaign=1065&utm_source=git)** | US-NJ-NEW BRUNSWICK | On Site | Jul 09 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern) @ The Bookie WSU Pullman](https://jobright.ai/jobs/info/6a31c76a35e80310003a9540?utm_campaign=1065&utm_source=git)** | PULLMAN, WA, US | On Site | Jul 09 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a29ceac0c4972328e7e5f18?utm_campaign=1065&utm_source=git)** | Fairfield, CT, US | On Site | Jul 09 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877b0dbc80963f93444be?utm_campaign=1065&utm_source=git)** | US-TN-CLARKSVILLE | On Site | Jul 09 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a225b0a8e98cb42c8a835b7?utm_campaign=1065&utm_source=git)** | US-NE-OMAHA | On Site | Jul 09 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a3dbc80963f93444af?utm_campaign=1065&utm_source=git)** | US-FL-FORT LAUDERDALE | On Site | Jul 09 |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1aa9d96b135014dbc8b39b?utm_campaign=1065&utm_source=git)** | US-NY-SYRACUSE | On Site | Jul 09 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a4c2a87d6cd3df17c6?utm_campaign=1065&utm_source=git)** | US-DE-NEWARK | On Site | Jul 09 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a3e9bffd261407de9803a3a?utm_campaign=1065&utm_source=git)** | TAMPA, FL, US | On Site | Jul 09 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a225b0cd1ab07243c7f7ce8?utm_campaign=1065&utm_source=git)** | UNION, NJ, US | On Site | Jul 09 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877afc2a87d6cd3df17d2?utm_campaign=1065&utm_source=git)** | SYRACUSE, NY, US | On Site | Jul 09 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877afc2a87d6cd3df17d3?utm_campaign=1065&utm_source=git)** | US-MD-BALTIMORE | On Site | Jul 09 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a0abc8f63abac78ee0?utm_campaign=1065&utm_source=git)** | US-NJ-NEW BRUNSWICK | On Site | Jul 09 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a357712649fdf16292f91bf?utm_campaign=1065&utm_source=git)** | CLEMSON, SC, US | On Site | Jul 09 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877b0dbc80963f93444be?utm_campaign=1065&utm_source=git)** | US-TN-CLARKSVILLE | On Site | Jul 09 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a3e9bffd261407de9803a3a?utm_campaign=1065&utm_source=git)** | TAMPA, FL, US | On Site | Jul 09 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877afc2a87d6cd3df17d2?utm_campaign=1065&utm_source=git)** | SYRACUSE, NY, US | On Site | Jul 09 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a225b0a8e98cb42c8a835b7?utm_campaign=1065&utm_source=git)** | US-NE-OMAHA | On Site | Jul 09 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877afc2a87d6cd3df17d3?utm_campaign=1065&utm_source=git)** | US-MD-BALTIMORE | On Site | Jul 09 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a654a441713ae84e1e?utm_campaign=1065&utm_source=git)** | US-FL-TAMPA | On Site | Jul 09 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a225b0cd1ab07243c7f7ce8?utm_campaign=1065&utm_source=git)** | UNION, NJ, US | On Site | Jul 09 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern) @ The Bookie WSU Pullman](https://jobright.ai/jobs/info/6a31c76a35e80310003a9540?utm_campaign=1065&utm_source=git)** | PULLMAN, WA, US | On Site | Jul 09 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a1877a3dbc80963f93444af?utm_campaign=1065&utm_source=git)** | US-FL-FORT LAUDERDALE | On Site | Jul 09 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a29ceac0c4972328e7e5f18?utm_campaign=1065&utm_source=git)** | Fairfield, CT, US | On Site | Jul 09 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Call Center Marketing Intern (July 2026 - December 2026 Full Time)](https://jobright.ai/jobs/info/6a4eb91b397d8d353c28a28e?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KVDA Marketing Internship](https://jobright.ai/jobs/info/6a509f89d5d2a327b664c728?utm_campaign=1065&utm_source=git)** | 6234 San Pedro Ave, San Antonio, TEXAS | On Site | Jul 09 |
 | **[Auburn University at Montgomery](http://www.aum.edu/)** | **[Student Marketing Intern](https://jobright.ai/jobs/info/6a500d33397d8d353c28dbd0?utm_campaign=1065&utm_source=git)** | Auburn University, AL, United States | On Site | Jul 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crescendo International](https://crescendointernational.co/)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a4fe7af4649561ec08af76d?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 09 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/6a2975e8c07d4b6ae1c40824?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 09 |
 | **[Mednevo](https://mednevo.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a4fe4eb1544d7246c0d6e82?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 09 |
-| **[TABACALERA USA Inc.](https://www.tabacalerausa.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a4fe21cfc327f422fef6dcf?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 09 |
-| **[The Plug Drink](https://theplugdrink.com/)** | **[TikTok Shop & Live Streaming Internship](https://jobright.ai/jobs/info/6a509f17f08ee8320766aa3e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
