@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a52b54c8576ec69c014d143?utm_campaign=1065&utm_source=git)** | DALLAS, TX, United States | On Site | Jul 11 |
 | **[Musifai](http://musifai.com)** | **[Musifai Summer Marketing Intern](https://jobright.ai/jobs/info/6a52adbc9fbdab22fe13c91f?utm_campaign=1065&utm_source=git)** | New York, NEW YORK | On Site | Jul 11 |
 | **[Liv Hospitality, LLC](http://www.livhotelgroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a52ac40d007ee02d95f891a?utm_campaign=1065&utm_source=git)** | Rapid City, SD, United States | On Site | Jul 11 |
 | **[VIDA & Co.](http://www.shopvida.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a52ab179fbdab22fe13c877?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 11 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Paystand](http://paystand.com)** | **[Marketing Programs Intern](https://jobright.ai/jobs/info/6a453b23c2d11a6a466686c2?utm_campaign=1065&utm_source=git)** | Santa Cruz, California, United States | On Site | Jul 11 |
 | **[Arizona State University](https://global.asu.edu/edson-student-entrepreneur-initiative)** | **[Management Intern - Marketing](https://jobright.ai/jobs/info/6a4fd30b9469c0662034f0c6?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 11 |
 | **[Mid-Ohio Food Collective](http://www.mofc.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a529a5c8ef95364ead8f103?utm_campaign=1065&utm_source=git)** | Grove City, OH, United States | On Site | Jul 11 |
-| **[Todd](https://toddagriscience.com)** | **[Growth Intern](https://jobright.ai/jobs/info/6a529a249fbdab22fe13c426?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 11 |
 | **[PetVet Care Centers](http://www.petvetcarecenters.com/)** | **[Marketing Intern - Hagyard Equine Medical Institute](https://jobright.ai/jobs/info/6a52900cd007ee02d95f824a?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Jul 11 |
 | **[The PAM Firm, Inc](https://thepamfirm.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a528e959fbdab22fe13c1b9?utm_campaign=1065&utm_source=git)** | Long Beach, CA, United States | Remote | Jul 11 |
 | **[Dietch PR](https://www.dietchpr.net)** | **[Social Media and Research Intern](https://jobright.ai/jobs/info/6a528e5fe726ec56126a3977?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 11 |
