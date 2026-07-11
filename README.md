@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walker Sands](https://www.walkersands.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a51f71fae4052672fe9cef8?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 11 |
 | **[Columbus Zoo and Aquarium](https://columbuszoo.org/)** | **[Communications Internship, Summer 2026](https://jobright.ai/jobs/info/6a51eec902522b5b722ed5e8?utm_campaign=1065&utm_source=git)** | Powell, OH, United States | On Site | Jul 11 |
 | **[Flagship Pioneering](http://flagshippioneering.com)** | **[Serif Biomedicines, Market Intelligence and Strategy Internship](https://jobright.ai/jobs/info/6a51ec8fbf63b66c7997ec6f?utm_campaign=1065&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 11 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51ec81ae4052672fe9cc6a?utm_campaign=1065&utm_source=git)** | UNION, NJ, United States | On Site | Jul 11 |
@@ -125,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Email Marketing Manager Intern/Volunteer](https://jobright.ai/jobs/info/6a51b87d78e364789ca5b8e5?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[Relief International](https://www.ri.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a51b5d302522b5b722e9fe0?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 10 |
 | **[Catch 15](http://www.catch15dc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a51b49c02522b5b722e9ef8?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 10 |
-| **[The Sports Facilities Companies](https://sportsfacilities.com)** | **[Multimedia Internship - Virginia Beach Sports Center](https://jobright.ai/jobs/info/6a51d7edbf63b66c7997dc2d?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA, United States | On Site | Jul 10 |
 | **[Attain Sports](https://attainsports.com)** | **[Merchandise Intern](https://jobright.ai/jobs/info/6a51d7f0ae4052672fe9bc13?utm_campaign=1065&utm_source=git)** | Bowie, MD, United States | On Site | Jul 10 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Repeat Marketing: Luxury Events & Content Marketing](https://jobright.ai/jobs/info/6a34342a649fdf16292f49bf?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 10 |
 | **[ERO Resources Corporation](https://www.eroresources.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a35bd7e29c90c607e4e3524?utm_campaign=1065&utm_source=git)** | Lakewood, CO, United States | Hybrid | Jul 10 |
