@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Broken Leg Entertainment](https://brokenleginc.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a52481c8576ec69c014b429?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Jul 11 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/69feb2491161630dd3b0190a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | Jul 11 |
+| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Jul 11 |
 | **[Western Specialty Contractors](http://westernspecialtycontractors.com)** | **[2026 Summer/Autumn Internship Application](https://jobright.ai/jobs/info/6a5243728ef95364ead8d95c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 11 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a523dc68ef95364ead8d80c?utm_campaign=1065&utm_source=git)** | FORT LAUDERDALE, FL, US | On Site | Jul 11 |
 | **[Imperial Textile](http://www.imperialtextile.com/)** | **[e-Mail Marketing Internship](https://jobright.ai/jobs/info/6a523bd39fbdab22fe13aad2?utm_campaign=1065&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Merchandising Operations Intern](https://jobright.ai/jobs/info/6a51e255ae4052672fe9c6ab?utm_campaign=1065&utm_source=git)** | Deerfield, IL, United States | On Site | Jul 10 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Internship - Public Relations](https://jobright.ai/jobs/info/6a51cbf8ae4052672fe9af9d?utm_campaign=1065&utm_source=git)** | Los Angeles Metropolitan Area, United States | On Site | Jul 10 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Columbus](https://jobright.ai/jobs/info/6a51be0a8d7d3e6cf1cc2253?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Jul 10 |
-| **[Peak Retirement Planning, Inc.](https://peakretirementplanning.com/)** | **[Event Coordinator Intern](https://jobright.ai/jobs/info/6a44f31e497c084dcfb5a08d?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Jul 10 |
-| **[Parfums Christian Dior](https://www.dior.com)** | **[Product & Trade Marketing Intern, LATAM](https://jobright.ai/jobs/info/6a51c9a38d7d3e6cf1cc2e8a?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 10 |
-| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51aa5e8d7d3e6cf1cc0d48?utm_campaign=1065&utm_source=git)** | UNION, NJ, US | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
