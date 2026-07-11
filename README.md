@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Brand Operations Project Intern (TikTok LIVE) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3519487f3fdd180d4cc61c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 11 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a520ad38ef95364ead8c912?utm_campaign=1065&utm_source=git)** | ANN ARBOR, MI, US | On Site | Jul 11 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Communications - Earned Media and Communications Strategy](https://jobright.ai/jobs/info/6a520967e726ec56126a1458?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Jul 11 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3ebf89882f121f56a3b28f?utm_campaign=1065&utm_source=git)** | Winter Park, FL, United States | Hybrid | Jul 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rosie’s Gaming and Colonial Downs](http://www.colonialdowns.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a51b8ab57513b72e0c66993?utm_campaign=1065&utm_source=git)** | New Orleans, LA, United States | On Site | Jul 10 |
 | **[World of Dance](http://www.worldofdance.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a51d18357513b72e0c686b0?utm_campaign=1065&utm_source=git)** | Fullerton, CA, United States | On Site | Jul 10 |
 | **[Edison Festival of Light](http://www.edisonfestival.org)** | **[Public Relations Internship](https://jobright.ai/jobs/info/6a51b91478e364789ca5ba47?utm_campaign=1065&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 10 |
-| **[KORELIMITED](http://www.korelimited.com)** | **[Social Media Marketing Internship (Streetwear Fashion Company)](https://jobright.ai/jobs/info/6a51b5998d7d3e6cf1cc1785?utm_campaign=1065&utm_source=git)** | Orange, CA, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
