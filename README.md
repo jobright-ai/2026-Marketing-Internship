@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Marketing and Business Development Intern](https://jobright.ai/jobs/info/6a53a2768576ec69c015062b?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 12 |
+| **[Rossen Law Firm](https://www.rossenlawfirm.com)** | **[Marketing & Content Creator Intern](https://jobright.ai/jobs/info/6a51f8628d7d3e6cf1cc4d46?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Jul 12 |
+| **[Alberti Cabrini](alberticabrini.com)** | **[Brand Assistant Intern](https://jobright.ai/jobs/info/6a539d04c8eb0843027ad16a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 12 |
+| **[Liberin Technologies](https://liberintechnologies.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a5394e19fbdab22fe13fe37?utm_campaign=1065&utm_source=git)** | Mobile Metropolitan Area, United States | On Site | Jul 12 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KVDA Marketing Internship](https://jobright.ai/jobs/info/6a509f89d5d2a327b664c728?utm_campaign=1065&utm_source=git)** | 6234 San Pedro Ave, San Antonio, TEXAS | On Site | Jul 12 |
 | **[STRUT Learning](https://www.learn2strut.com/)** | **[Marketing and Brand Manager](https://jobright.ai/jobs/info/6a538eb09fbdab22fe13fd11?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Remote | Jul 12 |
 | **[Icon Train Smarter](http://icontraining.app)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a538bce9fbdab22fe13fc2d?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 12 |
 | **[dataing](https://www.dataing.io/)** | **[UGC Intern](https://jobright.ai/jobs/info/6a538b5a8a74e077472f8c47?utm_campaign=1065&utm_source=git)** | Los Angeles Metropolitan Area, United States | Remote | Jul 12 |
-| **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a527e1f9fbdab22fe13bcbb?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 12 |
-| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a1d5ab0c2a87d6cd3e0b399?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 12 |
-| **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bb2a863b74eb1e2c899a19?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
+| **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a1d5ab0c2a87d6cd3e0b399?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 12 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a527e1f9fbdab22fe13bcbb?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 12 |
+| **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bc76714828227293fe57e4?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 12 |
+| ↳ | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bb2a863b74eb1e2c899a19?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Jean Martin](https://www.jeanmartin.com/)** | **[Market Research and Business Development Intern](https://jobright.ai/jobs/info/6a5370878576ec69c014fc04?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a537072d007ee02d95fb60b?utm_campaign=1065&utm_source=git)** | DALLAS, TX, United States | On Site | Jul 12 |
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a536fd3e726ec56126a6cc4?utm_campaign=1065&utm_source=git)** | MOBILE, AL, US | On Site | Jul 12 |
@@ -80,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[AMOREPACIFIC](https://ventures.amorepacific.com/index.do)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/6a534fe38a74e077472f7fc0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 12 |
 | **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[SEM and Display Marketing Intern - China](https://jobright.ai/jobs/info/6a534b838576ec69c014f497?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
 | **[WOW Brand](http://wowpayments.com)** | **[Hispanic Bilingual Intern – CAN START ASAP](https://jobright.ai/jobs/info/6a534b6ed007ee02d95fae7f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
-| **[Rossen Law Firm](https://www.rossenlawfirm.com)** | **[Marketing & Content Creator Intern](https://jobright.ai/jobs/info/6a51f8628d7d3e6cf1cc4d46?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Jul 12 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51c3c3ae4052672fe9a772?utm_campaign=1065&utm_source=git)** | SEWANEE, TN, US | On Site | Jul 12 |
 | **[Finanta Inc.](https://www.finanta.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a533ef18a74e077472f7cbf?utm_campaign=1065&utm_source=git)** | Home, KS, United States | Remote | Jul 12 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a533cca9fbdab22fe13ec36?utm_campaign=1065&utm_source=git)** | SEWANEE, TN, United States | On Site | Jul 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waresport](https://www.waresport.com/)** | **[Reddit Marketing Intern](https://jobright.ai/jobs/info/6a5256b4d007ee02d95f7251?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 11 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[SEO & On-line Marketing Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a52566d8a74e077472f424e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a3c94c54d047136e093133c?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 11 |
-| **[Expecting Together](https://www.expectingtogether.com/)** | **[Community Growth Associate/Intern](https://jobright.ai/jobs/info/6a5251cc9fbdab22fe13b07e?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 11 |
-| **[Attain Sports](https://attainsports.com)** | **[Merchandise Intern](https://jobright.ai/jobs/info/6a3fd8b69dd7f954cafe735f?utm_campaign=1065&utm_source=git)** | Frederick, MD, United States | On Site | Jul 11 |
-| **[Computer Comforts, Inc.](https://computercomforts.com/)** | **[Digital Marketing & Content Creation Intern (Paid)](https://jobright.ai/jobs/info/6a525197d007ee02d95f7061?utm_campaign=1065&utm_source=git)** | Kemah, TX, United States | On Site | Jul 11 |
-| **[Sports Force Parks at Cedar Point Sports Center](https://sportsforceparks.com)** | **[Social Media & Guest Services Intern](https://jobright.ai/jobs/info/6a527a658576ec69c014c248?utm_campaign=1065&utm_source=git)** | Sandusky, OH, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
