@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bb2a863b74eb1e2c899a19?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
+| **[Jean Martin](https://www.jeanmartin.com/)** | **[Market Research and Business Development Intern](https://jobright.ai/jobs/info/6a5370878576ec69c014fc04?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a537072d007ee02d95fb60b?utm_campaign=1065&utm_source=git)** | DALLAS, TX, United States | On Site | Jul 12 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a536fd3e726ec56126a6cc4?utm_campaign=1065&utm_source=git)** | MOBILE, AL, US | On Site | Jul 12 |
 | **[Aleysian](https://www.aleysian.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6a5366a0e726ec56126a6ae4?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 12 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a535f15d007ee02d95fb316?utm_campaign=1065&utm_source=git)** | ALBANY, NY, United States | On Site | Jul 12 |
 | **[ZOE INTERNATIONAL](http://GoZOE.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a53557bd007ee02d95fb14d?utm_campaign=1065&utm_source=git)** | Santa Clarita, CA, United States | On Site | Jul 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Intern](https://jobright.ai/jobs/info/69feb2491161630dd3b0190a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | Jul 11 |
 | **[Jonas Software](http://www.jonassoftware.com)** | **[Marketing Intern (Fall & Winter Internship – 8 Months)](https://jobright.ai/jobs/info/6a18908ac2a87d6cd3df2944?utm_campaign=1065&utm_source=git)** | Markham, Ontario, Canada | On Site | Jul 11 |
 | **[Western Specialty Contractors](http://westernspecialtycontractors.com)** | **[2026 Summer/Autumn Internship Application](https://jobright.ai/jobs/info/6a5243728ef95364ead8d95c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 11 |
-| **[Jonas Software](http://www.jonassoftware.com)** | **[Marketing Intern (Fall & Winter Internship – 8 Months)](https://jobright.ai/jobs/info/6a480070971cd25b06f9347c?utm_campaign=1065&utm_source=git)** | Canada - Markham - Ontario, Canada | On Site | Jul 11 |
-| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a523dc68ef95364ead8d80c?utm_campaign=1065&utm_source=git)** | FORT LAUDERDALE, FL, US | On Site | Jul 11 |
-| **[Imperial Textile](http://www.imperialtextile.com/)** | **[e-Mail Marketing Internship](https://jobright.ai/jobs/info/6a523bd39fbdab22fe13aad2?utm_campaign=1065&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 11 |
-| **[Jolkona](http://www.jolkona.org)** | **[Social Media and Communications Intern/Volunteer](https://jobright.ai/jobs/info/6a523a7dd007ee02d95f6a52?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
