@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a527e1f9fbdab22fe13bcbb?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 12 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a1d5ab0c2a87d6cd3e0b399?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 12 |
 | **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bb2a863b74eb1e2c899a19?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Jean Martin](https://www.jeanmartin.com/)** | **[Market Research and Business Development Intern](https://jobright.ai/jobs/info/6a5370878576ec69c014fc04?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a537072d007ee02d95fb60b?utm_campaign=1065&utm_source=git)** | DALLAS, TX, United States | On Site | Jul 12 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Sports Force Parks at Cedar Point Sports Center](https://sportsforceparks.com)** | **[Social Media & Guest Services Intern](https://jobright.ai/jobs/info/6a527a658576ec69c014c248?utm_campaign=1065&utm_source=git)** | Sandusky, OH, United States | On Site | Jul 11 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Spring 2026 - Social Media Internship](https://jobright.ai/jobs/info/6a524ec9e726ec56126a2793?utm_campaign=1065&utm_source=git)** | Aberdeen, MD, United States | On Site | Jul 11 |
 | **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[SEM and Display Marketing Intern - Portugal](https://jobright.ai/jobs/info/6a524e968a74e077472f3fb6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 11 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Jul 11 |
-| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/69feb2491161630dd3b0190a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | Jul 11 |
-| **[Jonas Software](http://www.jonassoftware.com)** | **[Marketing Intern (Fall & Winter Internship – 8 Months)](https://jobright.ai/jobs/info/6a18908ac2a87d6cd3df2944?utm_campaign=1065&utm_source=git)** | Markham, Ontario, Canada | On Site | Jul 11 |
-| **[Western Specialty Contractors](http://westernspecialtycontractors.com)** | **[2026 Summer/Autumn Internship Application](https://jobright.ai/jobs/info/6a5243728ef95364ead8d95c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 11 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/69feb2491161630dd3b0190a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | Jul 11 |
+| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
