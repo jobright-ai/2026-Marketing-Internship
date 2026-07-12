@@ -77,10 +77,9 @@ For a complete list, click the following sortable link below:
 | **[Liberin Technologies](https://liberintechnologies.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a5394e19fbdab22fe13fe37?utm_campaign=1065&utm_source=git)** | Mobile Metropolitan Area, United States | On Site | Jul 12 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KVDA Marketing Internship](https://jobright.ai/jobs/info/6a509f89d5d2a327b664c728?utm_campaign=1065&utm_source=git)** | 6234 San Pedro Ave, San Antonio, TEXAS | On Site | Jul 12 |
 | **[STRUT Learning](https://www.learn2strut.com/)** | **[Marketing and Brand Manager](https://jobright.ai/jobs/info/6a538eb09fbdab22fe13fd11?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Remote | Jul 12 |
-| **[Icon Train Smarter](http://icontraining.app)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a538bce9fbdab22fe13fc2d?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 12 |
 | **[dataing](https://www.dataing.io/)** | **[UGC Intern](https://jobright.ai/jobs/info/6a538b5a8a74e077472f8c47?utm_campaign=1065&utm_source=git)** | Los Angeles Metropolitan Area, United States | Remote | Jul 12 |
-| **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a1d5ab0c2a87d6cd3e0b399?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 12 |
-| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a527e1f9fbdab22fe13bcbb?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 12 |
+| **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a527e1f9fbdab22fe13bcbb?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 12 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a1d5ab0c2a87d6cd3e0b399?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 12 |
 | **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bc76714828227293fe57e4?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 12 |
 | ↳ | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bb2a863b74eb1e2c899a19?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Jean Martin](https://www.jeanmartin.com/)** | **[Market Research and Business Development Intern](https://jobright.ai/jobs/info/6a5370878576ec69c014fc04?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51ec81ae4052672fe9cc6a?utm_campaign=1065&utm_source=git)** | UNION, NJ, US | On Site | Jul 11 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Dairy Cattle Marketing Intern](https://jobright.ai/jobs/info/66c5c7980b7d57d04a94d286?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 11 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Marketing Intern- OVO SOUND](https://jobright.ai/jobs/info/6a527d0a8576ec69c014c2b5?utm_campaign=1065&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jul 11 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Marketing and Business Development Intern](https://jobright.ai/jobs/info/6a527b508576ec69c014c26e?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
