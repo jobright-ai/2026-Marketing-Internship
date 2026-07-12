@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[White Management Restaurant Group](http://www.whiterestaurants.com)** | **[Capital Trail Alliance Intern - Marketing/Social Media](https://jobright.ai/jobs/info/6a53fe7bc8eb0843027ae6ef?utm_campaign=1065&utm_source=git)** | Albany, NY, United States | Remote | Jul 12 |
+| **[Torentify](https://torentify.com/)** | **[Marketing & Content Creator Intern](https://jobright.ai/jobs/info/6a53fa718576ec69c0151980?utm_campaign=1065&utm_source=git)** | Boca Raton, FL, United States | On Site | Jul 12 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a53f3ad8576ec69c01517c2?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 12 |
 | **[Atlanta Council on International Relations](http://atlantacir.org)** | **[Social Media Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a53efd3e726ec56126a8837?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 12 |
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a53e88b8a74e077472fa062?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jul 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Liv Hospitality, LLC](http://www.livhotelgroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a52ac40d007ee02d95f891a?utm_campaign=1065&utm_source=git)** | Rapid City, SD, United States | On Site | Jul 11 |
 | **[VIDA & Co.](http://www.shopvida.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a52ab179fbdab22fe13c877?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 11 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a52aab9d007ee02d95f889e?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
-| **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[Viral Marketing Internship](https://jobright.ai/jobs/info/6a52aa0de726ec56126a4016?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
-| **[Mota Group, Inc](http://www.mota.com)** | **[Marketing Intern for MOTA](https://jobright.ai/jobs/info/6a52a9e4e726ec56126a4007?utm_campaign=1065&utm_source=git)** | 250 Santa Ana Court, Sunnyvale, CA, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
