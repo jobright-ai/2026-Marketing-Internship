@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McWane](http://www.mcwanepoles.com/)** | **[MHV Marketing Intern](https://jobright.ai/jobs/info/6a53c966c8eb0843027adbe6?utm_campaign=1065&utm_source=git)** | Anniston, AL, United States | On Site | Jul 12 |
+| **[Ward Home, Inc.](http://www.wardhome.org)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/6a53c37de726ec56126a7e51?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Global Brand and Communications Project Intern (Brand and Creative) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4131bd1afc66714d3ca9ae?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
+| **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Outreach Communications](https://jobright.ai/jobs/info/6a53bd9de726ec56126a7ce6?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 12 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Marketing Internship](https://jobright.ai/jobs/info/6a3c5546882f121f56a34665?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[Waresport](https://www.waresport.com/)** | **[Reddit Intern (Remote)](https://jobright.ai/jobs/info/6a53bc02d007ee02d95fc539?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Florida Panthers](http://floridapanthers.com)** | **[Seasonal Communications Intern](https://jobright.ai/jobs/info/6a4501f851d0d05163ccca20?utm_campaign=1065&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | Jul 12 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Zen Media](http://Zenmedia.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a53a73c8576ec69c0150792?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Jul 12 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Marketing and Business Development Intern](https://jobright.ai/jobs/info/6a53a2768576ec69c015062b?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 12 |
 | **[Rossen Law Firm](https://www.rossenlawfirm.com)** | **[Marketing & Content Creator Intern](https://jobright.ai/jobs/info/6a51f8628d7d3e6cf1cc4d46?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Jul 12 |
-| **[Alberti Cabrini](alberticabrini.com)** | **[Brand Assistant Intern](https://jobright.ai/jobs/info/6a539d04c8eb0843027ad16a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 12 |
 | **[Liberin Technologies](https://liberintechnologies.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a5394e19fbdab22fe13fe37?utm_campaign=1065&utm_source=git)** | Mobile Metropolitan Area, United States | On Site | Jul 12 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KVDA Marketing Internship](https://jobright.ai/jobs/info/6a509f89d5d2a327b664c728?utm_campaign=1065&utm_source=git)** | 6234 San Pedro Ave, San Antonio, TEXAS | On Site | Jul 12 |
 | **[STRUT Learning](https://www.learn2strut.com/)** | **[Marketing and Brand Manager](https://jobright.ai/jobs/info/6a538eb09fbdab22fe13fd11?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Remote | Jul 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51ec81ae4052672fe9cc6a?utm_campaign=1065&utm_source=git)** | UNION, NJ, US | On Site | Jul 11 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Dairy Cattle Marketing Intern](https://jobright.ai/jobs/info/66c5c7980b7d57d04a94d286?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 11 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Marketing Intern- OVO SOUND](https://jobright.ai/jobs/info/6a527d0a8576ec69c014c2b5?utm_campaign=1065&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jul 11 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Marketing and Business Development Intern](https://jobright.ai/jobs/info/6a527b508576ec69c014c26e?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
-| **[Edison Festival of Light](http://www.edisonfestival.org)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6a527279e726ec56126a31c6?utm_campaign=1065&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Marketing Program Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a52701ae726ec56126a3086?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
