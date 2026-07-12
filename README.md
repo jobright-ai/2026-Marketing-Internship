@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a53f3ad8576ec69c01517c2?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 12 |
+| **[Atlanta Council on International Relations](http://atlantacir.org)** | **[Social Media Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a53efd3e726ec56126a8837?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 12 |
+| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a53e88b8a74e077472fa062?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jul 12 |
 | **[Codexa Labs Private Limited](https://codexalabs.io/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a53e726e726ec56126a8717?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Seattle Eastside](https://jobright.ai/jobs/info/6a53e54a8576ec69c01515b5?utm_campaign=1065&utm_source=git)** | East Seattle, WA, United States | On Site | Jul 12 |
 | **[Frenzy](https://usefrenzy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a53e481d007ee02d95fcf96?utm_campaign=1065&utm_source=git)** | Washington DC-Baltimore Area, United States | Remote | Jul 12 |
@@ -74,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Global Brand and Communications Project Intern (Brand and Creative) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4131bd1afc66714d3ca9ae?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Outreach Communications](https://jobright.ai/jobs/info/6a53bd9de726ec56126a7ce6?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 12 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Marketing Internship](https://jobright.ai/jobs/info/6a3c5546882f121f56a34665?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
-| **[Waresport](https://www.waresport.com/)** | **[Reddit Intern (Remote)](https://jobright.ai/jobs/info/6a53bc02d007ee02d95fc539?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Florida Panthers](http://floridapanthers.com)** | **[Seasonal Communications Intern](https://jobright.ai/jobs/info/6a4501f851d0d05163ccca20?utm_campaign=1065&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | Jul 12 |
 | **[Cadence](https://www.cadence.care)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a53adba8a74e077472f93ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Vinci Games](https://www.blacktophoopsvr.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a53a94b8a74e077472f9303?utm_campaign=1065&utm_source=git)** | Berkeley, CA, United States | Remote | Jul 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a52aab9d007ee02d95f889e?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
 | **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[Viral Marketing Internship](https://jobright.ai/jobs/info/6a52aa0de726ec56126a4016?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[Mota Group, Inc](http://www.mota.com)** | **[Marketing Intern for MOTA](https://jobright.ai/jobs/info/6a52a9e4e726ec56126a4007?utm_campaign=1065&utm_source=git)** | 250 Santa Ana Court, Sunnyvale, CA, United States | On Site | Jul 11 |
-| **[Paystand](http://paystand.com)** | **[Marketing Programs Intern](https://jobright.ai/jobs/info/6a453b23c2d11a6a466686c2?utm_campaign=1065&utm_source=git)** | Santa Cruz, California, United States | On Site | Jul 11 |
-| **[PetVet Care Centers](http://www.petvetcarecenters.com/)** | **[Marketing Intern - Hagyard Equine Medical Institute](https://jobright.ai/jobs/info/6a52900cd007ee02d95f824a?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
