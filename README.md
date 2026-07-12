@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Marketing Internship](https://jobright.ai/jobs/info/6a3c5546882f121f56a34665?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
+| **[Waresport](https://www.waresport.com/)** | **[Reddit Intern (Remote)](https://jobright.ai/jobs/info/6a53bc02d007ee02d95fc539?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
+| **[Florida Panthers](http://floridapanthers.com)** | **[Seasonal Communications Intern](https://jobright.ai/jobs/info/6a4501f851d0d05163ccca20?utm_campaign=1065&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | Jul 12 |
+| **[Cadence](https://www.cadence.care)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a53adba8a74e077472f93ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Vinci Games](https://www.blacktophoopsvr.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a53a94b8a74e077472f9303?utm_campaign=1065&utm_source=git)** | Berkeley, CA, United States | Remote | Jul 12 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Brand Internship](https://jobright.ai/jobs/info/6a53a841d007ee02d95fc1c4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a53a83ac8eb0843027ad4a6?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Marketing and Business Development Intern](https://jobright.ai/jobs/info/6a527b508576ec69c014c26e?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
 | **[Edison Festival of Light](http://www.edisonfestival.org)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6a527279e726ec56126a31c6?utm_campaign=1065&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Marketing Program Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a52701ae726ec56126a3086?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 11 |
-| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a526c308576ec69c014bd7a?utm_campaign=1065&utm_source=git)** | ORLANDO, FL, United States | On Site | Jul 11 |
-| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a526c209fbdab22fe13b74e?utm_campaign=1065&utm_source=git)** | CHAPEL HILL, NC, US | On Site | Jul 11 |
-| **[Electro](electrogum.com)** | **[Athlete Partnerships & Marketing Intern](https://jobright.ai/jobs/info/6a5284f48ef95364ead8eb2e?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Jul 11 |
-| **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Stagiaire marketing de la restauration – 6 mois à partir de janvier 2027 (H/F/D)](https://jobright.ai/jobs/info/6a3653e4649fdf16292fb2fd?utm_campaign=1065&utm_source=git)** | La Malbaie, Quebec, Canada | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
