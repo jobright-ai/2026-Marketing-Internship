@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vinci Games](https://www.blacktophoopsvr.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a53a94b8a74e077472f9303?utm_campaign=1065&utm_source=git)** | Berkeley, CA, United States | Remote | Jul 12 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Brand Internship](https://jobright.ai/jobs/info/6a53a841d007ee02d95fc1c4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a53a83ac8eb0843027ad4a6?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a53a837c8eb0843027ad4a3?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Jul 12 |
+| **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a53a755d007ee02d95fc18b?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Jul 12 |
+| **[Nvelup Consulting](https://www.nvelupconsulting.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a53a74f8576ec69c015079f?utm_campaign=1065&utm_source=git)** | Bothell, WA, United States | Remote | Jul 12 |
+| **[Zen Media](http://Zenmedia.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a53a73c8576ec69c0150792?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Jul 12 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Marketing and Business Development Intern](https://jobright.ai/jobs/info/6a53a2768576ec69c015062b?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 12 |
 | **[Rossen Law Firm](https://www.rossenlawfirm.com)** | **[Marketing & Content Creator Intern](https://jobright.ai/jobs/info/6a51f8628d7d3e6cf1cc4d46?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Jul 12 |
 | **[Alberti Cabrini](alberticabrini.com)** | **[Brand Assistant Intern](https://jobright.ai/jobs/info/6a539d04c8eb0843027ad16a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a526c209fbdab22fe13b74e?utm_campaign=1065&utm_source=git)** | CHAPEL HILL, NC, US | On Site | Jul 11 |
 | **[Electro](electrogum.com)** | **[Athlete Partnerships & Marketing Intern](https://jobright.ai/jobs/info/6a5284f48ef95364ead8eb2e?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Jul 11 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Stagiaire marketing de la restauration – 6 mois à partir de janvier 2027 (H/F/D)](https://jobright.ai/jobs/info/6a3653e4649fdf16292fb2fd?utm_campaign=1065&utm_source=git)** | La Malbaie, Quebec, Canada | On Site | Jul 11 |
-| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18b0ab17492d3a389b8db8?utm_campaign=1065&utm_source=git)** | Wisconsin, United States | Hybrid | Jul 11 |
-| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Marketing & Communications-Remote in Cleveland or Northeast Ohio area](https://jobright.ai/jobs/info/6a32ba9fce501060b5ce9f3e?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | Remote | Jul 11 |
-| **[Isuzu North America](http://www.isuzu.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3966baf6b55d12c7927cc9?utm_campaign=1065&utm_source=git)** | Plymouth - Plymouth, MI 48170, United States | On Site | Jul 11 |
-| **[Palmetto Sitework Services](http://palmettositeworkservices.com/)** | **[Content Creator / Marketing Intern](https://jobright.ai/jobs/info/6a5256c98ef95364ead8df16?utm_campaign=1065&utm_source=git)** | North Charleston, SC 29418 | On Site | Jul 11 |
-| **[Waresport](https://www.waresport.com/)** | **[Reddit Marketing Intern](https://jobright.ai/jobs/info/6a5256b4d007ee02d95f7251?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 11 |
-| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[SEO & On-line Marketing Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a52566d8a74e077472f424e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a3c94c54d047136e093133c?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
