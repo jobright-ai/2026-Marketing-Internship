@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aleysian](https://www.aleysian.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6a5366a0e726ec56126a6ae4?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 12 |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a535f15d007ee02d95fb316?utm_campaign=1065&utm_source=git)** | ALBANY, NY, United States | On Site | Jul 12 |
 | **[ZOE INTERNATIONAL](http://GoZOE.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a53557bd007ee02d95fb14d?utm_campaign=1065&utm_source=git)** | Santa Clarita, CA, United States | On Site | Jul 12 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Volunteer/Intern: Building Campaign Specialist](https://jobright.ai/jobs/info/6a53532ce726ec56126a6769?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 12 |
 | **[Bognor Regis Swimming Club](http://brsc.co.uk/)** | **[Political Campaigns Intern (Fall)](https://jobright.ai/jobs/info/6a53532c9fbdab22fe13f0a0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
@@ -147,14 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Sports Force Parks at Cedar Point Sports Center](https://sportsforceparks.com)** | **[Social Media & Guest Services Intern](https://jobright.ai/jobs/info/6a527a658576ec69c014c248?utm_campaign=1065&utm_source=git)** | Sandusky, OH, United States | On Site | Jul 11 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Spring 2026 - Social Media Internship](https://jobright.ai/jobs/info/6a524ec9e726ec56126a2793?utm_campaign=1065&utm_source=git)** | Aberdeen, MD, United States | On Site | Jul 11 |
 | **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[SEM and Display Marketing Intern - Portugal](https://jobright.ai/jobs/info/6a524e968a74e077472f3fb6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 11 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/69feb2491161630dd3b0190a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | Jul 11 |
-| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Jul 11 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Jul 11 |
+| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/69feb2491161630dd3b0190a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | Jul 11 |
 | **[Jonas Software](http://www.jonassoftware.com)** | **[Marketing Intern (Fall & Winter Internship – 8 Months)](https://jobright.ai/jobs/info/6a18908ac2a87d6cd3df2944?utm_campaign=1065&utm_source=git)** | Markham, Ontario, Canada | On Site | Jul 11 |
 | **[Western Specialty Contractors](http://westernspecialtycontractors.com)** | **[2026 Summer/Autumn Internship Application](https://jobright.ai/jobs/info/6a5243728ef95364ead8d95c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 11 |
 | **[Jonas Software](http://www.jonassoftware.com)** | **[Marketing Intern (Fall & Winter Internship – 8 Months)](https://jobright.ai/jobs/info/6a480070971cd25b06f9347c?utm_campaign=1065&utm_source=git)** | Canada - Markham - Ontario, Canada | On Site | Jul 11 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a523dc68ef95364ead8d80c?utm_campaign=1065&utm_source=git)** | FORT LAUDERDALE, FL, US | On Site | Jul 11 |
 | **[Imperial Textile](http://www.imperialtextile.com/)** | **[e-Mail Marketing Internship](https://jobright.ai/jobs/info/6a523bd39fbdab22fe13aad2?utm_campaign=1065&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 11 |
 | **[Jolkona](http://www.jolkona.org)** | **[Social Media and Communications Intern/Volunteer](https://jobright.ai/jobs/info/6a523a7dd007ee02d95f6a52?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 11 |
-| **[NGIN Workplace](http://www.nginworkplace.com/)** | **[Marketing & Events Coordinator Internship](https://jobright.ai/jobs/info/6a523a368ef95364ead8d6ad?utm_campaign=1065&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 11 |
-| **[Akola](https://akola.co)** | **[Fall Internship: Marketing](https://jobright.ai/jobs/info/6a523a1f9fbdab22fe13a9fe?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
