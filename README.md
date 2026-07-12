@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Richmond](https://jobright.ai/jobs/info/6a5312368576ec69c014e7cc?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | On Site | Jul 11 |
+| ↳ | **[Community Intern, Salt Lake City](https://jobright.ai/jobs/info/6a53122fd007ee02d95fa1af?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 11 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Employer Brand Intern (September to December)](https://jobright.ai/jobs/info/6a5310a19fbdab22fe13e192?utm_campaign=1065&utm_source=git)** | Needham, MA, United States | Hybrid | Jul 11 |
+| **[Rise8](https://rise8.us/)** | **[SkillBridge Intern - Growth](https://jobright.ai/jobs/info/6a530c0ee726ec56126a57a4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Ozarks Regional YMCA](https://www.orymca.org/)** | **[Marketing & Communications Fall Semester Intern- Springfield, MO](https://jobright.ai/jobs/info/6a3576ce29c90c607e4e256c?utm_campaign=1065&utm_source=git)** | Springfield, MO 65806, USA | On Site | Jul 11 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[SEO SPECIALIST/ON-LINE MARKETING SPECIALIST INTERNSHIP](https://jobright.ai/jobs/info/6a52fea28576ec69c014e41c?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Campaign Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a52fd038ef95364ead909a2?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Jul 11 |
@@ -112,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Sports Force Parks at Cedar Point Sports Center](https://sportsforceparks.com)** | **[Social Media & Guest Services Intern](https://jobright.ai/jobs/info/6a527a658576ec69c014c248?utm_campaign=1065&utm_source=git)** | Sandusky, OH, United States | On Site | Jul 11 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Spring 2026 - Social Media Internship](https://jobright.ai/jobs/info/6a524ec9e726ec56126a2793?utm_campaign=1065&utm_source=git)** | Aberdeen, MD, United States | On Site | Jul 11 |
 | **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[SEM and Display Marketing Intern - Portugal](https://jobright.ai/jobs/info/6a524e968a74e077472f3fb6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 11 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Jul 11 |
-| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/69feb2491161630dd3b0190a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | Jul 11 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/69feb2491161630dd3b0190a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, US | On Site | Jul 11 |
+| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Jul 11 |
 | **[Western Specialty Contractors](http://westernspecialtycontractors.com)** | **[2026 Summer/Autumn Internship Application](https://jobright.ai/jobs/info/6a5243728ef95364ead8d95c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 11 |
 | **[Jonas Software](http://www.jonassoftware.com)** | **[Marketing Intern (Fall & Winter Internship – 8 Months)](https://jobright.ai/jobs/info/6a480070971cd25b06f9347c?utm_campaign=1065&utm_source=git)** | Canada - Markham - Ontario, Canada | On Site | Jul 11 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a523dc68ef95364ead8d80c?utm_campaign=1065&utm_source=git)** | FORT LAUDERDALE, FL, US | On Site | Jul 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Implicit](http://www.agolo.com)** | **[Marketing Analyst / Intern (Part-Time)](https://jobright.ai/jobs/info/6a51fa51bf63b66c7997f001?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Rossen Law Firm](https://www.rossenlawfirm.com)** | **[Marketing & Content Creator Intern](https://jobright.ai/jobs/info/6a51f8628d7d3e6cf1cc4d46?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Jul 11 |
 | **[Walker Sands](https://www.walkersands.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a51f71fae4052672fe9cef8?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 11 |
-| **[Columbus Zoo and Aquarium](https://columbuszoo.org/)** | **[Communications Internship, Summer 2026](https://jobright.ai/jobs/info/6a51eec902522b5b722ed5e8?utm_campaign=1065&utm_source=git)** | Powell, OH, United States | On Site | Jul 11 |
-| **[Flagship Pioneering](http://flagshippioneering.com)** | **[Serif Biomedicines, Market Intelligence and Strategy Internship](https://jobright.ai/jobs/info/6a51ec8fbf63b66c7997ec6f?utm_campaign=1065&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 11 |
-| **[Regrade](regradeapp.tech)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/6a5281778ef95364ead8ea80?utm_campaign=1065&utm_source=git)** | Pleasant Hill, CA, United States | On Site | Jul 10 |
-| **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[Social Media Intern - Spring 2019](https://jobright.ai/jobs/info/6a51e6a478e364789ca5e94c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
