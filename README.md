@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-The Woodlands, TX or immediate surrounding area](https://jobright.ai/jobs/info/6a305b6c524fd5657fe10616?utm_campaign=1065&utm_source=git)** | Spring, TX, United States | Hybrid | Jul 12 |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern) @ The Bookie WSU Pullman](https://jobright.ai/jobs/info/6a541f1cd007ee02d95fdc9b?utm_campaign=1065&utm_source=git)** | PULLMAN, WA, US | On Site | Jul 12 |
+| **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a41621d1afc66714d3cabc8?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 12 |
+| **[Jean Martin](https://www.jeanmartin.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a541939c8eb0843027aecfd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
+| **[Southwestern Healthcare](https://www.southwestern.org)** | **[Marketing/Public Relations Spring 2027 Internship](https://jobright.ai/jobs/info/6a541925d007ee02d95fdb6e?utm_campaign=1065&utm_source=git)** | Spear - Healthcare - Evansville, IN 47713 | On Site | Jul 12 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Fashion and Marketing Copywriter Internship](https://jobright.ai/jobs/info/6a5417b1e726ec56126a91ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
+| **[HiWave](https://shop.hiwave.co)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a5416fad007ee02d95fda29?utm_campaign=1065&utm_source=git)** | 39 W 44th St, New York, NY 10036, USA | Remote | Jul 12 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a5408cac8eb0843027ae89c?utm_campaign=1065&utm_source=git)** | FORT LAUDERDALE, FL, US | On Site | Jul 12 |
 | **[Park 6 Logistics](https://elevation.ac)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a54061d8576ec69c0151c18?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 12 |
 | **[Emmanuel Environmental Services, LLC](www.emmanuelmanagement.com)** | **[Public Relations Communications Intern](https://jobright.ai/jobs/info/6a5405d08ef95364ead942ac?utm_campaign=1065&utm_source=git)** | Dallas-Fort Worth Metroplex, United States | Remote | Jul 12 |
@@ -98,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Liberin Technologies](https://liberintechnologies.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a5394e19fbdab22fe13fe37?utm_campaign=1065&utm_source=git)** | Mobile Metropolitan Area, United States | On Site | Jul 12 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KVDA Marketing Internship](https://jobright.ai/jobs/info/6a509f89d5d2a327b664c728?utm_campaign=1065&utm_source=git)** | 6234 San Pedro Ave, San Antonio, TEXAS | On Site | Jul 12 |
 | **[STRUT Learning](https://www.learn2strut.com/)** | **[Marketing and Brand Manager](https://jobright.ai/jobs/info/6a538eb09fbdab22fe13fd11?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Remote | Jul 12 |
-| **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a527e1f9fbdab22fe13bcbb?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 12 |
-| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a1d5ab0c2a87d6cd3e0b399?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 12 |
+| **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a1d5ab0c2a87d6cd3e0b399?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 12 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a527e1f9fbdab22fe13bcbb?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 12 |
 | **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bc76714828227293fe57e4?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 12 |
 | ↳ | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bb2a863b74eb1e2c899a19?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Jean Martin](https://www.jeanmartin.com/)** | **[Market Research and Business Development Intern](https://jobright.ai/jobs/info/6a5370878576ec69c014fc04?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Ski & Snowboard Team](https://www.usskiandsnowboard.org/)** | **[Intern, Partner Events & Hospitality](https://jobright.ai/jobs/info/6a51c4f68d7d3e6cf1cc29d4?utm_campaign=1065&utm_source=git)** | Park City, UT, United States | On Site | Jul 11 |
 | **[Safari AI](https://www.getsafari.ai)** | **[MBA Intern (Spring and/or Summer '26)](https://jobright.ai/jobs/info/6a52e1f1e726ec56126a4e67?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 11 |
 | **[The Publisher Desk](http://www.publisherdesk.com/)** | **[Editorial Internship](https://jobright.ai/jobs/info/6a52dfde8576ec69c014dc97?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 11 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, Cincinnati](https://jobright.ai/jobs/info/6a52df74d007ee02d95f962c?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 11 |
-| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Healthy Living-Remote](https://jobright.ai/jobs/info/6a3bf14d8bfad862bc998648?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 11 |
-| **[Covenant Metabolic Specialists](https://mycms.health)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a52ddd8e726ec56126a4d14?utm_campaign=1065&utm_source=git)** | Sarasota, FL, United States | On Site | Jul 11 |
-| **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a52db5ae726ec56126a4c55?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 11 |
-| **[BMTECH GROUP (BMTG)](https://www.bmtechgroup.com)** | **[Marketing Intern - Bilingual (English/Spanish)](https://jobright.ai/jobs/info/6a52c8188576ec69c014d73c?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Jul 11 |
-| **[Liberated People](http://www.weareliberated.com)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6a52c6bce726ec56126a47bd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 11 |
-| **[4theweb](https://4theweb.com/)** | **[Internship](https://jobright.ai/jobs/info/6a52c144e726ec56126a4526?utm_campaign=1065&utm_source=git)** | Littleton, CO, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
