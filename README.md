@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMOREPACIFIC](https://ventures.amorepacific.com/index.do)** | **[Innisfree Social Media Intern](https://jobright.ai/jobs/info/6a542693c8eb0843027aeee8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Development & Community Events-The Woodlands, TX or immediate surrounding area](https://jobright.ai/jobs/info/6a305b6c524fd5657fe10616?utm_campaign=1065&utm_source=git)** | Spring, TX, United States | Hybrid | Jul 12 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern) @ The Bookie WSU Pullman](https://jobright.ai/jobs/info/6a541f1cd007ee02d95fdc9b?utm_campaign=1065&utm_source=git)** | PULLMAN, WA, US | On Site | Jul 12 |
 | **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a41621d1afc66714d3cabc8?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 12 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a53e88b8a74e077472fa062?utm_campaign=1065&utm_source=git)** | 2240 SW 71st Ter, Davie, FL 33317, USA | On Site | Jul 12 |
 | **[Codexa Labs Private Limited](https://codexalabs.io/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a53e726e726ec56126a8717?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Seattle Eastside](https://jobright.ai/jobs/info/6a53e54a8576ec69c01515b5?utm_campaign=1065&utm_source=git)** | East Seattle, WA, United States | On Site | Jul 12 |
-| **[Frenzy](https://usefrenzy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a53e481d007ee02d95fcf96?utm_campaign=1065&utm_source=git)** | Washington DC-Baltimore Area, United States | Remote | Jul 12 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a535f15d007ee02d95fb316?utm_campaign=1065&utm_source=git)** | ALBANY, NY, US | On Site | Jul 12 |
 | **[LogistiQ](https://logistiqsolutions.com)** | **[Intern Marketing/Sales](https://jobright.ai/jobs/info/6a53e19dd007ee02d95fceea?utm_campaign=1065&utm_source=git)** | Port Clinton, OH, United States | On Site | Jul 12 |
 | **[Enzymedica](http://enzymedica.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a53e0488576ec69c01514aa?utm_campaign=1065&utm_source=git)** | Venice, FL, United States | On Site | Jul 12 |
