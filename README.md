@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susan G. Komen](http://www.komen.org)** | **[Fundraising Intern NC](https://jobright.ai/jobs/info/6a509d45ddd293054ccaa4c2?utm_campaign=1065&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jul 13 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Content Marketing Manager](https://jobright.ai/jobs/info/6a54c111235a034d05ee6e1c?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | **[TrueBridge Capital Partners](http://www.truebridgecapital.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a54b8e1ae2d5b1c5604e72f?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC, United States | Hybrid | Jul 13 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a54abb585072f1a8a251572?utm_campaign=1065&utm_source=git)** | SAN ANTONIO, TX, United States | On Site | Jul 13 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Group University, Dealer Engagement & Experience Intern](https://jobright.ai/jobs/info/6a54a7078ef95364ead96414?utm_campaign=1065&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Jul 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aleysian](https://www.aleysian.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6a5366a0e726ec56126a6ae4?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 12 |
 | **[ZOE INTERNATIONAL](http://GoZOE.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a53557bd007ee02d95fb14d?utm_campaign=1065&utm_source=git)** | Santa Clarita, CA, United States | On Site | Jul 12 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Volunteer/Intern: Building Campaign Specialist](https://jobright.ai/jobs/info/6a53532ce726ec56126a6769?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 12 |
-| **[Bognor Regis Swimming Club](http://brsc.co.uk/)** | **[Political Campaigns Intern (Fall)](https://jobright.ai/jobs/info/6a53532c9fbdab22fe13f0a0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[SEO SPECIALIST/ON-LINE MARKETING SPECIALIST INTERNSHIP](https://jobright.ai/jobs/info/6a5352dee726ec56126a675f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
