@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Marketing & Communications-Remote in Cleveland or Northeast Ohio area](https://jobright.ai/jobs/info/6a32ba9fce501060b5ce9f3e?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | Remote | Jul 12 |
+| **[NetEase Games](https://www.neteasegames.com)** | **[Social Media Content Marketing Intern](https://jobright.ai/jobs/info/6a51cec702522b5b722ebd05?utm_campaign=1065&utm_source=git)** | United States-Remote | Remote | Jul 12 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Greater Toronto Area (GTA)](https://jobright.ai/jobs/info/6a545363d007ee02d95fe710?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, ON, Canada | On Site | Jul 12 |
 | **[Unlok](www.unlok.com)** | **[Market Intelligence Analyst (AI/Quant Research) - NYC](https://jobright.ai/jobs/info/6a545355e726ec56126a9e49?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jul 12 |
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Roanoke (59932)](https://jobright.ai/jobs/info/6a5451e4d007ee02d95fe6a7?utm_campaign=1065&utm_source=git)** | Winston Salem, NC, United States | On Site | Jul 12 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[HiWave](https://shop.hiwave.co)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a5416fad007ee02d95fda29?utm_campaign=1065&utm_source=git)** | 39 W 44th St, New York, NY 10036, USA | Remote | Jul 12 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a5408cac8eb0843027ae89c?utm_campaign=1065&utm_source=git)** | FORT LAUDERDALE, FL, US | On Site | Jul 12 |
 | **[Park 6 Logistics](https://elevation.ac)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a54061d8576ec69c0151c18?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 12 |
-| **[Emmanuel Environmental Services, LLC](www.emmanuelmanagement.com)** | **[Public Relations Communications Intern](https://jobright.ai/jobs/info/6a5405d08ef95364ead942ac?utm_campaign=1065&utm_source=git)** | Dallas-Fort Worth Metroplex, United States | Remote | Jul 12 |
 | **[Domaine des Etangs, Auberge Collection](https://domainedesetangs.com)** | **[Brand Social Media Intern](https://jobright.ai/jobs/info/6a54053d8ef95364ead9429f?utm_campaign=1065&utm_source=git)** | 895 Broadway, New York, NY 10003, USA | Remote | Jul 12 |
 | **[Zipline](https://www.zipline.com/)** | **[Community Engagement Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5405258ef95364ead9429a?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 12 |
 | **[White Management Restaurant Group](http://www.whiterestaurants.com)** | **[Capital Trail Alliance Intern - Marketing/Social Media](https://jobright.ai/jobs/info/6a53fe7bc8eb0843027ae6ef?utm_campaign=1065&utm_source=git)** | Albany, NY, United States | Remote | Jul 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WHYY](http://whyy.org/)** | **[Fundraising Operations Intern](https://jobright.ai/jobs/info/6a452844971cd25b06f87ed1?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 11 |
 | **[Shockingly Different Leadership](https://shockinglydifferent.com)** | **[Intern- Operations/Social Media/Marketing](https://jobright.ai/jobs/info/6a533823e726ec56126a6205?utm_campaign=1065&utm_source=git)** | Marietta, GA, USA | On Site | Jul 11 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[SEO & On-line Marketing Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a53377b8a74e077472f7af0?utm_campaign=1065&utm_source=git)** | unknown, Chicago, IL, United States | On Site | Jul 11 |
-| **[Formlabs](http://www.formlabs.com)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53322a8a74e077472f7952?utm_campaign=1065&utm_source=git)** | Somerville, MA, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
