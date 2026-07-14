@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TapBlaze](http://www.tapblaze.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a55b690ec54dd532d812601?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a55ecafe9b77f668bd5f862?utm_campaign=1065&utm_source=git)** | NEWARK, DE, United States | On Site | Jul 14 |
+| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing Intern - FMU](https://jobright.ai/jobs/info/6a55ec9defb06a45240d1f6c?utm_campaign=1065&utm_source=git)** | Florence, SC, United States | On Site | Jul 14 |
+| **[New York Islanders](http://newyorkislanders.com)** | **[Intern, Community Relations](https://jobright.ai/jobs/info/6a5568c1f2c46727285f215f?utm_campaign=1065&utm_source=git)** | East Meadow, NY, United States | On Site | Jul 14 |
+| **[CECO Environmental Corporation](https://www.cecoenviro.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a55e30dfb802d4ff5017bec?utm_campaign=1065&utm_source=git)** | Addison, TX, United States | Hybrid | Jul 14 |
+| **[Gala](https://getgalaapp.com)** | **[Founding Growth Intern](https://jobright.ai/jobs/info/6a55df8cfb802d4ff5017b2f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 14 |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Promotions & Events Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a55df522711035dc36d53dd?utm_campaign=1065&utm_source=git)** | Keene, NH, United States | On Site | Jul 14 |
 | **[ProSidian Consulting](https://prosidian.com/)** | **[Market Development Intern](https://jobright.ai/jobs/info/6a55dd822ce8bf79a13a1fcb?utm_campaign=1065&utm_source=git)** | 300 Camp Rd, Charlotte, NC 28206, USA | Remote | Jul 13 |
 | **[Special Olympics Kansas](http://www.ksso.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a55dd1414f1040fa611d14b?utm_campaign=1065&utm_source=git)** | Mission, KS, United States | On Site | Jul 13 |
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Hendersonville (59931)](https://jobright.ai/jobs/info/6a55dcd04ca3b003c20ff942?utm_campaign=1065&utm_source=git)** | Winston Salem, NC, United States | On Site | Jul 13 |
@@ -119,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Product Marketing Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a3fa0019dd7f954cafe7020?utm_campaign=1065&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jul 13 |
 | **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[Digital Marketing Trainee (English Native)](https://jobright.ai/jobs/info/6a55b830fdf4fa71202b40a3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 13 |
 | ↳ | **[SEM and Display Marketing Intern - Singapore](https://jobright.ai/jobs/info/6a55b7f7fdf4fa71202b401c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 13 |
-| **[TapBlaze](http://www.tapblaze.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a55b690ec54dd532d812601?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | **[AMAROK Security](https://www.amarok.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a51bee88d7d3e6cf1cc2314?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | On Site | Jul 13 |
 | **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a55ab1814f1040fa611a77f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 13 |
 | **[GBH](http://www.wgbh.org/)** | **[Frontline Marketing and Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a5562e1ae07d60a8d011019?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a54abb585072f1a8a251572?utm_campaign=1065&utm_source=git)** | SAN ANTONIO, TX, US | On Site | Jul 13 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sorority Campus Marketing Intern](https://jobright.ai/jobs/info/6a5571192084cd792b478ba3?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Missouri State University](https://jobright.ai/jobs/info/6a556e242084cd792b478ad3?utm_campaign=1065&utm_source=git)** | Springfield, MO, United States | On Site | Jul 13 |
-| **[Corient](https://corient.com)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a5124e6bf63b66c79979577?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 13 |
-| **[University of Utah Health](https://www.cs.utah.edu)** | **[Social Media & Digital Communications Graduate Intern](https://jobright.ai/jobs/info/6a556d42f2c46727285f2508?utm_campaign=1065&utm_source=git)** | SALT LAKE CITY, UT, United States | Hybrid | Jul 13 |
-| **[OnCue Marketing, LLC](http://www.OnCueExpress.com)** | **[COMMUNICATIONS INTERN](https://jobright.ai/jobs/info/6a556b6a268af95237bebc37?utm_campaign=1065&utm_source=git)** | Stillwater Corporate - Stillwater, OK 74075 | On Site | Jul 13 |
-| **[F&F Productions, LLC](https://www.fandfhd.tv)** | **[Promotions Intern](https://jobright.ai/jobs/info/6a556a38377f983ce8a9a199?utm_campaign=1065&utm_source=git)** | St Paul, MN, United States | On Site | Jul 13 |
-| **[SAIGE](https://saige.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5569952084cd792b478727?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 13 |
-| **[816 Collective](https://collective816.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a5567a6268af95237beb7e0?utm_campaign=1065&utm_source=git)** | Kansas City Metropolitan Area, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
