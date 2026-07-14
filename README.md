@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sweat EXT](https://swt-ext.com)** | **[Social Media Coordinator Intern](https://jobright.ai/jobs/info/6a55a35d14f1040fa611a4a5?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Jul 13 |
+| **[Special Olympics Kansas](http://www.ksso.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a55a0b17ab5da6d2628f63e?utm_campaign=1065&utm_source=git)** | Mission, KS, United States | On Site | Jul 13 |
+| **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Marketing Operations Intern - Corporate/GPSU](https://jobright.ai/jobs/info/6a55a082ab67470e148e3694?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 13 |
+| **[CT United](https://www.ctsportsgroup.com)** | **[Digital & Content Marketing Intern [Fall]](https://jobright.ai/jobs/info/6a559f3cab67470e148e35f5?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | On Site | Jul 13 |
+| **[Shortlist](www.shortlistos.com)** | **[Growth Intern](https://jobright.ai/jobs/info/6a559e5a78d1443bd1e81127?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Vent Now](https://www.ventnow.ai/)** | **[Summer Video Marketing Intern](https://jobright.ai/jobs/info/6a5595f2f2c46727285f2d85?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area, United States | Remote | Jul 13 |
 | **[Ottobock](https://www.ottobock.de)** | **[Growth & AI Marketing Intern (SUITX)](https://jobright.ai/jobs/info/6a558628f2c46727285f2aee?utm_campaign=1065&utm_source=git)** | Emeryville, CA, United States | On Site | Jul 13 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5590202084cd792b4792d6?utm_campaign=1065&utm_source=git)** | Athens, GA, United States | On Site | Jul 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Marketing Intern, Chartwells K12 / Unified School District / Arkansas City, KS](https://jobright.ai/jobs/info/6a551fca377f983ce8a97f6e?utm_campaign=1065&utm_source=git)** | Arkansas City, KS, United States | On Site | Jul 13 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Nevada - Reno](https://jobright.ai/jobs/info/6a551a0c268af95237be9437?utm_campaign=1065&utm_source=git)** | Reno, NV, United States | On Site | Jul 13 |
 | **[Teli.Ai](https://www.linkedin.com/company/98065282)** | **[Marketing Content Creator Intern](https://jobright.ai/jobs/info/6a5519e4268af95237be940e?utm_campaign=1065&utm_source=git)** | Southfield, MI, United States | On Site | Jul 13 |
-| **[quickgreens](quickgreens.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a5517622084cd792b476127?utm_campaign=1065&utm_source=git)** | Pleasant Grove, UT, United States | Hybrid | Jul 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a1aa65fe24ef3652582c8b3?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/697848b852f3c27ec6448b39?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Crowdfunding Specialist](https://jobright.ai/jobs/info/6a5557e9f2c46727285f19b4?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[2026 Fall Internship / FC Dallas / Partnership Marketing](https://jobright.ai/jobs/info/6a550e8ef2c46727285ef6e2?utm_campaign=1065&utm_source=git)** | Frisco, TX, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
