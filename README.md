@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lagunitas Brewing Company](http://lagunitas.com)** | **[Marketing Program Support Intern](https://jobright.ai/jobs/info/6a56207ee9b77f668bd617d6?utm_campaign=1065&utm_source=git)** | Petaluma, CA, United States | Hybrid | Jul 14 |
+| **[Maven Clinic](http://www.mavenclinic.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a395df6f6b55d12c79276ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 14 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Music Group Marketing Intern](https://jobright.ai/jobs/info/6a51af0eae4052672fe98f36?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA | On Site | Jul 14 |
+| **[Northeast Energy & Commerce Association](http://necanews.org)** | **[Operations & Digital Marketing Intern](https://jobright.ai/jobs/info/6a561bfbe9b77f668bd61722?utm_campaign=1065&utm_source=git)** | Needham, MA, United States | Remote | Jul 14 |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Paid Social Advertising Intern, Fall 2026](https://jobright.ai/jobs/info/6a512adc78e364789ca59764?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jul 14 |
 | **[Libra AI](https://trylibra.ai)** | **[Growth Intern](https://jobright.ai/jobs/info/6a56155e21f64463ad352867?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 14 |
 | **[HAC, Inc.](https://agreatplaceto.work/)** | **[Marketing Intern (59426)](https://jobright.ai/jobs/info/6a561437efb06a45240d3c7b?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 14 |
 | **[Hexagon Lavish®](http://hexagonlavish.com/)** | **[A Heavily-Involved Marketing Intern](https://jobright.ai/jobs/info/6a5611a521f64463ad352725?utm_campaign=1065&utm_source=git)** | TBD, Atlanta, GA, United States | On Site | Jul 14 |
@@ -105,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Flowable](https://flowable.com/)** | **[TikTok Commerce B2B Marketing Internship](https://jobright.ai/jobs/info/6a55d259ef22935f2e3f7ca4?utm_campaign=1065&utm_source=git)** | Madrid, IA, United States | On Site | Jul 13 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Social Media & Digital Communications Graduate Intern](https://jobright.ai/jobs/info/6a55d09f05c65f7c8f4c832c?utm_campaign=1065&utm_source=git)** | SALT LAKE CITY, UT, United States | Hybrid | Jul 13 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Event planning volunteer/Intern](https://jobright.ai/jobs/info/6a55d07414f1040fa611c716?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| **[Columbia College](http://www.ccis.edu/)** | **[Acola Coffee Company Social Media Intern](https://jobright.ai/jobs/info/6a55d060ef22935f2e3f799e?utm_campaign=1065&utm_source=git)** | Columbia, MO, United States | On Site | Jul 13 |
+| **[Columbia College](https://www.ccis.edu/admissions/visit/summer-camps/girls-who-game)** | **[Acola Coffee Company Social Media Intern](https://jobright.ai/jobs/info/6a55d060ef22935f2e3f799e?utm_campaign=1065&utm_source=git)** | Columbia, MO, United States | On Site | Jul 13 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Fundraising (Fall 2026)](https://jobright.ai/jobs/info/6a55d04f05c65f7c8f4c8217?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182, United States | On Site | Jul 13 |
 | **[NGIN Workplace](http://www.nginworkplace.com/)** | **[Marketing Fall Internship](https://jobright.ai/jobs/info/6a55d03214f1040fa611c631?utm_campaign=1065&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 13 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a55d01214f1040fa611c5cb?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Social Media Internship / Fall 2026](https://jobright.ai/jobs/info/6a432f3eb0f2553559ece6db?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 13 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Associate Publicist Intern/Volunteer](https://jobright.ai/jobs/info/6a56041cf7517b519ad52e11?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Volunteer/Intern: Content Marketing Manager](https://jobright.ai/jobs/info/6a56083221f64463ad351efe?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| ↳ | **[Fashion and Marketing Copywriter Intern/Volunteer](https://jobright.ai/jobs/info/6a55f565efb06a45240d24fd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Brand Manager Intern/Volunteer](https://jobright.ai/jobs/info/6a560d0421f64463ad3522bb?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| ↳ | **[SEO Specialist/On-line Marketing Specialist Internship](https://jobright.ai/jobs/info/6a560c2253b3962b910adcbe?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
-| **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[Lean Mean Business Growth Internship](https://jobright.ai/jobs/info/6a560d27efb06a45240d3742?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
-| ↳ | **[Fan Engagement Internship](https://jobright.ai/jobs/info/6a432e9e501d340b4a82da00?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
