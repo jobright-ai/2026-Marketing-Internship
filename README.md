@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProSidian Consulting](https://prosidian.com/)** | **[Market Development Intern](https://jobright.ai/jobs/info/6a55dd822ce8bf79a13a1fcb?utm_campaign=1065&utm_source=git)** | 300 Camp Rd, Charlotte, NC 28206, USA | Remote | Jul 13 |
+| **[Special Olympics Kansas](http://www.ksso.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a55dd1414f1040fa611d14b?utm_campaign=1065&utm_source=git)** | Mission, KS, United States | On Site | Jul 13 |
+| **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Hendersonville (59931)](https://jobright.ai/jobs/info/6a55dcd04ca3b003c20ff942?utm_campaign=1065&utm_source=git)** | Winston Salem, NC, United States | On Site | Jul 13 |
+| **[Griffin Media](http://griffincommunications.net/)** | **[News On 6 Fall Marketing Intern](https://jobright.ai/jobs/info/6a509f36ddd293054ccaaa4e?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 13 |
+| **[XTrace](https://xtrace.ai)** | **[Growth Intern (Summer 2026)](https://jobright.ai/jobs/info/6a55db30ec54dd532d814b12?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 13 |
+| **[MFA](https://www.managedfunds.org/)** | **[Communications Intern (Spring Session)](https://jobright.ai/jobs/info/6a55d951ef22935f2e3f82da?utm_campaign=1065&utm_source=git)** | 1301 Pennsylvania Avenue NW, Washington, DC 20004, USA | Hybrid | Jul 13 |
+| **[Walleye Capital](https://www.walleyecapital.com/)** | **[Investor Relations Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5488da8576ec69c015379d?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jul 13 |
+| **[KHAITE](https://khaite.com/)** | **[PR Intern, Fall 2026](https://jobright.ai/jobs/info/6a51a78eae4052672fe98b54?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[Industrial Metal Supply Co.](http://www.industrialmetalsupply.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a55d49fef22935f2e3f800c?utm_campaign=1065&utm_source=git)** | Sun Valley, CA, United States | On Site | Jul 13 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing and Graphics Design Intern - Winthrop](https://jobright.ai/jobs/info/6a55d445ef22935f2e3f7f85?utm_campaign=1065&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 13 |
 | **[VLP Financial Advisors](https://www.vlpfa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a55d2c714f1040fa611ca44?utm_campaign=1065&utm_source=git)** | Vienna, VA, United States | On Site | Jul 13 |
@@ -118,7 +126,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Education Marketing and Outreach Internship- Fall 2026](https://jobright.ai/jobs/info/6a556303f2c46727285f1e54?utm_campaign=1065&utm_source=git)** | Boston, United States | Hybrid | Jul 13 |
 | **[Auburn University](https://thepark.auburn.edu)** | **[Student Marketing Intern](https://jobright.ai/jobs/info/6a55d182fdf4fa71202b5d82?utm_campaign=1065&utm_source=git)** | Auburn, AL, United States | On Site | Jul 13 |
 | **[Sweat EXT](https://swt-ext.com)** | **[Social Media Coordinator Intern](https://jobright.ai/jobs/info/6a55a35d14f1040fa611a4a5?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Jul 13 |
-| **[Special Olympics Kansas](http://www.ksso.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/6a55a0b17ab5da6d2628f63e?utm_campaign=1065&utm_source=git)** | Mission, KS, United States | On Site | Jul 13 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Marketing Operations Intern - Corporate/GPSU](https://jobright.ai/jobs/info/6a55a082ab67470e148e3694?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 13 |
 | **[CT United](https://www.ctsportsgroup.com)** | **[Digital & Content Marketing Intern [Fall]](https://jobright.ai/jobs/info/6a559f3cab67470e148e35f5?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | On Site | Jul 13 |
 | **[Shortlist](www.shortlistos.com)** | **[Growth Intern](https://jobright.ai/jobs/info/6a559e5a78d1443bd1e81127?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[F&F Productions, LLC](https://www.fandfhd.tv)** | **[Promotions Intern](https://jobright.ai/jobs/info/6a556a38377f983ce8a9a199?utm_campaign=1065&utm_source=git)** | St Paul, MN, United States | On Site | Jul 13 |
 | **[SAIGE](https://saige.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5569952084cd792b478727?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 13 |
 | **[816 Collective](https://collective816.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a5567a6268af95237beb7e0?utm_campaign=1065&utm_source=git)** | Kansas City Metropolitan Area, United States | On Site | Jul 13 |
-| **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Brand Marketing Communications (Fall 2026)](https://jobright.ai/jobs/info/6a5562ddf2c46727285f1e44?utm_campaign=1065&utm_source=git)** | Greensboro, NC, United States | On Site | Jul 13 |
-| **[DemaDose](https://www.demadose.com/)** | **[SEO Full-Stack Internship](https://jobright.ai/jobs/info/6a556158ae07d60a8d010f89?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 13 |
-| **[Matthews™](https://www.matthews.com/)** | **[Marketing Intern (PHX)](https://jobright.ai/jobs/info/6a46c05c4f64ba41dcb54af8?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Jul 13 |
-| **[Young Automotive Group](https://www.youngautomotive.com)** | **[Events Team Intern](https://jobright.ai/jobs/info/6a555ed8268af95237beb408?utm_campaign=1065&utm_source=git)** | Layton, UT, United States | On Site | Jul 13 |
-| **[GoodMorning](https://www.goodmorning.com)** | **[Digital Marketing Intern (Co-op)](https://jobright.ai/jobs/info/6a551470377f983ce8a97a7b?utm_campaign=1065&utm_source=git)** | Edmonton, AB, Canada | On Site | Jul 13 |
-| **[MFA](https://www.managedfunds.org/)** | **[Intern, Communications](https://jobright.ai/jobs/info/6a555bc24119652ff3865372?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 13 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, Fort Lauderdale](https://jobright.ai/jobs/info/6a555baf377f983ce8a99a18?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
