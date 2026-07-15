@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5721b0e9b77f668bd66d20?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 14 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Communications College Intern (PN 20082321)](https://jobright.ai/jobs/info/6a571792e9b77f668bd66b50?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Jul 14 |
 | **[LeyLine](https://leylinepro.com/)** | **[Media Public Relations Intern](https://jobright.ai/jobs/info/6a571677f7517b519ad5912f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 14 |
 | **[Live Tinted](http://www.livetinted.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a571412e9b77f668bd66a32?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
@@ -75,15 +76,14 @@ For a complete list, click the following sortable link below:
 | **[Atmosfy](https://atmosfy.io)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a56e83110c4d945d864c723?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 14 |
 | **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Brand Strategy Internship (For Academic Credit)](https://jobright.ai/jobs/info/6a56e71fe9b77f668bd6631d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 14 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Marketing Intern - Northwest/GPSU](https://jobright.ai/jobs/info/6a51b86157513b72e0c66942?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | Hybrid | Jul 14 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56d00e53b3962b910b2bc6?utm_campaign=1065&utm_source=git)** | Berkeley, CA, United States | On Site | Jul 14 |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a552a6f2084cd792b476a32?utm_campaign=1065&utm_source=git)** | West Lafayette, IN, United States | On Site | Jul 14 |
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56b41fefb06a45240d7a4c?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
-| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a552a79377f983ce8a98463?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Jul 14 |
-| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a552a6f2084cd792b476a32?utm_campaign=1065&utm_source=git)** | West Lafayette, IN, United States | On Site | Jul 14 |
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56b40af7517b519ad5789c?utm_campaign=1065&utm_source=git)** | Davis, CA, United States | On Site | Jul 14 |
+| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a552a79377f983ce8a98463?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Jul 14 |
+| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56d00e53b3962b910b2bc6?utm_campaign=1065&utm_source=git)** | Berkeley, CA, United States | On Site | Jul 14 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Summer Social Media Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/6a56e3f010c4d945d864c6b5?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jul 14 |
 | **[Major League Baseball (MLB)](https://www.mlbjerseysale2021.com/)** | **[Intern, Athletic Operations (Fall, 2026)](https://jobright.ai/jobs/info/6a56e19310c4d945d864c664?utm_campaign=1065&utm_source=git)** | Vero Beach, FL, United States | On Site | Jul 14 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Corp Engagement Intern](https://jobright.ai/jobs/info/6a56b501f7517b519ad5790d?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 14 |
-| **[Liberin Technologies](https://liberintechnologies.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a56dcfbefb06a45240d88df?utm_campaign=1065&utm_source=git)** | Mobile Metropolitan Area, United States | On Site | Jul 14 |
 | **[HumanKind](https://www.humankind.org)** | **[Events Intern](https://jobright.ai/jobs/info/6a4ec12415b4965afd584911?utm_campaign=1065&utm_source=git)** | Lynchburg, VA, United States | On Site | Jul 14 |
 | **[LexLoo](https://www.linkedin.com/company/119464117)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/6a56db7ae9b77f668bd6617c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Special Events (Fall 2026)](https://jobright.ai/jobs/info/6a442b7c57ffc22029406947?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jul 14 |
