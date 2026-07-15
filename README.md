@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a5330629fbdab22fe13e8e7?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Jul 15 |
+| **[State Farm Agent](https://www.pamaccardo.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53174f8576ec69c014e979?utm_campaign=1065&utm_source=git)** | Cataula, GA, United States | On Site | Jul 15 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a56d32f53b3962b910b2c90?utm_campaign=1065&utm_source=git)** | Sewickley, PA, United States | On Site | Jul 15 |
+| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7ce8ef95364ead93f51?utm_campaign=1065&utm_source=git)** | Roswell, GA, United States | On Site | Jul 15 |
+| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5646b953b3962b910af106?utm_campaign=1065&utm_source=git)** | Vestal, NY, United States | On Site | Jul 15 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7d1c8eb0843027ae506?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 15 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a551262377f983ce8a97987?utm_campaign=1065&utm_source=git)** | San Lorenzo, CA, United States | On Site | Jul 15 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a51af718d7d3e6cf1cc1071?utm_campaign=1065&utm_source=git)** | Garner, NC, United States | On Site | Jul 15 |
 | **[People, Technology & Processes, LLC](http://www.ptp-llc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5767cee9b77f668bd67dce?utm_campaign=1065&utm_source=git)** | Plant City, FL, United States | On Site | Jul 15 |
 | **[Shiraz Creative](https://www.shirazcreative.global)** | **[Marketing/PR Internship](https://jobright.ai/jobs/info/6a5767c1e9b77f668bd67d70?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 15 |
 | **[CarLabs.ai](https://www.carlabs.ai/)** | **[Content Writer - Intern](https://jobright.ai/jobs/info/6a576657efb06a45240da4b9?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 15 |
@@ -98,11 +106,11 @@ For a complete list, click the following sortable link below:
 | **[Atmosfy](https://atmosfy.io)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a56e83110c4d945d864c723?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 14 |
 | **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Brand Strategy Internship (For Academic Credit)](https://jobright.ai/jobs/info/6a56e71fe9b77f668bd6631d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 14 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Marketing Intern - Northwest/GPSU](https://jobright.ai/jobs/info/6a51b86157513b72e0c66942?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | Hybrid | Jul 14 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56d00e53b3962b910b2bc6?utm_campaign=1065&utm_source=git)** | Berkeley, CA, United States | On Site | Jul 14 |
-| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a552a79377f983ce8a98463?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Jul 14 |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a552a79377f983ce8a98463?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Jul 14 |
+| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56d00e53b3962b910b2bc6?utm_campaign=1065&utm_source=git)** | Berkeley, CA, United States | On Site | Jul 14 |
+| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a552a6f2084cd792b476a32?utm_campaign=1065&utm_source=git)** | West Lafayette, IN, United States | On Site | Jul 14 |
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56b41fefb06a45240d7a4c?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56b40af7517b519ad5789c?utm_campaign=1065&utm_source=git)** | Davis, CA, United States | On Site | Jul 14 |
-| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a552a6f2084cd792b476a32?utm_campaign=1065&utm_source=git)** | West Lafayette, IN, United States | On Site | Jul 14 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Summer Social Media Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/6a56e3f010c4d945d864c6b5?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jul 14 |
 | **[Major League Baseball (MLB)](https://www.mlb.com/indians)** | **[Intern, Athletic Operations (Fall, 2026)](https://jobright.ai/jobs/info/6a56e19310c4d945d864c664?utm_campaign=1065&utm_source=git)** | Vero Beach, FL, United States | On Site | Jul 14 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Corp Engagement Intern](https://jobright.ai/jobs/info/6a56b501f7517b519ad5790d?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 14 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boys + Girls](http://boysandgirls.ie/)** | **[Marketing & Youth Engagement Intern](https://jobright.ai/jobs/info/6a569fbaefb06a45240d7272?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 14 |
 | **[Gardner White Furniture & Mattress](http://gardner-white.com)** | **[Community Engagement & Events Intern](https://jobright.ai/jobs/info/6a569fadf7517b519ad570b0?utm_campaign=1065&utm_source=git)** | Warren, MI, United States | On Site | Jul 14 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Social Media Intern (Volunteer)](https://jobright.ai/jobs/info/6a569f9be9b77f668bd64af5?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Jul 14 |
-| **[The Pixel Fund (UK)](https://www.pixelfund.org.uk/)** | **[Non-Profit Animal Rescue Internship](https://jobright.ai/jobs/info/6a569f71efb06a45240d7222?utm_campaign=1065&utm_source=git)** | 1624 Smithfield Way, Oviedo, FL 32765, USA | On Site | Jul 14 |
-| **[Verst Logistics](https://www.verstlogistics.com/contact-us)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a569f09f7517b519ad56ffb?utm_campaign=1065&utm_source=git)** | Erlanger, KY, United States | On Site | Jul 14 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a569ed153b3962b910b17ac?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
-| **[Protect Our Winters](https://protectourwinters.org/)** | **[Stoke the Vote Events Intern](https://jobright.ai/jobs/info/6a569ea153b3962b910b1779?utm_campaign=1065&utm_source=git)** | Boulder, CO, United States | Hybrid | Jul 14 |
-| **[Current](http://current.co)** | **[Communications Intern](https://jobright.ai/jobs/info/6a4bd2445d7b097d2df3e48a?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Jul 14 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Digital Marketing Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a569ba153b3962b910b14ed?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 14 |
-| ↳ | **[Digital Marketing Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a569a46e9b77f668bd64676?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 14 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Community Relations Event Intern](https://jobright.ai/jobs/info/6a569a1421f64463ad3559b2?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States | Hybrid | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
