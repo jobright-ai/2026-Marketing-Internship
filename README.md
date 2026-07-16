@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Cincinnati](https://jobright.ai/jobs/info/6a58a7b79838a11e5d839872?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | Remote | Jul 16 |
+| ↳ | **[Community Intern, Salt Lake City](https://jobright.ai/jobs/info/6a53122fd007ee02d95fa1af?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 16 |
 | **[Lightwheel](https://lightwheel.ai/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a589cc89f1f56462cf6b1b9?utm_campaign=1065&utm_source=git)** | Mountain View, CA, United States | On Site | Jul 16 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Campus Ambassador](https://jobright.ai/jobs/info/6a5899e572fe7a7b98dcf84c?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 16 |
 | ↳ | **[Market Research Internship](https://jobright.ai/jobs/info/6a4607df3dbab558e29a360e?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 16 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Cameron Mitchell Restaurants](https://cameronmitchell.com/)** | **[SOCIAL MEDIA INTERN](https://jobright.ai/jobs/info/6a554afeae07d60a8d01040d?utm_campaign=1065&utm_source=git)** | COLUMBUS, Ohio, United States | On Site | Jul 15 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Global Engagement Church Channels Intern](https://jobright.ai/jobs/info/6a58863f9f1f56462cf6ab92?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 15 |
 | **[The Chicago Community Trust](http://www.cct.org/)** | **[(Hybrid) Strategic Communications, Fall Intern](https://jobright.ai/jobs/info/6a58077b9f1f56462cf681e6?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 15 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, Salt Lake City](https://jobright.ai/jobs/info/6a57dcc79f1f56462cf66f67?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 15 |
 | **[OTC Services](https://www.otcbc.org/)** | **[Outreach Intern](https://jobright.ai/jobs/info/6a57d736efb06a45240ddae9?utm_campaign=1065&utm_source=git)** | Burlington Township, NJ, United States | On Site | Jul 15 |
 | **[BERNARD JAMES](http://www.bernardjames.com)** | **[Social Media and PR Internship](https://jobright.ai/jobs/info/6a57d63fa791c6211bf016d6?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[The Morgan Library & Museum](http://www.themorgan.org/)** | **[The Morgan Library & Museum 2026-2027 - Communications and Marketing Academic Year Internship](https://jobright.ai/jobs/info/6a57d55cefb06a45240dd9a2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Home Team Design Build Together](https://www.thehometeamdbt.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a57bbb6a791c6211bf00b67?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 15 |
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[MARKETING/COMMUNICATIONS INTERN](https://jobright.ai/jobs/info/6a57b96eefb06a45240dcc86?utm_campaign=1065&utm_source=git)** | S&L Inc - Office - Lenexa, KS 66215 | On Site | Jul 15 |
 | **[Unisys](http://www.unisys.com)** | **[Digital Marketing  & AI Intern / Remote](https://jobright.ai/jobs/info/6a1edc58c5277c00c648113e?utm_campaign=1065&utm_source=git)** | Blue Bell, PA | Remote | Jul 15 |
-| **[Leigh & Co. Events](http://leighandcoevents.com)** | **[Marketing & Social Media Internship Fall 2026](https://jobright.ai/jobs/info/6a57b95010c4d945d86508eb?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
