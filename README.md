@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WFYI Public Media](https://www.wfyi.org/)** | **[Marketing & Events Intern Fall 2026](https://jobright.ai/jobs/info/6a39a10f649fdf162930210e?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 15 |
+| **[Beltran Cleaning Service](https://www.beltrancleaningservice.com)** | **[Social Media (Unpaid Internship)](https://jobright.ai/jobs/info/6a587da972fe7a7b98dcecb8?utm_campaign=1065&utm_source=git)** | Rolling Meadows, IL, United States | On Site | Jul 15 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern : Public Relations](https://jobright.ai/jobs/info/6a587ccd72fe7a7b98dcebcd?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 15 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Marketing  (Performance Marketing)](https://jobright.ai/jobs/info/6a34342cce501060b5ceff09?utm_campaign=1065&utm_source=git)** | Toronto, Canada | On Site | Jul 15 |
 | **[UChicago Committee on Environment, Geography and Urbanization (CEGU)](https://environmentalstudies.uchicago.edu/)** | **[Environment Illinois Marketing Intern](https://jobright.ai/jobs/info/6a5871179f1f56462cf69eef?utm_campaign=1065&utm_source=git)** | Springfield, Illinois Metropolitan Area, United States | Hybrid | Jul 15 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing and Graphics Design Intern - Wofford](https://jobright.ai/jobs/info/6a51b3efbf63b66c7997b2cf?utm_campaign=1065&utm_source=git)** | Spartanburg, South Carolina, United States | On Site | Jul 15 |
 | **[Menu Mingle, Inc.](https://menumingle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a586a749838a11e5d8382cd?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | Hybrid | Jul 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Communications Strategy Group (CSG®)](https://wearecsg.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a57b939e9b77f668bd6a511?utm_campaign=1065&utm_source=git)** | CO - Denver, CO 80206 | On Site | Jul 15 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6a57b7cdf7517b519ad5c978?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 15 |
 | **[NU Media Holdings](https://www.nu.marketing)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a57b33221f64463ad35b51d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
-| **[Electro](electrogum.com)** | **[Athlete Partnerships & Marketing Intern](https://jobright.ai/jobs/info/6a57aff2a791c6211bf00249?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Remote | Jul 15 |
-| **[Anchor Counseling Inc.](http://www.anchorcounseling.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a57afc5a791c6211bf001e0?utm_campaign=1065&utm_source=git)** | Greater Chicago Area, United States | On Site | Jul 15 |
-| **[DemaDose](https://www.demadose.com/)** | **[Full-Stack SEO Specialist Internship](https://jobright.ai/jobs/info/6a57ade2e9b77f668bd69b78?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jul 15 |
-| **[We Are Loved Nonprofit](https://weareloved.info)** | **[Volunteer Social Media Intern](https://jobright.ai/jobs/info/6a57ca0df7517b519ad5d17a?utm_campaign=1065&utm_source=git)** | Shrewsbury, NJ, United States | Hybrid | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
