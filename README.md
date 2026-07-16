@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Relief International](https://www.ri.org)** | **[Communications and Development Intern](https://jobright.ai/jobs/info/6a58b7a1856af468abfff16a?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 16 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[B2B Marketing Intern](https://jobright.ai/jobs/info/6a3c54338bfad862bc99a0c4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 16 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Development](https://jobright.ai/jobs/info/6a58c79d3ac7627fe9ffb407?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 16 |
+| **[Formlabs](http://www.formlabs.com)** | **[Paid Advertising Intern (Fall 2026)](https://jobright.ai/jobs/info/6a58c6cb856af468abfffb23?utm_campaign=1065&utm_source=git)** | Somerville, MA, United States | On Site | Jul 16 |
+| **[The HEINEKEN Company](http://www.theheinekencompany.com)** | **[Marketing Program Support Intern](https://jobright.ai/jobs/info/6a3bd301982bb239f812d4de?utm_campaign=1065&utm_source=git)** | Petaluma, CA, United States | Hybrid | Jul 16 |
+| **[Edison Festival of Light](http://www.edisonfestival.org)** | **[Event Management Internship](https://jobright.ai/jobs/info/6a58bace856af468abfff430?utm_campaign=1065&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 16 |
+| **[Relief International](https://www.ri.org)** | **[Communications and Development Intern](https://jobright.ai/jobs/info/6a58b7a1856af468abfff16a?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 16 |
 | **[Fountain Mortgage](https://fountainmortgage.com/)** | **[Marketing Intern, Fall 2026](https://jobright.ai/jobs/info/6a58b6aec8e3a473cb8a21a4?utm_campaign=1065&utm_source=git)** | Prairie Village, KS, United States | On Site | Jul 16 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/6a58ad6c4da96a42cfd8be49?utm_campaign=1065&utm_source=git)** | Clayton, MO, United States | On Site | Jul 16 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Cincinnati](https://jobright.ai/jobs/info/6a58a7b79838a11e5d839872?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | Remote | Jul 16 |
@@ -93,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2ff69c43732c05812dfe0e?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Jul 15 |
 | **[GKIDS](http://www.gkidsfilms.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a585ef40304e26a7e7e5835?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 15 |
 | **[Julius AI](https://julius.codes)** | **[Growth Intern (Summer/Fall)](https://jobright.ai/jobs/info/6a582eea3330ca6f993c3a55?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 15 |
-| **[Vent Now](https://www.ventnow.ai/)** | **[Summer Video Marketing Internship](https://jobright.ai/jobs/info/6a58377b9838a11e5d837582?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Jul 15 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a57ee8c8f51964c04045b54?utm_campaign=1065&utm_source=git)** | LYNCHBURG, VA, US | On Site | Jul 15 |
 | **[Yelp](https://www.yelp.com)** | **[Social Media Intern - New York City](https://jobright.ai/jobs/info/6a57f36168d16a30e2410cdd?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Remote | Jul 15 |
 | ↳ | **[Social Media Intern - Miami, FL](https://jobright.ai/jobs/info/6a57f3599f1f56462cf67a85?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Jul 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASSOULINE](http://www.assouline.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a57d03410c4d945d86512f9?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Events Intern](https://jobright.ai/jobs/info/6a4d788f3122a76a8fd55b47?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[LG Energy Solution Vertech, Inc.](https://lgensol-vt.com/)** | **[Marketing Generalist Intern](https://jobright.ai/jobs/info/6a57c842a791c6211bf00f9a?utm_campaign=1065&utm_source=git)** | Westborough, MA | On Site | Jul 15 |
-| **[Collectively USA](https://www.collectivelyusa.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a57c37fefb06a45240dd175?utm_campaign=1065&utm_source=git)** | Ebensburg, PA | On Site | Jul 15 |
-| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Development & Community Events-Fayetteville, AR immediate surrounding area](https://jobright.ai/jobs/info/6a304bf9524fd5657fe1019b?utm_campaign=1065&utm_source=git)** | Fayetteville, AR, United States | On Site | Jul 15 |
-| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Digital Marketing & Branding](https://jobright.ai/jobs/info/6a57b104e9b77f668bd69f85?utm_campaign=1065&utm_source=git)** | Reston, VA, United States | Hybrid | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
