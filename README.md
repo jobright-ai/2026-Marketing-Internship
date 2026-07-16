@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALLO Fiber](http://www.allocommunications.com)** | **[Digital Experience Intern](https://jobright.ai/jobs/info/6a58e10d856af468ab00059b?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 16 |
+| **[Walker Sands](https://www.walkersands.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a51f71fae4052672fe9cef8?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 16 |
+| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/6a3c1ba6122f340d29cec851?utm_campaign=1065&utm_source=git)** | Chicago | Hybrid | Jul 16 |
+| **[Emergent](https://app.emergent.sh)** | **[Community Manager Intern](https://jobright.ai/jobs/info/6a58deff3ac7627fe9ffbe24?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 16 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a53ff8e8ef95364ead941b9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 16 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a58649968d16a30e2412f0d?utm_campaign=1065&utm_source=git)** | Canonsburg, United States - Pennsylvania | On Site | Jul 16 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a57f4929838a11e5d835f45?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Jul 16 |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a58da2e63a8f619507beb8d?utm_campaign=1065&utm_source=git)** | CLEMSON, SC, United States | On Site | Jul 16 |
 | **[Columbia College](http://www.ccis.edu/)** | **[PCE Construction Social Media Intern](https://jobright.ai/jobs/info/6a58d4c3c8e3a473cb8a3306?utm_campaign=1065&utm_source=git)** | Columbia, MO, United States | On Site | Jul 16 |
 | **[Texas Water Utilities](www.swwc.com/texas)** | **[Communications Intern Job Details / Nexus Water Group](https://jobright.ai/jobs/info/6a58d3c83ac7627fe9ffb836?utm_campaign=1065&utm_source=git)** | Covina, CA, United States | On Site | Jul 16 |
 | **[AI Ignition Hub](https://www.ai-ignition.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a58d32ec8e3a473cb8a3263?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Remote | Jul 16 |
@@ -108,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Yelp](https://www.yelp.com)** | **[Social Media Intern - New York City](https://jobright.ai/jobs/info/6a57f36168d16a30e2410cdd?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Remote | Jul 15 |
 | ↳ | **[Social Media Intern - Miami, FL](https://jobright.ai/jobs/info/6a57f3599f1f56462cf67a85?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Jul 15 |
 | ↳ | **[Social Media Intern - Los Angeles, CA](https://jobright.ai/jobs/info/6a57f34e72fe7a7b98dcc0fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 15 |
-| **[Mulbah](https://mulbahmedia.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a585d803330ca6f993c4284?utm_campaign=1065&utm_source=git)** | Bellingham Metropolitan Area, United States | On Site | Jul 15 |
 | **[C • L • E Cotton Candy](http://www.clecottoncandy.com)** | **[Event Planning, Social Media and Public Relations Intern](https://jobright.ai/jobs/info/6a583a879f1f56462cf69181?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | Hybrid | Jul 15 |
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a582e3b72fe7a7b98dcd5f8?utm_campaign=1065&utm_source=git)** | US-CO-ENGLEWOOD | On Site | Jul 15 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Social Media Intern Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6a582d813330ca6f993c3a13?utm_campaign=1065&utm_source=git)** | HALIFAX, NS, CA | On Site | Jul 15 |
@@ -128,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Dietch PR](https://www.dietchpr.net)** | **[Lifestyle, Wellness and Fashion PR Internship](https://jobright.ai/jobs/info/6a580c8268d16a30e2411748?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 15 |
 | **[CODAworx](https://www.codaworx.com/)** | **[International PR Internship](https://jobright.ai/jobs/info/6a5807468f51964c04046630?utm_campaign=1065&utm_source=git)** | Madison, WI, United States | On Site | Jul 15 |
 | **[BenQ North America](http://www.benq.com/)** | **[B2C Marketing Intern](https://jobright.ai/jobs/info/6a58067c9838a11e5d836571?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | On Site | Jul 15 |
-| **[Radar](https://www.findmyradar.com/)** | **[Growth Strategist Intern](https://jobright.ai/jobs/info/6a5805eb9f1f56462cf6814e?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area, United States | Hybrid | Jul 15 |
 | **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a56bd8553b3962b910b26ff?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 15 |
 | **[World Elite Realty](http://www.werlty.com)** | **[Social Media Content Editor Student Intern](https://jobright.ai/jobs/info/6a58049872fe7a7b98dcc6aa?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Jul 15 |
 | **[YunBrew](https://www.linkedin.com/company/104076910)** | **[Marketing Intern — Autumn 2026 (OPT Eligible)](https://jobright.ai/jobs/info/6a5802b69838a11e5d8363b3?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ, United States | On Site | Jul 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Global Engagement Church Channels Intern](https://jobright.ai/jobs/info/6a58863f9f1f56462cf6ab92?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 15 |
 | **[The Chicago Community Trust](http://www.cct.org/)** | **[(Hybrid) Strategic Communications, Fall Intern](https://jobright.ai/jobs/info/6a58077b9f1f56462cf681e6?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 15 |
 | **[OTC Services](https://www.otcbc.org/)** | **[Outreach Intern](https://jobright.ai/jobs/info/6a57d736efb06a45240ddae9?utm_campaign=1065&utm_source=git)** | Burlington Township, NJ, United States | On Site | Jul 15 |
-| **[BERNARD JAMES](http://www.bernardjames.com)** | **[Social Media and PR Internship](https://jobright.ai/jobs/info/6a57d63fa791c6211bf016d6?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
-| **[The Morgan Library & Museum](http://www.themorgan.org/)** | **[The Morgan Library & Museum 2026-2027 - Communications and Marketing Academic Year Internship](https://jobright.ai/jobs/info/6a57d55cefb06a45240dd9a2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
-| **[LIFT, Inc.](https://www.whywelift.org)** | **[Development & Communications Intern](https://jobright.ai/jobs/info/6a57d4c9e9b77f668bd6b235?utm_campaign=1065&utm_source=git)** | IL, United States | Remote | Jul 15 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/6a57d4c5e9b77f668bd6b223?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 15 |
-| **[CWF Restoration](https://chicagowaterandfire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a57d4abf7517b519ad5d738?utm_campaign=1065&utm_source=git)** | Elmhurst, IL, United States | On Site | Jul 15 |
-| **[LG Energy Solution](https://www.lgensol.com)** | **[Marketing Generalist Intern](https://jobright.ai/jobs/info/6a57d351a791c6211bf014ae?utm_campaign=1065&utm_source=git)** | Westborough, MA, United States | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
