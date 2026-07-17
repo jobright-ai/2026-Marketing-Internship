@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Jersey Friendship House, Inc.](https://njfriendshiphouse.org)** | **[Marketing & Communications Intern (Fall 2026)](https://jobright.ai/jobs/info/6a59ccf163a8f619507c3ad1?utm_campaign=1065&utm_source=git)** | 496 Kinderkamack Road, Oradell, NJ, USA | On Site | Jul 16 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a59cc2f686b4755d1e11d83?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jul 16 |
+| **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a3e6ba2d261407de980310c?utm_campaign=1065&utm_source=git)** | Austin, Texas, United States | Hybrid | Jul 16 |
 | **[Acadium](http://www.acadium.com)** | **[Social Media Intern (Finance & AI Focus)](https://jobright.ai/jobs/info/6a59bd0d686b4755d1e11b8e?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Jul 16 |
 | **[Fresh Digital Group](http://www.freshdigitalgroup.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6a43301ccbf92c7bcd36e882?utm_campaign=1065&utm_source=git)** | 111 John St, New York, NY 10038, USA | On Site | Jul 16 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a59b2a74da96a42cfd9246d?utm_campaign=1065&utm_source=git)** | BURLINGTON, NC, US | On Site | Jul 16 |
@@ -84,11 +87,10 @@ For a complete list, click the following sortable link below:
 | **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a597ed4c8e3a473cb8a7490?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 16 |
 | ↳ | **[Community Events Intern](https://jobright.ai/jobs/info/6a597e2e3ac7627fe9fff89a?utm_campaign=1065&utm_source=git)** | Chicago,IL,US | Hybrid | Jul 16 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Salt Lake City](https://jobright.ai/jobs/info/6a597d9c686b4755d1e10a8b?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, US | On Site | Jul 16 |
-| **[Compass Group Canada](http://www.compass-canada.com)** | **[Boost Marketing Intern, Chartwells Higher Ed + Boost / University of Minnesota - Minneapolis](https://jobright.ai/jobs/info/6a597afbc8e3a473cb8a71eb?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 16 |
-| ↳ | **[Event Marketing Intern, Chartwells Higher Ed / University of Minnesota - Minneapolis](https://jobright.ai/jobs/info/6a597afb63a8f619507c267a?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 16 |
+| **[Compass Group Canada](http://www.compass-canada.com)** | **[Event Marketing Intern, Chartwells Higher Ed / University of Minnesota - Minneapolis](https://jobright.ai/jobs/info/6a597afb63a8f619507c267a?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 16 |
+| ↳ | **[Boost Marketing Intern, Chartwells Higher Ed + Boost / University of Minnesota - Minneapolis](https://jobright.ai/jobs/info/6a597afbc8e3a473cb8a71eb?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 16 |
 | ↳ | **[Digital Marketing Intern, Chartwells Higher Ed / University of Minnesota - Minneapolis](https://jobright.ai/jobs/info/6a597acf3ac7627fe9fff714?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 16 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5967724da96a42cfd91186?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 16 |
-| **[North Jersey Friendship House, Inc.](https://njfriendshiphouse.org)** | **[Marketing & Communications Intern (Fall 2026)](https://jobright.ai/jobs/info/6a59788f63a8f619507c256a?utm_campaign=1065&utm_source=git)** | 496 Kinderkamack Road, Oradell, NJ, USA | On Site | Jul 16 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a59771d3ac7627fe9fff5da?utm_campaign=1065&utm_source=git)** | BURLINGTON, NC, United States | On Site | Jul 16 |
 | **[5C Hospitality](www.barnuestro.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a599a0d686b4755d1e11491?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Jul 16 |
 | **[New America](https://www.newamerica.org/)** | **[Fall 2026 - Communication Intern, Education and Work (Paid)](https://jobright.ai/jobs/info/6a593ae8686b4755d1e0f2ab?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Marketing Intern - SEO Focus (Part-time)](https://jobright.ai/jobs/info/6a58f493686b4755d1e0d7be?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall Influencer Marketing Internship](https://jobright.ai/jobs/info/6a597eb03ac7627fe9fff930?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Ridgeview Construction](http://www.greenbuildernh.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a592052686b4755d1e0e82b?utm_campaign=1065&utm_source=git)** | Deerfield, NH - New Hampshire, United States | On Site | Jul 16 |
-| **[United Nations](http://www.un.org)** | **[Social Media intern (Spanish) - HOME-BASED](https://jobright.ai/jobs/info/6a59204a4da96a42cfd8f383?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jul 16 |
-| **[Primitive](https://www.leadwithprimitive.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a591eb23ac7627fe9ffd643?utm_campaign=1065&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
