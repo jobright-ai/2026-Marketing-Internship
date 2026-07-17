@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadium](http://www.acadium.com)** | **[Social Media Intern (Finance & AI Focus)](https://jobright.ai/jobs/info/6a59bd0d686b4755d1e11b8e?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Jul 16 |
 | **[Fresh Digital Group](http://www.freshdigitalgroup.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6a43301ccbf92c7bcd36e882?utm_campaign=1065&utm_source=git)** | 111 John St, New York, NY 10038, USA | On Site | Jul 16 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a59b2a74da96a42cfd9246d?utm_campaign=1065&utm_source=git)** | BURLINGTON, NC, US | On Site | Jul 16 |
 | **[Quadrus Corporation](https://www.quadruscorp.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a59b272856af468ab004f6b?utm_campaign=1065&utm_source=git)** | Huntsville, AL, United States | On Site | Jul 16 |
@@ -101,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Ethos Investment Management](https://ethosinvest.com)** | **[Retail Marketing and Advertising - RETAIL EVENT STAFF & EVENT PLANNING](https://jobright.ai/jobs/info/6a595f2b4da96a42cfd90eb1?utm_campaign=1065&utm_source=git)** | Gary, IN, United States | On Site | Jul 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Communications and Design [Montreal]](https://jobright.ai/jobs/info/6a4d2cef0209ea6fd685139e?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, CA, H3B 0B3 | Hybrid | Jul 16 |
 | **[GeoComply](https://www.geocomply.com)** | **[Marketing Automation Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5955ce686b4755d1e0fd73?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Jul 16 |
+| **[Susan G. Komen](http://www.komen.org)** | **[Fundraising Intern Colorado](https://jobright.ai/jobs/info/6a590d304da96a42cfd8ed79?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Orange County Clerk of Courts](https://www.myorangeclerk.com/)** | **[Intern Communications and Community Outreach](https://jobright.ai/jobs/info/6a5954f2856af468ab003322?utm_campaign=1065&utm_source=git)** | Clerk of Courts - Orlando, FL US (Primary) | On Site | Jul 16 |
 | **[Knours.](https://www.knoursbeauty.com)** | **[Marketing & Design Intern](https://jobright.ai/jobs/info/6a595254856af468ab0032ac?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ, United States | Hybrid | Jul 16 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Content - Video Internship](https://jobright.ai/jobs/info/6a5949b6c8e3a473cb8a642c?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jul 16 |
@@ -128,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Marketing and Communications Intern (Unpaid)](https://jobright.ai/jobs/info/6a5935dd63a8f619507c0e7f?utm_campaign=1065&utm_source=git)** | Bloomington, IL, United States | On Site | Jul 16 |
 | **[XTrace](https://xtrace.ai)** | **[Growth Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6a5935773ac7627fe9ffdf09?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 16 |
 | **[Solabia USA, Inc.](http://www.solabia.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a59346663a8f619507c0e13?utm_campaign=1065&utm_source=git)** | Parsippany, NJ, United States | On Site | Jul 16 |
+| **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a59bf574da96a42cfd926dc?utm_campaign=1065&utm_source=git)** | Atlanta Metropolitan Area, United States | Remote | Jul 16 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/6a595bad856af468ab0035f5?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 16 |
 | **[TYLin](http://www.tylin.com)** | **[Intern, Strategic Communications & Engagement](https://jobright.ai/jobs/info/6a5808be8f51964c040466aa?utm_campaign=1065&utm_source=git)** | US | NY | New York - 322 Eighth Avenue, United States of America | On Site | Jul 16 |
 | **[Codexa Labs Private Limited](https://codexalabs.io/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a59308d686b4755d1e0eef8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ridgeview Construction](http://www.greenbuildernh.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a592052686b4755d1e0e82b?utm_campaign=1065&utm_source=git)** | Deerfield, NH - New Hampshire, United States | On Site | Jul 16 |
 | **[United Nations](http://www.un.org)** | **[Social Media intern (Spanish) - HOME-BASED](https://jobright.ai/jobs/info/6a59204a4da96a42cfd8f383?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jul 16 |
 | **[Primitive](https://www.leadwithprimitive.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a591eb23ac7627fe9ffd643?utm_campaign=1065&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 16 |
-| **[UNDP](http://www.undp.org)** | **[Social Media intern (Spanish) - HOME-BASED](https://jobright.ai/jobs/info/6a5919d53ac7627fe9ffd4b4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 16 |
-| ↳ | **[Social Media intern (French) - HOME-BASED](https://jobright.ai/jobs/info/6a5919b463a8f619507c03ee?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jul 16 |
-| **[Image Unlimited Communications](https://iucboston.com)** | **[Intern](https://jobright.ai/jobs/info/6a5918c33ac7627fe9ffd47f?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
