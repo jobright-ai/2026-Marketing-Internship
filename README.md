@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5967724da96a42cfd91186?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 16 |
+| **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Content Creation Internship](https://jobright.ai/jobs/info/6a596658856af468ab003c04?utm_campaign=1065&utm_source=git)** | Montclair, CA, United States | On Site | Jul 16 |
+| **[Emergent](https://app.emergent.sh)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5964bb3ac7627fe9fff3ef?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 16 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Boost Marketing Intern, Chartwells Higher Ed + Boost / University of Minnesota - Minneapolis](https://jobright.ai/jobs/info/6a5963014da96a42cfd910a0?utm_campaign=1065&utm_source=git)** | 515 Delaware St Se, Minneapolis, MN, 55455, United States | On Site | Jul 16 |
 | ↳ | **[Event Marketing Intern, Chartwells Higher Ed / University of Minnesota - Minneapolis](https://jobright.ai/jobs/info/6a5962f7686b4755d1e1054a?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 16 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Social Media Intern - Nuggets](https://jobright.ai/jobs/info/6a595f9463a8f619507c21cf?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Jul 16 |
@@ -95,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[TYLin](http://www.tylin.com)** | **[Intern, Strategic Communications & Engagement](https://jobright.ai/jobs/info/6a5808be8f51964c040466aa?utm_campaign=1065&utm_source=git)** | US | NY | New York - 322 Eighth Avenue, United States of America | On Site | Jul 16 |
 | **[Codexa Labs Private Limited](https://codexalabs.io/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a59308d686b4755d1e0eef8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Marucci Sports](http://maruccisports.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69ebfe0a4b0fa35a707801cd?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 16 |
+| **[Brunner](http://brunnerworks.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a590eff686b4755d1e0e2bf?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 16 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Content Internship](https://jobright.ai/jobs/info/6a592d20686b4755d1e0ee51?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | ↳ | **[Influencer Marketing Internship](https://jobright.ai/jobs/info/6a592d04c8e3a473cb8a5803?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jul 16 |
 | **[French-American Chamber of Commerce Chicago](http://www.facc-chicago.com)** | **[Marketing, Communication & Business Development Intern](https://jobright.ai/jobs/info/6a592c02c8e3a473cb8a5791?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 16 |
@@ -130,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/6a592c4663a8f619507c0c09?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[United Nations](http://www.un.org)** | **[Social Media intern (French) - HOME-BASED](https://jobright.ai/jobs/info/6a590fb363a8f619507c016c?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jul 16 |
 | **[Trade Data Monitor LLC](https://tradedatamonitor.com/)** | **[International Marketing Intern - FALL 2026](https://jobright.ai/jobs/info/6a590b4f4da96a42cfd8ec84?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 16 |
-| **[Brunner](http://brunnerworks.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a590eff686b4755d1e0e2bf?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 16 |
 | **[The Nix Company](https://www.thenix.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a590e24c8e3a473cb8a4c35?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 16 |
 | **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a590dc1c8e3a473cb8a4c0f?utm_campaign=1065&utm_source=git)** | MIDDLETOWN,RI,US | Hybrid | Jul 16 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Fundraising Intern Colorado](https://jobright.ai/jobs/info/6a590d304da96a42cfd8ed79?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zibra](https://www.enjoyzibra.com)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/6a58fc9c63a8f619507bf8c2?utm_campaign=1065&utm_source=git)** | Charleston, SC, United States | Hybrid | Jul 16 |
 | **[Regenesis](http://www.regenesisbio.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a58fc3663a8f619507bf8aa?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | Hybrid | Jul 16 |
 | **[Legal Aid of Southeast and Central Ohio](http://www.ohiolegalservices.org/oslsa)** | **[Communications Internship](https://jobright.ai/jobs/info/6a58f00063a8f619507bf4eb?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | Hybrid | Jul 16 |
-| **[The Baddish Group](http://www.thebaddishgroup.com/)** | **[Summer Public Relations Intern](https://jobright.ai/jobs/info/6a58eef463a8f619507bf459?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
-| **[Mota Group, Inc](http://www.mota.com)** | **[Marketing Intern for International Manufacturing Firm - IMMEDIATE OPENING](https://jobright.ai/jobs/info/6a58ed5f686b4755d1e0d46f?utm_campaign=1065&utm_source=git)** | 250 Santa Ana Court, Sunnyvale, CA, United States | On Site | Jul 16 |
-| **[HiWave](https://shop.hiwave.co)** | **[Leadership & Growth Intern](https://jobright.ai/jobs/info/6a572a80efb06a45240d967b?utm_campaign=1065&utm_source=git)** | NY-9A, New York, NY, United States | Remote | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
