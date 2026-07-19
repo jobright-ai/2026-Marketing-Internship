@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[PEY Intern - Trade Marketing](https://jobright.ai/jobs/info/6a513ec878e364789ca5a24e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 19 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Talent Marketing Intern](https://jobright.ai/jobs/info/69fceed7b113035a9f8ecfeb?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, US | On Site | Jul 19 |
+| **[Mind You](https://www.mindyou.com.ph)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/6a5c90e84da96a42cfd9cd24?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
+| **[HiWave](https://shop.hiwave.co)** | **[Copywriting Intern](https://jobright.ai/jobs/info/6a5c8cd54da96a42cfd9cc4d?utm_campaign=1065&utm_source=git)** | 39 W 44th St, New York, NY 10036, USA | Remote | Jul 19 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a5c88163ac7627fe900aa8f?utm_campaign=1065&utm_source=git)** | NEW ORLEANS, LA, United States | On Site | Jul 19 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[SEO Intern](https://jobright.ai/jobs/info/6a509ee22e2ceb72963b3c85?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 19 |
 | **[We. Communications](https://www.wecommunications.com)** | **[Fall 2026 Public Relations Internship Program: Microsoft Cloud](https://jobright.ai/jobs/info/6a42b3056a9c2774b3fa6f00?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 18 |
@@ -113,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Orchestra](https://www.orchestraco.com)** | **[Emerging Talent Communications Internship – Consumer, Sports & Technology (Fall 2026)](https://jobright.ai/jobs/info/6a5442c7e726ec56126a9a01?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 18 |
 | ↳ | **[Emerging Talent Communications Internship – Consumer, Sports & Technology (Fall 2026)](https://jobright.ai/jobs/info/6a3f210fce7cce40b342314d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
 | ↳ | **[Emerging Talent Communications Internship – Philanthropy & Impact (Fall 2026)](https://jobright.ai/jobs/info/6a3f239778237a036d5e69be?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
+| **[Acadium](http://www.acadium.com)** | **[AI Video Marketing Intern](https://jobright.ai/jobs/info/6a5c9e99c8e3a473cb8b29e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Snowflake](https://www.snowflake.com)** | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53e6bd8ef95364ead93c62?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
 | ↳ | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
 | **[Indiana University Bloomington](https://projectmoonshine.org/)** | **[GlobalNOC Communications Intern](https://jobright.ai/jobs/info/6a5b4b2d3ac7627fe9007eb8?utm_campaign=1065&utm_source=git)** | Bloomington, IN, United States | Hybrid | Jul 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Social Media Marketing](https://jobright.ai/jobs/info/6a5ad9943ac7627fe90058b0?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | Jul 17 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Venues Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a79fa856af468ab008c75?utm_campaign=1065&utm_source=git)** | Washington, DC 20004, United States | On Site | Jul 17 |
 | ↳ | **[Internship: Digital Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a83103ac7627fe90047cb?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 17 |
-| **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON] Social Media Intern](https://jobright.ai/jobs/info/6a5adff2c8e3a473cb8ad807?utm_campaign=1065&utm_source=git)** | El Segundo, California | Hybrid | Jul 17 |
-| **[WEBTOON](https://about.webtoon.com)** | **[[WEBTOON] Social Media Intern](https://jobright.ai/jobs/info/6a5adcc963a8f619507c8909?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | Hybrid | Jul 17 |
-| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Advertising Intern - Winthrop](https://jobright.ai/jobs/info/6a5adcdb3ac7627fe9005b45?utm_campaign=1065&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 17 |
-| **[Naveera Tech](https://www.naveera.tech/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5b1193856af468ab00b6ad?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Jul 17 |
-| **[NASCAR Speedpark Smoky Mountains](http://www.nascarspeedpark.com)** | **[Marketing and Community Outreach Intern](https://jobright.ai/jobs/info/6a5a600d3ac7627fe9003be7?utm_campaign=1065&utm_source=git)** | Smoky Mountains, 37862 | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
