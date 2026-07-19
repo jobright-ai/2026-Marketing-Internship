@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SecureRx Technologies Inc.](secure-rx.ca)** | **[Marketing Intern (Co-op) – Fall 2026, (Healthcare SaaS) - Remote](https://jobright.ai/jobs/info/6a5cfbb063a8f619507ce6ad?utm_campaign=1065&utm_source=git)** | Ontario, Canada | Remote | Jul 19 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6a5cf41c856af468ab010086?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 19 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a5ce6bac8e3a473cb8b3334?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Jul 19 |
 | **[nothing else](thenothingelse.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5ce40b686b4755d1e1ca91?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Jul 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern (59926)](https://jobright.ai/jobs/info/6a5ae306686b4755d1e1729a?utm_campaign=1065&utm_source=git)** | Winston Salem, NC, United States | On Site | Jul 17 |
 | **[Clearline](https://www.lancey.io)** | **[Growth Intern/Co-op - 2026 Fall](https://jobright.ai/jobs/info/6a5a90ce856af468ab009359?utm_campaign=1065&utm_source=git)** | Kitchener, ON, CA | On Site | Jul 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a5a956e63a8f619507c7d78?utm_campaign=1065&utm_source=git)** | CA-Burbank;2900 W. Alameda Ave. (The CW), United States of America | On Site | Jul 17 |
-| **[Hometown Grocers, Inc.](https://www.hgistores.com)** | **[Marketing / Digital Content Intern](https://jobright.ai/jobs/info/6a5adb1d686b4755d1e16c5e?utm_campaign=1065&utm_source=git)** | De Pere, WI, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
