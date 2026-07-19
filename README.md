@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zipline](https://www.zipline.com/)** | **[Holiday Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a57586b10c4d945d864dcf7?utm_campaign=1065&utm_source=git)** | South San Francisco, California, USA | On Site | Jul 19 |
+| **[Icon Train Smarter](http://icontraining.app)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a5cc39ac8e3a473cb8b2eba?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 19 |
+| **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Entertainment Marketing Intern](https://jobright.ai/jobs/info/6a5cc2683ac7627fe900b14a?utm_campaign=1065&utm_source=git)** | East Nashville, TN, United States | Hybrid | Jul 19 |
 | **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[SEM and Display Marketing Intern - Philippines](https://jobright.ai/jobs/info/6a5cbe3a856af468ab00f9d5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[PEY Intern - Trade Marketing](https://jobright.ai/jobs/info/6a513ec878e364789ca5a24e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 19 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Talent Marketing Intern](https://jobright.ai/jobs/info/69fceed7b113035a9f8ecfeb?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, US | On Site | Jul 19 |
@@ -118,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Emerging Talent Communications Internship – Consumer, Sports & Technology (Fall 2026)](https://jobright.ai/jobs/info/6a3f210fce7cce40b342314d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
 | ↳ | **[Emerging Talent Communications Internship – Philanthropy & Impact (Fall 2026)](https://jobright.ai/jobs/info/6a3f239778237a036d5e69be?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
 | **[Acadium](http://www.acadium.com)** | **[AI Video Marketing Intern](https://jobright.ai/jobs/info/6a5c9e99c8e3a473cb8b29e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 18 |
-| **[Snowflake](https://www.snowflake.com)** | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53e6bd8ef95364ead93c62?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
-| ↳ | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
+| **[Snowflake](https://www.snowflake.com)** | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
+| ↳ | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53e6bd8ef95364ead93c62?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
 | **[Indiana University Bloomington](https://projectmoonshine.org/)** | **[GlobalNOC Communications Intern](https://jobright.ai/jobs/info/6a5b4b2d3ac7627fe9007eb8?utm_campaign=1065&utm_source=git)** | Bloomington, IN, United States | Hybrid | Jul 18 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a53f3ad8576ec69c01517c2?utm_campaign=1065&utm_source=git)** | BALTIMORE, MD, US | On Site | Jul 18 |
 | **[Alchemy](https://alchemy.com)** | **[Alchemy Marketing Internship](https://jobright.ai/jobs/info/6a5b3b92686b4755d1e18fbb?utm_campaign=1065&utm_source=git)** | 12022 Blue Valley Pkwy, Overland Park, KS 66213, United States | Hybrid | Jul 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tixr](https://www.tixr.com)** | **[General Internship (Marketing & Socials)](https://jobright.ai/jobs/info/6a5ada46686b4755d1e16b93?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Jul 17 |
 | **[Inhubber](https://inhubber.com/)** | **[Internship: Procurement, Procurement Event Management & Procurement Marketing](https://jobright.ai/jobs/info/6a5ad8684da96a42cfd97730?utm_campaign=1065&utm_source=git)** | London, Canada | Remote | Jul 17 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Sales Event Planning (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5acfed3ac7627fe90051e3?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
-| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Social Media Marketing](https://jobright.ai/jobs/info/6a5ad9943ac7627fe90058b0?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | Jul 17 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Venues Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a79fa856af468ab008c75?utm_campaign=1065&utm_source=git)** | Washington, DC 20004, United States | On Site | Jul 17 |
-| ↳ | **[Internship: Digital Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a83103ac7627fe90047cb?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
