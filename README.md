@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[SEM and Display Marketing Intern - Philippines](https://jobright.ai/jobs/info/6a5cbe3a856af468ab00f9d5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[PEY Intern - Trade Marketing](https://jobright.ai/jobs/info/6a513ec878e364789ca5a24e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 19 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Talent Marketing Intern](https://jobright.ai/jobs/info/69fceed7b113035a9f8ecfeb?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, US | On Site | Jul 19 |
 | **[Mind You](https://www.mindyou.com.ph)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/6a5c90e84da96a42cfd9cd24?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[MARKETING/COMMUNICATIONS INTERN](https://jobright.ai/jobs/info/6a55caf305c65f7c8f4c795d?utm_campaign=1065&utm_source=git)** | S&L Inc - Office - Lenexa, KS 66215 | On Site | Jul 18 |
 | **[General Digital Corporation](http://www.generaldigital.com)** | **[MARKETING / SALES / ADVERTISING INTERN](https://jobright.ai/jobs/info/6a5c1c9b63a8f619507cca1f?utm_campaign=1065&utm_source=git)** | South Windsor, CT, United States | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a5c1b36856af468ab00e43f?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 18 |
-| **[Memebox Corp (YC W14)](https://memebox.com/)** | **[Marketing Intern – Social Media & Content](https://jobright.ai/jobs/info/6a5c12913ac7627fe9009a08?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 18 |
 | **[Hideouts](https://madlyradlabs.web.app)** | **[Summer High School Marketing Startup Intern (Remote)](https://jobright.ai/jobs/info/6a5c04224da96a42cfd9b9a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 18 |
 | **[I.M.P.](http://www.impconcerts.com)** | **[Communications Internship](https://jobright.ai/jobs/info/6a5c02344da96a42cfd9b957?utm_campaign=1065&utm_source=git)** | All Venues - Washington, DC | On Site | Jul 18 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[PR & Production Intern](https://jobright.ai/jobs/info/6a5bfafdc8e3a473cb8b1389?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 18 |
@@ -118,8 +118,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Emerging Talent Communications Internship – Consumer, Sports & Technology (Fall 2026)](https://jobright.ai/jobs/info/6a3f210fce7cce40b342314d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
 | ↳ | **[Emerging Talent Communications Internship – Philanthropy & Impact (Fall 2026)](https://jobright.ai/jobs/info/6a3f239778237a036d5e69be?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
 | **[Acadium](http://www.acadium.com)** | **[AI Video Marketing Intern](https://jobright.ai/jobs/info/6a5c9e99c8e3a473cb8b29e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 18 |
-| **[Snowflake](https://www.snowflake.com)** | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
-| ↳ | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53e6bd8ef95364ead93c62?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
+| **[Snowflake](https://www.snowflake.com)** | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53e6bd8ef95364ead93c62?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
+| ↳ | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
 | **[Indiana University Bloomington](https://projectmoonshine.org/)** | **[GlobalNOC Communications Intern](https://jobright.ai/jobs/info/6a5b4b2d3ac7627fe9007eb8?utm_campaign=1065&utm_source=git)** | Bloomington, IN, United States | Hybrid | Jul 18 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a53f3ad8576ec69c01517c2?utm_campaign=1065&utm_source=git)** | BALTIMORE, MD, US | On Site | Jul 18 |
 | **[Alchemy](https://alchemy.com)** | **[Alchemy Marketing Internship](https://jobright.ai/jobs/info/6a5b3b92686b4755d1e18fbb?utm_campaign=1065&utm_source=git)** | 12022 Blue Valley Pkwy, Overland Park, KS 66213, United States | Hybrid | Jul 18 |
