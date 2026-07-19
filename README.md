@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51277902522b5b722e8037?utm_campaign=1065&utm_source=git)** | NEW BRUNSWICK, NJ, US | On Site | Jul 19 |
+| **[Girl Dinner Social](www.instagram.com/girldinnersocial/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a5d3761856af468ab0107ab?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 19 |
+| **[Emotional Learning Co.](https://www.linkedin.com/company/112630118)** | **[Growth & Performance Marketing Intern](https://jobright.ai/jobs/info/6a5d322ac8e3a473cb8b3aa1?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 19 |
+| **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Carlsbad Guest Service Intern](https://jobright.ai/jobs/info/6a5d2f8063a8f619507cec2b?utm_campaign=1065&utm_source=git)** | 7610 Via Campanile, Carlsbad, CA, 92009, US | On Site | Jul 19 |
+| **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[Digital Marketing Trainee (English Native)](https://jobright.ai/jobs/info/6a5d2ed863a8f619507cec0c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a5d2e1763a8f619507cebef?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 19 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a433012cbf92c7bcd36e861?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 19 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Intern, Global Communications & Journalism](https://jobright.ai/jobs/info/6a5a5ea3686b4755d1e14dd7?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 19 |
 | **[UCP of Central Florida](https://www.ucpcfl.org)** | **[Intern - Marketing Storytelling](https://jobright.ai/jobs/info/6a5d1c24686b4755d1e1ce60?utm_campaign=1065&utm_source=git)** | Administration - Orlando, FL 32817 | On Site | Jul 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Conner Prairie](http://www.connerprairie.org)** | **[Public Relations and Communications Intern - Fall 2026 - $14/hour up to 180 hours](https://jobright.ai/jobs/info/6a51b0948d7d3e6cf1cc1180?utm_campaign=1065&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038 | Hybrid | Jul 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a5b0213856af468ab00b46e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
 | **[Night](https://night.co/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a5aff65856af468ab00b3de?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 17 |
-| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a5af5ed3ac7627fe90069c5?utm_campaign=1065&utm_source=git)** | BALTIMORE, MD, United States | On Site | Jul 17 |
-| **[InstaLILY AI](https://instalily.ai)** | **[GTM-Operations Intern, Events](https://jobright.ai/jobs/info/6a5216628576ec69c014a594?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jul 17 |
-| **[Lomography](http://www.lomography.com)** | **[Sales & Marketing Intern - College Credit](https://jobright.ai/jobs/info/6a31d7e70ff23769fdb20cb9?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 17 |
-| **[Breakwater Strategy](https://www.breakwaterstrategy.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a5c3e344da96a42cfd9c1f3?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Jul 17 |
-| **[CarLabs.ai](https://www.carlabs.ai/)** | **[Content Writer - Intern](https://jobright.ai/jobs/info/6a576657efb06a45240da4b9?utm_campaign=1065&utm_source=git)** | 23480 Park Sorento, Calabasas, California, us | On Site | Jul 17 |
-| **[The PAM Firm, Inc](https://thepamfirm.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a528e959fbdab22fe13c1b9?utm_campaign=1065&utm_source=git)** | Long Beach, CA, USA | Remote | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
