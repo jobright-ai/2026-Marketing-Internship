@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6a5cf41c856af468ab010086?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 19 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a5ce6bac8e3a473cb8b3334?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Jul 19 |
 | **[nothing else](thenothingelse.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5ce40b686b4755d1e1ca91?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Jul 19 |
 | **[Northgate Resorts](https://northgateresorts.com)** | **[Hospitality Marketing Intern](https://jobright.ai/jobs/info/6a5ce2f04da96a42cfd9d705?utm_campaign=1065&utm_source=git)** | Glen, NH, United States | On Site | Jul 19 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Event planning volunteer/Intern](https://jobright.ai/jobs/info/6a59e986686b4755d1e123d1?utm_campaign=1065&utm_source=git)** | Chicago, IL, USA, Chicago, IL | On Site | Jul 19 |
 | **[Zipline](https://www.zipline.com/)** | **[Holiday Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a57586b10c4d945d864dcf7?utm_campaign=1065&utm_source=git)** | South San Francisco, California, USA | On Site | Jul 19 |
-| **[Icon Train Smarter](http://icontraining.app)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a5cc39ac8e3a473cb8b2eba?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 19 |
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Entertainment Marketing Intern](https://jobright.ai/jobs/info/6a5cc2683ac7627fe900b14a?utm_campaign=1065&utm_source=git)** | East Nashville, TN, United States | Hybrid | Jul 19 |
 | **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[SEM and Display Marketing Intern - Philippines](https://jobright.ai/jobs/info/6a5cbe3a856af468ab00f9d5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
-| **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[PEY Intern - Trade Marketing](https://jobright.ai/jobs/info/6a513ec878e364789ca5a24e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 19 |
+| **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[PEY Intern - Trade Marketing](https://jobright.ai/jobs/info/6a313f632ee3ac1b4beed7e3?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 19 |
+| ↳ | **[PEY Intern - Trade Marketing](https://jobright.ai/jobs/info/6a513ec878e364789ca5a24e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 19 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Talent Marketing Intern](https://jobright.ai/jobs/info/69fceed7b113035a9f8ecfeb?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, US | On Site | Jul 19 |
 | **[Mind You](https://www.mindyou.com.ph)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/6a5c90e84da96a42cfd9cd24?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
 | **[HiWave](https://shop.hiwave.co)** | **[Copywriting Intern](https://jobright.ai/jobs/info/6a5c8cd54da96a42cfd9cc4d?utm_campaign=1065&utm_source=git)** | 39 W 44th St, New York, NY 10036, USA | Remote | Jul 19 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[SEO Intern](https://jobright.ai/jobs/info/6a509ee22e2ceb72963b3c85?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 19 |
 | **[We. Communications](https://www.wecommunications.com)** | **[Fall 2026 Public Relations Internship Program: Microsoft Cloud](https://jobright.ai/jobs/info/6a42b3056a9c2774b3fa6f00?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 18 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a5c5c72686b4755d1e1bae5?utm_campaign=1065&utm_source=git)** | Omaha, NE, United States | On Site | Jul 18 |
-| **[Intransigense](http://intransigense.com)** | **[Marketing Intern — Fall 2026](https://jobright.ai/jobs/info/6a5c4f3b4da96a42cfd9c382?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 18 |
 | **[Janji](http://janji.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6a5c4e4163a8f619507cd13f?utm_campaign=1065&utm_source=git)** | Unit 202, MA | On Site | Jul 18 |
 | **[MBJ Network](www.mbj-network.com)** | **[Event Planner- Intern](https://jobright.ai/jobs/info/6a5c3a7c856af468ab00e9a7?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator & Partner Marketing Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5c373f856af468ab00e884?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clearline](https://www.lancey.io)** | **[Growth Intern/Co-op - 2026 Fall](https://jobright.ai/jobs/info/6a5a90ce856af468ab009359?utm_campaign=1065&utm_source=git)** | Kitchener, ON, CA | On Site | Jul 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a5a956e63a8f619507c7d78?utm_campaign=1065&utm_source=git)** | CA-Burbank;2900 W. Alameda Ave. (The CW), United States of America | On Site | Jul 17 |
 | **[Hometown Grocers, Inc.](https://www.hgistores.com)** | **[Marketing / Digital Content Intern](https://jobright.ai/jobs/info/6a5adb1d686b4755d1e16c5e?utm_campaign=1065&utm_source=git)** | De Pere, WI, United States | On Site | Jul 17 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, International Regional Marketing Team (Fall 2026)](https://jobright.ai/jobs/info/6a5b3cf03ac7627fe9007c6d?utm_campaign=1065&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
