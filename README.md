@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Backlinkgen](https://backlinkgen.com)** | **[Internship : Digital -Marketing Task](https://jobright.ai/jobs/info/6a5d1effc8e3a473cb8b3873?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Jul 19 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a433012cbf92c7bcd36e861?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 19 |
+| **[Meridian International Center](http://www.meridian.org)** | **[Intern, Global Communications & Journalism](https://jobright.ai/jobs/info/6a5a5ea3686b4755d1e14dd7?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 19 |
 | **[UCP of Central Florida](https://www.ucpcfl.org)** | **[Intern - Marketing Storytelling](https://jobright.ai/jobs/info/6a5d1c24686b4755d1e1ce60?utm_campaign=1065&utm_source=git)** | Administration - Orlando, FL 32817 | On Site | Jul 19 |
 | **[Cruise Planners HQ](http://www.cruiseplanners.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a562e3f53b3962b910ae892?utm_campaign=1065&utm_source=git)** | 3300 N University Dr, Coral Springs, FL 33065, USA | On Site | Jul 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Internal Activation & Storytelling, Global Sponsorships](https://jobright.ai/jobs/info/6a434d65e09ecb4959643f64?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a5ce6bac8e3a473cb8b3334?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Jul 19 |
 | **[nothing else](thenothingelse.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5ce40b686b4755d1e1ca91?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Jul 19 |
 | **[Northgate Resorts](https://northgateresorts.com)** | **[Hospitality Marketing Intern](https://jobright.ai/jobs/info/6a5ce2f04da96a42cfd9d705?utm_campaign=1065&utm_source=git)** | Glen, NH, United States | On Site | Jul 19 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Brand Internship](https://jobright.ai/jobs/info/6a5d27794da96a42cfd9de03?utm_campaign=1065&utm_source=git)** | College Park, MD, United States | On Site | Jul 19 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Event planning volunteer/Intern](https://jobright.ai/jobs/info/6a59e986686b4755d1e123d1?utm_campaign=1065&utm_source=git)** | Chicago, IL, USA, Chicago, IL | On Site | Jul 19 |
 | **[Zipline](https://www.zipline.com/)** | **[Holiday Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a57586b10c4d945d864dcf7?utm_campaign=1065&utm_source=git)** | South San Francisco, California, USA | On Site | Jul 19 |
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Entertainment Marketing Intern](https://jobright.ai/jobs/info/6a5cc2683ac7627fe900b14a?utm_campaign=1065&utm_source=git)** | East Nashville, TN, United States | Hybrid | Jul 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Breakwater Strategy](https://www.breakwaterstrategy.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a5c3e344da96a42cfd9c1f3?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Jul 17 |
 | **[CarLabs.ai](https://www.carlabs.ai/)** | **[Content Writer - Intern](https://jobright.ai/jobs/info/6a576657efb06a45240da4b9?utm_campaign=1065&utm_source=git)** | 23480 Park Sorento, Calabasas, California, us | On Site | Jul 17 |
 | **[The PAM Firm, Inc](https://thepamfirm.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a528e959fbdab22fe13c1b9?utm_campaign=1065&utm_source=git)** | Long Beach, CA, USA | Remote | Jul 17 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Fashion and Marketing Copywriter Internship](https://jobright.ai/jobs/info/6a5417b1e726ec56126a91ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
-| **[Chino Commercial Bank](https://www.chinocommercialbank.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5ae361686b4755d1e17329?utm_campaign=1065&utm_source=git)** | Chino, CA, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
