@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Backlinkgen](https://backlinkgen.com)** | **[Internship : Digital -Marketing Task](https://jobright.ai/jobs/info/6a5d1effc8e3a473cb8b3873?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Jul 19 |
+| **[UCP of Central Florida](https://www.ucpcfl.org)** | **[Intern - Marketing Storytelling](https://jobright.ai/jobs/info/6a5d1c24686b4755d1e1ce60?utm_campaign=1065&utm_source=git)** | Administration - Orlando, FL 32817 | On Site | Jul 19 |
+| **[Cruise Planners HQ](http://www.cruiseplanners.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a562e3f53b3962b910ae892?utm_campaign=1065&utm_source=git)** | 3300 N University Dr, Coral Springs, FL 33065, USA | On Site | Jul 19 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Internal Activation & Storytelling, Global Sponsorships](https://jobright.ai/jobs/info/6a434d65e09ecb4959643f64?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a5d2090856af468ab0104ec?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 19 |
 | **[SecureRx Technologies Inc.](secure-rx.ca)** | **[Marketing Intern (Co-op) – Fall 2026, (Healthcare SaaS) - Remote](https://jobright.ai/jobs/info/6a5cfbb063a8f619507ce6ad?utm_campaign=1065&utm_source=git)** | Ontario, Canada | Remote | Jul 19 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6a5cf41c856af468ab010086?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 19 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a5ce6bac8e3a473cb8b3334?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Jul 19 |
@@ -96,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Ward Home, Inc.](http://www.wardhome.org)** | **[Outreach and Events Intern](https://jobright.ai/jobs/info/6a5be488686b4755d1e1a92b?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 18 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Event Marketing Intern, Chartwells Higher Ed / University of Minnesota - Minneapolis](https://jobright.ai/jobs/info/6a5bcdcb686b4755d1e1a67f?utm_campaign=1065&utm_source=git)** | 515 Delaware St Se, Minneapolis, MN, 55455, US | On Site | Jul 18 |
 | **[Sensis](http://sensisagency.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6a5bcb3963a8f619507cc034?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 18 |
-| **[Yep Ads](http://www.yepads.com/)** | **[Marketing Intern (Part-Time or Full-Time)](https://jobright.ai/jobs/info/6a5bc9754da96a42cfd9b231?utm_campaign=1065&utm_source=git)** | Markham, Ontario, Canada | On Site | Jul 18 |
 | **[Diamond Kinetics](http://diamondkinetics.com)** | **[Marketing Activation Intern](https://jobright.ai/jobs/info/6a5bc82ec8e3a473cb8b0d8b?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 18 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sheep Marketing Intern](https://jobright.ai/jobs/info/65076e1d9fd81a9623a81973?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 18 |
 | **[Travel Hotline](https://travel-hotline.com)** | **[Unpaid Marketing Intern](https://jobright.ai/jobs/info/6a5bbe69c8e3a473cb8b0b94?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The PAM Firm, Inc](https://thepamfirm.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a528e959fbdab22fe13c1b9?utm_campaign=1065&utm_source=git)** | Long Beach, CA, USA | Remote | Jul 17 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Fashion and Marketing Copywriter Internship](https://jobright.ai/jobs/info/6a5417b1e726ec56126a91ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
 | **[Chino Commercial Bank](https://www.chinocommercialbank.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5ae361686b4755d1e17329?utm_campaign=1065&utm_source=git)** | Chino, CA, United States | On Site | Jul 17 |
-| **[Socure](http://www.socure.com)** | **[Field Marketing Intern - Public Sector](https://jobright.ai/jobs/info/6a5a6960686b4755d1e1504f?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 17 |
-| **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern (59926)](https://jobright.ai/jobs/info/6a5ae306686b4755d1e1729a?utm_campaign=1065&utm_source=git)** | Winston Salem, NC, United States | On Site | Jul 17 |
-| **[Clearline](https://www.lancey.io)** | **[Growth Intern/Co-op - 2026 Fall](https://jobright.ai/jobs/info/6a5a90ce856af468ab009359?utm_campaign=1065&utm_source=git)** | Kitchener, ON, CA | On Site | Jul 17 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a5a956e63a8f619507c7d78?utm_campaign=1065&utm_source=git)** | CA-Burbank;2900 W. Alameda Ave. (The CW), United States of America | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
