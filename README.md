@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SUMMITHOUSE](summithousehq.com)** | **[Influencer Manager Intern](https://jobright.ai/jobs/info/6a5d41bec8e3a473cb8b3cc8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51277902522b5b722e8037?utm_campaign=1065&utm_source=git)** | NEW BRUNSWICK, NJ, US | On Site | Jul 19 |
 | **[Girl Dinner Social](www.instagram.com/girldinnersocial/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a5d3761856af468ab0107ab?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 19 |
 | **[Emotional Learning Co.](https://www.linkedin.com/company/112630118)** | **[Growth & Performance Marketing Intern](https://jobright.ai/jobs/info/6a5d322ac8e3a473cb8b3aa1?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BMTECH GROUP (BMTG)](https://www.bmtechgroup.com)** | **[Marketing Intern - Bilingual (English/Spanish)](https://jobright.ai/jobs/info/6a52c8188576ec69c014d73c?utm_campaign=1065&utm_source=git)** | Dallas, TX, USA | On Site | Jul 17 |
 | **[Conner Prairie](http://www.connerprairie.org)** | **[Public Relations and Communications Intern - Fall 2026 - $14/hour up to 180 hours](https://jobright.ai/jobs/info/6a51b0948d7d3e6cf1cc1180?utm_campaign=1065&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038 | Hybrid | Jul 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a5b0213856af468ab00b46e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
-| **[Night](https://night.co/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a5aff65856af468ab00b3de?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
