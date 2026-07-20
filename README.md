@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[PR & Production Intern](https://jobright.ai/jobs/info/6a5bfafdc8e3a473cb8b1389?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 19 |
+| **[Susan G. Komen](http://www.komen.org)** | **[Fundraising Intern NJ](https://jobright.ai/jobs/info/6a5a5ea24da96a42cfd95937?utm_campaign=1065&utm_source=git)** | Cliffside Park, NJ, United States | Remote | Jul 19 |
+| **[Infant Massage USA](http://www.linktr.ee/infantmassageusa)** | **[Social Media Internship (Remote, Unpaid Volunteer)](https://jobright.ai/jobs/info/6a5d8dff63a8f619507cfa4e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
+| **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Richmond (59928)](https://jobright.ai/jobs/info/6a5586fbf2c46727285f2b0c?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Jul 19 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Advertising Intern - Furman University](https://jobright.ai/jobs/info/6a5d7f4d686b4755d1e1dd39?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Jul 19 |
 | **[InSource Solutions Group](http://www.insourcess.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5097f52e2ceb72963b33c1?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | Remote | Jul 19 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Brand & Community Relations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a5ae336856af468ab00a821?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 19 |
@@ -105,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a5c1b36856af468ab00e43f?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 18 |
 | **[Hideouts](https://madlyradlabs.web.app)** | **[Summer High School Marketing Startup Intern (Remote)](https://jobright.ai/jobs/info/6a5c04224da96a42cfd9b9a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 18 |
 | **[I.M.P.](http://www.impconcerts.com)** | **[Communications Internship](https://jobright.ai/jobs/info/6a5c02344da96a42cfd9b957?utm_campaign=1065&utm_source=git)** | All Venues - Washington, DC | On Site | Jul 18 |
-| **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[PR & Production Intern](https://jobright.ai/jobs/info/6a5bfafdc8e3a473cb8b1389?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a5bff11c8e3a473cb8b145b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 18 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Demand Generation Intern](https://jobright.ai/jobs/info/6a57afb5f7517b519ad5c2f2?utm_campaign=1065&utm_source=git)** | Arlington, VA, United States | Hybrid | Jul 18 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Fall 2026 - Brand Management](https://jobright.ai/jobs/info/6a5be81c4da96a42cfd9b647?utm_campaign=1065&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, San Gabriel Valley](https://jobright.ai/jobs/info/6a5b1f303ac7627fe9007785?utm_campaign=1065&utm_source=git)** | San Gabriel Valley, CA, United States | Remote | Jul 17 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a544498d007ee02d95fe344?utm_campaign=1065&utm_source=git)** | NEW BRUNSWICK, NJ, US | On Site | Jul 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5b1db163a8f619507ca537?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 17 |
-| **[Los Angeles Cleantech Incubator (LACI)](http://laincubator.org)** | **[Community Engagement and Events Intern (BATWorks NYC)](https://jobright.ai/jobs/info/6a4eb48bfc327f422fef3e07?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jul 17 |
-| **[CIVCO Medical Solutions](http://www.civco.com/mmi.htm)** | **[Events Marketing Intern](https://jobright.ai/jobs/info/6a593fff4da96a42cfd90097?utm_campaign=1065&utm_source=git)** | Coralville, IA, United States | On Site | Jul 17 |
-| **[Vista Compliance Laboratories](https://www.vista-compliance.com)** | **[Digital Marketing Intern (Internship)](https://jobright.ai/jobs/info/6a5b173c686b4755d1e18846?utm_campaign=1065&utm_source=git)** | San Clemente, CA, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
