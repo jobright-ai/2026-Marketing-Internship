@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Brand & Community Relations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a5ae336856af468ab00a821?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 19 |
+| **[Girl Dinner Social](www.instagram.com/girldinnersocial/)** | **[Social Media Marketing Intern (Chicago)](https://jobright.ai/jobs/info/6a5d6a18c8e3a473cb8b4260?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 19 |
 | **[Khalife Group](khalifegroup.com)** | **[Social Media Coordinator Intern](https://jobright.ai/jobs/info/6a5d5d76686b4755d1e1d979?utm_campaign=1065&utm_source=git)** | Taylor, MI, United States | Hybrid | Jul 19 |
 | **[Perf.](https://www.perf.world/)** | **[Content Marketing Intern (Commission-Based)](https://jobright.ai/jobs/info/6a5d54d94da96a42cfd9e4f7?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jul 19 |
 | **[Innate](https://innate.bot)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5d53db686b4755d1e1d896?utm_campaign=1065&utm_source=git)** | Bay Area, United States | On Site | Jul 19 |
 | **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcasters](https://jobright.ai/jobs/info/6a5d4f0d3ac7627fe900c129?utm_campaign=1065&utm_source=git)** | Albany, NY, United States | On Site | Jul 19 |
 | **[SUMMITHOUSE](summithousehq.com)** | **[Influencer Manager Intern](https://jobright.ai/jobs/info/6a5d41bec8e3a473cb8b3cc8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51277902522b5b722e8037?utm_campaign=1065&utm_source=git)** | NEW BRUNSWICK, NJ, US | On Site | Jul 19 |
-| **[Girl Dinner Social](www.instagram.com/girldinnersocial/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a5d3761856af468ab0107ab?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 19 |
 | **[Emotional Learning Co.](https://www.linkedin.com/company/112630118)** | **[Growth & Performance Marketing Intern](https://jobright.ai/jobs/info/6a5d322ac8e3a473cb8b3aa1?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 19 |
 | **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Carlsbad Guest Service Intern](https://jobright.ai/jobs/info/6a5d2f8063a8f619507cec2b?utm_campaign=1065&utm_source=git)** | 7610 Via Campanile, Carlsbad, CA, 92009, US | On Site | Jul 19 |
 | **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[Digital Marketing Trainee (English Native)](https://jobright.ai/jobs/info/6a5d2ed863a8f619507cec0c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Cleantech Incubator (LACI)](http://laincubator.org)** | **[Community Engagement and Events Intern (BATWorks NYC)](https://jobright.ai/jobs/info/6a4eb48bfc327f422fef3e07?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jul 17 |
 | **[CIVCO Medical Solutions](http://www.civco.com/mmi.htm)** | **[Events Marketing Intern](https://jobright.ai/jobs/info/6a593fff4da96a42cfd90097?utm_campaign=1065&utm_source=git)** | Coralville, IA, United States | On Site | Jul 17 |
 | **[Vista Compliance Laboratories](https://www.vista-compliance.com)** | **[Digital Marketing Intern (Internship)](https://jobright.ai/jobs/info/6a5b173c686b4755d1e18846?utm_campaign=1065&utm_source=git)** | San Clemente, CA, United States | On Site | Jul 17 |
-| **[WETA](https://weta.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a5b0692686b4755d1e18081?utm_campaign=1065&utm_source=git)** | Arlington, VA 22206, USA | Hybrid | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
