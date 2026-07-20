@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[Digital Marketing Trainee (English Native) - Greece](https://jobright.ai/jobs/info/6a5df38e270e3033b045b2d3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 20 |
 | **[POP MART](https://global.popmart.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5dde0467b2850e77ded9cf?utm_campaign=1065&utm_source=git)** | Los Angeles Metropolitan Area, United States | On Site | Jul 20 |
 | **[VOX ATL](https://voxatl.org)** | **[Near-Peer Special Projects Intern](https://jobright.ai/jobs/info/6a509fa8f08ee8320766ac83?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 20 |
 | **[Now Optics](https://www.nowoptics.com)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/6a5dd82667b2850e77ded586?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | On Site | Jul 20 |
@@ -102,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Meridian International Center](http://www.meridian.org)** | **[Intern, Global Communications & Journalism](https://jobright.ai/jobs/info/6a5a5ea3686b4755d1e14dd7?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 19 |
 | **[UCP of Central Florida](https://www.ucpcfl.org)** | **[Intern - Marketing Storytelling](https://jobright.ai/jobs/info/6a5d1c24686b4755d1e1ce60?utm_campaign=1065&utm_source=git)** | Administration - Orlando, FL 32817 | On Site | Jul 19 |
 | **[Cruise Planners HQ](http://www.cruiseplanners.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a562e3f53b3962b910ae892?utm_campaign=1065&utm_source=git)** | 3300 N University Dr, Coral Springs, FL 33065, USA | On Site | Jul 19 |
+| **[Flagship Pioneering](http://flagshippioneering.com)** | **[Serif Biomedicines, Market Intelligence and Strategy Internship](https://jobright.ai/jobs/info/6a2a7a699bf7365df089955e?utm_campaign=1065&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Internal Activation & Storytelling, Global Sponsorships](https://jobright.ai/jobs/info/6a434d65e09ecb4959643f64?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a5d2090856af468ab0104ec?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 19 |
 | **[SecureRx Technologies Inc.](secure-rx.ca)** | **[Marketing Intern (Co-op) – Fall 2026, (Healthcare SaaS) - Remote](https://jobright.ai/jobs/info/6a5cfbb063a8f619507ce6ad?utm_campaign=1065&utm_source=git)** | Ontario, Canada | Remote | Jul 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walker Sands](https://www.walkersands.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a51f71fae4052672fe9cef8?utm_campaign=1065&utm_source=git)** | Seattle | Hybrid | Jul 18 |
 | **[Community Action House](https://www.communityactionhouse.org)** | **[Events Intern](https://jobright.ai/jobs/info/6a51b5f778e364789ca5b613?utm_campaign=1065&utm_source=git)** | 739 Paw Paw Drive, Holland MI 49423 | On Site | Jul 18 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Business Development & Marketing Intern (CMMK, Fall 2026)](https://jobright.ai/jobs/info/6a5b875b3ac7627fe90087de?utm_campaign=1065&utm_source=git)** | Maryland Heights, MO, United States | Remote | Jul 18 |
-| ↳ | **[Strategic Student Program: Marketing Data Analytics Intern (CMMK, Fall 2026)](https://jobright.ai/jobs/info/6a5b8742686b4755d1e19c00?utm_campaign=1065&utm_source=git)** | St Louis, MO, United States | Remote | Jul 18 |
-| **[ProMach](http://www.promachbuilt.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4615f94f64ba41dcb4fb9a?utm_campaign=1065&utm_source=git)** | Covington, KY, USA | Hybrid | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
