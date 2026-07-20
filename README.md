@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reyco Granning Suspensions](http://www.reycogranning.com/)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5dc1e33ac7627fe900da4a?utm_campaign=1065&utm_source=git)** | Canton, OH, United States | On Site | Jul 19 |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51c53678e364789ca5c87a?utm_campaign=1065&utm_source=git)** | SYRACUSE, NY, US | On Site | Jul 19 |
 | **[Aramark UK](aramark.co.uk)** | **[Marketing Intern - Student - West Chester Univ. Job Details / Aramark](https://jobright.ai/jobs/info/6a5dada1856af468ab012043?utm_campaign=1065&utm_source=git)** | West Chester, PA, United States | On Site | Jul 19 |
 | ↳ | **[Marketing Intern - Texas State University Job Details / Aramark](https://jobright.ai/jobs/info/6a4314abff87fd527f986868?utm_campaign=1065&utm_source=git)** | San Marcos, TX, United States | On Site | Jul 19 |
 | ↳ | **[Student Worker Marketing Intern - Univ. of Central Ark Job Details / Aramark](https://jobright.ai/jobs/info/6a5daba263a8f619507d065a?utm_campaign=1065&utm_source=git)** | Conway, AR, United States | On Site | Jul 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Digital Marketing Intern Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b75cc856af468ab00ce95?utm_campaign=1065&utm_source=git)** | La Crosse, WI, United States | On Site | Jul 18 |
 | **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5b71b73ac7627fe900854a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 18 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Preference & Engagement Marketing Intern (CMMK, Fall 2026)](https://jobright.ai/jobs/info/6a5b70a6686b4755d1e19902?utm_campaign=1065&utm_source=git)** | St Louis, MO, United States | Remote | Jul 18 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: FREE Initiative](https://jobright.ai/jobs/info/6a5b6959856af468ab00cc44?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 18 |
-| **[Hillpointe](http://www.hillpointe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3ebf89882f121f56a3b28f?utm_campaign=1065&utm_source=git)** | Winter Park, FL, United States | Hybrid | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
