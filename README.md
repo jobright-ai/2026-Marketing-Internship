@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Now Optics](https://www.nowoptics.com)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/6a5dd82667b2850e77ded586?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | On Site | Jul 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Critical Threats Project - Communications and Operations](https://jobright.ai/jobs/info/6a5dc85f3ac7627fe900dbee?utm_campaign=1065&utm_source=git)** | UNAVAILABLE, DC, US | On Site | Jul 20 |
 | **[Reyco Granning Suspensions](http://www.reycogranning.com/)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5dc1e33ac7627fe900da4a?utm_campaign=1065&utm_source=git)** | Canton, OH, United States | On Site | Jul 19 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51c53678e364789ca5c87a?utm_campaign=1065&utm_source=git)** | SYRACUSE, NY, US | On Site | Jul 19 |
 | **[Aramark UK](aramark.co.uk)** | **[Marketing Intern - Student - West Chester Univ. Job Details / Aramark](https://jobright.ai/jobs/info/6a5dada1856af468ab012043?utm_campaign=1065&utm_source=git)** | West Chester, PA, United States | On Site | Jul 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ProMach](http://www.promachbuilt.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4615f94f64ba41dcb4fb9a?utm_campaign=1065&utm_source=git)** | Covington, KY, USA | Hybrid | Jul 18 |
 | **[Zipline](https://www.zipline.com/)** | **[Field Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a578b30a791c6211befebae?utm_campaign=1065&utm_source=git)** | Dallas-Fort Worth, TX, United States | Hybrid | Jul 18 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Digital Marketing Intern Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b75cc856af468ab00ce95?utm_campaign=1065&utm_source=git)** | La Crosse, WI, United States | On Site | Jul 18 |
-| **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5b71b73ac7627fe900854a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 18 |
-| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Preference & Engagement Marketing Intern (CMMK, Fall 2026)](https://jobright.ai/jobs/info/6a5b70a6686b4755d1e19902?utm_campaign=1065&utm_source=git)** | St Louis, MO, United States | Remote | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
