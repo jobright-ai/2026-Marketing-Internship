@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perf.](https://www.perf.world/)** | **[Content Marketing Intern (Commission-Based)](https://jobright.ai/jobs/info/6a5d54d94da96a42cfd9e4f7?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jul 19 |
+| **[Innate](https://innate.bot)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5d53db686b4755d1e1d896?utm_campaign=1065&utm_source=git)** | Bay Area, United States | On Site | Jul 19 |
+| **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcasters](https://jobright.ai/jobs/info/6a5d4f0d3ac7627fe900c129?utm_campaign=1065&utm_source=git)** | Albany, NY, United States | On Site | Jul 19 |
 | **[SUMMITHOUSE](summithousehq.com)** | **[Influencer Manager Intern](https://jobright.ai/jobs/info/6a5d41bec8e3a473cb8b3cc8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51277902522b5b722e8037?utm_campaign=1065&utm_source=git)** | NEW BRUNSWICK, NJ, US | On Site | Jul 19 |
 | **[Girl Dinner Social](www.instagram.com/girldinnersocial/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a5d3761856af468ab0107ab?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vista Compliance Laboratories](https://www.vista-compliance.com)** | **[Digital Marketing Intern (Internship)](https://jobright.ai/jobs/info/6a5b173c686b4755d1e18846?utm_campaign=1065&utm_source=git)** | San Clemente, CA, United States | On Site | Jul 17 |
 | **[WETA](https://weta.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a5b0692686b4755d1e18081?utm_campaign=1065&utm_source=git)** | Arlington, VA 22206, USA | Hybrid | Jul 17 |
 | **[Fisher Group: A Marketing.com Company](http://www.fishergroup.com)** | **[Sales and Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a5b0588c8e3a473cb8ae890?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 17 |
-| **[BMTECH GROUP (BMTG)](https://www.bmtechgroup.com)** | **[Marketing Intern - Bilingual (English/Spanish)](https://jobright.ai/jobs/info/6a52c8188576ec69c014d73c?utm_campaign=1065&utm_source=git)** | Dallas, TX, USA | On Site | Jul 17 |
-| **[Conner Prairie](http://www.connerprairie.org)** | **[Public Relations and Communications Intern - Fall 2026 - $14/hour up to 180 hours](https://jobright.ai/jobs/info/6a51b0948d7d3e6cf1cc1180?utm_campaign=1065&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038 | Hybrid | Jul 17 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a5b0213856af468ab00b46e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
