@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gela Wesh](https://gela-wesh.com/)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/6a5e1c4167b2850e77def443?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 20 |
 | **[Stranger Soccer](http://strangersoccer.com/)** | **[Marketing & Operations Intern](https://jobright.ai/jobs/info/6a5e012867b2850e77deeebf?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 20 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern- Paid Social](https://jobright.ai/jobs/info/6a5dfdec270e3033b045b890?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 20 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b34dd4ad360c0340a86f03?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Jul 20 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a52916be726ec56126a3a5b?utm_campaign=1065&utm_source=git)** | Schenectady, NY, United States | Hybrid | Jul 20 |
 | ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a1e4b02a507373dff6b9bc8?utm_campaign=1065&utm_source=git)** | Schenectady, NY, US | Hybrid | Jul 20 |
-| ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a52916be726ec56126a3a5b?utm_campaign=1065&utm_source=git)** | Schenectady, NY, United States | Hybrid | Jul 20 |
+| ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b34dd4ad360c0340a86f03?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Jul 20 |
 | **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[Digital Marketing Trainee (English Native) - Greece](https://jobright.ai/jobs/info/6a5df38e270e3033b045b2d3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 20 |
 | **[POP MART](https://global.popmart.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5dde0467b2850e77ded9cf?utm_campaign=1065&utm_source=git)** | Los Angeles Metropolitan Area, United States | On Site | Jul 20 |
 | **[VOX ATL](https://voxatl.org)** | **[Near-Peer Special Projects Intern](https://jobright.ai/jobs/info/6a509fa8f08ee8320766ac83?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 20 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Brand & Community Relations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a5ae336856af468ab00a821?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 19 |
 | **[Girl Dinner Social](www.instagram.com/girldinnersocial/)** | **[Social Media Marketing Intern (Chicago)](https://jobright.ai/jobs/info/6a5d6a18c8e3a473cb8b4260?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 19 |
 | **[Khalife Group](khalifegroup.com)** | **[Social Media Coordinator Intern](https://jobright.ai/jobs/info/6a5d5d76686b4755d1e1d979?utm_campaign=1065&utm_source=git)** | Taylor, MI, United States | Hybrid | Jul 19 |
-| **[Perf.](https://www.perf.world/)** | **[Content Marketing Intern (Commission-Based)](https://jobright.ai/jobs/info/6a5d54d94da96a42cfd9e4f7?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jul 19 |
 | **[Innate](https://innate.bot)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5d53db686b4755d1e1d896?utm_campaign=1065&utm_source=git)** | Bay Area, United States | On Site | Jul 19 |
 | **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcasters](https://jobright.ai/jobs/info/6a5d4f0d3ac7627fe900c129?utm_campaign=1065&utm_source=git)** | Albany, NY, United States | On Site | Jul 19 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51277902522b5b722e8037?utm_campaign=1065&utm_source=git)** | NEW BRUNSWICK, NJ, US | On Site | Jul 19 |
