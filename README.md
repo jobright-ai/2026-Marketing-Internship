@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gela Wesh](https://gela-wesh.com/)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/6a5e1c4167b2850e77def443?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 20 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a5a956e63a8f619507c7d78?utm_campaign=1065&utm_source=git)** | CA-Burbank;2900 W. Alameda Ave. (The CW), United States of America | On Site | Jul 20 |
+| **[POWER Marketing Company](https://www.powermarketingcompany.com/)** | **[Digital Marketing Intern- Fall 2026](https://jobright.ai/jobs/info/6a5e2c26f3674a0545d2753a?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Remote | Jul 20 |
+| **[Relling](https://rellingsystems.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5e2b52f29acc1a11745d0f?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 20 |
+| **[Gela Wesh](https://gela-wesh.com/)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/6a5e1c4167b2850e77def443?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jul 20 |
+| **[UNDP Careers](https://www.undp.org/careers)** | **[Social Media intern (French) - HOME-BASED](https://jobright.ai/jobs/info/6a5e2afe27bf767ea68f50c8?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jul 20 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b495a806c1ba00c5461453?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Jul 20 |
 | **[Stranger Soccer](http://strangersoccer.com/)** | **[Marketing & Operations Intern](https://jobright.ai/jobs/info/6a5e012867b2850e77deeebf?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 20 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern- Paid Social](https://jobright.ai/jobs/info/6a5dfdec270e3033b045b890?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 20 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a52916be726ec56126a3a5b?utm_campaign=1065&utm_source=git)** | Schenectady, NY, United States | Hybrid | Jul 20 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b34dd4ad360c0340a86f03?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Jul 20 |
 | ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a1e4b02a507373dff6b9bc8?utm_campaign=1065&utm_source=git)** | Schenectady, NY, US | Hybrid | Jul 20 |
-| ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b34dd4ad360c0340a86f03?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Jul 20 |
+| ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a52916be726ec56126a3a5b?utm_campaign=1065&utm_source=git)** | Schenectady, NY, United States | Hybrid | Jul 20 |
 | **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[Digital Marketing Trainee (English Native) - Greece](https://jobright.ai/jobs/info/6a5df38e270e3033b045b2d3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 20 |
 | **[POP MART](https://global.popmart.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5dde0467b2850e77ded9cf?utm_campaign=1065&utm_source=git)** | Los Angeles Metropolitan Area, United States | On Site | Jul 20 |
 | **[VOX ATL](https://voxatl.org)** | **[Near-Peer Special Projects Intern](https://jobright.ai/jobs/info/6a509fa8f08ee8320766ac83?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Diamond Kinetics](http://diamondkinetics.com)** | **[Marketing Activation Intern](https://jobright.ai/jobs/info/6a5bc82ec8e3a473cb8b0d8b?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 18 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sheep Marketing Intern](https://jobright.ai/jobs/info/65076e1d9fd81a9623a81973?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 18 |
 | **[Travel Hotline](https://travel-hotline.com)** | **[Unpaid Marketing Intern](https://jobright.ai/jobs/info/6a5bbe69c8e3a473cb8b0b94?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 18 |
-| **[ZOE INTERNATIONAL](http://GoZOE.org)** | **[Communications/Media Intern](https://jobright.ai/jobs/info/6a5baecb856af468ab00d6f9?utm_campaign=1065&utm_source=git)** | Santa Clarita, CA, United States | On Site | Jul 18 |
-| **[The Shark Group](https://thesharkgroup.com)** | **[Social Media Copywriting Internship](https://jobright.ai/jobs/info/6a5bac614da96a42cfd9ae1e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 18 |
-| **[Wave Welcome](https://wavewelcome.com)** | **[IT Operations Summer Intern](https://jobright.ai/jobs/info/6a5ba64ec8e3a473cb8b0852?utm_campaign=1065&utm_source=git)** | Oxon Hill, MD, United States | On Site | Jul 18 |
-| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2026 Signature Events Intern](https://jobright.ai/jobs/info/6a5a8f5dc8e3a473cb8ac5b7?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area, United States | Hybrid | Jul 18 |
-| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Special Events (Fall 2026)](https://jobright.ai/jobs/info/6a442b7c57ffc22029406947?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182, United States | Hybrid | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
