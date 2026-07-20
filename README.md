@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stranger Soccer](http://strangersoccer.com/)** | **[Marketing & Operations Intern](https://jobright.ai/jobs/info/6a5e012867b2850e77deeebf?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 20 |
+| **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern- Paid Social](https://jobright.ai/jobs/info/6a5dfdec270e3033b045b890?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 20 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a52916be726ec56126a3a5b?utm_campaign=1065&utm_source=git)** | Schenectady, NY, United States | Hybrid | Jul 20 |
+| ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a1e4b02a507373dff6b9bc8?utm_campaign=1065&utm_source=git)** | Schenectady, NY, US | Hybrid | Jul 20 |
+| ↳ | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69b34dd4ad360c0340a86f03?utm_campaign=1065&utm_source=git)** | Schenectady, NY | Hybrid | Jul 20 |
 | **[SmartBuyGlasses Optical Group](http://www.smartbuyglasses.com)** | **[Digital Marketing Trainee (English Native) - Greece](https://jobright.ai/jobs/info/6a5df38e270e3033b045b2d3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 20 |
 | **[POP MART](https://global.popmart.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5dde0467b2850e77ded9cf?utm_campaign=1065&utm_source=git)** | Los Angeles Metropolitan Area, United States | On Site | Jul 20 |
 | **[VOX ATL](https://voxatl.org)** | **[Near-Peer Special Projects Intern](https://jobright.ai/jobs/info/6a509fa8f08ee8320766ac83?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Shark Group](https://thesharkgroup.com)** | **[Social Media Copywriting Internship](https://jobright.ai/jobs/info/6a5bac614da96a42cfd9ae1e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 18 |
 | **[Wave Welcome](https://wavewelcome.com)** | **[IT Operations Summer Intern](https://jobright.ai/jobs/info/6a5ba64ec8e3a473cb8b0852?utm_campaign=1065&utm_source=git)** | Oxon Hill, MD, United States | On Site | Jul 18 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2026 Signature Events Intern](https://jobright.ai/jobs/info/6a5a8f5dc8e3a473cb8ac5b7?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area, United States | Hybrid | Jul 18 |
-| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Special Events (Fall 2026)](https://jobright.ai/jobs/info/6a442b7c57ffc22029406947?utm_campaign=1065&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182, United States | Hybrid | Jul 18 |
-| **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Karen Wellington Foundation Marketing & Events Intern](https://jobright.ai/jobs/info/6a56d89ce9b77f668bd660b7?utm_campaign=1065&utm_source=git)** | Mount St. Joseph University - Cincinnati, OH 45233 | On Site | Jul 18 |
-| **[Walker Sands](https://www.walkersands.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a51f71fae4052672fe9cef8?utm_campaign=1065&utm_source=git)** | Seattle | Hybrid | Jul 18 |
-| **[Community Action House](https://www.communityactionhouse.org)** | **[Events Intern](https://jobright.ai/jobs/info/6a51b5f778e364789ca5b613?utm_campaign=1065&utm_source=git)** | 739 Paw Paw Drive, Holland MI 49423 | On Site | Jul 18 |
-| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Business Development & Marketing Intern (CMMK, Fall 2026)](https://jobright.ai/jobs/info/6a5b875b3ac7627fe90087de?utm_campaign=1065&utm_source=git)** | Maryland Heights, MO, United States | Remote | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
