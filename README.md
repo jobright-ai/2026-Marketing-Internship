@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[POP MART](https://global.popmart.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5dde0467b2850e77ded9cf?utm_campaign=1065&utm_source=git)** | Los Angeles Metropolitan Area, United States | On Site | Jul 20 |
+| **[VOX ATL](https://voxatl.org)** | **[Near-Peer Special Projects Intern](https://jobright.ai/jobs/info/6a509fa8f08ee8320766ac83?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 20 |
 | **[Now Optics](https://www.nowoptics.com)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/6a5dd82667b2850e77ded586?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | On Site | Jul 20 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Critical Threats Project - Communications and Operations](https://jobright.ai/jobs/info/6a5dc85f3ac7627fe900dbee?utm_campaign=1065&utm_source=git)** | UNAVAILABLE, DC, US | On Site | Jul 20 |
 | **[Reyco Granning Suspensions](http://www.reycogranning.com/)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5dc1e33ac7627fe900da4a?utm_campaign=1065&utm_source=git)** | Canton, OH, United States | On Site | Jul 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Business Development & Marketing Intern (CMMK, Fall 2026)](https://jobright.ai/jobs/info/6a5b875b3ac7627fe90087de?utm_campaign=1065&utm_source=git)** | Maryland Heights, MO, United States | Remote | Jul 18 |
 | ↳ | **[Strategic Student Program: Marketing Data Analytics Intern (CMMK, Fall 2026)](https://jobright.ai/jobs/info/6a5b8742686b4755d1e19c00?utm_campaign=1065&utm_source=git)** | St Louis, MO, United States | Remote | Jul 18 |
 | **[ProMach](http://www.promachbuilt.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4615f94f64ba41dcb4fb9a?utm_campaign=1065&utm_source=git)** | Covington, KY, USA | Hybrid | Jul 18 |
-| **[Zipline](https://www.zipline.com/)** | **[Field Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a578b30a791c6211befebae?utm_campaign=1065&utm_source=git)** | Dallas-Fort Worth, TX, United States | Hybrid | Jul 18 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Digital Marketing Intern Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b75cc856af468ab00ce95?utm_campaign=1065&utm_source=git)** | La Crosse, WI, United States | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
