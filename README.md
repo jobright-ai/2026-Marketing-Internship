@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Khalife Group](khalifegroup.com)** | **[Social Media Coordinator Intern](https://jobright.ai/jobs/info/6a5d5d76686b4755d1e1d979?utm_campaign=1065&utm_source=git)** | Taylor, MI, United States | Hybrid | Jul 19 |
 | **[Perf.](https://www.perf.world/)** | **[Content Marketing Intern (Commission-Based)](https://jobright.ai/jobs/info/6a5d54d94da96a42cfd9e4f7?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jul 19 |
 | **[Innate](https://innate.bot)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5d53db686b4755d1e1d896?utm_campaign=1065&utm_source=git)** | Bay Area, United States | On Site | Jul 19 |
 | **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcasters](https://jobright.ai/jobs/info/6a5d4f0d3ac7627fe900c129?utm_campaign=1065&utm_source=git)** | Albany, NY, United States | On Site | Jul 19 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Emerging Talent Communications Internship – Consumer, Sports & Technology (Fall 2026)](https://jobright.ai/jobs/info/6a3f210fce7cce40b342314d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
 | ↳ | **[Emerging Talent Communications Internship – Philanthropy & Impact (Fall 2026)](https://jobright.ai/jobs/info/6a3f239778237a036d5e69be?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
 | **[Acadium](http://www.acadium.com)** | **[AI Video Marketing Intern](https://jobright.ai/jobs/info/6a5c9e99c8e3a473cb8b29e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 18 |
-| **[Snowflake](https://www.snowflake.com)** | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53e6bd8ef95364ead93c62?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
-| ↳ | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
+| **[Snowflake](https://www.snowflake.com)** | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3f11ca4d047136e0938b19?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
+| ↳ | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53e6bd8ef95364ead93c62?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
 | **[Indiana University Bloomington](https://projectmoonshine.org/)** | **[GlobalNOC Communications Intern](https://jobright.ai/jobs/info/6a5b4b2d3ac7627fe9007eb8?utm_campaign=1065&utm_source=git)** | Bloomington, IN, United States | Hybrid | Jul 18 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a53f3ad8576ec69c01517c2?utm_campaign=1065&utm_source=git)** | BALTIMORE, MD, US | On Site | Jul 18 |
 | **[Alchemy](https://alchemy.com)** | **[Alchemy Marketing Internship](https://jobright.ai/jobs/info/6a5b3b92686b4755d1e18fbb?utm_campaign=1065&utm_source=git)** | 12022 Blue Valley Pkwy, Overland Park, KS 66213, United States | Hybrid | Jul 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CIVCO Medical Solutions](http://www.civco.com/mmi.htm)** | **[Events Marketing Intern](https://jobright.ai/jobs/info/6a593fff4da96a42cfd90097?utm_campaign=1065&utm_source=git)** | Coralville, IA, United States | On Site | Jul 17 |
 | **[Vista Compliance Laboratories](https://www.vista-compliance.com)** | **[Digital Marketing Intern (Internship)](https://jobright.ai/jobs/info/6a5b173c686b4755d1e18846?utm_campaign=1065&utm_source=git)** | San Clemente, CA, United States | On Site | Jul 17 |
 | **[WETA](https://weta.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a5b0692686b4755d1e18081?utm_campaign=1065&utm_source=git)** | Arlington, VA 22206, USA | Hybrid | Jul 17 |
-| **[Fisher Group: A Marketing.com Company](http://www.fishergroup.com)** | **[Sales and Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a5b0588c8e3a473cb8ae890?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
