@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sloane Strategy](https://sloanestrategy.com)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5da2bb3ac7627fe900cd76?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 19 |
+| **[Protopia](https://protopia.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5da16979547a520df5e244?utm_campaign=1065&utm_source=git)** | Raleigh / Durham / Chapel Hill | Hybrid | Jul 19 |
+| **[homehudl](www.homehudl.com)** | **[Marketing Research & Strategy Intern](https://jobright.ai/jobs/info/6a5d9b2c686b4755d1e1e1c1?utm_campaign=1065&utm_source=git)** | West Coast, United States | Remote | Jul 19 |
+| **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Marketing Intern - Northwest/GPSU](https://jobright.ai/jobs/info/6a5d99fc3ac7627fe900cc9f?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Jul 19 |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)-Morgan State University Bookstore](https://jobright.ai/jobs/info/6a5d98e13ac7627fe900cc92?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 19 |
+| ↳ | **[Student CMO (Campus Marketing Officer – Marketing Intern)-Morgan State University Bookstore](https://jobright.ai/jobs/info/6a5d971f856af468ab01155d?utm_campaign=1065&utm_source=git)** | BALTIMORE, MD, United States | On Site | Jul 19 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[PR & Production Intern](https://jobright.ai/jobs/info/6a5bfafdc8e3a473cb8b1389?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 19 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Fundraising Intern NJ](https://jobright.ai/jobs/info/6a5a5ea24da96a42cfd95937?utm_campaign=1065&utm_source=git)** | Cliffside Park, NJ, United States | Remote | Jul 19 |
 | **[Infant Massage USA](http://www.linktr.ee/infantmassageusa)** | **[Social Media Internship (Remote, Unpaid Volunteer)](https://jobright.ai/jobs/info/6a5d8dff63a8f619507cfa4e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53e6bd8ef95364ead93c62?utm_campaign=1065&utm_source=git)** | Bellevue, Washington, United States | On Site | Jul 18 |
 | **[Indiana University Bloomington](https://projectmoonshine.org/)** | **[GlobalNOC Communications Intern](https://jobright.ai/jobs/info/6a5b4b2d3ac7627fe9007eb8?utm_campaign=1065&utm_source=git)** | Bloomington, IN, United States | Hybrid | Jul 18 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a53f3ad8576ec69c01517c2?utm_campaign=1065&utm_source=git)** | BALTIMORE, MD, US | On Site | Jul 18 |
-| **[Alchemy](https://alchemy.com)** | **[Alchemy Marketing Internship](https://jobright.ai/jobs/info/6a5b3b92686b4755d1e18fbb?utm_campaign=1065&utm_source=git)** | 12022 Blue Valley Pkwy, Overland Park, KS 66213, United States | Hybrid | Jul 18 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Brand & Community Relations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a5ad2bf856af468ab009b85?utm_campaign=1065&utm_source=git)** | US-TX-Austin | On Site | Jul 18 |
-| **[UW Credit Union](http://uwcu.org/)** | **[Social Media and Brand Marketing Intern](https://jobright.ai/jobs/info/6a51be2057513b72e0c67153?utm_campaign=1065&utm_source=git)** | Madison, WI, US | On Site | Jul 17 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, San Gabriel Valley](https://jobright.ai/jobs/info/6a5b1f303ac7627fe9007785?utm_campaign=1065&utm_source=git)** | San Gabriel Valley, CA, United States | Remote | Jul 17 |
-| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a544498d007ee02d95fe344?utm_campaign=1065&utm_source=git)** | NEW BRUNSWICK, NJ, US | On Site | Jul 17 |
-| **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5b1db163a8f619507ca537?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
