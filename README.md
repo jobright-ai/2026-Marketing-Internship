@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Banc of California](http://www.bancofcal.com)** | **[Marketing Intern (30/hrs per week)](https://jobright.ai/jobs/info/6a4445be105260150b721878?utm_campaign=1065&utm_source=git)** | Santa Ana, California, United States | On Site | Jul 22 |
+| **[New York Post](http://nypost.com/)** | **[Decider Social Intern, Fall 2026 (10 weeks, 24 hours per week)](https://jobright.ai/jobs/info/6a5faaa46e0c3c7c7d3d845a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
+| **[Easterseals Redwood](https://www.eastersealsredwood.org/)** | **[Communications and Marketing Intern](https://jobright.ai/jobs/info/6a500a13397d8d353c28daf6?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 22 |
+| **[ZOE INTERNATIONAL](http://GoZOE.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a53557bd007ee02d95fb14d?utm_campaign=1065&utm_source=git)** | Santa Clarita, CA, United States | On Site | Jul 22 |
+| **[Dornier MedTech](https://www.dornier.com)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/6a60f51bab9bd4676324963e?utm_campaign=1065&utm_source=git)** | Kennesaw, GA, United States | On Site | Jul 22 |
+| **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern (59926)](https://jobright.ai/jobs/info/6a5ae306686b4755d1e1729a?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Jul 22 |
+| **[Horsburgh & Scott](http://horsburgh-scott.com)** | **[Marketing Co-op / Intern](https://jobright.ai/jobs/info/6a60f49eab9bd467632495f0?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 22 |
 | **[AZIONE](https://azionepr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a60f1077196365a6f008bb6?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Jul 22 |
 | **[Lightspeed PR/Marketing](http://www.lightspeedpr.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a60efda11edf44d7915eb07?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Cousin Corporation of America](http://cousin.com)** | **[Social Media Intern - Virtual](https://jobright.ai/jobs/info/6a60ee197196365a6f008a39?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 22 |
@@ -90,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Intern, Speakers](https://jobright.ai/jobs/info/6a60d242e3f5ff347d7c5b9e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/6a394bba6484fb75f2b30908?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Gifting/PR Internship](https://jobright.ai/jobs/info/6a60cf80e3f5ff347d7c5a9c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
-| ↳ | **[Influencer Marketing Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a60cf7ae3f5ff347d7c5a99?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
 | ↳ | **[Social Media Marketing Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a60cf7ac752926c22682386?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
+| ↳ | **[Influencer Marketing Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a60cf7ae3f5ff347d7c5a99?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
 | ↳ | **[Influencer Gifting/PR Internship](https://jobright.ai/jobs/info/6a60ce48c752926c22682329?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Remote | Jul 22 |
 | ↳ | **[Influencer Marketing Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a60c9d097c51d628eb3a4b6?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Remote | Jul 22 |
 | **[Jolkona](http://www.jolkona.org)** | **[Digital Marketing Volunteer/Intern](https://jobright.ai/jobs/info/6a531b60e726ec56126a5b6f?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing & Content Creation Intern (Unpaid)](https://jobright.ai/jobs/info/6a604e3771c79e639619ae60?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 21 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Communications Intern](https://jobright.ai/jobs/info/6a604d5071c79e639619ae28?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Jul 21 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Email & SMS Marketing Intern, Fall 2026](https://jobright.ai/jobs/info/6a4e911d397d8d353c289716?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 21 |
-| **[MeatEater, Inc.](https://www.themeateater.com)** | **[Podcast Social Media Internship Fall 2026](https://jobright.ai/jobs/info/6a604aa7193c4d692385daf8?utm_campaign=1065&utm_source=git)** | Bozeman, MT, United States | On Site | Jul 21 |
-| **[Kolor Society](http://www.kolorsociety.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a3d913a122f340d29cf1454?utm_campaign=1065&utm_source=git)** | Inglewood, CA, United States | Hybrid | Jul 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a604827a4b66100689cab68?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 21 |
-| **[Harrison Group Resort Hotels & Restaurants](https://harrisongrouphotels.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a55f50e10c4d945d86461a1?utm_campaign=1065&utm_source=git)** | Ocean City, MD, United States | On Site | Jul 21 |
-| **[AMOREPACIFIC](https://ventures.amorepacific.com/index.do)** | **[Paid Media Intern](https://jobright.ai/jobs/info/6a5624eaf7517b519ad53de2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 21 |
-| **[GBH](http://www.wgbh.org/)** | **[Frontline Marketing and Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a604479cf6cf477a0560573?utm_campaign=1065&utm_source=git)** | Boston, MA, United States of America | Hybrid | Jul 21 |
-| **[Legend Labs](https://www.legendlabs.com)** | **[Brand Strategy Intern - Summer '24](https://jobright.ai/jobs/info/6a60440871c79e639619ac18?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
