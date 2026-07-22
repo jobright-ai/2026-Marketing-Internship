@@ -99,8 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Intern, Speakers](https://jobright.ai/jobs/info/6a60d242e3f5ff347d7c5b9e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/6a394bba6484fb75f2b30908?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Gifting/PR Internship](https://jobright.ai/jobs/info/6a60cf80e3f5ff347d7c5a9c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
-| ↳ | **[Social Media Marketing Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a60cf7ac752926c22682386?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
 | ↳ | **[Influencer Marketing Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a60cf7ae3f5ff347d7c5a99?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
+| ↳ | **[Social Media Marketing Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a60cf7ac752926c22682386?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
 | ↳ | **[Influencer Gifting/PR Internship](https://jobright.ai/jobs/info/6a60ce48c752926c22682329?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Remote | Jul 22 |
 | ↳ | **[Influencer Marketing Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a60c9d097c51d628eb3a4b6?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Remote | Jul 22 |
 | **[Jolkona](http://www.jolkona.org)** | **[Digital Marketing Volunteer/Intern](https://jobright.ai/jobs/info/6a531b60e726ec56126a5b6f?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 22 |
