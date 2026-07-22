@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fruit of the Loom, Inc.](https://www.fotlinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3bf229982bb239f812dba7?utm_campaign=1065&utm_source=git)** | Jefferson, IA, US | On Site | Jul 22 |
+| **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Event Booking](https://jobright.ai/jobs/info/6a59152a3ac7627fe9ffd37a?utm_campaign=1065&utm_source=git)** | Memphis, TN, United States | On Site | Jul 22 |
+| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2847ef7061b51a3a5f4b70?utm_campaign=1065&utm_source=git)** | Austin, Texas, United States of America | On Site | Jul 22 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/orgs/masshealth)** | **[Digital Communications Intern Fall 2026 - UNPAID](https://jobright.ai/jobs/info/6a6087d0a4b66100689cb7ca?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 22 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Digital Communications Intern Fall 2026 - UNPAID](https://jobright.ai/jobs/info/6a608682129b652e9cd2903b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a608080a4b66100689cb5e4?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Jul 22 |
 | **[The Publisher Desk](http://www.publisherdesk.com/)** | **[Editorial Internship](https://jobright.ai/jobs/info/6a52dfde8576ec69c014dc97?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Readyportal](http://www.readyportal.com)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/6a607c9bcf6cf477a0560fdd?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 22 |
@@ -103,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Suger](https://www.suger.io)** | **[Marketing Intern (Full-Time/Part-Time)](https://jobright.ai/jobs/info/6a5214efe726ec56126a1742?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Jul 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Associate Publicist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfd1b361d54aceab7920?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Brian Communications](http://briancom.com/)** | **[Fall 2017 Intern- Integrated Marketing](https://jobright.ai/jobs/info/6a59e9cb63a8f619507c415c?utm_campaign=1065&utm_source=git)** | Conshohocken, PA, United States | On Site | Jul 21 |
+| **[WildChina 碧山](https://wildchina.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a60879ea4b66100689cb7c3?utm_campaign=1065&utm_source=git)** | Shanghai, VA, United States | Hybrid | Jul 21 |
 | **[Trenton Ironhawks](trentonironhawks.com)** | **[Community Relations Intern (In-Season)](https://jobright.ai/jobs/info/6a6023d8f68dd368023ea7df?utm_campaign=1065&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 21 |
 | **[Califia Farms](http://www.califiafarms.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5fa3128c7fd835513ba106?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 21 |
 | **[TMZ](http://www.tmz.com/)** | **[TMZ Affiliate Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a603b83193c4d692385d828?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 21 |
@@ -133,16 +139,16 @@ For a complete list, click the following sortable link below:
 | **[Preface Public Relations](http://www.prefacepr.com)** | **[Fashion PR Internship](https://jobright.ai/jobs/info/6a6004268c7fd835513bc706?utm_campaign=1065&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 21 |
 | **[HiWave](https://shop.hiwave.co)** | **[Digital Marketing & Advertising Intern](https://jobright.ai/jobs/info/6a6003e6b0f20036bc634764?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 21 |
 | **[Bat Blue](https://batblue.com/)** | **[Paid Marketing Intern](https://jobright.ai/jobs/info/6a59b1803ac7627fe9000695?utm_campaign=1065&utm_source=git)** | Clifton, NJ, United States | On Site | Jul 21 |
-| **[State Farm Agent](https://www.pamaccardo.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5c1953686b4755d1e1af17?utm_campaign=1065&utm_source=git)** | Clarkston, MI, United States | On Site | Jul 21 |
-| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5646b953b3962b910af106?utm_campaign=1065&utm_source=git)** | NY-Vestal-13850 | On Site | Jul 21 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a56d32f53b3962b910b2c90?utm_campaign=1065&utm_source=git)** | Sewickley, PA, United States | On Site | Jul 21 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a551262377f983ce8a97987?utm_campaign=1065&utm_source=git)** | San Lorenzo, CA, United States | On Site | Jul 21 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7d1c8eb0843027ae506?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 21 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a51af718d7d3e6cf1cc1071?utm_campaign=1065&utm_source=git)** | Garner, NC, United States | On Site | Jul 21 |
+| **[State Farm Agent](https://www.pamaccardo.com)** | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5646b953b3962b910af106?utm_campaign=1065&utm_source=git)** | NY-Vestal-13850 | On Site | Jul 21 |
 | ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7ce8ef95364ead93f51?utm_campaign=1065&utm_source=git)** | Roswell, GA, United States | On Site | Jul 21 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a56d32f53b3962b910b2c90?utm_campaign=1065&utm_source=git)** | Sewickley, PA, United States | On Site | Jul 21 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a59ca4e686b4755d1e11d45?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Jul 21 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53174f8576ec69c014e979?utm_campaign=1065&utm_source=git)** | Cataula, GA, United States | On Site | Jul 21 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a51af718d7d3e6cf1cc1071?utm_campaign=1065&utm_source=git)** | Garner, NC, United States | On Site | Jul 21 |
 | ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5d32eb856af468ab0106af?utm_campaign=1065&utm_source=git)** | Jackson, GA, United States | On Site | Jul 21 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5c1953686b4755d1e1af17?utm_campaign=1065&utm_source=git)** | Clarkston, MI, United States | On Site | Jul 21 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7d1c8eb0843027ae506?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 21 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a551262377f983ce8a97987?utm_campaign=1065&utm_source=git)** | San Lorenzo, CA, United States | On Site | Jul 21 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53174f8576ec69c014e979?utm_campaign=1065&utm_source=git)** | Cataula, GA, United States | On Site | Jul 21 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Growth Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5ffd3bf68dd368023e9fc6?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 21 |
 | **[Silver Air Private Jets](https://www.silverair.com)** | **[Marketing Intern - Santa Barbara, CA (On-Site)](https://jobright.ai/jobs/info/6a5ff9b1193b51130967befc?utm_campaign=1065&utm_source=git)** | Santa Barbara, CA, United States | On Site | Jul 21 |
 | **[Ozarks Regional YMCA](https://www.orymca.org/)** | **[Social Media Fall Semester Intern- Springfield, MO](https://jobright.ai/jobs/info/6a5ff92eb0f20036bc634537?utm_campaign=1065&utm_source=git)** | Springfield, MO, United States | On Site | Jul 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Brand Manager Intern/Volunteer](https://jobright.ai/jobs/info/6a5ff802f68dd368023e9e63?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | **[Barkback](http://www.barkback.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5ff7e38c7fd835513bc474?utm_campaign=1065&utm_source=git)** | Santa Barbara, CA, United States | On Site | Jul 21 |
 | **[Foodini](https://getfoodini.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5ff69ab0f20036bc634448?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Jul 21 |
-| **[Major League Baseball (MLB)](https://www.mlb.com/angels/community/angels-5k)** | **[Intern, Athletic Operations (Fall, 2026)](https://jobright.ai/jobs/info/6a56e19310c4d945d864c664?utm_campaign=1065&utm_source=git)** | Vero Beach, FL, United States | On Site | Jul 21 |
-| **[New York Post](http://nypost.com/)** | **[Decider Social Intern, Fall 2026 (10 weeks, 24 hours per week)](https://jobright.ai/jobs/info/6a5faaa46e0c3c7c7d3d845a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| ↳ | **[Advertising Operations Intern](https://jobright.ai/jobs/info/6a5fc7e28c7fd835513bb0f2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56b40af7517b519ad5789c?utm_campaign=1065&utm_source=git)** | Davis, CA, United States | On Site | Jul 21 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a59097cc8e3a473cb8a498c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| **[Surroundings Group](https://surroundingsgroup.com/)** | **[Intern — Social Media](https://jobright.ai/jobs/info/6a5fea67193b51130967b83f?utm_campaign=1065&utm_source=git)** | Greater Tampa Bay Area, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
