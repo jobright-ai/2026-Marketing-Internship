@@ -95,11 +95,11 @@ For a complete list, click the following sortable link below:
 | **[LSG](https://locuststreet.com)** | **[Intern - Paid Media](https://jobright.ai/jobs/info/6a625d9607e15f1ab0e45c6a?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
 | **[Ferrero](https://www.ferrero.com)** | **[Marketing Intern - Premium Chocolate](https://jobright.ai/jobs/info/6a62467ed5caab4af8bacf6e?utm_campaign=1065&utm_source=git)** | North York, ON, Canada | Hybrid | Jul 23 |
 | **[Butler University](http://www.butler.edu)** | **[Impact Giving Intern](https://jobright.ai/jobs/info/6a625b52f805ef6ff42324fa?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 23 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Jul 23 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 23 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 23 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a559b8f7ab5da6d2628f3c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 23 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a511bfd02522b5b722e7873?utm_campaign=1065&utm_source=git)** | Garden City, NY, United States | On Site | Jul 23 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a559b8f7ab5da6d2628f3c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 23 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 23 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 23 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Jul 23 |
 | **[Groundwork Ohio River Valley](https://www.groundworkorv.org/)** | **[SOCIAL MEDIA INTERNSHIP](https://jobright.ai/jobs/info/6a6259411e089c0cc884be6e?utm_campaign=1065&utm_source=git)** | Media, PA, United States | Hybrid | Jul 23 |
 | **[TrueBridge Capital Partners](http://www.truebridgecapital.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a54b8e1ae2d5b1c5604e72f?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC, United States | Hybrid | Jul 23 |
 | **[Six One Agency](https://six-one.com)** | **[Public Relations Intern (Beauty)](https://jobright.ai/jobs/info/6a62572c1e089c0cc884bd7c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 23 |
