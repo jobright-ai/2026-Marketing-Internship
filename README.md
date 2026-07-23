@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a526c308576ec69c014bd7a?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 23 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[2026 Publicis Media Fall Internship - Chicago (Part-Time)](https://jobright.ai/jobs/info/6a61cdd3ab14335fc0f19be2?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
+| **[Browning Real Estate Partners](http://www.browningrep.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a61cd30ab14335fc0f19bb0?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Jul 23 |
 | **[C2 Tactical](https://c2tactical.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a42bce3ff87fd527f985603?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 23 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Street Team Coordinator Intern/Volunteer](https://jobright.ai/jobs/info/6a61c4d1ab9bd4676324cb54?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[2026 Publicis Media Fall Internship - Birmingham (Part-Time)](https://jobright.ai/jobs/info/6a61c190eaa37f43e7589dd5?utm_campaign=1065&utm_source=git)** | Birmingham, MI, United States | On Site | Jul 23 |
@@ -141,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[Annual Giving Intern](https://jobright.ai/jobs/info/6a613acdab14335fc0f16fbd?utm_campaign=1065&utm_source=git)** | Brooklyn Park, MN, United States | Remote | Jul 22 |
 | ↳ | **[Annual Giving Intern](https://jobright.ai/jobs/info/6a6134c9eaa37f43e75873c6?utm_campaign=1065&utm_source=git)** | Brooklyn Park, MN, United States | Hybrid | Jul 22 |
 | **[Aramark UK](aramark.co.uk)** | **[Nutrition Intern - College of Charleston](https://jobright.ai/jobs/info/6a612f1feaa37f43e75870ae?utm_campaign=1065&utm_source=git)** | Charleston, SC, United States | On Site | Jul 22 |
-| **[Haws®](http://hawsco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a599a0e3ac7627fe9000239?utm_campaign=1065&utm_source=git)** | Sparks, NV 89431-6467, USA | On Site | Jul 22 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a2749c84ec8d737d6dff142?utm_campaign=1065&utm_source=git)** | Sparks, NV 89431-6467, USA | On Site | Jul 22 |
+| **[Haws®](http://hawsco.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a2749c84ec8d737d6dff142?utm_campaign=1065&utm_source=git)** | Sparks, NV 89431-6467, USA | On Site | Jul 22 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a599a0e3ac7627fe9000239?utm_campaign=1065&utm_source=git)** | Sparks, NV 89431-6467, USA | On Site | Jul 22 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Fan Development Marketing Intern](https://jobright.ai/jobs/info/6a6142ebab14335fc0f17378?utm_campaign=1065&utm_source=git)** | Sandy, UT, United States | On Site | Jul 22 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a61a9d6d51f6101c8fbc88c?utm_campaign=1065&utm_source=git)** | Sandy, UT, United States | On Site | Jul 22 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Summer/Fall- Public Relations Internship](https://jobright.ai/jobs/info/6a61bfa1ab14335fc0f19636?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Jul 22 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a614adfeaa37f43e7587f85?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Marketing Videography Intern](https://jobright.ai/jobs/info/6a613bbeeaa37f43e75876a9?utm_campaign=1065&utm_source=git)** | Duluth, GA, United States | On Site | Jul 22 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a613bb7ab14335fc0f17003?utm_campaign=1065&utm_source=git)** | Duluth, GA, United States | On Site | Jul 22 |
-| **[Home Care Association of America](https://www.hcaoa.org)** | **[Community Outreach and Marketing Intern ComForCare Health Care](https://jobright.ai/jobs/info/6a60ec167196365a6f008962?utm_campaign=1065&utm_source=git)** | West Chester, PA, United States | On Site | Jul 22 |
+| **[Home Care Association of America](https://www.hcaoa.org)** | **[Community Outreach and Marketing Intern ComForCare Health Care](https://jobright.ai/jobs/info/6a6099eea4b66100689cbc3c?utm_campaign=1065&utm_source=git)** | West Chester, PA, United States | On Site | Jul 22 |
 | **[DAG Architects](https://www.dagarchitects.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5ea4a1270e3033b045f33c?utm_campaign=1065&utm_source=git)** | Tallahassee, FL, United States | On Site | Jul 22 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[YouTube PR Intern (Bilingual)](https://jobright.ai/jobs/info/6a6145a5d51f6101c8fbac41?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Peak Retirement Planning, Inc.](https://peakretirementplanning.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a44f315f1ab552f90d0795e?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Jul 22 |
-| **[Berri Goldfarb Public Relations](https://www.berrigoldfarbpr.com)** | **[Fashion Public Relations Internship](https://jobright.ai/jobs/info/6a6149beab14335fc0f177df?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | On Site | Jul 22 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 22 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
