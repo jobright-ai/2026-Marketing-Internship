@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Market Research and Data Analysis Intern/Volunteer](https://jobright.ai/jobs/info/6a56f377efb06a45240d8ce6?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
+| **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Social Media Student Intern, Marketing and Communication, Moody College of Communication](https://jobright.ai/jobs/info/6a6367e18d536034496022d9?utm_campaign=1065&utm_source=git)** | UT Main Campus, United States | Hybrid | Jul 24 |
+| ↳ | **[Social Media Student Intern, Marketing and Communication, Moody College of Communication](https://jobright.ai/jobs/info/6a6367d75c7e2d715ebabdc8?utm_campaign=1065&utm_source=git)** | UT Main Campus, United States | Hybrid | Jul 24 |
+| **[Criteo](http://www.criteo.com)** | **[Experiential Marketing Intern](https://jobright.ai/jobs/info/6a51ed67ae4052672fe9cc95?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 24 |
+| ↳ | **[Experiential Marketing Intern](https://jobright.ai/jobs/info/6a299d13d3ec8317fe13f414?utm_campaign=1065&utm_source=git)** | New York, US | Hybrid | Jul 24 |
+| ↳ | **[Field Marketing Intern, Americas](https://jobright.ai/jobs/info/6a5268519fbdab22fe13b60b?utm_campaign=1065&utm_source=git)** | Boston, United States of America | Hybrid | Jul 24 |
 | **[Matrox Video](http://www.matrox.com/)** | **[Intern, Digital Marketing (S-10-01) Fall 2026](https://jobright.ai/jobs/info/6a635c89e8d8d22e32928611?utm_campaign=1065&utm_source=git)** | Dorval, QC, Canada | On Site | Jul 24 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Cincinnati](https://jobright.ai/jobs/info/6a58a7b79838a11e5d839872?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | Remote | Jul 24 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51cfd302522b5b722ebe96?utm_campaign=1065&utm_source=git)** | Omaha, NE, United States | On Site | Jul 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RegDesk](http://www.regdesk.co)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6a55c976fdf4fa71202b50e4?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 23 |
 | **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Public Relations/Development Intern](https://jobright.ai/jobs/info/6a62126507e15f1ab0e44326?utm_campaign=1065&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 23 |
 | **[Elucid](http://elucid.com)** | **[Marketing Intern: Fall 2026](https://jobright.ai/jobs/info/6a628e48846162391c936a6c?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 23 |
-| **[Virginia Wesleyan University](https://www.vwu.edu/)** | **[Graduate Intern - Athletic Communication](https://jobright.ai/jobs/info/6a623161d5caab4af8bac6ff?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA, United States | On Site | Jul 23 |
-| **[Jingo](https://www.jingo.app)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a628b5ef805ef6ff42339a7?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 23 |
-| **[USA Hockey](http://usahockey.com/)** | **[NTDP Communications Intern](https://jobright.ai/jobs/info/6a62878107e15f1ab0e46f04?utm_campaign=1065&utm_source=git)** | Plymouth, MI, United States | On Site | Jul 23 |
-| **[SiLo](https://shipsilo.com)** | **[Brand Marketing Intern - Nashville, TN](https://jobright.ai/jobs/info/6a62877af805ef6ff423378b?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Jul 23 |
-| **[J2 Design](https://www.j2design.us)** | **[Marketing & Graphics Department Intern](https://jobright.ai/jobs/info/6a628772f805ef6ff4233783?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 23 |
-| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Fall Internship 2026 - External Relations](https://jobright.ai/jobs/info/6a626e1bd5caab4af8bade8c?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
