@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wave Welcome](https://wavewelcome.com)** | **[IT Operations Summer Intern](https://jobright.ai/jobs/info/6a5ba64ec8e3a473cb8b0852?utm_campaign=1065&utm_source=git)** | Oxon Hill, MD, United States | On Site | Jul 24 |
+| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Advertising Intern - TCL](https://jobright.ai/jobs/info/6a631d507c70964cbb055790?utm_campaign=1065&utm_source=git)** | Bluffton, SC, United States | On Site | Jul 24 |
 | **[Home Care Association of America](https://www.hcaoa.org)** | **[Marketing & Sales Intern - Paid Internship](https://jobright.ai/jobs/info/6a6291f3d5caab4af8baed5e?utm_campaign=1065&utm_source=git)** | Clayton, GA, United States | Hybrid | Jul 24 |
 | **[REV Robotics](http://www.revrobotics.com/)** | **[Social Media & Video Production Intern](https://jobright.ai/jobs/info/6a62426407e15f1ab0e451b5?utm_campaign=1065&utm_source=git)** | Carrollton, TX, United States | On Site | Jul 24 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Associate Publicist Intern/Volunteer](https://jobright.ai/jobs/info/6a5a5ba3c8e3a473cb8ab47d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ali Fee PR](https://www.ali-fee.com)** | **[Fashion + Lifestyle PR Intern - Fall](https://jobright.ai/jobs/info/6a62901bc28982326de9785f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 23 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[Book Publishing Intern](https://jobright.ai/jobs/info/6a6273591e089c0cc884c8a3?utm_campaign=1065&utm_source=git)** | Charleston, SC, United States | Remote | Jul 23 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Digital Marketing & Branding](https://jobright.ai/jobs/info/6a57b09ff7517b519ad5c472?utm_campaign=1065&utm_source=git)** | Reston, VA, United States | Hybrid | Jul 23 |
-| **[Otter Technologies, Inc](https://otterwaiver.com)** | **[Social Media & Marketing Internship (Summer 2021)](https://jobright.ai/jobs/info/6a521f63e726ec56126a1b27?utm_campaign=1065&utm_source=git)** | Boulder, CO, United States | Remote | Jul 23 |
-| **[iFLIP4](http://www.iflip4.com)** | **[Summer Internship at Revolutionary Startup Social Enterprise](https://jobright.ai/jobs/info/6a531b1a8a74e077472f7495?utm_campaign=1065&utm_source=git)** | East Hanover, NJ, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
