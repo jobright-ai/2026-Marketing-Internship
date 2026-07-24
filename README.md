@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CTP](https://www.ctpboston.com/)** | **[Copywriting Intern](https://jobright.ai/jobs/info/6a6279dbd5caab4af8bae229?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 23 |
+| **[InterDigital, Inc.](https://www.interdigital.com)** | **[Marketing/Communication Intern](https://jobright.ai/jobs/info/6a62c43d185082502f483bce?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
+| **[NutriScan](https://apps.apple.com/us/app/nutriscan-food-nutrition/id6775319090)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a62bdb207e15f1ab0e47e08?utm_campaign=1065&utm_source=git)** | Greenwood Village, CO, United States | Remote | Jul 23 |
 | **[D4C DENTAL BRANDS, INC.](https://d4cdentalbrands.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a0d11c8e3a473cb8a9cbd?utm_campaign=1065&utm_source=git)** | Franklin, TN, United States | On Site | Jul 23 |
 | **[Love On Demand](www.loveondemand.com)** | **[Social Media Production Internship](https://jobright.ai/jobs/info/6a62b5c307e15f1ab0e47c3a?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 23 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Marketing Intern, Chartwells K12 / Gary School Corporation / Gary, IN](https://jobright.ai/jobs/info/6a62b5ae07e15f1ab0e47c33?utm_campaign=1065&utm_source=git)** | Gary, IN, United States | On Site | Jul 23 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Times News Media Group](https://www.tnonline.com)** | **[Social Media Internship](https://jobright.ai/jobs/info/6a627c04d5caab4af8bae3e7?utm_campaign=1065&utm_source=git)** | Lehighton, PA, United States | On Site | Jul 23 |
 | **[LexLoo](https://www.linkedin.com/company/119464117)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a627b2d07e15f1ab0e46918?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Remote | Jul 23 |
 | **[LAZ Parking](https://www.lazparking.com)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/6a6279dcd5caab4af8bae23a?utm_campaign=1065&utm_source=git)** | Hartford, CT, United States | On Site | Jul 23 |
-| **[CTP](https://www.ctpboston.com/)** | **[Copywriting Intern](https://jobright.ai/jobs/info/6a6279dbd5caab4af8bae229?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 23 |
 | **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern 2026](https://jobright.ai/jobs/info/6a6279cd1e089c0cc884cac0?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 23 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a5c5c72686b4755d1e1bae5?utm_campaign=1065&utm_source=git)** | Omaha, NE, United States | On Site | Jul 23 |
 | **[617MediaGroup](https://617mediagroup.com)** | **[Paid Public Relations & Marketing Internship](https://jobright.ai/jobs/info/6a564210efb06a45240d4820?utm_campaign=1065&utm_source=git)** | Greater Boston, United States | On Site | Jul 23 |
@@ -135,11 +137,11 @@ For a complete list, click the following sortable link below:
 | **[Ferrero](https://www.ferrero.com)** | **[Marketing Intern - Premium Chocolate](https://jobright.ai/jobs/info/6a62467ed5caab4af8bacf6e?utm_campaign=1065&utm_source=git)** | North York, ON, Canada | Hybrid | Jul 23 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Paid Media](https://jobright.ai/jobs/info/6a625d9607e15f1ab0e45c6a?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
 | **[Butler University](http://www.butler.edu)** | **[Impact Giving Intern](https://jobright.ai/jobs/info/6a625b52f805ef6ff42324fa?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 23 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Jul 23 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 23 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Jul 23 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 23 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 23 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a511bfd02522b5b722e7873?utm_campaign=1065&utm_source=git)** | Garden City, NY, United States | On Site | Jul 23 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a559b8f7ab5da6d2628f3c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 23 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a511bfd02522b5b722e7873?utm_campaign=1065&utm_source=git)** | Garden City, NY, United States | On Site | Jul 23 |
 | **[Groundwork Ohio River Valley](https://www.groundworkorv.org/)** | **[SOCIAL MEDIA INTERNSHIP](https://jobright.ai/jobs/info/6a6259411e089c0cc884be6e?utm_campaign=1065&utm_source=git)** | Media, PA, United States | Hybrid | Jul 23 |
 | **[TrueBridge Capital Partners](http://www.truebridgecapital.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a54b8e1ae2d5b1c5604e72f?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC, United States | Hybrid | Jul 23 |
 | **[Six One Agency](https://six-one.com)** | **[Public Relations Intern (Beauty)](https://jobright.ai/jobs/info/6a62572c1e089c0cc884bd7c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Green Bay Gamblers Social Media and Creative Content Internship](https://jobright.ai/jobs/info/6a6245c6c28982326de95b49?utm_campaign=1065&utm_source=git)** | Green Bay, WI, United States | On Site | Jul 23 |
 | **[REV Robotics](http://www.revrobotics.com/)** | **[Social Media & Video Production Intern](https://jobright.ai/jobs/info/6a62426407e15f1ab0e451b5?utm_campaign=1065&utm_source=git)** | Carrollton, TX, United States | On Site | Jul 23 |
 | **[Clickspring Design](https://www.clickspringdesign.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a3d1c6f882f121f56a36221?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Jul 23 |
-| **[Exowatt](http://exowatt.com)** | **[AI Marketing Intern](https://jobright.ai/jobs/info/6a34507a29c90c607e4de926?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 23 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern : Public Relations](https://jobright.ai/jobs/info/6a587ccd72fe7a7b98dcebcd?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
