@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Glee Church](http://www.gleechurch.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a630c5f7c70964cbb055442?utm_campaign=1065&utm_source=git)** | Bowie, MD, United States | On Site | Jul 23 |
+| **[The Mia Bell Agency](http://www.themiabellagency.com)** | **[Senior Level PR Specialist Intern](https://jobright.ai/jobs/info/6a57128010c4d945d864cdf7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 23 |
+| **[Qode Social](https://www.qodesocial.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a63049032abf9182432c849?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 23 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[SEO & On-line Marketing Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a53377b8a74e077472f7af0?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 | **[Alchemy](https://alchemy.com)** | **[Alchemy Marketing Internship](https://jobright.ai/jobs/info/6a5b3b92686b4755d1e18fbb?utm_campaign=1065&utm_source=git)** | Overland Park, KS, United States | On Site | Jul 23 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Email Marketing Manager Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9bb856af468ab005a0a?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Marketing/Communication Intern](https://jobright.ai/jobs/info/6a62c43d185082502f483bce?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
 | **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Communications Internship Fall 2026](https://jobright.ai/jobs/info/6a629145846162391c936b30?utm_campaign=1065&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 23 |
 | **[CTP](https://www.ctpboston.com/)** | **[Copywriting Intern](https://jobright.ai/jobs/info/6a6279dbd5caab4af8bae229?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 23 |
-| **[NutriScan](https://apps.apple.com/us/app/nutriscan-food-nutrition/id6775319090)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a62bdb207e15f1ab0e47e08?utm_campaign=1065&utm_source=git)** | Greenwood Village, CO, United States | Remote | Jul 23 |
 | **[D4C DENTAL BRANDS, INC.](https://d4cdentalbrands.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a0d11c8e3a473cb8a9cbd?utm_campaign=1065&utm_source=git)** | Franklin, TN, United States | On Site | Jul 23 |
 | **[Love On Demand](www.loveondemand.com)** | **[Social Media Production Internship](https://jobright.ai/jobs/info/6a62b5c307e15f1ab0e47c3a?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 23 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Marketing Intern, Chartwells K12 / Gary School Corporation / Gary, IN](https://jobright.ai/jobs/info/6a62b5ae07e15f1ab0e47c33?utm_campaign=1065&utm_source=git)** | Gary, IN, United States | On Site | Jul 23 |
@@ -130,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Fall Internship 2026 - External Relations](https://jobright.ai/jobs/info/6a626e1bd5caab4af8bade8c?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 23 |
 | **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[Viral Marketing Internship](https://jobright.ai/jobs/info/6a52aa0de726ec56126a4016?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
 | **[Tencent](https://www.tencent.com/)** | **[Marketing Operation Intern](https://jobright.ai/jobs/info/6a62662af805ef6ff4232ae5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 23 |
+| **[Iowa Renewable Fuels Association](https://iowarfa.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a630d621ed5b0056a939ca8?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | On Site | Jul 23 |
 | **[Harborside Inc.](https://www.shopharborside.com)** | **[Marketing Paid Internship (Part-Time) 3-6 months Months](https://jobright.ai/jobs/info/6a627e63d5caab4af8bae57d?utm_campaign=1065&utm_source=git)** | Bay Park, United States | Hybrid | Jul 23 |
 | **[City of Elmhurst](https://elmhurst.org)** | **[Fall 2026 Marketing and Communications Intern](https://jobright.ai/jobs/info/6a4fecb6fc327f422fef718a?utm_campaign=1065&utm_source=git)** | Elmhurst, IL, United States | On Site | Jul 23 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a627dac846162391c93632e?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Designer Intern](https://jobright.ai/jobs/info/6a62679a846162391c935b34?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
 | **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a626623d5caab4af8badbf4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 23 |
 | **[La Plata Electric Association](https://www.lpea.coop/)** | **[Communications Design Intern](https://jobright.ai/jobs/info/6a6263571e089c0cc884c374?utm_campaign=1065&utm_source=git)** | Durango, CO, United States | On Site | Jul 23 |
-| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Workforce Development Intern, Hendrick Body and Wellness](https://jobright.ai/jobs/info/6a62612ff805ef6ff4232837?utm_campaign=1065&utm_source=git)** | Abilene, TX, United States | On Site | Jul 23 |
-| **[Ferrero](https://www.ferrero.com)** | **[Marketing Intern - Premium Chocolate](https://jobright.ai/jobs/info/6a62467ed5caab4af8bacf6e?utm_campaign=1065&utm_source=git)** | North York, ON, Canada | Hybrid | Jul 23 |
-| **[LSG](https://locuststreet.com)** | **[Intern - Paid Media](https://jobright.ai/jobs/info/6a625d9607e15f1ab0e45c6a?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
