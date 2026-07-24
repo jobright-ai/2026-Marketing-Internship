@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a62ea501ed5b0056a939395?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Jul 23 |
+| **[Soccer Shots Richmond](https://www.soccershots.com/richmond/)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/6a62ea487c70964cbb054ba3?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | On Site | Jul 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Campaign Traffic Strategy & Operations Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3e1e6c122f340d29cf2b04?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 23 |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a62e92d185082502f484526?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 23 |
+| **[The McRae Agency](http://www.mcraeagency.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a5a0830856af468ab006782?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Jul 23 |
+| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Spring 2026 - Social Media Internship](https://jobright.ai/jobs/info/6a524ec9e726ec56126a2793?utm_campaign=1065&utm_source=git)** | Aberdeen, MD, United States | On Site | Jul 23 |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Music Group Marketing Intern](https://jobright.ai/jobs/info/6a489c393dbab558e29ad158?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA | On Site | Jul 23 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a5c88163ac7627fe900aa8f?utm_campaign=1065&utm_source=git)** | New Orleans, LA, United States | On Site | Jul 23 |
 | **[Edison Festival of Light](http://www.edisonfestival.org)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6a527279e726ec56126a31c6?utm_campaign=1065&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 23 |
 | **[FC Tulsa](https://www.fctulsa.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a62d804185082502f4841cf?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 23 |
@@ -146,15 +153,8 @@ For a complete list, click the following sortable link below:
 | **[LSG](https://locuststreet.com)** | **[Intern - Paid Media](https://jobright.ai/jobs/info/6a625d9607e15f1ab0e45c6a?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
 | **[Butler University](http://www.butler.edu)** | **[Impact Giving Intern](https://jobright.ai/jobs/info/6a625b52f805ef6ff42324fa?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 23 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a511bfd02522b5b722e7873?utm_campaign=1065&utm_source=git)** | Garden City, NY, United States | On Site | Jul 23 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 23 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Jul 23 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a559b8f7ab5da6d2628f3c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 23 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 23 |
-| **[Groundwork Ohio River Valley](https://www.groundworkorv.org/)** | **[SOCIAL MEDIA INTERNSHIP](https://jobright.ai/jobs/info/6a6259411e089c0cc884be6e?utm_campaign=1065&utm_source=git)** | Media, PA, United States | Hybrid | Jul 23 |
-| **[TrueBridge Capital Partners](http://www.truebridgecapital.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a54b8e1ae2d5b1c5604e72f?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC, United States | Hybrid | Jul 23 |
-| **[Six One Agency](https://six-one.com)** | **[Public Relations Intern (Beauty)](https://jobright.ai/jobs/info/6a62572c1e089c0cc884bd7c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 23 |
-| **[SpartanNash](https://www.spartannash.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6a461e53c2d11a6a4666be03?utm_campaign=1065&utm_source=git)** | Madison, Wisconsin, United States of America | On Site | Jul 23 |
-| **[University of Utah Health](https://www.cs.utah.edu)** | **[Social Media & Digital Communications Graduate Intern](https://jobright.ai/jobs/info/6a556d42f2c46727285f2508?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 23 |
-| **[Operation Smile](http://www.operationsmile.org)** | **[Media and Marketing Internship](https://jobright.ai/jobs/info/699013f70cc8ea15f1dabbb1?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA, United States | On Site | Jul 23 |
-| **[The Alpha Group](https://alphagroup.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a624d7907e15f1ab0e45709?utm_campaign=1065&utm_source=git)** | Delaware, OH, United States | On Site | Jul 23 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 23 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a559b8f7ab5da6d2628f3c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 23 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
