@@ -71,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[American Family Care](https://www.afcurgentcare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa039985b2d5633ef3bd083?utm_campaign=1065&utm_source=git)** | Cicero, IL, United States | On Site | Sep 08 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6aa067cf3b5aa83237b08dd5?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Fossil Group, Inc.](http://www.fossilgroup.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa050d9a2266b538d22f945?utm_campaign=1065&utm_source=git)** | Richardson, TX, United States | Hybrid | Sep 08 |
-| ↳ | **[Planning & Merchandising Intern](https://jobright.ai/jobs/info/6aa03af5500b01124c777880?utm_campaign=1065&utm_source=git)** | Richardson, TX, United States | Hybrid | Sep 08 |
+| ↳ | **[Planning & Merchandising Intern](https://jobright.ai/jobs/info/6aa03fbbdbc0e60e37e0c670?utm_campaign=1065&utm_source=git)** | Richardson, TX, United States | Hybrid | Sep 08 |
 | **[Bitmovin](https://www.bitmovin.com)** | **[Marketing & Revenue Operations Intern](https://jobright.ai/jobs/info/6aa067273b5aa83237b08d99?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Sep 08 |
 | **[FACE FOUNDRIÉ®️](https://www.facefoundrie.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa06680500b01124c778bcc?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 08 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6aa0662c3b5aa83237b08d3b?utm_campaign=1065&utm_source=git)** | Westfield, IN, United States | On Site | Sep 08 |
@@ -122,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6aa06947dbc0e60e37e0d6c7?utm_campaign=1065&utm_source=git)** | Queens, NY, United States | On Site | Sep 08 |
 | ↳ | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/6aa03e235b2d5633ef3bd529?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Saatchi & Saatchi Canada](https://www.saatchi.ca/)** | **[SEO Intern](https://jobright.ai/jobs/info/6aa03c633b5aa83237b07b63?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 08 |
-| **[DIRECTV](https://www.directv.com/)** | **[DIRECTV for Business: Business Marketing Intern](https://jobright.ai/jobs/info/6aa002f95b2d5633ef3bbfa5?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 08 |
-| ↳ | **[DIRECTV for Business: Business Marketing Intern](https://jobright.ai/jobs/info/6a9ae91290a313642c6569f5?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 08 |
+| **[DIRECTV](https://www.directv.com/)** | **[DIRECTV for Business: Business Marketing Intern](https://jobright.ai/jobs/info/6a9ae91290a313642c6569f5?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 08 |
+| ↳ | **[DIRECTV for Business: Business Marketing Intern](https://jobright.ai/jobs/info/6aa002f95b2d5633ef3bbfa5?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 08 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Integrated Marketing & Business Development Intern](https://jobright.ai/jobs/info/6aa04063500b01124c777cf2?utm_campaign=1065&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 08 |
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[2027 Summer Intern - Business Strategy & Marketing Excellence](https://jobright.ai/jobs/info/6a9ffcc35b2d5633ef3bbe1c?utm_campaign=1065&utm_source=git)** | Princeton, NJ, United States | Hybrid | Sep 08 |
 | **[Paires](https://paires.ai/)** | **[VC Content Intern](https://jobright.ai/jobs/info/6a9163722e254e06fb9f4290?utm_campaign=1065&utm_source=git)** | Canada | Remote | Sep 08 |
