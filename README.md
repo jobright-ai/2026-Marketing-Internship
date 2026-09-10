@@ -57,21 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elanco](https://www.elanco.com)** | **[Marketing Intern - US Farm Animal (Summer 2027)](https://jobright.ai/jobs/info/6a8621e774e02153f145acaa?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Remote | Sep 10 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Philanthropy Intern - Spring 2027](https://jobright.ai/jobs/info/6a85e033cc81eb647e9efe9b?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Sep 10 |
 | ↳ | **[Marketing Intern - Spring 2027](https://jobright.ai/jobs/info/6a85e03f4afae74a08341d8d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Sep 10 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a96794069b865490a632406?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Sep 10 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a9ba1132c964816f65e847a?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | On Site | Sep 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a9ba1a9c1d6f91bc38832c2?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Sep 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a988db183fc633357632363?utm_campaign=1065&utm_source=git)** | Providence, RI, United States | On Site | Sep 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a96794069b865490a632406?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Sep 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a96793569b865490a6323f7?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a9ba1132c964816f65e847a?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | On Site | Sep 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a988db183fc633357632363?utm_campaign=1065&utm_source=git)** | Providence, RI, United States | On Site | Sep 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a988da2def18223c85501eb?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Sep 10 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a7f105fe51a1e18a2410145?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 10 |
+| ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a988f93af954907d65741c8?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 10 |
 | ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e19374e02153f14590d2?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 10 |
 | ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e1912f4f0014cae26ac4?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 10 |
-| ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a988f93af954907d65741c8?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 10 |
 | **[Merkle Science](https://www.merklescience.com)** | **[Product Marketing -Intern](https://jobright.ai/jobs/info/6a5890eb9838a11e5d83924f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Sep 10 |
-| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a51acbe8d7d3e6cf1cc0eb1?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, United States of America | Remote | Sep 10 |
-| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Remote | Sep 10 |
+| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Remote | Sep 10 |
+| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a51acbe8d7d3e6cf1cc0eb1?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, United States of America | Remote | Sep 10 |
 | **[Omnicom](https://www.omc.com)** | **[Intern-2](https://jobright.ai/jobs/info/6a588b899838a11e5d839164?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States of America | Hybrid | Sep 10 |
 | **[Wahed](https://www.wahed.com)** | **[Community and Partnerships Intern](https://jobright.ai/jobs/info/6a7c8fa8d77e8156a8e32855?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 10 |
 | **[Codeable](https://gocodeable.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6aa26b321ba58d018005140a?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL, United States | On Site | Sep 10 |
@@ -81,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Marketing Analyst Intern - Summer 2027 (Potential Insure Your Future)](https://jobright.ai/jobs/info/6aa1db60ef23570cae246925?utm_campaign=1065&utm_source=git)** | Johnston, IA, United States | On Site | Sep 09 |
 | **[NU Media Holdings](https://www.nu.marketing)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6aa22287d530cd762f26f8be?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 09 |
 | **[Autter](https://www.autter.dev/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa24d3da841402ec45acab6?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 09 |
-| **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa1f431dbc0e60e37e1465b?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Sep 09 |
+| **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa1f4f5dbc0e60e37e146d2?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Sep 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Payments Strategist)](https://jobright.ai/jobs/info/6aa1935c500b01124c77d880?utm_campaign=1065&utm_source=git)** | Pensacola, FL, United States | Hybrid | Sep 09 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Market Access Summer Intern](https://jobright.ai/jobs/info/6aa1cc913272060a8e3f2415?utm_campaign=1065&utm_source=git)** | Raleigh, NC, United States | Remote | Sep 09 |
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6aa17fa13272060a8e3f0033?utm_campaign=1065&utm_source=git)** | Arden Hills, MN, United States | On Site | Sep 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Swine Marketing Intern](https://jobright.ai/jobs/info/68c8fa44f9c6ff7aedf15829?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Sep 09 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Sports & Events Marketing - Undergraduate Intern](https://jobright.ai/jobs/info/6aa19407500b01124c77d919?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Sep 09 |
 | **[KeyBank](https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp)** | **[2027 Summer Marketing Internship - Cleveland, OH](https://jobright.ai/jobs/info/6a99b9698a8b765bc55f50ba?utm_campaign=1065&utm_source=git)** | Brooklyn, OH, United States | Hybrid | Sep 09 |
-| **[Explore Brighton Howell Area](http://www.explorebrightonhowellarea.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6aa1f3ae2f936e4a53daed97?utm_campaign=1065&utm_source=git)** | Brighton, MI, United States | Hybrid | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
