@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorstech Solar](https://www.colorstech.net)** | **[Online - Marketing Intern Solar -: Equipment](https://jobright.ai/jobs/info/6aa6e42b930bff471a2a2b2d?utm_campaign=1065&utm_source=git)** | Canada | Remote | Sep 13 |
+| ↳ | **[Online Marketing - Professional - Intern](https://jobright.ai/jobs/info/6aa6e42782e82a31997c1590?utm_campaign=1065&utm_source=git)** | Canada | Remote | Sep 13 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Communications](https://jobright.ai/jobs/info/6aa6bae382e82a31997c12a2?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 13 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern / Danbury, CT](https://jobright.ai/jobs/info/6a59343d3ac7627fe9ffdea2?utm_campaign=1065&utm_source=git)** | Danbury, CT, United States | On Site | Sep 13 |
 | **[Gift](https://www.shine.gift)** | **[Kpop Intern - Growth / Field Marketing](https://jobright.ai/jobs/info/6aa6aa7ca77a53f5a1574900?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 13 |
@@ -64,13 +66,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Marketing Sampling Experience Internship - Summer 2027](https://jobright.ai/jobs/info/6a89b3c24afae74a0834f032?utm_campaign=1065&utm_source=git)** | Middleton, WI, United States | On Site | Sep 13 |
 | ↳ | **[Commercial Marketing Product Artist Internship - Summer 2027](https://jobright.ai/jobs/info/6a899fdad34f700f87fcbbdd?utm_campaign=1065&utm_source=git)** | Middleton, WI, United States | On Site | Sep 13 |
 | **[Sub-Zero Group, Inc.](https://www.subzero-wolf.com/sub-zero)** | **[2027 Marketing Internships](https://jobright.ai/jobs/info/6a89a12ecde3717f9e9b87a4?utm_campaign=1065&utm_source=git)** | Madison, WI, United States | On Site | Sep 13 |
-| **[USAA](https://www.usaa.com)** | **[Campaign Analyst Intern](https://jobright.ai/jobs/info/6aa4f13f2ed333b4ea5c4a12?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 13 |
-| ↳ | **[Campaign Analyst Intern](https://jobright.ai/jobs/info/6aa4d69d930bff471a29bd1b?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 13 |
+| **[USAA](https://www.usaa.com)** | **[Campaign Analyst Intern](https://jobright.ai/jobs/info/6aa4d69d930bff471a29bd1b?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 13 |
+| ↳ | **[Campaign Analyst Intern](https://jobright.ai/jobs/info/6aa4f13f2ed333b4ea5c4a12?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 13 |
 | ↳ | **[Marketing Campaigns Manager Intern](https://jobright.ai/jobs/info/6aa49884422289703bd67394?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 13 |
 | **[Veeam Software](http://www.veeam.com)** | **[Campaign Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4b113422289703bd67975?utm_campaign=1065&utm_source=git)** | Remote, GA, United States | Remote | Sep 13 |
 | ↳ | **[Campaign Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa474ea8275e3a2117606e0?utm_campaign=1065&utm_source=git)** | Georgia, United States | Hybrid | Sep 13 |
-| ↳ | **[Launch Strategy Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4e32642411952ff9a5f9c?utm_campaign=1065&utm_source=git)** | Georgia, United States | Hybrid | Sep 13 |
 | ↳ | **[Launch Strategy Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa49a2cc1928370a285ea66?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Sep 13 |
+| ↳ | **[Launch Strategy Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4e32642411952ff9a5f9c?utm_campaign=1065&utm_source=git)** | Georgia, United States | Hybrid | Sep 13 |
 | **[RoShay Services](https://www.linkedin.com/company/109419302)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6aa648e182e82a31997c0b47?utm_campaign=1065&utm_source=git)** | Madison, WI, United States | On Site | Sep 12 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 12 |
 | **[MemorialCare](https://www.memorialcare.org)** | **[PR & Communications Intern](https://jobright.ai/jobs/info/6aa3ab66c5a856ac7e33ad35?utm_campaign=1065&utm_source=git)** | Long Beach, CA, United States | On Site | Sep 12 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Tony Bayudan for Daly City Council](https://tonybayudan.com)** | **[Social Media Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6aa5333882e82a31997bcb99?utm_campaign=1065&utm_source=git)** | Daly City, CA, United States | On Site | Sep 11 |
 | **[Everon](https://www.everonsolutions.com)** | **[Digital Marketing - AI Intern](https://jobright.ai/jobs/info/6a8e1472d34f700f87fd7ce3?utm_campaign=1065&utm_source=git)** | Addison, IL, United States | Hybrid | Sep 11 |
 | **[Lids](https://www.lids.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6aa45966422289703bd66453?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 11 |
-| **[Procter & Gamble](https://us.pg.com)** | **[Senior Brand Manager MBA Internship (2028 Graduates – MBA)](https://jobright.ai/jobs/info/6aa491f7c1928370a285e7b5?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 11 |
-| ↳ | **[Senior Brand Manager MBA Internship (2028 Graduates – MBA)](https://jobright.ai/jobs/info/6aa47111c1928370a285df6c?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 11 |
+| **[Procter & Gamble](https://us.pg.com)** | **[Senior Brand Manager MBA Internship (2028 Graduates – MBA)](https://jobright.ai/jobs/info/6aa47111c1928370a285df6c?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 11 |
+| ↳ | **[Senior Brand Manager MBA Internship (2028 Graduates – MBA)](https://jobright.ai/jobs/info/6aa491f7c1928370a285e7b5?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 11 |
 | ↳ | **[Senior Brand Manager MBA Internship (2028 Graduates – MBA)](https://jobright.ai/jobs/info/6aa46415422289703bd66717?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 11 |
 | **[New College of Florida](http://www.ncf.edu/)** | **[Student Intern, Events](https://jobright.ai/jobs/info/6a91b7018e5968545337716a?utm_campaign=1065&utm_source=git)** | Sarasota, FL, United States | On Site | Sep 11 |
 | **[Tower Hill Insurance Group](https://www.thig.com/)** | **[Commercial Marketing Summer Intern](https://jobright.ai/jobs/info/6aa45625422289703bd66376?utm_campaign=1065&utm_source=git)** | Gainesville, FL, United States | On Site | Sep 11 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MHUSA 2027 Summer Internship Program - Trade Marketing](https://jobright.ai/jobs/info/6aa4f4f3654b2a9424cf1f4d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 11 |
 | ↳ | **[MHUSA 2027 Summer Internship Program - Marketing (Hennessy)](https://jobright.ai/jobs/info/6aa4c8ad654b2a9424cf14b3?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 11 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6aa4f51442411952ff9a63bd?utm_campaign=1065&utm_source=git)** | Racine, WI, United States | On Site | Sep 11 |
-| **[KENT WORLDWIDE](https://kentww.com)** | **[MARKETING INTERN, PET](https://jobright.ai/jobs/info/6aa4a411422289703bd6766e?utm_campaign=1065&utm_source=git)** | Muscatine, IA, United States | On Site | Sep 11 |
+| **[KENT WORLDWIDE](https://kentww.com)** | **[MARKETING INTERN, PET](https://jobright.ai/jobs/info/6aa4b2fe422289703bd679f9?utm_campaign=1065&utm_source=git)** | Muscatine, IA, United States | On Site | Sep 11 |
 | **[HighGear, Inc.](https://www.highgear.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6aa4c98a82e82a31997bab3b?utm_campaign=1065&utm_source=git)** | Frederick, MD, United States | On Site | Sep 11 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Associate Brand Manager - MBA (Burlington, MA)](https://jobright.ai/jobs/info/6aa4c24d2ed333b4ea5c3e8f?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Sep 11 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a91cc2a3603630099194a74?utm_campaign=1065&utm_source=git)** | Yuba City, CA, United States | On Site | Sep 11 |
-| **[Ag Express Electronics Inc](http://agexpress.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa46c90c1928370a285de6c?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
