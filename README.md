@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wellmark Blue Cross and Blue Shield](https://www.wellmark.com/)** | **[Provider Relations & Engagement Internship](https://jobright.ai/jobs/info/6aaa01b46d0edc2d91b0d08e?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 15 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Marketing Internship (NYSBA)](https://jobright.ai/jobs/info/6aa9d14c28e24cb38513c7a0?utm_campaign=1065&utm_source=git)** | Colchester, VT, United States | On Site | Sep 15 |
+| **[Fenner Precision Polymers](https://www.fennerppd.com/)** | **[Supply Chain / Marketing Intern](https://jobright.ai/jobs/info/6aa9f60009ae03adcace073e?utm_campaign=1065&utm_source=git)** | Lititz, PA, United States | On Site | Sep 15 |
+| **[DEMVP](http://www.demvp.org)** | **[Political Growth & Analytics Intern](https://jobright.ai/jobs/info/6aa9f2e528e24cb38513d7d6?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 15 |
+| **[KPBS](http://www.kpbs.org)** | **[ITE Student Media Intern](https://jobright.ai/jobs/info/6aa9d11b09ae03adcacdf7d9?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Sep 15 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Summer 2027 Fundraising, Grant Writing, & Development Internship](https://jobright.ai/jobs/info/6aa9ee756d0edc2d91b0c98a?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 15 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Commercial Marketing Campaign Intern](https://jobright.ai/jobs/info/6aa9ecd810b1cd4f41608e27?utm_campaign=1065&utm_source=git)** | New Holland, PA, United States | On Site | Sep 15 |
 | **[Fenner Precision](https://www.fennerprecision.com/)** | **[Supply Chain / Marketing Intern](https://jobright.ai/jobs/info/6aa9ea453387a3d9b67d7e30?utm_campaign=1065&utm_source=git)** | Lititz, PA, United States | On Site | Sep 15 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Programs Communications and Social Media Intern, Spring 2027](https://jobright.ai/jobs/info/6aa9e8fe28e24cb38513d351?utm_campaign=1065&utm_source=git)** | Winter Garden, FL, United States | On Site | Sep 15 |
-| **[KPBS](http://www.kpbs.org)** | **[ITE Student Media Intern](https://jobright.ai/jobs/info/6aa9d11b09ae03adcacdf7d9?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Sep 15 |
 | **[MVPR](https://www.mvpublicrelations.com)** | **[VIP & Influencer PR Internship](https://jobright.ai/jobs/info/6aa9e7d928e24cb38513d2bd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 15 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Summer 2027 Communications Internship](https://jobright.ai/jobs/info/6aa9e79f09ae03adcace01c0?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 15 |
 | **[Eastern Controls](http://easterncontrols.com)** | **[2027 Summer College Internship Program](https://jobright.ai/jobs/info/6aa9e709eff87f571fc9c6a5?utm_campaign=1065&utm_source=git)** | Newtown Square, PA, United States | On Site | Sep 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Procter & Gamble](https://us.pg.com)** | **[Digital Marketing Technology Internship](https://jobright.ai/jobs/info/6a8ca1dc2f736c304f2a6eca?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 15 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2027 Marketing Intern-Norfolk, VA](https://jobright.ai/jobs/info/6aa9559b3387a3d9b67d4808?utm_campaign=1065&utm_source=git)** | Norfolk, VA, United States | On Site | Sep 15 |
 | **[The Delaney at The Green](https://delaneyatthegreen.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6aa984496d0edc2d91b09e6a?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Energy Efficiency Business Intern (CO or MN)](https://jobright.ai/jobs/info/6aa95edf6d0edc2d91b09530?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 15 |
-| **[McGough](http://www.mcgough.com)** | **[Internship/Co-op, Communications](https://jobright.ai/jobs/info/6aa01567500b01124c776b5d?utm_campaign=1065&utm_source=git)** | Saint Paul, MN, United States | Hybrid | Sep 15 |
-| ↳ | **[Internship/Co-op, Communications](https://jobright.ai/jobs/info/6a8d9991a5639a48103265d4?utm_campaign=1065&utm_source=git)** | Roseville, MN, United States | Hybrid | Sep 15 |
-| **[Ecolab](https://ecolab.com)** | **[Undergraduate Marketing Intern](https://jobright.ai/jobs/info/6a8d1fe52f736c304f2a8dad?utm_campaign=1065&utm_source=git)** | Saint Paul, MN, United States | Hybrid | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
