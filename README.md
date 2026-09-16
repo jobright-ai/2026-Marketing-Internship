@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pomerleau](http://www.pomerleau.ca/)** | **[Intern, Marketing and Communications](https://jobright.ai/jobs/info/6aaa390e23b7fdf74007a289?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Sep 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284d902d93145bf895075?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 15 |
+| **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Merchandising Analyst - Undergrad Internship - Summer 2027](https://jobright.ai/jobs/info/6aa9d2b96d0edc2d91b0bcb2?utm_campaign=1065&utm_source=git)** | Mooresville, NC, United States | On Site | Sep 15 |
+| **[SEG Electronics GmbH](https://www.segelectronics.de)** | **[Werkstudent Marketing / Kommunikationsdesign (m/w/d)](https://jobright.ai/jobs/info/6a5feff86e0c3c7c7d3d9fa8?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 15 |
+| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[WinField United FGI Marketing Intern, Summer 2027](https://jobright.ai/jobs/info/6aa9d7ba28e24cb38513ca86?utm_campaign=1065&utm_source=git)** | Arden Hills, MN, United States | On Site | Sep 15 |
+| **[Otis Elevator Co.](http://www.otis.com/)** | **[Global Marketing Enablement Intern](https://jobright.ai/jobs/info/6aa01d695b2d5633ef3bc798?utm_campaign=1065&utm_source=git)** | Remote City, CT, United States | Remote | Sep 15 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a88afb44afae74a0834d04d?utm_campaign=1065&utm_source=git)** | Warren, RI, United States | On Site | Sep 15 |
 | **[Fenner Precision Polymers](https://www.fennerppd.com/)** | **[Supply Chain / Marketing Intern](https://jobright.ai/jobs/info/6aa9f60009ae03adcace073e?utm_campaign=1065&utm_source=git)** | Lititz, PA, United States | On Site | Sep 15 |
 | **[JYZ Design](http://jyzdesign.com)** | **[Social Media & Content Internship](https://jobright.ai/jobs/info/6aaa1c7f3387a3d9b67d9142?utm_campaign=1065&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 15 |
-| **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Merchandising Analyst - Undergrad Internship - Summer 2027](https://jobright.ai/jobs/info/6aa9d2b96d0edc2d91b0bcb2?utm_campaign=1065&utm_source=git)** | Mooresville, NC, United States | On Site | Sep 15 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a5d7d463ac7627fe900c83a?utm_campaign=1065&utm_source=git)** | Bellaire, TX, United States | On Site | Sep 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6aa9e52128e24cb38513d13c?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Sep 15 |
 | **[KPBS](http://www.kpbs.org)** | **[ITE Student Media Intern](https://jobright.ai/jobs/info/6aa9d11b09ae03adcacdf7d9?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Sep 15 |
@@ -138,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Bachelors - Marketing Co-Op](https://jobright.ai/jobs/info/6aa94b1128e24cb385139946?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Sep 15 |
 | **[SVR Global LLC](https://www.svrglobal.net)** | **[Marketing Intern( Full time)](https://jobright.ai/jobs/info/6aa9d046eff87f571fc9bbfb?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Sep 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2027 Marketing Intern](https://jobright.ai/jobs/info/6aa9ba803387a3d9b67d6669?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 15 |
-| **[Graco](http://graco.com/in/en/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6aa95b5e28e24cb385139f63?utm_campaign=1065&utm_source=git)** | Dexter, MI, United States | On Site | Sep 15 |
-| ↳ | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6aa9b6dfeff87f571fc9ae6c?utm_campaign=1065&utm_source=git)** | French Lake, MN, United States | On Site | Sep 15 |
+| **[Graco](http://graco.com/in/en/)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6aa9b6dfeff87f571fc9ae6c?utm_campaign=1065&utm_source=git)** | French Lake, MN, United States | On Site | Sep 15 |
+| ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/6aa95b5e28e24cb385139f63?utm_campaign=1065&utm_source=git)** | Dexter, MI, United States | On Site | Sep 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2027 Merchandising Planning Intern](https://jobright.ai/jobs/info/6aa9bc1c6d0edc2d91b0b071?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 15 |
 | **[EMBREY](https://www.embreydc.com/)** | **[Internship Program Class of 2027 - CBM (Marketing)](https://jobright.ai/jobs/info/6aa961b228e24cb38513a199?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 15 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Intern](https://jobright.ai/jobs/info/6aa95bff6d0edc2d91b0944c?utm_campaign=1065&utm_source=git)** | Worthington, OH, United States | On Site | Sep 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Weissman](https://www.weissmans.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6aa991f6eff87f571fc9a348?utm_campaign=1065&utm_source=git)** | Saint Louis, MO, United States | On Site | Sep 15 |
 | ↳ | **[Copywriting Intern](https://jobright.ai/jobs/info/6aa991ba09ae03adcacddd4d?utm_campaign=1065&utm_source=git)** | Saint Louis, MO, United States | On Site | Sep 15 |
 | **[Keeley Companies](https://www.keeleycompanies.com/)** | **[Summer 2027 Marketing Internship](https://jobright.ai/jobs/info/6a96f32d455eaf6a08c1974e?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 15 |
-| **[AMBA](https://amba.info)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa99166eff87f571fc9a1c5?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Sep 15 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6aa991666d0edc2d91b0a117?utm_campaign=1065&utm_source=git)** | Urbandale, IA, United States | On Site | Sep 15 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2027 Merchandising Buying Intern](https://jobright.ai/jobs/info/6aa9b7c110b1cd4f416073f6?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 15 |
-| **[JLL](http://www.jll.com/)** | **[Capital Markets Summer 2027 Internship - Charlotte, NC](https://jobright.ai/jobs/info/6aa99615eff87f571fc9a6b2?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 15 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Bachelors or Masters - Marketing Intern or Co-Op](https://jobright.ai/jobs/info/6aa94b0f3387a3d9b67d4498?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
