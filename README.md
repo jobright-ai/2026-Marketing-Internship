@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a82c73a1081a745e970b6eb?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 15 |
 | **[Wellmark Blue Cross and Blue Shield](https://www.wellmark.com/)** | **[Provider Relations & Engagement Internship](https://jobright.ai/jobs/info/6aaa01b46d0edc2d91b0d08e?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Marketing Internship (NYSBA)](https://jobright.ai/jobs/info/6aa9d14c28e24cb38513c7a0?utm_campaign=1065&utm_source=git)** | Colchester, VT, United States | On Site | Sep 15 |
 | **[Fenner Precision Polymers](https://www.fennerppd.com/)** | **[Supply Chain / Marketing Intern](https://jobright.ai/jobs/info/6aa9f60009ae03adcace073e?utm_campaign=1065&utm_source=git)** | Lititz, PA, United States | On Site | Sep 15 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[MVPR](https://www.mvpublicrelations.com)** | **[VIP & Influencer PR Internship](https://jobright.ai/jobs/info/6aa9e7d928e24cb38513d2bd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 15 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Summer 2027 Communications Internship](https://jobright.ai/jobs/info/6aa9e79f09ae03adcace01c0?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 15 |
 | **[Eastern Controls](http://easterncontrols.com)** | **[2027 Summer College Internship Program](https://jobright.ai/jobs/info/6aa9e709eff87f571fc9c6a5?utm_campaign=1065&utm_source=git)** | Newtown Square, PA, United States | On Site | Sep 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6aa9e52128e24cb38513d13c?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Sep 15 |
 | **[ABB](https://global.abb/group/en)** | **[Internal Communications Intern- Spring 2027](https://jobright.ai/jobs/info/6a98675faf954907d6573272?utm_campaign=1065&utm_source=git)** | Memphis, TN, United States | Remote | Sep 15 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a97408d455eaf6a08c1bc26?utm_campaign=1065&utm_source=git)** | Webster, TX, United States | On Site | Sep 15 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Spring 2027 Communications Internship](https://jobright.ai/jobs/info/6aa9dfe26d0edc2d91b0c2da?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 15 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Mary Kay Global](https://www.marykay.pt)** | **[2027 Summer Internships – Corporate Communications](https://jobright.ai/jobs/info/6aa089d4ea127c3794697c0a?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Sep 15 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6aa9b0b110b1cd4f41606fee?utm_campaign=1065&utm_source=git)** | Bridgeton, MO, United States | On Site | Sep 15 |
 | **[Mary Kay Global](https://www.marykay.pt)** | **[2027 Summer Internships – Global Brand Marketing](https://jobright.ai/jobs/info/6aa08956dbc0e60e37e0e4a2?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 15 |
+| **[Scale Media](https://scalemedia.com)** | **[Part-Time eCommerce Intern](https://jobright.ai/jobs/info/6aaa058e3387a3d9b67d8a14?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 15 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Intern, Marketing Integration](https://jobright.ai/jobs/info/6aa7a10b82e82a31997c2339?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Sep 15 |
+| **[Syngenta](http://www.syngenta.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a970d53d13b4819f39dece1?utm_campaign=1065&utm_source=git)** | Lisle, IL, United States | Remote | Sep 15 |
 | **[Musco Lighting](http://www.musco.com)** | **[Marketing Data Intern - Videoboards](https://jobright.ai/jobs/info/6aa9b7af28e24cb38513b9dc?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
 | **[Plant With Olive](https://plantwitholive.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6aa9a4a209ae03adcacde3f9?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 15 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Digital Marketing Technology Internship](https://jobright.ai/jobs/info/6a8ca1dc2f736c304f2a6eca?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 15 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2027 Marketing Intern-Norfolk, VA](https://jobright.ai/jobs/info/6aa9559b3387a3d9b67d4808?utm_campaign=1065&utm_source=git)** | Norfolk, VA, United States | On Site | Sep 15 |
-| **[The Delaney at The Green](https://delaneyatthegreen.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6aa984496d0edc2d91b09e6a?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
