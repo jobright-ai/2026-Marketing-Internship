@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[US Fire Services - Waterway](http://www.usfireservices.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6aaa4d46b7e903e22aa9a17f?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Pomerleau](http://www.pomerleau.ca/)** | **[Intern, Marketing and Communications](https://jobright.ai/jobs/info/6aaa390e23b7fdf74007a289?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Sep 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284d902d93145bf895075?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 15 |
 | **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Merchandising Analyst - Undergrad Internship - Summer 2027](https://jobright.ai/jobs/info/6aa9d2b96d0edc2d91b0bcb2?utm_campaign=1065&utm_source=git)** | Mooresville, NC, United States | On Site | Sep 15 |
 | **[SEG Electronics GmbH](https://www.segelectronics.de)** | **[Werkstudent Marketing / Kommunikationsdesign (m/w/d)](https://jobright.ai/jobs/info/6a5feff86e0c3c7c7d3d9fa8?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 15 |
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[WinField United FGI Marketing Intern, Summer 2027](https://jobright.ai/jobs/info/6aa9d7ba28e24cb38513ca86?utm_campaign=1065&utm_source=git)** | Arden Hills, MN, United States | On Site | Sep 15 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Global Marketing Enablement Intern](https://jobright.ai/jobs/info/6aa01d695b2d5633ef3bc798?utm_campaign=1065&utm_source=git)** | Remote City, CT, United States | Remote | Sep 15 |
-| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a88afb44afae74a0834d04d?utm_campaign=1065&utm_source=git)** | Warren, RI, United States | On Site | Sep 15 |
+| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a88af884afae74a0834d031?utm_campaign=1065&utm_source=git)** | Warren, RI, United States | On Site | Sep 15 |
 | **[Fenner Precision Polymers](https://www.fennerppd.com/)** | **[Supply Chain / Marketing Intern](https://jobright.ai/jobs/info/6aa9f60009ae03adcace073e?utm_campaign=1065&utm_source=git)** | Lititz, PA, United States | On Site | Sep 15 |
 | **[JYZ Design](http://jyzdesign.com)** | **[Social Media & Content Internship](https://jobright.ai/jobs/info/6aaa1c7f3387a3d9b67d9142?utm_campaign=1065&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 15 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a5d7d463ac7627fe900c83a?utm_campaign=1065&utm_source=git)** | Bellaire, TX, United States | On Site | Sep 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CouponDonation](http://www.coupondonation.com)** | **[Content Creation Intern (Unpaid)](https://jobright.ai/jobs/info/6aa9b6c510b1cd4f41607395?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 15 |
 | **[Weissman](https://www.weissmans.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6aa991f6eff87f571fc9a348?utm_campaign=1065&utm_source=git)** | Saint Louis, MO, United States | On Site | Sep 15 |
 | ↳ | **[Copywriting Intern](https://jobright.ai/jobs/info/6aa991ba09ae03adcacddd4d?utm_campaign=1065&utm_source=git)** | Saint Louis, MO, United States | On Site | Sep 15 |
-| **[Keeley Companies](https://www.keeleycompanies.com/)** | **[Summer 2027 Marketing Internship](https://jobright.ai/jobs/info/6a96f32d455eaf6a08c1974e?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
