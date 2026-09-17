@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WildWorks](http://www.wildworks.com)** | **[Marketing & Social Media - Video Production Intern](https://jobright.ai/jobs/info/6a5106758d7d3e6cf1cbe447?utm_campaign=1065&utm_source=git)** | Draper, UT, United States | On Site | Sep 16 |
+| **[NewsBreak](http://www.newsbreak.com)** | **[New Market Launch Intern (MBA), Nearby AI](https://jobright.ai/jobs/info/6aab82ab8e1bf0f764af9a89?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | Remote | Sep 16 |
 | **[Elite Travel Group](https://etg.al)** | **[Marketing Internship - GetawaywithGod.com](https://jobright.ai/jobs/info/6aab71608e1bf0f764af98fa?utm_campaign=1065&utm_source=git)** | Cape Girardeau, MO, United States | Hybrid | Sep 16 |
 | **[MP+F](http://mpf.com)** | **[Communications Intern: Spring 2027](https://jobright.ai/jobs/info/6a73866d1ce9647cdbca8b19?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Sep 16 |
 | **[Finning](http://finning.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6aab61694be87a72913a43f6?utm_campaign=1065&utm_source=git)** | Surrey, BC, Canada | Hybrid | Sep 16 |
@@ -78,7 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern - Spring 2027](https://jobright.ai/jobs/info/6aab484f8e1bf0f764af9297?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 16 |
 | **[DC Breeze Ultimate, LLC](https://watchufa.com/breeze)** | **[Social Media & Digital Marketing Internship](https://jobright.ai/jobs/info/6aab484640807b73bd394977?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 16 |
 | **[Harris County–Houston Sports Authority](https://www.houstonsports.org/)** | **[Communications Intern - Spring 2027](https://jobright.ai/jobs/info/6aab48114be87a72913a3fb9?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 16 |
-| **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[Investor Relations Summer Intern](https://jobright.ai/jobs/info/6aab19dc40807b73bd393e2b?utm_campaign=1065&utm_source=git)** | Downers Grove, IL, United States | On Site | Sep 16 |
+| **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[Investor Relations Summer Intern](https://jobright.ai/jobs/info/6aab0f79c85610f4a48435de?utm_campaign=1065&utm_source=git)** | Downers Grove, IL, United States | On Site | Sep 16 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Communications](https://jobright.ai/jobs/info/6aab4501f6bd9d2d17c1c219?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 16 |
 | **[Ben's Bells](https://www.bensbells.org)** | **[Digital Merchandising (eCommerce) Intern](https://jobright.ai/jobs/info/6aab39d98e1bf0f764af90ab?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Sep 16 |
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern (59926)](https://jobright.ai/jobs/info/6a5ae306686b4755d1e1729a?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Sep 16 |
@@ -114,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[PR Internship- Fall](https://jobright.ai/jobs/info/6aab01db8e1bf0f764af7da4?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Sep 16 |
 | **[97th Floor](https://www.97thfloor.com/)** | **[Marketing Intern — Search, Advertising, or Content Track](https://jobright.ai/jobs/info/6aab007f8e1bf0f764af7cfa?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Sep 16 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Communications Manager Internship](https://jobright.ai/jobs/info/6aa812103a9f0a4fe6f16fe0?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 16 |
-| **[IBM](http://www.ibm.com)** | **[2027 Intern – Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6a94e7cd8e5968545337d7aa?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 16 |
-| ↳ | **[2027 Intern – Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6a99517d8974952dfc94a5ab?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 16 |
+| **[IBM](http://www.ibm.com)** | **[2027 Intern – Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6a99517d8974952dfc94a5ab?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 16 |
+| ↳ | **[2027 Intern – Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6a94e7cd8e5968545337d7aa?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 16 |
 | **[RoyOMartin](http://www.royomartin.com/)** | **[2027 Summer Internship - Communications and Marketing](https://jobright.ai/jobs/info/6aaafeb4f6bd9d2d17c1ac66?utm_campaign=1065&utm_source=git)** | Alexandria, LA, United States | On Site | Sep 16 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Marketing Coordinator Intern - Corporate Services (Kansas City)](https://jobright.ai/jobs/info/6aaae5ad4be87a72913a2010?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 16 |
 | **[AMD](http://www.amd.com)** | **[Short Term 2027 Technical Marketing - Performance Analysis Intern/Co-Op](https://jobright.ai/jobs/info/6aaac2f540807b73bd391c5f?utm_campaign=1065&utm_source=git)** | Markham, ON, Canada | On Site | Sep 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Plug Drink](https://theplugdrink.com/)** | **[TikTok Shop & Livestream Internship](https://jobright.ai/jobs/info/6aaacbcec85610f4a4841b38?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 16 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6aaa9b46c85610f4a48409fb?utm_campaign=1065&utm_source=git)** | Trenton, NJ, United States | On Site | Sep 16 |
 | **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[Fall 2026 Marketing Internship](https://jobright.ai/jobs/info/6a8de3a025fc4e7ae3dbe6be?utm_campaign=1065&utm_source=git)** | Canfield, OH, United States | On Site | Sep 16 |
-| **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6aaac51e40807b73bd391d57?utm_campaign=1065&utm_source=git)** | White Plains, NY, United States | Hybrid | Sep 16 |
-| **[Noble Story Co.](https://www.noblestoryco.com/)** | **[Top of the Class Social Media Internship](https://jobright.ai/jobs/info/6aab521540807b73bd394aa8?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States | Hybrid | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
