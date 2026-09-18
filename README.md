@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NU Media Holdings](https://www.nu.marketing)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6aacb68f3dbb1f8967ceb56a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
 | **[Eulerity](https://www.eulerity.com)** | **[Technical Product Marketing Intern - AI & Automation](https://jobright.ai/jobs/info/6aac6150636cddf7396f3d1b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
 | **[Harborside Inc.](https://www.shopharborside.com)** | **[Marketing Paid Internship (Part-Time) 3-6 months Months ($17.75 per hour)](https://jobright.ai/jobs/info/6a627e63d5caab4af8bae57d?utm_campaign=1065&utm_source=git)** | Bay Park, CA, United States | Hybrid | Sep 17 |
 | **[Independence Home Loans](https://independencehl.com)** | **[Social Media & Partnerships ASU Intern](https://jobright.ai/jobs/info/6aac9e0d636cddf7396f49db?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Sep 17 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[LJA](https://www.lja.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6aac5a633dbb1f8967cea4ca?utm_campaign=1065&utm_source=git)** | Winder, GA, United States | On Site | Sep 17 |
 | ↳ | **[Intern - Marketing](https://jobright.ai/jobs/info/6aac5a67636cddf7396f3b5c?utm_campaign=1065&utm_source=git)** | Maitland, FL, United States | On Site | Sep 17 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Communications](https://jobright.ai/jobs/info/6aac96ae636cddf7396f485c?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 17 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Fall 2026 - Marketing, Communication & Digital Content Creation For Social Justice Internship](https://jobright.ai/jobs/info/6a63ad0b5c7e2d715ebad45b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Sep 17 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Fall 2026 - Marketing, Communication & Digital Content Creation For Social Justice Internship](https://jobright.ai/jobs/info/6a63755887cef057612c8b55?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Sep 17 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6aac8c022e757fcb5c8b5e0f?utm_campaign=1065&utm_source=git)** | Richmond, TX, United States | On Site | Sep 17 |
 | **[Advantage Capital](http://www.advantagecap.com/)** | **[Marketing and Communications Intern 2027](https://jobright.ai/jobs/info/6aa169eb2f936e4a53dab8cb?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 17 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6aac8aa195c707f49dff1b3e?utm_campaign=1065&utm_source=git)** | Winchester, VA, United States | On Site | Sep 17 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[2026 CLD Falloween Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/6aac767a2e757fcb5c8b5a44?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 17 |
 | **[Compass](http://www.compass.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aac7572636cddf7396f42ca?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 17 |
 | **[National Education Association](http://www.nea.org)** | **[Center for Organizing and Affiliate Support Intern](https://jobright.ai/jobs/info/6a4e7c131544d7246c0d2f6d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Sep 17 |
-| ↳ | **[Campaigns and Elections Intern (Volunteer)](https://jobright.ai/jobs/info/6a0c8be2538d03366dc8e53f?utm_campaign=1065&utm_source=git)** | NEA Headquarters, US | On Site | Sep 17 |
 | ↳ | **[Campaigns and Elections Intern (Volunteer)](https://jobright.ai/jobs/info/6a51b9ecbf63b66c7997b928?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Sep 17 |
+| ↳ | **[Campaigns and Elections Intern (Volunteer)](https://jobright.ai/jobs/info/6a0c8be2538d03366dc8e53f?utm_campaign=1065&utm_source=git)** | NEA Headquarters, US | On Site | Sep 17 |
 | **[Slim Chickens](http://slimchickens.com/)** | **[Marketing Technology Intern - Spring 2027](https://jobright.ai/jobs/info/6aac35ce95c707f49dff02a9?utm_campaign=1065&utm_source=git)** | Fayetteville, AR, United States | On Site | Sep 17 |
 | **[Mississippi Votes](msvotes.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6aac6dd23e3ce93970c7d803?utm_campaign=1065&utm_source=git)** | Jackson, MS, United States | On Site | Sep 17 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Marketing, FIS University Program](https://jobright.ai/jobs/info/6aac65752e757fcb5c8b561f?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 17 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Werner](http://wernerelectric.com)** | **[Marketing Events Intern (Summer 2027)](https://jobright.ai/jobs/info/6aac100095c707f49dfef3f9?utm_campaign=1065&utm_source=git)** | Appleton, WI, United States | On Site | Sep 17 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 17 |
 | **[Graco](http://graco.com/in/en/)** | **[Category Marketing Intern](https://jobright.ai/jobs/info/6aabfad02e757fcb5c8b30ab?utm_campaign=1065&utm_source=git)** | Rogers, MN, United States | On Site | Sep 17 |
-| ↳ | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6aabfb5a636cddf7396f188f?utm_campaign=1065&utm_source=git)** | Dayton, MN, United States | On Site | Sep 17 |
 | ↳ | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6aabfaf1636cddf7396f1878?utm_campaign=1065&utm_source=git)** | Rogers, MN, United States | On Site | Sep 17 |
+| ↳ | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6aabfb5a636cddf7396f188f?utm_campaign=1065&utm_source=git)** | Dayton, MN, United States | On Site | Sep 17 |
 | **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Merchandising Field Execution – Undergrad Internship – Summer 2027](https://jobright.ai/jobs/info/6aac046995c707f49dfeef60?utm_campaign=1065&utm_source=git)** | Mooresville, NC, United States | On Site | Sep 17 |
 | **[Republic Airways](http://www.rjet.com)** | **[Corporate Communication Intern - Spring 2027](https://jobright.ai/jobs/info/6aabfeff2e757fcb5c8b31d6?utm_campaign=1065&utm_source=git)** | Carmel, Indiana, United States | On Site | Sep 17 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[Social Media and Public Relations Intern - Remote](https://jobright.ai/jobs/info/6aac18853dbb1f8967ce8c4a?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSM Group](http://csmgroup.com)** | **[Marketing & Sales Project Intern](https://jobright.ai/jobs/info/6aabf4603d96632d741a857e?utm_campaign=1065&utm_source=git)** | Kalamazoo, MI, United States | On Site | Sep 17 |
 | **[Bell Partners Inc](http://www.bellpartnersinc.com/)** | **[Investor Relations/Asset Management Corporate Internship](https://jobright.ai/jobs/info/6aac1c3795c707f49dfef8cf?utm_campaign=1065&utm_source=git)** | Alexandria, VA, United States | On Site | Sep 17 |
 | **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aac3a4a2e757fcb5c8b47e7?utm_campaign=1065&utm_source=git)** | Saint Louis Park, MN, United States | On Site | Sep 17 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/6aac24213e3ce93970c7bde2?utm_campaign=1065&utm_source=git)** | Eastvale, California, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
