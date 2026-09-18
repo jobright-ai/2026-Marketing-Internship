@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merkle Science](https://www.merklescience.com)** | **[Events & Marketing Assistant / Intern](https://jobright.ai/jobs/info/6aad150d3dbb1f8967cebf3b?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 18 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6aad141bea4712a195b141ea?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 18 |
 | **[IFF](http://iff.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a90adb88ffa38557e6ce602?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 18 |
 | **[Advize](https://advizehealth.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6aad0df7421662ebd00f110f?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6aad0a7c2e757fcb5c8b6bba?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 18 |
-| **[Yelp](https://yelp.com)** | **[Community Intern, Long Island](https://jobright.ai/jobs/info/6a8c0851680f314a29d424de?utm_campaign=1065&utm_source=git)** | Long Island, New York, United States | On Site | Sep 18 |
-| ↳ | **[Community Intern, Long Island](https://jobright.ai/jobs/info/6a73a1b78dc3d52d8eda0af3?utm_campaign=1065&utm_source=git)** | Long Island, New York, United States | On Site | Sep 18 |
+| **[Yelp](https://yelp.com)** | **[Community Intern, Long Island](https://jobright.ai/jobs/info/6a73a1b78dc3d52d8eda0af3?utm_campaign=1065&utm_source=git)** | Long Island, New York, United States | On Site | Sep 18 |
+| ↳ | **[Community Intern, Long Island](https://jobright.ai/jobs/info/6a882b2d680f314a29d3af92?utm_campaign=1065&utm_source=git)** | Long Island, New York, United States | On Site | Sep 18 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[2027 Summer Associate Ambassador Intern](https://jobright.ai/jobs/info/6a9003a9a19886486675f216?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 18 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Corporate Marketing Storytelling](https://jobright.ai/jobs/info/6aad04ee0a4ce9becc77ad54?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | On Site | Sep 18 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a90bd867c32860d14cfb40b?utm_campaign=1065&utm_source=git)** | Westminster, CO, United States | Hybrid | Sep 18 |
-| ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a905d1d0bd89e205d249d43?utm_campaign=1065&utm_source=git)** | Westminster, CO, United States | Hybrid | Sep 18 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a905d1d0bd89e205d249d43?utm_campaign=1065&utm_source=git)** | Westminster, CO, United States | Hybrid | Sep 18 |
+| ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a90bd867c32860d14cfb40b?utm_campaign=1065&utm_source=git)** | Westminster, CO, United States | Hybrid | Sep 18 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Social Media](https://jobright.ai/jobs/info/6aa431b3f7baf881567cdb3f?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Sep 18 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Marketing Research](https://jobright.ai/jobs/info/6a8fcf2ad96ad228f125eb60?utm_campaign=1065&utm_source=git)** | Meridian, ID, United States | On Site | Sep 18 |
 | ↳ | **[Intern - CDBU Marketing](https://jobright.ai/jobs/info/6a8fcf590bd89e205d247c62?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | On Site | Sep 18 |
@@ -100,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[LJA](https://www.lja.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6aac5a633dbb1f8967cea4ca?utm_campaign=1065&utm_source=git)** | Winder, GA, United States | On Site | Sep 17 |
 | ↳ | **[Intern - Marketing](https://jobright.ai/jobs/info/6aac5a67636cddf7396f3b5c?utm_campaign=1065&utm_source=git)** | Maitland, FL, United States | On Site | Sep 17 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Communications](https://jobright.ai/jobs/info/6aac96ae636cddf7396f485c?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 17 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Fall 2026 - Marketing, Communication & Digital Content Creation For Social Justice Internship](https://jobright.ai/jobs/info/6a63ad0b5c7e2d715ebad45b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Sep 17 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Fall 2026 - Marketing, Communication & Digital Content Creation For Social Justice Internship](https://jobright.ai/jobs/info/6a63755887cef057612c8b55?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Sep 17 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6aac8c022e757fcb5c8b5e0f?utm_campaign=1065&utm_source=git)** | Richmond, TX, United States | On Site | Sep 17 |
 | **[Advantage Capital](http://www.advantagecap.com/)** | **[Marketing and Communications Intern 2027](https://jobright.ai/jobs/info/6aa169eb2f936e4a53dab8cb?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 17 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6aac8aa195c707f49dff1b3e?utm_campaign=1065&utm_source=git)** | Winchester, VA, United States | On Site | Sep 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/6aac508a636cddf7396f379c?utm_campaign=1065&utm_source=git)** | Rutland, VT, United States | On Site | Sep 17 |
 | ↳ | **[Spring 2027 Management Intern Fort Worth](https://jobright.ai/jobs/info/6a999ddc8a8b765bc55f4370?utm_campaign=1065&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 17 |
 | **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/6aac39ac2e757fcb5c8b4791?utm_campaign=1065&utm_source=git)** | St Louis Park, MN, United States | On Site | Sep 17 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6aac39af95c707f49dff0463?utm_campaign=1065&utm_source=git)** | St Louis Park, MN, United States | On Site | Sep 17 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284dccb96192a3684e648?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
