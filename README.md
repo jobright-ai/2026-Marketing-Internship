@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Social Media Content Intern (3801)](https://jobright.ai/jobs/info/6aaddba3de327d3e210d498c?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Sep 18 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284dccb96192a3684e647?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 18 |
 | **[Tenaska](http://www.tenaska.com/)** | **[Business Intelligence & Innovation - Summer Rotational Internship Program](https://jobright.ai/jobs/info/6aadb59fde327d3e210d3f7b?utm_campaign=1065&utm_source=git)** | Omaha, NE, United States | On Site | Sep 18 |
 | **[AI 2030](http://www.ai2030.org)** | **[AI 2030 Internship Program (Volunteer)](https://jobright.ai/jobs/info/6aadd5673d96632d741afed5?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Remote | Sep 18 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Growth Intern](https://jobright.ai/jobs/info/6aadd0db3d96632d741afe29?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Sep 18 |
@@ -99,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Pepco Holdings](http://www.pepcoholdings.com)** | **[Corporate Community Impact Intern](https://jobright.ai/jobs/info/6aada1d63d96632d741af071?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 18 |
 | **[Electro](electrogum.com)** | **[Sports Marketing & NIL Intern](https://jobright.ai/jobs/info/6aada1903dbb1f8967ceeab4?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Sep 18 |
 | **[Baltimore Gas and Electric](https://www.bge.com)** | **[Corporate Community Impact Intern](https://jobright.ai/jobs/info/6aada0833d96632d741af002?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 18 |
-| **[Delmarva Power](http://www.delmarva.com)** | **[Corporate Community Impact Intern](https://jobright.ai/jobs/info/6aad9efa3dbb1f8967ceea0e?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 18 |
+| **[Delmarva Power](http://www.delmarva.com)** | **[Corporate Community Impact Intern](https://jobright.ai/jobs/info/6aad9efade327d3e210d388e?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 18 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Social Media - Marketplace](https://jobright.ai/jobs/info/6aad9edb3dbb1f8967ceea0c?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 18 |
 | ↳ | **[Intern, Digital - Marketplace](https://jobright.ai/jobs/info/6aad9ec73d96632d741aef94?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 18 |
 | **[AMC911 Crawl Space & Foundation Repair](https://www.amc911.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aad9e92de327d3e210d387c?utm_campaign=1065&utm_source=git)** | Norfolk, VA, United States | On Site | Sep 18 |
@@ -131,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Intern (TikTok Shop - Operations Center) - 2027 Summer](https://jobright.ai/jobs/info/6a7381f332ebbc14ffb4f648?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 18 |
 | **[Mulbah](https://mulbahmedia.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6aad831e3dbb1f8967cedeaf?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | Hybrid | Sep 18 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Digital Commerce/ Marketing Intern](https://jobright.ai/jobs/info/6aad3e363dbb1f8967cec720?utm_campaign=1065&utm_source=git)** | Worthington, OH, United States | On Site | Sep 18 |
-| **[LCS](https://www.lcsnet.com/)** | **[Market Research Internship](https://jobright.ai/jobs/info/6aad592f2e757fcb5c8b7c7b?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 18 |
+| **[LCS](https://www.lcsnet.com/)** | **[Market Research Internship](https://jobright.ai/jobs/info/6aad6b386956574eac8b593a?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 18 |
 | **[Heal Together Technologies](healtogether.ai)** | **[Growth & Go-to-Market Contractor / Paid Intern](https://jobright.ai/jobs/info/6aad80863dbb1f8967cedde3?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 18 |
 | **[Fifth & Cor](https://www.fifthandcor.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6aad7faa6956574eac8b60b7?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | Hybrid | Sep 18 |
 | **[CLC Enterprises](https://clcent.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6aad7f283dbb1f8967cedd33?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Marketing Intern / Summer 2027](https://jobright.ai/jobs/info/6a91f6ec36036300991955d3?utm_campaign=1065&utm_source=git)** | Brentwood, TN, United States | Hybrid | Sep 18 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2027 Summer Internship- Corporate Communications (NYC)](https://jobright.ai/jobs/info/6aad75c92e757fcb5c8b87e7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 | **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program- Global Marketing [Bellevue]](https://jobright.ai/jobs/info/6a90a1700bd89e205d24b757?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | Hybrid | Sep 18 |
-| **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Field Marketing Ambassador, 2027 Season](https://jobright.ai/jobs/info/6aad45892e757fcb5c8b7608?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 18 |
-| ↳ | **[Field Marketing Intern, 2027 Season](https://jobright.ai/jobs/info/6aad456bde327d3e210d16f3?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
