@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Electro](electrogum.com)** | **[Social Media & Sports Marketing Intern](https://jobright.ai/jobs/info/6ab01d192e757fcb5c8bd610?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Sep 20 |
+| **[Electro](electrogum.com)** | **[NIL Marketing & Partnerships Intern](https://jobright.ai/jobs/info/6ab02cb03d96632d741b2e3c?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 20 |
+| ↳ | **[NIL Athlete Relations & Social Media Intern](https://jobright.ai/jobs/info/6ab02c91de327d3e210d778f?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Sep 20 |
+| ↳ | **[Social Media & Sports Marketing Intern](https://jobright.ai/jobs/info/6ab01d192e757fcb5c8bd610?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Sep 20 |
+| **[Advize](https://advizehealth.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6aad0df7421662ebd00f110f?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Go Fish Digital](https://gofishdigital.com)** | **[Integrated Media Intern](https://jobright.ai/jobs/info/6aa1a01e3272060a8e3f11a1?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Sep 20 |
 | **[KCMCONNECT](https://kcmconnect.co/)** | **[Social Media - Internship](https://jobright.ai/jobs/info/6ab001373d96632d741b2bb7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 20 |
-| **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Communications](https://jobright.ai/jobs/info/6aafea4c3dbb1f8967cf2442?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a5304dd9fbdab22fe13dfa5?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 20 |
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Richmond (59928)](https://jobright.ai/jobs/info/6a5586fbf2c46727285f2b0c?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Sep 20 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Fashion and Marketing Copywriter Internship](https://jobright.ai/jobs/info/6a5417b1e726ec56126a91ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 20 |
@@ -83,9 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 19 |
 | **[Blitz](https://www.useblitz.co/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6aaf2dfa3dbb1f8967cf16d0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Traffic Strategy & Operations Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3e1e6c122f340d29cf2b04?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 19 |
-| **[Electro](electrogum.com)** | **[Social Media & NIL Marketing Intern](https://jobright.ai/jobs/info/6aaf23ad3d96632d741b1b7d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Sep 19 |
-| ↳ | **[NIL Athlete Marketing Intern](https://jobright.ai/jobs/info/6aaf22bede327d3e210d64d4?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | Remote | Sep 19 |
-| ↳ | **[NIL Athlete Relations & Social Media Intern](https://jobright.ai/jobs/info/6aaf227a2e757fcb5c8bc465?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | Remote | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Communications Intern, Spring 2027](https://jobright.ai/jobs/info/6aa96795eff87f571fc998e9?utm_campaign=1065&utm_source=git)** | Celebration, FL, United States | On Site | Sep 19 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2027: MBA Product Marketing Intern](https://jobright.ai/jobs/info/6aa827ea3a9f0a4fe6f179e0?utm_campaign=1065&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 19 |
 | **[HP](http://www.hp.com)** | **[Product Marketing / Portfolio Strategy Intern : Insight & Strategy (Agentic AI Focus)](https://jobright.ai/jobs/info/6aa54e8a82e82a31997bd2f2?utm_campaign=1065&utm_source=git)** | Spring, TX, United States | On Site | Sep 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Haworth](http://www.haworth.com/)** | **[New Product Introduction Marketing Intern](https://jobright.ai/jobs/info/6aad00c83dbb1f8967cebd0e?utm_campaign=1065&utm_source=git)** | Holland, MI, United States | On Site | Sep 18 |
 | **[Olympian Motors](https://olympianmotors.com/)** | **[Intern - Content & Social Media Talent](https://jobright.ai/jobs/info/6aade1b32e757fcb5c8ba99b?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Sep 18 |
 | **[Kenvue](https://www.kenvue.com)** | **[Associate Brand Manager Intern](https://jobright.ai/jobs/info/6aadf5ec3d96632d741b0228?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
+| **[ComEd](https://www.comed.com)** | **[Corporate Community Impact Intern](https://jobright.ai/jobs/info/6aad9e243dbb1f8967cee9d8?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
