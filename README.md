@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Communications](https://jobright.ai/jobs/info/6aafea4c3dbb1f8967cf2442?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a5304dd9fbdab22fe13dfa5?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 20 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Coordinator - Mandarin Speaking(Paid)](https://jobright.ai/jobs/info/6a8c11abe8b6601d1290d2e9?utm_campaign=1065&utm_source=git)** | West Lafayette, IN, United States | On Site | Sep 20 |
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Richmond (59928)](https://jobright.ai/jobs/info/6a5586fbf2c46727285f2b0c?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Sep 20 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Fashion and Marketing Copywriter Internship](https://jobright.ai/jobs/info/6a5417b1e726ec56126a91ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 20 |
 | **[Keeper Security, Inc.](https://www.keepersecurity.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a763ae867a1ad0bc53c958c?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Olympian Motors](https://olympianmotors.com/)** | **[Intern - Content & Social Media Talent](https://jobright.ai/jobs/info/6aade1b32e757fcb5c8ba99b?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Sep 18 |
 | **[Kenvue](https://www.kenvue.com)** | **[Associate Brand Manager Intern](https://jobright.ai/jobs/info/6aadf5ec3d96632d741b0228?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | **[ComEd](https://www.comed.com)** | **[Corporate Community Impact Intern](https://jobright.ai/jobs/info/6aad9e243dbb1f8967cee9d8?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 18 |
+| **[The State University of New York](http://www.suny.edu/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6aade3a33dbb1f8967cefbba?utm_campaign=1065&utm_source=git)** | Albany, NY, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
