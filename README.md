@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Codeable](https://gocodeable.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ab034cc2e757fcb5c8bd7a7?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL, United States | On Site | Sep 20 |
+| **[Allegheny County Department of Human Services](http://www.alleghenycounty.us/dhs)** | **[2027 DHS Internship / Communications](https://jobright.ai/jobs/info/6aadbfd52e757fcb5c8ba41a?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 20 |
 | **[Electro](electrogum.com)** | **[NIL Marketing & Partnerships Intern](https://jobright.ai/jobs/info/6ab02cb03d96632d741b2e3c?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 20 |
 | ↳ | **[NIL Athlete Relations & Social Media Intern](https://jobright.ai/jobs/info/6ab02c91de327d3e210d778f?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Sep 20 |
 | ↳ | **[Social Media & Sports Marketing Intern](https://jobright.ai/jobs/info/6ab01d192e757fcb5c8bd610?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Sep 20 |
@@ -146,7 +148,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Intern Commercial Graduate Program Associate, General Medicines, Morristown, NJ](https://jobright.ai/jobs/info/6aae1124de327d3e210d4fa8?utm_campaign=1065&utm_source=git)** | Morristown, NJ, United States | On Site | Sep 18 |
 | ↳ | **[2027 Summer Intern Commercial Graduate Program Associate, Vaccines, Morristown, NJ](https://jobright.ai/jobs/info/6aae111b6956574eac8b83e2?utm_campaign=1065&utm_source=git)** | Morristown, NJ, United States | On Site | Sep 18 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Associate Brand Manager - MBA (Emeryville, CA)](https://jobright.ai/jobs/info/6aa618422ed333b4ea5c9d7c?utm_campaign=1065&utm_source=git)** | Emeryville, California, United States | Hybrid | Sep 18 |
-| ↳ | **[Summer 2027 Intern - Associate Brand Manager - MBA (Emeryville, CA)](https://jobright.ai/jobs/info/6aa605dc2ed333b4ea5c963d?utm_campaign=1065&utm_source=git)** | Emeryville, CA, United States | Hybrid | Sep 18 |
+| ↳ | **[Summer 2027 Intern - Associate Brand Manager - MBA (Emeryville, CA)](https://jobright.ai/jobs/info/6aa60e20a77a53f5a1573af0?utm_campaign=1065&utm_source=git)** | Emeryville, CA, United States | Hybrid | Sep 18 |
 | ↳ | **[Summer 2027 Intern - Associate Brand Manager - MBA (Emeryville, CA)](https://jobright.ai/jobs/info/6aa60b202ed333b4ea5c988a?utm_campaign=1065&utm_source=git)** | Emeryville, CA, United States | Hybrid | Sep 18 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Corporate Community Impact Intern](https://jobright.ai/jobs/info/6aadb2f82e757fcb5c8b9eda?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Digital Marketing Project Intern (TikTok Shop - Seller Marketing) - 2026 Start](https://jobright.ai/jobs/info/6a69bafb09998f68b5a6d5d8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a50aba62e2ceb72963b4b47?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Sep 18 |
 | **[Haworth](http://www.haworth.com/)** | **[New Product Introduction Marketing Intern](https://jobright.ai/jobs/info/6aad00c83dbb1f8967cebd0e?utm_campaign=1065&utm_source=git)** | Holland, MI, United States | On Site | Sep 18 |
 | **[Olympian Motors](https://olympianmotors.com/)** | **[Intern - Content & Social Media Talent](https://jobright.ai/jobs/info/6aade1b32e757fcb5c8ba99b?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Sep 18 |
-| **[Kenvue](https://www.kenvue.com)** | **[Associate Brand Manager Intern](https://jobright.ai/jobs/info/6aadf5ec3d96632d741b0228?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
-| **[ComEd](https://www.comed.com)** | **[Corporate Community Impact Intern](https://jobright.ai/jobs/info/6aad9e243dbb1f8967cee9d8?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
