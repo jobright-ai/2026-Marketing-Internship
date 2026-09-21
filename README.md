@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Workiva](http://www.workiva.com)** | **[Spring 2027 Intern - Marketing (MBA)](https://jobright.ai/jobs/info/6a951065d18f7567482800d7?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Sep 21 |
+| **[Philip Morris International](https://www.pmi.com)** | **[Undergraduate Intern - Commercial Capability & Marketing Summer 2027 Job Details / PMIProd](https://jobright.ai/jobs/info/6ab0ef8e298e33fa6abaacbb?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | Hybrid | Sep 21 |
+| ↳ | **[Undergraduate Intern - Communications & Corporate Development Summer 2027 Job Details / PMIProd](https://jobright.ai/jobs/info/6ab0ef8b298e33fa6abaacb9?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | Hybrid | Sep 21 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 21 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a432fba501d340b4a82df04?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
 | ↳ | **[PR Intern](https://jobright.ai/jobs/info/6a5da71679547a520df5e85b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Latent AI](http://latentai.com/)** | **[SkillBridge Intern (Marketing)](https://jobright.ai/jobs/info/6a5745b821f64463ad358892?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 19 |
 | **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6aae656f6956574eac8b8cb9?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | On Site | Sep 19 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6aae5fc53dbb1f8967cf0981?utm_campaign=1065&utm_source=git)** | Salisbury, NC, United States | Hybrid | Sep 19 |
-| **[HNI Corporation](http://www.hnicorp.com)** | **[Internship - Product Launch Marketing - Summer 2027](https://jobright.ai/jobs/info/6a91b29fd18f756748279686?utm_campaign=1065&utm_source=git)** | Muscatine, IA, United States | On Site | Sep 19 |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - Marketing](https://jobright.ai/jobs/info/6a91a76a8e59685453376be9?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 19 |
-| **[HNI Corporation](http://www.hnicorp.com)** | **[Internship - Brand Content - Summer 2027](https://jobright.ai/jobs/info/6a91b28fa27a2d3c98489504?utm_campaign=1065&utm_source=git)** | Muscatine, IA, United States | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
