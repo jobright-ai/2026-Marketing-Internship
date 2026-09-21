@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6ab111f9d2a93d5a97eb8e25?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Sep 21 |
+| **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a82fdce9b859b227766bbe5?utm_campaign=1065&utm_source=git)** | Wilmington, DE, United States | Hybrid | Sep 21 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2027 Intern - Marketing (MBA)](https://jobright.ai/jobs/info/6a951065d18f7567482800d7?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Sep 21 |
 | ↳ | **[Spring & Summer 2027 Intern - Marketing](https://jobright.ai/jobs/info/6a951065360363009919a7e6?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Sep 21 |
 | **[Philip Morris International](https://www.pmi.com)** | **[Undergraduate Intern - Commercial Capability & Marketing Summer 2027 Job Details / PMIProd](https://jobright.ai/jobs/info/6ab0ef8e298e33fa6abaacbb?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | Hybrid | Sep 21 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c7449b859b227766afad?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 20 |
 | **[Halal Bites](https://halalbites.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab0af5ddd960b41564196fa?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Alzheimer's Association - Orange County Chapter](http://alz.org/oc)** | **[Marketing and Communications Paid Internship](https://jobright.ai/jobs/info/6ab094afde327d3e210d8204?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Sep 20 |
-| **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Communications](https://jobright.ai/jobs/info/6ab09499de327d3e210d81fa?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 20 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing + Design Intern, Chartwells Higher Ed / Fort Lewis College](https://jobright.ai/jobs/info/6ab081a7d3af3856cd993136?utm_campaign=1065&utm_source=git)** | Durango, CO, United States | On Site | Sep 20 |
 | **[Northline Roofing, LLC](https://www.northlineroofing.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6ab07daf3d96632d741b3777?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 20 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Marketing + Design Intern, Chartwells Higher Ed / Fort Lewis College](https://jobright.ai/jobs/info/6ab07bf82e757fcb5c8bdffe?utm_campaign=1065&utm_source=git)** | Durango, CO, United States | On Site | Sep 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Honeywell Aerospace](https://www.honeywellaerospace.com/)** | **[Marketing Intern - Summer 2027 (U.S. Person Required)](https://jobright.ai/jobs/info/6a91e2858e59685453378346?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 19 |
 | **[Latent AI](http://latentai.com/)** | **[SkillBridge Intern (Marketing)](https://jobright.ai/jobs/info/6a5745b821f64463ad358892?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 19 |
 | **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6aae656f6956574eac8b8cb9?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | On Site | Sep 19 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6aae5fc53dbb1f8967cf0981?utm_campaign=1065&utm_source=git)** | Salisbury, NC, United States | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
