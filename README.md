@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAIGE](https://saige.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5569952084cd792b478727?utm_campaign=1065&utm_source=git)** | Atlanta, Georgia, United States | On Site | Sep 21 |
+| **[Partners for HOME](https://partnersforhome.org)** | **[Communications & Digital Marketing Intern](https://jobright.ai/jobs/info/6a5043961544d7246c0d8453?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a521b1ed007ee02d95f6123?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 21 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Procurement Merchandising Intern](https://jobright.ai/jobs/info/6ab12432f9692ca98b047e71?utm_campaign=1065&utm_source=git)** | Lancaster, PA, United States | On Site | Sep 21 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2027 Marketing and Branded Events Intern](https://jobright.ai/jobs/info/6ab1216423005eee35458b70?utm_campaign=1065&utm_source=git)** | Toledo, OH, United States | On Site | Sep 21 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring & Summer 2027 Intern - Marketing](https://jobright.ai/jobs/info/6a951065360363009919a7e6?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Sep 21 |
 | **[Philip Morris International](https://www.pmi.com)** | **[Undergraduate Intern - Commercial Capability & Marketing Summer 2027 Job Details / PMIProd](https://jobright.ai/jobs/info/6ab0ef8e298e33fa6abaacbb?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | Hybrid | Sep 21 |
 | ↳ | **[Undergraduate Intern - Communications & Corporate Development Summer 2027 Job Details / PMIProd](https://jobright.ai/jobs/info/6ab0ef8b298e33fa6abaacb9?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | Hybrid | Sep 21 |
+| **[Lima One Capital](https://www.limaone.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ab1302623005eee35458dd4?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Sep 21 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 21 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a432fba501d340b4a82df04?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
 | ↳ | **[PR Intern](https://jobright.ai/jobs/info/6a5da71679547a520df5e85b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media & Sports Marketing Intern](https://jobright.ai/jobs/info/6ab01d192e757fcb5c8bd610?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Sep 20 |
 | **[Advize](https://advizehealth.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6aad0df7421662ebd00f110f?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Go Fish Digital](https://gofishdigital.com)** | **[Integrated Media Intern](https://jobright.ai/jobs/info/6aa1a01e3272060a8e3f11a1?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Sep 20 |
-| **[KCMCONNECT](https://kcmconnect.co/)** | **[Social Media - Internship](https://jobright.ai/jobs/info/6ab001373d96632d741b2bb7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a5304dd9fbdab22fe13dfa5?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 20 |
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Richmond (59928)](https://jobright.ai/jobs/info/6a5586fbf2c46727285f2b0c?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Sep 20 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Fashion and Marketing Copywriter Internship](https://jobright.ai/jobs/info/6a5417b1e726ec56126a91ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 20 |
@@ -109,7 +111,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6aafc2f23d96632d741b25d3?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 20 |
 | **[FINN Partners](http://www.finnpartners.com/)** | **[Internship -Education Public Relation](https://jobright.ai/jobs/info/6a76260967a1ad0bc53c8f72?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
 | **[ASM Global](https://asmglobal.com/)** | **[Administrative Internship](https://jobright.ai/jobs/info/6a04cf027c753c287f6f3887?utm_campaign=1065&utm_source=git)** | Pensacola, FL, US | On Site | Sep 20 |
-| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a879d2c4afae74a08349445?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 20 |
+| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6aaf9afb0ebc8fb2313ede80?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 20 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[eCommerce Marketing Co-Op - Summer 2027 Job Details / Crown Equipment Corporation](https://jobright.ai/jobs/info/6aaf9fd66956574eac8ba222?utm_campaign=1065&utm_source=git)** | New Bremen, OH, United States | On Site | Sep 20 |
 | **[Southwire Company](http://southwire.com)** | **[Channel Marketing Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6aaf9ec53d96632d741b23e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a82c73a1081a745e970b6eb?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KUCHT APPLIANCES](http://kucht.com)** | **[Social Media & Email Marketing Intern](https://jobright.ai/jobs/info/6aae81312e757fcb5c8bba4b?utm_campaign=1065&utm_source=git)** | Paramus, NJ, United States | On Site | Sep 19 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Marketing - Commercial Analytics](https://jobright.ai/jobs/info/6a91cd84d18f75674827a46c?utm_campaign=1065&utm_source=git)** | Shelton, CT, United States | On Site | Sep 19 |
 | ↳ | **[2027 Summer Intern: Marketing - Revenue Operations](https://jobright.ai/jobs/info/6a91cd63a27a2d3c9848a2bd?utm_campaign=1065&utm_source=git)** | Manchester, NH, United States | On Site | Sep 19 |
-| ↳ | **[2027 Summer Intern: Marketing - Technical Communications](https://jobright.ai/jobs/info/6a91ce79a27a2d3c9848a322?utm_campaign=1065&utm_source=git)** | Archdale, NC, United States | On Site | Sep 19 |
-| **[D1 TRAINING](https://www.d1training.com/)** | **[Organic Marketing Internship](https://jobright.ai/jobs/info/6aae7a77de327d3e210d5a4e?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
