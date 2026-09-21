@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing + Design Intern, Chartwells Higher Ed / Fort Lewis College](https://jobright.ai/jobs/info/6ab081a7d3af3856cd993136?utm_campaign=1065&utm_source=git)** | Durango, CO, United States | On Site | Sep 20 |
 | **[Northline Roofing, LLC](https://www.northlineroofing.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6ab07daf3d96632d741b3777?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 20 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Marketing + Design Intern, Chartwells Higher Ed / Fort Lewis College](https://jobright.ai/jobs/info/6ab07bf82e757fcb5c8bdffe?utm_campaign=1065&utm_source=git)** | Durango, CO, United States | On Site | Sep 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations-Health & Elevated Home ) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a714fd502d93145bf88ef40?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[News Corp](https://newscorp.com/)** | **[2027 Summer Internship- Corporate Communications (NYC)](https://jobright.ai/jobs/info/6aaf44426956574eac8b9cba?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[2027 Graduate Program - Media Job Details / Bell](https://jobright.ai/jobs/info/6aae14dc3dbb1f8967cf0204?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | **[Newrez](https://www.newrez.com)** | **[2027 Summer Internship – Digital Marketing & Customer Insights](https://jobright.ai/jobs/info/6aade43c6956574eac8b7e64?utm_campaign=1065&utm_source=git)** | Fort Washington, PA, United States | On Site | Sep 18 |
-| **[BioSpace](http://www.biospace.com/)** | **[2027 Summer Intern Commercial Graduate Program Associate, Specialty Care, Cambridge, MA](https://jobright.ai/jobs/info/6aae11ee3d96632d741b06c5?utm_campaign=1065&utm_source=git)** | Cambridge, MA, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
