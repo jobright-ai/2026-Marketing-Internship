@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c7449b859b227766afad?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 20 |
+| **[Halal Bites](https://halalbites.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab0af5ddd960b41564196fa?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Partner Communications Intern, Private Sector and Civil Society Branch](https://jobright.ai/jobs/info/6ab09cf5dd960b415641956f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 20 |
 | **[Alzheimer's Association - Orange County Chapter](http://alz.org/oc)** | **[Marketing and Communications Paid Internship](https://jobright.ai/jobs/info/6ab094afde327d3e210d8204?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Sep 20 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Communications](https://jobright.ai/jobs/info/6ab09499de327d3e210d81fa?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNOX S.p.A.](https://www.unox.com/)** | **[Event Assistant (intern)](https://jobright.ai/jobs/info/6aae28363dbb1f8967cf02e4?utm_campaign=1065&utm_source=git)** | Indiana, United States | On Site | Sep 18 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a63fd728d536034496053bc?utm_campaign=1065&utm_source=git)** | Spring, TX, United States | On Site | Sep 18 |
 | **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Social Media Intern IMS, 2027 Season](https://jobright.ai/jobs/info/6aadb25c3d96632d741af5dd?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 18 |
-| ↳ | **[Communications Intern, 2027 Season](https://jobright.ai/jobs/info/6aad87713dbb1f8967cee0fd?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 18 |
-| **[Inory AI](https://www.inory.ai/)** | **[Content Marketing Intern (AI-Native)](https://jobright.ai/jobs/info/6aae18393dbb1f8967cf0249?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area, United States | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
