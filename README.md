@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pantech Digital](https://pantech.digital)** | **[Associate Influencer Marketing ( Intern- US)](https://jobright.ai/jobs/info/6ab38fe616511e254891c2fb?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
+| **[Skild AI](https://www.skild.ai)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ab3463530340229a323213d?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | On Site | Sep 23 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Spring 2027 Internship](https://jobright.ai/jobs/info/6aa0d47adbc0e60e37e0face?utm_campaign=1065&utm_source=git)** | Salinas, CA, United States | On Site | Sep 23 |
 | **[NU Media Holdings](https://www.nu.marketing)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ab37dba762be1c53fc35fdf?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 23 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6ab3522ca353d86e6786ec29?utm_campaign=1065&utm_source=git)** | Garden Grove, CA, United States | Hybrid | Sep 22 |
 | **[Grim Logick](https://grimlogickmusic.fans)** | **[Digital Marketing & Multimedia Intern](https://jobright.ai/jobs/info/6ab368ac762be1c53fc35e41?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 22 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a56bd8553b3962b910b26ff?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 22 |
 | **[Roche](http://www.roche.com)** | **[Strategic Communications Intern](https://jobright.ai/jobs/info/6ab2f33e30340229a3230950?utm_campaign=1065&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Sep 22 |
 | **[Veolia](https://www.veolia.com/fr)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab32cb18254c44790e5968e?utm_campaign=1065&utm_source=git)** | Trevose, PA, United States | Hybrid | Sep 22 |
-| **[Skild AI](https://www.skild.ai)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ab3463530340229a323213d?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | On Site | Sep 22 |
 | **[Rider Levett Bucknall RLB](http://rlb.com/en/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab318fe8254c44790e5928a?utm_campaign=1065&utm_source=git)** | Honolulu, HI, United States | On Site | Sep 22 |
 | **[RTX](http://rtx.com/)** | **[Factory Modernization Marketing Co-Op (Summer/Fall 2027)](https://jobright.ai/jobs/info/6ab2f8fc326574570a004320?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Sep 22 |
 | ↳ | **[Factory Modernization Marketing Co-Op (Spring/Summer 2027)](https://jobright.ai/jobs/info/6ab2f9a230340229a3230d82?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Sep 22 |
@@ -102,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Randa Apparel & Accessories](http://www.randa.net)** | **[Brand Marketing Internship- Dallas](https://jobright.ai/jobs/info/6ab31bdf1508734c1530dba8?utm_campaign=1065&utm_source=git)** | Farmers Branch, TX, United States | On Site | Sep 22 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Social Media Marketing, Digital & Social: Remote Within the Eastern States Region](https://jobright.ai/jobs/info/6ab2ba688254c44790e56ff8?utm_campaign=1065&utm_source=git)** | Eastern States Region, United States | Remote | Sep 22 |
 | **[Alter Ego Running](AlterEgoRunning.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ab317af1e4847ddae918395?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 22 |
+| **[National Education Association](http://www.nea.org)** | **[Center for Organizing and Affiliate Support Intern](https://jobright.ai/jobs/info/6a4e7c131544d7246c0d2f6d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Sep 22 |
 | **[Storytime](https://storytime.io)** | **[Intern, Community Growth and Systems](https://jobright.ai/jobs/info/6ab310741e4847ddae91824e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | **[Wayd](https://wayd.social)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/6ab343c51e4847ddae918cbc?utm_campaign=1065&utm_source=git)** | Wooster, OH, United States | Hybrid | Sep 22 |
 | **[McCarthy-Bush Corporation](https://mccarthybushcorp.com)** | **[Intern - Marketing (Summer 2027) McCarthy Bush Corporation](https://jobright.ai/jobs/info/6ab2b0671e4847ddae915d3d?utm_campaign=1065&utm_source=git)** | Davenport, IA, United States | On Site | Sep 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[D.C. United](http://dcunited.com)** | **[Internship- Brand Marketing Intern (Spring 2027)](https://jobright.ai/jobs/info/6ab2d3cc30340229a322ff6e?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 22 |
 | **[Post Consumer Brands](https://postconsumerbrands.com)** | **[Brand Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6a96daa5f5337b2cf731e31c?utm_campaign=1065&utm_source=git)** | Lakeville, MN, United States | On Site | Sep 22 |
 | **[ProCogia](http://procogia.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a9b0dae9c24314c35f97828?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Sep 22 |
-| **[Prophet](http://www.prophet.com)** | **[2027 Summer Associate - Austin](https://jobright.ai/jobs/info/6ab2d21478c69ff506c40bf1?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Sep 22 |
-| **[Arthrex](https://www.arthrex.com/)** | **[Product Marketing Intern - Foot & Ankle and Trauma](https://jobright.ai/jobs/info/6ab2d124326574570a0034fa?utm_campaign=1065&utm_source=git)** | Naples, FL, United States | On Site | Sep 22 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Brand Licensing](https://jobright.ai/jobs/info/6ab2999378c69ff506c3f263?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
