@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pembina Pipeline Corporation](http://www.pembina.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab3c8bbd2f5fbd604bdfb92?utm_campaign=1065&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 23 |
+| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Brand Marketing & Communications Intern](https://jobright.ai/jobs/info/6aa134f41487bd2e0e27cace?utm_campaign=1065&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Sep 23 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sr. Associate Brand Manager Intern](https://jobright.ai/jobs/info/6a97235ae4e60e4b8da5c4a9?utm_campaign=1065&utm_source=git)** | East Hanover, NJ, United States | On Site | Sep 23 |
 | **[Logistics Plus Inc.](https://www.logisticsplus.com/)** | **[Internship: Marketing](https://jobright.ai/jobs/info/6ab3adc9762be1c53fc36560?utm_campaign=1065&utm_source=git)** | Erie, PA, United States | On Site | Sep 23 |
 | **[6ix](https://6ix.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a9fc8e8dacf777321a959d9?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 23 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[NU Media Holdings](https://www.nu.marketing)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ab37dba762be1c53fc35fdf?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 23 |
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a9e41b3a7ba386c5d6718b8?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | Remote | Sep 22 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6ab3522ca353d86e6786ec29?utm_campaign=1065&utm_source=git)** | Garden Grove, CA, United States | Hybrid | Sep 22 |
-| **[3NIGMA BRED MUSIC](https://3nigmabredmusic.com)** | **[Digital Marketing & Multimedia Intern](https://jobright.ai/jobs/info/6ab368ac762be1c53fc35e41?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 22 |
 | **[Gushcloud International](http://gushcloud.com)** | **[Creator Management Intern](https://jobright.ai/jobs/info/6ab3638416511e254891c01c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 22 |
 | **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a41621d1afc66714d3cabc8?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 22 |
 | **[Wayd](https://wayd.social)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/6ab35e3316511e254891bf58?utm_campaign=1065&utm_source=git)** | Bethlehem, PA, United States | Hybrid | Sep 22 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Merchants Bonding Company](http://merchantsbonding.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa07489dbc0e60e37e0dc64?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | On Site | Sep 22 |
 | **[Rock City Enterprises](https://www.seerockcity.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ab28b6c1508734c1530a2f3?utm_campaign=1065&utm_source=git)** | Lookout Mountain, GA, United States | On Site | Sep 22 |
 | **[Rubenstein Public Relations](https://www.rubensteinpr.com/)** | **[Fall Social Media intern](https://jobright.ai/jobs/info/6aad47050ebc8fb2313e8879?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
-| **[Royal Credit Union](https://www.rcu.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6ab2d1e81508734c1530c28f?utm_campaign=1065&utm_source=git)** | Eau Claire, WI, United States | Hybrid | Sep 22 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6ab2e6b51508734c1530c771?utm_campaign=1065&utm_source=git)** | Eau Claire, WI, United States | Hybrid | Sep 22 |
+| **[Royal Credit Union](https://www.rcu.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6ab2e6b51508734c1530c771?utm_campaign=1065&utm_source=git)** | Eau Claire, WI, United States | Hybrid | Sep 22 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6ab2d1e81508734c1530c28f?utm_campaign=1065&utm_source=git)** | Eau Claire, WI, United States | Hybrid | Sep 22 |
 | ↳ | **[Brand Marketing Intern Z3](https://jobright.ai/jobs/info/6ab2e48778c69ff506c410a5?utm_campaign=1065&utm_source=git)** | Minnesota Metro Area, United States | Remote | Sep 22 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Intern, Ecommerce (Shiseido & Clé de Peau Beauté)](https://jobright.ai/jobs/info/6a8dc86ba5639a4810327a3b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 22 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2027] Communications Internship](https://jobright.ai/jobs/info/6ab2eb7c78c69ff506c41258?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
@@ -137,7 +138,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Intern - Rare Disease Marketing](https://jobright.ai/jobs/info/6ab2b57b326574570a002aa1?utm_campaign=1065&utm_source=git)** | Princeton, NJ, United States | Hybrid | Sep 22 |
 | **[Atlassian](https://www.atlassian.com)** | **[Customer Engagement Marketing Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6ab2cd001508734c1530c071?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 22 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Digital Marketing Technology Internship](https://jobright.ai/jobs/info/6a8ca1dc2f736c304f2a6eca?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 22 |
-| **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/6ab29629326574570a001966?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 22 |
+| **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/6ab2d0db78c69ff506c40b61?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 22 |
 | **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[Marketing Intern - Fall of 2026](https://jobright.ai/jobs/info/6ab2f7151508734c1530cf28?utm_campaign=1065&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 22 |
 | **[Volo Sports](https://www.volosports.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ab2f6a68254c44790e58588?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | Hybrid | Sep 22 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Brand Management Internship (2028 Graduates - Bachelor’s/Master’s - Non MBA)](https://jobright.ai/jobs/info/6aa80e82930bff471a2a4eb3?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lean TECHniques](https://leantechniques.com/)** | **[Marketing Intern - Hybrid](https://jobright.ai/jobs/info/6ab2e4c41e4847ddae916f11?utm_campaign=1065&utm_source=git)** | Johnston, IA, United States | Hybrid | Sep 22 |
 | **[JLR](https://www.jaguarlandrovercareers.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/6ab2e36730340229a323033a?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Sep 22 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Commercial Internship - Summer 2027](https://jobright.ai/jobs/info/6a9742f0e4e60e4b8da5d412?utm_campaign=1065&utm_source=git)** | Louisville, KY, United States | On Site | Sep 22 |
-| **[Eulerity](https://www.eulerity.com)** | **[Digital Marketing Intern - Technical AI & Automation](https://jobright.ai/jobs/info/6a8dddd3d34f700f87fd67e6?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
