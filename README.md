@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NU Media Holdings](https://www.nu.marketing)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ab37dba762be1c53fc35fdf?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 23 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6ab3522ca353d86e6786ec29?utm_campaign=1065&utm_source=git)** | Garden Grove, CA, United States | Hybrid | Sep 22 |
 | **[Grim Logick](https://grimlogickmusic.fans)** | **[Digital Marketing & Multimedia Intern](https://jobright.ai/jobs/info/6ab368ac762be1c53fc35e41?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 22 |
 | **[Gushcloud International](http://gushcloud.com)** | **[Creator Management Intern](https://jobright.ai/jobs/info/6ab3638416511e254891c01c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 22 |
@@ -126,7 +127,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Intern - Rare Disease Marketing](https://jobright.ai/jobs/info/6ab2b57b326574570a002aa1?utm_campaign=1065&utm_source=git)** | Princeton, NJ, United States | Hybrid | Sep 22 |
 | **[Atlassian](https://www.atlassian.com)** | **[Customer Engagement Marketing Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6ab2cd001508734c1530c071?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 22 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Digital Marketing Technology Internship](https://jobright.ai/jobs/info/6a8ca1dc2f736c304f2a6eca?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 22 |
-| **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/6ab2d0db78c69ff506c40b61?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 22 |
+| **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/6ab29629326574570a001966?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 22 |
 | **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[Marketing Intern - Fall of 2026](https://jobright.ai/jobs/info/6ab2f7151508734c1530cf28?utm_campaign=1065&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 22 |
 | **[Volo Sports](https://www.volosports.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ab2f6a68254c44790e58588?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | Hybrid | Sep 22 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Brand Management Internship (2028 Graduates - Bachelor’s/Master’s - Non MBA)](https://jobright.ai/jobs/info/6aa80e82930bff471a2a4eb3?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Prophet](http://www.prophet.com)** | **[2027 Summer Associate - Austin](https://jobright.ai/jobs/info/6ab2d21478c69ff506c40bf1?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Sep 22 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Product Marketing Intern - Foot & Ankle and Trauma](https://jobright.ai/jobs/info/6ab2d124326574570a0034fa?utm_campaign=1065&utm_source=git)** | Naples, FL, United States | On Site | Sep 22 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Brand Licensing](https://jobright.ai/jobs/info/6ab2999378c69ff506c3f263?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
-| **[TD](https://www.td.com)** | **[2027 Summer Internship Graduate Leadership Program- Marketing](https://jobright.ai/jobs/info/6ab2fab730340229a3230e08?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
