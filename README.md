@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Social Media Internship](https://jobright.ai/jobs/info/6a99d357ad752e2ad55023bf?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Sep 25 |
+| **[Community Options, Inc.](https://www.comop.org/)** | **[Qualified Intellectual Disabilities Professional - Intern](https://jobright.ai/jobs/info/6aac2bff95c707f49dfefe74?utm_campaign=1065&utm_source=git)** | Binghamton, NY, United States | On Site | Sep 25 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Marketing Performance Analytics Intern - The Toro Company](https://jobright.ai/jobs/info/6ab400f164816213f2d96827?utm_campaign=1065&utm_source=git)** | Bloomington, MN, United States | On Site | Sep 25 |
+| **[Nacho Daddy](http://www.nachodaddy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab650c1c6fe0dec811a4907?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Sep 25 |
+| **[The Andersons, Inc.](http://www.andersonsinc.com)** | **[Commodity Merchandising Intern (Summer 2027)](https://jobright.ai/jobs/info/6aabfb6895c707f49dfeecb6?utm_campaign=1065&utm_source=git)** | Maumee, OH, United States | On Site | Sep 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6ab64111c6fe0dec811a47bf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Market Research Internship](https://jobright.ai/jobs/info/6a424b601cc9cc2b12feb5c6?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
 | **[Equinor](https://www.equinor.com)** | **[Summer Internship 2027 US - Market Analysis & Trading](https://jobright.ai/jobs/info/6ab60022634ec6aa7c0d1d41?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2027 Business Survey Intern](https://jobright.ai/jobs/info/6ab568df634ec6aa7c0ceb6e?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | On Site | Sep 24 |
 | **[SPX Technologies](http://www.spx.com)** | **[Marketing Video Production Intern](https://jobright.ai/jobs/info/6ab553544873fd3fd8528e81?utm_campaign=1065&utm_source=git)** | East Stroudsburg, Pennsylvania, United States | On Site | Sep 24 |
 | **[LiveSwitch](https://www.liveswitch.io)** | **[LiveSwitch Business Intern (High School Students)](https://jobright.ai/jobs/info/6ab58af1c6fe0dec811a1d1b?utm_campaign=1065&utm_source=git)** | Raleigh–Durham–Chapel Hill Area, North Carolina, United States | On Site | Sep 24 |
-| **[QBE North America](https://www.qbe.com/us)** | **[Crop Marketing Intern](https://jobright.ai/jobs/info/6aac7d4b3dbb1f8967ceada1?utm_campaign=1065&utm_source=git)** | Eau Claire, WI, United States | Hybrid | Sep 24 |
-| **[Shure](http://www.shure.com)** | **[Global Marketing Intern – ShureCloud & Customer Value Streams](https://jobright.ai/jobs/info/6a99602c2b714347bbbe9f72?utm_campaign=1065&utm_source=git)** | Niles, IL, United States | Hybrid | Sep 24 |
-| **[Heights Wellness Retreat](https://www.heightswellnessretreat.com/)** | **[Content Marketing + Community Management Intern](https://jobright.ai/jobs/info/6ab58645634ec6aa7c0cf6ea?utm_campaign=1065&utm_source=git)** | Holly Springs, NC, United States | Hybrid | Sep 24 |
-| **[Trucordia](https://trucordia.com)** | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6ab568db634ec6aa7c0ceb6b?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Sep 24 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Public Relations Fall Internship](https://jobright.ai/jobs/info/6ab5864c4873fd3fd852a10e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
