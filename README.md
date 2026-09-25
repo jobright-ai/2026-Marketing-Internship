@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron Aviation](http://txtav.com)** | **[2027 Marketing Intern](https://jobright.ai/jobs/info/6ab621a49d4843569fe4d057?utm_campaign=1065&utm_source=git)** | Augusta, Georgia, United States | On Site | Sep 25 |
 | **[Pomerleau](http://www.pomerleau.ca/)** | **[Intern, Communications](https://jobright.ai/jobs/info/6ab616bec6fe0dec811a43e0?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 24 |
 | **[Boulevard Brewing Company](http://www.boulevard.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab610e0634ec6aa7c0d2106?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 24 |
 | **[Janji](http://janji.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6a5c4e4163a8f619507cd13f?utm_campaign=1065&utm_source=git)** | Somerville, MA, United States | On Site | Sep 24 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Vaccine Vets](https://vaccinevets.com/)** | **[Public Relations Communications Intern](https://jobright.ai/jobs/info/6ab5b1ec634ec6aa7c0d0f47?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 24 |
 | **[Gift](https://www.shine.gift)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ab5aff4d85922de20ce31a9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 24 |
 | **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/6aab8ba0c85610f4a4844dd6?utm_campaign=1065&utm_source=git)** | Hanover, IN, United States | On Site | Sep 24 |
-| ↳ | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/6a99f8958a8b765bc55f6ae5?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN 46803, United States | On Site | Sep 24 |
 | ↳ | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/6ab5c263d85922de20ce345e?utm_campaign=1065&utm_source=git)** | Elmira, NY, United States | On Site | Sep 24 |
+| ↳ | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/6a99f8958a8b765bc55f6ae5?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN 46803, United States | On Site | Sep 24 |
 | **[Southwire Company](http://southwire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab58e309d4843569fe4aa4a?utm_campaign=1065&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 24 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Communication and Engagement](https://jobright.ai/jobs/info/6ab61026b3db59402d0ffd3c?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 24 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Portland State University](https://jobright.ai/jobs/info/6ab5ac0bb3db59402d0fea55?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | On Site | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Public Relations Fall Internship](https://jobright.ai/jobs/info/6ab5864c4873fd3fd852a10e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 24 |
 | **[Developmental Disabilities Institute (DDI)](http://ddiny.org)** | **[MARKETING COMMUNICATIONS INTERN](https://jobright.ai/jobs/info/6ab567ffb3db59402d0fc750?utm_campaign=1065&utm_source=git)** | Smithtown, New York, United States | On Site | Sep 24 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Development & Community Events-Knoxville, TN](https://jobright.ai/jobs/info/6ab567f29d4843569fe49800?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 24 |
-| **[Shure](http://www.shure.com)** | **[Global Marketing Operations Intern](https://jobright.ai/jobs/info/6a989deac8ed473c5c76520b?utm_campaign=1065&utm_source=git)** | Niles, IL, United States | Hybrid | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
