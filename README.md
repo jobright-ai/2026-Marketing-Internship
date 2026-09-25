@@ -57,14 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pomerleau](http://www.pomerleau.ca/)** | **[Intern, Communications](https://jobright.ai/jobs/info/6ab616bec6fe0dec811a43e0?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 24 |
+| **[Boulevard Brewing Company](http://www.boulevard.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab610e0634ec6aa7c0d2106?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 24 |
 | **[Janji](http://janji.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6a5c4e4163a8f619507cd13f?utm_campaign=1065&utm_source=git)** | Somerville, MA, United States | On Site | Sep 24 |
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Greenville & Spartanburg (59929)](https://jobright.ai/jobs/info/6a56689453b3962b910b00a7?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Sep 24 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Wellbeing Intern](https://jobright.ai/jobs/info/6ab5a1d6d85922de20ce2bcb?utm_campaign=1065&utm_source=git)** | Carlisle, PA, United States | Hybrid | Sep 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a604827a4b66100689cab68?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 24 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6ab5f9234873fd3fd852c537?utm_campaign=1065&utm_source=git)** | Knightdale, NC, United States | On Site | Sep 24 |
-| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab5c271c6fe0dec811a3496?utm_campaign=1065&utm_source=git)** | Aurora, IL, United States | On Site | Sep 24 |
-| **[Academy of Country Music](https://www.acmcountry.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ab60b2cd85922de20ce42fc?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Sep 24 |
-| ↳ | **[Industry Relations and Awards Intern](https://jobright.ai/jobs/info/6ab60a5fd85922de20ce42d4?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Sep 24 |
 | **[Autter](https://www.autter.dev/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab5f3cdb3db59402d0ff68e?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Oceanic Global](https://oceanic.global)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab5d6cd9d4843569fe4c366?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Remote | Sep 24 |
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Influencer Marketing](https://jobright.ai/jobs/info/6ab443c164816213f2d98398?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 24 |
@@ -84,9 +83,13 @@ For a complete list, click the following sortable link below:
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Marketing Intern (Co-Op)](https://jobright.ai/jobs/info/6ab5b2b6d85922de20ce3225?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | **[Vaccine Vets](https://vaccinevets.com/)** | **[Public Relations Communications Intern](https://jobright.ai/jobs/info/6ab5b1ec634ec6aa7c0d0f47?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 24 |
 | **[Gift](https://www.shine.gift)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ab5aff4d85922de20ce31a9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 24 |
+| **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/6aab8ba0c85610f4a4844dd6?utm_campaign=1065&utm_source=git)** | Hanover, IN, United States | On Site | Sep 24 |
+| ↳ | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/6a99f8958a8b765bc55f6ae5?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN 46803, United States | On Site | Sep 24 |
+| ↳ | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/6ab5c263d85922de20ce345e?utm_campaign=1065&utm_source=git)** | Elmira, NY, United States | On Site | Sep 24 |
+| **[Southwire Company](http://southwire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab58e309d4843569fe4aa4a?utm_campaign=1065&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 24 |
+| **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Communication and Engagement](https://jobright.ai/jobs/info/6ab61026b3db59402d0ffd3c?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 24 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Portland State University](https://jobright.ai/jobs/info/6ab5ac0bb3db59402d0fea55?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | On Site | Sep 24 |
 | **[Holland & Knight LLP](http://www.hklaw.com)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/6ab5a63e4873fd3fd852b52f?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | On Site | Sep 24 |
-| **[Southwire Company](http://southwire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab58e309d4843569fe4aa4a?utm_campaign=1065&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 24 |
 | **[Electro](electrogum.com)** | **[NIL Athlete Relations & Partnerships Intern](https://jobright.ai/jobs/info/6ab5f040c6fe0dec811a3bed?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | Remote | Sep 24 |
 | **[LandMark Implement, Inc](https://landmarkimp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab5a91e634ec6aa7c0d0ce9?utm_campaign=1065&utm_source=git)** | Kearney, NE, United States | On Site | Sep 24 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6ab60b3b9d4843569fe4cdab?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Sep 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Developmental Disabilities Institute (DDI)](http://ddiny.org)** | **[MARKETING COMMUNICATIONS INTERN](https://jobright.ai/jobs/info/6ab567ffb3db59402d0fc750?utm_campaign=1065&utm_source=git)** | Smithtown, New York, United States | On Site | Sep 24 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Development & Community Events-Knoxville, TN](https://jobright.ai/jobs/info/6ab567f29d4843569fe49800?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 24 |
 | **[Shure](http://www.shure.com)** | **[Global Marketing Operations Intern](https://jobright.ai/jobs/info/6a989deac8ed473c5c76520b?utm_campaign=1065&utm_source=git)** | Niles, IL, United States | Hybrid | Sep 24 |
-| ↳ | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a989df811f73b6462c8fae5?utm_campaign=1065&utm_source=git)** | Niles, IL, United States | Remote | Sep 24 |
-| ↳ | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a9942faf6de551aa0aaf1ec?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | Remote | Sep 24 |
-| **[Quiet Cabins](quietcabins.ca)** | **[Digital Marketing Intern (Part-Time)](https://jobright.ai/jobs/info/6ab582cd9d4843569fe4a1f2?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
