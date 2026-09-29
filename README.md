@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Colorstech Solar](https://www.colorstech.net)** | **[Digital -: Marketing Professional - Intern](https://jobright.ai/jobs/info/6abb4b9a3db4ca81fc7c8772?utm_campaign=1065&utm_source=git)** | Canada | Remote | Sep 28 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[GMC Global Communications Intern](https://jobright.ai/jobs/info/6abb26a17220f52e62aeab0d?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 28 |
-| ↳ | **[GMC Digital Marketing, Analytics & AI Intern](https://jobright.ai/jobs/info/6abb188dee0b348be729d6ea?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 28 |
-| ↳ | **[GMC Brand & Corporate Marketing Intern](https://jobright.ai/jobs/info/6abb1882be5f1e93251195d2?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 28 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern -  Markets Group - New York - Junior Intern](https://jobright.ai/jobs/info/6a9654083843db015990a594?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[GMC Brand & Corporate Marketing Intern](https://jobright.ai/jobs/info/6abb1882be5f1e93251195d2?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 28 |
 | ↳ | **[GMC Product & Solutions Marketing Intern](https://jobright.ai/jobs/info/6abb188a1acb8fc6f09c3822?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 28 |
 | ↳ | **[GMC Field & Partner Marketing Intern](https://jobright.ai/jobs/info/6abb187f1acb8fc6f09c37b7?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 28 |
+| ↳ | **[GMC Global Communications Intern](https://jobright.ai/jobs/info/6abb26a17220f52e62aeab0d?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 28 |
+| ↳ | **[GMC Digital Marketing, Analytics & AI Intern](https://jobright.ai/jobs/info/6abb188dee0b348be729d6ea?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 28 |
+| **[Kite Pharma](http://www.kitepharma.com)** | **[Intern - Kite Commercial - US Marketing](https://jobright.ai/jobs/info/6a9fc7c9352f093fc756f089?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | Hybrid | Sep 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS)](https://jobright.ai/jobs/info/6abb402eee0b348be729e32b?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 28 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations-Personal Care and Lifestyle) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a743568972ac843c6994db8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
 | **[The Lodge at Whitefish Lake](https://lodgeatwhitefishlake.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6abb3175be5f1e9325119fa2?utm_campaign=1065&utm_source=git)** | Whitefish, MT, United States | On Site | Sep 28 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Rotation Internship (Spring and Summer 2027)](https://jobright.ai/jobs/info/6aa8b9f83387a3d9b67d2c94?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | Remote | Sep 28 |
 | ↳ | **[Corporate Communications Internship (Spring and Summer 2027)](https://jobright.ai/jobs/info/6aa8b7e33387a3d9b67d2bd6?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | Remote | Sep 28 |
 | ↳ | **[Marketing Rotation Internship (Spring and Summer 2027)](https://jobright.ai/jobs/info/6aa8b7d16d0edc2d91b07474?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 28 |
+| **[Keurig Dr Pepper Canada](http://www.keurig.ca)** | **[Winter LEAP Intern - Brand Marketing](https://jobright.ai/jobs/info/6abb5634d2914e9273ef1734?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Sep 28 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells K12 / Renwick School District / Andale, KS](https://jobright.ai/jobs/info/6abb2a427220f52e62aeabcd?utm_campaign=1065&utm_source=git)** | Andale, KS, United States | On Site | Sep 28 |
 | **[SourceReady](https://www.sourceready.com)** | **[Creative Marketing Intern (Video Content)](https://jobright.ai/jobs/info/6abb2a273db4ca81fc7c703e?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Cencora](http://www.cencora.com)** | **[Intern, Consumer Category Management](https://jobright.ai/jobs/info/6abaf687d2914e9273eee3a7?utm_campaign=1065&utm_source=git)** | Conshohocken, PA, United States | Remote | Sep 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FC Tulsa](https://www.fctulsa.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6abad5a4ee0b348be729bca0?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 28 |
 | ↳ | **[Creative & Marketing Intern](https://jobright.ai/jobs/info/6abad53bbe5f1e9325117a94?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 28 |
 | **[St. Louis CITY SC](https://www.stlcitysc.com)** | **[Intern, Community Relations (Year Round)](https://jobright.ai/jobs/info/6abad2c13db4ca81fc7c4b88?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 28 |
-| **[ASPIRE WELLNESS CENTER, INC](https://www.aspire-wellness.com)** | **[Graduate Communications & Social Media Intern](https://jobright.ai/jobs/info/6abad1c4be5f1e932511787b?utm_campaign=1065&utm_source=git)** | Nottingham, MD, United States | Hybrid | Sep 28 |
-| **[Printemps New York](https://us.printemps.com/)** | **[Event Coordinator – Intern](https://jobright.ai/jobs/info/6abad199ee0b348be729ba83?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
