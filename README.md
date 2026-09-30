@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JobAiro](https://www.linkedin.com/company/116031926)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6abc8a6f73339662c772441f?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a97408d455eaf6a08c1bc26?utm_campaign=1065&utm_source=git)** | Webster, TX, United States | On Site | Sep 29 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6a973fafe4e60e4b8da5d246?utm_campaign=1065&utm_source=git)** | Webster, TX, United States | On Site | Sep 29 |
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a84aa1a7b33d722762576d4?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 29 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a973e0cf5337b2cf73210b6?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 29 |
 | **[AeroNex Systems](aeronexsystems.net)** | **[Market Intelligence Intern](https://jobright.ai/jobs/info/6abc7d77fbb3359bcc7d20ee?utm_campaign=1065&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Sep 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a9931378a8b765bc55f1fea?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Sep 29 |
+| ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a71a433e2b7476e7b20ed8f?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 29 |
 | **[Wellmark Blue Cross and Blue Shield](https://www.wellmark.com/)** | **[Provider Relations & Engagement Internship](https://jobright.ai/jobs/info/6aaa01b36d0edc2d91b0d08c?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 29 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Revenue Growth Management](https://jobright.ai/jobs/info/6abbd62ca9a644f965688400?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Sep 29 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Visual Communications - Spring 2027](https://jobright.ai/jobs/info/6abc76df752643de1e5d842d?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Sep 29 |
@@ -83,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Nuro](https://nuro.ai)** | **[Social Media Intern](https://jobright.ai/jobs/info/6abc1009a9a644f965689f3c?utm_campaign=1065&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 29 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Fall Marketing Internship](https://jobright.ai/jobs/info/6a8c5240581f2d7bfdfe2e18?utm_campaign=1065&utm_source=git)** | Myrtle Beach, South Carolina, United States | On Site | Sep 29 |
 | **[Olive Ave Jewelry](http://oliveavejewelry.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ab5c30f9d4843569fe4c00c?utm_campaign=1065&utm_source=git)** | Mesa, AZ, United States | Hybrid | Sep 29 |
+| **[Arora Engineers](http://aroraengineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6abc85572668e0eab35c267f?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Sep 29 |
 | **[Textron Aviation](http://txtav.com)** | **[2027 Communications Intern](https://jobright.ai/jobs/info/6a972777e4e60e4b8da5c5e5?utm_campaign=1065&utm_source=git)** | Augusta, Georgia, United States | On Site | Sep 29 |
 | **[Boys Lie](https://boyslieofficial.com)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a84bff4e459fa3baa86076a?utm_campaign=1065&utm_source=git)** | Marina del Rey, CA, United States | On Site | Sep 29 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2027: Product Marketing MBA Intern, FinTech Lending](https://jobright.ai/jobs/info/6abbee36b23c6fb2b81a3e50?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Intern Commercial Graduate Program Associate, Specialty Care, Cambridge, MA](https://jobright.ai/jobs/info/6abc044cd6acfd3dd29fb849?utm_campaign=1065&utm_source=git)** | Cambridge, MA, United States | Hybrid | Sep 29 |
 | ↳ | **[2027 Summer Intern Commercial Graduate Program Associate, Vaccines, Morristown, NJ](https://jobright.ai/jobs/info/6abc041b92b2612ef0f8c633?utm_campaign=1065&utm_source=git)** | Morristown, NJ, United States | Hybrid | Sep 29 |
 | **[The deFIANT](https://www.thedefiant.com)** | **[Brand Partnerships & Events Internship](https://jobright.ai/jobs/info/6abc01a43217d1d13329c8cb?utm_campaign=1065&utm_source=git)** | West Hollywood, CA, United States | On Site | Sep 29 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern -  Markets Group - New York Innovation Center - Graduate Intern](https://jobright.ai/jobs/info/6a96542bf28891320e8610ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
-| **[WOW Brand](http://www.wowpayments.com)** | **[Podcast Booking & Social Media Intern](https://jobright.ai/jobs/info/6abbff9a92b2612ef0f8c430?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
-| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Commercial Planning - Marketing Intern](https://jobright.ai/jobs/info/6abbfe1bb23c6fb2b81a4689?utm_campaign=1065&utm_source=git)** | Warren, RI, United States | On Site | Sep 29 |
-| **[Perchwell](https://www.perchwell.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6abbd2ed7119e56191ce9682?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
