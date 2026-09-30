@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Raybourn Group International](https://raybourn.com/)** | **[RGI Communications/Marketing Intern](https://jobright.ai/jobs/info/6a51402678e364789ca5a306?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 30 |
+| **[Southwire Company](http://southwire.com)** | **[Events and Experience Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6abccf648ff3fb9b3bc6d99c?utm_campaign=1065&utm_source=git)** | Carrollton, Georgia, United States | On Site | Sep 30 |
+| ↳ | **[Marketing Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6abccf3cd9621c5b28389399?utm_campaign=1065&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 30 |
+| ↳ | **[Integrated Segment Marketing Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6abccf35372c01f6cd71d694?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 30 |
+| **[SEG Electronics GmbH](https://www.segelectronics.de)** | **[Werkstudent Marketing / Kommunikationsdesign (m/w/d)](https://jobright.ai/jobs/info/6a5feff86e0c3c7c7d3d9fa8?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 30 |
+| **[Misfit Marketing](https://www.linkedin.com/company/107860228)** | **[Influencer Marketing Intern (Unpaid, For School Credit)](https://jobright.ai/jobs/info/6abcc1fe4ac55253f5d5a582?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 30 |
 | **[Pomerleau](http://www.pomerleau.ca/)** | **[Intern, Marketing and Communications](https://jobright.ai/jobs/info/6aaa390e23b7fdf74007a289?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Sep 30 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 30 |
+| **[NewsBreak](http://www.newsbreak.com)** | **[New Market Launch Intern (MBA), Nearby AI](https://jobright.ai/jobs/info/6aab82ab8e1bf0f764af9a89?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | Remote | Sep 29 |
 | **[Seagate Technology](http://www.seagate.com)** | **[AMER Business Marketing Analytics & Recertified Storage Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6ab4462e7bd0813713316c06?utm_campaign=1065&utm_source=git)** | Alabama, United States | Remote | Sep 29 |
 | **[Gazette Gal](https://www.gazettegal.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6abc97282aed40a954675289?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
 | **[JobAiro](https://www.linkedin.com/company/116031926)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6abc8a6f73339662c772441f?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
@@ -68,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a84aa1a7b33d722762576d4?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 29 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a973e0cf5337b2cf73210b6?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 29 |
 | **[AeroNex Systems](aeronexsystems.net)** | **[Market Intelligence Intern](https://jobright.ai/jobs/info/6abc7d77fbb3359bcc7d20ee?utm_campaign=1065&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Sep 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a71a433e2b7476e7b20ed8f?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 29 |
-| ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6aa9e52128e24cb38513d13c?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Sep 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6abc74f1fbb3359bcc7d1fd8?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 29 |
+| ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a82c73a1081a745e970b6eb?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Sep 29 |
 | **[Wellmark Blue Cross and Blue Shield](https://www.wellmark.com/)** | **[Provider Relations & Engagement Internship](https://jobright.ai/jobs/info/6aaa01b36d0edc2d91b0d08c?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 29 |
 | **[Arya57](https://arya57.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6abc98145c3c457517cc4082?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Revenue Growth Management](https://jobright.ai/jobs/info/6abbd62ca9a644f965688400?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Sep 29 |
@@ -100,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Commercial - Commercial Product Strategy (HIV Prevention)](https://jobright.ai/jobs/info/6a9fe443500b01124c775f86?utm_campaign=1065&utm_source=git)** | Foster City, CA, United States | Hybrid | Sep 29 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[GMC Global Communications Intern](https://jobright.ai/jobs/info/6abb26a17220f52e62aeab0d?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 29 |
 | ↳ | **[GMC Brand & Corporate Marketing Intern](https://jobright.ai/jobs/info/6abb1882be5f1e93251195d2?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 29 |
-| ↳ | **[GMC Field & Partner Marketing Intern](https://jobright.ai/jobs/info/6abb187f1acb8fc6f09c37b7?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 29 |
 | ↳ | **[GMC Digital Marketing, Analytics & AI Intern](https://jobright.ai/jobs/info/6abb188dee0b348be729d6ea?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 29 |
+| ↳ | **[GMC Field & Partner Marketing Intern](https://jobright.ai/jobs/info/6abb187f1acb8fc6f09c37b7?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 29 |
 | **[ADM](http://www.adm.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6abc6f31bf15c0ae50138d9a?utm_campaign=1065&utm_source=git)** | Port Colborne, ON, Canada | On Site | Sep 29 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern - Milwaukee](https://jobright.ai/jobs/info/6aa9b4ba10b1cd4f4160727e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Sep 29 |
 | ↳ | **[Management Trainee Intern - Janesville](https://jobright.ai/jobs/info/6abc44887119e56191cec5c9?utm_campaign=1065&utm_source=git)** | Beloit, WI, United States | On Site | Sep 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer 2027 Internship](https://jobright.ai/jobs/info/6abc0b9692b2612ef0f8c9c7?utm_campaign=1065&utm_source=git)** | San Rafael, CA, United States | On Site | Sep 29 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Park Management (Summer)](https://jobright.ai/jobs/info/6aba81081acb8fc6f09bfe78?utm_campaign=1065&utm_source=git)** | Watertown, SD, United States | On Site | Sep 29 |
 | **[Weissman](https://www.weissmans.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6aa9f527eff87f571fc9cc67?utm_campaign=1065&utm_source=git)** | Saint Louis, MO, United States | On Site | Sep 29 |
-| ↳ | **[Copywriting Intern](https://jobright.ai/jobs/info/6aa991ba09ae03adcacddd4d?utm_campaign=1065&utm_source=git)** | Saint Louis, MO, United States | On Site | Sep 29 |
-| ↳ | **[Merchandising Intern](https://jobright.ai/jobs/info/6aa991f6eff87f571fc9a348?utm_campaign=1065&utm_source=git)** | Saint Louis, MO, United States | On Site | Sep 29 |
-| **[SpartanNash](https://www.spartannash.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6a461e53c2d11a6a4666be03?utm_campaign=1065&utm_source=git)** | Madison, Wisconsin, United States of America | On Site | Sep 29 |
-| **[Burson](https://www.bursonglobal.com)** | **[Intern, Influencer Marketing](https://jobright.ai/jobs/info/6ab443c164816213f2d98398?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 29 |
-| **[Family Futures](https://familyfutures.org)** | **[Communications and Development Internship](https://jobright.ai/jobs/info/6abc05f6a9a644f965689c30?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 29 |
-| **[Syngenta](http://www.syngenta.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a970d53d13b4819f39dece1?utm_campaign=1065&utm_source=git)** | Lisle, IL, United States | Remote | Sep 29 |
-| **[StandardAero](http://www.standardaero.com)** | **[Marketing Intern (Summer)](https://jobright.ai/jobs/info/6abbeecab23c6fb2b81a3e88?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
