@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pomerleau](http://www.pomerleau.ca/)** | **[Intern, Marketing and Communications](https://jobright.ai/jobs/info/6aaa390e23b7fdf74007a289?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Sep 30 |
+| **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 30 |
 | **[Seagate Technology](http://www.seagate.com)** | **[AMER Business Marketing Analytics & Recertified Storage Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6ab4462e7bd0813713316c06?utm_campaign=1065&utm_source=git)** | Alabama, United States | Remote | Sep 29 |
 | **[Gazette Gal](https://www.gazettegal.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6abc97282aed40a954675289?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
 | **[JobAiro](https://www.linkedin.com/company/116031926)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6abc8a6f73339662c772441f?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
@@ -66,7 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a84aa1a7b33d722762576d4?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 29 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a973e0cf5337b2cf73210b6?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 29 |
 | **[AeroNex Systems](aeronexsystems.net)** | **[Market Intelligence Intern](https://jobright.ai/jobs/info/6abc7d77fbb3359bcc7d20ee?utm_campaign=1065&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Sep 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a82c73a1081a745e970b6eb?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Sep 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a71a433e2b7476e7b20ed8f?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 29 |
+| ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6aa9e52128e24cb38513d13c?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Sep 29 |
 | **[Wellmark Blue Cross and Blue Shield](https://www.wellmark.com/)** | **[Provider Relations & Engagement Internship](https://jobright.ai/jobs/info/6aaa01b36d0edc2d91b0d08c?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 29 |
 | **[Arya57](https://arya57.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6abc98145c3c457517cc4082?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Revenue Growth Management](https://jobright.ai/jobs/info/6abbd62ca9a644f965688400?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Sep 29 |
@@ -96,9 +99,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027: MBA Product Marketing Intern, Payments](https://jobright.ai/jobs/info/6abbee1292b2612ef0f8bafe?utm_campaign=1065&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 29 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Commercial - Commercial Product Strategy (HIV Prevention)](https://jobright.ai/jobs/info/6a9fe443500b01124c775f86?utm_campaign=1065&utm_source=git)** | Foster City, CA, United States | Hybrid | Sep 29 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[GMC Global Communications Intern](https://jobright.ai/jobs/info/6abb26a17220f52e62aeab0d?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 29 |
-| ↳ | **[GMC Digital Marketing, Analytics & AI Intern](https://jobright.ai/jobs/info/6abb188dee0b348be729d6ea?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 29 |
 | ↳ | **[GMC Brand & Corporate Marketing Intern](https://jobright.ai/jobs/info/6abb1882be5f1e93251195d2?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 29 |
 | ↳ | **[GMC Field & Partner Marketing Intern](https://jobright.ai/jobs/info/6abb187f1acb8fc6f09c37b7?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 29 |
+| ↳ | **[GMC Digital Marketing, Analytics & AI Intern](https://jobright.ai/jobs/info/6abb188dee0b348be729d6ea?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 29 |
 | **[ADM](http://www.adm.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6abc6f31bf15c0ae50138d9a?utm_campaign=1065&utm_source=git)** | Port Colborne, ON, Canada | On Site | Sep 29 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern - Milwaukee](https://jobright.ai/jobs/info/6aa9b4ba10b1cd4f4160727e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Sep 29 |
 | ↳ | **[Management Trainee Intern - Janesville](https://jobright.ai/jobs/info/6abc44887119e56191cec5c9?utm_campaign=1065&utm_source=git)** | Beloit, WI, United States | On Site | Sep 29 |
@@ -111,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer Internship 2027 - Management Trainee](https://jobright.ai/jobs/info/6aa9c2516d0edc2d91b0b34e?utm_campaign=1065&utm_source=git)** | Kingston, ON, Canada | On Site | Sep 29 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Marketing Intern-  Earthwise](https://jobright.ai/jobs/info/6abc145f92b2612ef0f8cbc7?utm_campaign=1065&utm_source=git)** | Glendale, CA, United States | Hybrid | Sep 29 |
 | **[Sync Sonic AI](https://www.syncsonic.ai)** | **[Social Media & Growth Marketing Intern](https://jobright.ai/jobs/info/6abc502c2668e0eab35c1a76?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Sep 29 |
-| **[Electro](electrogum.com)** | **[Social Media & Athlete Partnerships Intern](https://jobright.ai/jobs/info/6abc6aca73339662c772401f?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Remote | Sep 29 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6abc4edf752643de1e5d7948?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 29 |
 | **[Hasbro](https://shop.hasbro.com)** | **[2027 Summer Marketing Internships](https://jobright.ai/jobs/info/6abc21087119e56191ceb833?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 29 |
 | **[Reading Royals](https://royalshockey.com)** | **[Marketing & Ticket Sales Intern Summer 2027](https://jobright.ai/jobs/info/6abc2b9bd6acfd3dd29fc97b?utm_campaign=1065&utm_source=git)** | Reading, PA, United States | On Site | Sep 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Family Futures](https://familyfutures.org)** | **[Communications and Development Internship](https://jobright.ai/jobs/info/6abc05f6a9a644f965689c30?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 29 |
 | **[Syngenta](http://www.syngenta.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a970d53d13b4819f39dece1?utm_campaign=1065&utm_source=git)** | Lisle, IL, United States | Remote | Sep 29 |
 | **[StandardAero](http://www.standardaero.com)** | **[Marketing Intern (Summer)](https://jobright.ai/jobs/info/6abbeecab23c6fb2b81a3e88?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Sep 29 |
-| **[American Century Investments](https://www.americancentury.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6abbf006b23c6fb2b81a3f3e?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 29 |
-| **[BioSpace](http://www.biospace.com/)** | **[2027 Summer Intern Marketing and Sales Associate, Vaccines, Morristown, NJ](https://jobright.ai/jobs/info/6abc04bc92b2612ef0f8c714?utm_campaign=1065&utm_source=git)** | Morristown, NJ, United States | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
