@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hydromenta Systems](hydromentasystems.com)** | **[Optics Marketing Intern](https://jobright.ai/jobs/info/6abdf247372c01f6cd7224a6?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Sep 30 |
+| **[JLL](http://www.jll.com/)** | **[Capital Markets Summer 2027 Internship - Morristown, NJ](https://jobright.ai/jobs/info/6abddd570e027c0f3b3974df?utm_campaign=1065&utm_source=git)** | Morristown, NJ, United States | On Site | Sep 30 |
 | **[Villa & House (originally Bungalow 5)](https://www.vandh.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6abde3c2064da25272dff543?utm_campaign=1065&utm_source=git)** | Allendale, NJ, United States | Remote | Sep 30 |
 | **[Electro](electrogum.com)** | **[Sports Marketing & NIL Intern](https://jobright.ai/jobs/info/6abddcf60e027c0f3b3974cd?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Sep 30 |
 | ↳ | **[Social Media & Athlete Relations Intern](https://jobright.ai/jobs/info/6abddcef8ff3fb9b3bc723fb?utm_campaign=1065&utm_source=git)** | Gainesville, FL, United States | On Site | Sep 30 |
@@ -115,10 +117,9 @@ For a complete list, click the following sortable link below:
 | **[Gordon Law Group](https://www.gordonlawltd.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6aac2ad43e3ce93970c7c0ac?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | On Site | Sep 30 |
 | **[Yanfeng](http://www.yfai.com/)** | **[Communication Intern - Summer 2027](https://jobright.ai/jobs/info/6abd6e93d9621c5b2838c2c3?utm_campaign=1065&utm_source=git)** | Novi, MI, United States | On Site | Sep 30 |
 | **[AtriCure, Inc.](http://atricure.com)** | **[Digital Marketing Intern- Spring 2027](https://jobright.ai/jobs/info/6abd31880e027c0f3b393dc9?utm_campaign=1065&utm_source=git)** | Mason, OH, United States | On Site | Sep 30 |
-| **[ERM](http://www.erm.com/)** | **[Intern, Marketing Agency (Fall)](https://jobright.ai/jobs/info/6abd4fda372c01f6cd71fc87?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 30 |
+| **[ERM](http://www.erm.com/)** | **[Intern, Marketing Agency (Fall)](https://jobright.ai/jobs/info/6abd1b838ff3fb9b3bc6e5e7?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 30 |
 | **[Rutgers University Foundation](https://rutgersfoundation.org/)** | **[Foundation Communications Social Media Intern](https://jobright.ai/jobs/info/6abd1f84d9621c5b2838a114?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ, United States | Hybrid | Sep 30 |
 | **[Indiana Biosciences Research Institute (IBRI)](https://www.indianabiosciences.org)** | **[Philanthropy Intern (2027)](https://jobright.ai/jobs/info/6a91b619c12c90443efc7825?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 30 |
-| **[Electro](electrogum.com)** | **[Athlete Partnerships & Marketing Intern](https://jobright.ai/jobs/info/6abd65dc4ac55253f5d5d363?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Sep 30 |
 | **[BBVA](https://bbva.csod.com)** | **[2027 Global Markets Summer Internship](https://jobright.ai/jobs/info/6abd658d064da25272dfd62c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 30 |
 | **[Aki Lashes](https://www.akilashes.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6abd63d6064da25272dfd593?utm_campaign=1065&utm_source=git)** | Torrance, CA, United States | On Site | Sep 30 |
 | **[Marion County Commission on Youth (MCCOY)](https://mccoyouth.org)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6abd6387d9621c5b2838bf35?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Sep 30 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Social Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6abd5a6c4ac55253f5d5cf75?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Sep 30 |
 | **[St. Louis CITY SC](https://www.stlcitysc.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/6abd5926064da25272dfd22f?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 30 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[Graduate Program 2027 - Consumer and Small Business (Marketing) Job Details / Bell](https://jobright.ai/jobs/info/6ab240bef9692ca98b04cf94?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 30 |
-| **[TK Elevator](https://www.tkelevator.com/global-en)** | **[Social Media Intern Job Details / C0001089563P](https://jobright.ai/jobs/info/6ab4aa86e9a8f953ef830b7a?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 30 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6ab322b9326574570a004f7b?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 30 |
+| **[TK Elevator](https://www.tkelevator.com/global-en)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ab322b9326574570a004f7b?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 30 |
+| ↳ | **[Social Media Intern Job Details / C0001089563P](https://jobright.ai/jobs/info/6ab4aa86e9a8f953ef830b7a?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 30 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Architectural Steel Marketing Internship](https://jobright.ai/jobs/info/6aaad2f04be87a72913a1976?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | On Site | Sep 30 |
 | **[Cristy Cali Jewelry](http://www.cristycali.com)** | **[Social Media Marketing + Content Creation Intern](https://jobright.ai/jobs/info/6abd51b8d9621c5b2838b8e8?utm_campaign=1065&utm_source=git)** | Saint Rose, LA, United States | Hybrid | Sep 30 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[PUBLIC RELATIONS FALL INTERN](https://jobright.ai/jobs/info/6abd49b2372c01f6cd71fa2d?utm_campaign=1065&utm_source=git)** | Bethlehem, PA, United States | On Site | Sep 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wis-Pak, Inc.](https://wis-pak.com/)** | **[Social Media Content Intern PT (10 - 15 hrs/wk)](https://jobright.ai/jobs/info/6a983cfb11f73b6462c8d5da?utm_campaign=1065&utm_source=git)** | Windsor, WI, United States | On Site | Sep 30 |
 | **[Young Again Pet Food](http://youngagainpetfood.com)** | **[Social Media Specialist - Part Time](https://jobright.ai/jobs/info/6abd4a8d0e027c0f3b394cef?utm_campaign=1065&utm_source=git)** | Stacy, MN, United States | Hybrid | Sep 30 |
 | **[Carter Capital PLLC](https://cartercapitalpllc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6abd2e440e027c0f3b393d39?utm_campaign=1065&utm_source=git)** | Slidell, LA, United States | Hybrid | Sep 30 |
-| **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Strategic Communications Intern](https://jobright.ai/jobs/info/6aa06859500b01124c778c91?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
