@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MINA BAIE](https://minabaie.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6abdbc968ff3fb9b3bc71f4d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 30 |
+| **[Southwest Airline Career Page](http://www.southwest.com)** | **[Summer 2027 Enablement Internship](https://jobright.ai/jobs/info/6abdbb4c372c01f6cd721cf5?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 30 |
+| ↳ | **[Summer 2027 Communications & Public Relations Internship](https://jobright.ai/jobs/info/6abdbb33064da25272dfef51?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Travel Products Growth Strategy Internship](https://jobright.ai/jobs/info/6abdbb31372c01f6cd721cf0?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Sep 30 |
+| **[Shure](http://www.shure.com)** | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a989df811f73b6462c8fae5?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | Remote | Sep 30 |
+| ↳ | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a9942faf6de551aa0aaf1ec?utm_campaign=1065&utm_source=git)** | Niles, IL, United States | Remote | Sep 30 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Assistant (ON-SITE)](https://jobright.ai/jobs/info/6abdaba34ac55253f5d5e8e6?utm_campaign=1065&utm_source=git)** | McLean, VA, United States | On Site | Sep 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Strategy Specialist Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6abdaa424ac55253f5d5e89a?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Sep 30 |
 | **[DB E.C.O. North America](https://db-eco.us)** | **[Communications Intern](https://jobright.ai/jobs/info/6abda613372c01f6cd721911?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Sep 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Commercial Planning - Marketing Intern](https://jobright.ai/jobs/info/6abbfdeb7119e56191cea9b7?utm_campaign=1065&utm_source=git)** | Warren, RI, United States | On Site | Sep 30 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Marketing - Customer Intelligence](https://jobright.ai/jobs/info/6aa03fd8a2266b538d22f269?utm_campaign=1065&utm_source=git)** | Farmington, CT, United States | On Site | Sep 30 |
 | **[Geotab](http://www.geotab.com/)** | **[Channel Marketing Intern (Winter/January 2027, 12-16 months)](https://jobright.ai/jobs/info/6a9823d9c8ed473c5c76230e?utm_campaign=1065&utm_source=git)** | Oakville, ON, Canada | Hybrid | Sep 30 |
-| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[Fall 2026 Marketing Internship](https://jobright.ai/jobs/info/6a8de3a025fc4e7ae3dbe6be?utm_campaign=1065&utm_source=git)** | Canfield, OH, United States | On Site | Sep 30 |
-| **[Chimes](https://chimes.org/)** | **[Fall Intern - Social Media and Marketing](https://jobright.ai/jobs/info/6a6cfdbeba7efe79c2f67cbb?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | On Site | Sep 30 |
-| **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Retail Analytics - Summer 2027 Corporate Internship](https://jobright.ai/jobs/info/6aa8ad1deff87f571fc970bd?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Sep 30 |
-| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Marketing - Design](https://jobright.ai/jobs/info/6aa040183b5aa83237b07e51?utm_campaign=1065&utm_source=git)** | Farmington, CT, United States | On Site | Sep 30 |
-| ↳ | **[2027 Summer Intern: Product Marketing - Design](https://jobright.ai/jobs/info/6a996ecd138838706058dd08?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 30 |
-| **[General Motors](https://www.gm.com)** | **[2027 Summer Intern - GM Fleet Forecasting Intern](https://jobright.ai/jobs/info/6aa0ac92500b01124c77a7d5?utm_campaign=1065&utm_source=git)** | Warren, MI, United States | Hybrid | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
