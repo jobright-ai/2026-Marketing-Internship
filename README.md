@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CIKA Global Business Advisory](cikaconsulting.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac12e988ff3fb9b3bc7d2c6?utm_campaign=1065&utm_source=git)** | The Woodlands, TX, United States | On Site | Oct 03 |
+| **[Starbeam](www.starbeam.org)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6ac1234f064da25272e0a39d?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 03 |
+| **[Electro](electrogum.com)** | **[Sports Marketing & Athlete Relations Intern](https://jobright.ai/jobs/info/6ac122908ff3fb9b3bc7d203?utm_campaign=1065&utm_source=git)** | Fort Worth, TX, United States | Remote | Oct 03 |
 | **[Orchid](https://0.email/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac121034ac55253f5d6a03f?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Remote | Oct 03 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Oct 03 |
 | **[IBM](http://www.ibm.com)** | **[2027 Intern – Junior Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6a94e7dc360363009919a526?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 03 |
 | ↳ | **[2027 Intern – Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6a94e7cd8e5968545337d7aa?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 03 |
 | **[Ibotta](https://home.ibotta.com)** | **[B2B Creative Marketing Intern](https://jobright.ai/jobs/info/6aa4301bf7baf881567cdacb?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 03 |
@@ -67,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[2027 Summer Social Media Marketing Intern](https://jobright.ai/jobs/info/6aa4032b1d92e2d05d112e60?utm_campaign=1065&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 03 |
 | **[Ibotta](https://home.ibotta.com)** | **[D2C Marketing Intern](https://jobright.ai/jobs/info/6aa4310af3aa936e2cdb02bb?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 03 |
 | **[Elanco](https://www.elanco.com)** | **[Marketing Intern - US Pet Health (Summer 2027)](https://jobright.ai/jobs/info/6a8746ece8b6601d12902a55?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Oct 03 |
-| **[Southwire Company](http://southwire.com)** | **[Channel Marketing Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6aaf9ec53d96632d741b23e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
-| ↳ | **[Channel Marketing Intern](https://jobright.ai/jobs/info/6aa43e4ac1928370a285d368?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
+| **[Southwire Company](http://southwire.com)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/6aa43e4ac1928370a285d368?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
+| ↳ | **[Channel Marketing Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6aaf9ec53d96632d741b23e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a5cef66c8e3a473cb8b3422?utm_campaign=1065&utm_source=git)** | Sugar Land, TX, United States | On Site | Oct 03 |
 | **[Electro](electrogum.com)** | **[Sports Marketing & Communications Intern](https://jobright.ai/jobs/info/6ac0f9ed4ac55253f5d69ca6?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Oct 03 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Street Marketing Internship](https://jobright.ai/jobs/info/6a6be8f8ca1f9338465fd063?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 03 |
@@ -121,12 +125,11 @@ For a complete list, click the following sortable link below:
 | **[Cornwall Hospice](https://www.cornwallhospicecare.co.uk)** | **[Social Media (Working Student)](https://jobright.ai/jobs/info/6a869b93d34f700f87fc1eff?utm_campaign=1065&utm_source=git)** | Daniels Lane | On Site | Oct 02 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Marketing & Communications-Atlanta, GA](https://jobright.ai/jobs/info/6ac0042c0e027c0f3b39f551?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 02 |
 | **[Stop & Shop](http://stopandshop.com)** | **[Intern Marketing](https://jobright.ai/jobs/info/6abff5318ff3fb9b3bc79d86?utm_campaign=1065&utm_source=git)** | Quincy, MA, United States | Hybrid | Oct 02 |
-| **[Sargento](http://www.sargento.com)** | **[New Platform Development Intern](https://jobright.ai/jobs/info/6ac02758d9621c5b28396aba?utm_campaign=1065&utm_source=git)** | Plymouth, WI, United States | Hybrid | Oct 02 |
+| **[Sargento](http://www.sargento.com)** | **[New Platform Development Intern](https://jobright.ai/jobs/info/6ac03f3b4ac55253f5d685d3?utm_campaign=1065&utm_source=git)** | Plymouth, WI, United States | Hybrid | Oct 02 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ac05ed70e027c0f3b3a1211?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Oct 02 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern - Product Marketing Winter 2027](https://jobright.ai/jobs/info/6ac03ada4ac55253f5d68553?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 02 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Summer Internship - Marketing and PR, Harper Celebrate Publishing (Nashville, TN Hybrid)](https://jobright.ai/jobs/info/6ab18d55d2a93d5a97ebb56c?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Oct 02 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aada9083d96632d741af390?utm_campaign=1065&utm_source=git)** | Asheville, NC, United States | On Site | Oct 02 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Oct 02 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Strategic Marketing, Co-Op](https://jobright.ai/jobs/info/6ac00b24064da25272e076c9?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Remote | Oct 02 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6ac0337fd9621c5b28396eba?utm_campaign=1065&utm_source=git)** | Greenville, South Carolina, United States | On Site | Oct 02 |
 | **[Keystone Cooperative](https://www.keystonecoop.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/6aa9546328e24cb385139c68?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social & Influencer Intern](https://jobright.ai/jobs/info/6ac01621d9621c5b28396379?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 02 |
 | ↳ | **[Digital Media Intern](https://jobright.ai/jobs/info/6ac016158ff3fb9b3bc7a951?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Intern (TikTok Shop - Operations Center) - 2027 Summer](https://jobright.ai/jobs/info/6a7381f332ebbc14ffb4f648?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 02 |
-| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Athletic Operations](https://jobright.ai/jobs/info/6abfe8e2372c01f6cd729745?utm_campaign=1065&utm_source=git)** | Vero Beach, FL, United States | On Site | Oct 02 |
-| **[rbb Communications](http://rbbcommunications.com/)** | **[Spring 2027 Public Relations Internships](https://jobright.ai/jobs/info/6aad81d7de327d3e210d2d0c?utm_campaign=1065&utm_source=git)** | Coral Gables, FL, United States | Remote | Oct 02 |
-| **[American Electric Power](http://aep.com)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/6ac00339064da25272e07460?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
