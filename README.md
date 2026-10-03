@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Friedkin Group](https://www.friedkin.com/)** | **[Summer Intern- Marketing](https://jobright.ai/jobs/info/6aa86fc7930bff471a2a74c2?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Oct 03 |
+| **[Aspire](https://www.aspireai.com/)** | **[Growth Marketing Internship](https://jobright.ai/jobs/info/6ac14f45064da25272e0a766?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa495e2f3aa936e2cdb1d08?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 03 |
 | **[Henkel](http://www.henkel.com)** | **[Employer Branding Intern – Summer 2027](https://jobright.ai/jobs/info/6aa455eaf3aa936e2cdb0de0?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | On Site | Oct 03 |
-| **[Procter & Gamble](https://us.pg.com)** | **[Senior Brand Manager MBA Internship (2028 Graduates – MBA)](https://jobright.ai/jobs/info/6aa47111c1928370a285df6c?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 03 |
+| **[Procter & Gamble](https://us.pg.com)** | **[Senior Brand Manager MBA Internship (2028 Graduates – MBA)](https://jobright.ai/jobs/info/6aa46415422289703bd66717?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 03 |
 | ↳ | **[Senior Brand Manager MBA Internship (2028 Graduates – MBA)](https://jobright.ai/jobs/info/6aa491f7c1928370a285e7b5?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 03 |
-| ↳ | **[Senior Brand Manager MBA Internship (2028 Graduates – MBA)](https://jobright.ai/jobs/info/6aa46415422289703bd66717?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 03 |
+| ↳ | **[Senior Brand Manager MBA Internship (2028 Graduates – MBA)](https://jobright.ai/jobs/info/6aa47111c1928370a285df6c?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 03 |
 | **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Marketing Intern Job Details / Aptar Group](https://jobright.ai/jobs/info/6ac1363e8ff3fb9b3bc7d374?utm_campaign=1065&utm_source=git)** | Mukwonago, WI, United States | On Site | Oct 03 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2027 Summer Communications Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6aa5135a2ed333b4ea5c555e?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | Hybrid | Oct 03 |
 | **[Moët Hennessy](https://www.moethennessy.it/)** | **[MHUSA 2027 Summer Internship Program - Field Marketing (Hennessy)](https://jobright.ai/jobs/info/6ac05b230e027c0f3b3a1035?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 03 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[2027 Summer Social Media Marketing Intern](https://jobright.ai/jobs/info/6aa4032b1d92e2d05d112e60?utm_campaign=1065&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 03 |
 | **[Ibotta](https://home.ibotta.com)** | **[D2C Marketing Intern](https://jobright.ai/jobs/info/6aa4310af3aa936e2cdb02bb?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 03 |
 | **[Elanco](https://www.elanco.com)** | **[Marketing Intern - US Pet Health (Summer 2027)](https://jobright.ai/jobs/info/6a8746ece8b6601d12902a55?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Oct 03 |
-| **[Southwire Company](http://southwire.com)** | **[Channel Marketing Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6aaf9ec53d96632d741b23e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
-| ↳ | **[Channel Marketing Intern](https://jobright.ai/jobs/info/6aa43e4ac1928370a285d368?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
+| **[Southwire Company](http://southwire.com)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/6aa43e4ac1928370a285d368?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
+| ↳ | **[Channel Marketing Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6aaf9ec53d96632d741b23e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a5cef66c8e3a473cb8b3422?utm_campaign=1065&utm_source=git)** | Sugar Land, TX, United States | On Site | Oct 03 |
 | **[Electro](electrogum.com)** | **[Sports Marketing & Communications Intern](https://jobright.ai/jobs/info/6ac0f9ed4ac55253f5d69ca6?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Oct 03 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Street Marketing Internship](https://jobright.ai/jobs/info/6a6be8f8ca1f9338465fd063?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 03 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a50aba62e2ceb72963b4b47?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 02 |
 | ↳ | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a53e88b8a74e077472fa062?utm_campaign=1065&utm_source=git)** | North Miami, FL, United States | On Site | Oct 02 |
 | **[USAA](https://www.usaa.com)** | **[Marketing Campaigns Manager Intern](https://jobright.ai/jobs/info/6aa49884422289703bd67394?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
-| ↳ | **[Campaign Analyst Intern](https://jobright.ai/jobs/info/6aa4d69d930bff471a29bd1b?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
 | ↳ | **[Campaign Analyst Intern](https://jobright.ai/jobs/info/6aa4f13f2ed333b4ea5c4a12?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
+| ↳ | **[Campaign Analyst Intern](https://jobright.ai/jobs/info/6aa4d69d930bff471a29bd1b?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
 | **[Cboe Global Markets](https://fx.cboe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac03f4e4ac55253f5d685d7?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Oct 02 |
 | **[The Global Institute for Health and Human Rights](http://www.albany.edu/gihhr/)** | **[Communications Intern (Paid)](https://jobright.ai/jobs/info/6ac090144ac55253f5d69479?utm_campaign=1065&utm_source=git)** | Martinez, CA, United States | On Site | Oct 02 |
 | **[North Carolina Courage](http://www.NCCourage.com)** | **[2027 Social Media Intern](https://jobright.ai/jobs/info/6ac08fbe0e027c0f3b3a17fd?utm_campaign=1065&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Biospringer by Lesaffre](http://biospringer.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6abfdfd9372c01f6cd7292bd?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 02 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Laneige PR Intern](https://jobright.ai/jobs/info/6a9b20131388387060596b7e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 02 |
 | **[Electro](electrogum.com)** | **[Greek Life Partnerships & Brand Activations Intern](https://jobright.ai/jobs/info/6ac019394ac55253f5d67945?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Oct 02 |
-| **[Florida Credit Union](https://flcu.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac01864d9621c5b283964a9?utm_campaign=1065&utm_source=git)** | Gainesville, FL, United States | On Site | Oct 02 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall/Winter Internship - Tuscaloosa, AL](https://jobright.ai/jobs/info/6ac01786064da25272e07b48?utm_campaign=1065&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
