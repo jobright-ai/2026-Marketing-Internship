@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matrix Design Group LLC](http://matrixteam.com)** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/6aa52812930bff471a29d6c4?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a90d7410bd89e205d24c81c?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 03 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284dccb96192a3684e648?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 03 |
 | ↳ | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a701a34f5953013637f7276?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 03 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a50aba62e2ceb72963b4b47?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 02 |
 | ↳ | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a53e88b8a74e077472fa062?utm_campaign=1065&utm_source=git)** | North Miami, FL, United States | On Site | Oct 02 |
 | **[USAA](https://www.usaa.com)** | **[Marketing Campaigns Manager Intern](https://jobright.ai/jobs/info/6aa49884422289703bd67394?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
-| ↳ | **[Campaign Analyst Intern](https://jobright.ai/jobs/info/6aa4f13f2ed333b4ea5c4a12?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
 | ↳ | **[Campaign Analyst Intern](https://jobright.ai/jobs/info/6aa4d69d930bff471a29bd1b?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
+| ↳ | **[Campaign Analyst Intern](https://jobright.ai/jobs/info/6aa4f13f2ed333b4ea5c4a12?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
 | **[Cboe Global Markets](https://fx.cboe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac03f4e4ac55253f5d685d7?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Oct 02 |
 | **[The Global Institute for Health and Human Rights](http://www.albany.edu/gihhr/)** | **[Communications Intern (Paid)](https://jobright.ai/jobs/info/6ac090144ac55253f5d69479?utm_campaign=1065&utm_source=git)** | Martinez, CA, United States | On Site | Oct 02 |
 | **[North Carolina Courage](http://www.NCCourage.com)** | **[2027 Social Media Intern](https://jobright.ai/jobs/info/6ac08fbe0e027c0f3b3a17fd?utm_campaign=1065&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Felt Right](https://feltright.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ac015e24ac55253f5d6778a?utm_campaign=1065&utm_source=git)** | Bluffdale, UT, United States | On Site | Oct 02 |
 | **[Branch](https://www.branchgroup.com)** | **[Summer 2027 - Marketing Internship](https://jobright.ai/jobs/info/6ac01ad70e027c0f3b39fd5e?utm_campaign=1065&utm_source=git)** | Roanoke, VA, United States | On Site | Oct 02 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Summer Internship - Marketing, Thomas Nelson & Zondervan Gift (Nashville, TN Hybrid)](https://jobright.ai/jobs/info/6ab18d48d43eb922ca0bf8c4?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Oct 02 |
-| **[RF-SMART](http://rfsmart.com/)** | **[Digital Marketing Intern - Spring 2027](https://jobright.ai/jobs/info/6abff54d372c01f6cd729c50?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
