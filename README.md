@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vaccine Vets](https://vaccinevets.com/)** | **[Public Relations Communications Intern](https://jobright.ai/jobs/info/6ac17b16372c01f6cd72d65d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 03 |
 | **[15Wins Venture](https://www.15wins.com)** | **[Community &  Content Support Intern](https://jobright.ai/jobs/info/6ac16a8f372c01f6cd72d5c9?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 03 |
 | **[SRND AI](https://srnd.ai)** | **[(Unpaid) Marketing Content & Creative Intern](https://jobright.ai/jobs/info/6ac15aac372c01f6cd72d515?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[The Friedkin Group](https://www.friedkin.com/)** | **[Summer Intern- Marketing](https://jobright.ai/jobs/info/6aa86fc7930bff471a2a74c2?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Oct 03 |
@@ -67,10 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Brand Manager MBA Internship (2028 Graduates – MBA)](https://jobright.ai/jobs/info/6aa46415422289703bd66717?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 03 |
 | **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Marketing Intern Job Details / Aptar Group](https://jobright.ai/jobs/info/6ac1363e8ff3fb9b3bc7d374?utm_campaign=1065&utm_source=git)** | Mukwonago, WI, United States | On Site | Oct 03 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2027 Summer Communications Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6aa5135a2ed333b4ea5c555e?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | Hybrid | Oct 03 |
-| **[Moët Hennessy](https://www.moethennessy.it/)** | **[MHUSA 2027 Summer Internship Program - Field Marketing (Hennessy)](https://jobright.ai/jobs/info/6ac05b230e027c0f3b3a1035?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 03 |
 | **[CIKA Global Business Advisory](cikaconsulting.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac12e988ff3fb9b3bc7d2c6?utm_campaign=1065&utm_source=git)** | The Woodlands, TX, United States | On Site | Oct 03 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6ac1234f064da25272e0a39d?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 03 |
-| **[Electro](electrogum.com)** | **[Sports Marketing & Athlete Relations Intern](https://jobright.ai/jobs/info/6ac122908ff3fb9b3bc7d203?utm_campaign=1065&utm_source=git)** | Fort Worth, TX, United States | Remote | Oct 03 |
 | **[Orchid](https://0.email/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac121034ac55253f5d6a03f?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Remote | Oct 03 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Oct 03 |
 | **[IBM](http://www.ibm.com)** | **[2027 Intern – Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6a94e7cd8e5968545337d7aa?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 03 |
@@ -138,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern - Product Marketing Winter 2027](https://jobright.ai/jobs/info/6ac03ada4ac55253f5d68553?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 02 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Summer Internship - Marketing and PR, Harper Celebrate Publishing (Nashville, TN Hybrid)](https://jobright.ai/jobs/info/6ab18d55d2a93d5a97ebb56c?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Oct 02 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6aada9083d96632d741af390?utm_campaign=1065&utm_source=git)** | Asheville, NC, United States | On Site | Oct 02 |
+| **[Diversified Energy Company](https://www.div.energy/)** | **[2027 Summer Intern- Marketing/ Trading](https://jobright.ai/jobs/info/6ac029e8372c01f6cd72afc5?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Oct 02 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Strategic Marketing, Co-Op](https://jobright.ai/jobs/info/6ac00b24064da25272e076c9?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Remote | Oct 02 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6ac0337fd9621c5b28396eba?utm_campaign=1065&utm_source=git)** | Greenville, South Carolina, United States | On Site | Oct 02 |
 | **[Keystone Cooperative](https://www.keystonecoop.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/6aa9546328e24cb385139c68?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 02 |
@@ -148,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Weissman](https://www.weissmans.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6aa991f6eff87f571fc9a348?utm_campaign=1065&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 02 |
 | **[Gemini](https://gemini.com)** | **[Prediction Markets Operations Intern (Winter 2027)](https://jobright.ai/jobs/info/6ac02cf7372c01f6cd72b0b2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 02 |
 | **[Biospringer by Lesaffre](http://biospringer.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6abfdfd9372c01f6cd7292bd?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 02 |
-| **[Diversified Energy Company](https://www.div.energy/)** | **[2027 Summer Intern- Marketing/ Trading](https://jobright.ai/jobs/info/6ac029e8372c01f6cd72afc5?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | On Site | Oct 02 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac026848ff3fb9b3bc7b063?utm_campaign=1065&utm_source=git)** | Webster Groves, MO, United States | On Site | Oct 02 |
 | **[Electro](electrogum.com)** | **[Marketing Campaign Intern](https://jobright.ai/jobs/info/6ac0194ed9621c5b28396523?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Vision](http://www.visionps.com)** | **[Organic Search Intern (SEO)](https://jobright.ai/jobs/info/6ac023cf064da25272e080b0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[Greek Life Partnerships & Brand Activations Intern](https://jobright.ai/jobs/info/6ac019394ac55253f5d67945?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Oct 02 |
 | **[Florida Credit Union](https://flcu.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac01864d9621c5b283964a9?utm_campaign=1065&utm_source=git)** | Gainesville, FL, United States | On Site | Oct 02 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall/Winter Internship - Tuscaloosa, AL](https://jobright.ai/jobs/info/6ac01786064da25272e07b48?utm_campaign=1065&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Oct 02 |
+| **[Vision](http://www.visionps.com)** | **[Organic Search Intern](https://jobright.ai/jobs/info/6ac01781372c01f6cd72a887?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
