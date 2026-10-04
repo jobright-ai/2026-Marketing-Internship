@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HeitechSoft - AI Business Solutions](https://heitechsoft.com)** | **[AI-First Creative & Marketing Intern](https://jobright.ai/jobs/info/6ac20cf50e027c0f3b3a351d?utm_campaign=1065&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Oct 04 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a424b68adab21425e9fd446?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 04 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Social Media Intern (Volunteer)](https://jobright.ai/jobs/info/6ac1c0c44ac55253f5d6ad91?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Oct 03 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a89c207cde3717f9e9b89ea?utm_campaign=1065&utm_source=git)** | Columbia Metro | On Site | Oct 03 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 03 |
@@ -77,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Starbeam](www.starbeam.org)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6ac1234f064da25272e0a39d?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 03 |
 | **[Orchid](https://0.email/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac121034ac55253f5d6a03f?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Remote | Oct 03 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Oct 03 |
-| **[IBM](http://www.ibm.com)** | **[2027 Intern – Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6a94e7cd8e5968545337d7aa?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 03 |
-| ↳ | **[2027 Intern – Junior Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6a94e7dc360363009919a526?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 03 |
+| **[IBM](http://www.ibm.com)** | **[2027 Intern – Junior Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6a94e7dc360363009919a526?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 03 |
+| ↳ | **[2027 Intern – Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6a94e7cd8e5968545337d7aa?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 03 |
 | **[Ibotta](https://home.ibotta.com)** | **[B2B Creative Marketing Intern](https://jobright.ai/jobs/info/6aa4301bf7baf881567cdacb?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 03 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Worksite Intern-REMOTE](https://jobright.ai/jobs/info/6aa5090d654b2a9424cf25a8?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[ejobs Finland](http://www.ejobs.fi/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ac10fb9064da25272e0a248?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 03 |
@@ -94,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Latent AI](http://latentai.com/)** | **[SkillBridge Intern (Marketing)](https://jobright.ai/jobs/info/6a5745b821f64463ad358892?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Trex Company](http://www.trex.com)** | **[2027 Summer Internship Program - Marketing](https://jobright.ai/jobs/info/6aa42b69f3aa936e2cdb014c?utm_campaign=1065&utm_source=git)** | Winchester, VA, United States | On Site | Oct 03 |
 | **[Matrix Design Group LLC](http://matrixteam.com)** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/6aa52812930bff471a29d6c4?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Oct 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284dccb96192a3684e648?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 03 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a90d7410bd89e205d24c81c?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a90d7410bd89e205d24c81c?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 03 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284dccb96192a3684e648?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 03 |
 | ↳ | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a701a34f5953013637f7276?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 03 |
 | ↳ | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6ac0d4e6064da25272e09bbc?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 03 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Marketing Strategy Intern - Summer 2027](https://jobright.ai/jobs/info/6aa498251d92e2d05d1156c3?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Oct 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gemini](https://gemini.com)** | **[Prediction Markets Operations Intern (Winter 2027)](https://jobright.ai/jobs/info/6ac02cf7372c01f6cd72b0b2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 02 |
 | **[Biospringer by Lesaffre](http://biospringer.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6abfdfd9372c01f6cd7292bd?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 02 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac026848ff3fb9b3bc7b063?utm_campaign=1065&utm_source=git)** | Webster Groves, MO, United States | On Site | Oct 02 |
-| **[Electro](electrogum.com)** | **[Marketing Campaign Intern](https://jobright.ai/jobs/info/6ac0194ed9621c5b28396523?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 02 |
-| **[Vision](http://www.visionps.com)** | **[Organic Search Intern (SEO)](https://jobright.ai/jobs/info/6ac023cf064da25272e080b0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
