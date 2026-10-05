@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bell](https://letstalk.bell.ca/en)** | **[Graduate Program 2027 - Consumer and Small Business (Marketing) Job Details / Bell](https://jobright.ai/jobs/info/6ab240bef9692ca98b04cf94?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 04 |
 | **[NexLine Communications](https://www.mynexline.com)** | **[Marketing and Social Media Internship](https://jobright.ai/jobs/info/6abf360e372c01f6cd727849?utm_campaign=1065&utm_source=git)** | Kingston, Pennsylvania, United States | On Site | Oct 04 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Regional Marketing Intern - Placement Year](https://jobright.ai/jobs/info/6ac313e68ff3fb9b3bc809b3?utm_campaign=1065&utm_source=git)** | Goodwood, Ontario, Canada | On Site | Oct 04 |
 | **[Delishous](www.delishous.com)** | **[Marketing Intern — Winter 2026–2027 (OPT Eligible)](https://jobright.ai/jobs/info/6ac30dca8ff3fb9b3bc80944?utm_campaign=1065&utm_source=git)** | Long Island City, NY, United States | Hybrid | Oct 04 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Live Tinted](http://www.livetinted.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a571412e9b77f668bd66a32?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 04 |
 | **[Wavytalk](https://www.wavytalk.com)** | **[Community Intern](https://jobright.ai/jobs/info/6aaafd90f6bd9d2d17c1abe9?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 04 |
 | **[Electro](electrogum.com)** | **[NIL & Brand Partnerships Intern](https://jobright.ai/jobs/info/6ac2eb88372c01f6cd7305e2?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 04 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ac32fba8ff3fb9b3bc80c4a?utm_campaign=1065&utm_source=git)** | Calhoun, GA, United States | On Site | Oct 04 |
 | **[TenBerke](https://www.tenberke.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a63cd0e8d53603449604609?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 04 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2027: MBA Product Marketing Intern, FinTech Lending](https://jobright.ai/jobs/info/6abbee36b23c6fb2b81a3e50?utm_campaign=1065&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 04 |
 | ↳ | **[Summer 2027: MBA Product Marketing Intern, Payments](https://jobright.ai/jobs/info/6abbee1292b2612ef0f8bafe?utm_campaign=1065&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[QBE LLC](http://qbe.net)** | **[Crop Marketing Intern](https://jobright.ai/jobs/info/6ac1b9be064da25272e0b009?utm_campaign=1065&utm_source=git)** | Council Bluffs, IA, United States | Hybrid | Oct 02 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en)** | **[Marketing Internship MBA Job Details / Valvoline Global](https://jobright.ai/jobs/info/6ac08b8d8ff3fb9b3bc7c4dd?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Oct 02 |
 | **[The US Oncology Network](http://www.usoncology.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac07a478ff3fb9b3bc7c31a?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Remote | Oct 02 |
-| **[Vision](http://www.visionps.com)** | **[Organic Search Intern (SEO)](https://jobright.ai/jobs/info/6ac023cc064da25272e080ae?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 02 |
-| **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a5330629fbdab22fe13e8e7?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
