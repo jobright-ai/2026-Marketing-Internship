@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer/Fall 2027 - Brand Marketing Collegiate Associate Intern](https://jobright.ai/jobs/info/6a8f0716f841e649a7190390?utm_campaign=1065&utm_source=git)** | Savannah, GA, United States | On Site | Oct 07 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa9b4a73387a3d9b67d6321?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Oct 07 |
+| **[Gupta Media](http://guptamedia.com)** | **[Media Intern - Spring 2027](https://jobright.ai/jobs/info/6aa0580bea127c379469685d?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Oct 07 |
 | **[Graco](http://graco.com/in/en/)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6aa9f4b4eff87f571fc9cc50?utm_campaign=1065&utm_source=git)** | Dayton, Minnesota, United States | On Site | Oct 07 |
 | ↳ | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6aa9bc5b09ae03adcacdec84?utm_campaign=1065&utm_source=git)** | French Lake, MN, United States | On Site | Oct 07 |
 | **[Fenner Precision Polymers](https://www.fennerppd.com/)** | **[Supply Chain / Marketing Intern](https://jobright.ai/jobs/info/6aa9f60009ae03adcace073e?utm_campaign=1065&utm_source=git)** | Lititz, PA, United States | On Site | Oct 07 |
@@ -86,13 +89,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - History Education Social Media Intern](https://jobright.ai/jobs/info/6ac5f526372c01f6cd73b7ec?utm_campaign=1065&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 07 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Fall '26)](https://jobright.ai/jobs/info/6ac5fd88372c01f6cd73b83e?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a41621d1afc66714d3cabc8?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 06 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6ab111f9d2a93d5a97eb8e25?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Oct 06 |
-| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6aa3e76dc1928370a285b304?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 06 |
-| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6aa38d674238ea18d430c831?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Oct 06 |
-| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a9fda9546b4f54f6be88e06?utm_campaign=1065&utm_source=git)** | Berkeley, CA, United States | On Site | Oct 06 |
-| ↳ | **[Marketing Intern - Mandarin Speaking](https://jobright.ai/jobs/info/6aa3bbc95c11cce360365f81?utm_campaign=1065&utm_source=git)** | Davis, CA, United States | On Site | Oct 06 |
-| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a9fda865bf5fa48b83b77aa?utm_campaign=1065&utm_source=git)** | Madison, WI, United States | On Site | Oct 06 |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a9fda865bf5fa48b83b77aa?utm_campaign=1065&utm_source=git)** | Madison, WI, United States | On Site | Oct 06 |
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a8ba83725fc4e7ae3db5ece?utm_campaign=1065&utm_source=git)** | West Lafayette, IN, United States | On Site | Oct 06 |
+| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a9fda9546b4f54f6be88e06?utm_campaign=1065&utm_source=git)** | Berkeley, CA, United States | On Site | Oct 06 |
+| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6aa3e76dc1928370a285b304?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 06 |
+| ↳ | **[Marketing Intern - Mandarin Speaking](https://jobright.ai/jobs/info/6aa3bbc95c11cce360365f81?utm_campaign=1065&utm_source=git)** | Davis, CA, United States | On Site | Oct 06 |
+| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6aa38d674238ea18d430c831?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Oct 06 |
+| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6ab111f9d2a93d5a97eb8e25?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Oct 06 |
 | **[Havas](https://www.havas.com)** | **[Public Relations Assistant](https://jobright.ai/jobs/info/6ac62da3372c01f6cd73c03e?utm_campaign=1065&utm_source=git)** | Tribeca, New York, United States | Hybrid | Oct 06 |
 | **[The City Mission](https://www.thecitymission.org)** | **[INTERNSHIP - Community Engagement and Marketing Intern](https://jobright.ai/jobs/info/6ac5d10e0e027c0f3b3b0921?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 06 |
 | **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a56bd8553b3962b910b26ff?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 06 |
@@ -131,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Think Academy U.S](https://www.thethinkacademy.com)** | **[Reddit Marketing Intern](https://jobright.ai/jobs/info/6ac573718ff3fb9b3bc89cf0?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Remote | Oct 06 |
 | **[Wheelhouse Advisory Group, LLC](https://www.wheelhouseretirement.com)** | **[Marketing Assistant/Intern](https://jobright.ai/jobs/info/6ac572790e027c0f3b3af108?utm_campaign=1065&utm_source=git)** | State Line City, IN, United States | On Site | Oct 06 |
 | **[Jona](https://jona.health)** | **[Jona Growth Marketing & Social Media Intern](https://jobright.ai/jobs/info/6ac56ab80e027c0f3b3aeee5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6aadf9d80ebc8fb2313ebd66?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Oct 06 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6aadf9f02e757fcb5c8babb0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 06 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6aadf9f02e757fcb5c8babb0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 06 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6aadf9d80ebc8fb2313ebd66?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Oct 06 |
 | **[Alta Genetics](https://www.altagenetics.com)** | **[Technical Marketing Intern](https://jobright.ai/jobs/info/6ac5889f372c01f6cd73a319?utm_campaign=1065&utm_source=git)** | Madison, WI, United States | Hybrid | Oct 06 |
 | **[Alex's Lemonade Stand Foundation](https://www.alexslemonade.org/)** | **[On-page SEO - intern](https://jobright.ai/jobs/info/6a55f47ff7517b519ad522f2?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Moroccanoil](https://www.moroccanoil.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6ac564270e027c0f3b3aed56?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Loch Lloyd Country Club](https://lochlloyd.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6ac55738d9621c5b283a4c1f?utm_campaign=1065&utm_source=git)** | Leawood, KS, United States | On Site | Oct 06 |
 | **[State Farm](https://www.statefarm.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6ac55c54d9621c5b283a4e5b?utm_campaign=1065&utm_source=git)** | Mason, OH, United States | On Site | Oct 06 |
 | **[ATX TV](https://atxtv.com)** | **[ATX TV Spring Festival & Social Media Internships 2027](https://jobright.ai/jobs/info/6ac551e7064da25272e16451?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 06 |
-| **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Agency Channel Performance - Channel Delivery Analyst](https://jobright.ai/jobs/info/6ab6f078ba1c25652c610b5c?utm_campaign=1065&utm_source=git)** | Bloomington, IL, United States | Hybrid | Oct 06 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2027 - Programs Outreach Intern - Foundation for Economic Education](https://jobright.ai/jobs/info/6ac551754ac55253f5d75ffa?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Oct 06 |
-| **[The Mindful Tech Club](themindfultechclub.com)** | **[Rotational Intern: Operations, Marketing, Business Development, and Product](https://jobright.ai/jobs/info/6ac54bd30e027c0f3b3ae343?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
