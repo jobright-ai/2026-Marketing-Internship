@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](electrogum.com)** | **[Social Media Marketing Intern (Sports)](https://jobright.ai/jobs/info/6ac81e0051a1b3e4219f0821?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 08 |
+| **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5b1db163a8f619507ca537?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 08 |
+| **[Tenaska](http://www.tenaska.com/)** | **[Market Insights Intern](https://jobright.ai/jobs/info/6ac817a544d6e65604a06086?utm_campaign=1065&utm_source=git)** | Omaha, NE, United States | On Site | Oct 08 |
+| **[Tidewater Consulting](https://www.tidewaterconsultinginc.com/)** | **[Junior Marketing Coordinator](https://jobright.ai/jobs/info/6ab59140b3db59402d0fdb92?utm_campaign=1065&utm_source=git)** | Roswell, GA, United States | On Site | Oct 08 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2027 Management Trainee Intern - Amarillo, TX](https://jobright.ai/jobs/info/6ac8118c44d6e65604a05eed?utm_campaign=1065&utm_source=git)** | Amarillo, TX, United States | On Site | Oct 08 |
 | **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6ac80f8744d6e65604a05ea4?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 08 |
 | **[SHEIN U.S.](https://sheingroup.com/)** | **[Marketing Intern (SHEGLAM Hair)](https://jobright.ai/jobs/info/6a9089280bd89e205d24ae12?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Oct 08 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Spring 2027 DNC Social Media Internship](https://jobright.ai/jobs/info/6ac80a96fe8f33a85d4fec16?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Oct 08 |
@@ -111,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Marketing Operations & Project Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a90742b7c32860d14cf97ec?utm_campaign=1065&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 08 |
 | **[Baker Publishing Group](http://bakerpublishinggroup.com/)** | **[Fiction Marketing Intern](https://jobright.ai/jobs/info/6ac7e3bffe8f33a85d4fddfb?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 08 |
 | **[RBC](https://www.rbc.com)** | **[2027 Summer Internship - GAM Marketing](https://jobright.ai/jobs/info/6ac7d4c5fe8f33a85d4fd7b2?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Oct 08 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a906533d96ad228f1260ef7?utm_campaign=1065&utm_source=git)** | Mansfield, TX, United States | On Site | Oct 08 |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a9065560bd89e205d24a01f?utm_campaign=1065&utm_source=git)** | Mansfield, TX, United States | On Site | Oct 08 |
 | **[Dinan & Company, LLC](https://www.dinancompany.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac7de4544d6e65604a04d60?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 08 |
 | **[Batallure Beauty](https://batallurebeauty.com)** | **[Marketing Intern Spring 2027](https://jobright.ai/jobs/info/6ac7daff0e573df8adc74bb9?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Oct 08 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2027 Marketing Intern-Norfolk, VA](https://jobright.ai/jobs/info/6ab6ad97d85922de20ce6244?utm_campaign=1065&utm_source=git)** | Norfolk, VA, United States | On Site | Oct 08 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[CSIF Communications Internship – Summer 2027](https://jobright.ai/jobs/info/6abae4077220f52e62ae8d29?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | On Site | Oct 08 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6aba9caed2914e9273eec41c?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | On Site | Oct 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6aadf9e7de327d3e210d4bf9?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 08 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6ac54453064da25272e15ccd?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Oct 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6ac38250d9621c5b2839cc02?utm_campaign=1065&utm_source=git)** | Mount Laurel, NJ, United States | On Site | Oct 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6ab6c3f2c6fe0dec811a6a94?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 08 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6ac54453064da25272e15ccd?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Oct 08 |
 | **[LCS](https://www.lcsnet.com/)** | **[Intern, Marketing, Social & Influencer](https://jobright.ai/jobs/info/6ac7b87d44d6e65604a03d52?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | Hybrid | Oct 08 |
-| **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Marketing Intern (Part-time) (St. Louis, MO)](https://jobright.ai/jobs/info/6ac7d218fe8f33a85d4fd63a?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 08 |
-| **[GSK](https://www.gsk.com)** | **[Marketing Associate Intern, Severe Asthma & Nasal Polyps - Mississauga or Montreal](https://jobright.ai/jobs/info/6ac783d5fcdafb60c6a446d3?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Oct 08 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2027 Marketing Internship with Victoria's Secret](https://jobright.ai/jobs/info/6a8fb87fa19886486675e3a4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 08 |
-| **[Wis-Pak, Inc.](https://wis-pak.com/)** | **[Social Media Content Intern PT (10 - 15 hrs/wk)](https://jobright.ai/jobs/info/6a983cfb11f73b6462c8d5da?utm_campaign=1065&utm_source=git)** | Windsor, WI, United States | On Site | Oct 08 |
-| **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Marketing Intern, Adult Trade](https://jobright.ai/jobs/info/6ac7fa0651a1b3e4219efa38?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
