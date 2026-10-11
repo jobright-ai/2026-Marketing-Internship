@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[True Crime Story911 Media Group (TCS911 Media)](www.truecrimestory911mediagroup.com)** | **[Social Media Intern — Unpaid, Remote](https://jobright.ai/jobs/info/6acb0a67e7a1d9333210c4ed?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Public Relations Intern (Volunteer)](https://jobright.ai/jobs/info/6acae04ee7a1d9333210c160?utm_campaign=1065&utm_source=git)** | Washington, D.C., United States | Remote | Oct 10 |
 | ↳ | **[Development & Fundraising Intern (Volunteer)](https://jobright.ai/jobs/info/6acae003e7a1d9333210c136?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Oct 10 |
 | **[Aon](http://www.aon.com)** | **[Communications Intern - Year Round Internship in NY](https://jobright.ai/jobs/info/6acacf62d113c967e3c782e4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 10 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Philip Morris International U.S.](https://www.uspmi.com)** | **[Undergraduate Intern - Commercial Capability & Marketing Summer 2027](https://jobright.ai/jobs/info/6aad3a7fde327d3e210d1510?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | Hybrid | Oct 10 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6aade3a33dbb1f8967cefbba?utm_campaign=1065&utm_source=git)** | Albany, NY, United States | On Site | Oct 10 |
 | **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6aae656f6956574eac8b8cb9?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 10 |
-| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a968b41b22f636c81413226?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 10 |
 | ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6ab611fcb3db59402d0ffdaa?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Oct 10 |
+| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a968b41b22f636c81413226?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284dccb96192a3684e648?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 10 |
 | **[HNI Corporation](http://www.hnicorp.com)** | **[Internship - Public Relations/Brand Content - Summer 2027](https://jobright.ai/jobs/info/6a91b28fa27a2d3c98489504?utm_campaign=1065&utm_source=git)** | Muscatine, IA, United States | On Site | Oct 10 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Trade Marketing Sales Intern](https://jobright.ai/jobs/info/6aad6df32e757fcb5c8b8513?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD, United States | On Site | Oct 10 |
@@ -129,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/6ac98ea4c3a8af9c54a0b1ef?utm_campaign=1065&utm_source=git)** | Aurora, CO, United States | Hybrid | Oct 09 |
 | **[Würth MRO, Safety, & Metalworking](http://www.northernsafety.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac95ed9fcdafb60c6a4c2d9?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | Remote | Oct 09 |
 | **[FerskTech](https://fersktech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a55704da96a42cfd95430?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 09 |
-| **[HDR](http://www.hdrinc.com)** | **[Resources Marketing Intern](https://jobright.ai/jobs/info/6ac93577fe8f33a85d502d7d?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 09 |
+| **[HDR](http://www.hdrinc.com)** | **[Resources Marketing Intern](https://jobright.ai/jobs/info/6ac9435efcdafb60c6a4b967?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 09 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern Summer 2027](https://jobright.ai/jobs/info/6aa47c14422289703bd66c57?utm_campaign=1065&utm_source=git)** | Salisbury, MD, United States | On Site | Oct 09 |
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a423dc41cc9cc2b12feb0e8?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 09 |
 | **[Council of Korean Americans](https://councilka.org/)** | **[CKA Internship](https://jobright.ai/jobs/info/6ac9a3a4b51e7a444b6a9816?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Oct 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[Marketing Intern, Greek Life](https://jobright.ai/jobs/info/6ac9509aaf788e6ad3b5af3b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Oct 09 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Brand Marketing - Year Round Intern](https://jobright.ai/jobs/info/6ac93fbfd4a5a0370741184f?utm_campaign=1065&utm_source=git)** | Springdale, AR, United States | On Site | Oct 09 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Owned Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6a99f52090a313642c653bd9?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | On Site | Oct 09 |
-| ↳ | **[Content Writer Intern - Summer 2027](https://jobright.ai/jobs/info/6a99f537ad752e2ad5502fa9?utm_campaign=1065&utm_source=git)** | Grimes, IA, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
