@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a91ed4a8e5968545337859b?utm_campaign=1065&utm_source=git)** | Salisbury, NC, United States | Hybrid | Oct 11 |
+| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a879d2c4afae74a08349445?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 11 |
+| **[HNI Corporation](http://www.hnicorp.com)** | **[Internship - Product Launch Marketing - Summer 2027](https://jobright.ai/jobs/info/6a91b29fd18f756748279686?utm_campaign=1065&utm_source=git)** | Muscatine, IA, United States | On Site | Oct 11 |
 | **[Entegris](http://www.entegris.com)** | **[Marketing Co-Op](https://jobright.ai/jobs/info/6aa1843e3272060a8e3f019d?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 11 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Marketing Intern - Franklin, TN - Summer 2027](https://jobright.ai/jobs/info/6ac94ce6fcdafb60c6a4bbfb?utm_campaign=1065&utm_source=git)** | Franklin, TN, United States | On Site | Oct 11 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 11 |
@@ -128,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Hype Events](https://hypevents.ca)** | **[Marketing And Promotions Intern](https://jobright.ai/jobs/info/6ac99f20b51e7a444b6a9767?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Oct 09 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Street Marketing Internship](https://jobright.ai/jobs/info/6ac98176fe8f33a85d5041ce?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 09 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Marketing (Winter 2027)](https://jobright.ai/jobs/info/6ac95667d4a5a03707411fe0?utm_campaign=1065&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 09 |
-| ↳ | **[Intern, Brand Marketing (Winter 2027)](https://jobright.ai/jobs/info/6ac95665c3a8af9c54a0a5ca?utm_campaign=1065&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 09 |
 | ↳ | **[Intern, Aftermarket Programs (Winter 2027)](https://jobright.ai/jobs/info/6ac955effcdafb60c6a4c016?utm_campaign=1065&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 09 |
+| ↳ | **[Intern, Brand Marketing (Winter 2027)](https://jobright.ai/jobs/info/6ac95665c3a8af9c54a0a5ca?utm_campaign=1065&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 09 |
 | **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/6ac98ea4c3a8af9c54a0b1ef?utm_campaign=1065&utm_source=git)** | Aurora, CO, United States | Hybrid | Oct 09 |
 | **[Würth MRO, Safety, & Metalworking](http://www.northernsafety.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac95ed9fcdafb60c6a4c2d9?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | Remote | Oct 09 |
 | **[FerskTech](https://fersktech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a55704da96a42cfd95430?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 09 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Public Relations Intern (Volunteer)](https://jobright.ai/jobs/info/6ac96330fcdafb60c6a4c37d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Oct 09 |
 | **[Electro](electrogum.com)** | **[Sorority Marketing & Social Media Intern](https://jobright.ai/jobs/info/6ac97df06355f8776ff1935e?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | Remote | Oct 09 |
 | **[Jostens](http://jostens.com)** | **[Events Intern](https://jobright.ai/jobs/info/6ab73a28ba1c25652c611c81?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 09 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6ac6e4c18ff3fb9b3bc8f7e3?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6abc74f1fbb3359bcc7d1fd8?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 09 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Category Manager Intern](https://jobright.ai/jobs/info/6ac939e86355f8776ff181a6?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI, United States | On Site | Oct 09 |
 | **[Playad](https://playad.ai)** | **[Marketing Intern (Social Media, SF/KR)](https://jobright.ai/jobs/info/6ac9564afcdafb60c6a4c03e?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 09 |
-| **[Alzheimer's Association®](http://www.alz.org/)** | **[Marketing and Communications Paid Internship](https://jobright.ai/jobs/info/6a763cc94817aa4307047627?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Oct 09 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer Internship - Retail Marketing Job Details / PACCAR](https://jobright.ai/jobs/info/6ac9520d6355f8776ff188a2?utm_campaign=1065&utm_source=git)** | Renton, WA, United States | On Site | Oct 09 |
-| ↳ | **[Summer Internship - eCommerce Development Job Details / PACCAR](https://jobright.ai/jobs/info/6ac9520d6355f8776ff188a3?utm_campaign=1065&utm_source=git)** | Renton, WA, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
