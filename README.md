@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zupper](www.zupper.co)** | **[Social Media & Digital Marketing Intern](https://jobright.ai/jobs/info/6acb6e72002e496d4beed26f?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 11 |
+| **[FINN Partners](http://www.finnpartners.com/)** | **[Internship -Education Public Relation](https://jobright.ai/jobs/info/6acb6bfee7a1d9333210ca1a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Oct 11 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a91ed4a8e5968545337859b?utm_campaign=1065&utm_source=git)** | Salisbury, NC, United States | Hybrid | Oct 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a879d2c4afae74a08349445?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 11 |
+| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6aaf9afb0ebc8fb2313ede80?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 11 |
 | **[HNI Corporation](http://www.hnicorp.com)** | **[Internship - Product Launch Marketing - Summer 2027](https://jobright.ai/jobs/info/6a91b29fd18f756748279686?utm_campaign=1065&utm_source=git)** | Muscatine, IA, United States | On Site | Oct 11 |
 | **[Entegris](http://www.entegris.com)** | **[Marketing Co-Op](https://jobright.ai/jobs/info/6aa1843e3272060a8e3f019d?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 11 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Marketing Intern - Franklin, TN - Summer 2027](https://jobright.ai/jobs/info/6ac94ce6fcdafb60c6a4bbfb?utm_campaign=1065&utm_source=git)** | Franklin, TN, United States | On Site | Oct 11 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6a904e4c0bd89e205d24983a?utm_campaign=1065&utm_source=git)** | Westerville, OH, United States | On Site | Oct 10 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Fundraising Systems Support-Remote within Central Time Zone](https://jobright.ai/jobs/info/6aad6c683dbb1f8967ced71b?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Remote | Oct 10 |
 | **[POP MART](https://global.popmart.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ac9efd9cbbd4774d3ab972f?utm_campaign=1065&utm_source=git)** | Culver City, CA, United States | On Site | Oct 10 |
-| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Marketing - Revenue Operations](https://jobright.ai/jobs/info/6a91cd63a27a2d3c9848a2bd?utm_campaign=1065&utm_source=git)** | Manchester, NH, United States | On Site | Oct 10 |
-| ↳ | **[2027 Summer Intern: Marketing - Technical Communications](https://jobright.ai/jobs/info/6a91ce79a27a2d3c9848a322?utm_campaign=1065&utm_source=git)** | Archdale, NC, United States | On Site | Oct 10 |
+| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Marketing - Technical Communications](https://jobright.ai/jobs/info/6a91ce79a27a2d3c9848a322?utm_campaign=1065&utm_source=git)** | Archdale, NC, United States | On Site | Oct 10 |
+| ↳ | **[2027 Summer Intern: Marketing - Revenue Operations](https://jobright.ai/jobs/info/6a91cd63a27a2d3c9848a2bd?utm_campaign=1065&utm_source=git)** | Manchester, NH, United States | On Site | Oct 10 |
 | **[Haggar Clothing Co.](http://www.haggar.com)** | **[Merchandising Intern - Dallas](https://jobright.ai/jobs/info/6aae34c42e757fcb5c8bb221?utm_campaign=1065&utm_source=git)** | Farmers Branch, TX, United States | On Site | Oct 10 |
 | **[Amazon](https://amazon.com)** | **[General Marketing Specialist Intern – Summer 2027](https://jobright.ai/jobs/info/6ac96661d4a5a03707412383?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 10 |
 | **[Honeywell Aerospace](https://www.honeywellaerospace.com/)** | **[Marketing Intern - Summer 2027 (U.S. Person Required)](https://jobright.ai/jobs/info/6a91e2858e59685453378346?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Public Relations Intern (Volunteer)](https://jobright.ai/jobs/info/6ac96330fcdafb60c6a4c37d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Oct 09 |
 | **[Electro](electrogum.com)** | **[Sorority Marketing & Social Media Intern](https://jobright.ai/jobs/info/6ac97df06355f8776ff1935e?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | Remote | Oct 09 |
 | **[Jostens](http://jostens.com)** | **[Events Intern](https://jobright.ai/jobs/info/6ab73a28ba1c25652c611c81?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 09 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6abc74f1fbb3359bcc7d1fd8?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 09 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Category Manager Intern](https://jobright.ai/jobs/info/6ac939e86355f8776ff181a6?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI, United States | On Site | Oct 09 |
-| **[Playad](https://playad.ai)** | **[Marketing Intern (Social Media, SF/KR)](https://jobright.ai/jobs/info/6ac9564afcdafb60c6a4c03e?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
