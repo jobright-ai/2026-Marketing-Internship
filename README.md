@@ -49,6 +49,9 @@ For a complete list, click the following sortable link below:
 </a>
 </div>
 
+
+> Canada note: students looking specifically for Canadian marketing, business, communications, internship/co-op, new-grad, junior, and entry-level roles can also use [Hanzilla Jobs – Business & Marketing](https://jobs.hanzilla.co/business/), a free daily-updated Canadian student/recent-grad jobs board across business, finance, engineering, tech, sciences, arts, and related fields.
+
 ---
 ## Daily Job List  🌐 🧭 🏆
 
