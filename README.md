@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[League One Volleyball (LOVB)](http://www.lovb.com)** | **[Social Media Intern, LOVB Youth](https://jobright.ai/jobs/info/6acfb0a2c9f40bec907fd839?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 15 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2027 Management Trainee Intern - York](https://jobright.ai/jobs/info/6aab2e7476707040fb084810?utm_campaign=1065&utm_source=git)** | York, PA, United States | On Site | Oct 15 |
+| **[Avenue Z](https://www.avenuez.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6ad0026c2cc4e9d17e90baae?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 14 |
 | **[Premier Player HQ](https://powerpitchingandhitting.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ad06e73182a457110264e82?utm_campaign=1065&utm_source=git)** | Monroe, NJ, United States | On Site | Oct 14 |
 | **[Genesis Global Group](https://www.genesisglobalgrp.com/)** | **[Brand Ambassador Internship - Hire Entry](https://jobright.ai/jobs/info/6ad05b0052a37835d5e3fc36?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | On Site | Oct 14 |
 | **[GSC World Travel](https://www.gscworldtravel.com)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/6ad05710614121de7d947033?utm_campaign=1065&utm_source=git)** | Holly Springs, NC, United States | On Site | Oct 14 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Memphis](https://jobright.ai/jobs/info/6ad025c22cc4e9d17e90c37e?utm_campaign=1065&utm_source=git)** | Memphis, TN, United States | On Site | Oct 14 |
 | **[Tencent](https://www.tencent.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ad009be78d51ae69ce098d9?utm_campaign=1065&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 14 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Performance Coatings Strategic Marketing & Product Stewardship Intern Job Details / Lubrizol Corporation](https://jobright.ai/jobs/info/6ad025a012303667b98a2108?utm_campaign=1065&utm_source=git)** | Brecksville, OH, United States | On Site | Oct 14 |
-| **[Avenue Z](https://www.avenuez.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6ad0026c2cc4e9d17e90baae?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a6393b087cef057612c94ce?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 14 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Volunteerism Marketing & Operations-Remote](https://jobright.ai/jobs/info/6acfd76312303667b98a08e9?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 14 |
 | **[Amazon](https://amazon.com)** | **[Communications Assistant Summer Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc5b22cc4e9d17e90a585?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 14 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Net Revenue Optimization Intern, Summer 2027](https://jobright.ai/jobs/info/6acf9e15c9f40bec907fd2d8?utm_campaign=1065&utm_source=git)** | Orrville, OH, United States | Hybrid | Oct 14 |
 | **[6ix](https://6ix.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a9fc8e8dacf777321a959d9?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 14 |
 | **[Nacho Daddy](http://www.nachodaddy.com)** | **[Marketing Brand Ambassador](https://jobright.ai/jobs/info/6acfb17212303667b989fae1?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Oct 14 |
-| **[League One Volleyball (LOVB)](http://www.lovb.com)** | **[Social Media Intern, LOVB Youth](https://jobright.ai/jobs/info/6acfb0a2c9f40bec907fd839?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 14 |
 | **[TD](https://www.td.com)** | **[2027 Summer Internship Graduate Leadership Program- Marketing](https://jobright.ai/jobs/info/6a961f32cabc9f6703e1c3f2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 14 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2027 Communications - Social Media Intern](https://jobright.ai/jobs/info/6acfae8578d51ae69ce0766f?utm_campaign=1065&utm_source=git)** | Auburn Hills, MI, United States | On Site | Oct 14 |
 | **[AtriCure, Inc.](http://atricure.com)** | **[Digital Marketing Intern- Spring 2027](https://jobright.ai/jobs/info/6abd31880e027c0f3b393dc9?utm_campaign=1065&utm_source=git)** | Minnetonka, MN, United States | On Site | Oct 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mortenson](https://www.mortenson.com)** | **[Marketing Proposal Intern](https://jobright.ai/jobs/info/6a79fb7fab1385611f8fc9a2?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 14 |
 | ↳ | **[Marketing Intern - Minneapolis](https://jobright.ai/jobs/info/6a79fb62bb6ca93ae5619266?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 14 |
 | **[Second Harvest Food Bank of Central Florida](https://www.feedhopenow.org)** | **[EVENTS INTERNSHIP (SPRING 2027)](https://jobright.ai/jobs/info/6acfe00412303667b98a0ae6?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Oct 14 |
-| **[Workplace Safety & Prevention Services](https://www.wsps.ca)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6acf97952cc4e9d17e9095c0?utm_campaign=1065&utm_source=git)** | Ontario, Canada | Remote | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
