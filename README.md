@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tandem](https://tandem.space/)** | **[Content Marketing Intern - Tandem SF](https://jobright.ai/jobs/info/6ad13834256e49282e65389e?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 15 |
+| **[Lets face it](http://www.letsfaceit.net.au)** | **[AI Social Media & Micro-Mobility Growth Intern](https://jobright.ai/jobs/info/6a996b14ad752e2ad54ff6b6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284dccb96192a3684e648?utm_campaign=1065&utm_source=git)** | New York | On Site | Oct 15 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6ad15d603d3a5aa909b3a19e?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 15 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Intern - Industry Outreach](https://jobright.ai/jobs/info/6ad13ccbae21edea94fd4b06?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Oct 15 |
 | **[Montana Photonics & Quantum Alliance](https://www.mpqa.org)** | **[Program Marketing Intern](https://jobright.ai/jobs/info/6ad167a318608b6f36f83f27?utm_campaign=1065&utm_source=git)** | Bozeman, MT, United States | Remote | Oct 15 |
@@ -106,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Melotech](https://www.melotech.ai/)** | **[Growth Associate (Intern)](https://jobright.ai/jobs/info/6ad13abf256e49282e653a07?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Oct 15 |
 | **[AMBA](https://amba.info)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa991666d0edc2d91b0a117?utm_campaign=1065&utm_source=git)** | Urbandale, IA, United States | On Site | Oct 15 |
 | ↳ | **[Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6aa968ef6d0edc2d91b0987d?utm_campaign=1065&utm_source=git)** | Urbandale, IA, United States | On Site | Oct 15 |
-| **[Tandem](https://tandem.space/)** | **[Content Marketing Intern - Tandem SF](https://jobright.ai/jobs/info/6ad13834256e49282e65389e?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 15 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/6aac13fc636cddf7396f2139?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Oct 15 |
 | **[Textron](http://textron.com)** | **[2027 Events Intern](https://jobright.ai/jobs/info/6ad12cb83d3a5aa909b38760?utm_campaign=1065&utm_source=git)** | Augusta, Georgia, United States | On Site | Oct 15 |
 | **[Teamily AI](https://teamily.ai)** | **[Campus Growth Marketing Intern](https://jobright.ai/jobs/info/6ad1335a18608b6f36f823b4?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 15 |
@@ -139,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Calm Courage Co.](https://www.linkedin.com/company/112630118)** | **[Social Media Strategy & Organic Growth Intern](https://jobright.ai/jobs/info/6ad11c3d3d3a5aa909b37e96?utm_campaign=1065&utm_source=git)** | Canada | Remote | Oct 15 |
 | **[Planet Fitness](http://www.planetfitness.com/)** | **[Internal Communications Intern - Fall 2026](https://jobright.ai/jobs/info/6aac07c62e757fcb5c8b34c1?utm_campaign=1065&utm_source=git)** | Hampton, NH, United States | On Site | Oct 15 |
 | **[Fuser](https://fuser.studio)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ad1178a256e49282e6527b8?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | Hybrid | Oct 15 |
-| **[CoreVista Strategies](corevistastrategies.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6ad1177518608b6f36f815c1?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Oct 15 |
 | **[J/PR](http://jpublicrelations.com)** | **[Spring 2027 PR and Social Media Internship Program](https://jobright.ai/jobs/info/6abe9debd9621c5b28390554?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 15 |
 | **[Prophet](http://www.prophet.com)** | **[2027 Summer Associate - Richmond](https://jobright.ai/jobs/info/6ad11490256e49282e652377?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | On Site | Oct 15 |
 | **[Kenvue](https://www.kenvue.com)** | **[Associate Brand Manager Intern (8 months)](https://jobright.ai/jobs/info/6ab49fb86ee03b57e1d43949?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Energy Efficiency Business Fall Intern (CO or MN)](https://jobright.ai/jobs/info/6ad1075918608b6f36f80ce6?utm_campaign=1065&utm_source=git)** | Denver Metropolitan Area, United States | Hybrid | Oct 15 |
 | **[NorthRock Partners](https://www.northrockpartners.com/)** | **[Marketing & Brand Intern (Fall 2026–Summer 2027)](https://jobright.ai/jobs/info/6ad107063d3a5aa909b372c1?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 15 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Corporate Communications](https://jobright.ai/jobs/info/6ad1072b18608b6f36f80cce?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 15 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Revenue Growth Management Intern, Summer 2027](https://jobright.ai/jobs/info/6ad0eafe256e49282e650f52?utm_campaign=1065&utm_source=git)** | Orrville, OH, United States | Hybrid | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
