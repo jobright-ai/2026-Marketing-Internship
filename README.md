@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Children's Receiving Home of Sacramento](https://www.crhkids.org/)** | **[Fund Development & Communication Intern](https://jobright.ai/jobs/info/6a9a311c90a313642c654b34?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | Hybrid | Oct 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a879d2c4afae74a08349445?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
 | **[Lianna's Lens | Lianna Xiaokui Nakashima (Previously LXN Photography)](http://LXNPhotography.com/)** | **[Marketing Strategist + Project Manager Intern (Unpaid, Professional Development)](https://jobright.ai/jobs/info/6ad1bdad0b4cb0f33e58ee93?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 15 |
 | **[Insight FS](https://www.insightfs.com)** | **[Digital Media and Marketing Intern - New Century FS - Ames, IA Job Details / GROWMARK, Inc.](https://jobright.ai/jobs/info/6ad1b0ac71d49939edecc8f8?utm_campaign=1065&utm_source=git)** | Ames, IA, United States | On Site | Oct 15 |
 | ↳ | **[Marketing & Communications Intern - Evergreen FS - Bloomington, IL Job Details / GROWMARK, Inc.](https://jobright.ai/jobs/info/6ad1b05a53547a88ce9eacf8?utm_campaign=1065&utm_source=git)** | Bloomington, IL, United States | On Site | Oct 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Calm Courage Co.](https://www.linkedin.com/company/112630118)** | **[Social Media Strategy & Organic Growth Intern](https://jobright.ai/jobs/info/6ad11c3d3d3a5aa909b37e96?utm_campaign=1065&utm_source=git)** | Canada | Remote | Oct 15 |
 | **[Planet Fitness](http://www.planetfitness.com/)** | **[Internal Communications Intern - Fall 2026](https://jobright.ai/jobs/info/6aac07c62e757fcb5c8b34c1?utm_campaign=1065&utm_source=git)** | Hampton, NH, United States | On Site | Oct 15 |
 | **[J/PR](http://jpublicrelations.com)** | **[Spring 2027 PR and Social Media Internship Program](https://jobright.ai/jobs/info/6abe9debd9621c5b28390554?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 15 |
-| **[Prophet](http://www.prophet.com)** | **[2027 Summer Associate - Richmond](https://jobright.ai/jobs/info/6ad11490256e49282e652377?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | On Site | Oct 15 |
-| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Event Management Intern - Summer 2027](https://jobright.ai/jobs/info/6ad10ca7256e49282e6520f9?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
