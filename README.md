@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bobcat Company](https://www.bobcat.com)** | **[Marketing Student Experience - Spring 2027](https://jobright.ai/jobs/info/6a9a0e5f13883870605924bb?utm_campaign=1065&utm_source=git)** | West Fargo, ND, United States | On Site | Oct 16 |
+| ↳ | **[Marketing Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6a996f3f551435518ebee53e?utm_campaign=1065&utm_source=git)** | West Fargo, ND, United States | On Site | Oct 16 |
 | **[Children's Receiving Home of Sacramento](https://www.crhkids.org/)** | **[Fund Development & Communication Intern](https://jobright.ai/jobs/info/6a9a311c90a313642c654b34?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | Hybrid | Oct 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a879d2c4afae74a08349445?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
 | **[Lianna's Lens | Lianna Xiaokui Nakashima (Previously LXN Photography)](http://LXNPhotography.com/)** | **[Marketing Strategist + Project Manager Intern (Unpaid, Professional Development)](https://jobright.ai/jobs/info/6ad1bdad0b4cb0f33e58ee93?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 15 |
@@ -68,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Harborside Inc.](https://www.shopharborside.com)** | **[Marketing Paid Internship (Part-Time) 3-6 months Months ($17.75 per hour)](https://jobright.ai/jobs/info/6a627e63d5caab4af8bae57d?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Oct 15 |
 | **[EXPRESS](http://express.com)** | **[Employer Brand & Recruitment Marketing Summer Internship](https://jobright.ai/jobs/info/6ad129f818608b6f36f8204f?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Oct 15 |
 | **[Griffin Media](https://www.griffin.news)** | **[News On 6 Spring Marketing Intern](https://jobright.ai/jobs/info/6ad103d03d3a5aa909b370bd?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 15 |
-| ↳ | **[News 9 Spring Marketing Intern](https://jobright.ai/jobs/info/6ad102c018608b6f36f809c4?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 15 |
+| ↳ | **[News 9 Spring Marketing Intern](https://jobright.ai/jobs/info/6ad103dd18608b6f36f80abd?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 15 |
 | **[Texas Instruments](http://www.ti.com)** | **[Web Marketing Intern - User Experience Design](https://jobright.ai/jobs/info/6ad163c3a4f99fef8194437d?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Oct 15 |
 | **[HexArmor](http://hexarmor.com)** | **[Category Management Internship - Summer 2027](https://jobright.ai/jobs/info/6abf0e9e064da25272e04492?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 15 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Carnegie Mellon University](https://jobright.ai/jobs/info/6ad1895e90e54b6cff1a3445?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6ab42a24ef911c35dffa3b41?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI, United States | On Site | Oct 15 |
 | **[IBM](http://www.ibm.com)** | **[2027 Intern – Copywriter](https://jobright.ai/jobs/info/6ad11d823d3a5aa909b37f9a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 15 |
 | **[Calm Courage Co.](https://www.linkedin.com/company/112630118)** | **[Social Media Strategy & Organic Growth Intern](https://jobright.ai/jobs/info/6ad11c3d3d3a5aa909b37e96?utm_campaign=1065&utm_source=git)** | Canada | Remote | Oct 15 |
-| **[Planet Fitness](http://www.planetfitness.com/)** | **[Internal Communications Intern - Fall 2026](https://jobright.ai/jobs/info/6aac07c62e757fcb5c8b34c1?utm_campaign=1065&utm_source=git)** | Hampton, NH, United States | On Site | Oct 15 |
-| **[J/PR](http://jpublicrelations.com)** | **[Spring 2027 PR and Social Media Internship Program](https://jobright.ai/jobs/info/6abe9debd9621c5b28390554?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
