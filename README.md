@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Market Strategy and Engagement Internship](https://jobright.ai/jobs/info/6ab6f87262bb1fbd451dcbd7?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 17 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[Marketing Student Experience - Summer 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6ab8335262bb1fbd451debdd?utm_campaign=1065&utm_source=git)** | West Fargo, ND, United States | On Site | Oct 17 |
+| ↳ | **[Marketing Student Experience - Summer 2027](https://jobright.ai/jobs/info/6ab6a898d85922de20ce6085?utm_campaign=1065&utm_source=git)** | West Fargo, ND, United States | On Site | Oct 17 |
+| **[The Toro Company](https://www.toro.com.au/)** | **[Marketing Performance Analytics Intern - The Toro Company](https://jobright.ai/jobs/info/6ab400f164816213f2d96827?utm_campaign=1065&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 17 |
 | **[TikTok](https://www.tiktok.com)** | **[PCL Category Project Intern (TikTok Shop - Home & Kitchen - US Operation) - 2026 Start (BS) - 2027 Start](https://jobright.ai/jobs/info/6ad30cc5f04335fc70ed8664?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
 | **[Volo Sports](https://www.volosports.com)** | **[Sports Social Media Marketing Internship - Winter/Spring 2027](https://jobright.ai/jobs/info/6ad324f725289a0b3bf59d6e?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Oct 16 |
-| **[Inter Miami CF and Nu Stadium](https://www.intermiamicf.com)** | **[Intern, Foundation / Sprint Season](https://jobright.ai/jobs/info/6ad23a1c83ada13a9da03efa?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 16 |
-| ↳ | **[Intern, Business Intelligence / Sprint Season](https://jobright.ai/jobs/info/6ad25298f04335fc70ed4b4c?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 16 |
+| **[Inter Miami CF and Nu Stadium](https://www.intermiamicf.com)** | **[Intern, Business Intelligence / Sprint Season](https://jobright.ai/jobs/info/6ad25298f04335fc70ed4b4c?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 16 |
+| ↳ | **[Intern, Foundation / Sprint Season](https://jobright.ai/jobs/info/6ad23a1c83ada13a9da03efa?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 16 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/6ac085188ff3fb9b3bc7c455?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284dccb96192a3684e647?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a53e88b8a74e077472fa062?utm_campaign=1065&utm_source=git)** | Davie, FL, United States | On Site | Oct 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paradies Lagardère](https://www.paradieslagardere.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6ad24af1f04335fc70ed45e8?utm_campaign=1065&utm_source=git)** | Atlanta metropolitan area, United States | Hybrid | Oct 16 |
 | **[Daikin Austria](https://daikin.at)** | **[Marketing Intern, Summer 2027](https://jobright.ai/jobs/info/6ad3069ef04335fc70ed855a?utm_campaign=1065&utm_source=git)** | Waller, TX, United States | On Site | Oct 16 |
 | **[Shure](http://www.shure.com)** | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a989df811f73b6462c8fae5?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | Remote | Oct 16 |
-| **[IBM](http://www.ibm.com)** | **[2027 Intern – Copywriter](https://jobright.ai/jobs/info/6ad11d823d3a5aa909b37f9a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 16 |
-| **[CoreVista Strategies](corevistastrategies.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6ad27fd35290d4375c453652?utm_campaign=1065&utm_source=git)** | Louisville, KY, United States | On Site | Oct 16 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Partnership Marketing Intern](https://jobright.ai/jobs/info/6acd550eddd23cce28a11e29?utm_campaign=1065&utm_source=git)** | La Crosse, WI, United States | On Site | Oct 16 |
-| **[CJ Schwan's](http://cjschwans.com)** | **[Marketing Internship - Summer 2027](https://jobright.ai/jobs/info/6ab45d597bd08137133176e8?utm_campaign=1065&utm_source=git)** | Hopkins, MN, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
