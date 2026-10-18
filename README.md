@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vent Now](https://www.ventnow.ai/)** | **[Internship [Marketing]](https://jobright.ai/jobs/info/6ad400d3ebd52f378af8cf4b?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 17 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 17 |
 | **[Pomo](https://usepomo.xyz)** | **[Growth Marketer Intern, Content & Social](https://jobright.ai/jobs/info/6ad3e320ebd52f378af8c7a9?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 17 |
 | **[Electro](electrogum.com)** | **[Sorority Marketing & Campaigns Intern](https://jobright.ai/jobs/info/6ad3df59810010ec72f5ce0b?utm_campaign=1065&utm_source=git)** | Kansas, United States | Remote | Oct 17 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[Social Media Partnerships Intern](https://jobright.ai/jobs/info/6ad3d50f25289a0b3bf5b81f?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Remote | Oct 17 |
 | **[ejobs Finland](http://www.ejobs.fi/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ad3c84e810010ec72f5cb72?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 17 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Communications Intern Part-Time (Fall 2026)](https://jobright.ai/jobs/info/6a9b33e02cdc5958f53eb599?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 17 |
-| **[Skyne Beauty](www.skynebeauty.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6ad3bee3c4290cef1412fa11?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 17 |
 | **[Electro](electrogum.com)** | **[Sorority Community Intern](https://jobright.ai/jobs/info/6ad3bea083ada13a9da0a810?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | Remote | Oct 17 |
 | ↳ | **[Social Media & NIL Partnerships Intern](https://jobright.ai/jobs/info/6ad3be9febd52f378af8c3b9?utm_campaign=1065&utm_source=git)** | Newark, NJ, United States | Remote | Oct 17 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Market Access Strategy Intern](https://jobright.ai/jobs/info/6ad3d6c0810010ec72f5cce5?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 17 |
@@ -74,20 +74,20 @@ For a complete list, click the following sortable link below:
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Community & Content Intern](https://jobright.ai/jobs/info/6ad3b5ebc4290cef1412f83e?utm_campaign=1065&utm_source=git)** | Ada, Michigan, United States | Remote | Oct 17 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6ad3b38ff04335fc70ed9f1e?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 17 |
 | **[Black Diamond Networks](http://blackdiamondnet.com)** | **[Marketing  Internship](https://jobright.ai/jobs/info/6ad3adf2c4290cef1412f6dc?utm_campaign=1065&utm_source=git)** | Andover, MA, United States | On Site | Oct 17 |
-| **[State Farm Agent](https://www.pamaccardo.com)** | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5646b953b3962b910af106?utm_campaign=1065&utm_source=git)** | Vestal, NY, United States | On Site | Oct 17 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a59ca4e686b4755d1e11d45?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Oct 17 |
+| **[State Farm Agent](https://www.pamaccardo.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a59ca4e686b4755d1e11d45?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Oct 17 |
+| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5d32eb856af468ab0106af?utm_campaign=1065&utm_source=git)** | Jackson, GA, United States | On Site | Oct 17 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5c1953686b4755d1e1af17?utm_campaign=1065&utm_source=git)** | Clarkston, MI, United States | On Site | Oct 17 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a51af718d7d3e6cf1cc1071?utm_campaign=1065&utm_source=git)** | Garner, NC, United States | On Site | Oct 17 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5ddcdbf3674a0545d256ff?utm_campaign=1065&utm_source=git)** | Raytown, MO, United States | On Site | Oct 17 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53174f8576ec69c014e979?utm_campaign=1065&utm_source=git)** | Columbus, GA, United States | On Site | Oct 17 |
-| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5d32eb856af468ab0106af?utm_campaign=1065&utm_source=git)** | Jackson, GA, United States | On Site | Oct 17 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a51af718d7d3e6cf1cc1071?utm_campaign=1065&utm_source=git)** | Garner, NC, United States | On Site | Oct 17 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5c1953686b4755d1e1af17?utm_campaign=1065&utm_source=git)** | Clarkston, MI, United States | On Site | Oct 17 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6aa1781f500b01124c77cca9?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Oct 17 |
-| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6abaa346ee0b348be729a9b9?utm_campaign=1065&utm_source=git)** | Mason, OH, United States | On Site | Oct 17 |
-| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6abfea15372c01f6cd7297a9?utm_campaign=1065&utm_source=git)** | High Point, North Carolina, United States | On Site | Oct 17 |
-| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6aa17849ef23570cae243ffb?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Oct 17 |
-| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6ab4c62e3362fb9a8705f0a5?utm_campaign=1065&utm_source=git)** | Smyrna, Delaware, United States | On Site | Oct 17 |
-| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6aadacce3dbb1f8967ceef28?utm_campaign=1065&utm_source=git)** | IN-Indianapolis | On Site | Oct 17 |
+| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5646b953b3962b910af106?utm_campaign=1065&utm_source=git)** | Vestal, NY, United States | On Site | Oct 17 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6abaa3d4ee0b348be729a9f8?utm_campaign=1065&utm_source=git)** | Mason, OH, United States | On Site | Oct 17 |
+| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6aa1781f500b01124c77cca9?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Oct 17 |
 | ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6ab4b2a13362fb9a8705ef19?utm_campaign=1065&utm_source=git)** | Greenville, South Carolina, United States | On Site | Oct 17 |
+| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6ab4c62e3362fb9a8705f0a5?utm_campaign=1065&utm_source=git)** | Smyrna, Delaware, United States | On Site | Oct 17 |
+| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6aa177e13272060a8e3efe84?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Oct 17 |
+| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6abfea15372c01f6cd7297a9?utm_campaign=1065&utm_source=git)** | High Point, North Carolina, United States | On Site | Oct 17 |
+| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6aadacce3dbb1f8967ceef28?utm_campaign=1065&utm_source=git)** | IN-Indianapolis | On Site | Oct 17 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ad101033d3a5aa909b36e1e?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Oct 17 |
 | **[The IRONMAN Group](https://www.ironman.com/)** | **[Marketing Intern - North America](https://jobright.ai/jobs/info/6a94ec649864261ccd2a4b7e?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | On Site | Oct 17 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Development & Community Events-Remote Central, PA. (Blair and Cambria Counties)](https://jobright.ai/jobs/info/6ab6ded4d7fde2c08ec89e66?utm_campaign=1065&utm_source=git)** | Central Pennsylvania, United States | Remote | Oct 17 |
@@ -104,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Coordinator of Development & Community Events-Tampa Bay Area](https://jobright.ai/jobs/info/6ab6a5649d4843569fe4e935?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL, United States | Hybrid | Oct 17 |
 | **[Perry Homes](https://www.perryhomes.com)** | **[2027 Summer Internship - Marketing](https://jobright.ai/jobs/info/6a9ad5999c24314c35f95829?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | Hybrid | Oct 17 |
 | **[Victaulic](https://www.victaulic.com)** | **[Marketing Intern - Brampton, ON (On-site)](https://jobright.ai/jobs/info/6ab6db64d7fde2c08ec89ce7?utm_campaign=1065&utm_source=git)** | Brampton, ON, Canada | On Site | Oct 17 |
-| **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4423df3aa936e2cdb0801?utm_campaign=1065&utm_source=git)** | Georgia, United States | Hybrid | Oct 17 |
-| ↳ | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ad280485290d4375c453665?utm_campaign=1065&utm_source=git)** | Virginia, United States | Remote | Oct 17 |
+| **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ad280485290d4375c453665?utm_campaign=1065&utm_source=git)** | Virginia, United States | Remote | Oct 17 |
+| ↳ | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4423df3aa936e2cdb0801?utm_campaign=1065&utm_source=git)** | Georgia, United States | Hybrid | Oct 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a701a34f5953013637f7276?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 17 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a999003551435518ebef262?utm_campaign=1065&utm_source=git)** | De Soto, KS, United States | On Site | Oct 17 |
 | **[Alliance Animal Health](https://allianceanimal.com/)** | **[Veterinary Student Ambassador - Ross University](https://jobright.ai/jobs/info/6a6a56ee19d76667a2abf0ff?utm_campaign=1065&utm_source=git)** | Harrison, NY, United States | On Site | Oct 17 |
