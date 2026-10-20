@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KeyBank](http://www.key.com/personal/index.jsp?key=com)** | **[2027 Summer Real Estate Capital Internship - Atlanta ICG](https://jobright.ai/jobs/info/6ad6e22854bbabbab06fba5c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 19 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Market Analysis and Certification](https://jobright.ai/jobs/info/6ad6e7bb52aa6152bb698f17?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 19 |
 | **[F&W Style](https://www.fwstyle.com)** | **[Fashion Marketing/Social Media Intern](https://jobright.ai/jobs/info/6ad6dcd9950ef68d5183d2bc?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 19 |
-| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6ad6d75954bbabbab06fb7ac?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Oct 19 |
 | **[Amazon Investor Coalition](https://amazoninvestor.org)** | **[Rainforest Markets Intern](https://jobright.ai/jobs/info/6ad6d74b950ef68d5183d169?utm_campaign=1065&utm_source=git)** | Rainforest East, FL, United States | On Site | Oct 19 |
-| **[dataing](https://www.dataing.io/)** | **[Part-time Marketing Intern – Content & Strategy](https://jobright.ai/jobs/info/6ad6d4ad3dc655658d8e9418?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Electro](electrogum.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ad6d2ec54bbabbab06fb5f7?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Oct 19 |
 | **[Gift](https://www.shine.gift)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ad6d0a967bec1d0d9c7214d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 19 |
 | **[Insights Prep](https://insightsprep.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ad6cf0d67bec1d0d9c7208d?utm_campaign=1065&utm_source=git)** | Lebanon, IN, United States | Remote | Oct 19 |
