@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VendX Global Corporation](https://vendxglobal.net)** | **[VendX Marketing Intern (Unpaid — School/College Credit Available)](https://jobright.ai/jobs/info/6ad7233752aa6152bb69a019?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
+| **[Flighthouse Media](https://www.flighthousemedia.com)** | **[Music Marketing Intern - Spring 2027](https://jobright.ai/jobs/info/6ac976f8af788e6ad3b5b923?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 20 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 20 |
 | **[National Basketball Association (NBA)](http://www.nba.com)** | **[Undergraduate - Communications, Marketing and PR Intern](https://jobright.ai/jobs/info/6ad6819c3dc655658d8e6da9?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney  Public Relations/Communications Intern, Spring 2027](https://jobright.ai/jobs/info/6ad652e667bec1d0d9c6d835?utm_campaign=1065&utm_source=git)** | Celebration, FL, United States | On Site | Oct 19 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[SKDK](http://skdknick.com)** | **[Spring 2027 Jasper Internship](https://jobright.ai/jobs/info/6ad666893dc655658d8e59e4?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 19 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Management Trainee Intern Downtown Miami](https://jobright.ai/jobs/info/6ac3eb58064da25272e101f5?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 19 |
 | **[Event Network, LLC](https://www.eventnetwork.com)** | **[Culture & Communication Intern](https://jobright.ai/jobs/info/6ad67f2ae4b94611ab83f619?utm_campaign=1065&utm_source=git)** | Park City, UT, United States | On Site | Oct 19 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6aadf9d80ebc8fb2313ebd66?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Oct 19 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6aadf9f02e757fcb5c8babb0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 19 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6aadf9f02e757fcb5c8babb0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 19 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6aadf9d80ebc8fb2313ebd66?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Oct 19 |
 | **[Cub](https://www.cub.com)** | **[Marketing Intern - Hybrid in Edina, MN](https://jobright.ai/jobs/info/6ad6a99e950ef68d5183c21a?utm_campaign=1065&utm_source=git)** | Stillwater, MN, United States | Hybrid | Oct 19 |
 | **[Lindt & Sprüngli USA](https://www.lindtusa.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6ad684a2e4b94611ab83fbb3?utm_campaign=1065&utm_source=git)** | Mason, OH, United States | On Site | Oct 19 |
 | **[Net Conversion](http://www.net-conversion.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6acfcc21fe7a9bd5a6b9a10a?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Oct 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EmeraNova](https://www.biolabholdings.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6ad6692954bbabbab06f7e6d?utm_campaign=1065&utm_source=git)** | Mesa, AZ, United States | On Site | Oct 19 |
 | **[DECIEM | THE ABNORMAL BEAUTY COMPANY](http://deciem.com)** | **[CRM Intern](https://jobright.ai/jobs/info/6ad668213dc655658d8e5b3c?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 19 |
 | **[Blackacre Management](https://www.blackacremgt.com)** | **[Social Media Manager & Content Creator (Paid Internship / Part-Time / Full-Time)](https://jobright.ai/jobs/info/6ad664e152aa6152bb694d29?utm_campaign=1065&utm_source=git)** | West Bloomfield Township, MI, United States | On Site | Oct 19 |
-| **[ACT Group](https://www.actgroup.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6ad664323dc655658d8e5837?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
-| **[pamella roland](https://pamellaroland.com/)** | **[Public Relations & Social Media Intern](https://jobright.ai/jobs/info/6ad6629167bec1d0d9c6e53a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
