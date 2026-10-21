@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Events Intern](https://jobright.ai/jobs/info/6aa0536a5b2d5633ef3bde68?utm_campaign=1065&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
+| ↳ | **[NA Field Marketing - Ecosystem Marketing Intern](https://jobright.ai/jobs/info/6aa053c0dbc0e60e37e0cedf?utm_campaign=1065&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
+| **[Prenetics](https://www.prenetics.com)** | **[Event & Community Intern – IM8 (Miami based)](https://jobright.ai/jobs/info/6ad8777ce4b94611ab84d400?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 21 |
+| **[District of Nipissing Social Services Administration Board](https://www.dnssab.ca/)** | **[Communications Intern](https://jobright.ai/jobs/info/6ad8748d3dc655658d8f47fa?utm_campaign=1065&utm_source=git)** | North Bay, ON, Canada | On Site | Oct 21 |
 | **[Active Minds, Inc.](http://www.activeminds.org)** | **[Spring 2027 Marketing Strategy Intern](https://jobright.ai/jobs/info/6ad7ea9a3dc655658d8f1905?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 21 |
 | **[Prenetics](https://www.prenetics.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6ad863493dc655658d8f454f?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 21 |
 | **[Flick](https://flick.art/)** | **[Reddit Growth Intern](https://jobright.ai/jobs/info/6ad85ba9e4b94611ab84ce80?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Life Group](https://www.nationallife.com)** | **[Affiliated Distribution Strategy & Marketing Intern– Summer 2027](https://jobright.ai/jobs/info/6aa034ecdbc0e60e37e0bece?utm_campaign=1065&utm_source=git)** | Montpelier, VT, United States | On Site | Oct 20 |
 | ↳ | **[Affiliated Distribution Strategy & Marketing Intern – Summer 2027](https://jobright.ai/jobs/info/6aa036613b5aa83237b07738?utm_campaign=1065&utm_source=git)** | Montpelier, VT, United States | On Site | Oct 20 |
 | **[The Swift Club](https://theswiftclub.com)** | **[Social Media & Digital Marketing Associate (Intern)](https://jobright.ai/jobs/info/6ad7a68f52aa6152bb69de44?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Communications Intern Winter 2027 - UNPAID](https://jobright.ai/jobs/info/6ad7a52c950ef68d51842455?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 20 |
-| ↳ | **[Digital Communications Intern Winter 2027 - UNPAID](https://jobright.ai/jobs/info/6ad7a526950ef68d5184244c?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 20 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual Spanish Marketing Intern](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b8c6?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Oct 20 |
-| **[McGough](http://www.mcgough.com)** | **[Internship/Co-op, Communications](https://jobright.ai/jobs/info/6ac762f733afc44bca0eb7f7?utm_campaign=1065&utm_source=git)** | Roseville, MN, United States | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
