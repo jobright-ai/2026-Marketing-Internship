@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advantage Solutions](https://advantagesolutions.net)** | **[Experiential Marketing & Brand Activation Intern-Atlanta](https://jobright.ai/jobs/info/6ad84e23950ef68d51847d62?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 20 |
+| ↳ | **[Experiential Marketing & Brand Activation Intern-Cincinnati](https://jobright.ai/jobs/info/6ad84ce867bec1d0d9c7cfa7?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 20 |
+| **[viveEV](https://viveEV.com)** | **[Marketing Intern (Social Media & Digital Marketing)](https://jobright.ai/jobs/info/6a560d96efb06a45240d3832?utm_campaign=1065&utm_source=git)** | Dallas–Fort Worth Metroplex, United States | On Site | Oct 20 |
+| **[selfpublishing.com](https://selfpublishing.com)** | **[Social Media Internship Program (Summer 2027)](https://jobright.ai/jobs/info/6ad7f18754bbabbab070439f?utm_campaign=1065&utm_source=git)** | West Lake Hills, TX, United States | On Site | Oct 20 |
+| **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a56bd8553b3962b910b26ff?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 20 |
 | **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6ad83a7452aa6152bb6a2e00?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Oct 20 |
 | **[dataing](https://www.dataing.io/)** | **[Part-time Marketing Intern – Content & Strategy](https://jobright.ai/jobs/info/6ad8340e950ef68d518473fc?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
 | **[youbloom](https://youbloom.com)** | **[Artist Growth Intern – Live Music Platform](https://jobright.ai/jobs/info/6ad831d867bec1d0d9c7c5c1?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
@@ -71,10 +76,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Merchandising Intern (Prairie Du Chien, WI)](https://jobright.ai/jobs/info/6ad80a43e4b94611ab84b406?utm_campaign=1065&utm_source=git)** | Prairie du Chien, WI, United States | On Site | Oct 20 |
 | ↳ | **[Merchandising Intern (Huntley, MT)](https://jobright.ai/jobs/info/6ad80a4e52aa6152bb6a1e30?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
 | ↳ | **[Merchandising Intern (Terra Haute, IN)](https://jobright.ai/jobs/info/6ad80a5be4b94611ab84b418?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
-| ↳ | **[Merchandising Intern (Creston, IA)](https://jobright.ai/jobs/info/6ad80a51950ef68d518465ac?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
 | ↳ | **[Merchandising Intern (Henderson, KY)](https://jobright.ai/jobs/info/6ad80a51950ef68d518465ab?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
-| ↳ | **[Merchandising Intern (Fairmont City, IL)](https://jobright.ai/jobs/info/6ad80b0ae4b94611ab84b4a2?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
+| ↳ | **[Merchandising Intern (Creston, IA)](https://jobright.ai/jobs/info/6ad80a51950ef68d518465ac?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
 | ↳ | **[Merchandising Intern (Rock Port, MO)](https://jobright.ai/jobs/info/6ad80a523dc655658d8f2903?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
+| ↳ | **[Merchandising Intern (Fairmont City, IL)](https://jobright.ai/jobs/info/6ad80b0ae4b94611ab84b4a2?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
 | ↳ | **[Merchandising Intern (Morristown, IN)](https://jobright.ai/jobs/info/6ad80a5d3dc655658d8f290f?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern - Miami](https://jobright.ai/jobs/info/6ad813c854bbabbab07051b2?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 20 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / University of Pittsburgh - Greensburg](https://jobright.ai/jobs/info/6ad8132e950ef68d518469cb?utm_campaign=1065&utm_source=git)** | Greensburg, Pennsylvania, United States | On Site | Oct 20 |
@@ -88,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Transit Communications Intern (PT Internship)](https://jobright.ai/jobs/info/6ad7eb9de4b94611ab84a50d?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 20 |
 | **[Mativ](https://mativ.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ad7fa0a950ef68d51845f56?utm_campaign=1065&utm_source=git)** | Alpharetta, GA, United States | On Site | Oct 20 |
 | **[genni](http://genni.com)** | **[Spring 2027: Outreach Intern](https://jobright.ai/jobs/info/6ad7f7873dc655658d8f21d8?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Oct 20 |
-| **[selfpublishing.com](https://selfpublishing.com)** | **[Social Media Internship Program (Summer 2027)](https://jobright.ai/jobs/info/6ad7f18754bbabbab070439f?utm_campaign=1065&utm_source=git)** | West Lake Hills, TX, United States | On Site | Oct 20 |
 | **[KQED](http://www.kqed.org)** | **[Education Marketing Intern](https://jobright.ai/jobs/info/6ac5739b372c01f6cd739ce7?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 20 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Oct 20 |
 | **[Last Crumb](https://lastcrumb.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ad7eb7352aa6152bb6a0f1d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2027 - Communications/Media Intern - Citizens Against Government Waste](https://jobright.ai/jobs/info/6ad79fec67bec1d0d9c7727a?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Oct 20 |
 | **[TN Voices](https://www.tnvoices.org)** | **[Communications and Development Intern](https://jobright.ai/jobs/info/6ad79e643dc655658d8ee1ea?utm_campaign=1065&utm_source=git)** | Goodlettsville, TN, United States | Hybrid | Oct 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern - Summer 2027](https://jobright.ai/jobs/info/6ab28f2c30340229a322e0d3?utm_campaign=1065&utm_source=git)** | Kitchener, ON, Canada | On Site | Oct 20 |
-| **[Northmarq](http://www.northmarq.com)** | **[Communications and Public Relations Intern, Summer 2027](https://jobright.ai/jobs/info/6aa185a13272060a8e3f0261?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 20 |
-| **[GBH](http://www.wgbh.org/)** | **[Frontline Marketing and Communications Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8bb7680c80c8753bd7fd?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 20 |
-| **[Spectrum](https://www.spectrum.com)** | **[Newhouse LA Study Away Internship, YouTube Channel — Spectrum News](https://jobright.ai/jobs/info/6ad79505950ef68d51841783?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 20 |
-| **[The Child Advocacy Center of Greater Rochester](https://www.cacgroc.org)** | **[Development & Marketing Intern](https://jobright.ai/jobs/info/6ad7de7354bbabbab07034ae?utm_campaign=1065&utm_source=git)** | Rochester, NY, United States | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
