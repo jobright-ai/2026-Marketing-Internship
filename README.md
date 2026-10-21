@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6ad83a7452aa6152bb6a2e00?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Oct 20 |
+| **[dataing](https://www.dataing.io/)** | **[Part-time Marketing Intern – Content & Strategy](https://jobright.ai/jobs/info/6ad8340e950ef68d518473fc?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
+| **[youbloom](https://youbloom.com)** | **[Artist Growth Intern – Live Music Platform](https://jobright.ai/jobs/info/6ad831d867bec1d0d9c7c5c1?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
+| **[SAS](http://www.sas.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6ad830e3950ef68d51847326?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Matriosh](Matriosh.com)** | **[Marketing & Growth Intern / Remote / Unpaid Internship](https://jobright.ai/jobs/info/6ad824853dc655658d8f32ff?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Oct 20 |
 | **[Harris County–Houston Sports Authority](https://www.houstonsports.org/)** | **[Events Intern - Spring 2027](https://jobright.ai/jobs/info/6ad8213d3dc655658d8f31ff?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Oct 20 |
 | **[Stratagem One](stratagemone.com)** | **[Beauty Marketing Intern](https://jobright.ai/jobs/info/6ad81f6d54bbabbab070558d?utm_campaign=1065&utm_source=git)** | Ada, Michigan, United States | On Site | Oct 20 |
@@ -67,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Merchandising Intern (Prairie Du Chien, WI)](https://jobright.ai/jobs/info/6ad80a43e4b94611ab84b406?utm_campaign=1065&utm_source=git)** | Prairie du Chien, WI, United States | On Site | Oct 20 |
 | ↳ | **[Merchandising Intern (Huntley, MT)](https://jobright.ai/jobs/info/6ad80a4e52aa6152bb6a1e30?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
 | ↳ | **[Merchandising Intern (Terra Haute, IN)](https://jobright.ai/jobs/info/6ad80a5be4b94611ab84b418?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
-| ↳ | **[Merchandising Intern (Henderson, KY)](https://jobright.ai/jobs/info/6ad80a51950ef68d518465ab?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
 | ↳ | **[Merchandising Intern (Creston, IA)](https://jobright.ai/jobs/info/6ad80a51950ef68d518465ac?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
+| ↳ | **[Merchandising Intern (Henderson, KY)](https://jobright.ai/jobs/info/6ad80a51950ef68d518465ab?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
 | ↳ | **[Merchandising Intern (Fairmont City, IL)](https://jobright.ai/jobs/info/6ad80b0ae4b94611ab84b4a2?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
 | ↳ | **[Merchandising Intern (Rock Port, MO)](https://jobright.ai/jobs/info/6ad80a523dc655658d8f2903?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
 | ↳ | **[Merchandising Intern (Morristown, IN)](https://jobright.ai/jobs/info/6ad80a5d3dc655658d8f290f?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Oct 20 |
@@ -92,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Active Minds, Inc.](http://www.activeminds.org)** | **[Spring 2027 Marketing Strategy Intern](https://jobright.ai/jobs/info/6ad7ea9a3dc655658d8f1905?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Operations Intern (2027 Semester 1) - Generation H](https://jobright.ai/jobs/info/6ad7b27ce4b94611ab847c0e?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Oct 20 |
 | **[Amazon](https://amazon.com)** | **[Creative Marketing Intern – Summer 2027](https://jobright.ai/jobs/info/6ad7aed9950ef68d51842b2e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 20 |
+| **[Feather & Blade](https://linktr.ee/featherandblade)** | **[Social Media Marketing Intern Spring 2027](https://jobright.ai/jobs/info/6ad83c4f67bec1d0d9c7c8ca?utm_campaign=1065&utm_source=git)** | Kentucky, United States | Remote | Oct 20 |
 | **[Wasserman](https://the.team/)** | **[Spring 2027 Internship - Athlete Exchange Organic Content](https://jobright.ai/jobs/info/6ad7d93452aa6152bb6a01f1?utm_campaign=1065&utm_source=git)** | Larkspur, CA, United States | On Site | Oct 20 |
 | ↳ | **[Spring 2027 Internship - Athlete Exchange](https://jobright.ai/jobs/info/6ad7d93452aa6152bb6a01f2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 20 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/6ad7810167bec1d0d9c75d41?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[Frontline Marketing and Communications Internship - Spring 2027](https://jobright.ai/jobs/info/6ace8bb7680c80c8753bd7fd?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 20 |
 | **[Spectrum](https://www.spectrum.com)** | **[Newhouse LA Study Away Internship, YouTube Channel — Spectrum News](https://jobright.ai/jobs/info/6ad79505950ef68d51841783?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 20 |
 | **[The Child Advocacy Center of Greater Rochester](https://www.cacgroc.org)** | **[Development & Marketing Intern](https://jobright.ai/jobs/info/6ad7de7354bbabbab07034ae?utm_campaign=1065&utm_source=git)** | Rochester, NY, United States | On Site | Oct 20 |
-| **[Rural King](https://www.ruralking.com)** | **[Internship - eCommerce](https://jobright.ai/jobs/info/6ad7917552aa6152bb69cc66?utm_campaign=1065&utm_source=git)** | Mattoon, IL, United States | On Site | Oct 20 |
-| **[MSU Federal Credit Union](https://www.msufcu.org)** | **[Community Engagement Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/6acf92cb78d51ae69ce06cce?utm_campaign=1065&utm_source=git)** | East Lansing, MI, United States | On Site | Oct 20 |
-| **[Aki Lashes](https://www.akilashes.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ad790693dc655658d8ed6d5?utm_campaign=1065&utm_source=git)** | Torrance, CA, United States | On Site | Oct 20 |
-| **[Valmark Financial Group](http://valmarkfg.com)** | **[Marketing Data Management Intern](https://jobright.ai/jobs/info/6a9ad235d5ff1f3f1c39b5e4?utm_campaign=1065&utm_source=git)** | Akron, OH, United States | On Site | Oct 20 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, CX Marketing (Winter 2027)](https://jobright.ai/jobs/info/6ababc23ee0b348be729b2a7?utm_campaign=1065&utm_source=git)** | Dorval, QC, Canada | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
