@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Active Minds, Inc.](http://www.activeminds.org)** | **[Spring 2027 Marketing Strategy Intern](https://jobright.ai/jobs/info/6ad7ea9a3dc655658d8f1905?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 21 |
+| **[Prenetics](https://www.prenetics.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6ad863493dc655658d8f454f?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 21 |
 | **[Flick](https://flick.art/)** | **[Reddit Growth Intern](https://jobright.ai/jobs/info/6ad85ba9e4b94611ab84ce80?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Three Little Pigs Investment Services](www.tlp-management.com)** | **[Social Media & Content Marketing Intern](https://jobright.ai/jobs/info/6ad856e0950ef68d51847ec7?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | On Site | Oct 20 |
 | **[Highwire](https://www.teamhighwire.com)** | **[Public Relations Intern (Post-Graduate)](https://jobright.ai/jobs/info/6a41621d1afc66714d3cabc8?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 20 |
@@ -100,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Oct 20 |
 | **[Last Crumb](https://lastcrumb.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ad7eb7352aa6152bb6a0f1d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 20 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/6ad7ead0950ef68d51845606?utm_campaign=1065&utm_source=git)** | Orem, UT, United States | On Site | Oct 20 |
-| **[Active Minds, Inc.](http://www.activeminds.org)** | **[Spring 2027 Marketing Strategy Intern](https://jobright.ai/jobs/info/6ad7ea9a3dc655658d8f1905?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Operations Intern (2027 Semester 1) - Generation H](https://jobright.ai/jobs/info/6ad7b27ce4b94611ab847c0e?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Oct 20 |
 | **[Amazon](https://amazon.com)** | **[Creative Marketing Intern – Summer 2027](https://jobright.ai/jobs/info/6ad7aed9950ef68d51842b2e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 20 |
 | **[Feather & Blade](https://linktr.ee/featherandblade)** | **[Social Media Marketing Intern Spring 2027](https://jobright.ai/jobs/info/6ad83c4f67bec1d0d9c7c8ca?utm_campaign=1065&utm_source=git)** | Kentucky, United States | Remote | Oct 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Communications Intern Winter 2027 - UNPAID](https://jobright.ai/jobs/info/6ad7a526950ef68d5184244c?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 20 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual Spanish Marketing Intern](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b8c6?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Oct 20 |
 | **[McGough](http://www.mcgough.com)** | **[Internship/Co-op, Communications](https://jobright.ai/jobs/info/6ac762f733afc44bca0eb7f7?utm_campaign=1065&utm_source=git)** | Roseville, MN, United States | Hybrid | Oct 20 |
-| **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Marketing Intern Job Details / Aptar Group](https://jobright.ai/jobs/info/6ad7a1323dc655658d8ee431?utm_campaign=1065&utm_source=git)** | Cary, IL, United States | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
