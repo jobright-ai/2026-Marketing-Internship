@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Temple Terrace](https://www.templeterrace.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6adc5c02c5c64fa3d9cb364a?utm_campaign=1065&utm_source=git)** | Greater Tampa Bay Area, United States | On Site | Oct 24 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Market Intelligence Summer 2027 Internship (Euclid, OH) Job Details / Lincoln Electric](https://jobright.ai/jobs/info/6adc3ce70a4cc7090f976a1a?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 23 |
 | ↳ | **[Marketing Communications & Campaign Summer 2027 Internship (Euclid, OH) Job Details / Lincoln Electric](https://jobright.ai/jobs/info/6adc3c8a5dc7953215a36570?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | Hybrid | Oct 23 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Customer Loyalty Intern (Summer 2027) Job Details / Loves Travel Stops & Country Store](https://jobright.ai/jobs/info/6adc3a575dc7953215a364eb?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 23 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Communications, Marketing & Corporate Responsibility Summer Internship Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6acaa3f0d113c967e3c77f17?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 23 |
 | **[FerskTech](https://fersktech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a55704da96a42cfd95430?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Internal Communications Specialist Intern](https://jobright.ai/jobs/info/6ad652dae4b94611ab83d551?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | Hybrid | Oct 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a82c73a1081a745e970b6eb?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Oct 23 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Oct 23 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4c46a8cabdc1ff62b2?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Oct 23 |
@@ -108,7 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Markets Intern/Co-op](https://jobright.ai/jobs/info/6adbacb6c5c64fa3d9cb0a36?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
 | **[Trinnex](https://www.trinnex.io)** | **[Bachelors - Marketing Co-Op (Spring 2027)](https://jobright.ai/jobs/info/6adbd8b69e3e874dbfba25ed?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 23 |
 | **[CHAO.S PR](chaosprny.com)** | **[PR Event & Project Intern](https://jobright.ai/jobs/info/6adbd6e60a4cc7090f975533?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Oct 23 |
-| **[Encompass Health](http://www.encompasshealth.com/)** | **[Communications Specialist Intern](https://jobright.ai/jobs/info/6adbd36b9e3e874dbfba24e9?utm_campaign=1065&utm_source=git)** | Land O' Lakes, FL, United States | On Site | Oct 23 |
+| **[Encompass Health](http://www.encompasshealth.com/)** | **[Communications Specialist Intern](https://jobright.ai/jobs/info/6adbd36b46a8cabdc1ff54fe?utm_campaign=1065&utm_source=git)** | Land O' Lakes, FL, United States | On Site | Oct 23 |
 | **[goodr](https://goodr.com)** | **[Copy Intern](https://jobright.ai/jobs/info/6adb9ee99e3e874dbfba0e87?utm_campaign=1065&utm_source=git)** | Inglewood, CA, United States | On Site | Oct 23 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Communications Specialist Intern](https://jobright.ai/jobs/info/6adbced05dc7953215a34f71?utm_campaign=1065&utm_source=git)** | Land O' Lakes, FL, United States | On Site | Oct 23 |
 | **[TGW Logistics](http://www.tgw-group.com)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/6adbae8a0a4cc7090f97439d?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 23 |
@@ -144,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Digital Marketing Admin - Intern (Unpaid)](https://jobright.ai/jobs/info/6a4cf57bd27b2c4dda9b59ab?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Oct 23 |
 | **[val's services](https://www.linkedin.com/company/108859510)** | **[Intern - Market Research & Brand Strategy - Summer 2027](https://jobright.ai/jobs/info/6adbc8d89e3e874dbfba1bb6?utm_campaign=1065&utm_source=git)** | York, PA, United States | On Site | Oct 23 |
 | **[Kiewit](http://www.kiewit.com)** | **[Communication Coordinator Co-op - Winter 2027 (8 months)](https://jobright.ai/jobs/info/6aa3d605f7baf881567cb8d6?utm_campaign=1065&utm_source=git)** | Oshawa, ON, Canada | On Site | Oct 23 |
-| **[Avient Corporation](https://www.avient.com)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6a85feed4afae74a08342a78?utm_campaign=1065&utm_source=git)** | Avon Lake, OH, United States | On Site | Oct 23 |
+| **[Avient Corporation](https://www.avient.com)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6a86061e2f4f0014cae27982?utm_campaign=1065&utm_source=git)** | Avon Lake, OH, United States | On Site | Oct 23 |
 | **[Kiewit](http://www.kiewit.com)** | **[Communication Coordinator Co-op - Winter 2027 (8 months)](https://jobright.ai/jobs/info/6aa3cff29b7684dd0b92df29?utm_campaign=1065&utm_source=git)** | Clarington, ON, Canada | On Site | Oct 23 |
 | **[Type One Energy](https://www.typeoneenergy.com)** | **[Summer Internship - Marketing & Communications](https://jobright.ai/jobs/info/6ad8e798e4b94611ab850380?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Oct 23 |
 | **[ITW](http://www.itw.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6adb93f5c5c64fa3d9cb024c?utm_campaign=1065&utm_source=git)** | Danvers, MA, United States | On Site | Oct 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://www.ong.ohio.gov)** | **[College Intern Communications - Spring 2027](https://jobright.ai/jobs/info/6ada339854bbabbab0713786?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Oct 23 |
 | **[Principal Chile](https://www.principal.cl/)** | **[Intern - Marketing (User Experience)](https://jobright.ai/jobs/info/6adb96ebc5c64fa3d9cb033d?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 23 |
 | **[CAPITAL Services](http://capitalsvcs.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6adb9591c5c64fa3d9cb02e2?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 23 |
-| **[Principal Global Services](https://www.principal.com/)** | **[Intern - Marketing (User Experience)](https://jobright.ai/jobs/info/6adb9412c5c64fa3d9cb0260?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 23 |
-| **[Principal México](https://www.principal.com.mx)** | **[Intern - Marketing (User Experience)](https://jobright.ai/jobs/info/6adb9379c5c64fa3d9cb0230?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
