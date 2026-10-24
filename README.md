@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Internship Summer 2027 (Minnesota)) Job Details / Boston Scientific](https://jobright.ai/jobs/info/6add1c7e0a4cc7090f9791ea?utm_campaign=1065&utm_source=git)** | Maple Grove, MN, United States | Hybrid | Oct 24 |
+| **[GY Properties](https://www.gy-properties.com/)** | **[Event Planner Intern (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a79ad7c67a1ad0bc53cf8c9?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 24 |
+| **[Arizona Commerce Authority](http://www.azcommerce.com/)** | **[FY'27 Winter-Spring Internship: Digital Media](https://jobright.ai/jobs/info/6add1a5546a8cabdc1ff9200?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 24 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Social Media Intern (Volunteer)](https://jobright.ai/jobs/info/6add17d49e3e874dbfba5fee?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Vent Now](https://www.ventnow.ai/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6add16dac5c64fa3d9cb5757?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Electro](electrogum.com)** | **[Social Media & Athlete Marketing Intern](https://jobright.ai/jobs/info/6add12990a4cc7090f978ff4?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | Remote | Oct 24 |
 | **[NOX METALS](https://noxmetals.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/6acc0762a56e5406e57bcf3d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 24 |
@@ -65,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Enerfab](http://enerfab.com)** | **[Marketing/Sales - Spring 2027](https://jobright.ai/jobs/info/6abff869d9621c5b283958d3?utm_campaign=1065&utm_source=git)** | Blue Ash, OH, United States | On Site | Oct 24 |
 | **[Pulchritude® Fashion](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/6adcfa419e3e874dbfba5b5a?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 24 |
 | **[Cboe Global Markets](https://fx.cboe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac03f4e4ac55253f5d685d7?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Oct 24 |
-| **[SpartanNash](https://www.spartannash.com/)** | **[IS Internship - IT Ecommerce & Marketing Developer](https://jobright.ai/jobs/info/6ac0376e8ff3fb9b3bc7b65a?utm_campaign=1065&utm_source=git)** | Byron Center, MI, United States | Remote | Oct 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Internship Summer 2027 (Minnesota))](https://jobright.ai/jobs/info/6adcd17e46a8cabdc1ff84df?utm_campaign=1065&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Oct 24 |
 | **[Electro](electrogum.com)** | **[Social Media Partnerships Intern](https://jobright.ai/jobs/info/6adcf3555dc7953215a38594?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Oct 24 |
 | **[Enerfab](http://enerfab.com)** | **[Marketing/Sales - Summer 2027](https://jobright.ai/jobs/info/6abff8748ff3fb9b3bc79e80?utm_campaign=1065&utm_source=git)** | Blue Ash, OH, United States | On Site | Oct 24 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[2027 Intern – Junior Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6ad26e3425289a0b3bf56b58?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 24 |
 | **[Ibotta](https://home.ibotta.com)** | **[D2C Marketing Intern](https://jobright.ai/jobs/info/6aa4310af3aa936e2cdb02bb?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 24 |
 | **[Electro](electrogum.com)** | **[Social Media & Influencer Relations Intern](https://jobright.ai/jobs/info/6adcd01e9e3e874dbfba53e1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 24 |
+| **[Legrand](https://www.legrand.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6ad9479454bbabbab070e8e5?utm_campaign=1065&utm_source=git)** | West Hartford, CT, United States | Hybrid | Oct 24 |
 | **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Brand Management Intern](https://jobright.ai/jobs/info/6aaa069809ae03adcace0cbd?utm_campaign=1065&utm_source=git)** | Lakeville, MA, United States | On Site | Oct 24 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Development & Operations-Orange County, CA](https://jobright.ai/jobs/info/6abfc84b0e027c0f3b39de33?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 24 |
 | **[Weissman](https://www.weissmans.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6aa991f6eff87f571fc9a348?utm_campaign=1065&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KHAITE](https://khaite.com/)** | **[Merchandising Intern, Spring 2027](https://jobright.ai/jobs/info/6ad68307950ef68d5183abd7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 23 |
 | **[CHAO.S PR](chaosprny.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6adbd9480a4cc7090f9755ac?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Oct 23 |
 | **[TD](https://www.td.com)** | **[Global Markets Intern/Co-op](https://jobright.ai/jobs/info/6adbacb6c5c64fa3d9cb0a36?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
-| ↳ | **[Global Markets Intern/ Co-op](https://jobright.ai/jobs/info/6adbacb80a4cc7090f9742e1?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
-| **[Trinnex](https://www.trinnex.io)** | **[Bachelors - Marketing Co-Op (Spring 2027)](https://jobright.ai/jobs/info/6adbd8b69e3e874dbfba25ed?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 23 |
-| **[CHAO.S PR](chaosprny.com)** | **[PR Event & Project Intern](https://jobright.ai/jobs/info/6adbd6e60a4cc7090f975533?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Oct 23 |
-| **[goodr](https://goodr.com)** | **[Copy Intern](https://jobright.ai/jobs/info/6adb9ee99e3e874dbfba0e87?utm_campaign=1065&utm_source=git)** | Inglewood, CA, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
