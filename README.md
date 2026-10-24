@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vent Now](https://www.ventnow.ai/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6add16dac5c64fa3d9cb5757?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 24 |
+| **[Electro](electrogum.com)** | **[Social Media & Athlete Marketing Intern](https://jobright.ai/jobs/info/6add12990a4cc7090f978ff4?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | Remote | Oct 24 |
+| **[NOX METALS](https://noxmetals.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/6acc0762a56e5406e57bcf3d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 24 |
 | **[4M Research, Inc.](https://www.4mresearch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6add09be9e3e874dbfba5e40?utm_campaign=1065&utm_source=git)** | Huntsville, AL, United States | On Site | Oct 24 |
 | **[Nooter/Eriksen, Inc.](https://cicgroup.com/nooter-eriksen/)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7cee054bbabbab07027d4?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | Hybrid | Oct 24 |
-| **[Enerfab](http://enerfab.com)** | **[Marketing/Sales - Spring 2027](https://jobright.ai/jobs/info/6abffad10e027c0f3b39f1b7?utm_campaign=1065&utm_source=git)** | Blue Ash, OH, United States | On Site | Oct 24 |
+| **[Enerfab](http://enerfab.com)** | **[Marketing/Sales - Spring 2027](https://jobright.ai/jobs/info/6abff869d9621c5b283958d3?utm_campaign=1065&utm_source=git)** | Blue Ash, OH, United States | On Site | Oct 24 |
 | **[Pulchritude® Fashion](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/6adcfa419e3e874dbfba5b5a?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 24 |
 | **[Cboe Global Markets](https://fx.cboe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac03f4e4ac55253f5d685d7?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Oct 24 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[IS Internship - IT Ecommerce & Marketing Developer](https://jobright.ai/jobs/info/6ac0376e8ff3fb9b3bc7b65a?utm_campaign=1065&utm_source=git)** | Byron Center, MI, United States | Remote | Oct 24 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Oct 24 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern - DFW](https://jobright.ai/jobs/info/6adcc3cc9e3e874dbfba5299?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 24 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Communications Intern](https://jobright.ai/jobs/info/6adcc3a4389e06bb41ad7490?utm_campaign=1065&utm_source=git)** | Ada, Michigan, United States | On Site | Oct 24 |
-| **[Corevanta Labs](corevantalabs.net)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6adcc3489e3e874dbfba5274?utm_campaign=1065&utm_source=git)** | Louisville, KY, United States | On Site | Oct 24 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Conference Services (Year-Round)](https://jobright.ai/jobs/info/6ad1317e18608b6f36f822f0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Street Marketing Internship](https://jobright.ai/jobs/info/6a6be8f8ca1f9338465fd063?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 24 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Street Marketing Internship](https://jobright.ai/jobs/info/6a6be8ebacb0a61f9dbc36ff?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 24 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a955e4d01d0e62174586731?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 | **[FerskTech](https://fersktech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a55704da96a42cfd95430?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Internal Communications Specialist Intern](https://jobright.ai/jobs/info/6ad652dae4b94611ab83d551?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | Hybrid | Oct 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a9931378a8b765bc55f1fea?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Oct 23 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Oct 23 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4c46a8cabdc1ff62b2?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Oct 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinnex](https://www.trinnex.io)** | **[Bachelors - Marketing Co-Op (Spring 2027)](https://jobright.ai/jobs/info/6adbd8b69e3e874dbfba25ed?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 23 |
 | **[CHAO.S PR](chaosprny.com)** | **[PR Event & Project Intern](https://jobright.ai/jobs/info/6adbd6e60a4cc7090f975533?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Oct 23 |
 | **[goodr](https://goodr.com)** | **[Copy Intern](https://jobright.ai/jobs/info/6adb9ee99e3e874dbfba0e87?utm_campaign=1065&utm_source=git)** | Inglewood, CA, United States | On Site | Oct 23 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Communications Specialist Intern](https://jobright.ai/jobs/info/6adbced05dc7953215a34f71?utm_campaign=1065&utm_source=git)** | Land O' Lakes, FL, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
