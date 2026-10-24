@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EQ Bank](https://www.eqbank.ca)** | **[Intern - Product Marketing Winter 2027](https://jobright.ai/jobs/info/6ac03ada4ac55253f5d68553?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 24 |
+| **[Ambev Tech](https://ambevtech.com.br/quem-somos/)** | **[AB InBev MBA Summer 2027 Intern - MARKETING](https://jobright.ai/jobs/info/6adc7d9b5dc7953215a36fa8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 24 |
+| **[The Ethereal Agency](www.etherealpr.com)** | **[Marketer](https://jobright.ai/jobs/info/6adc7b8e0a4cc7090f977431?utm_campaign=1065&utm_source=git)** | Canada | Remote | Oct 24 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Marketing Strategy Intern - Summer 2027](https://jobright.ai/jobs/info/6aa498251d92e2d05d1156c3?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Oct 24 |
-| **[Encompass Health](http://www.encompasshealth.com/)** | **[Communications Specialist Intern](https://jobright.ai/jobs/info/6adbd36b9e3e874dbfba24e9?utm_campaign=1065&utm_source=git)** | Land O' Lakes, FL, United States | On Site | Oct 24 |
+| **[Bayer](https://www.bayer.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6abfdf2f064da25272e0651d?utm_campaign=1065&utm_source=git)** | Whippany, NJ, United States | Hybrid | Oct 24 |
+| **[Encompass Health](http://www.encompasshealth.com/)** | **[Communications Specialist Intern](https://jobright.ai/jobs/info/6adbd36b46a8cabdc1ff54fe?utm_campaign=1065&utm_source=git)** | Land O' Lakes, FL, United States | On Site | Oct 24 |
 | **[City of Temple Terrace](https://www.templeterrace.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6adc5c02c5c64fa3d9cb364a?utm_campaign=1065&utm_source=git)** | Greater Tampa Bay Area, United States | On Site | Oct 24 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Market Intelligence Summer 2027 Internship (Euclid, OH) Job Details / Lincoln Electric](https://jobright.ai/jobs/info/6adc3ce70a4cc7090f976a1a?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 23 |
 | ↳ | **[Marketing Communications & Campaign Summer 2027 Internship (Euclid, OH) Job Details / Lincoln Electric](https://jobright.ai/jobs/info/6adc3c8a5dc7953215a36570?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | Hybrid | Oct 23 |
@@ -71,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a955e4d01d0e62174586731?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 | **[FerskTech](https://fersktech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a55704da96a42cfd95430?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Internal Communications Specialist Intern](https://jobright.ai/jobs/info/6ad652dae4b94611ab83d551?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | Hybrid | Oct 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a82c73a1081a745e970b6eb?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Oct 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a71a433e2b7476e7b20ed8f?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 23 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Oct 23 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4c46a8cabdc1ff62b2?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Oct 23 |
@@ -109,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Sulwhasoo Trade Marketing Intern](https://jobright.ai/jobs/info/6ac967ab6355f8776ff18eaa?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 23 |
 | **[KHAITE](https://khaite.com/)** | **[Merchandising Intern, Spring 2027](https://jobright.ai/jobs/info/6ad68307950ef68d5183abd7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 23 |
 | **[CHAO.S PR](chaosprny.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6adbd9480a4cc7090f9755ac?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Oct 23 |
-| **[TD](https://www.td.com)** | **[Global Markets Intern/Co-op](https://jobright.ai/jobs/info/6adbacb6c5c64fa3d9cb0a36?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
-| ↳ | **[Global Markets Intern/ Co-op](https://jobright.ai/jobs/info/6adbacb80a4cc7090f9742e1?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
+| **[TD](https://www.td.com)** | **[Global Markets Intern/ Co-op](https://jobright.ai/jobs/info/6adbacb80a4cc7090f9742e1?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
+| ↳ | **[Global Markets Intern/Co-op](https://jobright.ai/jobs/info/6adbacb6c5c64fa3d9cb0a36?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
 | **[Trinnex](https://www.trinnex.io)** | **[Bachelors - Marketing Co-Op (Spring 2027)](https://jobright.ai/jobs/info/6adbd8b69e3e874dbfba25ed?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 23 |
 | **[CHAO.S PR](chaosprny.com)** | **[PR Event & Project Intern](https://jobright.ai/jobs/info/6adbd6e60a4cc7090f975533?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Oct 23 |
 | **[goodr](https://goodr.com)** | **[Copy Intern](https://jobright.ai/jobs/info/6adb9ee99e3e874dbfba0e87?utm_campaign=1065&utm_source=git)** | Inglewood, CA, United States | On Site | Oct 23 |
@@ -143,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[GGP](http://www.ggp.com/)** | **[Marketing Intern (Summer Internship 6/7/2027 - 8/13/2027)](https://jobright.ai/jobs/info/6aa1da9a2f936e4a53dae6ef?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
 | **[Issue One](https://www.issueone.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6ac9287ed4a5a03707410fe9?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 23 |
 | **[VaynerX](https://vaynerx.com)** | **[Resident - Data Analytics](https://jobright.ai/jobs/info/6aa3eb7b8275e3a21175dede?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 23 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16832500b01124c77c791?utm_campaign=1065&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa163163272060a8e3ef863?utm_campaign=1065&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Digital Marketing Admin - Intern (Unpaid)](https://jobright.ai/jobs/info/6a4cf57bd27b2c4dda9b59ab?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Oct 23 |
 | **[val's services](https://www.linkedin.com/company/108859510)** | **[Intern - Market Research & Brand Strategy - Summer 2027](https://jobright.ai/jobs/info/6adbc8d89e3e874dbfba1bb6?utm_campaign=1065&utm_source=git)** | York, PA, United States | On Site | Oct 23 |
 | **[Kiewit](http://www.kiewit.com)** | **[Communication Coordinator Co-op - Winter 2027 (8 months)](https://jobright.ai/jobs/info/6aa3d605f7baf881567cb8d6?utm_campaign=1065&utm_source=git)** | Oshawa, ON, Canada | On Site | Oct 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ITW](http://www.itw.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6adb93f5c5c64fa3d9cb024c?utm_campaign=1065&utm_source=git)** | Danvers, MA, United States | On Site | Oct 23 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Conference & Events Management Intern - 2027](https://jobright.ai/jobs/info/6abeca560e027c0f3b39b0f7?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 23 |
 | **[American Marketing Association](http://www.ama.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6adc29160a4cc7090f9764c6?utm_campaign=1065&utm_source=git)** | Alabama, United States | Remote | Oct 23 |
-| **[Simply Practical](www.simplypracticalsolutions.com)** | **[Marketing & Content Intern with Home Staging Company](https://jobright.ai/jobs/info/6adb9be846a8cabdc1ff3d59?utm_campaign=1065&utm_source=git)** | Largo, FL, United States | Remote | Oct 23 |
-| **[JLL](http://www.jll.com/)** | **[Capital Markets Summer 2027 Internship - Boston, MA](https://jobright.ai/jobs/info/6adb8f935dc7953215a334cc?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Oct 23 |
-| **[State of Ohio](http://www.ong.ohio.gov)** | **[College Intern Communications - Spring 2027](https://jobright.ai/jobs/info/6ada339854bbabbab0713786?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Oct 23 |
-| **[Principal Chile](https://www.principal.cl/)** | **[Intern - Marketing (User Experience)](https://jobright.ai/jobs/info/6adb96ebc5c64fa3d9cb033d?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
