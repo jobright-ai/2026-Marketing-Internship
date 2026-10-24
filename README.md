@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[2027 Intern – Junior Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6ad26e3425289a0b3bf56b58?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 24 |
+| **[Ibotta](https://home.ibotta.com)** | **[D2C Marketing Intern](https://jobright.ai/jobs/info/6aa4310af3aa936e2cdb02bb?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 24 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Internship Summer 2027 (Minnesota))](https://jobright.ai/jobs/info/6adcd17e46a8cabdc1ff84df?utm_campaign=1065&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Oct 24 |
+| **[Electro](electrogum.com)** | **[Social Media & Influencer Relations Intern](https://jobright.ai/jobs/info/6adcd01e9e3e874dbfba53e1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 24 |
 | **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Brand Management Intern](https://jobright.ai/jobs/info/6aaa069809ae03adcace0cbd?utm_campaign=1065&utm_source=git)** | Lakeville, MA, United States | On Site | Oct 24 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Development & Operations-Orange County, CA](https://jobright.ai/jobs/info/6abfc84b0e027c0f3b39de33?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 24 |
 | **[Weissman](https://www.weissmans.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6aa991f6eff87f571fc9a348?utm_campaign=1065&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 24 |
@@ -102,11 +106,11 @@ For a complete list, click the following sortable link below:
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a955e4d01d0e62174586731?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 | **[FerskTech](https://fersktech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a55704da96a42cfd95430?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Internal Communications Specialist Intern](https://jobright.ai/jobs/info/6ad652dae4b94611ab83d551?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | Hybrid | Oct 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6abc74f1fbb3359bcc7d1fd8?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 23 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Oct 23 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4c46a8cabdc1ff62b2?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Oct 23 |
 | **[Overton Industries](https://overtonind.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6adc1ac65dc7953215a35d28?utm_campaign=1065&utm_source=git)** | Mooresville, IN, United States | On Site | Oct 23 |
-| **[Autter](https://www.autter.dev/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6adc0dcdc5c64fa3d9cb2773?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Social Media Content Creation (Summer 2027)](https://jobright.ai/jobs/info/6adc0cb346a8cabdc1ff603b?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Oct 23 |
 | **[Alzheimer's Association - Orange County Chapter](http://alz.org/oc)** | **[Marketing and Communications Paid Internship](https://jobright.ai/jobs/info/6adc091d389e06bb41ad5153?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Oct 23 |
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a423dc41cc9cc2b12feb0e8?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Oct 23 |
@@ -136,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Sulwhasoo Trade Marketing Intern](https://jobright.ai/jobs/info/6ac967ab6355f8776ff18eaa?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 23 |
 | **[KHAITE](https://khaite.com/)** | **[Merchandising Intern, Spring 2027](https://jobright.ai/jobs/info/6ad68307950ef68d5183abd7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 23 |
 | **[CHAO.S PR](chaosprny.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6adbd9480a4cc7090f9755ac?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Oct 23 |
-| **[TD](https://www.td.com)** | **[Global Markets Intern/ Co-op](https://jobright.ai/jobs/info/6adbacb80a4cc7090f9742e1?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
-| ↳ | **[Global Markets Intern/Co-op](https://jobright.ai/jobs/info/6adbacb6c5c64fa3d9cb0a36?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
+| **[TD](https://www.td.com)** | **[Global Markets Intern/Co-op](https://jobright.ai/jobs/info/6adbacb6c5c64fa3d9cb0a36?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
+| ↳ | **[Global Markets Intern/ Co-op](https://jobright.ai/jobs/info/6adbacb80a4cc7090f9742e1?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
 | **[Trinnex](https://www.trinnex.io)** | **[Bachelors - Marketing Co-Op (Spring 2027)](https://jobright.ai/jobs/info/6adbd8b69e3e874dbfba25ed?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 23 |
 | **[CHAO.S PR](chaosprny.com)** | **[PR Event & Project Intern](https://jobright.ai/jobs/info/6adbd6e60a4cc7090f975533?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Oct 23 |
 | **[goodr](https://goodr.com)** | **[Copy Intern](https://jobright.ai/jobs/info/6adb9ee99e3e874dbfba0e87?utm_campaign=1065&utm_source=git)** | Inglewood, CA, United States | On Site | Oct 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legrand](https://www.legrand.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6ad9479454bbabbab070e8e5?utm_campaign=1065&utm_source=git)** | West Hartford, CT, United States | Hybrid | Oct 23 |
 | **[North Jersey Pro Soccer](https://www.northjerseyprosoccer.com/)** | **[2027 Spring Intern (Social Media)](https://jobright.ai/jobs/info/6adbbb915dc7953215a342aa?utm_campaign=1065&utm_source=git)** | Paterson, NJ, United States | Hybrid | Oct 23 |
 | **[Electro](electrogum.com)** | **[Influencer & PR Intern](https://jobright.ai/jobs/info/6adbbb12389e06bb41ad3871?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 23 |
-| **[North Jersey Pro Soccer](https://www.northjerseyprosoccer.com/)** | **[2027 Spring Intern (Community Relations)](https://jobright.ai/jobs/info/6adbbb1046a8cabdc1ff46ee?utm_campaign=1065&utm_source=git)** | Paterson, NJ, United States | On Site | Oct 23 |
-| **[Rise North Capital](https://www.risenorthcapital.com)** | **[Social Media Intern / Rise North Capital](https://jobright.ai/jobs/info/6adbbb0c389e06bb41ad386e?utm_campaign=1065&utm_source=git)** | Braintree, MA, United States | On Site | Oct 23 |
-| **[CARPLS](https://carpls.org/)** | **[Development and Communications Intern](https://jobright.ai/jobs/info/6adbb9c7c5c64fa3d9cb0dbe?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/6adb91f19e3e874dbfba0a2d?utm_campaign=1065&utm_source=git)** | Santa Clara, California, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
