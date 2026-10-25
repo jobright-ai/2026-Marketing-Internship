@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CouponDonation](http://www.coupondonation.com)** | **[Marketing Research & Strategy Intern - US only (Unpaid)](https://jobright.ai/jobs/info/6addad4b389e06bb41ad9405?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
+| **[The Poston Foundation](https://www.thepostonfoundation.org)** | **[Fundraising Intern](https://jobright.ai/jobs/info/6addac1c9e3e874dbfba7163?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | Hybrid | Oct 25 |
 | **[Delishous](www.delishous.com)** | **[Marketing Intern (OPT Eligible)](https://jobright.ai/jobs/info/6add850e5dc7953215a39862?utm_campaign=1065&utm_source=git)** | Long Island City, NY, United States | Hybrid | Oct 24 |
 | **[What's The Move](wtmofficial.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6add73a35dc7953215a39640?utm_campaign=1065&utm_source=git)** | Miami–Fort Lauderdale Area, United States | Hybrid | Oct 24 |
 | **[Electro](electrogum.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/6add500e5dc7953215a39184?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | Remote | Oct 24 |
@@ -113,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Marketing Strategy Intern - Summer 2027](https://jobright.ai/jobs/info/6aa498251d92e2d05d1156c3?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Oct 24 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Internal Communications Specialist Intern](https://jobright.ai/jobs/info/6ad652dae4b94611ab83d551?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | Hybrid | Oct 24 |
 | **[Bayer](https://www.bayer.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6abfdf2f064da25272e0651d?utm_campaign=1065&utm_source=git)** | Whippany, NJ, United States | Hybrid | Oct 24 |
-| **[Encompass Health](http://www.encompasshealth.com/)** | **[Communications Specialist Intern](https://jobright.ai/jobs/info/6adbd36b9e3e874dbfba24e9?utm_campaign=1065&utm_source=git)** | Land O' Lakes, FL, United States | On Site | Oct 24 |
+| **[Encompass Health](http://www.encompasshealth.com/)** | **[Communications Specialist Intern](https://jobright.ai/jobs/info/6adbd36b46a8cabdc1ff54fe?utm_campaign=1065&utm_source=git)** | Land O' Lakes, FL, United States | On Site | Oct 24 |
 | **[Amway](http://www.amway.com)** | **[Communications Intern, Summer 2027 (REQ#43491)](https://jobright.ai/jobs/info/6aa1f81b0ffb3d4fea6b8006?utm_campaign=1065&utm_source=git)** | Ada, MI, United States | Hybrid | Oct 23 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Market Intelligence Summer 2027 Internship (Euclid, OH) Job Details / Lincoln Electric](https://jobright.ai/jobs/info/6adc3ce70a4cc7090f976a1a?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 23 |
 | ↳ | **[Marketing Communications & Campaign Summer 2027 Internship (Euclid, OH) Job Details / Lincoln Electric](https://jobright.ai/jobs/info/6adc3c8a5dc7953215a36570?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | Hybrid | Oct 23 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Communications, Marketing & Corporate Responsibility Summer Internship Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6acaa3f0d113c967e3c77f17?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 23 |
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a955e4d01d0e62174586731?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 | **[FerskTech](https://fersktech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a55704da96a42cfd95430?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6ac96b89fcdafb60c6a4c533?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6abb3ee6be5f1e932511a1f3?utm_campaign=1065&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Oct 23 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tillamook County Creamery Association](https://www.tillamook.com/)** | **[Brand Management Intern](https://jobright.ai/jobs/info/6adbc787389e06bb41ad3c7e?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | On Site | Oct 23 |
 | **[St. Ann Center for Intergenerational Care](https://stanncenter.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6adbe4835dc7953215a35593?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 23 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6adbc9bd0a4cc7090f974c37?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | Hybrid | Oct 23 |
-| **[TruePoint Communications](https://www.truepointagency.com/)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6adb71c5389e06bb41ad1f0b?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
