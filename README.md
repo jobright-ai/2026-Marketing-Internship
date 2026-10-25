@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Marketing Communications Intern - BOSS Snowplow](https://jobright.ai/jobs/info/6aa3b1165c11cce360365ae6?utm_campaign=1065&utm_source=git)** | Iron Mountain, MI, United States | On Site | Oct 25 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6aa5846282e82a31997bde43?utm_campaign=1065&utm_source=git)** | Racine, WI, United States | On Site | Oct 25 |
+| **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ad280485290d4375c453665?utm_campaign=1065&utm_source=git)** | Virginia, United States | Remote | Oct 25 |
+| ↳ | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4423df3aa936e2cdb0801?utm_campaign=1065&utm_source=git)** | Georgia, United States | Hybrid | Oct 25 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6addb855389e06bb41ad94d9?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 25 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing Research & Strategy Intern - US only (Unpaid)](https://jobright.ai/jobs/info/6addad4b389e06bb41ad9405?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
 | **[The Poston Foundation](https://www.thepostonfoundation.org)** | **[Fundraising Intern](https://jobright.ai/jobs/info/6addac1c9e3e874dbfba7163?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | Hybrid | Oct 25 |
 | **[Delishous](www.delishous.com)** | **[Marketing Intern (OPT Eligible)](https://jobright.ai/jobs/info/6add850e5dc7953215a39862?utm_campaign=1065&utm_source=git)** | Long Island City, NY, United States | Hybrid | Oct 24 |
@@ -73,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[Social Media & Athlete Marketing Intern](https://jobright.ai/jobs/info/6add12990a4cc7090f978ff4?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | Remote | Oct 24 |
 | **[NOX METALS](https://noxmetals.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/6acc0762a56e5406e57bcf3d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 24 |
 | **[Nooter/Eriksen, Inc.](https://cicgroup.com/nooter-eriksen/)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7cee054bbabbab07027d4?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | Hybrid | Oct 24 |
-| **[Enerfab](http://enerfab.com)** | **[Marketing/Sales - Spring 2027](https://jobright.ai/jobs/info/6abffad10e027c0f3b39f1b7?utm_campaign=1065&utm_source=git)** | Blue Ash, OH, United States | On Site | Oct 24 |
+| **[Enerfab](http://enerfab.com)** | **[Marketing/Sales - Spring 2027](https://jobright.ai/jobs/info/6abff869d9621c5b283958d3?utm_campaign=1065&utm_source=git)** | Blue Ash, OH, United States | On Site | Oct 24 |
 | **[Cboe Global Markets](https://fx.cboe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac03f4e4ac55253f5d685d7?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Oct 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Internship Summer 2027 (Minnesota))](https://jobright.ai/jobs/info/6adcd17e46a8cabdc1ff84df?utm_campaign=1065&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Oct 24 |
 | **[Enerfab](http://enerfab.com)** | **[Marketing/Sales - Summer 2027](https://jobright.ai/jobs/info/6abffabad9621c5b283959c8?utm_campaign=1065&utm_source=git)** | Blue Ash, OH, United States | On Site | Oct 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corning Incorporated](https://www.corning.com/)** | **[A&D Market Intelligence Intern, Advanced Optics - Summer 2027](https://jobright.ai/jobs/info/6add54325dc7953215a39260?utm_campaign=1065&utm_source=git)** | Corning, NY, United States | On Site | Oct 23 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us)** | **[Solar Marketing and Product Development Intern](https://jobright.ai/jobs/info/6adbb139c5c64fa3d9cb0b79?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 23 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6adbc679389e06bb41ad3bee?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
-| ↳ | **[Category Management Intern - Summer 2027](https://jobright.ai/jobs/info/6adbc559389e06bb41ad3b7e?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern, Marketing (Trade) (Toronto Hybrid) (12 month contract)](https://jobright.ai/jobs/info/6adbc6499e3e874dbfba1a3e?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 23 |
-| **[Tillamook County Creamery Association](https://www.tillamook.com/)** | **[Brand Management Intern](https://jobright.ai/jobs/info/6adbc787389e06bb41ad3c7e?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | On Site | Oct 23 |
-| **[St. Ann Center for Intergenerational Care](https://stanncenter.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6adbe4835dc7953215a35593?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 23 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6adbc9bd0a4cc7090f974c37?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
