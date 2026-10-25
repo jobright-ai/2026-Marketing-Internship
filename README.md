@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6addd67e389e06bb41ad97bf?utm_campaign=1065&utm_source=git)** | Ada County, Idaho | On Site | Oct 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6addd438c5c64fa3d9cb6ca0?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 25 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Marketing Communications Intern - BOSS Snowplow](https://jobright.ai/jobs/info/6aa3b1165c11cce360365ae6?utm_campaign=1065&utm_source=git)** | Iron Mountain, MI, United States | On Site | Oct 25 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6aa5846282e82a31997bde43?utm_campaign=1065&utm_source=git)** | Racine, WI, United States | On Site | Oct 25 |
 | **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ad280485290d4375c453665?utm_campaign=1065&utm_source=git)** | Virginia, United States | Remote | Oct 25 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Gift](https://www.shine.gift)** | **[Music Community Growth Intern](https://jobright.ai/jobs/info/6add3df09e3e874dbfba64b6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 24 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Intern, Low Carbon Strategy – January 2027 (8 or 12-Month Term)](https://jobright.ai/jobs/info/6ace56a6a0453f9ba6248040?utm_campaign=1065&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 24 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Digital Marketing Admin - Intern (Unpaid)](https://jobright.ai/jobs/info/6a513ec302522b5b722e8cc7?utm_campaign=1065&utm_source=git)** | Union, NJ, United States | On Site | Oct 24 |
+| **[Pickworth GTM](https://pickworthgtm.com)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/6addd39dc5c64fa3d9cb6ba0?utm_campaign=1065&utm_source=git)** | United, WV, United States | On Site | Oct 24 |
 | **[Arizona Commerce Authority](http://www.azcommerce.com/)** | **[FY'27 Winter-Spring Internship: Digital Media](https://jobright.ai/jobs/info/6add19c75dc7953215a38bf8?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Internship Summer 2027 (Minnesota)) Job Details / Boston Scientific](https://jobright.ai/jobs/info/6add1c7e0a4cc7090f9791ea?utm_campaign=1065&utm_source=git)** | Maple Grove, MN, United States | Hybrid | Oct 24 |
 | **[GY Properties](https://www.gy-properties.com/)** | **[Event Planner Intern (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a79ad7c67a1ad0bc53cf8c9?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genuine Parts Company](http://genpt.com)** | **[Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6adbc55f46a8cabdc1ff4a12?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
 | **[Flighthouse Media](https://www.flighthousemedia.com)** | **[Music Marketing Intern - Spring 2027](https://jobright.ai/jobs/info/6ac976f8af788e6ad3b5b923?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 23 |
 | **[FlocCare](https://floccare.ai)** | **[GTM Intern](https://jobright.ai/jobs/info/6adbf73c0a4cc7090f975c9a?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
-| **[Corning Incorporated](https://www.corning.com/)** | **[A&D Market Intelligence Intern, Advanced Optics - Summer 2027](https://jobright.ai/jobs/info/6add54325dc7953215a39260?utm_campaign=1065&utm_source=git)** | Corning, NY, United States | On Site | Oct 23 |
-| **[HellermannTyton North America](https://www.hellermanntyton.us)** | **[Solar Marketing and Product Development Intern](https://jobright.ai/jobs/info/6adbb139c5c64fa3d9cb0b79?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 23 |
-| **[Genuine Parts Company](http://genpt.com)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6adbc679389e06bb41ad3bee?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
