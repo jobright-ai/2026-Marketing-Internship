@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Playground Music USA](https://playgroundmusicusa.com/)** | **[Music & Influencer Marketing Intern](https://jobright.ai/jobs/info/6adddd77389e06bb41ad990c?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Oct 25 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6addd67e389e06bb41ad97bf?utm_campaign=1065&utm_source=git)** | Ada County, Idaho | On Site | Oct 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6addd438c5c64fa3d9cb6ca0?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 25 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Marketing Communications Intern - BOSS Snowplow](https://jobright.ai/jobs/info/6aa3b1165c11cce360365ae6?utm_campaign=1065&utm_source=git)** | Iron Mountain, MI, United States | On Site | Oct 25 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6aa5846282e82a31997bde43?utm_campaign=1065&utm_source=git)** | Racine, WI, United States | On Site | Oct 25 |
-| **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ad280485290d4375c453665?utm_campaign=1065&utm_source=git)** | Virginia, United States | Remote | Oct 25 |
-| ↳ | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4423df3aa936e2cdb0801?utm_campaign=1065&utm_source=git)** | Georgia, United States | Hybrid | Oct 25 |
+| **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4423df3aa936e2cdb0801?utm_campaign=1065&utm_source=git)** | Georgia, United States | Hybrid | Oct 25 |
+| ↳ | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ad280485290d4375c453665?utm_campaign=1065&utm_source=git)** | Virginia, United States | Remote | Oct 25 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6addb855389e06bb41ad94d9?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 25 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing Research & Strategy Intern - US only (Unpaid)](https://jobright.ai/jobs/info/6addad4b389e06bb41ad9405?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
 | **[The Poston Foundation](https://www.thepostonfoundation.org)** | **[Fundraising Intern](https://jobright.ai/jobs/info/6addac1c9e3e874dbfba7163?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | Hybrid | Oct 25 |
@@ -135,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Communications, Marketing & Corporate Responsibility Summer Internship Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6acaa3f0d113c967e3c77f17?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 23 |
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a955e4d01d0e62174586731?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 | **[FerskTech](https://fersktech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a55704da96a42cfd95430?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a9931378a8b765bc55f1fea?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6abb3ee6be5f1e932511a1f3?utm_campaign=1065&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Oct 23 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Bachelors - Marketing Co-Op (Spring 2027)](https://jobright.ai/jobs/info/6adbda32389e06bb41ad47ac?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 23 |
 | ↳ | **[Bachelors - Marketing Intern](https://jobright.ai/jobs/info/6ad8b8a9b0725dc268dd55f7?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 23 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6adbc55f46a8cabdc1ff4a12?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
-| **[Flighthouse Media](https://www.flighthousemedia.com)** | **[Music Marketing Intern - Spring 2027](https://jobright.ai/jobs/info/6ac976f8af788e6ad3b5b923?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 23 |
-| **[FlocCare](https://floccare.ai)** | **[GTM Intern](https://jobright.ai/jobs/info/6adbf73c0a4cc7090f975c9a?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
