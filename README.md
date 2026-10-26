@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SeenU](www.seenu.io)** | **[Marketing Director Intern, Campus Growth](https://jobright.ai/jobs/info/6adeb6ad389e06bb41adb82c?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
+| **[Electro](electrogum.com)** | **[Social Media & Greek Life Marketing Intern](https://jobright.ai/jobs/info/6adeb4b09e3e874dbfba9521?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Remote | Oct 25 |
 | **[Natural Lands](https://natlands.org/)** | **[Development Donor Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a81d044e2030208f277bf86?utm_campaign=1065&utm_source=git)** | Media, PA, United States | On Site | Oct 25 |
 | **[Arcovia](arcovia.io)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/6adea5c30a4cc7090f97c35a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 25 |
 | **[Electro](electrogum.com)** | **[Sports Marketing & Athlete Relations Intern](https://jobright.ai/jobs/info/6adea4c99e3e874dbfba9376?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | Remote | Oct 25 |
@@ -84,11 +86,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Brand Manager MBA Internship (2028 Graduates – MBA)](https://jobright.ai/jobs/info/6aa46415422289703bd66717?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 25 |
 | **[Electro](electrogum.com)** | **[Greek Life Events & PR Intern](https://jobright.ai/jobs/info/6ade1a049e3e874dbfba7e21?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 25 |
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[2027 Summer Social Media Marketing Intern](https://jobright.ai/jobs/info/6ade08fa5dc7953215a3a6f9?utm_campaign=1065&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 25 |
-| **[Iron Clave](https://www.linkedin.com/company/108610804)** | **[Commercial Intern](https://jobright.ai/jobs/info/6addf1760a4cc7090f97aad4?utm_campaign=1065&utm_source=git)** | Louisville, KY, United States | Remote | Oct 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6addd438c5c64fa3d9cb6ca0?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 25 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6aa4f51442411952ff9a63bd?utm_campaign=1065&utm_source=git)** | Racine, WI, United States | On Site | Oct 25 |
-| **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ad280485290d4375c453665?utm_campaign=1065&utm_source=git)** | Virginia, United States | Remote | Oct 25 |
-| ↳ | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4423df3aa936e2cdb0801?utm_campaign=1065&utm_source=git)** | Georgia, United States | Hybrid | Oct 25 |
+| **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4423df3aa936e2cdb0801?utm_campaign=1065&utm_source=git)** | Georgia, United States | Hybrid | Oct 25 |
+| ↳ | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ad280485290d4375c453665?utm_campaign=1065&utm_source=git)** | Virginia, United States | Remote | Oct 25 |
 | **[The Poston Foundation](https://www.thepostonfoundation.org)** | **[Fundraising Intern](https://jobright.ai/jobs/info/6addac1c9e3e874dbfba7163?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | Hybrid | Oct 25 |
 | **[Delishous](www.delishous.com)** | **[Marketing Intern (OPT Eligible)](https://jobright.ai/jobs/info/6add850e5dc7953215a39862?utm_campaign=1065&utm_source=git)** | Long Island City, NY, United States | Hybrid | Oct 24 |
 | **[Bluegrass Stream](https://www.linkedin.com/company/109155083)** | **[Intern - Beverage & Brand Ambassador](https://jobright.ai/jobs/info/6add4a41c5c64fa3d9cb5d93?utm_campaign=1065&utm_source=git)** | Lysander, NY, United States | On Site | Oct 24 |
@@ -101,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[GY Properties](https://www.gy-properties.com/)** | **[Event Planner Intern (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a79ad7c67a1ad0bc53cf8c9?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 24 |
 | **[Electro](electrogum.com)** | **[Social Media & Athlete Marketing Intern](https://jobright.ai/jobs/info/6add12990a4cc7090f978ff4?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | Remote | Oct 24 |
 | **[Nooter/Eriksen, Inc.](https://cicgroup.com/nooter-eriksen/)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7cee054bbabbab07027d4?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | Hybrid | Oct 24 |
-| **[Enerfab](http://enerfab.com)** | **[Marketing/Sales - Spring 2027](https://jobright.ai/jobs/info/6abffad10e027c0f3b39f1b7?utm_campaign=1065&utm_source=git)** | Blue Ash, OH, United States | On Site | Oct 24 |
+| **[Enerfab](http://enerfab.com)** | **[Marketing/Sales - Spring 2027](https://jobright.ai/jobs/info/6abff869d9621c5b283958d3?utm_campaign=1065&utm_source=git)** | Blue Ash, OH, United States | On Site | Oct 24 |
 | **[Cboe Global Markets](https://fx.cboe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac03f4e4ac55253f5d685d7?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Oct 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Internship Summer 2027 (Minnesota))](https://jobright.ai/jobs/info/6adcd17e46a8cabdc1ff84df?utm_campaign=1065&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Oct 24 |
 | **[Enerfab](http://enerfab.com)** | **[Marketing/Sales - Summer 2027](https://jobright.ai/jobs/info/6abffabad9621c5b283959c8?utm_campaign=1065&utm_source=git)** | Blue Ash, OH, United States | On Site | Oct 24 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Communications, Marketing & Corporate Responsibility Summer Internship Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6acaa3f0d113c967e3c77f17?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 23 |
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a955e4d01d0e62174586731?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 | **[FerskTech](https://fersktech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a55704da96a42cfd95430?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a82c73a1081a745e970b6eb?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Oct 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6abc74f1fbb3359bcc7d1fd8?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6abb3ee6be5f1e932511a1f3?utm_campaign=1065&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Oct 23 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4c46a8cabdc1ff62b2?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
