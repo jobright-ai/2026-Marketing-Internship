@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18b0ab17492d3a389b8db8?utm_campaign=1065&utm_source=git)** | Remote-Wisconsin, United States of America | Remote | Oct 27 |
+| **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Marketing (Pittsburgh, PA)](https://jobright.ai/jobs/info/6a8c3f5ccde3717f9e9bc038?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Oct 27 |
+| **[Quad](https://www.quad.com)** | **[Corporate Trainee Agency - Media Internship](https://jobright.ai/jobs/info/6ae0c2e905a39c3e2c70c080?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 27 |
 | **[Freedom Mortgage](https://www.freedommortgage.com)** | **[Marketing Writer PT -  College Students (current)](https://jobright.ai/jobs/info/6ac41ef14ac55253f5d71038?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Oct 27 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Advertising Internship](https://jobright.ai/jobs/info/6ae0bf0f1f9d9308370a37e1?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 27 |
 | **[Bisnow](http://www.bisnow.com)** | **[Events Data Intern](https://jobright.ai/jobs/info/6abbc9f67119e56191ce939a?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Oct 27 |
@@ -83,9 +86,9 @@ For a complete list, click the following sortable link below:
 | **[GY Properties](https://www.gy-properties.com/)** | **[Event Planner Intern (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ace0d81bb78de94580d46b8?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 27 |
 | **[SEPHORA](https://www.sephora.com)** | **[Intern, Merchandising, Digital Skincare](https://jobright.ai/jobs/info/6ae09a507b815b23fd26d4c3?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 27 |
 | **[Maxis](http://www.maxis.com.my)** | **[Social Media & Digital Engagement Intern](https://jobright.ai/jobs/info/6ac4d9e38ff3fb9b3bc867f3?utm_campaign=1065&utm_source=git)** | Pinnacle, NC, United States | On Site | Oct 27 |
-| **[Trucordia](https://trucordia.com)** | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a629feb07e15f1ab0e47757?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
-| ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6ac3d5a08ff3fb9b3bc82772?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
-| ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269837da8525e8cdc8c6?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
+| **[Trucordia](https://trucordia.com)** | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269837da8525e8cdc8c6?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
+| ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6ac3d582372c01f6cd73261a?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
+| ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a629ff2846162391c937016?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
 | ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269bb17cba569035979b?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2027 Select Sires, Inc. Internship - Corporate Communications](https://jobright.ai/jobs/info/6a96d5e7b22f636c81413f05?utm_campaign=1065&utm_source=git)** | Plain City, OH, United States | On Site | Oct 27 |
 | ↳ | **[2027 Select Sires, Inc. Internship - Dairy Sire Marketing](https://jobright.ai/jobs/info/6a96d2ee246d697dcee01615?utm_campaign=1065&utm_source=git)** | Plain City, OH, United States | On Site | Oct 27 |
@@ -111,7 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Retail Marketing Sampling Experience Internship - Summer 2027](https://jobright.ai/jobs/info/6a89b3c24afae74a0834f032?utm_campaign=1065&utm_source=git)** | Middleton, WI, United States | On Site | Oct 27 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern - Public Relations (External Comms) Winter 2027](https://jobright.ai/jobs/info/6ac3edc90e027c0f3b3a83c3?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 27 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Channel Marketing/Tradeshow Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac44140064da25272e122e7?utm_campaign=1065&utm_source=git)** | Downers Grove, IL, United States | On Site | Oct 27 |
-| **[Staples](http://www.staples.com)** | **[Merchandising Intern - June 2027](https://jobright.ai/jobs/info/6aa81951a77a53f5a15772d1?utm_campaign=1065&utm_source=git)** | Framingham, MA, United States | On Site | Oct 27 |
+| **[Staples](http://www.staples.com)** | **[Merchandising Intern - June 2027](https://jobright.ai/jobs/info/6aa825f43a9f0a4fe6f178da?utm_campaign=1065&utm_source=git)** | Framingham, MA, United States | On Site | Oct 27 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Marketing Operations Intern - Summer 2027](https://jobright.ai/jobs/info/6ac4c0554ac55253f5d7336c?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Oct 27 |
 | **[Badger Meter](http://badgermeter.com)** | **[Marketing Content Creation Intern](https://jobright.ai/jobs/info/6ac3d3234ac55253f5d6f489?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 27 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Web Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa824e9930bff471a2a5792?utm_campaign=1065&utm_source=git)** | Neenah, WI, United States | On Site | Oct 27 |
@@ -131,13 +134,12 @@ For a complete list, click the following sortable link below:
 | **[Haworth](http://www.haworth.com/)** | **[Product Line Marketing Intern](https://jobright.ai/jobs/info/6ae0237b5dc7953215a45760?utm_campaign=1065&utm_source=git)** | Holland, MI, United States | On Site | Oct 26 |
 | **[Aurora Health Care](http://aurorahealthcare.org)** | **[Enterprise Internship, Social Media/Public Relations/Communication](https://jobright.ai/jobs/info/6ae0225ec5c64fa3d9cc21e6?utm_campaign=1065&utm_source=git)** | Allenton, WI, United States | On Site | Oct 26 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Enterprise Internship, Greater Charlotte Community Relations, Access & Social Impact](https://jobright.ai/jobs/info/6ae0224c0a4cc7090f985a91?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 26 |
-| **[Autter](https://www.autter.dev/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae0011a9a8c91d5c358b577?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Alex's Lemonade Stand Foundation](https://www.alexslemonade.org/)** | **[Content Writer - intern](https://jobright.ai/jobs/info/6a5825579f1f56462cf68c7e?utm_campaign=1065&utm_source=git)** | Orem, UT, United States | Remote | Oct 26 |
-| **[Highgate](https://www.highgate.com)** | **[Sales & Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa81e19a77a53f5a15774cf?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 26 |
-| ↳ | **[Sales & Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa81dc33a9f0a4fe6f1733b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
+| **[Highgate](https://www.highgate.com)** | **[Sales & Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa81dc33a9f0a4fe6f1733b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
+| ↳ | **[Sales & Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa81e19a77a53f5a15774cf?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 26 |
 | ↳ | **[Sales & Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa81dc6a77a53f5a1577484?utm_campaign=1065&utm_source=git)** | New Jersey, United States | On Site | Oct 26 |
-| ↳ | **[Sales & Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa81dc72ed333b4ea5cd3f2?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Oct 26 |
 | ↳ | **[Sales & Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa81dc0a77a53f5a1577479?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 26 |
+| ↳ | **[Sales & Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa81dc72ed333b4ea5cd3f2?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Oct 26 |
 | ↳ | **[Sales & Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa81dbe654b2a9424cfaa90?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 26 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6adfdf515dc7953215a43d19?utm_campaign=1065&utm_source=git)** | Kirkland, WA, United States | On Site | Oct 26 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Internship Program - Digital Strategy Intern](https://jobright.ai/jobs/info/6adfaa899e3e874dbfbaee91?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 26 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Broadcasting & Social Media (58260)](https://jobright.ai/jobs/info/6adfa12d065c4e77efaf9c4e?utm_campaign=1065&utm_source=git)** | Reading, PA 19605, United States | On Site | Oct 26 |
 | ↳ | **[Intern, Public Relations & Social Media  (58256)](https://jobright.ai/jobs/info/6adfa12f0a4cc7090f981606?utm_campaign=1065&utm_source=git)** | Reading, PA 19605, United States | On Site | Oct 26 |
 | ↳ | **[Intern, Marketing (58267)](https://jobright.ai/jobs/info/6adfa137065c4e77efaf9c58?utm_campaign=1065&utm_source=git)** | Reading, PA, United States | On Site | Oct 26 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e545dc7953215a35e25?utm_campaign=1065&utm_source=git)** | Mount Laurel, NJ, United States | On Site | Oct 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6adf6a129e3e874dbfbabfa7?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Oct 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Oct 26 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
