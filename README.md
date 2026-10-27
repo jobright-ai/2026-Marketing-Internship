@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Retail Marketing](https://jobright.ai/jobs/info/6ae10723829a3bada15f9c7d?utm_campaign=1065&utm_source=git)** | Chanhassen, MN, United States | On Site | Oct 27 |
+| **[Boys & Girls Clubs of Greater Kansas City](https://www.bgc-gkc.org)** | **[Events & Fundraising Intern](https://jobright.ai/jobs/info/6ae106c667c31ab34899fbd8?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 27 |
+| **[Opus Agency](http://www.opusagency.com/)** | **[Event Intern](https://jobright.ai/jobs/info/6ae104cc05a39c3e2c70f2f3?utm_campaign=1065&utm_source=git)** | Beaverton, OR, United States | Hybrid | Oct 27 |
+| ↳ | **[Event Intern](https://jobright.ai/jobs/info/6ae103fe67c31ab34899f9bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 27 |
+| **[BPCM](http://www.bpcm.com)** | **[Spring Intern, Corporate Communications](https://jobright.ai/jobs/info/6ae10314829a3bada15f997b?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 27 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern](https://jobright.ai/jobs/info/6ae1022105a39c3e2c70f0fc?utm_campaign=1065&utm_source=git)** | Washington, D.C., United States | On Site | Oct 27 |
 | **[Dreamstate](https://www.trydreamstate.com/)** | **[Sales and Marketing Fellowship Intern](https://jobright.ai/jobs/info/6ae102166679108488c3fffb?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Nuro](https://nuro.ai)** | **[Social Media Intern](https://jobright.ai/jobs/info/6abc1009a9a644f965689f3c?utm_campaign=1065&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 27 |
 | **[BPCM](http://www.bpcm.com)** | **[Spring Internship, Beauty](https://jobright.ai/jobs/info/6ae1015405a39c3e2c70f074?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | On Site | Oct 27 |
 | **[Fairfield County Medical Association](https://fcma.org/)** | **[Communications & Events Intern – Spring 2027](https://jobright.ai/jobs/info/6ae101191f9d9308370a69db?utm_campaign=1065&utm_source=git)** | Fairfield, CT, United States | On Site | Oct 27 |
 | **[Price Benowitz LLP](https://pricebenowitz.com/maryland-injury/upper-marlboro-injury-lawyer/)** | **[Social Media Marketing Intern (Part-Time, Unpaid)](https://jobright.ai/jobs/info/6ace838cba99f15ef412563a?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Oct 27 |
+| **[Brown Harris Stevens Development Marketing](https://linktr.ee/bhsdm)** | **[Brand & Digital Marketing Intern](https://jobright.ai/jobs/info/6adbcb470a4cc7090f974d3f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[MARKETING CO-OP (Spring 2027)](https://jobright.ai/jobs/info/6a8493c1e459fa3baa85f488?utm_campaign=1065&utm_source=git)** | Erlanger, KY, United States | On Site | Oct 27 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2027 Undergraduate Intern, Communications and Marketing](https://jobright.ai/jobs/info/6ae0fdb56679108488c3fd0d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Oct 27 |
 | ↳ | **[Spring 2027 Undergraduate Intern, Social & Store Teams - Communications Department](https://jobright.ai/jobs/info/6ae0fdb405a39c3e2c70edff?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Remote | Oct 27 |
@@ -93,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[genni](http://genni.com)** | **[Outreach Intern](https://jobright.ai/jobs/info/6ae0ea251f9d9308370a5984?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Oct 27 |
 | **[Hudl](http://www.hudl.com)** | **[Brand Events Intern](https://jobright.ai/jobs/info/6ae0a6f9829a3bada15f5a3b?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Oct 27 |
 | **[PACCAR](http://www.paccar.com/)** | **[Summer Internship - eCommerce Development](https://jobright.ai/jobs/info/6ac433ad372c01f6cd7347b6?utm_campaign=1065&utm_source=git)** | Renton, WA, United States | On Site | Oct 27 |
-| **[Opus Agency](http://www.opusagency.com/)** | **[Event Intern](https://jobright.ai/jobs/info/6ae0e8b4de23f466ec8ba297?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/6ae0e5ac829a3bada15f852f?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 27 |
 | **[15Wins](https://www.15wins.com)** | **[Community & Content Lead Intern](https://jobright.ai/jobs/info/6ae0e69bde23f466ec8ba13c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 27 |
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Public Relations and Social Media Intern](https://jobright.ai/jobs/info/6ab6ef6681e327c4bf201e10?utm_campaign=1065&utm_source=git)** | Bentonville, AR, United States | On Site | Oct 27 |
@@ -105,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[McLane Company, Inc.](https://www.mclaneco.com/)** | **[Merchandising Internship (Summer 2027)](https://jobright.ai/jobs/info/6ae0e2d0de23f466ec8b9e8d?utm_campaign=1065&utm_source=git)** | Temple, TX, United States | On Site | Oct 27 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6ae0e2391f9d9308370a5448?utm_campaign=1065&utm_source=git)** | Woodridge, IL, United States | On Site | Oct 27 |
 | **[MSU Federal Credit Union](https://www.msufcu.org)** | **[Community Engagement Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/6acf92cb78d51ae69ce06cce?utm_campaign=1065&utm_source=git)** | East Lansing, MI, United States | On Site | Oct 27 |
-| **[HOF Technologies](https://hofapp.com)** | **[Social Media Marketing & Video Editing Intern](https://jobright.ai/jobs/info/6ae0e00c5a5afc94bd2c84ce?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 27 |
 | **[Power Digital Marketing](https://powerdigitalmarketing.com)** | **[Creators (UGC) Intern, Spring 2027](https://jobright.ai/jobs/info/6ae0d5b25a5afc94bd2c7c71?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 27 |
 | ↳ | **[Programmatic Internship, Spring 2027](https://jobright.ai/jobs/info/6ae0a8fe829a3bada15f5af8?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Genworth](https://www.genworth.com)** | **[Public Relations Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/6ae0dfed67c31ab34899e0d1?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | Hybrid | Oct 27 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | **[GY Properties](https://www.gy-properties.com/)** | **[Event Planner Intern (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ace0d81bb78de94580d46b8?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 27 |
 | **[SEPHORA](https://www.sephora.com)** | **[Intern, Merchandising, Digital Skincare](https://jobright.ai/jobs/info/6ae09a507b815b23fd26d4c3?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 27 |
 | **[Maxis](http://www.maxis.com.my)** | **[Social Media & Digital Engagement Intern](https://jobright.ai/jobs/info/6ac4d9e38ff3fb9b3bc867f3?utm_campaign=1065&utm_source=git)** | Pinnacle, NC, United States | On Site | Oct 27 |
-| **[Trucordia](https://trucordia.com)** | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269837da8525e8cdc8c6?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
-| ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269bb17cba569035979b?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
-| ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6ab568d54873fd3fd85295cb?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
+| **[Trucordia](https://trucordia.com)** | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6ab568d54873fd3fd85295cb?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
 | ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a629ff2846162391c937016?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
+| ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269837da8525e8cdc8c6?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
+| ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269bb17cba569035979b?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Oct 27 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2027 Select Sires, Inc. Internship - Corporate Communications](https://jobright.ai/jobs/info/6a96d5e7b22f636c81413f05?utm_campaign=1065&utm_source=git)** | Plain City, OH, United States | On Site | Oct 27 |
 | **[Ford Motor Company](https://www.ford.com)** | **[Marketing & Sales Intern - Lincoln](https://jobright.ai/jobs/info/6adf6c00065c4e77efaf759e?utm_campaign=1065&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 27 |
 | ↳ | **[Marketing Intern - Connected Services](https://jobright.ai/jobs/info/6adf6be79e3e874dbfbac0aa?utm_campaign=1065&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 27 |
-| ↳ | **[Marketing Intern - Retail & Strategy Support](https://jobright.ai/jobs/info/6adf62205dc7953215a3e4fd?utm_campaign=1065&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 27 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6adf622a065c4e77efaf6f9b?utm_campaign=1065&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 27 |
-| ↳ | **[Marketing Intern - Eastern Market Area](https://jobright.ai/jobs/info/6adf573f0a4cc7090f97e48d?utm_campaign=1065&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 27 |
-| ↳ | **[Marketing Analyst Intern - Parts & Service and Customer Experience](https://jobright.ai/jobs/info/6adf6bdc9a8c91d5c358523d?utm_campaign=1065&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
