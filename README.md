@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Food & Beverage Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6ae2947305a39c3e2c71b62a?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Oct 28 |
 | **[Southwire Company](http://southwire.com)** | **[Channel Marketing Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6ae2d21f1c3cd4b406087a69?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 28 |
-| **[Backlinkgen](https://backlinkgen.com)** | **[Digital - Marketing - Intern](https://jobright.ai/jobs/info/6ae2cb88e37c39926d3b3c79?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Oct 28 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 28 |
 | **[Electro](electrogum.com)** | **[Sorority Marketing Coordinator Intern](https://jobright.ai/jobs/info/6ae2c33563f9f9b4b24be9c8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Oct 28 |
 | **[Urban Creator Inc.](https://www.urbancreator.net)** | **[Social Content Marketing Intern (Korean Speaking, Spring 2027)](https://jobright.ai/jobs/info/6ae2c0af0adb76f2a7a7a151?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA, United States | Remote | Oct 28 |
@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Interpret](https://interpret.la/)** | **[Market Research Intern](https://jobright.ai/jobs/info/6ae29a431f9d9308370b34b1?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Oct 28 |
 | **[Duluth Entertainment Convention Center](https://decc.org/)** | **[Marketing Intern - Women's Hockey & Fan Engagement](https://jobright.ai/jobs/info/6ae25f9405a39c3e2c719af4?utm_campaign=1065&utm_source=git)** | Duluth, MN, United States | On Site | Oct 28 |
 | **[Lactalis Group](http://www.lactalis.fr)** | **[Marketing Intern, Foodservice & Ingredients (8 months)](https://jobright.ai/jobs/info/6ae2602205a39c3e2c719b64?utm_campaign=1065&utm_source=git)** | Ontario, Canada | On Site | Oct 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Food & Beverage Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6ae2947305a39c3e2c71b62a?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Oct 28 |
 | **[Fours (formerly Suger)](https://www.suger.io)** | **[Marketing Intern (Contract)](https://jobright.ai/jobs/info/6ae292e205a39c3e2c71b5c7?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Oct 28 |
 | **[SRND AI](https://srnd.ai)** | **[Social Content & Growth Intern (On Camera)](https://jobright.ai/jobs/info/6ae2bc8e05a39c3e2c71c7f8?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Collectors Expo](www.collectorsexpo.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ae2adc26679108488c4d052?utm_campaign=1065&utm_source=git)** | Rosemead, CA, United States | On Site | Oct 28 |
@@ -132,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2027 Social Media & Marketing Analyst Intern](https://jobright.ai/jobs/info/6abd45210e027c0f3b394a66?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 28 |
 | **[BLADE](https://www.blade.com)** | **[Integrated Marketing and Partnership Intern](https://jobright.ai/jobs/info/6ae249e41f9d9308370b052b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 28 |
 | **[Electro](electrogum.com)** | **[Sorority Partnerships & Social Media Intern](https://jobright.ai/jobs/info/6ae247286679108488c49992?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | Remote | Oct 28 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Social Media Marketing Strategy Intern, Spring 2027](https://jobright.ai/jobs/info/6adaca7337aae3f1015436a3?utm_campaign=1065&utm_source=git)** | Glendale, CA, United States | On Site | Oct 28 |
-| ↳ | **[Disney  Public Relations/Communications Intern, Spring 2027](https://jobright.ai/jobs/info/6ada5a053a69033df2258137?utm_campaign=1065&utm_source=git)** | Celebration, FL, United States | On Site | Oct 28 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney  Public Relations/Communications Intern, Spring 2027](https://jobright.ai/jobs/info/6ada5a053a69033df2258137?utm_campaign=1065&utm_source=git)** | Celebration, FL, United States | On Site | Oct 28 |
+| ↳ | **[Social Media Marketing Strategy Intern, Spring 2027](https://jobright.ai/jobs/info/6adaca7337aae3f1015436a3?utm_campaign=1065&utm_source=git)** | Glendale, CA, United States | On Site | Oct 28 |
 | **[Schneider Electric](https://www.se.com)** | **[Summer 2027 Product Marketing Intern](https://jobright.ai/jobs/info/6ae20d90de23f466ec8c21ee?utm_campaign=1065&utm_source=git)** | Andover, MA, United States | On Site | Oct 28 |
 | **[Epic Games](https://epicgames.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6aa87c2ca77a53f5a1579c34?utm_campaign=1065&utm_source=git)** | Cary, NC, United States | On Site | Oct 28 |
 | **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Event and Operations Intern](https://jobright.ai/jobs/info/6ae245621f9d9308370b02ac?utm_campaign=1065&utm_source=git)** | Norfolk, VA, United States | On Site | Oct 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Marketing Coordinator - BMO Rewards Team (Co-op/Internship) Winter 2027](https://jobright.ai/jobs/info/6ae232861f9d9308370af6f5?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 28 |
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern Marketing](https://jobright.ai/jobs/info/6ae20178829a3bada15fffe9?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | Oct 28 |
 | **[National Life Group](https://www.nationallife.com)** | **[Digital Marketing Intern – Summer 2027](https://jobright.ai/jobs/info/6aa8607e654b2a9424cfc7bd?utm_campaign=1065&utm_source=git)** | Addison, TX, United States | Hybrid | Oct 28 |
+| **[Comprehensive Cancer Centers of Nevada](https://cccnevada.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae2306f6679108488c48b68?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
