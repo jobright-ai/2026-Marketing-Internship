@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwire Company](http://southwire.com)** | **[Channel Marketing Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6ae2d21f1c3cd4b406087a69?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 28 |
+| **[Backlinkgen](https://backlinkgen.com)** | **[Digital - Marketing - Intern](https://jobright.ai/jobs/info/6ae2cb88e37c39926d3b3c79?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Oct 28 |
+| **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 28 |
 | **[Electro](electrogum.com)** | **[Sorority Marketing Coordinator Intern](https://jobright.ai/jobs/info/6ae2c33563f9f9b4b24be9c8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Oct 28 |
 | **[Urban Creator Inc.](https://www.urbancreator.net)** | **[Social Content Marketing Intern (Korean Speaking, Spring 2027)](https://jobright.ai/jobs/info/6ae2c0af0adb76f2a7a7a151?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA, United States | Remote | Oct 28 |
 | **[Shure](http://www.shure.com)** | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a9942faf6de551aa0aaf1ec?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | Remote | Oct 28 |
-| **[Backlinkgen](https://backlinkgen.com)** | **[Digital : Marketing - Internship](https://jobright.ai/jobs/info/6ae2bd68d52406f6fbf7357f?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Oct 28 |
-| **[Shure](http://www.shure.com)** | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a989df811f73b6462c8fae5?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | Remote | Oct 28 |
+| ↳ | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a989df811f73b6462c8fae5?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | Remote | Oct 28 |
 | **[ARTSACE](www.artsace.com)** | **[Marketing & PR Internship](https://jobright.ai/jobs/info/6ae2b6986679108488c4d476?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Vitamin World](http://www.vitaminworld.com/)** | **[Social Media & Content Coordinator/Intern](https://jobright.ai/jobs/info/6ae2b1ae05a39c3e2c71c149?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Oct 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a6393b087cef057612c94ce?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 28 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[WiCi AI](https://wici.ai/)** | **[Digital Marketing Intern: Social Media & Paid Ads](https://jobright.ai/jobs/info/6ae2ba351f9d9308370b40e4?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Prosek Partners](http://www.prosek.com/)** | **[Summer 2027 Public Relations Internship](https://jobright.ai/jobs/info/6acff1c9c9f40bec907ff0a3?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 28 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/6ae26b371f9d9308370b1ebb?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 28 |
-| **[Colorstech Solar](https://www.colorstech.net)** | **[Online Digital Marketing - Intern Solar panel - Equipment](https://jobright.ai/jobs/info/6ae2bae01f9d9308370b4135?utm_campaign=1065&utm_source=git)** | Canada | Remote | Oct 28 |
 | **[Aki Lashes](https://www.akilashes.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ae264d9829a3bada1604909?utm_campaign=1065&utm_source=git)** | Torrance, CA, United States | On Site | Oct 28 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[PUBLIC RELATIONS WINTER/SPRING INTERN](https://jobright.ai/jobs/info/6abd408e8ff3fb9b3bc6f4d7?utm_campaign=1065&utm_source=git)** | Bethlehem, PA, United States | On Site | Oct 28 |
 | **[Electro](electrogum.com)** | **[NIL Athlete Relations Intern](https://jobright.ai/jobs/info/6ae262a01f9d9308370b18d0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Oct 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Marketing Coordinator - BMO Rewards Team (Co-op/Internship) Winter 2027](https://jobright.ai/jobs/info/6ae232861f9d9308370af6f5?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 28 |
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern Marketing](https://jobright.ai/jobs/info/6ae20178829a3bada15fffe9?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | Oct 28 |
 | **[National Life Group](https://www.nationallife.com)** | **[Digital Marketing Intern – Summer 2027](https://jobright.ai/jobs/info/6aa8607e654b2a9424cfc7bd?utm_campaign=1065&utm_source=git)** | Addison, TX, United States | Hybrid | Oct 28 |
-| **[Comprehensive Cancer Centers of Nevada](https://cccnevada.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae2306f6679108488c48b68?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
