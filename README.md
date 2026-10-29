@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[15Wins](https://www.15wins.com)** | **[Community & Content Intern](https://jobright.ai/jobs/info/6ae302c3ae910d11c3ae8f74?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 29 |
 | **[Codeable](https://gocodeable.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ae2f089e37c39926d3b4394?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL, United States | On Site | Oct 29 |
 | **[Parfums de Marly](https://parfums-de-marly.com)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/6ae2eed763f9f9b4b24bf377?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Oct 28 |
+| **[Red E, LLC](https://gorede.com)** | **[Web and Digital Marketing Intern](https://jobright.ai/jobs/info/6ae23e7805a39c3e2c7183b7?utm_campaign=1065&utm_source=git)** | Fargo, ND, United States | On Site | Oct 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Food & Beverage Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6ae2947305a39c3e2c71b62a?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Oct 28 |
 | **[Southwire Company](http://southwire.com)** | **[Channel Marketing Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6ae2d21f1c3cd4b406087a69?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Electro](electrogum.com)** | **[Sorority Marketing Coordinator Intern](https://jobright.ai/jobs/info/6ae2c33563f9f9b4b24be9c8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Oct 28 |
@@ -142,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Rush Street Interactive](https://rushstreetinteractive.com/)** | **[Product Marketing Internship- Spring 2027](https://jobright.ai/jobs/info/6aa3c7e74233a2201a2b396f?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Oct 28 |
 | **[ADM](http://www.adm.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6ae23f24eb7e8f715a60be06?utm_campaign=1065&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 28 |
 | **[LCS](https://www.lcsnet.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6aa97fdc3387a3d9b67d54c6?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 28 |
-| **[Red E, LLC](https://gorede.com)** | **[Web and Digital Marketing Intern](https://jobright.ai/jobs/info/6ae23e7805a39c3e2c7183b7?utm_campaign=1065&utm_source=git)** | Fargo, ND, United States | On Site | Oct 28 |
 | **[Northwest Cancer Centers NWI](https://www.nccindiana.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae23a1a6679108488c490d5?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 28 |
 | **[Virginia Cancer Specialists, P.C.](https://virginiacancerspecialists.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae239eb6679108488c490bb?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 28 |
 | **[Mead & Hunt](https://meadhunt.com/)** | **[Business Administration & Marketing Intern](https://jobright.ai/jobs/info/6ae20c2a05a39c3e2c715e61?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Oct 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern Marketing](https://jobright.ai/jobs/info/6ae20178829a3bada15fffe9?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | Oct 28 |
 | **[National Life Group](https://www.nationallife.com)** | **[Digital Marketing Intern – Summer 2027](https://jobright.ai/jobs/info/6aa8607e654b2a9424cfc7bd?utm_campaign=1065&utm_source=git)** | Addison, TX, United States | Hybrid | Oct 28 |
 | **[Comprehensive Cancer Centers of Nevada](https://cccnevada.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae2306f6679108488c48b68?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 28 |
-| **[Maryland Oncology Hematology](https://marylandoncology.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae22f35de23f466ec8c3c44?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
