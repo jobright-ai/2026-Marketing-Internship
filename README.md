@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[NMAC Marketing Communications Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ac6d79a064da25272e1ca66?utm_campaign=1065&utm_source=git)** | Franklin, TN, United States | On Site | Oct 29 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Global Supplier Management Group Indirect Procurement Marketing - Co-op](https://jobright.ai/jobs/info/6ae2315c1f9d9308370af613?utm_campaign=1065&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 29 |
+| **[McKesson](http://www.mckesson.com)** | **[CoverMyMeds Product Marketing Intern- Summer 2027](https://jobright.ai/jobs/info/6ac54572064da25272e15d10?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | Hybrid | Oct 29 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern: Corporate Communications Analyst](https://jobright.ai/jobs/info/6ae2ac78eb7e8f715a60f93e?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 29 |
 | ↳ | **[Summer Intern: Direct Marketing Analyst](https://jobright.ai/jobs/info/6ae2ac7b1f9d9308370b3a2e?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 29 |
 | **[Strayos](https://www.strayos.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a51bbd68d7d3e6cf1cc1f74?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Communications Intern (Volunteer)](https://jobright.ai/jobs/info/6ae26b371f9d9308370b1ebb?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Aki Lashes](https://www.akilashes.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ae264d9829a3bada1604909?utm_campaign=1065&utm_source=git)** | Torrance, CA, United States | On Site | Oct 28 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[PUBLIC RELATIONS WINTER/SPRING INTERN](https://jobright.ai/jobs/info/6abd408e8ff3fb9b3bc6f4d7?utm_campaign=1065&utm_source=git)** | Bethlehem, PA, United States | On Site | Oct 28 |
-| **[Electro](electrogum.com)** | **[NIL Athlete Relations Intern](https://jobright.ai/jobs/info/6ae262a01f9d9308370b18d0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Oct 28 |
-| **[St. Ann Center for Intergenerational Care](https://stanncenter.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ae26097eb7e8f715a60d67f?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
