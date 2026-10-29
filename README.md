@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Food & Beverage Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6ae2947305a39c3e2c71b62a?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Oct 28 |
+| **[Fours (formerly Suger)](https://www.suger.io)** | **[Marketing Intern (Contract)](https://jobright.ai/jobs/info/6ae292e205a39c3e2c71b5c7?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Oct 28 |
 | **[Tapestry](http://www.tapestry.com/)** | **[MBA Intern, Strategy](https://jobright.ai/jobs/info/6ae244141f9d9308370b0217?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 28 |
 | **[EF](http://www.ef.com)** | **[Marketing and Events Co-Op](https://jobright.ai/jobs/info/6ae24a091f9d9308370b054f?utm_campaign=1065&utm_source=git)** | Cambridge, MA, United States | Hybrid | Oct 28 |
 | **[College of Lake County](http://www.clcillinois.edu/)** | **[Social Media and Video Marketing - Student Internship](https://jobright.ai/jobs/info/6ae266436679108488c4b133?utm_campaign=1065&utm_source=git)** | Grayslake, IL, United States | On Site | Oct 28 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Oncology](http://mnoncology.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae22cdc05a39c3e2c7178e4?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 28 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[Public Relations and Corporate Social Responsibility, Co-Op](https://jobright.ai/jobs/info/6ae1fdc3de23f466ec8c1739?utm_campaign=1065&utm_source=git)** | Melville, NY, United States | Hybrid | Oct 28 |
 | **[Walker Sands](https://www.walkersands.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ae2281a829a3bada1601c51?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 28 |
-| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/6ae227bcde23f466ec8c34f2?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 28 |
 | ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/6ae227ce6679108488c482dd?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 28 |
+| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/6ae227bcde23f466ec8c34f2?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 28 |
 | **[HPC Industrial powered by Clean Harbors](https://www.hpc-industrial.com)** | **[Marketing Intern IS / Summer 2027](https://jobright.ai/jobs/info/6ae22c32829a3bada1602132?utm_campaign=1065&utm_source=git)** | Deer Park, TX, United States | On Site | Oct 28 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Marketing Intern IS / Summer 2027](https://jobright.ai/jobs/info/6ae22c2d05a39c3e2c717823?utm_campaign=1065&utm_source=git)** | Deer Park, TX, United States | On Site | Oct 28 |
 | ↳ | **[Marketing Intern IS / Summer 2027](https://jobright.ai/jobs/info/6ae22bebeb7e8f715a60b224?utm_campaign=1065&utm_source=git)** | Deer Park, TX, United States | On Site | Oct 28 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internal Communications Intern](https://jobright.ai/jobs/info/6ae2237e829a3bada1601798?utm_campaign=1065&utm_source=git)** | Arizona, United States | Remote | Oct 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Merchandising Project Intern (TikTok Shop - Supply Strategy) - 2026 Start](https://jobright.ai/jobs/info/6abd009d064da25272dfaeca?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 28 |
 | **[Envelop Group](https://www.envelopgroup.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6aa9573e6d0edc2d91b091cb?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 28 |
-| **[UPL](http://www.upl-ltd.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ac59bca372c01f6cd73a701?utm_campaign=1065&utm_source=git)** | Cary, North Carolina, United States | On Site | Oct 28 |
-| ↳ | **[Marketing Intern Job Details / upllimited](https://jobright.ai/jobs/info/6ad140af18608b6f36f82bf1?utm_campaign=1065&utm_source=git)** | Cary, NC, United States | On Site | Oct 28 |
-| **[North Wind](https://www.north-wind.com)** | **[Intern - Marketing Coordinator](https://jobright.ai/jobs/info/6ae209c905a39c3e2c715cc5?utm_campaign=1065&utm_source=git)** | Newport News, VA, United States | On Site | Oct 28 |
+| **[UPL](http://www.upl-ltd.com/)** | **[Marketing Intern Job Details / upllimited](https://jobright.ai/jobs/info/6ad140af18608b6f36f82bf1?utm_campaign=1065&utm_source=git)** | Cary, NC, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
