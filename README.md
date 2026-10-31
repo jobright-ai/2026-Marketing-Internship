@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medi-Weightloss®](https://www.mediweightloss.com/)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/6ae64ac0d7424a2a828ef2b4?utm_campaign=1065&utm_source=git)** | Drexel Hill, Pennsylvania, United States | On Site | Oct 31 |
+| **[Starbeam](www.starbeam.org)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6ae64a8977c09cb3bd4b57e9?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 31 |
 | **[Everyday Dose](https://www.everydaydose.com/)** | **[Marketing intern](https://jobright.ai/jobs/info/6ae63e8fd45dc30fb7d38a14?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Oct 31 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Communications Operational Excellence (Winter 2027)](https://jobright.ai/jobs/info/6ae638db77c09cb3bd4b55ae?utm_campaign=1065&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 31 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Launch and Promote Music Internship](https://jobright.ai/jobs/info/6ae638caeab1f967309832a5?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Oct 31 |
@@ -68,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Merchandising Intern / Summer 2027](https://jobright.ai/jobs/info/6a91bedaa27a2d3c98489dac?utm_campaign=1065&utm_source=git)** | Brentwood, TN, United States | Hybrid | Oct 31 |
 | **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program- Global Marketing [Bellevue]](https://jobright.ai/jobs/info/6ac7c89151a1b3e4219ee755?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | Remote | Oct 31 |
 | **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/6ac98ea4c3a8af9c54a0b1ef?utm_campaign=1065&utm_source=git)** | Aurora, CO, United States | Hybrid | Oct 31 |
-| **[LCS](https://www.lcsnet.com/)** | **[Market Research Internship](https://jobright.ai/jobs/info/6aad6150de327d3e210d1f90?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 31 |
+| **[LCS](https://www.lcsnet.com/)** | **[Market Research Internship](https://jobright.ai/jobs/info/6aad6b386956574eac8b593a?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 31 |
 | **[Kenvue](https://www.kenvue.com)** | **[Associate Brand Manager Intern](https://jobright.ai/jobs/info/6aadf5ec3d96632d741b0228?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 31 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Commercial Intern](https://jobright.ai/jobs/info/6ae6267bd45dc30fb7d38755?utm_campaign=1065&utm_source=git)** | Louisville, KY, United States | On Site | Oct 31 |
 | **[Electro](electrogum.com)** | **[College Athlete Partnerships Intern](https://jobright.ai/jobs/info/6ae6266ed7424a2a828eee31?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 31 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Project Intern (TikTok LIVE-AMS) - 2026 Start](https://jobright.ai/jobs/info/6ac96b8cc3a8af9c54a0ab15?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Oct 31 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Social Media](https://jobright.ai/jobs/info/6aa431b3f7baf881567cdb3f?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Oct 31 |
 | **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Merchandising Support – Undergrad Internship – Summer 2027](https://jobright.ai/jobs/info/6aac04623d96632d741a8a96?utm_campaign=1065&utm_source=git)** | Mooresville, NC, United States | On Site | Oct 31 |
-| **[TWR Europe](www.twr.org/europe)** | **[Radio Marketing & Station Relations Intern](https://jobright.ai/jobs/info/6ae5c7edfb2cd420ace5f28b?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Digital Marketing Project Intern (TikTok Shop - Seller Marketing) - 2026 Start](https://jobright.ai/jobs/info/6a69bafb09998f68b5a6d5d8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 31 |
 | **[Bayer](https://www.bayer.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6abfdf2f064da25272e0651d?utm_campaign=1065&utm_source=git)** | Whippany, NJ, United States | Hybrid | Oct 31 |
 | **[Planned Parenthood of Orange and San Bernardino Counties](http://www.plannedparenthood.org/orange-san-bernardino)** | **[Marketing Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae54e2fc3139b475b5ba000?utm_campaign=1065&utm_source=git)** | Anaheim, CA, United States | On Site | Oct 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ignitium: ABX Orchestration](https://www.ignitium.com/)** | **[Client Support Intern (Paid Internship) – In-Person / B2B Marketing Tech](https://jobright.ai/jobs/info/6ae507fdd45dc30fb7d34a9e?utm_campaign=1065&utm_source=git)** | Spokane, WA, United States | On Site | Oct 30 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Associate Brand Manager](https://jobright.ai/jobs/info/6a73055932ebbc14ffb4cf7f?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 30 |
 | **[Pattern Energy](http://patternenergy.com)** | **[Communications Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae55685fb2cd420ace5e14c?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Oct 30 |
-| **[NUR - Protein For Daily Hydration](https://nurprotein.com/)** | **[Brand & Community Intern](https://jobright.ai/jobs/info/6ae5053cc3139b475b5b82f6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
