@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Communications (Spring 2027)](https://jobright.ai/jobs/info/6ae5c601eab1f96730982187?utm_campaign=1065&utm_source=git)** | Dublin, VA, United States | On Site | Oct 31 |
+| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Trade Marketing Sales Intern](https://jobright.ai/jobs/info/6aad6df32e757fcb5c8b8513?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD, United States | On Site | Oct 31 |
+| **[HDR](http://www.hdrinc.com)** | **[Resources Marketing Intern](https://jobright.ai/jobs/info/6ac9435efcdafb60c6a4b967?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 31 |
+| ↳ | **[Marketing Intern -Water](https://jobright.ai/jobs/info/6aac50512e757fcb5c8b4f0b?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 31 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Product Marketing - DES](https://jobright.ai/jobs/info/6aab8ffd8e1bf0f764af9c0e?utm_campaign=1065&utm_source=git)** | Shanghai, VA, United States | On Site | Oct 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Project Intern (TikTok LIVE-AMS) - 2026 Start](https://jobright.ai/jobs/info/6ac96b8cc3a8af9c54a0ab15?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Oct 31 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Social Media](https://jobright.ai/jobs/info/6aa431b3f7baf881567cdb3f?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Oct 31 |
 | **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Merchandising Support – Undergrad Internship – Summer 2027](https://jobright.ai/jobs/info/6aac04623d96632d741a8a96?utm_campaign=1065&utm_source=git)** | Mooresville, NC, United States | On Site | Oct 31 |
+| **[TWR Europe](www.twr.org/europe)** | **[Radio Marketing & Station Relations Intern](https://jobright.ai/jobs/info/6ae5c7edfb2cd420ace5f28b?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Digital Marketing Project Intern (TikTok Shop - Seller Marketing) - 2026 Start](https://jobright.ai/jobs/info/6a69bafb09998f68b5a6d5d8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 31 |
 | **[Bayer](https://www.bayer.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6abfdf2f064da25272e0651d?utm_campaign=1065&utm_source=git)** | Whippany, NJ, United States | Hybrid | Oct 31 |
 | **[Planned Parenthood of Orange and San Bernardino Counties](http://www.plannedparenthood.org/orange-san-bernardino)** | **[Marketing Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae54e2fc3139b475b5ba000?utm_campaign=1065&utm_source=git)** | Anaheim, CA, United States | On Site | Oct 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2027 Emerging Markets Internship](https://jobright.ai/jobs/info/6ac00c7e372c01f6cd72a4aa?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[LIFT, Inc.](https://www.whywelift.org)** | **[Communications Intern (Internal LIFT Applicants Only)](https://jobright.ai/jobs/info/6ae4c2a6eab1f9673097c585?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Oct 30 |
 | **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship Program – Customer and Market Research Intern](https://jobright.ai/jobs/info/6ae4c1c1c3139b475b5b5791?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
-| **[Town of Apex](https://apexnc.org)** | **[Special Events Marketing Intern](https://jobright.ai/jobs/info/6ae4c070eab1f9673097c445?utm_campaign=1065&utm_source=git)** | Apex, NC, United States | On Site | Oct 30 |
-| **[Chartwells School Dining Services K12](http://www.chartwellsschools.com/)** | **[Marketing Intern, Chartwells K12 / Unified School District / Arkansas City, KS](https://jobright.ai/jobs/info/6ae4bd7bd45dc30fb7d31a70?utm_campaign=1065&utm_source=git)** | Arkansas City, Kansas, United States | On Site | Oct 30 |
-| **[Snowflake](https://www.snowflake.com)** | **[Product Marketing- Agentic Analytics Intern (Spring 2027)](https://jobright.ai/jobs/info/6ae4bcd9d7424a2a828e80be?utm_campaign=1065&utm_source=git)** | Menlo Park, CA, United States | On Site | Oct 30 |
-| **[Gordon Feinblatt LLC](http://gfrlaw.com)** | **[CSR Intern](https://jobright.ai/jobs/info/6ae501dcd45dc30fb7d3467e?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | On Site | Oct 30 |
-| **[Babbel](http://www.babbel.com)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/6ae4baaf77c09cb3bd4ae1a8?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
