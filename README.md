@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden Coast Social Club](https://www.linkedin.com/company/144047167)** | **[Community Marketing & Events Intern](https://jobright.ai/jobs/info/6ae69fed77c09cb3bd4b61c4?utm_campaign=1065&utm_source=git)** | South Orange County, California, United States | Remote | Oct 31 |
 | **[Autter](https://www.autter.dev/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae69899d7424a2a828efb58?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 31 |
 | **[The Global Institute for Health and Human Rights](http://www.albany.edu/gihhr/)** | **[Digital Marketing Intern, Accounts](https://jobright.ai/jobs/info/6ae6967cfb2cd420ace60e14?utm_campaign=1065&utm_source=git)** | Hudson, OH, United States | Hybrid | Oct 31 |
 | ↳ | **[Marketing Content Intern Summer 2027](https://jobright.ai/jobs/info/6ae6966cd7424a2a828efb28?utm_campaign=1065&utm_source=git)** | Milliken, CO, United States | On Site | Oct 31 |
@@ -76,8 +77,9 @@ For a complete list, click the following sortable link below:
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Commercial Marketing (Summer 2027)](https://jobright.ai/jobs/info/6ab1612d23005eee3545a05a?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | Hybrid | Oct 31 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Merchandising Intern / Summer 2027](https://jobright.ai/jobs/info/6a91bedaa27a2d3c98489dac?utm_campaign=1065&utm_source=git)** | Brentwood, TN, United States | Hybrid | Oct 31 |
 | **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program- Global Marketing [Bellevue]](https://jobright.ai/jobs/info/6ac7c89151a1b3e4219ee755?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | Remote | Oct 31 |
+| **[Revisit App](www.revisitmobileapp.com)** | **[Social Media Marketing Intern - College](https://jobright.ai/jobs/info/6ae6304feab1f96730983177?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Oct 31 |
 | **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/6ac98ea4c3a8af9c54a0b1ef?utm_campaign=1065&utm_source=git)** | Aurora, CO, United States | Hybrid | Oct 31 |
-| **[LCS](https://www.lcsnet.com/)** | **[Market Research Internship](https://jobright.ai/jobs/info/6aad5dcf0ebc8fb2313e8fbd?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 31 |
+| **[LCS](https://www.lcsnet.com/)** | **[Market Research Internship](https://jobright.ai/jobs/info/6aad6150de327d3e210d1f90?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 31 |
 | **[Kenvue](https://www.kenvue.com)** | **[Associate Brand Manager Intern](https://jobright.ai/jobs/info/6aadf5ec3d96632d741b0228?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 31 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Commercial Intern](https://jobright.ai/jobs/info/6ae6267bd45dc30fb7d38755?utm_campaign=1065&utm_source=git)** | Louisville, KY, United States | On Site | Oct 31 |
 | **[Electro](electrogum.com)** | **[College Athlete Partnerships Intern](https://jobright.ai/jobs/info/6ae6266ed7424a2a828eee31?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 31 |
@@ -133,6 +135,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Internship Program – Communications Intern](https://jobright.ai/jobs/info/6ae5760fd45dc30fb7d36dd9?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/6ac085188ff3fb9b3bc7c455?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[North Side Christian Health Center](https://www.nschc.org/)** | **[Intern - Development & Marketing](https://jobright.ai/jobs/info/6ae6922cd7424a2a828efaa3?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 30 |
+| **[Boma Labs](https://www.linkedin.com/company/146682293)** | **[MBA Intern](https://jobright.ai/jobs/info/6ae57b9677c09cb3bd4b3a41?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 30 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6ae57ab2eab1f9673098180f?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 30 |
 | **[FAIRWINDS Credit Union](https://www.fairwinds.org)** | **[Video Production Intern - Marketing](https://jobright.ai/jobs/info/6ae24cc2829a3bada16035e6?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Oct 30 |
 | **[Kiewit](http://www.kiewit.com)** | **[Communication Coordinator Co-op - Winter 2027 (8 months) Job Details / Kiewit](https://jobright.ai/jobs/info/6ae57605eab1f967309816f8?utm_campaign=1065&utm_source=git)** | Darlington, ON, Canada | On Site | Oct 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Power Digital Marketing](https://powerdigitalmarketing.com)** | **[PPC Intern, Spring 2027](https://jobright.ai/jobs/info/6ae5096877c09cb3bd4b1575?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 30 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae525f0d45dc30fb7d35860?utm_campaign=1065&utm_source=git)** | Webster Groves, MO, United States | On Site | Oct 30 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Internal Communication Intern- Spring 2027](https://jobright.ai/jobs/info/6ae51025d45dc30fb7d34ea1?utm_campaign=1065&utm_source=git)** | Alabama, United States | Remote | Oct 30 |
-| **[D.C. United](http://dcunited.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ae524d3d45dc30fb7d357fe?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Oct 30 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Trade Marketing and Content Intern](https://jobright.ai/jobs/info/6ac6a51f0e027c0f3b3b3967?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
-| ↳ | **[Summer 2027 Internship Program – Trade Marketing and Content Intern](https://jobright.ai/jobs/info/6ae50245d45dc30fb7d346f4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
