@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Tourism Industry Engagement Intern - Spring 2027](https://jobright.ai/jobs/info/6ac7ba5c0e573df8adc73d58?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 31 |
+| **[HP](http://www.hp.com)** | **[Product Marketing / Portfolio Strategy Intern : Insight & Strategy (Agentic AI Focus)](https://jobright.ai/jobs/info/6aa54e8a82e82a31997bd2f2?utm_campaign=1065&utm_source=git)** | Spring, TX, United States | On Site | Oct 31 |
 | **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Marketing (ETF)](https://jobright.ai/jobs/info/6ae6d353d7424a2a828f051e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 31 |
 | **[Northwell Health](https://www.northwell.edu/)** | **[Development and Fundraising Internship](https://jobright.ai/jobs/info/6ae6c864fb2cd420ace615e8?utm_campaign=1065&utm_source=git)** | New Hyde Park, NY, United States | Hybrid | Oct 31 |
 | **[TikTok](https://www.tiktok.com)** | **[TTS-US Merchandising Strategy Operation Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a701902f5953013637f7222?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 31 |
@@ -68,8 +70,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Digital Analytics Intern Summer 2027](https://jobright.ai/jobs/info/6ae695d3eab1f96730983cbf?utm_campaign=1065&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 31 |
 | **[ejobs Finland](http://www.ejobs.fi/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ae68e7ec3139b475b5bcd9e?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 31 |
 | **[ai.moms](https://aimoms.ai/)** | **[Brand Partnerships Intern](https://jobright.ai/jobs/info/6ae68566eab1f96730983ab5?utm_campaign=1065&utm_source=git)** | NY, United States | Remote | Oct 31 |
-| **[Kennywood Park](https://www.kennywood.com/)** | **[Adventureland Park - Food & Beverage Intern (Marketing)](https://jobright.ai/jobs/info/6ae6d475eab1f9673098468b?utm_campaign=1065&utm_source=git)** | Altoona, IA, United States | On Site | Oct 31 |
-| ↳ | **[Adventureland Park - Marketing & Content Intern](https://jobright.ai/jobs/info/6ae6d46f77c09cb3bd4b6ac2?utm_campaign=1065&utm_source=git)** | Altoona, IA, United States | On Site | Oct 31 |
+| **[University of Utah Financial Services](https://financialservices.utah.edu)** | **[OCHE Intern](https://jobright.ai/jobs/info/6ae6de9fc3139b475b5bd943?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 31 |
+| **[Kennywood Park](https://www.kennywood.com/)** | **[Adventureland Park - Marketing & Content Intern](https://jobright.ai/jobs/info/6ae6d46f77c09cb3bd4b6ac2?utm_campaign=1065&utm_source=git)** | Altoona, IA, United States | On Site | Oct 31 |
+| ↳ | **[Adventureland Park - Food & Beverage Intern (Marketing)](https://jobright.ai/jobs/info/6ae6d475eab1f9673098468b?utm_campaign=1065&utm_source=git)** | Altoona, IA, United States | On Site | Oct 31 |
 | **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Marketing (Email Team)](https://jobright.ai/jobs/info/6ae6d5cd77c09cb3bd4b6adb?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 31 |
 | **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6ae67da0d7424a2a828ef808?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 31 |
 | **[Electro](electrogum.com)** | **[Social Media & Creator Partnerships Intern](https://jobright.ai/jobs/info/6ae65fa2d45dc30fb7d38e9d?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 31 |
@@ -85,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Merchandising Intern / Summer 2027](https://jobright.ai/jobs/info/6a91bedaa27a2d3c98489dac?utm_campaign=1065&utm_source=git)** | Brentwood, TN, United States | Hybrid | Oct 31 |
 | **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program- Global Marketing [Bellevue]](https://jobright.ai/jobs/info/6ac7c89151a1b3e4219ee755?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | Remote | Oct 31 |
 | **[Revisit App](www.revisitmobileapp.com)** | **[Social Media Marketing Intern - College](https://jobright.ai/jobs/info/6ae6304feab1f96730983177?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Oct 31 |
-| **[LCS](https://www.lcsnet.com/)** | **[Market Research Internship](https://jobright.ai/jobs/info/6aad6b386956574eac8b593a?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 31 |
+| **[LCS](https://www.lcsnet.com/)** | **[Market Research Internship](https://jobright.ai/jobs/info/6aad592f2e757fcb5c8b7c7b?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 31 |
 | **[Kenvue](https://www.kenvue.com)** | **[Associate Brand Manager Intern](https://jobright.ai/jobs/info/6aadf5ec3d96632d741b0228?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 31 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Commercial Intern](https://jobright.ai/jobs/info/6ae6267bd45dc30fb7d38755?utm_campaign=1065&utm_source=git)** | Louisville, KY, United States | On Site | Oct 31 |
 | **[Electro](electrogum.com)** | **[College Athlete Partnerships Intern](https://jobright.ai/jobs/info/6ae6266ed7424a2a828eee31?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 31 |
@@ -128,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Philip Morris International U.S.](https://www.uspmi.com)** | **[Undergraduate Intern - Commercial Capability & Marketing Summer 2027](https://jobright.ai/jobs/info/6aad3a7fde327d3e210d1510?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | Hybrid | Oct 31 |
 | **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Communications (Spring 2027)](https://jobright.ai/jobs/info/6ae5c601eab1f96730982187?utm_campaign=1065&utm_source=git)** | Dublin, VA, United States | On Site | Oct 31 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Trade Marketing Sales Intern](https://jobright.ai/jobs/info/6aad6df32e757fcb5c8b8513?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD, United States | On Site | Oct 31 |
-| **[HDR](http://www.hdrinc.com)** | **[Resources Marketing Intern](https://jobright.ai/jobs/info/6ac937746355f8776ff180f1?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 31 |
+| **[HDR](http://www.hdrinc.com)** | **[Resources Marketing Intern](https://jobright.ai/jobs/info/6ac93577fe8f33a85d502d7d?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 31 |
 | ↳ | **[Marketing Intern -Water](https://jobright.ai/jobs/info/6aac50512e757fcb5c8b4f0b?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 31 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Product Marketing - DES](https://jobright.ai/jobs/info/6aab8ffd8e1bf0f764af9c0e?utm_campaign=1065&utm_source=git)** | Shanghai, VA, United States | On Site | Oct 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Project Intern (TikTok LIVE-AMS) - 2026 Start](https://jobright.ai/jobs/info/6ac96b8cc3a8af9c54a0ab15?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Oct 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[PCL Category Project Intern (TikTok Shop - Home & Kitchen - US Operation) - 2026 Start (BS) - 2027 Start](https://jobright.ai/jobs/info/6ae553a3d45dc30fb7d36646?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Oct 30 |
 | **[Umbrex](http://www.umbrex.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6ae55260fb2cd420ace5e00b?utm_campaign=1065&utm_source=git)** | Astoria, NY, United States | Hybrid | Oct 30 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Revenue Operations Intern](https://jobright.ai/jobs/info/6ae4e147c3139b475b5b6d4b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
-| ↳ | **[Marketing Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4ea9cd7424a2a828ea005?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
-| ↳ | **[Advertising Business Operations & Enablement Operations Intern](https://jobright.ai/jobs/info/6ae4e146d45dc30fb7d3327d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
-| ↳ | **[Audience Team Intern, NYT Wirecutter](https://jobright.ai/jobs/info/6ae4e148d45dc30fb7d3327f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
