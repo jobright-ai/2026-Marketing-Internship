@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Backlinkgen](https://backlinkgen.com)** | **[Internship to Internet Marketing Work](https://jobright.ai/jobs/info/6aea0be1897466e69e31abb9?utm_campaign=1065&utm_source=git)** | Canada | Remote | Nov 03 |
-| **[Colorstech Solar](https://www.colorstech.net)** | **[Online Promotion Intern for Solar Equipment](https://jobright.ai/jobs/info/6aea0bcc913589212b1f2987?utm_campaign=1065&utm_source=git)** | Canada | Remote | Nov 03 |
+| **[Hockey Hall of Fame](https://www.hhof.com )** | **[Internship: HHOF Diversity in Hockey Program](https://jobright.ai/jobs/info/6aea1939913589212b1f36fd?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 03 |
+| **[LCS](https://www.lcsnet.com/)** | **[Marketing and Sales Systems Intern](https://jobright.ai/jobs/info/6ada659603d2da7528914ac3?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 03 |
+| **[UBS](https://www.ubs.com)** | **[Internship](https://jobright.ai/jobs/info/6adc1e5d389e06bb41ad5422?utm_campaign=1065&utm_source=git)** | Birmingham, MI, United States | On Site | Nov 03 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6ae9f62473d24ab055c59b03?utm_campaign=1065&utm_source=git)** | Detroit, MI, United States | On Site | Nov 03 |
+| **[TN Voices](https://www.tnvoices.org)** | **[Communications and Development Intern](https://jobright.ai/jobs/info/6aea134e897466e69e31b42f?utm_campaign=1065&utm_source=git)** | Goodlettsville, TN, United States | Hybrid | Nov 03 |
+| **[ABB](https://global.abb/group/en)** | **[Marketing and Communications Intern - Mining & Materials-Winter 2027](https://jobright.ai/jobs/info/6ad94cf067bec1d0d9c8550b?utm_campaign=1065&utm_source=git)** | Saint-Laurent, Quebec, Canada | On Site | Nov 03 |
+| **[Rescue Mission Alliance](https://www.erescuemission.org/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6aea0fa84f991d64376ca223?utm_campaign=1065&utm_source=git)** | Syracuse, NY, United States | On Site | Nov 03 |
+| **[ALTIVIA](http://altivia.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6aea0f8cfc85f3a39432fba5?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Nov 03 |
+| **[Drive](https://drivenash.com)** | **[Fall Marketing Intern](https://jobright.ai/jobs/info/6aea0f041ba298c77776ec4c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[Reporters Committee](http://rcfp.org/)** | **[Summer 2027 Communications Internship](https://jobright.ai/jobs/info/6aea0b52fc85f3a39432f636?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 03 |
 | **[City of Hilliard, Ohio USA](https://hilliardohio.gov)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6aea0b2a1ba298c77776e803?utm_campaign=1065&utm_source=git)** | Hilliard, OH, United States | On Site | Nov 03 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Marketing Measurement Intern](https://jobright.ai/jobs/info/6aea09f0440b469a1c0a9665?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 03 |
@@ -77,8 +84,7 @@ For a complete list, click the following sortable link below:
 | **[At Home Group Inc.](https://www.athome.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6ab18879f9692ca98b04a2c3?utm_campaign=1065&utm_source=git)** | Coppell, TX, United States | Hybrid | Nov 03 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham 2027 Summer Internship - Corporate Marketing & Communications Digital Content Intern](https://jobright.ai/jobs/info/6ab15c67f9692ca98b04911c?utm_campaign=1065&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 03 |
 | **[The Social Institute](https://www.thesocialinstitute.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae9f63ca5966d341d02ba99?utm_campaign=1065&utm_source=git)** | Durham, NC, United States | Remote | Nov 03 |
-| **[UBS](https://www.ubs.com)** | **[Internship](https://jobright.ai/jobs/info/6ae9f62473d24ab055c59b03?utm_campaign=1065&utm_source=git)** | Detroit, MI, United States | On Site | Nov 03 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae9f61a73d24ab055c59af9?utm_campaign=1065&utm_source=git)** | Midland, TX, United States | On Site | Nov 03 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6ae9f61a73d24ab055c59af9?utm_campaign=1065&utm_source=git)** | Midland, TX, United States | On Site | Nov 03 |
 | **[Convivial Brands](https://convivialbrands.com)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/6ae9f32873d24ab055c59993?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 03 |
 | **[Westfield Insurance](http://www.westfieldinsurance.com)** | **[2027 Summer Intern Program- Marketing Intern, NYC](https://jobright.ai/jobs/info/6ab1bdab191d8c340dbdcaf3?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[Autter](https://www.autter.dev/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aea0bb7913589212b1f297a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
@@ -142,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[The Michaels Organization](https://tmo.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/6ae8f57203f4a1104b258203?utm_campaign=1065&utm_source=git)** | Camden, NJ, United States | On Site | Nov 02 |
 | ↳ | **[Leasing & Marketing Intern](https://jobright.ai/jobs/info/6ae8f698fb2cd420ace6aa23?utm_campaign=1065&utm_source=git)** | Camden, NJ, United States | On Site | Nov 02 |
 | **[ShipNinja](https://shipninja.co/)** | **[Outreach & Growth Intern (Unpaid, Winter Internship)](https://jobright.ai/jobs/info/6ae9276c061d6d7ff3d80d95?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 02 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2027 Summer Internship (US) - Social Media](https://jobright.ai/jobs/info/6aea16cf897466e69e31b656?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Nov 02 |
 | **[Breakwater Strategy](https://www.breakwaterstrategy.com)** | **[Intern, Strategic Communications and Insights](https://jobright.ai/jobs/info/6ae908c0fb2cd420ace6b74e?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 02 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - International Ecommerce Fulfillment](https://jobright.ai/jobs/info/6ae8d8aaa2a252e21942a123?utm_campaign=1065&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
 | ↳ | **[CDS Intern - Marketing Technology](https://jobright.ai/jobs/info/6ae8d8b36c51033758f43705?utm_campaign=1065&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Communications (8 Months)](https://jobright.ai/jobs/info/6ae918616c51033758f46336?utm_campaign=1065&utm_source=git)** | North Vancouver, BC, Canada | On Site | Nov 02 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Revenue Growth Management](https://jobright.ai/jobs/info/6aa19b80500b01124c77dd94?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 02 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Revenue Growth Management](https://jobright.ai/jobs/info/6aa19cd12f936e4a53dacf5e?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 02 |
-| **[Visions Federal Credit Union](https://www.visionsfcu.org)** | **[Campus Engagement Intern- Syracuse University, NY](https://jobright.ai/jobs/info/6ae91263777c336eb6d69606?utm_campaign=1065&utm_source=git)** | Syracuse, NY, United States | On Site | Nov 02 |
-| ↳ | **[Campus Engagement Intern- Binghamton University, NY](https://jobright.ai/jobs/info/6ae91277a2a252e21942c8e6?utm_campaign=1065&utm_source=git)** | Binghamton, NY, United States | On Site | Nov 02 |
-| **[Children's Museum of Discovery](https://www.sdcdm.org/about)** | **[Spring Marketing Intern](https://jobright.ai/jobs/info/6ae91b7a03f4a1104b259d5a?utm_campaign=1065&utm_source=git)** | Escondido, CA, United States | On Site | Nov 02 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Marketing Technology](https://jobright.ai/jobs/info/6ae8da446c51033758f43813?utm_campaign=1065&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
-| **[&Barr](http://andbarr.co)** | **[2027 Summer SOCIAL MEDIA INTERN](https://jobright.ai/jobs/info/6ae944e243826864b0fb881a?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Nov 02 |
-| ↳ | **[2027 Spring Public Relations Intern](https://jobright.ai/jobs/info/6ae944e232411b3e5a2dfec1?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Nov 02 |
-| **[Linder Health](https://linderhealth.com)** | **[Marketing Coordinator, Special Programs (Part-Time/Intern)](https://jobright.ai/jobs/info/6ae91b38777c336eb6d69b10?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
