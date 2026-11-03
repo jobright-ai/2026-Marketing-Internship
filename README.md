@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Viettonkin Consulting](https://www.viettonkinconsulting.com/)** | **[Research and Content Marketing Intern Based in the U.S.](https://jobright.ai/jobs/info/6ae9aef032411b3e5a2e1a93?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Life Reporting Intern](https://jobright.ai/jobs/info/6a6cedd3ca1f933846601833?utm_campaign=1065&utm_source=git)** | Topeka, KS, United States | On Site | Nov 03 |
+| **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Merchandising Collateral Production - Undergrad Internship - Summer 2027](https://jobright.ai/jobs/info/6ab1689c23005eee3545a33c?utm_campaign=1065&utm_source=git)** | Mooresville, NC, United States | On Site | Nov 03 |
+| ↳ | **[Merchandising Operations – Undergrad Internship – Summer 2027](https://jobright.ai/jobs/info/6ab14eead43eb922ca0bde67?utm_campaign=1065&utm_source=git)** | Mooresville, NC, United States | On Site | Nov 03 |
 | **[Paylocity](http://www.paylocity.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6ac44cf44ac55253f5d72169?utm_campaign=1065&utm_source=git)** | Schaumburg, IL, United States | On Site | Nov 02 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Marketing MBA Intern, AI Infrastructure — Summer 2027](https://jobright.ai/jobs/info/6ae8ec63777c336eb6d67a1a?utm_campaign=1065&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 02 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae3231ed45dc30fb7d278fc?utm_campaign=1065&utm_source=git)** | Spring, TX, United States | Hybrid | Nov 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Arena Marketing Intern / Part-Time / Addition Financial Arena](https://jobright.ai/jobs/info/6ae8ee5dfb2cd420ace6a3e4?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Nov 02 |
 | **[Nintendo](http://nintendo.com)** | **[Intern – Product Public Relations](https://jobright.ai/jobs/info/6ad66cb33dc655658d8e5e84?utm_campaign=1065&utm_source=git)** | Redmond, WA, United States | On Site | Nov 02 |
 | **[GZTV Inc.](www.gztvnetwork.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6ae955b073d24ab055c56bfc?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 02 |
-| **[Rubenstein Public Relations](https://www.rubensteinpr.com/)** | **[Spring  PR Internship](https://jobright.ai/jobs/info/6ae8e2cc03f4a1104b2576ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
-| **[LV Collective](https://lvcollective.com)** | **[Digital Marketing Intern / Rambler Gainesville](https://jobright.ai/jobs/info/6a55c05eec54dd532d813188?utm_campaign=1065&utm_source=git)** | Gainesville, FL, United States | Remote | Nov 02 |
-| ↳ | **[Digital Marketing Intern / Rambler Gainesville](https://jobright.ai/jobs/info/69fb823b18b94b2515be2dfa?utm_campaign=1065&utm_source=git)** | Gainesville, Florida, United States | Hybrid | Nov 02 |
-| **[Unishippers TCP](http://www.unishippers.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6ae8e1cb6c51033758f43db1?utm_campaign=1065&utm_source=git)** | Mount Clemens, MI, United States | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
