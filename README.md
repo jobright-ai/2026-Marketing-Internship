@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bayer](https://www.bayer.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6abfdf2f064da25272e0651d?utm_campaign=1065&utm_source=git)** | Whippany, NJ, United States | Hybrid | Nov 03 |
+| **[Emerson](http://www.emerson.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6ab19b24f9692ca98b04aae8?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, United States | Hybrid | Nov 03 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Go-To-Market Intern](https://jobright.ai/jobs/info/6a958baf3843db01599059e9?utm_campaign=1065&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 03 |
+| ↳ | **[2027 Summer Wealth Management Marketing Intern](https://jobright.ai/jobs/info/6a958baac8763a3a87ffa811?utm_campaign=1065&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 03 |
+| **[Unisys](http://www.unisys.com)** | **[Digital & AI Marketing Intern / US](https://jobright.ai/jobs/info/6ae998c3a291a1db4de24ade?utm_campaign=1065&utm_source=git)** | Blue Bell, PA, United States | On Site | Nov 03 |
 | **[Viettonkin Consulting](https://www.viettonkinconsulting.com/)** | **[Research and Content Marketing Intern Based in the U.S.](https://jobright.ai/jobs/info/6ae9aef032411b3e5a2e1a93?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Life Reporting Intern](https://jobright.ai/jobs/info/6a6cedd3ca1f933846601833?utm_campaign=1065&utm_source=git)** | Topeka, KS, United States | On Site | Nov 03 |
 | **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Merchandising Collateral Production - Undergrad Internship - Summer 2027](https://jobright.ai/jobs/info/6ab1689c23005eee3545a33c?utm_campaign=1065&utm_source=git)** | Mooresville, NC, United States | On Site | Nov 03 |
 | ↳ | **[Merchandising Operations – Undergrad Internship – Summer 2027](https://jobright.ai/jobs/info/6ab14eead43eb922ca0bde67?utm_campaign=1065&utm_source=git)** | Mooresville, NC, United States | On Site | Nov 03 |
-| **[Paylocity](http://www.paylocity.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6ac44cf44ac55253f5d72169?utm_campaign=1065&utm_source=git)** | Schaumburg, IL, United States | On Site | Nov 02 |
+| **[Paylocity](http://www.paylocity.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6ac43ca48ff3fb9b3bc85037?utm_campaign=1065&utm_source=git)** | Schaumburg, IL, United States | On Site | Nov 02 |
+| ↳ | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6ac44cf44ac55253f5d72169?utm_campaign=1065&utm_source=git)** | Schaumburg, IL, United States | On Site | Nov 02 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Marketing MBA Intern, AI Infrastructure — Summer 2027](https://jobright.ai/jobs/info/6ae8ec63777c336eb6d67a1a?utm_campaign=1065&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 02 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae3231ed45dc30fb7d278fc?utm_campaign=1065&utm_source=git)** | Spring, TX, United States | Hybrid | Nov 02 |
 | **[JSX](http://www.jsx.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae935d073d24ab055c560b3?utm_campaign=1065&utm_source=git)** | Dallas, Texas, United States | On Site | Nov 02 |
@@ -95,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[The Michaels Organization](https://tmo.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/6ae8f57203f4a1104b258203?utm_campaign=1065&utm_source=git)** | Camden, NJ, United States | On Site | Nov 02 |
 | ↳ | **[Leasing & Marketing Intern](https://jobright.ai/jobs/info/6ae8f698fb2cd420ace6aa23?utm_campaign=1065&utm_source=git)** | Camden, NJ, United States | On Site | Nov 02 |
 | **[ShipNinja](https://shipninja.co/)** | **[Outreach & Growth Intern (Unpaid, Winter Internship)](https://jobright.ai/jobs/info/6ae9276c061d6d7ff3d80d95?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 02 |
-| **[Unisys](http://www.unisys.com)** | **[Digital & AI Marketing Intern / US](https://jobright.ai/jobs/info/6ae998c3a291a1db4de24ade?utm_campaign=1065&utm_source=git)** | Blue Bell, PA, United States | On Site | Nov 02 |
 | **[Breakwater Strategy](https://www.breakwaterstrategy.com)** | **[Intern, Strategic Communications and Insights](https://jobright.ai/jobs/info/6ae908c0fb2cd420ace6b74e?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 02 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - International Ecommerce Fulfillment](https://jobright.ai/jobs/info/6ae8d8aaa2a252e21942a123?utm_campaign=1065&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
 | ↳ | **[CDS Intern - Marketing Technology](https://jobright.ai/jobs/info/6ae8d8b36c51033758f43705?utm_campaign=1065&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
@@ -143,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[The Daily Pour](https://thedailypour.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ae9038d03f4a1104b258db3?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 02 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6ae90146fb2cd420ace6b273?utm_campaign=1065&utm_source=git)** | Hilliard, OH, United States | On Site | Nov 02 |
 | **[Autism Speaks](https://www.autismspeaks.org/)** | **[Spring Western PA Events Intern (Remote)](https://jobright.ai/jobs/info/6ae9000ffb2cd420ace6b1da?utm_campaign=1065&utm_source=git)** | Western Pennsylvania, United States | Remote | Nov 02 |
-| ↳ | **[Spring Events Columbus, OH Intern (Remote)](https://jobright.ai/jobs/info/6ae9000b03f4a1104b258bcb?utm_campaign=1065&utm_source=git)** | Central Ohio, United States | Remote | Nov 02 |
 | ↳ | **[Spring Washington, DC Community Engagement Intern](https://jobright.ai/jobs/info/6ae9000ba2a252e21942bc5b?utm_campaign=1065&utm_source=git)** | Maryland, United States | Remote | Nov 02 |
+| ↳ | **[Spring Events Columbus, OH Intern (Remote)](https://jobright.ai/jobs/info/6ae9000b03f4a1104b258bcb?utm_campaign=1065&utm_source=git)** | Central Ohio, United States | Remote | Nov 02 |
 | ↳ | **[Spring Western PA Events Intern (Remote)](https://jobright.ai/jobs/info/6ae8fd5903f4a1104b258aaa?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Remote | Nov 02 |
 | **[Edgewater Family Wealth](https://edgewaterfamilywealth.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae8fbfb777c336eb6d687eb?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Nov 02 |
 | **[Method Communications](http://methodcommunications.com/)** | **[Graduate Associate, Social & Influencer (Paid Internship)](https://jobright.ai/jobs/info/6ae8dc75fb2cd420ace69880?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Biodesix, Inc.](http://www.biodesix.com)** | **[Marketing Internship (Graduate)](https://jobright.ai/jobs/info/6ae8f8fd6c51033758f44ee0?utm_campaign=1065&utm_source=git)** | Louisville, Colorado, United States | On Site | Nov 02 |
 | ↳ | **[Marketing Internship (Undergraduate)](https://jobright.ai/jobs/info/6ae8f7c5061d6d7ff3d7f145?utm_campaign=1065&utm_source=git)** | Louisville, Colorado, United States | On Site | Nov 02 |
 | **[DowntownDC BID](https://www.downtowndc.org)** | **[Copy of DowntownDC BID - Marketing and Communications Intern (16 to 29 hours/week)](https://jobright.ai/jobs/info/6ae8e62da2a252e21942aa26?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 02 |
-| **[BBVA](https://bbva.csod.com)** | **[2027 Global Markets Summer Internship](https://jobright.ai/jobs/info/6ae8ef3803f4a1104b257e06?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
-| **[AVI Foodsystems](http://www.AVIFoodsystems.com)** | **[Marketing Intern (Oberlin College)](https://jobright.ai/jobs/info/6ae8ef2f061d6d7ff3d7e9b6?utm_campaign=1065&utm_source=git)** | Oberlin, OH, United States | On Site | Nov 02 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Arena Marketing Intern / Part-Time / Addition Financial Arena](https://jobright.ai/jobs/info/6ae8ee5dfb2cd420ace6a3e4?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Nov 02 |
-| **[Nintendo](http://nintendo.com)** | **[Intern – Product Public Relations](https://jobright.ai/jobs/info/6ad66cb33dc655658d8e5e84?utm_campaign=1065&utm_source=git)** | Redmond, WA, United States | On Site | Nov 02 |
-| **[GZTV Inc.](www.gztvnetwork.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6ae955b073d24ab055c56bfc?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
