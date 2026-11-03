@@ -57,18 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paylocity](http://www.paylocity.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6ac44cf44ac55253f5d72169?utm_campaign=1065&utm_source=git)** | Schaumburg, IL, United States | On Site | Nov 02 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Marketing MBA Intern, AI Infrastructure — Summer 2027](https://jobright.ai/jobs/info/6ae8ec63777c336eb6d67a1a?utm_campaign=1065&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 02 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae3231ed45dc30fb7d278fc?utm_campaign=1065&utm_source=git)** | Spring, TX, United States | Hybrid | Nov 02 |
 | **[JSX](http://www.jsx.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae935d073d24ab055c560b3?utm_campaign=1065&utm_source=git)** | Dallas, Texas, United States | On Site | Nov 02 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Marketing Intern - Run](https://jobright.ai/jobs/info/6ae91a04777c336eb6d69a58?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | On Site | Nov 02 |
 | ↳ | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/6ae919ef03f4a1104b259c57?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | On Site | Nov 02 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6ae9683373d24ab055c57239?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 02 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6ae9682732411b3e5a2e08ed?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 02 |
+| **[Electro](electrogum.com)** | **[Social Media & Community Intern](https://jobright.ai/jobs/info/6ae9823232411b3e5a2e1395?utm_campaign=1065&utm_source=git)** | Kansas, United States | Remote | Nov 02 |
+| **[Liberty Tax](https://www.libertytax.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae981a873d24ab055c57c9a?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Nov 02 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6ae91367777c336eb6d696cc?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 02 |
 | **[mtheory LLC](http://mtheory.com)** | **[Spring Nashville Creative Marketing Internship / 2027](https://jobright.ai/jobs/info/6ae8d5fe6c51033758f434c2?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Nov 02 |
 | ↳ | **[Spring Nashville General Marketing Internship / Spring 2027](https://jobright.ai/jobs/info/6ae8f27c061d6d7ff3d7ebba?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Nov 02 |
 | ↳ | **[Spring NYC Content Marketing Internship / 2027](https://jobright.ai/jobs/info/6ae8d635061d6d7ff3d7d977?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 02 |
 | ↳ | **[Spring Nashville Audience Development Internship / Spring 2027](https://jobright.ai/jobs/info/6ae8d60c061d6d7ff3d7d95d?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Nov 02 |
-| **[dataing](https://www.dataing.io/)** | **[Part-time Marketing Intern – Content & Strategy](https://jobright.ai/jobs/info/6ae9469432411b3e5a2dff30?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 02 |
 | **[The New York Times](https://www.nytco.com/)** | **[Marketing Intern, Games](https://jobright.ai/jobs/info/6ae8d727777c336eb6d66c76?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 02 |
 | **[The Riverside Company](http://riversidecompany.com)** | **[2027 Summer Internship, Fundraising & Investor Relations](https://jobright.ai/jobs/info/6ae94260e50c01a743a88372?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Electro](electrogum.com)** | **[Sorority Partnerships & Campaigns Intern](https://jobright.ai/jobs/info/6ae935bb73d24ab055c5609e?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Nov 02 |
@@ -88,7 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leasing & Marketing Intern](https://jobright.ai/jobs/info/6ae8f698fb2cd420ace6aa23?utm_campaign=1065&utm_source=git)** | Camden, NJ, United States | On Site | Nov 02 |
 | **[ShipNinja](https://shipninja.co/)** | **[Outreach & Growth Intern (Unpaid, Winter Internship)](https://jobright.ai/jobs/info/6ae9276c061d6d7ff3d80d95?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Breakwater Strategy](https://www.breakwaterstrategy.com)** | **[Intern, Strategic Communications and Insights](https://jobright.ai/jobs/info/6ae908c0fb2cd420ace6b74e?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 02 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - International Ecommerce Fulfillment](https://jobright.ai/jobs/info/6ae8da24777c336eb6d66ecd?utm_campaign=1065&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
+| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - International Ecommerce Fulfillment](https://jobright.ai/jobs/info/6ae8d8aaa2a252e21942a123?utm_campaign=1065&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
 | ↳ | **[CDS Intern - Marketing Technology](https://jobright.ai/jobs/info/6ae8d8b36c51033758f43705?utm_campaign=1065&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - Brand Coordinator](https://jobright.ai/jobs/info/6ae8f7c7a2a252e21942b6b3?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 02 |
 | ↳ | **[Summer Intern 2027 - Global Retirement Marketing](https://jobright.ai/jobs/info/6ae8f7bb061d6d7ff3d7f12e?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LV Collective](https://lvcollective.com)** | **[Digital Marketing Intern / Rambler Northgate](https://jobright.ai/jobs/info/6a52a93b8ef95364ead8f470?utm_campaign=1065&utm_source=git)** | College Station, TX, United States | Remote | Nov 02 |
 | **[JAM](https://jamgroup.com)** | **[Adult Sport League Internship](https://jobright.ai/jobs/info/6ae8df29fb2cd420ace69aab?utm_campaign=1065&utm_source=git)** | Kalamazoo, MI, United States | On Site | Nov 02 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ae8dbeea2a252e21942a355?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 02 |
-| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Philanthropy Intern](https://jobright.ai/jobs/info/6ae8d999777c336eb6d66e5a?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 02 |
-| **[Kelley | Uustal Trial Attorneys](https://kelleyuustal.com)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/6a5e4fa1050c423c792ee674?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 02 |
-| **[Black Birth Justice](https://www.blackbirthjustice.org/)** | **[Social Media & Communications Intern](https://jobright.ai/jobs/info/6ae8d8ec061d6d7ff3d7db99?utm_campaign=1065&utm_source=git)** | Louisville, KY, United States | Hybrid | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
