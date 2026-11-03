@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freeport-McMoRan](https://fcx.com)** | **[2027 Summer Internship - Social Media & Marketing - Hybrid Job Details / Freeport McMoRan](https://jobright.ai/jobs/info/6ae9dc1d2b0b1eb5805b4821?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Nov 03 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management Communications (Year-Round)](https://jobright.ai/jobs/info/6ae83ffdfb2cd420ace65517?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 03 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring Music Group PR & Promo Intern](https://jobright.ai/jobs/info/6acd6101d113c967e3c7d9e2?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Nov 03 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Public Relations Intern](https://jobright.ai/jobs/info/6acd5fb2a56e5406e57c1192?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Nov 03 |
@@ -115,14 +116,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leasing & Marketing Intern](https://jobright.ai/jobs/info/6ae8f698fb2cd420ace6aa23?utm_campaign=1065&utm_source=git)** | Camden, NJ, United States | On Site | Nov 02 |
 | **[ShipNinja](https://shipninja.co/)** | **[Outreach & Growth Intern (Unpaid, Winter Internship)](https://jobright.ai/jobs/info/6ae9276c061d6d7ff3d80d95?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Breakwater Strategy](https://www.breakwaterstrategy.com)** | **[Intern, Strategic Communications and Insights](https://jobright.ai/jobs/info/6ae908c0fb2cd420ace6b74e?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 02 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - International Ecommerce Fulfillment](https://jobright.ai/jobs/info/6ae8da24777c336eb6d66ecd?utm_campaign=1065&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
+| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - International Ecommerce Fulfillment](https://jobright.ai/jobs/info/6ae8d8aaa2a252e21942a123?utm_campaign=1065&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
 | ↳ | **[CDS Intern - Marketing Technology](https://jobright.ai/jobs/info/6ae8d8b36c51033758f43705?utm_campaign=1065&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - Brand Coordinator](https://jobright.ai/jobs/info/6ae8f7c7a2a252e21942b6b3?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 02 |
 | ↳ | **[Summer Intern 2027 - Global Retirement Marketing](https://jobright.ai/jobs/info/6ae8f7bb061d6d7ff3d7f12e?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 02 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Communications (8 Months)](https://jobright.ai/jobs/info/6ae918616c51033758f46336?utm_campaign=1065&utm_source=git)** | North Vancouver, BC, Canada | On Site | Nov 02 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Revenue Growth Management](https://jobright.ai/jobs/info/6aa19b80500b01124c77dd94?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 02 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Revenue Growth Management](https://jobright.ai/jobs/info/6aa19cd12f936e4a53dacf5e?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 02 |
-| **[ŌU | TCM Wellness Ritual](https://ohe-chinese-wellness-ritual.lovable.app)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ae91cb903f4a1104b259ddc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 02 |
 | **[Visions Federal Credit Union](https://www.visionsfcu.org)** | **[Campus Engagement Intern- Syracuse University, NY](https://jobright.ai/jobs/info/6ae91263777c336eb6d69606?utm_campaign=1065&utm_source=git)** | Syracuse, NY, United States | On Site | Nov 02 |
 | ↳ | **[Campus Engagement Intern- Binghamton University, NY](https://jobright.ai/jobs/info/6ae91277a2a252e21942c8e6?utm_campaign=1065&utm_source=git)** | Binghamton, NY, United States | On Site | Nov 02 |
 | **[Children's Museum of Discovery](https://www.sdcdm.org/about)** | **[Spring Marketing Intern](https://jobright.ai/jobs/info/6ae91b7a03f4a1104b259d5a?utm_campaign=1065&utm_source=git)** | Escondido, CA, United States | On Site | Nov 02 |
