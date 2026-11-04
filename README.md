@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The New York Times](https://www.nytco.com/)** | **[Advertising Marketing Measurement Intern](https://jobright.ai/jobs/info/6aea09f0440b469a1c0a9665?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 03 |
+| **[YFK Office Lease](https://www.yfkofficelease.com/)** | **[Marketing - Winter Intern](https://jobright.ai/jobs/info/6aea93731ba298c777773ebe?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | On Site | Nov 03 |
+| **[WriteMed.AI](https://writemed.ai)** | **[Intern - Marketing / Sales / AI](https://jobright.ai/jobs/info/6aea8c1bd22d4c08ec605053?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
+| **[Gift](https://www.shine.gift)** | **[Kpop Intern - Growth / Field Marketing](https://jobright.ai/jobs/info/6aea8775913589212b1f7c6b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 03 |
 | **[State of Indiana](https://www.in.gov)** | **[Marketing & Events Intern Job Details / State of Indiana](https://jobright.ai/jobs/info/6aea8171fc85f3a39433439b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 03 |
 | **[Dreamstate](https://www.trydreamstate.com/)** | **[Outreach Fellowship Intern](https://jobright.ai/jobs/info/6aea80c81ba298c777773567?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
-| **[RECIPROCITY ROI, LLC](https://www.ReciprocityROI.com)** | **[Junior Social Media & Growth Marketing Intern](https://jobright.ai/jobs/info/6aea7ffb440b469a1c0ae79a?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | Remote | Nov 03 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Marketing Internship (Summer 2027)](https://jobright.ai/jobs/info/6aea75ca897466e69e31f29d?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Nov 03 |
 | **[National Community Renaissance](https://nationalcore.org/)** | **[Social Media Management Internship](https://jobright.ai/jobs/info/6aea7fee440b469a1c0ae786?utm_campaign=1065&utm_source=git)** | Rancho Cucamonga, CA, United States | On Site | Nov 03 |
 | **[CJ Pony Parts](https://www.cjponyparts.com)** | **[SEO Intern- JMU Students Only](https://jobright.ai/jobs/info/6aea7e5c913589212b1f73b6?utm_campaign=1065&utm_source=git)** | Charlottesville, VA, United States | Remote | Nov 03 |
 | **[JUNOCO](https://www.junoco.com)** | **[Influencer Marketing & Content Creation Internship](https://jobright.ai/jobs/info/6aea7b82913589212b1f7292?utm_campaign=1065&utm_source=git)** | Burlingame, CA, United States | On Site | Nov 03 |
 | **[SportsMed Physical Therapy](https://spineandsportsmed.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6aea39c4913589212b1f4c71?utm_campaign=1065&utm_source=git)** | Glen Rock, NJ, United States | On Site | Nov 03 |
-| **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Communications](https://jobright.ai/jobs/info/6aea353dfc85f3a39433169f?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 03 |
+| **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Communications](https://jobright.ai/jobs/info/6aea2896897466e69e31c20d?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 03 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Merchandising Intern- Men's Ready to Wear (MRTW)](https://jobright.ai/jobs/info/6aea76d34f991d64376ce336?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[Brunner](http://brunnerworks.com)** | **[Paid Search Intern](https://jobright.ai/jobs/info/6aea3505897466e69e31cb09?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Remote | Nov 03 |
 | **[Scot Forge](https://www.scotforge.com/)** | **[Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6aea73d1897466e69e31f205?utm_campaign=1065&utm_source=git)** | Spring Grove, IL, United States | On Site | Nov 03 |
@@ -80,12 +84,10 @@ For a complete list, click the following sortable link below:
 | **[CultureHouse](https://culturehouse.cc)** | **[Spring Cambridge KiOSK Intern](https://jobright.ai/jobs/info/6aea651b897466e69e31ead2?utm_campaign=1065&utm_source=git)** | Somerville, MA, United States | On Site | Nov 03 |
 | **[Weiler Plastic Surgery Group](https://www.weilerplasticsurgery.com)** | **[Marketing Intern (4807)](https://jobright.ai/jobs/info/6aea6485897466e69e31ea57?utm_campaign=1065&utm_source=git)** | Metairie, LA, United States | On Site | Nov 03 |
 | **[Electro](electrogum.com)** | **[Greek Life Marketing & Brand Activations Intern](https://jobright.ai/jobs/info/6aea634cfc85f3a39433347d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
-| ↳ | **[NIL Athlete Relations & Brand Marketing Intern](https://jobright.ai/jobs/info/6aea6348440b469a1c0ad91f?utm_campaign=1065&utm_source=git)** | Newark, NJ, United States | Remote | Nov 03 |
 | **[Orchestra](https://www.orchestraco.com)** | **[Communications Fellowship - Technology (Spring 2027)](https://jobright.ai/jobs/info/6aea421a1ba298c777771183?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[2027 Corporate Access Analyst - NYC](https://jobright.ai/jobs/info/6aea3fa4913589212b1f4fad?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | On Site | Nov 03 |
 | **[Connected Creative](https://www.connectedcreative.ca/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6aea5f8a913589212b1f64f7?utm_campaign=1065&utm_source=git)** | Edmonton, AB, Canada | Hybrid | Nov 03 |
 | **[BerlinRosen, an Orchestra company](https://berlinrosen.com)** | **[Communications Fellowship - Technology (Spring 2027)](https://jobright.ai/jobs/info/6aea42b01ba298c777771205?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 03 |
-| **[Electro](electrogum.com)** | **[Social Media & Creator Partnerships Intern](https://jobright.ai/jobs/info/6aea5bcc913589212b1f6224?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 03 |
 | **[Jomboy](https://jomboymedia.com)** | **[Content Production Internship - Summer 2027](https://jobright.ai/jobs/info/6aea593d4f991d64376cd325?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | ↳ | **[Content Production Internship - Spring 2027](https://jobright.ai/jobs/info/6aea5936fc85f3a394332e6d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2027 Summer Internship (US) - Social Media](https://jobright.ai/jobs/info/6aea16cf897466e69e31b656?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Nov 03 |
@@ -132,15 +134,15 @@ For a complete list, click the following sortable link below:
 | **[Creative Expansions, Inc](cei)** | **[GREAT WINTER/SPRING SOCIAL MEDIA, MARKETING & PR INTERNSHIP](https://jobright.ai/jobs/info/6aea1e75913589212b1f3a62?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | Remote | Nov 03 |
 | **[MSU Federal Credit Union](https://www.msufcu.org)** | **[Community Engagement Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/6acf92cb78d51ae69ce06cce?utm_campaign=1065&utm_source=git)** | East Lansing, MI, United States | On Site | Nov 03 |
 | **[Reporters Committee](http://rcfp.org/)** | **[Summer 2027 Communications Internship](https://jobright.ai/jobs/info/6aea0b52fc85f3a39432f636?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 03 |
-| **[Novelis](http://novelis.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6ae9f3ac2b0b1eb5805b5165?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 03 |
+| **[Novelis](http://novelis.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6aea02dc897466e69e31a1ef?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 03 |
 | **[Alliance Highway Safety](https://alliancehighwaysafety.com)** | **[Marketing and Events Coordinator - Maine Region (Internship)](https://jobright.ai/jobs/info/6aea1ca6897466e69e31badd?utm_campaign=1065&utm_source=git)** | Portland, ME, United States | On Site | Nov 03 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e59389e06bb41ad541c?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 03 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adf6a129e3e874dbfbabfa7?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6ae9f61a73d24ab055c59af9?utm_campaign=1065&utm_source=git)** | Midland, TX, United States | On Site | Nov 03 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6adf6a129e3e874dbfbabfa7?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 03 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6aba9caed2914e9273eec41c?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 03 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 03 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 03 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6ab6c3f2c6fe0dec811a6a94?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4c46a8cabdc1ff62b2?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Nov 03 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 03 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6aba9caed2914e9273eec41c?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 03 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e59389e06bb41ad541c?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 03 |
 | **[LCS](https://www.lcsnet.com/)** | **[Marketing and Sales Systems Intern](https://jobright.ai/jobs/info/6ada659603d2da7528914ac3?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 03 |
 | **[UBS](https://www.ubs.com)** | **[Internship](https://jobright.ai/jobs/info/6adc1e5d389e06bb41ad5422?utm_campaign=1065&utm_source=git)** | Birmingham, MI, United States | On Site | Nov 03 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6ae9f62473d24ab055c59b03?utm_campaign=1065&utm_source=git)** | Detroit, MI, United States | On Site | Nov 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boys & Girls Clubs of North Central Illinois](https://www.bgcncil.org)** | **[AmeriCorps Marketing & Events Intern](https://jobright.ai/jobs/info/6aea65db913589212b1f6943?utm_campaign=1065&utm_source=git)** | South Elgin, IL, United States | On Site | Nov 03 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com/)** | **[2027 Merchandising Internship - San Francisco](https://jobright.ai/jobs/info/6a95de494c22023a079365ee?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 03 |
 | **[City of Hilliard, Ohio USA](https://hilliardohio.gov)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6aea0b2a1ba298c77776e803?utm_campaign=1065&utm_source=git)** | Hilliard, OH, United States | On Site | Nov 03 |
-| **[The New York Times](https://www.nytco.com/)** | **[Advertising Marketing Measurement Intern](https://jobright.ai/jobs/info/6aea09f0440b469a1c0a9665?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 03 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2027 - Development Intern - Media Research Center](https://jobright.ai/jobs/info/6aea0983fc85f3a39432f136?utm_campaign=1065&utm_source=git)** | Virginia, United States | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
