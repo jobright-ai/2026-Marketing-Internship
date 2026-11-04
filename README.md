@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Intern (unpaid)](https://jobright.ai/jobs/info/6aead578913589212b1f904e?utm_campaign=1065&utm_source=git)** | Pelham, NY, United States | Hybrid | Nov 03 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027](https://jobright.ai/jobs/info/6ae93f3de50c01a743a87f42?utm_campaign=1065&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 03 |
 | **[Kyron Medical](https://www.kyronmedical.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6aeac923440b469a1c0b00a5?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
 | **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6ad83a7452aa6152bb6a2e00?utm_campaign=1065&utm_source=git)** | Bloomington, MN, United States | Hybrid | Nov 03 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[Social Media & NIL Partnerships Intern](https://jobright.ai/jobs/info/6aea98e0440b469a1c0af2c5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 03 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Marketing Measurement Intern](https://jobright.ai/jobs/info/6aea09f0440b469a1c0a9665?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 03 |
 | **[WriteMed.AI](https://writemed.ai)** | **[Intern - Marketing / Sales / AI](https://jobright.ai/jobs/info/6aea8c1bd22d4c08ec605053?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
+| **[Paylocity](http://www.paylocity.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6ac44cf44ac55253f5d72169?utm_campaign=1065&utm_source=git)** | Schaumburg, IL, United States | On Site | Nov 03 |
 | **[Gift](https://www.shine.gift)** | **[Kpop Intern - Growth / Field Marketing](https://jobright.ai/jobs/info/6aea8775913589212b1f7c6b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 03 |
 | **[Dreamstate](https://www.trydreamstate.com/)** | **[Outreach Fellowship Intern](https://jobright.ai/jobs/info/6aea80c81ba298c777773567?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Marketing Internship (Summer 2027)](https://jobright.ai/jobs/info/6aea75ca897466e69e31f29d?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Nov 03 |
@@ -81,11 +83,11 @@ For a complete list, click the following sortable link below:
 | **[JUNOCO](https://www.junoco.com)** | **[Influencer Marketing & Content Creation Internship](https://jobright.ai/jobs/info/6aea7b82913589212b1f7292?utm_campaign=1065&utm_source=git)** | Burlingame, CA, United States | On Site | Nov 03 |
 | **[SportsMed Physical Therapy](https://spineandsportsmed.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6aea39c4913589212b1f4c71?utm_campaign=1065&utm_source=git)** | Glen Rock, NJ, United States | On Site | Nov 03 |
 | **[Electro](electrogum.com)** | **[Social Media & Athlete Relations Intern](https://jobright.ai/jobs/info/6aeab0b9913589212b1f87e9?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | Remote | Nov 03 |
-| **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Communications](https://jobright.ai/jobs/info/6aea353dfc85f3a39433169f?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 03 |
+| **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Communications](https://jobright.ai/jobs/info/6aea2896897466e69e31c20d?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 03 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Merchandising Intern- Men's Ready to Wear (MRTW)](https://jobright.ai/jobs/info/6aea76d34f991d64376ce336?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[Brunner](http://brunnerworks.com)** | **[Paid Search Intern](https://jobright.ai/jobs/info/6aea3505897466e69e31cb09?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Remote | Nov 03 |
-| **[Johnson & Johnson MedTech](https://www.jnjmedtech.com/en-US)** | **[DS Marketing Summer Intern 2027](https://jobright.ai/jobs/info/6aea732b897466e69e31f1ca?utm_campaign=1065&utm_source=git)** | West Chester, PA, United States | Hybrid | Nov 03 |
-| ↳ | **[DS Marketing Summer Intern 2027](https://jobright.ai/jobs/info/6aea732b1ba298c777772ef9?utm_campaign=1065&utm_source=git)** | Raynham, MA, United States | Hybrid | Nov 03 |
+| **[Johnson & Johnson MedTech](https://www.jnjmedtech.com/en-US)** | **[DS Marketing Summer Intern 2027](https://jobright.ai/jobs/info/6aea732b1ba298c777772ef9?utm_campaign=1065&utm_source=git)** | Raynham, MA, United States | Hybrid | Nov 03 |
+| ↳ | **[DS Marketing Summer Intern 2027](https://jobright.ai/jobs/info/6aea732b897466e69e31f1ca?utm_campaign=1065&utm_source=git)** | West Chester, PA, United States | Hybrid | Nov 03 |
 | **[Atlassian](https://www.atlassian.com)** | **[Social Media Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6aea367efc85f3a394331773?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 03 |
 | **[Net Conversion](http://www.net-conversion.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6acfcc21fe7a9bd5a6b9a10a?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Nov 03 |
 | **[Paradromics](https://paradromics.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6aea6c58fc85f3a394333986?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Nov 03 |
@@ -145,16 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Reporters Committee](http://rcfp.org/)** | **[Summer 2027 Communications Internship](https://jobright.ai/jobs/info/6aea0b52fc85f3a39432f636?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 03 |
 | **[Novelis](http://novelis.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6aea02dc897466e69e31a1ef?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 03 |
 | **[Alliance Highway Safety](https://alliancehighwaysafety.com)** | **[Marketing and Events Coordinator - Maine Region (Internship)](https://jobright.ai/jobs/info/6aea1ca6897466e69e31badd?utm_campaign=1065&utm_source=git)** | Portland, ME, United States | On Site | Nov 03 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6ab6c3f2c6fe0dec811a6a94?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 03 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 03 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae9f61a73d24ab055c59af9?utm_campaign=1065&utm_source=git)** | Midland, TX, United States | On Site | Nov 03 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 03 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e59389e06bb41ad541c?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 03 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6adf6a129e3e874dbfbabfa7?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4c46a8cabdc1ff62b2?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Nov 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6aba9caed2914e9273eec41c?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 03 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6adf6a129e3e874dbfbabfa7?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 03 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e59389e06bb41ad541c?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 03 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae9f61a73d24ab055c59af9?utm_campaign=1065&utm_source=git)** | Midland, TX, United States | On Site | Nov 03 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 03 |
 | **[LCS](https://www.lcsnet.com/)** | **[Marketing and Sales Systems Intern](https://jobright.ai/jobs/info/6ada659603d2da7528914ac3?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 03 |
-| **[UBS](https://www.ubs.com)** | **[Internship](https://jobright.ai/jobs/info/6ae9f62473d24ab055c59b03?utm_campaign=1065&utm_source=git)** | Detroit, MI, United States | On Site | Nov 03 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6adc1e5d389e06bb41ad5422?utm_campaign=1065&utm_source=git)** | Birmingham, MI, United States | On Site | Nov 03 |
-| **[FAIRWINDS Credit Union](https://www.fairwinds.org)** | **[Video Production Intern - Marketing](https://jobright.ai/jobs/info/6ae24cc2829a3bada16035e6?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Nov 03 |
-| **[TN Voices](https://www.tnvoices.org)** | **[Communications and Development Intern](https://jobright.ai/jobs/info/6aea134e897466e69e31b42f?utm_campaign=1065&utm_source=git)** | Goodlettsville, TN, United States | Hybrid | Nov 03 |
+| **[UBS](https://www.ubs.com)** | **[Internship](https://jobright.ai/jobs/info/6adc1e5d389e06bb41ad5422?utm_campaign=1065&utm_source=git)** | Birmingham, MI, United States | On Site | Nov 03 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6ae9f62473d24ab055c59b03?utm_campaign=1065&utm_source=git)** | Detroit, MI, United States | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
