@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InComm Payments](https://incommpayments.com)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/6aeb4786f40efa43f4a159ee?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Nov 04 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6aeb3afdfbe13dfb53df1e8e?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6aeb3ae565311d97105b688c?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6aeb37dc765815f7d745e3d6?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 04 |
@@ -66,10 +67,10 @@ For a complete list, click the following sortable link below:
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sr. Associate Brand Manager Intern](https://jobright.ai/jobs/info/6a97235ae4e60e4b8da5c4a9?utm_campaign=1065&utm_source=git)** | East Hanover, NJ, United States | On Site | Nov 04 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Marketing Content  Intern](https://jobright.ai/jobs/info/6aeb223482f0ac0774435f60?utm_campaign=1065&utm_source=git)** | Rockwall, TX, United States | Hybrid | Nov 04 |
 | **[Travelpro Products, Inc.](http://www.travelpro.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6acfc837fe7a9bd5a6b99f5b?utm_campaign=1065&utm_source=git)** | Boca Raton, FL, United States | Hybrid | Nov 04 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e4c46a8cabdc1ff62b2?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Nov 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6adf6a129e3e874dbfbabfa7?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae9f61a73d24ab055c59af9?utm_campaign=1065&utm_source=git)** | Midland, TX, United States | On Site | Nov 04 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adf6a129e3e874dbfbabfa7?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4f5dc7953215a35e23?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 04 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4c46a8cabdc1ff62b2?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Nov 04 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae9f61a73d24ab055c59af9?utm_campaign=1065&utm_source=git)** | Midland, TX, United States | On Site | Nov 04 |
 | **[Danone](https://www.danone.com)** | **[Summer 2027: Brand Management Intern, MBA](https://jobright.ai/jobs/info/6ab161def9692ca98b04940e?utm_campaign=1065&utm_source=git)** | Louisville, Colorado, United States | Hybrid | Nov 04 |
 | **[The Greater OKC Hispanic Chamber of Commerce](http://www.okchispanicchamber.org)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6aeb1ea982f0ac0774435ebc?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 04 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6aceb8a84f3229123da3ddb1?utm_campaign=1065&utm_source=git)** | Irving, TX, United States | On Site | Nov 04 |
@@ -87,9 +88,9 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok Shop - Platform Campaign) - 2026 Start](https://jobright.ai/jobs/info/6a96014ac8763a3a87ffdc79?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 04 |
 | **[Obble](https://obble.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aeafda0fbe13dfb53defab6?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Merchandising - Store Environment – Undergraduate Internship – Summer 2027](https://jobright.ai/jobs/info/6ab2d58830340229a322fff3?utm_campaign=1065&utm_source=git)** | Mooresville, NC, United States | On Site | Nov 04 |
-| **[John Deere](https://www.deere.com)** | **[2027 Intern - A&T Marketing/Sales](https://jobright.ai/jobs/info/6a964749f28891320e860e64?utm_campaign=1065&utm_source=git)** | Moline, IL, United States | On Site | Nov 04 |
-| ↳ | **[2027 Intern - A&T Marketing/Sales Job Details / John Deere](https://jobright.ai/jobs/info/6a96c988d13b4819f39dd003?utm_campaign=1065&utm_source=git)** | Moline, IL, United States | On Site | Nov 04 |
-| **[Dell Technologies](https://www.dell.com)** | **[Global Marketing Graduate AI & Data Intern](https://jobright.ai/jobs/info/6aa84be0654b2a9424cfbe24?utm_campaign=1065&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 04 |
+| **[John Deere](https://www.deere.com)** | **[2027 Intern - A&T Marketing/Sales Job Details / John Deere](https://jobright.ai/jobs/info/6a96c988d13b4819f39dd003?utm_campaign=1065&utm_source=git)** | Moline, IL, United States | On Site | Nov 04 |
+| ↳ | **[2027 Intern - A&T Marketing/Sales](https://jobright.ai/jobs/info/6a964749f28891320e860e64?utm_campaign=1065&utm_source=git)** | Moline, IL, United States | On Site | Nov 04 |
+| **[Dell Technologies](https://www.dell.com)** | **[Global Marketing Graduate AI & Data Intern](https://jobright.ai/jobs/info/6aa84d383a9f0a4fe6f186c1?utm_campaign=1065&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 04 |
 | ↳ | **[Global Marketing Graduate AI & Data Intern](https://jobright.ai/jobs/info/6aea220e913589212b1f3c6d?utm_campaign=1065&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 04 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6aea3ea9440b469a1c0ac169?utm_campaign=1065&utm_source=git)** | Columbus, MS, United States | On Site | Nov 04 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Intern (unpaid)](https://jobright.ai/jobs/info/6aead578913589212b1f904e?utm_campaign=1065&utm_source=git)** | Pelham, NY, United States | Hybrid | Nov 03 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 03 |
 | **[爱奇艺](https://www.iq.com)** | **[Portuguese Content Operations Intern](https://jobright.ai/jobs/info/6aea9e25d22d4c08ec60548c?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 03 |
 | **[HYPEBEAST](http://hypebeast.com)** | **[Social Intern](https://jobright.ai/jobs/info/6aea998dfc85f3a394334de5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
-| **[Electro](electrogum.com)** | **[Social Media & NIL Partnerships Intern](https://jobright.ai/jobs/info/6aea98e0440b469a1c0af2c5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 03 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Marketing Measurement Intern](https://jobright.ai/jobs/info/6aea09f0440b469a1c0a9665?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 03 |
 | **[Dreamstate](https://www.trydreamstate.com/)** | **[Outreach Fellowship Intern](https://jobright.ai/jobs/info/6aea80c81ba298c777773567?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Marketing Internship (Summer 2027)](https://jobright.ai/jobs/info/6aea75ca897466e69e31f29d?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Nov 03 |
@@ -136,7 +136,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Content Intern (Spring 2027)](https://jobright.ai/jobs/info/6aea25a2897466e69e31bfa2?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 03 |
 | ↳ | **[Artist Relations Intern Miami (Spring 2027)](https://jobright.ai/jobs/info/6aea25a0897466e69e31bf9d?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Nov 03 |
 | ↳ | **[Artist Relations Intern Austin (Spring 2027)](https://jobright.ai/jobs/info/6aea259efc85f3a394330b9e?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Remote | Nov 03 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Public Relations Intern (Volunteer)](https://jobright.ai/jobs/info/6aea5624913589212b1f5f86?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 03 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6aea55154f991d64376cd146?utm_campaign=1065&utm_source=git)** | Smyrna, Delaware, United States | On Site | Nov 03 |
 | **[OVO Talent](https://ovotalent.com/)** | **[Content & Marketing Intern, Founder Personal Brand](https://jobright.ai/jobs/info/6aea53bc897466e69e31e0a9?utm_campaign=1065&utm_source=git)** | Charleston, SC, United States | On Site | Nov 03 |
 | **[butter LONDON](http://www.butterlondon.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aea4ebf913589212b1f5b68?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Concept Agency - Digital Marketing Agency](https://concept-agency.com/lander?oref=https%3A%2F%2Fconcept-agency.com)** | **[Creative & Digital Marketing Intern](https://jobright.ai/jobs/info/6aea39651ba298c777770c22?utm_campaign=1065&utm_source=git)** | United States | On Site | Nov 03 |
 | **[CHAO.S PR](chaosprny.com)** | **[PR Project & Event Marketing Intern](https://jobright.ai/jobs/info/6aea3918913589212b1f4b9b?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Nov 03 |
 | **[Disability Resource Advisors](https://askdra.org/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6aea3841440b469a1c0abcf2?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 03 |
+| **[Modern Texas Living](moderntexasliving.com)** | **[Editorial and Marketing Internship](https://jobright.ai/jobs/info/6aea378b440b469a1c0abc92?utm_campaign=1065&utm_source=git)** | Waco, TX, United States | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
