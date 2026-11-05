@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications and Strategic Initiatives Internship](https://jobright.ai/jobs/info/6aec30b08d18f1312e927165?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 04 |
+| **[Codeable](https://gocodeable.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6aec2acd8d5ff763ff915da7?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL, United States | On Site | Nov 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations，Beauty, Food & Beverage) - 2027 Summer](https://jobright.ai/jobs/info/6aec22e455daad9c1f54723d?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 04 |
 | ↳ | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6aec224efc34fe5680abf307?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
 | **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Marketing & Communications (Spring)](https://jobright.ai/jobs/info/6aebfd47f69ea487dd5d6e65?utm_campaign=1065&utm_source=git)** | Madera, CA, United States | On Site | Nov 04 |
@@ -66,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Roller Rabbit](http://rollerrabbit.com)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/6aec0215fc34fe5680abec4f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 04 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Public Relations & Government Affairs Intern](https://jobright.ai/jobs/info/6aeb9adaa0b134121d99c660?utm_campaign=1065&utm_source=git)** | Norwell, MA, United States | On Site | Nov 04 |
-| ↳ | **[Public Relations & Government Affairs Intern](https://jobright.ai/jobs/info/6aeba0da765815f7d74625f1?utm_campaign=1065&utm_source=git)** | Norwell, MA, United States | On Site | Nov 04 |
+| ↳ | **[Public Relations & Government Affairs Intern](https://jobright.ai/jobs/info/6aeba0e8fbe13dfb53df5fef?utm_campaign=1065&utm_source=git)** | Norwell, MA, United States | On Site | Nov 04 |
 | **[Escape™ App AI](https://escapeapp.ai)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/6aebf064090951b6811b749d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
 | **[ChaosTrack](http://www.chaostrack.com)** | **[Marketing Intern (Paid, Part-Time)](https://jobright.ai/jobs/info/6aebeba1090951b6811b7303?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Events & Socials Intern](https://jobright.ai/jobs/info/6aeb5eef765815f7d745f903?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shurtape Industrial](http://www.shurtape.com)** | **[Market Research Summer 2027 Internship](https://jobright.ai/jobs/info/6aeb60acfbe13dfb53df3502?utm_campaign=1065&utm_source=git)** | Avon, OH, United States | Hybrid | Nov 04 |
 | **[Gupta Media](http://guptamedia.com)** | **[Media Intern - Spring 2027](https://jobright.ai/jobs/info/6aa0580bea127c379469685d?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Nov 04 |
 | **[Casey's](https://www.caseys.com/)** | **[Brand & Strategic Insights Internship- Summer 2027](https://jobright.ai/jobs/info/6a99a60bad752e2ad5500ec8?utm_campaign=1065&utm_source=git)** | Ankeny, IA, United States | On Site | Nov 04 |
-| **[Mortenson](https://www.mortenson.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a79fb65a26ccc369f83bc81?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 04 |
-| **[InComm Payments](https://incommpayments.com)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/6aeb4786f40efa43f4a159ee?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
