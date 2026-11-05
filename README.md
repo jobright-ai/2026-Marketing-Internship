@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WithRodeo](https://www.withrodeo.com)** | **[Content & Creator Partnerships Intern](https://jobright.ai/jobs/info/6aec156e55daad9c1f546eed?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Remote | Nov 04 |
+| **[Electro](electrogum.com)** | **[NIL Program Intern](https://jobright.ai/jobs/info/6aec0cb8f69ea487dd5d711d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
+| **[State Farm](https://jhannahco.com)** | **[Summer 2027 Intern Marketing - Marketing Communication Specialist](https://jobright.ai/jobs/info/6aebaf8565311d97105bb0ea?utm_campaign=1065&utm_source=git)** | Bloomington, IL, United States | Hybrid | Nov 04 |
 | **[Roller Rabbit](http://rollerrabbit.com)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/6aec0215fc34fe5680abec4f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 04 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Public Relations & Government Affairs Intern](https://jobright.ai/jobs/info/6aeba0d2fbe13dfb53df5fdb?utm_campaign=1065&utm_source=git)** | Norwell, MA, United States | On Site | Nov 04 |
 | ↳ | **[Public Relations & Government Affairs Intern](https://jobright.ai/jobs/info/6aeba0da765815f7d74625f1?utm_campaign=1065&utm_source=git)** | Norwell, MA, United States | On Site | Nov 04 |
-| **[Philo Homes](https://philo.homes/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6aebf3323cc7c20bf5f36df3?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Escape™ App AI](https://escapeapp.ai)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/6aebf064090951b6811b749d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
 | **[ChaosTrack](http://www.chaostrack.com)** | **[Marketing Intern (Paid, Part-Time)](https://jobright.ai/jobs/info/6aebeba1090951b6811b7303?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Events & Socials Intern](https://jobright.ai/jobs/info/6aeb5eef765815f7d745f903?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[HMI Marketing Communication Internship](https://jobright.ai/jobs/info/6aebac51a0b134121d99d012?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | On Site | Nov 04 |
 | **[Babbel](http://www.babbel.com)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/6aeb3768fbe13dfb53df1db8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
 | **[Graton Resort & Casino](http://www.gratonresortcasino.com)** | **[MARKETING INTERN](https://jobright.ai/jobs/info/6aebc4ea65311d97105bbc00?utm_campaign=1065&utm_source=git)** | Rohnert Park, California, United States | On Site | Nov 04 |
-| **[Samantha Siu New York](https://www.samanthasiu.com)** | **[Brand Communications Intern](https://jobright.ai/jobs/info/6aebc58ea0b134121d99dd0d?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Nov 04 |
 | **[Mundial Partners](https://www.themundialpartners.com/)** | **[Creative Strategy Marketing Intern](https://jobright.ai/jobs/info/6aebc557fbe13dfb53df7216?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Revenue Growth Management](https://jobright.ai/jobs/info/6aa19b80500b01124c77dd94?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 04 |
 | **[Dreamstate](https://www.trydreamstate.com/)** | **[LinkedIn Outreach Intern](https://jobright.ai/jobs/info/6aebc530765815f7d746388e?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[Americas Region Marketing Strategy Summer 2027 Intern (Evergreen)](https://jobright.ai/jobs/info/6a96f2b0246d697dcee02255?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
 | ↳ | **[MBA Marketing Summer 2027 Intern](https://jobright.ai/jobs/info/6a8dbc6ad34f700f87fd57c3?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
 | ↳ | **[UPS Marketing (Commercial & Strategy) Summer 2027 Internship](https://jobright.ai/jobs/info/6a984f6483fc633357630ad6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
-| **[State Farm](https://jhannahco.com)** | **[Summer 2027 Intern Marketing - Marketing Communication Specialist](https://jobright.ai/jobs/info/6aebaf8565311d97105bb0ea?utm_campaign=1065&utm_source=git)** | Bloomington, IL, United States | Hybrid | Nov 04 |
 | **[Accertify, Inc.](http://www.accertify.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6aebaf03765815f7d7462cd3?utm_campaign=1065&utm_source=git)** | Itasca, IL, United States | Hybrid | Nov 04 |
 | **[Southwest Value Partners](https://swvp.com)** | **[Marketing and Brand Strategy Intern](https://jobright.ai/jobs/info/6aebae68f40efa43f4a19c4a?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Nov 04 |
 | **[LifeStyle Aviation](https://lifestyleaviation.com/)** | **[Aviation Social Media Marketing Intern](https://jobright.ai/jobs/info/6aebad7b65311d97105baf79?utm_campaign=1065&utm_source=git)** | Morrisville, NC, United States | On Site | Nov 04 |
