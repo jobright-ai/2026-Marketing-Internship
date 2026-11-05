@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Marketing Technology Intern](https://jobright.ai/jobs/info/6ae26eb21f9d9308370b208d?utm_campaign=1065&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 05 |
 | **[Atlassian](https://www.atlassian.com)** | **[Marketing Business Operations Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6ac55f370e027c0f3b3aead4?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 05 |
 | ↳ | **[Customer Engagement Marketing Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6ac54a320e027c0f3b3ae18d?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 05 |
 | **[Dell Technologies](https://www.dell.com)** | **[Product Marketing Graduate Intern](https://jobright.ai/jobs/info/6aeab9391ba298c7777749b5?utm_campaign=1065&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 05 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://jhannahco.com)** | **[Summer 2027 Intern Marketing - Marketing Communication Specialist](https://jobright.ai/jobs/info/6aebaf8565311d97105bb0ea?utm_campaign=1065&utm_source=git)** | Bloomington, IL, United States | Hybrid | Nov 04 |
 | **[Roller Rabbit](http://rollerrabbit.com)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/6aec0215fc34fe5680abec4f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 04 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Public Relations & Government Affairs Intern](https://jobright.ai/jobs/info/6aeba0e8fbe13dfb53df5fef?utm_campaign=1065&utm_source=git)** | Norwell, MA, United States | On Site | Nov 04 |
-| ↳ | **[Public Relations & Government Affairs Intern](https://jobright.ai/jobs/info/6aeb9adaa0b134121d99c660?utm_campaign=1065&utm_source=git)** | Norwell, MA, United States | On Site | Nov 04 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Public Relations & Government Affairs Intern](https://jobright.ai/jobs/info/6aeba0da765815f7d74625f1?utm_campaign=1065&utm_source=git)** | Norwell, MA, United States | On Site | Nov 04 |
+| ↳ | **[Public Relations & Government Affairs Intern](https://jobright.ai/jobs/info/6aeba0d365311d97105ba9a3?utm_campaign=1065&utm_source=git)** | Norwell, MA, United States | On Site | Nov 04 |
 | **[Escape™ App AI](https://escapeapp.ai)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/6aebf064090951b6811b749d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
 | **[ChaosTrack](http://www.chaostrack.com)** | **[Marketing Intern (Paid, Part-Time)](https://jobright.ai/jobs/info/6aebeba1090951b6811b7303?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Events & Socials Intern](https://jobright.ai/jobs/info/6aeb5eef765815f7d745f903?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PGA Tour](http://www.pgatour.com)** | **[Event Services Intern, Cadillac Championship](https://jobright.ai/jobs/info/6aeb6085a0b134121d999f55?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 04 |
 | **[TD](https://www.td.com)** | **[2027 Summer Internship Graduate Leadership Program- Marketing](https://jobright.ai/jobs/info/6a961f32cabc9f6703e1c3f2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
 | **[Girl Scouts of Eastern Missouri](https://www.girlscoutsem.org/)** | **[Cookie Program Intern](https://jobright.ai/jobs/info/6aeb6219fbe13dfb53df3603?utm_campaign=1065&utm_source=git)** | Maryland Heights, MO, United States | On Site | Nov 04 |
-| **[Visions Federal Credit Union](https://www.visionsfcu.org)** | **[Campus Engagement Intern- Binghamton University, NY](https://jobright.ai/jobs/info/6ae91277a2a252e21942c8e6?utm_campaign=1065&utm_source=git)** | Binghamton, NY, United States | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
