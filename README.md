@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations，Beauty, Food & Beverage) - 2027 Summer](https://jobright.ai/jobs/info/6aec22e455daad9c1f54723d?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 04 |
+| ↳ | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6aec224efc34fe5680abf307?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
+| **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Marketing & Communications (Spring)](https://jobright.ai/jobs/info/6aebfd47f69ea487dd5d6e65?utm_campaign=1065&utm_source=git)** | Madera, CA, United States | On Site | Nov 04 |
 | **[WithRodeo](https://www.withrodeo.com)** | **[Content & Creator Partnerships Intern](https://jobright.ai/jobs/info/6aec156e55daad9c1f546eed?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Remote | Nov 04 |
 | **[Electro](electrogum.com)** | **[NIL Program Intern](https://jobright.ai/jobs/info/6aec0cb8f69ea487dd5d711d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
 | **[State Farm](https://jhannahco.com)** | **[Summer 2027 Intern Marketing - Marketing Communication Specialist](https://jobright.ai/jobs/info/6aebaf8565311d97105bb0ea?utm_campaign=1065&utm_source=git)** | Bloomington, IL, United States | Hybrid | Nov 04 |
 | **[Roller Rabbit](http://rollerrabbit.com)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/6aec0215fc34fe5680abec4f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 04 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Public Relations & Government Affairs Intern](https://jobright.ai/jobs/info/6aeba0d2fbe13dfb53df5fdb?utm_campaign=1065&utm_source=git)** | Norwell, MA, United States | On Site | Nov 04 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Public Relations & Government Affairs Intern](https://jobright.ai/jobs/info/6aeb9adaa0b134121d99c660?utm_campaign=1065&utm_source=git)** | Norwell, MA, United States | On Site | Nov 04 |
 | ↳ | **[Public Relations & Government Affairs Intern](https://jobright.ai/jobs/info/6aeba0da765815f7d74625f1?utm_campaign=1065&utm_source=git)** | Norwell, MA, United States | On Site | Nov 04 |
 | **[Escape™ App AI](https://escapeapp.ai)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/6aebf064090951b6811b749d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
 | **[ChaosTrack](http://www.chaostrack.com)** | **[Marketing Intern (Paid, Part-Time)](https://jobright.ai/jobs/info/6aebeba1090951b6811b7303?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 04 |
@@ -119,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[MA+ Group](https://maworldgroup.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aeb86ffa0b134121d99ba33?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Nov 04 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6aeb86fbf40efa43f4a184e2?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | Remote | Nov 04 |
 | **[Maryland Auto Insurance](https://www.mymarylandauto.com)** | **[Communications, Intern](https://jobright.ai/jobs/info/6aeb7ffef40efa43f4a18130?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | On Site | Nov 04 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Fall Internship Public Relations](https://jobright.ai/jobs/info/6aeb7ff465311d97105b94a7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 04 |
 | **[Corps Solutions](http://corps-solutions.com)** | **[Strategy and Growth Writing Intern](https://jobright.ai/jobs/info/6aeb7e73fbe13dfb53df4a60?utm_campaign=1065&utm_source=git)** | Stafford, VA, United States | On Site | Nov 04 |
 | **[Harmelin Media](http://www.harmelin.com)** | **[SEO Internship - Spring 2027](https://jobright.ai/jobs/info/6aea65de1ba298c77777287c?utm_campaign=1065&utm_source=git)** | Bala Cynwyd, PA, United States | Hybrid | Nov 04 |
 | **[Capstone Investment Advisors](http://capstoneco.com)** | **[Summer 2027 - Marketing & Communications Internship](https://jobright.ai/jobs/info/6acfa6e9fe7a9bd5a6b99282?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Casey's](https://www.caseys.com/)** | **[Brand & Strategic Insights Internship- Summer 2027](https://jobright.ai/jobs/info/6a99a60bad752e2ad5500ec8?utm_campaign=1065&utm_source=git)** | Ankeny, IA, United States | On Site | Nov 04 |
 | **[Mortenson](https://www.mortenson.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a79fb65a26ccc369f83bc81?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 04 |
 | **[InComm Payments](https://incommpayments.com)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/6aeb4786f40efa43f4a159ee?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Nov 04 |
-| **[IBM](http://www.ibm.com)** | **[2027 Intern – Communications & Brand Strategy Intern](https://jobright.ai/jobs/info/6aea0e1d440b469a1c0a9df4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
-| **[Broan-NuTone](http://www.Broan-NuTone.com)** | **[Brand & Growth Marketing Intern](https://jobright.ai/jobs/info/6ab19684191d8c340dbdb9f7?utm_campaign=1065&utm_source=git)** | Hartford, Wisconsin, United States | Hybrid | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
