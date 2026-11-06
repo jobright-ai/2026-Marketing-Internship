@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations，Beauty, Food & Beverage) - 2027 Summer](https://jobright.ai/jobs/info/6aec22e455daad9c1f54723d?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a90d7410bd89e205d24c81c?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 06 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2027 Research Business Survey Internship](https://jobright.ai/jobs/info/6ab3d4c9d2f5fbd604bdfebd?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | On Site | Nov 06 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6ae861b96c51033758f3ff10?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 06 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Marketing Technology Intern](https://jobright.ai/jobs/info/6ae26eb21f9d9308370b208d?utm_campaign=1065&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations，Beauty, Food & Beverage) - 2027 Summer](https://jobright.ai/jobs/info/6aec22e455daad9c1f54723d?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 06 |
 | **[HNI Corporation](http://www.hnicorp.com)** | **[Intern - Channel Performance - Summer 2027](https://jobright.ai/jobs/info/6ad0fa75256e49282e651489?utm_campaign=1065&utm_source=git)** | Muscatine, IA, United States | On Site | Nov 06 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Marketing Student Experience - Spring 2027](https://jobright.ai/jobs/info/6a9a0e5f13883870605924bb?utm_campaign=1065&utm_source=git)** | West Fargo, ND, United States | On Site | Nov 06 |
 | **[HealthEquity](http://www.healthequity.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6aed98aee0c9de7b05f859ca?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 06 |
@@ -87,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Digital Marketing Internship](https://jobright.ai/jobs/info/6aed2bd6a9ea762a04095679?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | **[Northwest Health Law Advocates](https://nohla.org)** | **[High School Intern](https://jobright.ai/jobs/info/6aed2b85465e3d2371384ff3?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Remote | Nov 05 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing & Media (Daniels-Head Insurance Agency)](https://jobright.ai/jobs/info/6aece469a2661405dc2c7445?utm_campaign=1065&utm_source=git)** | West Lake Hills, TX, United States | On Site | Nov 05 |
-| **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Promotions (58232)](https://jobright.ai/jobs/info/6ada92bbe4b94611ab85e101?utm_campaign=1065&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 05 |
-| ↳ | **[Intern, Marketing/Community Relations (58227)](https://jobright.ai/jobs/info/6ada92bf03d2da7528916d15?utm_campaign=1065&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 05 |
+| **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Marketing/Community Relations (58227)](https://jobright.ai/jobs/info/6ada92bf03d2da7528916d15?utm_campaign=1065&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 05 |
+| ↳ | **[Intern, Promotions (58232)](https://jobright.ai/jobs/info/6ada92bbe4b94611ab85e101?utm_campaign=1065&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 05 |
 | **[Visit SLO CAL](https://www.slocal.com)** | **[Intern](https://jobright.ai/jobs/info/6aed22d2465e3d2371384bd4?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA, United States | On Site | Nov 05 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Marketing CRM Intern](https://jobright.ai/jobs/info/6aecf838465e3d2371383656?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 05 |
 | ↳ | **[Drexel Co-op Marketing Intern](https://jobright.ai/jobs/info/6aecf82ca2661405dc2c815b?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Church & Dwight Co., Inc.](http://churchdwight.com)** | **[Summer 2027 Brand Management Internship (1Y MBA)](https://jobright.ai/jobs/info/6a97302eb22f636c814164f3?utm_campaign=1065&utm_source=git)** | Ewing, NJ, United States | Hybrid | Nov 05 |
 | **[Kroll](http://www.kroll.com)** | **[Intern, Go To Market](https://jobright.ai/jobs/info/6aecc6bf465e3d2371381851?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | **[Deltek](http://www.deltek.com)** | **[Proposal Intern](https://jobright.ai/jobs/info/6a9ac6201388387060594212?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 05 |
-| **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-Content Marketing & Communications](https://jobright.ai/jobs/info/6ab438cb64816213f2d97eb1?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 05 |
-| **[Together AI](https://www.together.ai)** | **[Growth Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6ada40da950ef68d51855898?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 05 |
-| **[Lennox](http://www.lennox.com)** | **[Marketing Intern - Residential](https://jobright.ai/jobs/info/6aecc0c53a3fa7f03ea88c67?utm_campaign=1065&utm_source=git)** | Richardson, TX, United States | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
