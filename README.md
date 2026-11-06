@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations-Beauty, Food & Beverage ) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284d3e2b7476e7b213b3d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | **[Atlys](https://www.atlys.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/6aed6df6c3da5933b8136fb4?utm_campaign=1065&utm_source=git)** | Delhi, Michigan, United States | On Site | Nov 05 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6aed31ad465e3d2371385138?utm_campaign=1065&utm_source=git)** | Honolulu, HI, United States | Hybrid | Nov 05 |
-| **[HP](http://www.hp.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6ae50aad77c09cb3bd4b1673?utm_campaign=1065&utm_source=git)** | Spring, TX, United States | On Site | Nov 05 |
+| **[HP](http://www.hp.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6ae5334deab1f96730980620?utm_campaign=1065&utm_source=git)** | Spring, TX, United States | On Site | Nov 05 |
 | **[The Peacock Inn](http://www.peacockinn.com)** | **[For-Credit Events Intern (Spring 2027)](https://jobright.ai/jobs/info/6aed63c1a3da3840d4abb0d8?utm_campaign=1065&utm_source=git)** | Hamilton Township, NJ, United States | On Site | Nov 05 |
+| **[Inspire Communities](https://www.inspirecommunities.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ad3ebaf25289a0b3bf5bba4?utm_campaign=1065&utm_source=git)** | Greenwood Village, CO, United States | On Site | Nov 05 |
 | **[Alabama Credit Union](https://alabamacu.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aec8eea3a3fa7f03ea870f1?utm_campaign=1065&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Nov 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Digital Marketing Project Intern (TikTok Shop - Seller Marketing) - 2026 Start](https://jobright.ai/jobs/info/6a69bafb09998f68b5a6d5d8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | **[EHMA.ai](https://www.linkedin.com/company/106684691)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6aed5da9c3da5933b8136cc3?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Intern - Spring 2027](https://jobright.ai/jobs/info/6ad8fc69950ef68d5184c56c?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Nov 05 |
 | ↳ | **[Social Media Intern, Financial Brand - Spring 2027](https://jobright.ai/jobs/info/6ae399c1d45dc30fb7d2afd1?utm_campaign=1065&utm_source=git)** | North LA area, CA, United States | Remote | Nov 05 |
 | **[SecondWind by Joveo](https://secondwind-by-joveo.vercel.app/)** | **[Market Research Intern (Remote)](https://jobright.ai/jobs/info/6aecd75d3a3fa7f03ea89ad0?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 05 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2027 Clean Energy Business Intern](https://jobright.ai/jobs/info/6aec88903967d67f6359d582?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 05 |
-| **[RPIA Capital Management](https://www.rpia.ca)** | **[Intern Marketing Analytics](https://jobright.ai/jobs/info/6acfd26278d51ae69ce08508?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
