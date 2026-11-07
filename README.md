@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Dine-In Creator Operations Intern (TikTok Local Services) - 2027 Start](https://jobright.ai/jobs/info/6aee71ecbd2f33eea72dc396?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Nov 06 |
 | ↳ | **[Travel Creator Operations Intern (TikTok Local Services) - 2027 Start](https://jobright.ai/jobs/info/6aee71f4bd2f33eea72dc398?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Nov 06 |
 | **[Bi-State Development](https://www.bistatedev.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aee16b8d20350c7a5078219?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Nov 06 |
-| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6ae968ca32411b3e5a2e090d?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 06 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae9683373d24ab055c57239?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 06 |
+| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6ae9683373d24ab055c57239?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 06 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae968ca32411b3e5a2e090d?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 06 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2027 - Product Marketing Intern Job Details / PACCAR](https://jobright.ai/jobs/info/6aeeace37bf8e8b9eaf7c59c?utm_campaign=1065&utm_source=git)** | Kirkland, WA, United States | On Site | Nov 06 |
 | ↳ | **[Summer Internship - Digital Marketing Job Details / PACCAR](https://jobright.ai/jobs/info/6aeeacdf40b5de2d2b30de0b?utm_campaign=1065&utm_source=git)** | Renton, WA, United States | On Site | Nov 06 |
 | ↳ | **[Summer 2027 - Marketing Communications Intern Job Details / PACCAR](https://jobright.ai/jobs/info/6aeeacdf9f8e479a8bcfa15a?utm_campaign=1065&utm_source=git)** | Kirkland, WA, United States | On Site | Nov 06 |
@@ -85,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Digital Marketing Internship](https://jobright.ai/jobs/info/6aed2bd7465e3d237138502d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[Campfire](https://campfire.ai/)** | **[Marketing Generalist Internship](https://jobright.ai/jobs/info/6aee403bcaf8e660b87ddae6?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 06 |
 | **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/6aee67f75c81f621d31162cf?utm_campaign=1065&utm_source=git)** | 1500 Solana Blvd | On Site | Nov 06 |
-| **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Marketing Intern](https://jobright.ai/jobs/info/6aecf82ca2661405dc2c815b?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 06 |
-| ↳ | **[Drexel Co-op Marketing CRM Intern](https://jobright.ai/jobs/info/6aecf838465e3d2371383656?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 06 |
+| **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Marketing CRM Intern](https://jobright.ai/jobs/info/6aecf838465e3d2371383656?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 06 |
+| ↳ | **[Drexel Co-op Marketing Intern](https://jobright.ai/jobs/info/6aecf82ca2661405dc2c815b?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 06 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Digital Media Internship](https://jobright.ai/jobs/info/6aee95b80fe787d00ed17b98?utm_campaign=1065&utm_source=git)** | Athens, GA, United States | On Site | Nov 06 |
 | **[Blue Mountain Resort](http://www.bluemountain.ca)** | **[Marketing Intern - Seasonal - Full Time](https://jobright.ai/jobs/info/6aee3e7e5c81f621d311462b?utm_campaign=1065&utm_source=git)** | Blue Mountains, Ontario, Canada | On Site | Nov 06 |
 | **[Food Lion](https://www.foodlion.com)** | **[Merchandising - Fresh Intern](https://jobright.ai/jobs/info/6aeeac028022f8ddd319b30e?utm_campaign=1065&utm_source=git)** | Carlisle, PA, United States | Hybrid | Nov 06 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[American Rivers](https://www.americanrivers.org)** | **[Digital Communications Intern (Spring 2027) ](https://jobright.ai/jobs/info/6aee04cac7498922fe0c6c35?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 06 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Hayu Marketing Intern](https://jobright.ai/jobs/info/6aee14aee0c9de7b05f89c45?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 06 |
 | **[Woodberry Associates](https://www.woodberryassociates.com)** | **[Intern](https://jobright.ai/jobs/info/6aee13a2d20350c7a50780c0?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 06 |
-| **[Shure](http://www.shure.com)** | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a989df811f73b6462c8fae5?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | Remote | Nov 06 |
-| ↳ | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a9942faf6de551aa0aaf1ec?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | Remote | Nov 06 |
+| **[Shure](http://www.shure.com)** | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a9942faf6de551aa0aaf1ec?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | Remote | Nov 06 |
+| ↳ | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a989df811f73b6462c8fae5?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | Remote | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
