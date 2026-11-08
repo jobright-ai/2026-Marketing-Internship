@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Autter](https://www.autter.dev/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aefd2cf0fe787d00ed1ccae?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 07 |
+| **[The Global Institute for Health and Human Rights](http://www.albany.edu/gihhr/)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6aefd0fb676e3f91d326df86?utm_campaign=1065&utm_source=git)** | Eleven Point, AR, United States | On Site | Nov 07 |
+| **[Blue Mountain Resort](http://www.bluemountain.ca)** | **[Marketing Intern - Seasonal - Full Time](https://jobright.ai/jobs/info/6aee3e7e5c81f621d311462b?utm_campaign=1065&utm_source=git)** | Blue Mountains, Ontario, Canada | On Site | Nov 07 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Development & Fundraising Intern (Volunteer)](https://jobright.ai/jobs/info/6aefbc930fe787d00ed1c52b?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 07 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Foundation Communications Social Media Intern](https://jobright.ai/jobs/info/6aef833a8022f8ddd319ec5d?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ, United States | Hybrid | Nov 07 |
 | **[DonorConnect](https://www.donorconnect.life)** | **[Social Media Storyteller Intern](https://jobright.ai/jobs/info/6aebcd88a0b134121d99e0e9?utm_campaign=1065&utm_source=git)** | Murray, UT, United States | On Site | Nov 07 |
@@ -65,9 +68,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6aef7056676e3f91d326c611?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 07 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Marketing Management MBA Intern - Summer 2027](https://jobright.ai/jobs/info/6aef6a7b9f8e479a8bcfd118?utm_campaign=1065&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 07 |
 | **[Black Diamond Networks](http://blackdiamondnet.com)** | **[Marketing  Internship](https://jobright.ai/jobs/info/6ad3adf2c4290cef1412f6dc?utm_campaign=1065&utm_source=git)** | Andover, MA, United States | On Site | Nov 07 |
-| **[Sabert Corporation](https://sabert.com/)** | **[Product Development Marketing Intern](https://jobright.ai/jobs/info/6ad2575cf04335fc70ed4e88?utm_campaign=1065&utm_source=git)** | Sayreville, NJ, United States | On Site | Nov 07 |
+| **[Sabert Corporation](https://sabert.com/)** | **[Product Development Marketing Intern](https://jobright.ai/jobs/info/6ad25871810010ec72f57758?utm_campaign=1065&utm_source=git)** | Sayreville, NJ, United States | On Site | Nov 07 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2027 Intern - Coatings Marketing](https://jobright.ai/jobs/info/6a9931218974952dfc949c39?utm_campaign=1065&utm_source=git)** | Niskayuna, NY, United States | On Site | Nov 07 |
-| **[Shure](http://www.shure.com)** | **[Global Marketing Intern (Events & Content Small Scale)](https://jobright.ai/jobs/info/6a989de9c8ed473c5c765209?utm_campaign=1065&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 07 |
+| **[Shure](http://www.shure.com)** | **[Global Marketing Intern (Events & Content Small Scale)](https://jobright.ai/jobs/info/6a99a2dfad752e2ad5500ce1?utm_campaign=1065&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 07 |
 | **[Pomerleau](http://www.pomerleau.ca/)** | **[Internship, Communications](https://jobright.ai/jobs/info/6ab6a33fc6fe0dec811a5c2e?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 07 |
 | **[New Home Star](http://newhomestar.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6ad2afc383ada13a9da075eb?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 07 |
 | **[IBM](http://www.ibm.com)** | **[2027 Intern – Copywriter](https://jobright.ai/jobs/info/6ad11d823d3a5aa909b37f9a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 07 |
@@ -120,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Drexel Co-op Marketing CRM Intern](https://jobright.ai/jobs/info/6aecf838465e3d2371383656?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 06 |
 | **[American Rivers](https://www.americanrivers.org)** | **[Digital Communications Intern (Spring 2027) ](https://jobright.ai/jobs/info/6aee04cac7498922fe0c6c35?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 06 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Digital Media Internship](https://jobright.ai/jobs/info/6aee95b80fe787d00ed17b98?utm_campaign=1065&utm_source=git)** | Athens, GA, United States | On Site | Nov 06 |
-| **[Blue Mountain Resort](http://www.bluemountain.ca)** | **[Marketing Intern - Seasonal - Full Time](https://jobright.ai/jobs/info/6aee3e7e5c81f621d311462b?utm_campaign=1065&utm_source=git)** | Blue Mountains, Ontario, Canada | On Site | Nov 06 |
 | **[Food Lion](https://www.foodlion.com)** | **[Wellbeing Intern](https://jobright.ai/jobs/info/6aeeac049f8e479a8bcfa0f5?utm_campaign=1065&utm_source=git)** | Carlisle, PA, United States | Hybrid | Nov 06 |
 | ↳ | **[Merchandising - Fresh Intern](https://jobright.ai/jobs/info/6aeeac028022f8ddd319b30e?utm_campaign=1065&utm_source=git)** | Carlisle, PA, United States | Hybrid | Nov 06 |
 | **[Adobe](http://www.adobe.com)** | **[2027 Intern — Employee Communications](https://jobright.ai/jobs/info/6aee68fee0c9de7b05f8eb30?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 06 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Americans for the Arts](http://www.americansforthearts.org/)** | **[2027 Marketing Internship](https://jobright.ai/jobs/info/6aee3e05caf8e660b87dd83b?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 06 |
 | **[Greater Green Bay YMCA](https://www.greenbayymca.org)** | **[Spring Marketing Intern](https://jobright.ai/jobs/info/6aee3deb5c81f621d31145ac?utm_campaign=1065&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications and Strategic Initiatives Internship](https://jobright.ai/jobs/info/6aec30b08d18f1312e927165?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 06 |
-| **[SPM, LLC](http://spm.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab4090555e9168cf5ea3f9d?utm_campaign=1065&utm_source=git)** | Athens, GA, United States | On Site | Nov 06 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6ab4081f64816213f2d96c62?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, United States | On Site | Nov 06 |
+| **[SPM, LLC](http://spm.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/6ab4081f64816213f2d96c62?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, United States | On Site | Nov 06 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6ab4090555e9168cf5ea3f9d?utm_campaign=1065&utm_source=git)** | Athens, GA, United States | On Site | Nov 06 |
 | **[Lot Sixteen](https://lotsixteen.com/)** | **[Spring Communications Intern](https://jobright.ai/jobs/info/6aee35495c81f621d3113dfe?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 06 |
-| **[Oak Hills Church](https://www.oakhillschurch.com/)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/6aee33e75c81f621d3113bb6?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 06 |
-| **[Lewis Ginter Botanical Garden](https://www.lewisginter.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aee3183bd2f33eea72d924c?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
