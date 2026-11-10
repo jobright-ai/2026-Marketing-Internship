@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sheltra](https://www.getsheltra.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6af368f84ac248020e8d0c2e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
+| **[Blend PR](https://blendpr.com)** | **[WINTER INTERNSHIP: PR Trailblazer in Training / Join Blend PR](https://jobright.ai/jobs/info/6af367c8769e9374033c5d1a?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 10 |
+| **[REGENT](https://www.regentcraft.com)** | **[Marketing & Comms Intern](https://jobright.ai/jobs/info/6af3675980020ca3a897516b?utm_campaign=1065&utm_source=git)** | North Kingstown, RI, United States | On Site | Nov 10 |
+| **[Aon](http://www.aon.com)** | **[2027 Wealthspire - Marketing Brand Intern](https://jobright.ai/jobs/info/6af3621b10c7aed778619cf1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 10 |
+| **[Electro](electrogum.com)** | **[NIL Deals & Partnerships Intern](https://jobright.ai/jobs/info/6af35de610c7aed778619b16?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | Remote | Nov 10 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6af359a410c7aed778619960?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | On Site | Nov 10 |
-| **[Colorstech Solar](https://www.colorstech.net)** | **[Online Marketing Intern Solar Product](https://jobright.ai/jobs/info/6af3586610c7aed7786198ab?utm_campaign=1065&utm_source=git)** | Canada | Remote | Nov 10 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Marketing Summer MBA Intern](https://jobright.ai/jobs/info/6af358c4f6053e296fc7ba96?utm_campaign=1065&utm_source=git)** | Irving, TX, United States | On Site | Nov 10 |
-| **[123Dentist](http://www.123dentist.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6af357e34ac248020e8d02a4?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 10 |
-| **[Backlinkgen](https://backlinkgen.com)** | **[Digital Promotion Marketing Intern](https://jobright.ai/jobs/info/6af357db80020ca3a8974abf?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Nov 10 |
 | **[Lumine Group](https://www.luminegroup.com)** | **[Demand Generation Analyst Intern](https://jobright.ai/jobs/info/6af356f2769e9374033c55df?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 10 |
-| **[The Boldt Company](https://www.boldt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa08481500b01124c779917?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | Hybrid | Nov 10 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6af327fcf6053e296fc79818?utm_campaign=1065&utm_source=git)** | Elm Grove, WI, United States | On Site | Nov 10 |
+| **[The Boldt Company](https://www.boldt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af327fcf6053e296fc79818?utm_campaign=1065&utm_source=git)** | Elm Grove, WI, United States | On Site | Nov 10 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6aa08481500b01124c779917?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | Hybrid | Nov 10 |
 | **[McGough](http://www.mcgough.com)** | **[Internship/Co-op, Communications](https://jobright.ai/jobs/info/6ac762f733afc44bca0eb7f7?utm_campaign=1065&utm_source=git)** | Roseville, MN, United States | Hybrid | Nov 10 |
 | **[Aurora Sewing Center](https://www.aurorasewingcenter.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af3543180020ca3a89748bf?utm_campaign=1065&utm_source=git)** | East Aurora, NY, United States | On Site | Nov 10 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2027 Communications Intern](https://jobright.ai/jobs/info/6af3288a769e9374033c33b0?utm_campaign=1065&utm_source=git)** | Kansas City, KS, United States | On Site | Nov 10 |
@@ -97,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[The New York Times](https://www.nytco.com/)** | **[Audience Insights Intern](https://jobright.ai/jobs/info/6af24ad962fb9f5fcd896928?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[KHAITE](https://khaite.com/)** | **[PR Internship (Spring 2027)](https://jobright.ai/jobs/info/6ad63adf52aa6152bb692ae3?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[Uproar by Moburst](http://uproarpr.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6af322637c81de7a524bc6ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 10 |
-| **[Genmab](https://www.genmab.com)** | **[Field & Marketing Operations Intern](https://jobright.ai/jobs/info/6ae8e127061d6d7ff3d7e17c?utm_campaign=1065&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
+| **[Genmab](https://www.genmab.com)** | **[Field & Marketing Operations Intern](https://jobright.ai/jobs/info/6ad6632e54bbabbab06f79c0?utm_campaign=1065&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
 | ↳ | **[Marketing Intern, HCP Education & Engagement](https://jobright.ai/jobs/info/6ad66331e4b94611ab83e28f?utm_campaign=1065&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
 | **[ACT Group](https://www.actgroup.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6ad664323dc655658d8e5837?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ad6796154bbabbab06f87b4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 10 |
@@ -107,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Pro4all](https://pro4all.nl)** | **[Marketing Stagiair(e)](https://jobright.ai/jobs/info/6ae079eec5c64fa3d9cc3d9c?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Nov 10 |
 | **[Website Depot Inc. Digital Marketing & SEO](https://websitedepot.com/)** | **[Los Angeles Digital Marketing Agency Internship (Silver Lake)](https://jobright.ai/jobs/info/6af307d210c7aed778616c2f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 10 |
 | **[StudyFetch](https://www.studyfetch.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a63cafc8d536034496044e0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | On Site | Nov 10 |
+| **[Meridian International Center](http://www.meridian.org)** | **[Global Communications & Journalism Intern, Communications & Marketing](https://jobright.ai/jobs/info/6af36013f6053e296fc7bd54?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 10 |
 | **[Genmab](https://www.genmab.com)** | **[Omnichannel Strategy Intern](https://jobright.ai/jobs/info/6ad6633e3dc655658d8e5781?utm_campaign=1065&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2027 Summer Internship (US) - Marketing Insights](https://jobright.ai/jobs/info/6ad683dee4b94611ab83fb11?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Nov 10 |
 | ↳ | **[2027 Summer Internship (US) - Channel Marketing](https://jobright.ai/jobs/info/6ad683e554bbabbab06f91f1?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Nov 10 |
@@ -139,11 +142,11 @@ For a complete list, click the following sortable link below:
 | **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - Social Media Intern – Institutional Advancement Marketing & Communications](https://jobright.ai/jobs/info/6af2ab2641f4504a0888d1bb?utm_campaign=1065&utm_source=git)** | Orem, UT, United States | On Site | Nov 09 |
 | **[AbbVie](https://www.abbvie.com)** | **[Marketing Parkinson’s Disease Intern (12 months)](https://jobright.ai/jobs/info/6af2659a62fb9f5fcd897566?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 09 |
 | **[TikTok](https://www.tiktok.com)** | **[TTS-US Merchandising Strategy Operation Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6af282f4f1ee406a27fddfb9?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 09 |
-| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6aef706b9f8e479a8bcfd3bb?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Nov 09 |
+| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6aef7056676e3f91d326c611?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 09 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6aef706b9f8e479a8bcfd3bb?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Nov 09 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6ae968ca32411b3e5a2e090d?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 09 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6aef7056676e3f91d326c611?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 09 |
-| **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6af2419d1aaffa49f738320a?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 09 |
-| ↳ | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4423df3aa936e2cdb0801?utm_campaign=1065&utm_source=git)** | Georgia, United States | Hybrid | Nov 09 |
+| **[Veeam Software](http://www.veeam.com)** | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4423df3aa936e2cdb0801?utm_campaign=1065&utm_source=git)** | Georgia, United States | Hybrid | Nov 09 |
+| ↳ | **[Field Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6af2419d1aaffa49f738320a?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Search Ads - Intern (Global Monetization Product and Technology) - 2027 Start](https://jobright.ai/jobs/info/6ae00ddd0a4cc7090f98564f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
 | ↳ | **[Brand Search Ads - Intern (Global Monetization Product and Technology) - 2027 Start](https://jobright.ai/jobs/info/6ae00ddc0a4cc7090f98564d?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | On Site | Nov 09 |
 | **[Mercedes-Benz U.S. International, Inc.](https://mbusi.com/)** | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/6af29d726d2bd34f89adba38?utm_campaign=1065&utm_source=git)** | Vance, AL, United States | On Site | Nov 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2027 - Intern, Basketball Marketing](https://jobright.ai/jobs/info/6adf734dc5c64fa3d9cbbab5?utm_campaign=1065&utm_source=git)** | West Hollywood, CA, United States | Hybrid | Nov 09 |
 | ↳ | **[Spring 2027 - Intern, Brand Marketing (Charlotte)](https://jobright.ai/jobs/info/6adf94359e3e874dbfbadca9?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | Hybrid | Nov 09 |
 | ↳ | **[Spring 2027 - Intern, Speakers](https://jobright.ai/jobs/info/6adf7a5cc5c64fa3d9cbbea0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
-| ↳ | **[Spring 2027 - Intern, Brand Marketing (New York)](https://jobright.ai/jobs/info/6adf92219e3e874dbfbadb7c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
-| **[Truckee Meadows Water Authority](https://tmwa.com)** | **[Content Development Intern](https://jobright.ai/jobs/info/6af286d36d2bd34f89adb557?utm_campaign=1065&utm_source=git)** | Heart's Content, NL, Canada | On Site | Nov 09 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern - Kauai](https://jobright.ai/jobs/info/6af2824b6d2bd34f89adb2a7?utm_campaign=1065&utm_source=git)** | Lihue, HI, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
