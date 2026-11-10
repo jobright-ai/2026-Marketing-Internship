@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ElixirFolio](elixirfolio.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6af2a0ce41f4504a0888cf30?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Brand Search Ads - Intern (Global Monetization Product and Technology) - 2027 Start](https://jobright.ai/jobs/info/6ae00ddd0a4cc7090f98564f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
+| ↳ | **[Brand Search Ads - Intern (Global Monetization Product and Technology) - 2027 Start](https://jobright.ai/jobs/info/6ae00ddc0a4cc7090f98564d?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | On Site | Nov 09 |
+| **[Mercedes-Benz U.S. International, Inc.](https://mbusi.com/)** | **[Internship in Quality Management: Market Analysis (International Student)](https://jobright.ai/jobs/info/6af29d726d2bd34f89adba38?utm_campaign=1065&utm_source=git)** | Vance, AL, United States | On Site | Nov 09 |
+| **[Beli](https://beliapp.com/)** | **[Growth Intern - School Year](https://jobright.ai/jobs/info/6af29cd0d622b1b75451a86b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Nov 09 |
+| **[CEC Entertainment](http://chuckecheese.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a58b6774da96a42cfd8c3fe?utm_campaign=1065&utm_source=git)** | Support Center, 1707 Market Place Blvd., Suite 200, Irving, TX, United States of America | On Site | Nov 09 |
 | **[Petra Stellam](https://www.petrastellam.com/)** | **[S/S27 Social Media Internship](https://jobright.ai/jobs/info/6af29445f1ee406a27fde5b9?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Nov 09 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Technical Research Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6af21e5a0cb834dad9323b52?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 09 |
 | **[What's The Move](wtmofficial.com)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/6af28ec516c956f235783dce?utm_campaign=1065&utm_source=git)** | Miami–Fort Lauderdale Area, United States | Hybrid | Nov 09 |
@@ -106,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[BMW Group](http://www.bmwgroup.com)** | **[Intern, BMW Motorrad Marketing - Spring 2027](https://jobright.ai/jobs/info/6aee5cc8bd2f33eea72db863?utm_campaign=1065&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Nov 09 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2027 Marketing Summer Internship Program](https://jobright.ai/jobs/info/6aa80b01654b2a9424cfa524?utm_campaign=1065&utm_source=git)** | Pontiac, MI, United States | On Site | Nov 09 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6aef7056676e3f91d326c611?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 09 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae968ca32411b3e5a2e090d?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 09 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6aef706b9f8e479a8bcfd3bb?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Nov 09 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae968ca32411b3e5a2e090d?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 09 |
 | **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[Digital Marketing Communications Intern](https://jobright.ai/jobs/info/6af21e5d8cbcfef4a59d903a?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Nov 09 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / California State University - Channel Islands](https://jobright.ai/jobs/info/6af24c2962fb9f5fcd896bb0?utm_campaign=1065&utm_source=git)** | Camarillo, CA, United States | On Site | Nov 09 |
 | **[ABB](https://global.abb/group/en)** | **[Internal Communications Intern- Spring 2027](https://jobright.ai/jobs/info/6af23d4f0cb834dad9325514?utm_campaign=1065&utm_source=git)** | Memphis, TN, United States | Remote | Nov 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ad Sales Enterprise Marketing & Communications Internships – Summer 2027](https://jobright.ai/jobs/info/6af20959905985ccaa407d87?utm_campaign=1065&utm_source=git)** | Universal City, California, United States | On Site | Nov 09 |
 | ↳ | **[Ad Sales Enterprise Marketing & Communications Internships – Summer 2027](https://jobright.ai/jobs/info/6af2094a8cbcfef4a59d7925?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | On Site | Nov 09 |
 | **[Codeable](https://gocodeable.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6af27dffd622b1b754519d93?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL, United States | On Site | Nov 09 |
-| **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC Local Production, Editorial, and Marketing News Internships – Summer 2027](https://jobright.ai/jobs/info/6af21b6262fb9f5fcd8942fc?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 09 |
-| ↳ | **[Advertising & Partnerships: Sales & Sales Support Internships – Summer 2027](https://jobright.ai/jobs/info/6af21b341aaffa49f73810a4?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 09 |
-| ↳ | **[Ad Sales Enterprise Marketing & Communications Internships – Summer 2027](https://jobright.ai/jobs/info/6af21b2362fb9f5fcd894139?utm_campaign=1065&utm_source=git)** | Universal City, CA, United States | On Site | Nov 09 |
-| ↳ | **[Advertising & Partnerships: Ad Products Internships – Summer 2027](https://jobright.ai/jobs/info/6af21aff8cbcfef4a59d89d4?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 09 |
-| **[Quick Focused](https://quickfocused.com)** | **[LinkedIn Audience Growth Intern](https://jobright.ai/jobs/info/6af21739905985ccaa408606?utm_campaign=1065&utm_source=git)** | Ohio, United States | Remote | Nov 09 |
-| **[FACE FOUNDRIÉ®️](https://www.facefoundrie.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af217321116f6f0a0765216?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
