@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Riot Games](http://www.riotgames.com)** | **[Community Manager Intern - Summer 2027](https://jobright.ai/jobs/info/6af3da81fee40b4fffbdc782?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 10 |
+| **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok Shop - Platform Campaign C) - 2026 Start](https://jobright.ai/jobs/info/6af3f70850da4f7200923eb7?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 10 |
+| **[Electro](electrogum.com)** | **[Social Media & Community Intern](https://jobright.ai/jobs/info/6af3f656e229a09f42379ac0?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Remote | Nov 10 |
+| **[Devil May Care Media](https://www.devilmaycaremedia.com/)** | **[Social / Editorial Intern](https://jobright.ai/jobs/info/6af3f50afee40b4fffbdcfbc?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 10 |
+| **[Riot Games](http://www.riotgames.com)** | **[Social Media Manager Intern - Summer 2027](https://jobright.ai/jobs/info/6af3da8277676d02a3df3f80?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 10 |
+| ↳ | **[Community Manager Intern - Summer 2027](https://jobright.ai/jobs/info/6af3da81fee40b4fffbdc782?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 10 |
+| **[Girls Inc.](http://www.girlsinc.org/)** | **[Spring 2027 Marketing and Communications Internship](https://jobright.ai/jobs/info/6af385b97c81de7a524c0800?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 10 |
+| **[ABB](https://global.abb/group/en)** | **[ELDS Marketing Communications Intern-Winter 2027](https://jobright.ai/jobs/info/6af3a78a769e9374033c8e18?utm_campaign=1065&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Nov 10 |
 | **[Harvard Medical School](http://hcc.hms.harvard.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/6af3e8e5fee40b4fffbdcaa2?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Nov 10 |
 | **[Rugby Ontario](https://www.rugbyontario.com)** | **[Events & Partnerships Intern](https://jobright.ai/jobs/info/6af3e690e229a09f42379348?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 10 |
 | **[Arya57](https://arya57.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6af3dee3e229a09f42379125?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 10 |
-| **[Riot Games](http://www.riotgames.com)** | **[Social Media Manager Intern - Summer 2027](https://jobright.ai/jobs/info/6af3da8277676d02a3df3f80?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 10 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6af3ceed4ac248020e8d4971?utm_campaign=1065&utm_source=git)** | Schiller Park, IL, United States | On Site | Nov 10 |
 | **[Toothbrush Toys](https://www.toothbrushtoys.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af3ca2210c7aed77861ddae?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 10 |
 | **[KATRINA WAN PR](https://katrinawanpr.com)** | **[Spring Film Publicity Intern](https://jobright.ai/jobs/info/6af3c331f6053e296fc7fdd1?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Nov 10 |
@@ -81,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[REGENT](https://www.regentcraft.com)** | **[Marketing & Comms Intern](https://jobright.ai/jobs/info/6af3675980020ca3a897516b?utm_campaign=1065&utm_source=git)** | North Kingstown, RI, United States | On Site | Nov 10 |
 | **[genni](http://genni.com)** | **[Outreach Intern](https://jobright.ai/jobs/info/6af3aa1d4ac248020e8d3b2c?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Nov 10 |
 | **[JMT](http://jmt.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6af369617c81de7a524bf5a2?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA, United States | On Site | Nov 10 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6af369174ac248020e8d0cb3?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 10 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6af3693210c7aed77861a2ee?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD, United States | On Site | Nov 10 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6af369174ac248020e8d0cb3?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 10 |
 | **[Vizient](https://www.vizientinc.com)** | **[Summer 2027 Internship - Life Sciences Solutions Market Research](https://jobright.ai/jobs/info/6af2403e1aaffa49f7383154?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Nov 10 |
 | **[Textron](http://textron.com)** | **[Spring Co-Op - Marketing (Content Marketing)](https://jobright.ai/jobs/info/6af3a46ef6053e296fc7efe4?utm_campaign=1065&utm_source=git)** | Wichita, KS, United States | On Site | Nov 10 |
 | **[Adobe](http://www.adobe.com)** | **[2027 MBA Intern - Integrated GTM Strategy](https://jobright.ai/jobs/info/6af39aeb4ac248020e8d2e06?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 10 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Marketing and Sales Intern - Summer 2027 - Aurora, IL](https://jobright.ai/jobs/info/6ad649a03dc655658d8e4252?utm_campaign=1065&utm_source=git)** | Aurora, IL, United States | On Site | Nov 10 |
 | **[The New York Times](https://www.nytco.com/)** | **[Audience Insights Intern](https://jobright.ai/jobs/info/6af24ad962fb9f5fcd896928?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[KHAITE](https://khaite.com/)** | **[PR Internship (Spring 2027)](https://jobright.ai/jobs/info/6ad63adf52aa6152bb692ae3?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
-| **[Girls Inc.](http://www.girlsinc.org/)** | **[Spring 2027 Marketing and Communications Internship](https://jobright.ai/jobs/info/6af385b97c81de7a524c0800?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 10 |
 | **[Brixenta](brixenta.net)** | **[Market Access Strategy Intern](https://jobright.ai/jobs/info/6af3bd9680020ca3a8978c37?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 10 |
 | **[Uproar by Moburst](http://uproarpr.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6af322637c81de7a524bc6ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 10 |
-| **[Genmab](https://www.genmab.com)** | **[Field & Marketing Operations Intern](https://jobright.ai/jobs/info/6ae8e127061d6d7ff3d7e17c?utm_campaign=1065&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
+| **[Genmab](https://www.genmab.com)** | **[Field & Marketing Operations Intern](https://jobright.ai/jobs/info/6ad6632e54bbabbab06f79c0?utm_campaign=1065&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
 | ↳ | **[Marketing Intern, HCP Education & Engagement](https://jobright.ai/jobs/info/6ad66331e4b94611ab83e28f?utm_campaign=1065&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
-| **[Premier Marine](http://premiermarineut.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af371ee769e9374033c669a?utm_campaign=1065&utm_source=git)** | Big Lake, MN, United States | On Site | Nov 10 |
-| **[ACT Group](https://www.actgroup.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6ad664323dc655658d8e5837?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ad6796154bbabbab06f87b4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 10 |
-| **[Hype Events](https://hypevents.ca)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af315e94ac248020e8cdb7c?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
