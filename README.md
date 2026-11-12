@@ -57,19 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 11 |
 | **[Califia Farms](http://www.califiafarms.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6af4e46ecbd2ee75d155e05e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 11 |
 | ↳ | **[Influencer and PR Intern](https://jobright.ai/jobs/info/6af4e4703a9a26aee70a164f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 11 |
+| **[CHAMP](http://www.champtitles.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/6af51cd53a9a26aee70a2ff3?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 11 |
 | **[ai.moms](https://aimoms.ai/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6af51d793a9a26aee70a3011?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Nov 11 |
-| **[CHAMP](http://www.champtitles.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6af51cd53a9a26aee70a2ff3?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 11 |
 | **[Mars](https://www.mars.com)** | **[Summer 2027 Mars Petcare Market Insights Internship](https://jobright.ai/jobs/info/6af4f6731b2c5dcbbcd65ddf?utm_campaign=1065&utm_source=git)** | Franklin, TN, United States | On Site | Nov 11 |
-| **[YFK Office Lease](https://www.yfkofficelease.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af51afbcd7be4db20d8af3c?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | On Site | Nov 11 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Market Access Strategy Intern](https://jobright.ai/jobs/info/6af517abcd7be4db20d8ae4a?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | Remote | Nov 11 |
 | **[Sixtyfour](https://www.sixtyfour.ai)** | **[Growth Marketing Intern, Sixtyfour](https://jobright.ai/jobs/info/6af508323a9a26aee70a29ea?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 11 |
 | **[Parspec](https://parspec.io)** | **[Product Marketing Manager Intern](https://jobright.ai/jobs/info/6af5123bcd7be4db20d8ad3b?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | On Site | Nov 11 |
 | **[Palmetto Superfoods](https://www.palmettosuperfoods.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af510dacd7be4db20d8acba?utm_campaign=1065&utm_source=git)** | Berkeley, CA, United States | On Site | Nov 11 |
 | **[Kinelo](https://www.kinelo.com/)** | **[Marketing & Content Intern (Part-Time)](https://jobright.ai/jobs/info/6af510931b2c5dcbbcd6685d?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 11 |
-| **[Keenfinity Group](https://www.keenfinity-group.com)** | **[Marketing Intern - CCS](https://jobright.ai/jobs/info/6af4f3b5cbd2ee75d155eb1d?utm_campaign=1065&utm_source=git)** | Burnsville, MN, United States | Hybrid | Nov 11 |
-| ↳ | **[Marketing Intern - CCS](https://jobright.ai/jobs/info/6aeb767965311d97105b8d5a?utm_campaign=1065&utm_source=git)** | Burnsville, MN, United States | Hybrid | Nov 11 |
+| **[Keenfinity Group](https://www.keenfinity-group.com)** | **[Marketing Intern - CCS](https://jobright.ai/jobs/info/6aeb767965311d97105b8d5a?utm_campaign=1065&utm_source=git)** | Burnsville, MN, United States | Hybrid | Nov 11 |
+| ↳ | **[Marketing Intern - CCS](https://jobright.ai/jobs/info/6af4f3b5cbd2ee75d155eb1d?utm_campaign=1065&utm_source=git)** | Burnsville, MN, United States | Hybrid | Nov 11 |
 | **[Gucci](http://www.gucci.com)** | **[SAINT LAURENT Client Engagement Spring Intern](https://jobright.ai/jobs/info/6af50533cd7be4db20d8a82c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Digital Marketing Internship](https://jobright.ai/jobs/info/6aed2bd7465e3d237138502d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/6af4cad19144106c56a21641?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 11 |
@@ -99,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Development & Fundraising Intern (Volunteer)](https://jobright.ai/jobs/info/6af4ca34cbd2ee75d155d0e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 11 |
 | **[VAN ETTEN PR](https://www.vanettenpr.com)** | **[Spring PR + Showroom Intern](https://jobright.ai/jobs/info/6af4c902cd7be4db20d886e9?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | **[Fusion100 LLC](https://fusion100co.com)** | **[Campus Relations Intern](https://jobright.ai/jobs/info/6af4c7bdcbd2ee75d155d067?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 11 |
+| **[Codeable](https://gocodeable.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6af535f39144106c56a2458c?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL, United States | On Site | Nov 11 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2027 - Intern, Communications](https://jobright.ai/jobs/info/6af4c2e09144106c56a213e5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 11 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing Intern Remote - US only (Unpaid)](https://jobright.ai/jobs/info/6af4c2131b2c5dcbbcd63ee6?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 11 |
 | **[Abode Money](https://www.abodemoney.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/6ad4f34f810010ec72f5f308?utm_campaign=1065&utm_source=git)** | Austin, Texas, United States | On Site | Nov 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sloane Strategy](https://sloanestrategy.com)** | **[Seasonal Social Media Content Creation Intern (Nov-Jan)](https://jobright.ai/jobs/info/6af47af59144106c56a1e6a7?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 11 |
 | **[Bunge](http://www.bunge.com)** | **[Merchandising Intern (Rock Port, MO) Job Details / Bunge](https://jobright.ai/jobs/info/6ad994aae4b94611ab85678c?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Nov 11 |
 | ↳ | **[Merchandising Intern (Prairie Du Chien, WI) Job Details / Bunge](https://jobright.ai/jobs/info/6ad9949f54bbabbab0710127?utm_campaign=1065&utm_source=git)** | Terre Haute, IN, United States | On Site | Nov 11 |
-| **[Hype Events](https://hypevents.ca)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af48f60cbd2ee75d155ac00?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
