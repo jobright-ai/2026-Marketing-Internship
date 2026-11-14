@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Healthy Kids Programs](https://www.healthykidsprograms.com)** | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af63986323c531f31e3115d?utm_campaign=1065&utm_source=git)** | Danbury, CT, United States | On Site | Nov 14 |
+| **[Intuit](https://www.intuit.com)** | **[Summer 2027: MBA Product Marketing Intern, FinTech Lending](https://jobright.ai/jobs/info/6abbee36b23c6fb2b81a3e50?utm_campaign=1065&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 14 |
+| **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Marketing/Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6ae11d14de23f466ec8bc691?utm_campaign=1065&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 14 |
+| **[Healthy Kids Programs](https://www.healthykidsprograms.com)** | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af4e5d92278454e18c394c2?utm_campaign=1065&utm_source=git)** | New Windsor, NY, United States | On Site | Nov 14 |
 | ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af4dd963a9a26aee70a1375?utm_campaign=1065&utm_source=git)** | Fishkill, NY, United States | On Site | Nov 14 |
-| ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af4e5d92278454e18c394c2?utm_campaign=1065&utm_source=git)** | New Windsor, NY, United States | On Site | Nov 14 |
 | ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af4e5d61b2c5dcbbcd651b7?utm_campaign=1065&utm_source=git)** | Carmel, New York, United States | On Site | Nov 14 |
+| ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af63986323c531f31e3115d?utm_campaign=1065&utm_source=git)** | Danbury, CT, United States | On Site | Nov 14 |
 | ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af78774e3d8d612bf42468d?utm_campaign=1065&utm_source=git)** | Poughkeepsie, NY, United States | On Site | Nov 14 |
 | **[Helena Agri-Enterprises, LLC](https://helenaagri.com/)** | **[Intern - Marketing Services](https://jobright.ai/jobs/info/6ad8e90a950ef68d5184b5a1?utm_campaign=1065&utm_source=git)** | Memphis, TN, United States | On Site | Nov 14 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern- Marketing](https://jobright.ai/jobs/info/6af5454bcd7be4db20d8baa3?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Nov 14 |
 | **[Ambev Tech](https://ambevtech.com.br/quem-somos/)** | **[AB InBev MBA Summer 2027 Intern - MARKETING](https://jobright.ai/jobs/info/6adc7d9b5dc7953215a36fa8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 14 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern - Product Marketing Winter 2027](https://jobright.ai/jobs/info/6ac03ada4ac55253f5d68553?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 14 |
-| **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa3c6334233a2201a2b38d6?utm_campaign=1065&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 14 |
-| ↳ | **[Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6acf41ae260f3102c94e4bd4?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 14 |
+| **[HDR](http://www.hdrinc.com)** | **[Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6acf41ae260f3102c94e4bd4?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 14 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6aa3cba64238ea18d430e550?utm_campaign=1065&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 14 |
 | ↳ | **[Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6acf3fef9f35fba28731f445?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 14 |
 | **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a51acbe8d7d3e6cf1cc0eb1?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, United States of America | Remote | Nov 14 |
 | ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Remote | Nov 14 |
@@ -74,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Aflac](http://www.aflac.com)** | **[2027 Summer Brand Intern](https://jobright.ai/jobs/info/6af8251a86a9b19681af7e8c?utm_campaign=1065&utm_source=git)** | Columbus, GA, United States | Hybrid | Nov 14 |
 | **[TGW Logistics](http://www.tgw-group.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6adbae8e9e3e874dbfba13ad?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 14 |
 | **[Chernoff Newman](http://chernoffnewman.com)** | **[Public Relations/Social Media Intern](https://jobright.ai/jobs/info/6af814a986a9b19681af782f?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | On Site | Nov 13 |
-| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af6435bf10ae27369e18731?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 13 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6af72028d0eefb7d11b890ec?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 13 |
+| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af72028d0eefb7d11b890ec?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 13 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6af6435bf10ae27369e18731?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 13 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/6ac085188ff3fb9b3bc7c455?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Product Application & Marketing Engineer (Summer 2027)](https://jobright.ai/jobs/info/6af7eba242ae65e2c8f3a358?utm_campaign=1065&utm_source=git)** | Garland, Texas, United States | On Site | Nov 13 |
 | **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Social Media & Marketing Intern)](https://jobright.ai/jobs/info/6af7f91a34e2d29dcb752be6?utm_campaign=1065&utm_source=git)** | Lisle, IL, United States | Hybrid | Nov 13 |
@@ -99,9 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Marketing Internship](https://jobright.ai/jobs/info/6af76c893ba46d7b6c166936?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | **[AMAROK Security](https://www.amarok.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af760dc3ba46d7b6c166230?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | On Site | Nov 13 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Brand Marketing Intern](https://jobright.ai/jobs/info/6af777383ba46d7b6c167097?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 13 |
+| **[Target](https://www.target.com)** | **[Marketing Intern-Minneapolis, MN (Starting Summer 2027)](https://jobright.ai/jobs/info/6af4e80bcbd2ee75d155e2fd?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 13 |
 | **[Emerson](http://www.emerson.com)** | **[Life Sciences Marketing Intern](https://jobright.ai/jobs/info/6af78ccde3d8d612bf4249cc?utm_campaign=1065&utm_source=git)** | Round Rock, TX, United States | Hybrid | Nov 13 |
 | **[Russell Stover Chocolates](http://www.russellstover.com)** | **[Digital Commerce Intern - Summer 2027](https://jobright.ai/jobs/info/6af7956f8242286400646f84?utm_campaign=1065&utm_source=git)** | Kansas City, Missouri, United States | On Site | Nov 13 |
-| **[ODW Logistics](http://odwlogistics.com)** | **[Marketing Internship – Digital Marketing & Sales Enablement](https://jobright.ai/jobs/info/6af78cda3ba46d7b6c167e55?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Nov 13 |
+| **[ODW Logistics](http://odwlogistics.com)** | **[Marketing Internship – Digital Marketing & Sales Enablement](https://jobright.ai/jobs/info/6af78a07d0eefb7d11b8d8dc?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Nov 13 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Insurance Planning Intern](https://jobright.ai/jobs/info/6a958c28c8763a3a87ffa838?utm_campaign=1065&utm_source=git)** | Akron, OH, United States | On Site | Nov 13 |
 | **[USA Football](http://usafootball.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6af79ba3c7349029d7097ad6?utm_campaign=1065&utm_source=git)** | Alabama, United States | Remote | Nov 13 |
 | ↳ | **[Intern, Grassroots Growth](https://jobright.ai/jobs/info/6af79b9f82422864006472cc?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Remote | Nov 13 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship Program - Marketing](https://jobright.ai/jobs/info/6af76a0e8242286400644faf?utm_campaign=1065&utm_source=git)** | Arlington, VA, United States | Hybrid | Nov 13 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af766be8242286400644dc4?utm_campaign=1065&utm_source=git)** | Webster Groves, MO, United States | On Site | Nov 13 |
 | **[La Vie En Rose](https://www.lavieenrose.com)** | **[STAGIAIRE, MARKETING PAR COURRIEL-FR](https://jobright.ai/jobs/info/6af765c541166cab7564b13d?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 13 |
-| **[The New York Times](https://www.nytco.com/)** | **[Advertising Revenue Operations Intern](https://jobright.ai/jobs/info/6ae4e147c3139b475b5b6d4b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
-| ↳ | **[Marketing Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4ea9cd7424a2a828ea005?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6ae4e145c3139b475b5b6d47?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
-| ↳ | **[Advertising Business Operations & Enablement Operations Intern](https://jobright.ai/jobs/info/6ae4e146d45dc30fb7d3327d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
-| **[Codeable](https://gocodeable.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6af75f86e3d8d612bf422c2f?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL, United States | On Site | Nov 13 |
-| **[Tapestry](http://www.tapestry.com/)** | **[Summer eCommerce & Digital Internship](https://jobright.ai/jobs/info/6af767a93ba46d7b6c16666f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
+| **[The New York Times](https://www.nytco.com/)** | **[Marketing Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4ea9cd7424a2a828ea005?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
+| ↳ | **[Advertising Revenue Operations Intern](https://jobright.ai/jobs/info/6ae4e147c3139b475b5b6d4b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
