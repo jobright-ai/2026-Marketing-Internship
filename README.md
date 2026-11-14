@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Intern - Social Media](https://jobright.ai/jobs/info/6ad6bbcbe4b94611ab84175b?utm_campaign=1065&utm_source=git)** | Brea, CA, United States | On Site | Nov 13 |
+| **[Electro](electrogum.com)** | **[NIL Marketing Intern](https://jobright.ai/jobs/info/6af7ba02c7349029d70984ef?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Remote | Nov 13 |
+| **[Walmart](http://www.walmart.com)** | **[(USA) 2027 Summer Corporate Intern:  Corporate Product Marketing Intern](https://jobright.ai/jobs/info/6ae3a9e0fb2cd420ace52eaa?utm_campaign=1065&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 13 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Marketing Internship](https://jobright.ai/jobs/info/6af76c893ba46d7b6c166936?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | **[AMAROK Security](https://www.amarok.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af760dc3ba46d7b6c166230?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | On Site | Nov 13 |
 | **[Emerson](http://www.emerson.com)** | **[Life Sciences Marketing Intern](https://jobright.ai/jobs/info/6af78ccde3d8d612bf4249cc?utm_campaign=1065&utm_source=git)** | Round Rock, TX, United States | Hybrid | Nov 13 |
 | **[Russell Stover Chocolates](http://www.russellstover.com)** | **[Digital Commerce Intern - Summer 2027](https://jobright.ai/jobs/info/6af7956f8242286400646f84?utm_campaign=1065&utm_source=git)** | Kansas City, Missouri, United States | On Site | Nov 13 |
-| **[ODW Logistics](http://odwlogistics.com)** | **[Marketing Internship – Digital Marketing & Sales Enablement](https://jobright.ai/jobs/info/6af78dd3e3d8d612bf424ace?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Nov 13 |
+| **[ODW Logistics](http://odwlogistics.com)** | **[Marketing Internship – Digital Marketing & Sales Enablement](https://jobright.ai/jobs/info/6af78a07d0eefb7d11b8d8dc?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Nov 13 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Insurance Planning Intern](https://jobright.ai/jobs/info/6a958c28c8763a3a87ffa838?utm_campaign=1065&utm_source=git)** | Akron, OH, United States | On Site | Nov 13 |
 | **[USA Football](http://usafootball.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6af79ba3c7349029d7097ad6?utm_campaign=1065&utm_source=git)** | Alabama, United States | Remote | Nov 13 |
 | ↳ | **[Intern, Grassroots Growth](https://jobright.ai/jobs/info/6af79b9f82422864006472cc?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Remote | Nov 13 |
@@ -104,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[JumpStart  Inc.](http://www.jumpstartinc.org)** | **[Digital Marketing Intern – Video Production](https://jobright.ai/jobs/info/6af6e58ee3d8d612bf41f149?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 13 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2027 Content - Video Internship](https://jobright.ai/jobs/info/6af77d68d0eefb7d11b8d23f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | ↳ | **[Spring 2027 PR Internship](https://jobright.ai/jobs/info/6af77d6b3ba46d7b6c167664?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
-| ↳ | **[Spring 2027 Influencer Marketing Internship](https://jobright.ai/jobs/info/6af77d69e3d8d612bf4241eb?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | ↳ | **[Spring 2027 Events Internship](https://jobright.ai/jobs/info/6af77d62d0eefb7d11b8d235?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
+| ↳ | **[Spring 2027 Influencer Marketing Internship](https://jobright.ai/jobs/info/6af77d69e3d8d612bf4241eb?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[Hunter Roberts Construction Group](https://www.hrcg.com)** | **[2027 Summer Internship Program - Marketing Intern](https://jobright.ai/jobs/info/6af76d05e3d8d612bf42344f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[FamilySearch Global Engagement Church Channels Internship: Content and Insights](https://jobright.ai/jobs/info/6af76c8041166cab7564b515?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Nov 13 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org)** | **[Development & Fundraising Intern (Volunteer)](https://jobright.ai/jobs/info/6af76ac18242286400645041?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 13 |
@@ -114,14 +117,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship Program - Marketing](https://jobright.ai/jobs/info/6af76a0e8242286400644faf?utm_campaign=1065&utm_source=git)** | Arlington, VA, United States | Hybrid | Nov 13 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af766be8242286400644dc4?utm_campaign=1065&utm_source=git)** | Webster Groves, MO, United States | On Site | Nov 13 |
 | **[La Vie En Rose](https://www.lavieenrose.com)** | **[STAGIAIRE, MARKETING PAR COURRIEL-FR](https://jobright.ai/jobs/info/6af765c541166cab7564b13d?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 13 |
-| **[The New York Times](https://www.nytco.com/)** | **[Marketing Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4ea9cd7424a2a828ea005?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
+| **[The New York Times](https://www.nytco.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6ae4e145c3139b475b5b6d47?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | ↳ | **[Advertising Revenue Operations Intern](https://jobright.ai/jobs/info/6ae4e147c3139b475b5b6d4b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6ae4e145c3139b475b5b6d47?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
+| ↳ | **[Marketing Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4ea9cd7424a2a828ea005?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | ↳ | **[Advertising Business Operations & Enablement Operations Intern](https://jobright.ai/jobs/info/6ae4e146d45dc30fb7d3327d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | **[Codeable](https://gocodeable.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6af75f86e3d8d612bf422c2f?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL, United States | On Site | Nov 13 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer eCommerce & Digital Internship](https://jobright.ai/jobs/info/6af767a93ba46d7b6c16666f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Payments Strategist)](https://jobright.ai/jobs/info/6aa19548dbc0e60e37e1241f?utm_campaign=1065&utm_source=git)** | Pensacola, FL, United States | Hybrid | Nov 13 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16832500b01124c77c791?utm_campaign=1065&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa163163272060a8e3ef863?utm_campaign=1065&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | **[Electro](electrogum.com)** | **[Social Media & Athlete Marketing Intern](https://jobright.ai/jobs/info/6af758d23ba46d7b6c165c4d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 13 |
 | ↳ | **[Sports Marketing & Brand Partnerships Intern](https://jobright.ai/jobs/info/6af758add0eefb7d11b8b761?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 13 |
 | **[Atlys](https://www.atlys.com)** | **[Content & Campaign Operations Intern](https://jobright.ai/jobs/info/6af755563ba46d7b6c16591f?utm_campaign=1065&utm_source=git)** | Delhi, Michigan, United States | On Site | Nov 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c74c2dbaf907b0764d20?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Nov 13 |
 | **[Entegris](http://www.entegris.com)** | **[Technical Marketing Intern](https://jobright.ai/jobs/info/6af7448ee3d8d612bf421a5a?utm_campaign=1065&utm_source=git)** | Chaska, MN, United States | On Site | Nov 13 |
 | **[St. Bernards Healthcare](https://stbernards.info)** | **[INTERN -  MARKETING](https://jobright.ai/jobs/info/6af736b7d0eefb7d11b89e96?utm_campaign=1065&utm_source=git)** | Jonesboro, AR, United States | On Site | Nov 13 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Events Intern](https://jobright.ai/jobs/info/6ada47354c3adc437cecb4ce?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
-| **[Belden Inc.](http://belden.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af709343ba46d7b6c162dbd?utm_campaign=1065&utm_source=git)** | Carmel, IN, United States | On Site | Nov 13 |
-| **[ProCogia](http://procogia.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6ad22c8a5290d4375c450c82?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
