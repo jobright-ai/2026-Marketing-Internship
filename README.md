@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Octaura](https://www.octaura.com)** | **[Intern, Product and Marketing Rotation](https://jobright.ai/jobs/info/6afaca2c932361ec3b6e55bc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6afac749932361ec3b6e547e?utm_campaign=1065&utm_source=git)** | Racine, WI, United States | On Site | Nov 16 |
 | **[Kentucky Department of Education](https://education.ky.gov/Pages/default.aspx)** | **[Team Kentucky Internship Program - Public Protection - Office of Communications and Public Outreach](https://jobright.ai/jobs/info/6afa9d351460f8021289c9b3?utm_campaign=1065&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 15 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Public Protection - Office of Communications and Public Outreach](https://jobright.ai/jobs/info/6afa9d211460f8021289c9a0?utm_campaign=1065&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 15 |
 | **[Printemps New York](https://us.printemps.com/)** | **[Event Coordinator – Intern](https://jobright.ai/jobs/info/6afa7596f8b2a89bacb938d8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 15 |
@@ -77,12 +79,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Internship - Athlete Partnerships Planner Intern](https://jobright.ai/jobs/info/6af9ad2fa68705504beba380?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 15 |
 | **[Power Digital Marketing](https://powerdigitalmarketing.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6af9e264a68705504beba8db?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Athletic Operations](https://jobright.ai/jobs/info/6abfe8e2372c01f6cd729745?utm_campaign=1065&utm_source=git)** | Vero Beach, FL, United States | On Site | Nov 15 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6aa177e13272060a8e3efe84?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 15 |
-| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6ab4c62e3362fb9a8705f0a5?utm_campaign=1065&utm_source=git)** | Smyrna, Delaware, United States | On Site | Nov 15 |
-| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6abfea15372c01f6cd7297a9?utm_campaign=1065&utm_source=git)** | High Point, North Carolina, United States | On Site | Nov 15 |
-| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6ac0337fd9621c5b28396eba?utm_campaign=1065&utm_source=git)** | Greenville, South Carolina, United States | On Site | Nov 15 |
-| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6abaa346ee0b348be729a9b9?utm_campaign=1065&utm_source=git)** | Mason, OH, United States | On Site | Nov 15 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6aea55154f991d64376cd146?utm_campaign=1065&utm_source=git)** | Smyrna, Delaware, United States | On Site | Nov 15 |
 | ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6aa1781f500b01124c77cca9?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Nov 15 |
+| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6abfe9708ff3fb9b3bc798ad?utm_campaign=1065&utm_source=git)** | High Point, North Carolina, United States | On Site | Nov 15 |
+| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6aa177e13272060a8e3efe84?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 15 |
+| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6abaa3d4ee0b348be729a9f8?utm_campaign=1065&utm_source=git)** | Mason, OH, United States | On Site | Nov 15 |
+| ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6ac0337fd9621c5b28396eba?utm_campaign=1065&utm_source=git)** | Greenville, South Carolina, United States | On Site | Nov 15 |
 | ↳ | **[Summer 2027 Marketing Intern](https://jobright.ai/jobs/info/6aadacce3dbb1f8967ceef28?utm_campaign=1065&utm_source=git)** | IN-Indianapolis | On Site | Nov 15 |
 | **[LMCU](https://www.lmcu.org/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6af9ccb51465de0d45f84cf4?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 15 |
 | **[Trex Company](http://www.trex.com)** | **[2027 Summer Internship Program - Marketing](https://jobright.ai/jobs/info/6aa42b69f3aa936e2cdb014c?utm_campaign=1065&utm_source=git)** | Winchester, VA, United States | On Site | Nov 15 |
@@ -115,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6af895b735427cce9bb2e4d7?utm_campaign=1065&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Nov 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa46ec8f7baf881567ceb43?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN, United States | On Site | Nov 14 |
 | **[ProCogia](http://procogia.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6ad0f2aaa4f99fef819405f4?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 14 |
-| **[Avient Corporation](https://www.avient.com)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6a85feed4afae74a08342a78?utm_campaign=1065&utm_source=git)** | Avon Lake, OH, United States | On Site | Nov 14 |
+| **[Avient Corporation](https://www.avient.com)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6a86061e2f4f0014cae27982?utm_campaign=1065&utm_source=git)** | Avon Lake, OH, United States | On Site | Nov 14 |
 | **[Microsoft](https://www.microsoft.com)** | **[Marketing MBA Internship Opportunities, United States](https://jobright.ai/jobs/info/6af86b3786a9b19681af9e23?utm_campaign=1065&utm_source=git)** | Redmond, WA, United States | Hybrid | Nov 14 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Nov 14 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Category Management Intern - Summer 2027](https://jobright.ai/jobs/info/6adbc559389e06bb41ad3b7e?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 14 |
@@ -142,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[MS Transverse](https://transverseinsurance.com)** | **[Marketing & Partnerships Intern](https://jobright.ai/jobs/info/6aa3a69c4238ea18d430d310?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Nov 14 |
 | **[Belden Inc.](http://belden.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af85fd086a9b19681af94b7?utm_campaign=1065&utm_source=git)** | Carmel, IN, United States | On Site | Nov 14 |
 | **[Healthy Kids Programs](https://www.healthykidsprograms.com)** | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af63986323c531f31e3115d?utm_campaign=1065&utm_source=git)** | Danbury, CT, United States | On Site | Nov 14 |
-| ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af4e5d61b2c5dcbbcd651b7?utm_campaign=1065&utm_source=git)** | Carmel, New York, United States | On Site | Nov 14 |
 | ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af4e5d92278454e18c394c2?utm_campaign=1065&utm_source=git)** | New Windsor, NY, United States | On Site | Nov 14 |
+| ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af4e5d61b2c5dcbbcd651b7?utm_campaign=1065&utm_source=git)** | Carmel, New York, United States | On Site | Nov 14 |
 | ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af4dd963a9a26aee70a1375?utm_campaign=1065&utm_source=git)** | Fishkill, NY, United States | On Site | Nov 14 |
 | ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af78774e3d8d612bf42468d?utm_campaign=1065&utm_source=git)** | Poughkeepsie, NY, United States | On Site | Nov 14 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern- Marketing](https://jobright.ai/jobs/info/6af5454bcd7be4db20d8baa3?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Nov 14 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern - Product Marketing Winter 2027](https://jobright.ai/jobs/info/6ac03ada4ac55253f5d68553?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 14 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6aa39003c5a856ac7e33a19c?utm_campaign=1065&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 14 |
 | **[Clera](https://www.getclera.com/)** | **[Growth & Marketing Intern / New Grad](https://jobright.ai/jobs/info/6af91d6948f3528e5a72ec62?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 14 |
-| **[HDR](http://www.hdrinc.com)** | **[Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6acf3fef9f35fba28731f445?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 14 |
-| ↳ | **[Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6acf41ae260f3102c94e4bd4?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 14 |
+| **[HDR](http://www.hdrinc.com)** | **[Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6acf41ae260f3102c94e4bd4?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 14 |
+| ↳ | **[Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6acf3fef9f35fba28731f445?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 14 |
 | **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a51acbe8d7d3e6cf1cc0eb1?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, United States of America | Remote | Nov 14 |
-| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Remote | Nov 14 |
-| **[TGW Logistics](http://www.tgw-group.com)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/6adbae8a0a4cc7090f97439d?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
