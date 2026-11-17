@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LSG](https://locuststreet.com)** | **[Intern - Paid Media](https://jobright.ai/jobs/info/6ae8d75e061d6d7ff3d7da71?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 16 |
+| **[Seabourn Cruise Line](http://www.seabourn.com/)** | **[Intern, Content & Integrated Marketing (SBN)](https://jobright.ai/jobs/info/6afbf3b040b855eb290c8c98?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 16 |
+| **[TruePoint Communications](https://www.truepointagency.com/)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6adb71c5389e06bb41ad1f0b?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 16 |
+| **[Soko Glam](http://www.sokoglam.com)** | **[Influencer & PR Intern (Then I Met You)](https://jobright.ai/jobs/info/6af249b90cb834dad9325c32?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Nov 16 |
 | **[Oklahoma Hall of Fame](http://www.OklahomaHOF.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6afbfa541c71d952627f02a1?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 16 |
 | **[Carnival Cruise Line](http://www.carnival.com)** | **[Intern, Media & Performance Advertising](https://jobright.ai/jobs/info/6afbf65c1c71d952627f0158?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, Paid Social Media](https://jobright.ai/jobs/info/6afb217d04af1c9f075c4269?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 16 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Entertainment Operations](https://jobright.ai/jobs/info/6afb1654317abe715a260791?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 16 |
 | ↳ | **[Intern, Public Relations (PCL)](https://jobright.ai/jobs/info/6afb16537f9ead6668e9e174?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 16 |
-| **[Seabourn Cruise Line](http://www.seabourn.com/)** | **[Intern, Content & Integrated Marketing (SBN)](https://jobright.ai/jobs/info/6afbf3b040b855eb290c8c98?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 16 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Corporate Communications (Corporate)](https://jobright.ai/jobs/info/6afb48c97f9ead6668ea06aa?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Consumer Insights and Marketing Analytics](https://jobright.ai/jobs/info/6afb1661317abe715a2607a1?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | ↳ | **[Intern, Social Media](https://jobright.ai/jobs/info/6afb24b85305ed998d91a2d0?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 16 |
@@ -72,14 +75,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern. Media Analytics & AI Innovation Intern](https://jobright.ai/jobs/info/6afb2cf27f9ead6668e9f081?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[The Concept Agency - Digital Marketing Agency](https://concept-agency.com/lander?oref=https%3A%2F%2Fconcept-agency.com)** | **[Email Marketing & Shopify Intern](https://jobright.ai/jobs/info/6afbe9688074edef8dd61a18?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6afbe42229e5a8844e655e0f?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6af59a52f10ae27369e12ad3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 16 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6ae968ca32411b3e5a2e090d?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 16 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af597d5f10ae27369e12944?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 16 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6af59a52f10ae27369e12ad3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 16 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af59a4f80054650a5e77f94?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 16 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6afbe09529e5a8844e6559e2?utm_campaign=1065&utm_source=git)** | Lititz, PA, United States | Remote | Nov 16 |
 | **[Rise Local](https://riselocal.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/6afbd7e107bef169f5ffe32e?utm_campaign=1065&utm_source=git)** | Conroe, TX, United States | On Site | Nov 16 |
 | **[MrScraper](https://mrscraper.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/6afbd64329e5a8844e6554cf?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 16 |
-| **[Project Coin](https://sites.google.com/view/projectcoin/home?authuser=0)** | **[High School Social Media Intern](https://jobright.ai/jobs/info/6afbd630755d7cdf657fd78e?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Mundial Partners](https://www.themundialpartners.com/)** | **[Social Media & Editorial Intern](https://jobright.ai/jobs/info/6afbb7a7be8589f0b74c04aa?utm_campaign=1065&utm_source=git)** | United States | On Site | Nov 16 |
 | **[Creative+](https://linktr.ee/CreativePlusClub?fbclid=PAQ0xDSwK1ExhleHRuA2FlbQIxMQABp7Af5FwCgHMqR7TCaJWG3ASw5ZZhJOkquy9M7EY_hATNTexuaH8k_yzhU2NV_aem_YcfOrxuG8tmk3XKAWnOdZA)** | **[Marketing & Community Engagement Intern](https://jobright.ai/jobs/info/6afbb6bab2e06df257976ada?utm_campaign=1065&utm_source=git)** | Montclair, NJ, United States | Hybrid | Nov 16 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Performance Marketing](https://jobright.ai/jobs/info/6afb6856317abe715a26453b?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | Remote | Nov 16 |
@@ -143,9 +145,9 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/6afb56ef7f9ead6668ea1152?utm_campaign=1065&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 16 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Intern - HCP Events & Engagement](https://jobright.ai/jobs/info/6afb56ec317abe715a263629?utm_campaign=1065&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
 | **[Tierra Climate](https://www.tierraclimate.com)** | **[MBA Intern - Growth Marketing & Content Strategy](https://jobright.ai/jobs/info/6aeb7a84765815f7d7460cd3?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Nov 16 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6ab40483ef911c35dffa2ba3?utm_campaign=1065&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Copywriter Intern Job Details / BoehringerPRD](https://jobright.ai/jobs/info/6af18baa12d6a5addb2fe03d?utm_campaign=1065&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
 | ↳ | **[Copywriter Intern](https://jobright.ai/jobs/info/6af7ec4734e2d29dcb7525dd?utm_campaign=1065&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
-| ↳ | **[Copywriter Intern Job Details / BoehringerPRD](https://jobright.ai/jobs/info/6af18baa12d6a5addb2fe03d?utm_campaign=1065&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
+| ↳ | **[Copywriter Intern](https://jobright.ai/jobs/info/6ab40483ef911c35dffa2ba3?utm_campaign=1065&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
 | **[Codeable](https://gocodeable.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6afb540404af1c9f075c69e6?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL, United States | On Site | Nov 16 |
 | **[Burson](https://www.bursonglobal.com)** | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e025305ed998d91b807?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 16 |
 | **[Miebach](http://www.miebach.com)** | **[Marketing Student Intern - Fall/Spring](https://jobright.ai/jobs/info/6aad4f370ebc8fb2313e8bdf?utm_campaign=1065&utm_source=git)** | Fishers, IN, United States | On Site | Nov 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MAXHUB](https://www.maxhub.com)** | **[Marketing Intern (Mandarin Speaking)](https://jobright.ai/jobs/info/6afb4af1317abe715a262c8a?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Nov 16 |
 | **[Burson](https://www.bursonglobal.com)** | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e1c04af1c9f075c5a2d?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 16 |
 | ↳ | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e03317abe715a2624a5?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 16 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, Content & Integrated Marketing (SBN)](https://jobright.ai/jobs/info/6afb2ee07f9ead6668e9f1e6?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 16 |
-| **[Guaranty Bank](https://www.gbankmo.com/)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6afb2e0b7d1820d918c271fd?utm_campaign=1065&utm_source=git)** | Springfield, MO, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
