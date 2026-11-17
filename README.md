@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nashville Sports Council](http://www.nashvillesports.com/)** | **[Digital Media & Marketing - Spring Internship 2027](https://jobright.ai/jobs/info/6afb8815c96cba79575bffaf?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Nov 16 |
+| **[Manufacturers’ Agents Association for the Foodservice Industry (MAFSI)](http://www.mafsi.org/)** | **[Foodservice Marketing Intern - ...](https://jobright.ai/jobs/info/6afb87f4be8589f0b74beeea?utm_campaign=1065&utm_source=git)** | Austin, MN, United States | On Site | Nov 16 |
+| **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Spring 2027 Client Engagement Intern /  NYC](https://jobright.ai/jobs/info/6afb86e5c96cba79575bfe8c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
+| **[Bread for the World](https://www.bread.org/)** | **[Special Events Internship](https://jobright.ai/jobs/info/6afb856bbe8589f0b74beb2c?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 16 |
+| **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Events (CCL)](https://jobright.ai/jobs/info/6afb8333be8589f0b74be907?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
+| **[International Fertility Insurance](https://goifi.com)** | **[Creative Content Marketing intern](https://jobright.ai/jobs/info/6afb8321c5917ce34b5db973?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Nov 16 |
+| **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Spring 2027 PR Intern / NYC](https://jobright.ai/jobs/info/6afb8230be8589f0b74be88b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
+| **[Morgan Properties](http://www.morgan-properties.com)** | **[Investor Relations - Intern](https://jobright.ai/jobs/info/6afb4021484fef921e0495f9?utm_campaign=1065&utm_source=git)** | Conshohocken, PA, United States | Hybrid | Nov 16 |
+| **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Gifting Intern](https://jobright.ai/jobs/info/6a4f18a00ea38951a6ff531d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 16 |
+| **[Electro](electrogum.com)** | **[Social Media Intern (NIL & Sports)](https://jobright.ai/jobs/info/6afb7cca06c0aac84dd9627a?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Remote | Nov 16 |
 | **[Empire Events Group, Inc.](http://www.empireeventsgroup.com)** | **[Paid - Special Events Intern (Spring 27)](https://jobright.ai/jobs/info/6afb78debe8589f0b74be3cb?utm_campaign=1065&utm_source=git)** | Holmdel, NJ, United States | On Site | Nov 16 |
 | **[Waybox](https://waybox.ai/careers)** | **[Marketing Intern](https://jobright.ai/jobs/info/6afb786fc2bd7db01b881e17?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Nov 16 |
 | **[Crew Dog](https://crew-dog.com)** | **[Campus Social Media & Content Intern](https://jobright.ai/jobs/info/6afb77cec96cba79575bf400?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
@@ -130,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern. Media Analytics & AI Innovation Intern](https://jobright.ai/jobs/info/6afb2eea04af1c9f075c4be7?utm_campaign=1065&utm_source=git)** | Doral, FL, United States | On Site | Nov 16 |
 | **[Feast & Fettle](https://feastandfettle.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6afb2de2484fef921e0485e9?utm_campaign=1065&utm_source=git)** | Pawtucket, RI, United States | Hybrid | Nov 16 |
 | **[Ameritas](http://www.ameritas.com)** | **[Marketing Intern - Measurement and Insights](https://jobright.ai/jobs/info/6afb2d69484fef921e048584?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | Hybrid | Nov 16 |
+| **[Healthy Kids Programs](https://www.healthykidsprograms.com)** | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6afb848306c0aac84dd966be?utm_campaign=1065&utm_source=git)** | Fishkill, NY, United States | On Site | Nov 16 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern. Media Analytics & AI Innovation Intern](https://jobright.ai/jobs/info/6afb2cf27f9ead6668e9f081?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[Publicis Sapient](http://publicissapient.com/)** | **[Publicis Media Summer 2027 Internship - Remote](https://jobright.ai/jobs/info/6afb2b89484fef921e04846f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Nov 16 |
 | **[University Partners](http://www.universitypartners.com)** | **[Social Media Specialist](https://jobright.ai/jobs/info/6ad25beb810010ec72f5795f?utm_campaign=1065&utm_source=git)** | Charlottesville, VA, United States | On Site | Nov 16 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Consumer Insights and Marketing Analytics](https://jobright.ai/jobs/info/6afb21867d1820d918c26951?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | ↳ | **[Intern, Social Media](https://jobright.ai/jobs/info/6afb217e7d1820d918c2694a?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 16 |
 | ↳ | **[Intern, Paid Social Media](https://jobright.ai/jobs/info/6afb217d04af1c9f075c4269?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 16 |
-| ↳ | **[Intern, Public Relations (PCL)](https://jobright.ai/jobs/info/6afb21797f9ead6668e9e7d1?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 16 |
-| ↳ | **[Intern, Entertainment Operations](https://jobright.ai/jobs/info/6afb21765305ed998d91a112?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 16 |
-| **[Geotab](http://www.geotab.com/)** | **[Competitive Intelligence and Market Research Intern (Winter/January 2027, 12 Months)](https://jobright.ai/jobs/info/6afb21187f9ead6668e9e7a7?utm_campaign=1065&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 16 |
-| **[Zoetis](https://www.zoetis.com)** | **[Precision Animal Health - Marketing Intern](https://jobright.ai/jobs/info/6afb1f7f5305ed998d91a01e?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2027 Merchandising Buying Intern](https://jobright.ai/jobs/info/6aaa6a74f6bd9d2d17c17d3e?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 16 |
-| ↳ | **[Spring 2027 Marketing Intern](https://jobright.ai/jobs/info/6aa9b64328e24cb38513b937?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 16 |
-| ↳ | **[Spring 2027 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6aaa090128e24cb38513dfe1?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 16 |
-| ↳ | **[Spring 2027 Merchandising Planning Intern](https://jobright.ai/jobs/info/6aa9b1d910b1cd4f416070f6?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 16 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6afb180f484fef921e0477d8?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 16 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, Consumer Insights and Marketing Analytics](https://jobright.ai/jobs/info/6afb1661317abe715a2607a1?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
-| ↳ | **[Intern, Product Marketing](https://jobright.ai/jobs/info/6afb16615305ed998d919b10?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
