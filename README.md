@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Brand Search Ads - Intern (Global Monetization Product and Technology) - 2027 Start](https://jobright.ai/jobs/info/6ae00ddd0a4cc7090f98564f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
+| **[Staples](http://www.staples.com)** | **[Merchandising Intern - June 2027](https://jobright.ai/jobs/info/6aa81951a77a53f5a15772d1?utm_campaign=1065&utm_source=git)** | Framingham, MA, United States | On Site | Nov 17 |
+| **[Lennox](http://www.lennox.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6af223111116f6f0a076693f?utm_campaign=1065&utm_source=git)** | Richardson, TX, United States | On Site | Nov 17 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Digital Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac422f98ff3fb9b3bc843ef?utm_campaign=1065&utm_source=git)** | Downers Grove, IL, United States | On Site | Nov 17 |
+| **[Badger Meter](http://badgermeter.com)** | **[Marketing Content Creation Intern](https://jobright.ai/jobs/info/6ac3d3234ac55253f5d6f489?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 17 |
+| **[TikTok](https://www.tiktok.com)** | **[US Seller Content Campaign Intern (TikTok Shop - Operations) - 2026 Start](https://jobright.ai/jobs/info/6ae02993c5c64fa3d9cc251d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
+| **[Lennox](http://www.lennox.com)** | **[Corporate Marketing and Communications Intern](https://jobright.ai/jobs/info/6af1ffe70cb834dad9321f3b?utm_campaign=1065&utm_source=git)** | Richardson, TX, United States | On Site | Nov 17 |
+| ↳ | **[Corporate Marketing and Communications Intern](https://jobright.ai/jobs/info/6adf7944065c4e77efaf7cfe?utm_campaign=1065&utm_source=git)** | Richardson, TX, United States | On Site | Nov 17 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/6afc184629e5a8844e656a4b?utm_campaign=1065&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 17 |
 | **[Veeam Software](http://www.veeam.com)** | **[Campaign Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4b113422289703bd67975?utm_campaign=1065&utm_source=git)** | Remote, GA, United States | Remote | Nov 17 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Paid Media](https://jobright.ai/jobs/info/6ae8d75e061d6d7ff3d7da71?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 16 |
@@ -78,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[The Concept Agency - Digital Marketing Agency](https://concept-agency.com/lander?oref=https%3A%2F%2Fconcept-agency.com)** | **[Email Marketing & Shopify Intern](https://jobright.ai/jobs/info/6afbe9688074edef8dd61a18?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6afbe42229e5a8844e655e0f?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af59a52f10ae27369e12ad3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 16 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae968ca32411b3e5a2e090d?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 16 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af59a4f80054650a5e77f94?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 16 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6ae968ca32411b3e5a2e090d?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 16 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af597d5f10ae27369e12944?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 16 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Marketing Intern (Summer 2027)](https://jobright.ai/jobs/info/6afbe09529e5a8844e6559e2?utm_campaign=1065&utm_source=git)** | Lititz, PA, United States | Remote | Nov 16 |
 | **[Rise Local](https://riselocal.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/6afbd7e107bef169f5ffe32e?utm_campaign=1065&utm_source=git)** | Conroe, TX, United States | On Site | Nov 16 |
@@ -148,13 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Intern - HCP Events & Engagement](https://jobright.ai/jobs/info/6afb56ec317abe715a263629?utm_campaign=1065&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
 | **[Tierra Climate](https://www.tierraclimate.com)** | **[MBA Intern - Growth Marketing & Content Strategy](https://jobright.ai/jobs/info/6aeb7a84765815f7d7460cd3?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Nov 16 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6ab40483ef911c35dffa2ba3?utm_campaign=1065&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
-| ↳ | **[Copywriter Intern](https://jobright.ai/jobs/info/6af7ec4734e2d29dcb7525dd?utm_campaign=1065&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
 | ↳ | **[Copywriter Intern Job Details / BoehringerPRD](https://jobright.ai/jobs/info/6af18baa12d6a5addb2fe03d?utm_campaign=1065&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
-| **[Codeable](https://gocodeable.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6afb540404af1c9f075c69e6?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL, United States | On Site | Nov 16 |
-| **[Burson](https://www.bursonglobal.com)** | **[Burson Summer 2027 HBSI (Client-Facing, USA Hybrid)](https://jobright.ai/jobs/info/6afb3e025305ed998d91b807?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 16 |
-| **[Miebach](http://www.miebach.com)** | **[Marketing Student Intern - Fall/Spring](https://jobright.ai/jobs/info/6aad4f370ebc8fb2313e8bdf?utm_campaign=1065&utm_source=git)** | Fishers, IN, United States | On Site | Nov 16 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, Media & Performance Advertising](https://jobright.ai/jobs/info/6afb4e4c317abe715a262ffa?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
-| **[Becklar](https://www.becklar.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6af7a261e3d8d612bf425766?utm_campaign=1065&utm_source=git)** | Ogden, UT, United States | Hybrid | Nov 16 |
-| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/6afb4b3b5305ed998d91c072?utm_campaign=1065&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 16 |
-| **[MAXHUB](https://www.maxhub.com)** | **[Marketing Intern (Mandarin Speaking)](https://jobright.ai/jobs/info/6afb4af1317abe715a262c8a?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
