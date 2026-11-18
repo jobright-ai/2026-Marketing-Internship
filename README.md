@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Atlys](https://www.atlys.com)** | **[Growth Intern](https://jobright.ai/jobs/info/6afd51d1c9f7ca2bdfb2149b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 17 |
+| **[Headfirst Professional Sports Camps](https://www.headfirst.com/join/professional-camps/)** | **[Intern, Marketing Operations – KI Concerts: 2026-3727](https://jobright.ai/jobs/info/6af22eac1aaffa49f7382663?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 17 |
 | **[CivicScience](http://civicscience.com)** | **[Marketing Intern (Advertising)](https://jobright.ai/jobs/info/6afd4c5bc287c018be3aa7bf?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Dashr.AI](https://dashr.ai)** | **[Marketing & Project Management Intern](https://jobright.ai/jobs/info/6afd49a4c287c018be3aa773?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Ever Lasting Fabric](https://everlastingfabric.com)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/6afd4995f1e9f80d47c33d05?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 17 |
@@ -85,16 +86,16 @@ For a complete list, click the following sortable link below:
 | **[Jam in the Van](https://jaminthevan.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6afcf95d2ac165125e4ce75b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 17 |
 | **[Club Kuma](https://clubkuma.com)** | **[Content Coordination Intern](https://jobright.ai/jobs/info/6afcf95694232f5ac42d3bb8?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | On Site | Nov 17 |
 | **[Wellspring Living](https://wellspringliving.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6afcba6cd163750294925f64?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 17 |
-| **[Crusoe](https://crusoe.ai)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6afcacd1e8a9612f4e0da6a5?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 17 |
-| ↳ | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6afcacd9e0cdcfc91142e90a?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 17 |
+| **[Crusoe](https://crusoe.ai)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6afcacd9e0cdcfc91142e90a?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 17 |
+| ↳ | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6afcacd1e8a9612f4e0da6a5?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 17 |
 | **[Atlassian](https://www.atlassian.com)** | **[AI Buyer Journey Marketing Intern (GDC AI Lab), 2027 Summer U.S.](https://jobright.ai/jobs/info/6afcceaed163750294926e7e?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 17 |
 | **[Carnival Cruise Line](http://www.carnival.com)** | **[Intern, Events (CCL)](https://jobright.ai/jobs/info/6afcefe2e8a9612f4e0dd21d?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 17 |
 | ↳ | **[Intern, Creative/Social Media (CCL)](https://jobright.ai/jobs/info/6afced4fd163750294928409?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 17 |
 | ↳ | **[Intern, Performance Marketing (CCL)](https://jobright.ai/jobs/info/6afced3994232f5ac42d35ea?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 17 |
 | **[Atlassian](https://www.atlassian.com)** | **[MBA Product Marketing Manager Intern- Enterprise, 2027 Summer U.S.](https://jobright.ai/jobs/info/6afccea4d163750294926e71?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 17 |
-| **[American Lung Association](http://www.lung.org)** | **[Development Intern](https://jobright.ai/jobs/info/6ae3ac1fd7424a2a828e1dc8?utm_campaign=1065&utm_source=git)** | Charleston, SC, United States | Hybrid | Nov 17 |
+| **[American Lung Association](http://www.lung.org)** | **[Development Intern](https://jobright.ai/jobs/info/6adb7907389e06bb41ad222d?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 17 |
+| ↳ | **[Development Intern](https://jobright.ai/jobs/info/6ae3ac1fd7424a2a828e1dc8?utm_campaign=1065&utm_source=git)** | Charleston, SC, United States | Hybrid | Nov 17 |
 | ↳ | **[Development Intern - Spring 2027](https://jobright.ai/jobs/info/6adb064eaee75c4e7d2e6622?utm_campaign=1065&utm_source=git)** | Independence, OH, United States | Hybrid | Nov 17 |
-| ↳ | **[Development Intern](https://jobright.ai/jobs/info/6adb7907389e06bb41ad222d?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 17 |
 | **[Crusoe](https://crusoe.ai)** | **[Content and Social Media Marketing Intern](https://jobright.ai/jobs/info/6afcb60d94232f5ac42d0e76?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 17 |
 | **[Lunar Lifts Nutrition](https://www.lunarliftsnutrition.com)** | **[Social Media Management Intern](https://jobright.ai/jobs/info/6afce5952ac165125e4cddd2?utm_campaign=1065&utm_source=git)** | Dallas, Texas, United States | Remote | Nov 17 |
 | **[Ephemeris Net](http://ephemeris.net)** | **[Spring/Summer Marketing Intern](https://jobright.ai/jobs/info/6afce3dad163750294927f26?utm_campaign=1065&utm_source=git)** | Oakland, CA, United States | Hybrid | Nov 17 |
@@ -143,18 +144,17 @@ For a complete list, click the following sortable link below:
 | **[Lindt & Sprüngli USA](https://www.lindtusa.com)** | **[Digital Commerce Retail Media Analytics Intern](https://jobright.ai/jobs/info/6ad8fd9467bec1d0d9c8195e?utm_campaign=1065&utm_source=git)** | Stratham, NH, United States | On Site | Nov 17 |
 | ↳ | **[Digital Commerce Retail Media Analytics Intern](https://jobright.ai/jobs/info/6ad95cf854bbabbab070f083?utm_campaign=1065&utm_source=git)** | Stratham, NH, United States | On Site | Nov 17 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6aedce71d20350c7a50753b4?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9ffc7349029d7099533?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9fb34e2d29dcb7522d2?utm_campaign=1065&utm_source=git)** | Midland, TX, United States | On Site | Nov 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9fe42ae65e2c8f3a137?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9f84ddfc50167b94db6?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6af7ea04cb5a5d4a77fc9215?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6afb35b204af1c9f075c53f5?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Nov 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6afc6b2440b855eb290caacb?utm_campaign=1065&utm_source=git)** | Albuquerque, NM, United States | On Site | Nov 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6afb35b204af1c9f075c53f5?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Nov 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6af7ea04cb5a5d4a77fc9215?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9fb34e2d29dcb7522d2?utm_campaign=1065&utm_source=git)** | Midland, TX, United States | On Site | Nov 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9f84ddfc50167b94db6?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9ffc7349029d7099533?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 17 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Marketing Measurement Intern](https://jobright.ai/jobs/info/6aea09f0440b469a1c0a9665?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 17 |
 | **[CP Skin Health Group](https://www.cpskinhealth.com/)** | **[Global Marketing Intern](https://jobright.ai/jobs/info/6afc8a136919d6792ef9ef5b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 17 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6afc1e1a1e98d304ea7ef378?utm_campaign=1065&utm_source=git)** | Englewood, CO, United States | On Site | Nov 17 |
 | **[Marsh Agency](https://www.marshagency.com)** | **[2027 Summer Internship Program](https://jobright.ai/jobs/info/6afc88e163fb67454cf796f7?utm_campaign=1065&utm_source=git)** | McMinnville, OR, United States | On Site | Nov 17 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Digital Marketing Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6afcfea494232f5ac42d3d39?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Nov 17 |
-| ↳ | **[Brand Experience Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6afcfe9de8a9612f4e0dd80a?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
