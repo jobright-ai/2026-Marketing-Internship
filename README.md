@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](electrogum.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/6afd2054f1e9f80d47c333e7?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Nov 17 |
 | **[MOSO Bamboo Deutschland](https://www.moso-bamboo.com/de/)** | **[Online Marketing / Content Creation Internship](https://jobright.ai/jobs/info/6afd10ecf0dc8aae7d690303?utm_campaign=1065&utm_source=git)** | Indiana, United States | On Site | Nov 17 |
 | **[WiCi AI](https://wici.ai)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/6afd1034d96a0d1196c728db?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 17 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Communications](https://jobright.ai/jobs/info/6afd0dbf4fb2164595cc7ba6?utm_campaign=1065&utm_source=git)** | Huntsville, AL, United States | On Site | Nov 17 |
@@ -78,9 +79,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Performance Marketing (CCL)](https://jobright.ai/jobs/info/6afced3994232f5ac42d35ea?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 17 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Marketing Social Media Intern](https://jobright.ai/jobs/info/6afcec32e0cdcfc91143139b?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 17 |
 | **[Atlassian](https://www.atlassian.com)** | **[MBA Product Marketing Manager Intern- Enterprise, 2027 Summer U.S.](https://jobright.ai/jobs/info/6afccea4d163750294926e71?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 17 |
-| **[American Lung Association](http://www.lung.org)** | **[Development Intern](https://jobright.ai/jobs/info/6adb7907389e06bb41ad222d?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 17 |
+| **[American Lung Association](http://www.lung.org)** | **[Development Intern - Spring 2027](https://jobright.ai/jobs/info/6adb064eaee75c4e7d2e6622?utm_campaign=1065&utm_source=git)** | Independence, OH, United States | Hybrid | Nov 17 |
 | ↳ | **[Development Intern](https://jobright.ai/jobs/info/6ae3ac1fd7424a2a828e1dc8?utm_campaign=1065&utm_source=git)** | Charleston, SC, United States | Hybrid | Nov 17 |
-| ↳ | **[Development Intern - Spring 2027](https://jobright.ai/jobs/info/6adb064eaee75c4e7d2e6622?utm_campaign=1065&utm_source=git)** | Independence, OH, United States | Hybrid | Nov 17 |
+| ↳ | **[Development Intern](https://jobright.ai/jobs/info/6adb7907389e06bb41ad222d?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 17 |
 | **[Crusoe](https://crusoe.ai)** | **[Content and Social Media Marketing Intern](https://jobright.ai/jobs/info/6afcb60d94232f5ac42d0e76?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 17 |
 | **[Lunar Lifts Nutrition](https://www.lunarliftsnutrition.com)** | **[Social Media Management Intern](https://jobright.ai/jobs/info/6afce5952ac165125e4cddd2?utm_campaign=1065&utm_source=git)** | Dallas, Texas, United States | Remote | Nov 17 |
 | **[Ephemeris Net](http://ephemeris.net)** | **[Spring/Summer Marketing Intern](https://jobright.ai/jobs/info/6afce3dad163750294927f26?utm_campaign=1065&utm_source=git)** | Oakland, CA, United States | Hybrid | Nov 17 |
@@ -106,12 +107,11 @@ For a complete list, click the following sortable link below:
 | **[Thorlabs](http://www.thorlabs.com)** | **[Summer 2027 Marketing Internship](https://jobright.ai/jobs/info/6afcb90ad86c15318a38d748?utm_campaign=1065&utm_source=git)** | Newton, NJ, United States | On Site | Nov 17 |
 | **[Puff Media](https://www.puffmedia.co/)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/6afcba29d86c15318a38d856?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 17 |
 | **[Hill House Home](http://www.hillhousehome.com/)** | **[Social Media & Content Intern (Spring 2027)](https://jobright.ai/jobs/info/6afb66e1484fef921e04b50a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
+| **[Assurant](https://www.assurant.com/)** | **[Summer 2027: Marketing Operations Project Analyst Intern](https://jobright.ai/jobs/info/6afd1958e326e9c297f6c74f?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 17 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Communications Internship Spring 2027](https://jobright.ai/jobs/info/6afcc72dd1637502949269c3?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 17 |
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Paid Marketing Intern – Healthcare Outreach (Part-Time, Flexible Hours)](https://jobright.ai/jobs/info/6afca5acd86c15318a38cd5d?utm_campaign=1065&utm_source=git)** | Rockville, MD, United States | On Site | Nov 17 |
-| **[Tenby Partners](https://www.tenbypartners.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6afca43c94232f5ac42d0553?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Nov 17 |
 | **[PACCAR](http://www.paccar.com/)** | **[Summer Internship - Product Marketing](https://jobright.ai/jobs/info/6af7df4ecb5a5d4a77fc8cb4?utm_campaign=1065&utm_source=git)** | Renton, WA, United States | On Site | Nov 17 |
 | **[Black Girl Vitamins](https://blackgirlvitamins.co/)** | **[Digital Community & Consumer Engagement Internship](https://jobright.ai/jobs/info/6afca22694232f5ac42d03ad?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 17 |
-| **[The Evans International Law Firms, TEIL Firms, LLC](https://www.teilfirms.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6afca1dad16375029492517b?utm_campaign=1065&utm_source=git)** | Hillside, IL, United States | On Site | Nov 17 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2027 - Development Intern - Media Research Center](https://jobright.ai/jobs/info/6aea0983fc85f3a39432f136?utm_campaign=1065&utm_source=git)** | Virginia, United States | On Site | Nov 17 |
 | **[Genmab](https://www.genmab.com)** | **[US Market Data & Technology Intern](https://jobright.ai/jobs/info/6afc667107bef169f5000d6b?utm_campaign=1065&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 17 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2027 - Marketing Intern - Media Research Center](https://jobright.ai/jobs/info/6aea09701ba298c77776e332?utm_campaign=1065&utm_source=git)** | Virginia | On Site | Nov 17 |
@@ -132,19 +132,18 @@ For a complete list, click the following sortable link below:
 | **[National Pork Board](https://pork.org/)** | **[2027 Consumer Digital Marketing Internship](https://jobright.ai/jobs/info/6adf6e655dc7953215a3ec6b?utm_campaign=1065&utm_source=git)** | Clive, IA, United States | On Site | Nov 17 |
 | **[Lindt & Sprüngli USA](https://www.lindtusa.com)** | **[Digital Commerce Retail Media Analytics Intern](https://jobright.ai/jobs/info/6ad8fd9467bec1d0d9c8195e?utm_campaign=1065&utm_source=git)** | Stratham, NH, United States | On Site | Nov 17 |
 | ↳ | **[Digital Commerce Retail Media Analytics Intern](https://jobright.ai/jobs/info/6ad95cf854bbabbab070f083?utm_campaign=1065&utm_source=git)** | Stratham, NH, United States | On Site | Nov 17 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6afb35b204af1c9f075c53f5?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Nov 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6aedce71d20350c7a50753b4?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 17 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6afc6b2440b855eb290caacb?utm_campaign=1065&utm_source=git)** | Albuquerque, NM, United States | On Site | Nov 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9fe42ae65e2c8f3a137?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6afc6b2440b855eb290caacb?utm_campaign=1065&utm_source=git)** | Albuquerque, NM, United States | On Site | Nov 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9ffc7349029d7099533?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9fb34e2d29dcb7522d2?utm_campaign=1065&utm_source=git)** | Midland, TX, United States | On Site | Nov 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6aedce71d20350c7a50753b4?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9f84ddfc50167b94db6?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6afb35b204af1c9f075c53f5?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Nov 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af7ea04cb5a5d4a77fc9215?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9ffc7349029d7099533?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6adc1e4d9e3e874dbfba326c?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 17 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Marketing Measurement Intern](https://jobright.ai/jobs/info/6aea09f0440b469a1c0a9665?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 17 |
 | **[CP Skin Health Group](https://www.cpskinhealth.com/)** | **[Global Marketing Intern](https://jobright.ai/jobs/info/6afc8a136919d6792ef9ef5b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 17 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6afc1e1a1e98d304ea7ef378?utm_campaign=1065&utm_source=git)** | Englewood, CO, United States | On Site | Nov 17 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6afc513629e5a8844e6578ad?utm_campaign=1065&utm_source=git)** | Englewood, CO, United States | On Site | Nov 17 |
 | **[Marsh Agency](https://www.marshagency.com)** | **[2027 Summer Internship Program](https://jobright.ai/jobs/info/6afc88e163fb67454cf796f7?utm_campaign=1065&utm_source=git)** | McMinnville, OR, United States | On Site | Nov 17 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Digital Marketing Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6afcfea494232f5ac42d3d39?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Nov 17 |
 | ↳ | **[Brand Experience Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6afcfe9de8a9612f4e0dd80a?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Nov 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[ONE Gas](https://www.onegas.com/)** | **[Summer 2027 Communications Intern](https://jobright.ai/jobs/info/6a75afa1b17cba569035ada5?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | Hybrid | Nov 17 |
 | **[Healthy Kids Programs](https://www.healthykidsprograms.com)** | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6afcd860d86c15318a38efef?utm_campaign=1065&utm_source=git)** | New Windsor, NY, United States | On Site | Nov 17 |
 | **[Burns Engineering, Inc.](http://burns-group.com)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6afc73791e98d304ea7f0f37?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 17 |
+| **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Marketing (Pittsburgh, PA)](https://jobright.ai/jobs/info/6a8c3f5ccde3717f9e9bc038?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
