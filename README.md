@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6aec224efc34fe5680abf307?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Food & Beverage Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6ae2947305a39c3e2c71b62a?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Nov 19 |
+| ↳ | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6aec224efc34fe5680abf307?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
+| ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6ac6e4c18ff3fb9b3bc8f7e3?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 19 |
+| ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6aa9e52128e24cb38513d13c?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Nov 19 |
 | **[Quad](https://www.quad.com)** | **[Corporate Trainee Agency - Media Internship](https://jobright.ai/jobs/info/6ae0c2e905a39c3e2c70c080?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 19 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Product Marketing Engineer Intern](https://jobright.ai/jobs/info/6ae8e2ba777c336eb6d674bf?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | On Site | Nov 19 |
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern Commercial Graduate Program Associate, Vaccines, Morristown, NJ](https://jobright.ai/jobs/info/6aa947c16d0edc2d91b08d63?utm_campaign=1065&utm_source=git)** | Morristown, NJ, United States | On Site | Nov 19 |
@@ -108,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[Tennis 360 Public Relations Intern](https://jobright.ai/jobs/info/6afe05320cde47528ec10f95?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Hybrid | Nov 18 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Marketing Analysis Intern - Chicago, IL - AZEK](https://jobright.ai/jobs/info/6afe26f9f3e7976cc610c5d8?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Nov 18 |
 | **[iCapital](https://icapital.com)** | **[Investor Relations - Summer 2027 Intern](https://jobright.ai/jobs/info/6afe00f20324c008a17e374e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 18 |
-| **[KLA](https://www.kla.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6afe04178cffea7c97c8f55c?utm_campaign=1065&utm_source=git)** | Milpitas, CA, United States | On Site | Nov 18 |
-| ↳ | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6afe1db90cde47528ec11dff?utm_campaign=1065&utm_source=git)** | Milpitas, CA, United States | On Site | Nov 18 |
+| **[KLA](https://www.kla.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6afe1db90cde47528ec11dff?utm_campaign=1065&utm_source=git)** | Milpitas, CA, United States | On Site | Nov 18 |
+| ↳ | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6afe04178cffea7c97c8f55c?utm_campaign=1065&utm_source=git)** | Milpitas, CA, United States | On Site | Nov 18 |
 | **[TikTok](https://www.tiktok.com)** | **[LIVE Content Strategy Project Intern (TikTok LIVE-AMS) - 2027 Start](https://jobright.ai/jobs/info/6afdef42f170d82b3966fa0a?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Nov 18 |
 | **[The Sideline](Thesideline.co)** | **[Social Media Intern](https://jobright.ai/jobs/info/6afe30ff758942b6422b8689?utm_campaign=1065&utm_source=git)** | United States | On Site | Nov 18 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Marketing Strategy Summer 2027 Intern (Evergreen)](https://jobright.ai/jobs/info/6a96f2b0246d697dcee02255?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 18 |
@@ -129,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Mappedin](http://www.mappedin.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6afe28c50cde47528ec12570?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Remote | Nov 18 |
 | **[Open Sky Education](https://www.openskyeducation.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6afdd6ef0cde47528ec0ef08?utm_campaign=1065&utm_source=git)** | Waukesha, WI, United States | On Site | Nov 18 |
 | **[COLAB PK](https://www.colablosangeles.com/)** | **[Internship](https://jobright.ai/jobs/info/6afdc137f3e7976cc61084a1?utm_campaign=1065&utm_source=git)** | United States | On Site | Nov 18 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6afdea340cde47528ec0fec3?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
 | ↳ | **[Digital Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6af3760b10c7aed77861aa46?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6afdea340cde47528ec0fec3?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
 | ↳ | **[Content Marketing & Copywriting Intern](https://jobright.ai/jobs/info/6afdf0130cde47528ec101b5?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
 | ↳ | **[SEO Intern](https://jobright.ai/jobs/info/6afdf014f170d82b3966fa65?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
 | ↳ | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6afdf0180cde47528ec101ba?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[AVI Foodsystems](http://www.AVIFoodsystems.com)** | **[Marketing Intern (Oberlin College)](https://jobright.ai/jobs/info/6ae8e5076c51033758f43fb1?utm_campaign=1065&utm_source=git)** | Oberlin, OH, United States | On Site | Nov 18 |
 | **[Corps Solutions](http://corps-solutions.com)** | **[Writing Intern - Strategy and Growth](https://jobright.ai/jobs/info/6aeb7e73fbe13dfb53df4a60?utm_campaign=1065&utm_source=git)** | Stafford, VA, United States | On Site | Nov 18 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Global Gaming Marketing Events (Corporate)](https://jobright.ai/jobs/info/6afe0163758942b6422b6743?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
-| **[Trellis Marketing, Inc.](https://www.trellismarketing.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6afe00da0cde47528ec10dc8?utm_campaign=1065&utm_source=git)** | Buffalo, NY, United States | Remote | Nov 18 |
 | **[United Nations Association of the National Capital Area](http://unasd.org/)** | **[Communications & Design Assistant Internship - SPRING 2026](https://jobright.ai/jobs/info/6afe0047f170d82b3967058c?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 18 |
 | **[Abilene Zoological Gardens](http://abilenezoo.org/)** | **[Community Engagement Intern - Communications & Marketing](https://jobright.ai/jobs/info/6afcca02e0cdcfc91142fc17?utm_campaign=1065&utm_source=git)** | Abilene, Texas, United States | On Site | Nov 18 |
 | **[Octaura](https://www.octaura.com)** | **[Intern, Product and Marketing Rotation](https://jobright.ai/jobs/info/6afaca2c932361ec3b6e55bc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 18 |
-| **[Marsh People Solutions](http://www.mercer.com)** | **[2027 Summer Internship - Agribusiness Specialty Practice](https://jobright.ai/jobs/info/6ae50a02eab1f9673097f3c4?utm_campaign=1065&utm_source=git)** | Spokane, WA, United States | On Site | Nov 18 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[2027 Summer Internship Program](https://jobright.ai/jobs/info/6afc895b93c0a36328a8c67b?utm_campaign=1065&utm_source=git)** | McMinnville, OR, United States | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
