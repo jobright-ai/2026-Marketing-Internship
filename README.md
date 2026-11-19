@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waybox](https://waybox.ai/careers)** | **[Product Strategy & Brand Intern (Marketing)](https://jobright.ai/jobs/info/6afea68f97dcc4fc8dca6b6d?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Nov 18 |
+| ↳ | **[Social, Content & Community Intern (Marketing)](https://jobright.ai/jobs/info/6afea57194233208f6594eb1?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Nov 18 |
+| **[Halara](http://thehalara.com)** | **[TikTok live operation specialist（part time/internship）](https://jobright.ai/jobs/info/6afea35194233208f6594e65?utm_campaign=1065&utm_source=git)** | Glendale, CA, United States | On Site | Nov 18 |
 | **[PathWays of Southwestern Pennsylvania](https://yourpathways.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6afe9df75695a992780abf80?utm_campaign=1065&utm_source=git)** | Washington, PA, United States | On Site | Nov 18 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Global Gaming Marketing Events (Corporate)](https://jobright.ai/jobs/info/6afdfff1758942b6422b662e?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Development & Fundraising Intern (Volunteer)](https://jobright.ai/jobs/info/6afe902b0fe3ac852ce52752?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 18 |
@@ -111,9 +114,9 @@ For a complete list, click the following sortable link below:
 | **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Communications Internship](https://jobright.ai/jobs/info/6ac7eb95a444ac5d36f869f7?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Nov 18 |
 | **[Mappedin](http://www.mappedin.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6afe28c50cde47528ec12570?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Remote | Nov 18 |
 | **[Open Sky Education](https://www.openskyeducation.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6afdd6ef0cde47528ec0ef08?utm_campaign=1065&utm_source=git)** | Waukesha, WI, United States | On Site | Nov 18 |
-| **[COLAB PK](https://www.colablosangeles.com/)** | **[Digital Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6af3760b10c7aed77861aa46?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6afdea340cde47528ec0fec3?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
+| **[COLAB PK](https://www.colablosangeles.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6afdea340cde47528ec0fec3?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6afdc137f3e7976cc61084a1?utm_campaign=1065&utm_source=git)** | United States | On Site | Nov 18 |
+| ↳ | **[Digital Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6af3760b10c7aed77861aa46?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
 | ↳ | **[Content Marketing & Copywriting Intern](https://jobright.ai/jobs/info/6afdf0130cde47528ec101b5?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
 | ↳ | **[SEO Intern](https://jobright.ai/jobs/info/6afdf014f170d82b3966fa65?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
 | ↳ | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6afdf0180cde47528ec101ba?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Nov 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Media Coordinator (DC/MD/VA; NY)](https://jobright.ai/jobs/info/6acd54253c831dc4086c1c11?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 18 |
 | **[Pandora](https://www.pandora.com/)** | **[Spring Intern, Promotions & Events Marketing - Part Time](https://jobright.ai/jobs/info/6af63cf4323c531f31e312d7?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Nov 18 |
 | **[Families4Families](https://families4families.org)** | **[Social Media Internship](https://jobright.ai/jobs/info/6afde5c1758942b6422b549b?utm_campaign=1065&utm_source=git)** | Bethesda, MD, United States | Hybrid | Nov 18 |
-| **[Headfirst Professional Sports Camps](https://www.headfirst.com/join/professional-camps/)** | **[Intern, Marketing Operations – KI Concerts: 2026-3727](https://jobright.ai/jobs/info/6af22eac1aaffa49f7382663?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 18 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer Internship - eCommerce Development](https://jobright.ai/jobs/info/6af3f357e841cc0145ad688d?utm_campaign=1065&utm_source=git)** | Renton, WA, United States | On Site | Nov 18 |
-| **[Heritage Tile, LLC](https://heritagetile.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6afde42d758942b6422b51a4?utm_campaign=1065&utm_source=git)** | Greater Madison Area, United States | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
