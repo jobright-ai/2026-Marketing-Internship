@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Graco](https://www.graco.com/au/en.html)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6aabfb5a636cddf7396f188f?utm_campaign=1065&utm_source=git)** | Dayton, Minnesota, United States | On Site | Nov 21 |
-| ↳ | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6aabfaf1636cddf7396f1878?utm_campaign=1065&utm_source=git)** | Rogers, MN, United States | On Site | Nov 21 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Music Release & Promotion Intern](https://jobright.ai/jobs/info/6b019b4bf6ef85c61a50f908?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Nov 21 |
+| ↳ | **[Music Release & Promotion Intern](https://jobright.ai/jobs/info/6b019b3da512f514bbde35cf?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Nov 21 |
+| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Growth Strategy Intern](https://jobright.ai/jobs/info/6ae4ea6477c09cb3bd4b0284?utm_campaign=1065&utm_source=git)** | Louisville, KY, United States | On Site | Nov 21 |
+| **[Graco](https://www.graco.com/au/en.html)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6aabfaf1636cddf7396f1878?utm_campaign=1065&utm_source=git)** | Rogers, MN, United States | On Site | Nov 21 |
+| ↳ | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6aabfb5a636cddf7396f188f?utm_campaign=1065&utm_source=git)** | Dayton, Minnesota, United States | On Site | Nov 21 |
 | **[League One Volleyball (LOVB)](http://www.lovb.com)** | **[Marketing Intern - LOVB Salt Lake City](https://jobright.ai/jobs/info/6b009464e0dc961959282329?utm_campaign=1065&utm_source=git)** | North Salt Lake, UT, United States | On Site | Nov 21 |
 | ↳ | **[Fan Engagement & Community Engagement Intern](https://jobright.ai/jobs/info/6b00946de0dc961959282336?utm_campaign=1065&utm_source=git)** | North Salt Lake, UT, United States | On Site | Nov 21 |
 | ↳ | **[Social Media Intern - LOVB Salt Lake](https://jobright.ai/jobs/info/6b009485e0dc961959282344?utm_campaign=1065&utm_source=git)** | North Salt Lake, UT, United States | On Site | Nov 21 |
@@ -68,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Marketing Performance](https://jobright.ai/jobs/info/6ae4cb0ac3139b475b5b5d81?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 21 |
 | **[Aegon](https://www.aegon.com/)** | **[Content Creation and Writing Intern (Spring & Summer 2027)](https://jobright.ai/jobs/info/6af8e027f015f35e7418c4ca?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 21 |
 | **[WebFX](https://www.webfx.com)** | **[Digital Marketing Strategy & Analytics Internship](https://jobright.ai/jobs/info/6aa5309c82e82a31997bca89?utm_campaign=1065&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 21 |
-| **[The Estée Lauder Companies Inc.](https://www.elcompanies.com/en)** | **[MBA SUMMER INTERNSHIP, MARKETING (MBA, 5YRS+ EXP)](https://jobright.ai/jobs/info/6b007df789d8ca1e84956a5f?utm_campaign=1065&utm_source=git)** | Long Island City, NY, United States | On Site | Nov 21 |
-| ↳ | **[MASTERS/MBA SUMMER INTERNSHIP, MARKETING (MASTERS/MBA, UNDER 5YRS EXP)](https://jobright.ai/jobs/info/6b007e2fd1fe3bc162e3c22a?utm_campaign=1065&utm_source=git)** | Long Island City, NY, United States | On Site | Nov 21 |
+| **[The Estée Lauder Companies Inc.](https://www.elcompanies.com/en)** | **[MBA SUMMER INTERNSHIP, MARKETING (MBA, 5YRS+ EXP)](https://jobright.ai/jobs/info/6b00a4a20f536e0ba7275c77?utm_campaign=1065&utm_source=git)** | Long Island City, NY, United States | On Site | Nov 21 |
+| ↳ | **[MASTERS/MBA SUMMER INTERNSHIP, MARKETING (MASTERS/MBA, UNDER 5YRS EXP)](https://jobright.ai/jobs/info/6b00a4ab3a9a0230ab02931e?utm_campaign=1065&utm_source=git)** | Long Island City, NY, United States | On Site | Nov 21 |
 | ↳ | **[MASTERS/MBA SUMMER INTERNSHIP, ONLINE (MASTERS/MBA, UNDER 5YRS EXP)](https://jobright.ai/jobs/info/6b007968e0dc961959281358?utm_campaign=1065&utm_source=git)** | Long Island City, NY, United States | On Site | Nov 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a90d7410bd89e205d24c81c?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 21 |
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern Commercial Graduate Program Associate, Specialty Care, Cambridge, MA](https://jobright.ai/jobs/info/6aa9477509ae03adcacdc8a3?utm_campaign=1065&utm_source=git)** | Cambridge, MA, United States | On Site | Nov 21 |
@@ -86,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[Social Media & Sorority Marketing Intern](https://jobright.ai/jobs/info/6b011e91a512f514bbde2674?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | Remote | Nov 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Spring 2027: IRC San Diego - Communications and Development Intern (Unpaid)](https://jobright.ai/jobs/info/6b011521a512f514bbde248f?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 20 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Marketing Intern / Part-Time / Miami Beach Convention Center](https://jobright.ai/jobs/info/6aa4953ef3aa936e2cdb1cba?utm_campaign=1065&utm_source=git)** | Miami Beach, FL, United States | On Site | Nov 20 |
-| **[Centier Bank](https://centier.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6b00cc76df73191d2e6aeb7e?utm_campaign=1065&utm_source=git)** | Merrillville, IN, United States | On Site | Nov 20 |
-| ↳ | **[Community Relations Intern](https://jobright.ai/jobs/info/6b00cc77dfa58e4c244deb55?utm_campaign=1065&utm_source=git)** | Merrillville, IN, United States | On Site | Nov 20 |
+| **[Centier Bank](https://centier.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6b00cc77dfa58e4c244deb55?utm_campaign=1065&utm_source=git)** | Merrillville, IN, United States | On Site | Nov 20 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6b00cc76df73191d2e6aeb7e?utm_campaign=1065&utm_source=git)** | Merrillville, IN, United States | On Site | Nov 20 |
 | ↳ | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6b00cc7fa512f514bbde0903?utm_campaign=1065&utm_source=git)** | Merrillville, IN, United States | On Site | Nov 20 |
 | **[TikTok](https://www.tiktok.com)** | **[LIVE Campaign, Education, & GTM Project Intern (TikTok LIVE-AMS) - 2027 Start](https://jobright.ai/jobs/info/6b010d41a512f514bbde2326?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 20 |
 | **[Arya57](https://arya57.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6b010194f6ef85c61a50e26b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 - Intern, Brand Marketing (New York)](https://jobright.ai/jobs/info/6b00a9160f536e0ba7275faf?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | **[Markondo](https://www.markondo.com)** | **[Social Media Coordinator Intern](https://jobright.ai/jobs/info/6b00a88b3a9a0230ab0295b7?utm_campaign=1065&utm_source=git)** | Surfside, FL, United States | Remote | Nov 20 |
 | **[Rigo Castillo-Sanchez State Farm Agency](https://rigocastilloinsurance.com/)** | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a4655d80dd56c76cc2f80f2?utm_campaign=1065&utm_source=git)** | Albuquerque, New Mexico, United States | On Site | Nov 20 |
-| **[Automaxx of the Carolinas](https://843auto.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6b00a54fe0dc961959282d46?utm_campaign=1065&utm_source=git)** | Summerville, SC, United States | On Site | Nov 20 |
-| **[PACCAR](http://www.paccar.com/)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/6b00a319dfa58e4c244dd051?utm_campaign=1065&utm_source=git)** | Kirkland, WA, United States | On Site | Nov 20 |
-| **[Enformion](https://www.enformion.com/)** | **[Marketing Operations Intern - Part Time](https://jobright.ai/jobs/info/6b00a1d8d1fe3bc162e3d655?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
