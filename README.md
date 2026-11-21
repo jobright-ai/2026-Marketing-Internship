@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](electrogum.com)** | **[Sports Marketing Intern](https://jobright.ai/jobs/info/6b0101a1f6ef85c61a50e274?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | Remote | Nov 20 |
+| **[Arya57](https://arya57.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6b010194f6ef85c61a50e26b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6b009857e0dc9619592825df?utm_campaign=1065&utm_source=git)** | Salisbury, NC, United States | On Site | Nov 20 |
 | ↳ | **[Community Engagement & Events Intern](https://jobright.ai/jobs/info/6b00971ce0dc961959282547?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Nov 20 |
 | **[Electro](electrogum.com)** | **[Social Media & NIL Partnerships Intern](https://jobright.ai/jobs/info/6b00f6870ae14188d58c2ac3?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 20 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Social/Content Creator Internship](https://jobright.ai/jobs/info/6b00ced9af6fea8c089b4ac1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | **[PROJXON](https://projxon.com)** | **[Public Relations Specialist (Intern)](https://jobright.ai/jobs/info/6b00ce6aaf6fea8c089b4a9b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Marketing & Brand Engagement](https://jobright.ai/jobs/info/6b00b4643a9a0230ab029e86?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
-| **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/6a99f8958a8b765bc55f6ae5?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN 46803, United States | On Site | Nov 20 |
 | **[Rhode Island FC](https://www.rhodeislandfc.com)** | **[Marketing Communications Intern - Spring 2027](https://jobright.ai/jobs/info/6b00cd97df73191d2e6aed4e?utm_campaign=1065&utm_source=git)** | Pawtucket, RI, United States | On Site | Nov 20 |
 | ↳ | **[Marketing - Social Media Intern - Spring 2027](https://jobright.ai/jobs/info/6b00cd95df73191d2e6aed4c?utm_campaign=1065&utm_source=git)** | Pawtucket, RI, United States | On Site | Nov 20 |
 | **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Intern)](https://jobright.ai/jobs/info/6b00cd7b0ae14188d58c197e?utm_campaign=1065&utm_source=git)** | Delmar, NY, United States | On Site | Nov 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2027 Intern - User Acquisition Intern - Fanatics Collect](https://jobright.ai/jobs/info/6b00614a89d8ca1e8495599c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/6b00857089d8ca1e84956dc4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | **[TruePoint Communications](https://www.truepointagency.com/)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6adb71c5389e06bb41ad1f0b?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 20 |
-| **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6ae04b280a4cc7090f9869df?utm_campaign=1065&utm_source=git)** | St. Paul, MN, United States | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
