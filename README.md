@@ -59,9 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Spring Intern: Events](https://jobright.ai/jobs/info/6ab6b5ae634ec6aa7c0d419e?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | ↳ | **[Spring Intern: Media Relations](https://jobright.ai/jobs/info/6ab6b5b6d85922de20ce6586?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
-| ↳ | **[Spring Intern: Critical Threats Project - Communications and Operations](https://jobright.ai/jobs/info/6ab6b5ab9d4843569fe4efbb?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | ↳ | **[Spring Intern: Communications and Marketing Systems](https://jobright.ai/jobs/info/6ab6b5bdc6fe0dec811a6464?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
-| **[Vent Now](https://www.ventnow.ai/)** | **[Intern (Marketing)](https://jobright.ai/jobs/info/6b012e36a512f514bbde29fb?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 20 |
+| ↳ | **[Spring Intern: Critical Threats Project - Communications and Operations](https://jobright.ai/jobs/info/6ab6b5ab9d4843569fe4efbb?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6b00bafad1fe3bc162e3e6af?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 20 |
 | **[Electro](electrogum.com)** | **[Social Media & Sorority Marketing Intern](https://jobright.ai/jobs/info/6b011e91a512f514bbde2674?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | Remote | Nov 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Spring 2027: IRC San Diego - Communications and Development Intern (Unpaid)](https://jobright.ai/jobs/info/6b011521a512f514bbde248f?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 20 |
@@ -101,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Intern)](https://jobright.ai/jobs/info/6b00cd7b0ae14188d58c197e?utm_campaign=1065&utm_source=git)** | Delmar, NY, United States | On Site | Nov 20 |
 | **[Meyocks](http://www.meyocks.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6b00cd172ad6cde5ef24f32f?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | Remote | Nov 20 |
 | ↳ | **[SEO + Content Strategy Intern](https://jobright.ai/jobs/info/6b00cd02f6ef85c61a50cce6?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | Remote | Nov 20 |
-| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/6b00ccfff6ef85c61a50cce3?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | Remote | Nov 20 |
 | ↳ | **[Brand Strategy Intern](https://jobright.ai/jobs/info/6b00ccfff6ef85c61a50cce4?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | Remote | Nov 20 |
+| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/6b00ccfff6ef85c61a50cce3?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | Remote | Nov 20 |
 | **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Communications](https://jobright.ai/jobs/info/6b00b47bd1fe3bc162e3e309?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 20 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Conversion Rate Optimization Intern](https://jobright.ai/jobs/info/6b00a524dfa58e4c244dd198?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Merkle Retirement Planning](https://merkleretirementplanning.com)** | **[Marketing Intern (Fall 2026 - Spring 2027)](https://jobright.ai/jobs/info/6b00ca770f536e0ba7277465?utm_campaign=1065&utm_source=git)** | Grimes, IA, United States | On Site | Nov 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6b008b993a9a0230ab02838c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | ↳ | **[Children's Brand Merchandising Intern](https://jobright.ai/jobs/info/6b008b8e0f536e0ba7274de5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | ↳ | **[Global Events & Experience Intern](https://jobright.ai/jobs/info/6b008b8d89d8ca1e849571aa?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
+| **[Gift](https://www.shine.gift)** | **[College Sports Intern](https://jobright.ai/jobs/info/6b008aa7d1fe3bc162e3c909?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
