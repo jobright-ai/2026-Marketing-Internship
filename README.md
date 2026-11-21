@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vent Now](https://www.ventnow.ai/)** | **[Internship - Social Media](https://jobright.ai/jobs/info/6b0120000ae14188d58c3632?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 20 |
+| **[Electro](electrogum.com)** | **[Social Media & Sorority Marketing Intern](https://jobright.ai/jobs/info/6b011e91a512f514bbde2674?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | Remote | Nov 20 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Spring 2027: IRC San Diego - Communications and Development Intern (Unpaid)](https://jobright.ai/jobs/info/6b011521a512f514bbde248f?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 20 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Marketing Intern / Part-Time / Miami Beach Convention Center](https://jobright.ai/jobs/info/6aa4953ef3aa936e2cdb1cba?utm_campaign=1065&utm_source=git)** | Miami Beach, FL, United States | On Site | Nov 20 |
+| **[Centier Bank](https://centier.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/6b00cc77dfa58e4c244deb55?utm_campaign=1065&utm_source=git)** | Merrillville, IN, United States | On Site | Nov 20 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6b00cc76df73191d2e6aeb7e?utm_campaign=1065&utm_source=git)** | Merrillville, IN, United States | On Site | Nov 20 |
+| ↳ | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6b00cc7fa512f514bbde0903?utm_campaign=1065&utm_source=git)** | Merrillville, IN, United States | On Site | Nov 20 |
 | **[TikTok](https://www.tiktok.com)** | **[LIVE Campaign, Education, & GTM Project Intern (TikTok LIVE-AMS) - 2027 Start](https://jobright.ai/jobs/info/6b010d41a512f514bbde2326?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 20 |
 | **[Electro](electrogum.com)** | **[Sports Marketing Intern](https://jobright.ai/jobs/info/6b0101a1f6ef85c61a50e274?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | Remote | Nov 20 |
 | **[Arya57](https://arya57.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6b010194f6ef85c61a50e26b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Children's Brand Merchandising Intern](https://jobright.ai/jobs/info/6b008b8e0f536e0ba7274de5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | ↳ | **[Global Events & Experience Intern](https://jobright.ai/jobs/info/6b008b8d89d8ca1e849571aa?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | **[Gift](https://www.shine.gift)** | **[College Sports Intern](https://jobright.ai/jobs/info/6b008aa7d1fe3bc162e3c909?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 20 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2027 Intern - Growth Operations Intern - Fanatics Collect](https://jobright.ai/jobs/info/6b006148d1fe3bc162e3b200?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
-| **[The Kinetic Group](https://www.thekineticgroup.com)** | **[Marketing Intern - Federal Ammunition](https://jobright.ai/jobs/info/6b006c81e0dc961959280b14?utm_campaign=1065&utm_source=git)** | Anoka, MN, United States | On Site | Nov 20 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2027 Intern - User Acquisition Intern - Fanatics Collect](https://jobright.ai/jobs/info/6b00614a89d8ca1e8495599c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
-| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/6b00857089d8ca1e84956dc4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
-| **[TruePoint Communications](https://www.truepointagency.com/)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6adb71c5389e06bb41ad1f0b?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 20 |
-| **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6ae04b280a4cc7090f9869df?utm_campaign=1065&utm_source=git)** | St. Paul, MN, United States | Hybrid | Nov 20 |
-| ↳ | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6a8f5352d7c91d0cf446ec5f?utm_campaign=1065&utm_source=git)** | Saint Paul, MN, United States | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
