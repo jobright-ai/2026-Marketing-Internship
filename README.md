@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[15Wins](https://www.15wins.com)** | **[Sales And Marketing Intern.](https://jobright.ai/jobs/info/6b03f4f24c822a415e66e754?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 23 |
 | **[Vent Now](https://www.ventnow.ai/)** | **[TikTok / Short-Form Content Intern](https://jobright.ai/jobs/info/6b03de71ba759e898387be36?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
 | **[High Companies](https://www.high.net/)** | **[Corporate Marketing Intern Summer 2027](https://jobright.ai/jobs/info/6b03b5fdadf53adef40e1281?utm_campaign=1065&utm_source=git)** | Lancaster, PA, United States | On Site | Nov 22 |
 | **[Red Bull](https://redbull.com)** | **[2027 Internship, Spring - Field Marketing & Community Impact](https://jobright.ai/jobs/info/6b03db556300701fae1aea16?utm_campaign=1065&utm_source=git)** | Harrison, NJ, United States | On Site | Nov 22 |
@@ -76,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Avoli](https://www.avoli.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6b034192f4f339a8f62b3fdc?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | Remote | Nov 22 |
 | **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Marketing (ETF)](https://jobright.ai/jobs/info/6ae6e973d45dc30fb7d39f6e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 22 |
 | **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program- Global Marketing [Bellevue]](https://jobright.ai/jobs/info/6af7e7fec7349029d709930b?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | Remote | Nov 22 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Digital Marketing Summer Intern](https://jobright.ai/jobs/info/6aadd0fa2e757fcb5c8ba711?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 22 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Digital Marketing Summer Intern](https://jobright.ai/jobs/info/6aadc9fc0ebc8fb2313eb7f6?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 22 |
 | **[Cindy Castro New York](https://www.cindycastro.com)** | **[Fashion Social Media Internship / Spring 27](https://jobright.ai/jobs/info/6b0327a24e3d6ecd7d5e4519?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 22 |
 | **[Kenvue](https://www.kenvue.com)** | **[2027 MBA Marketing Summer Associate](https://jobright.ai/jobs/info/6a90dc1ea198864866763668?utm_campaign=1065&utm_source=git)** | Summit, NJ, United States | Hybrid | Nov 22 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6b0320e3c35a3d9ff8f48d7d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 22 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Katie Chase Insurance & Financial Services, Inc.](http://www.KatieChase.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a4c66a24eb370649b27d209?utm_campaign=1065&utm_source=git)** | Rohnert Park, CA, United States | On Site | Nov 21 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Marketing, Creative & eCommerce Co-op Spring Opportunities (Jan-Jun 2027)](https://jobright.ai/jobs/info/6afa0dbfa68705504bebaf0c?utm_campaign=1065&utm_source=git)** | Needham, MA, United States | Hybrid | Nov 21 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a738cbf32ebbc14ffb4fa9e?utm_campaign=1065&utm_source=git)** | Oak Brook, IL, United States | Hybrid | Nov 21 |
-| **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6ae04b280a4cc7090f9869df?utm_campaign=1065&utm_source=git)** | St. Paul, MN, United States | Hybrid | Nov 21 |
-| ↳ | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6a8f5352d7c91d0cf446ec5f?utm_campaign=1065&utm_source=git)** | Saint Paul, MN, United States | Hybrid | Nov 21 |
+| **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6a8f5352d7c91d0cf446ec5f?utm_campaign=1065&utm_source=git)** | Saint Paul, MN, United States | Hybrid | Nov 21 |
+| ↳ | **[MBA Marketing Intern](https://jobright.ai/jobs/info/6ae04b280a4cc7090f9869df?utm_campaign=1065&utm_source=git)** | St. Paul, MN, United States | Hybrid | Nov 21 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Marketing, Creative & eCommerce Intern Summer Opportunities (May-Aug 2027)](https://jobright.ai/jobs/info/6afb5f615305ed998d91d210?utm_campaign=1065&utm_source=git)** | Needham, MA, United States | Hybrid | Nov 21 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Brand Marketing (Winter 2027)](https://jobright.ai/jobs/info/6b01c01edf73191d2e6b1cc7?utm_campaign=1065&utm_source=git)** | Dorval, QC, Canada | Hybrid | Nov 21 |
 | **[6ix](https://6ix.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a9fc8e8dacf777321a959d9?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Nov 21 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - Marketing](https://jobright.ai/jobs/info/6af76a0e8242286400644faf?utm_campaign=1065&utm_source=git)** | Arlington, VA, United States | Hybrid | Nov 21 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Merchandising Intern Summer 2027](https://jobright.ai/jobs/info/6aaab28cc85610f4a4840f2e?utm_campaign=1065&utm_source=git)** | Springfield, MO, United States | On Site | Nov 21 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Marketing Performance](https://jobright.ai/jobs/info/6ae4cb0ac3139b475b5b5d81?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 21 |
-| **[Healthy Kids Programs](https://www.healthykidsprograms.com)** | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6afe20568cffea7c97c905eb?utm_campaign=1065&utm_source=git)** | Carmel, New York, United States | On Site | Nov 21 |
-| ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6b00bd78d1fe3bc162e3e858?utm_campaign=1065&utm_source=git)** | Poughkeepsie, NY, United States | On Site | Nov 21 |
-| ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6afcd860d86c15318a38efef?utm_campaign=1065&utm_source=git)** | New Windsor, NY, United States | On Site | Nov 21 |
+| **[Healthy Kids Programs](https://www.healthykidsprograms.com)** | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6b00bd78d1fe3bc162e3e858?utm_campaign=1065&utm_source=git)** | Poughkeepsie, NY, United States | On Site | Nov 21 |
 | ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6afb848306c0aac84dd966be?utm_campaign=1065&utm_source=git)** | Fishkill, NY, United States | On Site | Nov 21 |
+| ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6afcd860d86c15318a38efef?utm_campaign=1065&utm_source=git)** | New Windsor, NY, United States | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
