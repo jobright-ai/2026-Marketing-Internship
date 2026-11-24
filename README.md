@@ -70,12 +70,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Fundraising & Donor Relations (Spring 2027) (32130)](https://jobright.ai/jobs/info/6abb0aedee0b348be729c94d?utm_campaign=1065&utm_source=git)** | Vienna, VA, United States | On Site | Nov 23 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Nashville - US Remote](https://jobright.ai/jobs/info/6b04fbfd7fd2e33bde0986f3?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Kirkland - US Remote](https://jobright.ai/jobs/info/6b04fc482d88b678f117ac26?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, Seattle - US Remote](https://jobright.ai/jobs/info/6b04fc2ab4933fb9f43626f4?utm_campaign=1065&utm_source=git)** | Seattle, Washington, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Portland - US Remote](https://jobright.ai/jobs/info/6b04fc2113646880439e678c?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | Remote | Nov 23 |
+| ↳ | **[Community Intern, Seattle - US Remote](https://jobright.ai/jobs/info/6b04fc2ab4933fb9f43626f4?utm_campaign=1065&utm_source=git)** | Seattle, Washington, United States | Remote | Nov 23 |
+| ↳ | **[Community Intern, San Jose - US Remote](https://jobright.ai/jobs/info/6b04fc1813646880439e6789?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Remote | Nov 23 |
+| ↳ | **[Community Intern, San Mateo - US Remote](https://jobright.ai/jobs/info/6b04fbfb58147eafa29973a8?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Twin Cities](https://jobright.ai/jobs/info/6b04fc067fd2e33bde0986f7?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern - Washington DC](https://jobright.ai/jobs/info/6b04fc087bec27df08f95726?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, San Mateo - US Remote](https://jobright.ai/jobs/info/6b04fbfb58147eafa29973a8?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, San Jose - US Remote](https://jobright.ai/jobs/info/6b04fc1813646880439e6789?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Houston](https://jobright.ai/jobs/info/6b04fbf9b4933fb9f43626ed?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Maryland Burbs](https://jobright.ai/jobs/info/6b04fc3813646880439e6795?utm_campaign=1065&utm_source=git)** | Maryland Suburbs, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Schaumburg - US Remote](https://jobright.ai/jobs/info/6b04fc2c13646880439e6790?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Remote | Nov 23 |
@@ -86,14 +86,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/6aedf494c7498922fe0c5f79?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 23 |
 | **[DeafDive](https://www.deafdive.ca/)** | **[Social Media Marketing Intern(UNPAID)](https://jobright.ai/jobs/info/6b05030a7fd2e33bde0988c7?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Remote | Nov 23 |
 | **[Samantha Siu New York](https://www.samanthasiu.com)** | **[Social Media Management Intern](https://jobright.ai/jobs/info/6b0500a02d88b678f117ad54?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Nov 23 |
-| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a551262377f983ce8a97987?utm_campaign=1065&utm_source=git)** | San Lorenzo, CA, United States | On Site | Nov 23 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a59ca4e686b4755d1e11d45?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Nov 23 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5ddcdbf3674a0545d256ff?utm_campaign=1065&utm_source=git)** | Raytown, MO, United States | On Site | Nov 23 |
-| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5646b953b3962b910af106?utm_campaign=1065&utm_source=git)** | Vestal, NY, United States | On Site | Nov 23 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53174f8576ec69c014e979?utm_campaign=1065&utm_source=git)** | Columbus, GA, United States | On Site | Nov 23 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5c1953686b4755d1e1af17?utm_campaign=1065&utm_source=git)** | Clarkston, MI, United States | On Site | Nov 23 |
 | ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5d32eb856af468ab0106af?utm_campaign=1065&utm_source=git)** | Jackson, GA, United States | On Site | Nov 23 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a59ca4e686b4755d1e11d45?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Nov 23 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a51af718d7d3e6cf1cc1071?utm_campaign=1065&utm_source=git)** | Garner, NC, United States | On Site | Nov 23 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5c1953686b4755d1e1af17?utm_campaign=1065&utm_source=git)** | Clarkston, MI, United States | On Site | Nov 23 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a551262377f983ce8a97987?utm_campaign=1065&utm_source=git)** | San Lorenzo, CA, United States | On Site | Nov 23 |
+| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5646b953b3962b910af106?utm_campaign=1065&utm_source=git)** | Vestal, NY, United States | On Site | Nov 23 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5ddcdbf3674a0545d256ff?utm_campaign=1065&utm_source=git)** | Raytown, MO, United States | On Site | Nov 23 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53174f8576ec69c014e979?utm_campaign=1065&utm_source=git)** | Columbus, GA, United States | On Site | Nov 23 |
 | **[Cashably](https://cashably.com)** | **[User Acquisition Affiliate Intern](https://jobright.ai/jobs/info/6b04efb67bec27df08f954bf?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 23 |
 | **[Amphenol Borisch Technologies](https://www.borisch.com)** | **[Social Media Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6b04ed1f7bec27df08f9547c?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 23 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6b04b5152d88b678f1178e20?utm_campaign=1065&utm_source=git)** | Conshohocken, PA, United States | Hybrid | Nov 23 |
@@ -104,10 +104,10 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Engineering Product Marketing (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b04da0c7bec27df08f94e51?utm_campaign=1065&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 23 |
 | **[Allianz](https://www.allianz.com)** | **[eCommerce Business Intern](https://jobright.ai/jobs/info/6b04ca8c7bec27df08f9480c?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 23 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, Data Science Targeted Marketing](https://jobright.ai/jobs/info/6b046cf521f0a1e0c849acf9?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 23 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, Inland Empire](https://jobright.ai/jobs/info/6b04938513646880439e319d?utm_campaign=1065&utm_source=git)** | Inland Empire, California, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, Central Jersey](https://jobright.ai/jobs/info/6b0493b158147eafa2993d3e?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, Central Valley South](https://jobright.ai/jobs/info/6b04a7c37bec27df08f9320c?utm_campaign=1065&utm_source=git)** | Bakersfield, CA, United States | Remote | Nov 23 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Central Jersey](https://jobright.ai/jobs/info/6b0493b158147eafa2993d3e?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ, United States | Remote | Nov 23 |
+| ↳ | **[Community Intern, Inland Empire](https://jobright.ai/jobs/info/6b04938513646880439e319d?utm_campaign=1065&utm_source=git)** | Inland Empire, California, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Cincinnati](https://jobright.ai/jobs/info/6b04a7b958147eafa2994e07?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | Remote | Nov 23 |
+| ↳ | **[Community Intern, Central Valley South](https://jobright.ai/jobs/info/6b04a7c37bec27df08f9320c?utm_campaign=1065&utm_source=git)** | Bakersfield, CA, United States | Remote | Nov 23 |
 | **[Axis Communications](http://www.axis.com/)** | **[Field Marketing Intern, Midwest](https://jobright.ai/jobs/info/6b04d7dcb4933fb9f4361d3e?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Nov 23 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Dallas](https://jobright.ai/jobs/info/6b04a7bb7bec27df08f93209?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Queens](https://jobright.ai/jobs/info/6b04a7cd2d88b678f117877a?utm_campaign=1065&utm_source=git)** | Queens, NY, United States | Remote | Nov 23 |
@@ -118,16 +118,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Intern, Connecticut](https://jobright.ai/jobs/info/6b04a7bd7fd2e33bde09623d?utm_campaign=1065&utm_source=git)** | Hartford, CT, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Kansas City](https://jobright.ai/jobs/info/6b04a7bf58147eafa2994e0b?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Birmingham](https://jobright.ai/jobs/info/6b04a7cc7bec27df08f93210?utm_campaign=1065&utm_source=git)** | Birmingham, AL, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, West Palm Beach](https://jobright.ai/jobs/info/6b04a7ba13646880439e426e?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, St. Louis](https://jobright.ai/jobs/info/6b04a7ed58147eafa2994e1e?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, Brooklyn](https://jobright.ai/jobs/info/6b04a7bc58147eafa2994e08?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | Remote | Nov 23 |
+| ↳ | **[Community Intern, West Palm Beach](https://jobright.ai/jobs/info/6b04a7ba13646880439e426e?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Rhode Island](https://jobright.ai/jobs/info/6b04a7ba13646880439e4270?utm_campaign=1065&utm_source=git)** | Providence, RI, United States | Remote | Nov 23 |
+| ↳ | **[Community Intern, Brooklyn](https://jobright.ai/jobs/info/6b04a7bc58147eafa2994e08?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Northern Virginia](https://jobright.ai/jobs/info/6b04936fb4933fb9f435f1f6?utm_campaign=1065&utm_source=git)** | Fairfax, VA, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, Phoenix](https://jobright.ai/jobs/info/6b04a7beb4933fb9f4360269?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Las Vegas](https://jobright.ai/jobs/info/6b04a7ba13646880439e426f?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, United States | Remote | Nov 23 |
+| ↳ | **[Community Intern, Phoenix](https://jobright.ai/jobs/info/6b04a7beb4933fb9f4360269?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Atlanta](https://jobright.ai/jobs/info/6b04a7bb13646880439e4271?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, Omaha](https://jobright.ai/jobs/info/6b04a7c57fd2e33bde096242?utm_campaign=1065&utm_source=git)** | Omaha, NE, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Detroit](https://jobright.ai/jobs/info/6b04a7ccb4933fb9f4360270?utm_campaign=1065&utm_source=git)** | Detroit, MI, United States | Remote | Nov 23 |
+| ↳ | **[Community Intern, Omaha](https://jobright.ai/jobs/info/6b04a7c57fd2e33bde096242?utm_campaign=1065&utm_source=git)** | Omaha, NE, United States | Remote | Nov 23 |
 | **[Omnicom](https://www.omc.com)** | **[Healthcare PR Intern](https://jobright.ai/jobs/info/6b0494d52d88b678f1177818?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 23 |
 | ↳ | **[Intern, Social and Influencer](https://jobright.ai/jobs/info/6b0494da2d88b678f1177821?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 23 |
 | **[Servco Pacific Inc.](http://www.servco.com)** | **[2027 Summer Intern - Brand Marketing](https://jobright.ai/jobs/info/6b04dac8b4933fb9f4361e79?utm_campaign=1065&utm_source=git)** | Honolulu, HI, United States | On Site | Nov 23 |
