@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JR Automation](https://www.jrautomation.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6b05eab045a65b5da366ca6c?utm_campaign=1065&utm_source=git)** | Holland, MI, United States | On Site | Nov 24 |
+| **[Allianz](https://www.allianz.com)** | **[Marketing Research & Strategy Intern](https://jobright.ai/jobs/info/6b05e954dbad4c4bd2502900?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 24 |
+| **[Jewish Family Services](https://jfsrochester.org)** | **[Events & Development Intern](https://jobright.ai/jobs/info/6b05e84ddbad4c4bd2502840?utm_campaign=1065&utm_source=git)** | Rochester, NY, United States | Hybrid | Nov 24 |
+| **[Bluecrest Partners](bluecrestpartners.net)** | **[Optics Marketing Intern](https://jobright.ai/jobs/info/6b05e773460ce5352ae3c708?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Nov 24 |
+| **[Winning Connections](https://www.winningconnections.com/)** | **[Research Intern](https://jobright.ai/jobs/info/6b05e73fdbad4c4bd250277a?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 24 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[eCommerce Amazon Intern - Spring 2027](https://jobright.ai/jobs/info/6b05e66b0e7eacd1ea6443a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 24 |
+| **[COLAB PK](https://www.colablosangeles.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6b05e60f460ce5352ae3c5c5?utm_campaign=1065&utm_source=git)** | Woodland Hills | On Site | Nov 24 |
+| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Mortgage Marketing](https://jobright.ai/jobs/info/6abdf8ae8ff3fb9b3bc728de?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, United States | On Site | Nov 24 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Social & Community Intern, Summer 2027](https://jobright.ai/jobs/info/6b05dc9b2835ccc63ff55888?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 24 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6b05de1dd43f730eab596e4e?utm_campaign=1065&utm_source=git)** | Nashville, Tennessee, United States | On Site | Nov 24 |
 | **[First Tennessee Human Resource Agency (FTHRA)](https://fthra.org/)** | **[Marketing & Social Media Paid Internship](https://jobright.ai/jobs/info/6b05db930a025d0ca4ff6182?utm_campaign=1065&utm_source=git)** | Johnson City, TN, United States | On Site | Nov 24 |
 | **[The Brand Guild](https://thebrandguild.com)** | **[PR Intern: Food, Beverage and Hospitality Team](https://jobright.ai/jobs/info/6b05db88707ad7f35053b52e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 24 |
 | ↳ | **[PR Intern: Spirits Team](https://jobright.ai/jobs/info/6b05db63707ad7f35053b4f2?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 24 |
@@ -77,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/6b05b08963d280053ef83eb0?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6b05b3ec2cb8a4d8561c5c79?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 24 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Honolulu](https://jobright.ai/jobs/info/6b05c17e2cb8a4d8561c6797?utm_campaign=1065&utm_source=git)** | Honolulu, HI, United States | Remote | Nov 24 |
-| ↳ | **[Community Intern, Long Beach](https://jobright.ai/jobs/info/6b05c18663d280053ef84a8e?utm_campaign=1065&utm_source=git)** | Long Beach, CA, United States | Remote | Nov 24 |
 | ↳ | **[Community Intern, San Fernando Valley](https://jobright.ai/jobs/info/6b05c1f663d280053ef84b08?utm_campaign=1065&utm_source=git)** | San Fernando Valley, California, United States | Remote | Nov 24 |
+| ↳ | **[Community Intern, Long Beach](https://jobright.ai/jobs/info/6b05c18663d280053ef84a8e?utm_campaign=1065&utm_source=git)** | Long Beach, CA, United States | Remote | Nov 24 |
 | ↳ | **[Community Intern, Vancouver](https://jobright.ai/jobs/info/6b05c184d43f730eab595cdc?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | Remote | Nov 24 |
 | **[JLL](http://www.jll.com/)** | **[Capital Markets Summer 2027 Internship - Tampa, FL](https://jobright.ai/jobs/info/6b05d8f02cb8a4d8561c745a?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | On Site | Nov 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Marketing MBA Intern, AI Infrastructure — Summer 2027](https://jobright.ai/jobs/info/6aff7433c1c02a9acd80c0b3?utm_campaign=1065&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 24 |
@@ -96,14 +106,15 @@ For a complete list, click the following sortable link below:
 | **[Nativa Multicultural Communications](http://www.thenativa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6b05c025707ad7f35053a439?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 24 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Communications Intern](https://jobright.ai/jobs/info/6b05bf5d2cb8a4d8561c6582?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Nov 24 |
 | **[YMCA of Greater Spartanburg](https://www.ymcaspartanburg.org)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/6b05bf23707ad7f35053a31d?utm_campaign=1065&utm_source=git)** | Spartanburg, SC, United States | On Site | Nov 24 |
+| **[Autism Speaks](https://www.autismspeaks.org/)** | **[Spring Washington, DC Community Engagement Intern](https://jobright.ai/jobs/info/6ae8fd4f777c336eb6d6886f?utm_campaign=1065&utm_source=git)** | Maryland, United States | Remote | Nov 24 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Marketing Intern - AI Content Strategy/Operations](https://jobright.ai/jobs/info/6b05b80c0a025d0ca4ff4a9a?utm_campaign=1065&utm_source=git)** | Carlisle, PA, United States | Remote | Nov 24 |
-| **[Posted Digital](https://www.posteddigital.com)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/6b05b7472835ccc63ff5408d?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | Hybrid | Nov 24 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Communications Intern](https://jobright.ai/jobs/info/6b05b6c52cb8a4d8561c5e89?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Nov 24 |
 | **[Electro](electrogum.com)** | **[Social Media Partnerships Intern](https://jobright.ai/jobs/info/6b05b6bf0a025d0ca4ff495c?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[2027 Global Marketing Development Program: Summer Associate Internship](https://jobright.ai/jobs/info/6af8620334e2d29dcb754d2e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 24 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Long Beach](https://jobright.ai/jobs/info/6b05b67b2cb8a4d8561c5e48?utm_campaign=1065&utm_source=git)** | Long Beach, CA, United States | Remote | Nov 24 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Content Optimization](https://jobright.ai/jobs/info/6b05b6790a025d0ca4ff491a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 24 |
 | ↳ | **[Intern - Marketing - Content Writer](https://jobright.ai/jobs/info/6b05b64b2cb8a4d8561c5e0f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 24 |
+| **[AMOREPACIFIC](https://www.apgroup.com)** | **[Laneige Brand Marketing Intern](https://jobright.ai/jobs/info/6ad8d17039284cd524280917?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 24 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Social Content Creator Intern](https://jobright.ai/jobs/info/6b05b4e9707ad7f350539b6d?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Nov 24 |
 | **[Starion Bank](http://starionbank.com)** | **[Intern - Social Media Marketing](https://jobright.ai/jobs/info/6afdd323758942b6422b4412?utm_campaign=1065&utm_source=git)** | Fargo, ND, United States | On Site | Nov 24 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Marketing - Content Development](https://jobright.ai/jobs/info/6a91cd62c12c90443efc84e0?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Nov 24 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Intern, Kirkland - US Remote](https://jobright.ai/jobs/info/6b04fc482d88b678f117ac26?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Seattle - US Remote](https://jobright.ai/jobs/info/6b04fc2ab4933fb9f43626f4?utm_campaign=1065&utm_source=git)** | Seattle, Washington, United States | Remote | Nov 23 |
 | ↳ | **[Community Intern, Portland - US Remote](https://jobright.ai/jobs/info/6b04fc2113646880439e678c?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, Twin Cities](https://jobright.ai/jobs/info/6b04fc067fd2e33bde0986f7?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, San Mateo - US Remote](https://jobright.ai/jobs/info/6b04fbfb58147eafa29973a8?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, Houston](https://jobright.ai/jobs/info/6b04fbf9b4933fb9f43626ed?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern - Washington DC](https://jobright.ai/jobs/info/6b04fc087bec27df08f95726?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, San Jose - US Remote](https://jobright.ai/jobs/info/6b04fc1813646880439e6789?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, Maryland Burbs](https://jobright.ai/jobs/info/6b04fc3813646880439e6795?utm_campaign=1065&utm_source=git)** | Maryland Suburbs, United States | Remote | Nov 23 |
-| ↳ | **[Community Intern, Schaumburg - US Remote](https://jobright.ai/jobs/info/6b04fc2c13646880439e6790?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Remote | Nov 23 |
-| **[Illumio](http://www.illumio.com)** | **[Content Strategist Intern](https://jobright.ai/jobs/info/6b04d2a82d88b678f1179feb?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, United States | On Site | Nov 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Methodology Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6b04f74f2d88b678f117ab34?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Nov 23 |
-| **[TONYMOLY USA](https://tonymoly.us)** | **[Spring 2027 Social Media Marketing Internship](https://jobright.ai/jobs/info/6b04deea13646880439e60bf?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 23 |
-| **[Tinder](http://www.tinder.com)** | **[Social Marketing Intern](https://jobright.ai/jobs/info/6aedf491d20350c7a5076844?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
