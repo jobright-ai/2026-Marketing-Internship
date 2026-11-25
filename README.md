@@ -57,19 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2027 Intern-Marketing Operations](https://jobright.ai/jobs/info/6b062f4c71c8f4e3660ec2be?utm_campaign=1065&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 24 |
+| **[University of Oklahoma](http://www.ou.edu)** | **[Marketing and Communications Intern (Spring)](https://jobright.ai/jobs/info/6b062f2745a65b5da366ef9a?utm_campaign=1065&utm_source=git)** | Norman, OK, United States | On Site | Nov 24 |
+| **[Allianz](https://www.allianz.com)** | **[Marketing Research & Strategy Intern](https://jobright.ai/jobs/info/6b05e954dbad4c4bd2502900?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 24 |
+| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6b04be5058147eafa2995a66?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 24 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6b04c1ed58147eafa2995f19?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 24 |
+| **[ACLU](https://www.aclu.org/)** | **[Spring 2027 Undergraduate Intern, Earned Media and Communications Strategy](https://jobright.ai/jobs/info/6ae0fdb56679108488c3fd0d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Nov 24 |
 | **[Eleven Ad Group](https://elevenadv.com)** | **[Ready to start your career in advertising?We’re Hiring an Account Team Intern](https://jobright.ai/jobs/info/6b0623fc460ce5352ae3e9da?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | Hybrid | Nov 24 |
 | **[Gunnison Valley Health](https://www.gunnisonvalleyhealth.org/Foundation.aspx)** | **[Internship - Brand Experience and Community Outreach](https://jobright.ai/jobs/info/6b0622670e7eacd1ea646682?utm_campaign=1065&utm_source=git)** | Gunnison, CO, United States | On Site | Nov 24 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Networking Strategy and Execution Intern MBA](https://jobright.ai/jobs/info/6b05dbfdd43f730eab596cdd?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, United States | Hybrid | Nov 24 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6b05de1dd43f730eab596e4e?utm_campaign=1065&utm_source=git)** | Nashville, Tennessee, United States | On Site | Nov 24 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6b0043713a9a0230ab0261b0?utm_campaign=1065&utm_source=git)** | Asheville, NC, United States | On Site | Nov 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9f84ddfc50167b94db6?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6afb35b204af1c9f075c53f5?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Nov 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6aedce71d20350c7a50753b4?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6afc6b2440b855eb290caacb?utm_campaign=1065&utm_source=git)** | Albuquerque, NM, United States | On Site | Nov 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9fb34e2d29dcb7522d2?utm_campaign=1065&utm_source=git)** | Midland, TX, United States | On Site | Nov 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9fe42ae65e2c8f3a137?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6b0043713a9a0230ab0261b0?utm_campaign=1065&utm_source=git)** | Asheville, NC, United States | On Site | Nov 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af7e9ffc7349029d7099533?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Nov 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6af7ea04cb5a5d4a77fc9215?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6aedce71d20350c7a50753b4?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6afb35b204af1c9f075c53f5?utm_campaign=1065&utm_source=git)** | New Albany, OH, United States | On Site | Nov 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6afc6b2440b855eb290caacb?utm_campaign=1065&utm_source=git)** | Albuquerque, NM, United States | On Site | Nov 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6b05de1dd43f730eab596e4e?utm_campaign=1065&utm_source=git)** | Nashville, Tennessee, United States | On Site | Nov 24 |
 | **[doTERRA International LLC](https://www.doterra.com/US/en/about/careers)** | **[Communications & Service Intern](https://jobright.ai/jobs/info/6b06234f45a65b5da366eafa?utm_campaign=1065&utm_source=git)** | Pleasant Grove, UT, United States | Hybrid | Nov 24 |
 | **[Proof of Human](https://www.poh.org)** | **[Social & Content Intern](https://jobright.ai/jobs/info/6b061b22dbad4c4bd2504615?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 24 |
 | **[Parkii Organic Skin Care](https://parkiiorganicskincare.com)** | **[Marketing Internship Opportunities (Multiple Roles) Parkii Organic Skin Care / Remote / Unpaid Internship for Academic Credit and/or Professional Experience](https://jobright.ai/jobs/info/6b061a53dbad4c4bd250458f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 24 |
@@ -117,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6b05f58245a65b5da366d04a?utm_campaign=1065&utm_source=git)** | Albany, NY, United States | Hybrid | Nov 24 |
 | **[LeBLANC + SMITH](https://www.leblancandsmith.com)** | **[Digital Media & Marketing Intern](https://jobright.ai/jobs/info/6b05f32b460ce5352ae3cd96?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Nov 24 |
 | **[JR Automation](https://www.jrautomation.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6b05eab045a65b5da366ca6c?utm_campaign=1065&utm_source=git)** | Holland, MI, United States | On Site | Nov 24 |
-| **[Allianz](https://www.allianz.com)** | **[Marketing Research & Strategy Intern](https://jobright.ai/jobs/info/6b05e954dbad4c4bd2502900?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 24 |
 | **[Jewish Family Services](https://jfsrochester.org)** | **[Events & Development Intern](https://jobright.ai/jobs/info/6b05e84ddbad4c4bd2502840?utm_campaign=1065&utm_source=git)** | Rochester, NY, United States | Hybrid | Nov 24 |
 | **[Bluecrest Partners](bluecrestpartners.net)** | **[Optics Marketing Intern](https://jobright.ai/jobs/info/6b05e773460ce5352ae3c708?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Nov 24 |
 | **[Winning Connections](https://www.winningconnections.com/)** | **[Research Intern](https://jobright.ai/jobs/info/6b05e73fdbad4c4bd250277a?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 24 |
@@ -132,11 +136,11 @@ For a complete list, click the following sortable link below:
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Central Valley North](https://jobright.ai/jobs/info/6b05c172d43f730eab595cd3?utm_campaign=1065&utm_source=git)** | Fresno, CA, United States | Remote | Nov 24 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Social Media & Communications Internship](https://jobright.ai/jobs/info/6b05c9f7d43f730eab5961c3?utm_campaign=1065&utm_source=git)** | South Burlington, VT, United States | On Site | Nov 24 |
 | ↳ | **[Social Media and Strategic Communications Intern](https://jobright.ai/jobs/info/6b05ca04d43f730eab5961e1?utm_campaign=1065&utm_source=git)** | Burlington, VT, United States | Hybrid | Nov 24 |
-| **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/6b05b3ec2cb8a4d8561c5c79?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6b05b08963d280053ef83eb0?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 24 |
+| **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/6b05b08963d280053ef83eb0?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Nov 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6b05b3ec2cb8a4d8561c5c79?utm_campaign=1065&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 24 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Honolulu](https://jobright.ai/jobs/info/6b05c17e2cb8a4d8561c6797?utm_campaign=1065&utm_source=git)** | Honolulu, HI, United States | Remote | Nov 24 |
-| ↳ | **[Community Intern, Long Beach](https://jobright.ai/jobs/info/6b05c18663d280053ef84a8e?utm_campaign=1065&utm_source=git)** | Long Beach, CA, United States | Remote | Nov 24 |
 | ↳ | **[Community Intern, San Fernando Valley](https://jobright.ai/jobs/info/6b05c1f663d280053ef84b08?utm_campaign=1065&utm_source=git)** | San Fernando Valley, California, United States | Remote | Nov 24 |
+| ↳ | **[Community Intern, Long Beach](https://jobright.ai/jobs/info/6b05c18663d280053ef84a8e?utm_campaign=1065&utm_source=git)** | Long Beach, CA, United States | Remote | Nov 24 |
 | ↳ | **[Community Intern, Vancouver](https://jobright.ai/jobs/info/6b05c184d43f730eab595cdc?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | Remote | Nov 24 |
 | **[JLL](http://www.jll.com/)** | **[Capital Markets Summer 2027 Internship - Tampa, FL](https://jobright.ai/jobs/info/6b05d8f02cb8a4d8561c745a?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | On Site | Nov 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Marketing MBA Intern, AI Infrastructure — Summer 2027](https://jobright.ai/jobs/info/6aff7433c1c02a9acd80c0b3?utm_campaign=1065&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Communications Intern](https://jobright.ai/jobs/info/6b05bf5d2cb8a4d8561c6582?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Nov 24 |
 | **[YMCA of Greater Spartanburg](https://www.ymcaspartanburg.org)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/6b05bf23707ad7f35053a31d?utm_campaign=1065&utm_source=git)** | Spartanburg, SC, United States | On Site | Nov 24 |
 | **[Autism Speaks](https://www.autismspeaks.org/)** | **[Spring Washington, DC Community Engagement Intern](https://jobright.ai/jobs/info/6ae8fd4f777c336eb6d6886f?utm_campaign=1065&utm_source=git)** | Maryland, United States | Remote | Nov 24 |
-| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Marketing Intern - AI Content Strategy/Operations](https://jobright.ai/jobs/info/6b05b80c0a025d0ca4ff4a9a?utm_campaign=1065&utm_source=git)** | Carlisle, PA, United States | Remote | Nov 24 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Communications Intern](https://jobright.ai/jobs/info/6b05b6c52cb8a4d8561c5e89?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Nov 24 |
-| **[Electro](electrogum.com)** | **[Social Media Partnerships Intern](https://jobright.ai/jobs/info/6b05b6bf0a025d0ca4ff495c?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 24 |
-| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[2027 Global Marketing Development Program: Summer Associate Internship](https://jobright.ai/jobs/info/6af8620334e2d29dcb754d2e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
