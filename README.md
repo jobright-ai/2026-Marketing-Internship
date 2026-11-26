@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crimson Education](https://www.crimsoneducation.org/)** | **[Chinese Content Creator & Marketing Intern](https://jobright.ai/jobs/info/6b07b280b97477c4d6647458?utm_campaign=1065&utm_source=git)** | Canada | Hybrid | Nov 25 |
 | **[MOSO Bamboo Deutschland](https://www.moso-bamboo.com/de/)** | **[Online Marketing / Content Creation Internship](https://jobright.ai/jobs/info/6b07a5291c953ffe4a37dd8f?utm_campaign=1065&utm_source=git)** | Indiana, United States | On Site | Nov 25 |
 | **[Arya57](https://arya57.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6b079e1bbdbb485d4ec68bb4?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Electro](electrogum.com)** | **[College Athlete Social Media Coordinator Intern](https://jobright.ai/jobs/info/6b0790fdbdbb485d4ec6886a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 25 |
@@ -73,9 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Watts Water Technologies](https://wattsau.com.au)** | **[Marketing Intern - Bradley](https://jobright.ai/jobs/info/6b0752912c2b1d2eebe14142?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI, United States | Hybrid | Nov 25 |
 | **[Tombras](http://tombras.com)** | **[Organic Social Intern](https://jobright.ai/jobs/info/6b0733286c5083822fdc7ad3?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | ↳ | **[Brand Strategy Intern](https://jobright.ai/jobs/info/6b073c3d2c2b1d2eebe13660?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
-| ↳ | **[Copywriter Intern](https://jobright.ai/jobs/info/6b073c416c5083822fdc813c?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
-| ↳ | **[Media Strategy Intern](https://jobright.ai/jobs/info/6b07335920135524ca72ab4c?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | ↳ | **[Influencer Intern](https://jobright.ai/jobs/info/6b0744b86c5083822fdc8465?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
+| ↳ | **[Media Strategy Intern](https://jobright.ai/jobs/info/6b07335920135524ca72ab4c?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
+| ↳ | **[Copywriter Intern](https://jobright.ai/jobs/info/6b073c416c5083822fdc813c?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | ↳ | **[Sonic Social Intern](https://jobright.ai/jobs/info/6b0737ca6c5083822fdc7ea2?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Marketing Intern (Children's)](https://jobright.ai/jobs/info/6b077c2f2c2b1d2eebe152fc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
 | ↳ | **[Brand Marketing Design Intern](https://jobright.ai/jobs/info/6b077bff2c2b1d2eebe152f4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sunglass Hut](http://www.sunglasshut.com)** | **[New York Insurance Marketing Summer 2027 Intern](https://jobright.ai/jobs/info/6b07109a08b131a5c6577599?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 25 |
 | **[Universal Destinations & Experiences](https://corporate.universaldestinationsandexperiences.com)** | **[Universal Studios Hollywood, Global Brand and Commercial, Owned Channels & Commerce Internship – Summer 2027](https://jobright.ai/jobs/info/6b07149008b131a5c6577894?utm_campaign=1065&utm_source=git)** | Universal City, CA, United States | Hybrid | Nov 25 |
 | **[The Technology House](http://www.tth.com)** | **[Project Management and Marketing Intern](https://jobright.ai/jobs/info/6b071314fbcb892eea5e0151?utm_campaign=1065&utm_source=git)** | Streetsboro, OH, United States | On Site | Nov 25 |
-| **[Printemps New York](https://us.printemps.com/)** | **[Event Coordinator – Intern](https://jobright.ai/jobs/info/6b0712de6c5083822fdc687b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
