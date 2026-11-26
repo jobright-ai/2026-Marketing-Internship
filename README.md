@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crimson Education](https://www.crimsoneducation.org/)** | **[Chinese-language Content Creator & Marketing Intern](https://jobright.ai/jobs/info/6b07b280b97477c4d6647458?utm_campaign=1065&utm_source=git)** | Canada | Hybrid | Nov 26 |
 | **[Celonis](https://www.celonis.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6af499c01b2c5dcbbcd62439?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a6393b087cef057612c94ce?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 25 |
 | **[Go Fish Digital](https://gofishdigital.com)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/6b0741396c5083822fdc82b0?utm_campaign=1065&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 25 |
@@ -77,23 +78,20 @@ For a complete list, click the following sortable link below:
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Marketing Internship - Summer 2027](https://jobright.ai/jobs/info/6b0775a908b131a5c657aabc?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 25 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Publicity Intern (Children's)](https://jobright.ai/jobs/info/6b076cbefbcb892eea5e3226?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
 | ↳ | **[Brand Marketing Design Intern](https://jobright.ai/jobs/info/6b077bff2c2b1d2eebe152f4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
-| ↳ | **[Marketing Design Intern (Comic Arts)](https://jobright.ai/jobs/info/6b076cdffbcb892eea5e323d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
 | ↳ | **[Adult Publicity Intern](https://jobright.ai/jobs/info/6b076cc92c2b1d2eebe14ed5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
+| ↳ | **[Marketing Design Intern (Comic Arts)](https://jobright.ai/jobs/info/6b076cdffbcb892eea5e323d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
 | **[Zipline](https://www.zipline.com)** | **[Commercial Marketplace Strategy and Operations Intern MBA (Spring 2027)](https://jobright.ai/jobs/info/6a992c9c138838706058ca20?utm_campaign=1065&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 25 |
-| **[Healthy Kids Programs](https://www.healthykidsprograms.com)** | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6afcd860d86c15318a38efef?utm_campaign=1065&utm_source=git)** | New Windsor, NY, United States | On Site | Nov 25 |
+| **[Healthy Kids Programs](https://www.healthykidsprograms.com)** | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6b00bd78d1fe3bc162e3e858?utm_campaign=1065&utm_source=git)** | Poughkeepsie, NY, United States | On Site | Nov 25 |
 | ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6b0718676c5083822fdc6c38?utm_campaign=1065&utm_source=git)** | Carmel, New York, United States | On Site | Nov 25 |
-| ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6b06f64e2662686ad8e05a0a?utm_campaign=1065&utm_source=git)** | New Windsor, NY, United States | On Site | Nov 25 |
 | ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6af63986323c531f31e3115d?utm_campaign=1065&utm_source=git)** | Danbury, CT, United States | On Site | Nov 25 |
+| ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6b06f64e2662686ad8e05a0a?utm_campaign=1065&utm_source=git)** | New Windsor, NY, United States | On Site | Nov 25 |
 | ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6b04bdc613646880439e4e8c?utm_campaign=1065&utm_source=git)** | Fishkill, NY, United States | On Site | Nov 25 |
-| ↳ | **[Brand Launch & Preschool Expansion Intern](https://jobright.ai/jobs/info/6b00bd78d1fe3bc162e3e858?utm_campaign=1065&utm_source=git)** | Poughkeepsie, NY, United States | On Site | Nov 25 |
-| **[Crimson Education](https://www.crimsoneducation.org/)** | **[Chinese Content Creator & Marketing Intern](https://jobright.ai/jobs/info/6b07b280b97477c4d6647458?utm_campaign=1065&utm_source=git)** | Canada | Hybrid | Nov 25 |
-| ↳ | **[Chinese Content Creator & Marketing Intern – Mandarin Speaking](https://jobright.ai/jobs/info/6b07790420135524ca72cdac?utm_campaign=1065&utm_source=git)** | Canada | Hybrid | Nov 25 |
+| **[Crimson Education](https://www.crimsoneducation.org/)** | **[Chinese Content Creator & Marketing Intern – Mandarin Speaking](https://jobright.ai/jobs/info/6b07790420135524ca72cdac?utm_campaign=1065&utm_source=git)** | Canada | Hybrid | Nov 25 |
 | **[MOSO Bamboo Deutschland](https://www.moso-bamboo.com/de/)** | **[Online Marketing / Content Creation Internship](https://jobright.ai/jobs/info/6b07a5291c953ffe4a37dd8f?utm_campaign=1065&utm_source=git)** | Indiana, United States | On Site | Nov 25 |
 | **[Arya57](https://arya57.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6b079e1bbdbb485d4ec68bb4?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Electro](electrogum.com)** | **[College Athlete Social Media Coordinator Intern](https://jobright.ai/jobs/info/6b0790fdbdbb485d4ec6886a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 25 |
 | **[University of Southern California](http://www.usc.edu)** | **[Big Ten Fellow Intern, USC Athletics](https://jobright.ai/jobs/info/6b078e98953742e826203505?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 25 |
 | **[Bookmyhelp](https://bookmyhelp.com)** | **[Social Media Marketing Intern (Content Creation) - Unpaid (Winter 2027 Co-op) / Mississauga, ON](https://jobright.ai/jobs/info/6b078d98bdbb485d4ec687da?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Nov 25 |
-| **[zant](https://www.zant.app/)** | **[Social Media and Growth Marketing Intern](https://jobright.ai/jobs/info/6b078571953742e826203369?utm_campaign=1065&utm_source=git)** | United States | On Site | Nov 25 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[PUBLIC RELATIONS WINTER/SPRING INTERN](https://jobright.ai/jobs/info/6abd408e8ff3fb9b3bc6f4d7?utm_campaign=1065&utm_source=git)** | Bethlehem, PA, United States | On Site | Nov 25 |
 | **[Superbon Studio](https://www.linkedin.com/company/109641151)** | **[Social Media Internship](https://jobright.ai/jobs/info/6b078446c9ff508d93ff9c04?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Nov 25 |
 | **[Atlassian](https://www.atlassian.com)** | **[Enterprise Marketing Operations Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6b0783a5bdbb485d4ec685fe?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 25 |
@@ -101,10 +99,10 @@ For a complete list, click the following sortable link below:
 | **[Sammons Financial Group Companies](https://www.sammonsfinancialgroup.com)** | **[Marketing Generalist Intern (Summer 2027)](https://jobright.ai/jobs/info/6b06f49ec739c3ea3097da0f?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 25 |
 | **[Watts Water Technologies](https://wattsau.com.au)** | **[Marketing Intern - Bradley](https://jobright.ai/jobs/info/6b0752912c2b1d2eebe14142?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI, United States | Hybrid | Nov 25 |
 | **[Tombras](http://tombras.com)** | **[Organic Social Intern](https://jobright.ai/jobs/info/6b0733286c5083822fdc7ad3?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
-| ↳ | **[Copywriter Intern](https://jobright.ai/jobs/info/6b073c416c5083822fdc813c?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
-| ↳ | **[Media Strategy Intern](https://jobright.ai/jobs/info/6b07335920135524ca72ab4c?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | ↳ | **[Brand Strategy Intern](https://jobright.ai/jobs/info/6b073c3d2c2b1d2eebe13660?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | ↳ | **[Influencer Intern](https://jobright.ai/jobs/info/6b0744b86c5083822fdc8465?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
+| ↳ | **[Media Strategy Intern](https://jobright.ai/jobs/info/6b07335920135524ca72ab4c?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
+| ↳ | **[Copywriter Intern](https://jobright.ai/jobs/info/6b073c416c5083822fdc813c?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | ↳ | **[Sonic Social Intern](https://jobright.ai/jobs/info/6b0737ca6c5083822fdc7ea2?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | **[Schneider Electric](https://www.se.com)** | **[Marketing Internship Program 2027-2028](https://jobright.ai/jobs/info/6afdb7e98cffea7c97c8c35f?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 25 |
 | ↳ | **[Marketing Internship Program](https://jobright.ai/jobs/info/6afde7350cde47528ec0fcd1?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 25 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Social Media Intern, Financial Brand - Spring 2027](https://jobright.ai/jobs/info/6ae399c1d45dc30fb7d2afd1?utm_campaign=1065&utm_source=git)** | North LA area, CA, United States | Remote | Nov 25 |
 | ↳ | **[PR Intern - Spring 2027](https://jobright.ai/jobs/info/6ae354aad45dc30fb7d287f3?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 25 |
 | ↳ | **[Conversion Rate Optimization Intern](https://jobright.ai/jobs/info/6b00a524dfa58e4c244dd198?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 25 |
+| ↳ | **[Influencer Intern - Spring 2027](https://jobright.ai/jobs/info/6ad8fda2e4b94611ab851599?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Nov 25 |
+| ↳ | **[Social Media Intern - Spring 2027](https://jobright.ai/jobs/info/6ad8fc69950ef68d5184c56c?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
