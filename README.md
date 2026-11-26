@@ -57,18 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](electrogum.com)** | **[College Athlete Social Media Coordinator Intern](https://jobright.ai/jobs/info/6b0790fdbdbb485d4ec6886a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 25 |
+| **[University of Southern California](http://www.usc.edu)** | **[Big Ten Fellow Intern, USC Athletics](https://jobright.ai/jobs/info/6b078e98953742e826203505?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 25 |
+| **[Bookmyhelp](https://bookmyhelp.com)** | **[Social Media Marketing Intern (Content Creation) - Unpaid (Winter 2027 Co-op) / Mississauga, ON](https://jobright.ai/jobs/info/6b078d98bdbb485d4ec687da?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Nov 25 |
+| **[MeshyAI](https://www.meshy.ai)** | **[Marketing Intern, North America (B2B Events & Growth)](https://jobright.ai/jobs/info/6b078a18bdbb485d4ec68754?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, United States | Remote | Nov 25 |
 | **[zant](https://www.zant.app/)** | **[Social Media and Growth Marketing Intern](https://jobright.ai/jobs/info/6b078571953742e826203369?utm_campaign=1065&utm_source=git)** | United States | On Site | Nov 25 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[PUBLIC RELATIONS WINTER/SPRING INTERN](https://jobright.ai/jobs/info/6abd408e8ff3fb9b3bc6f4d7?utm_campaign=1065&utm_source=git)** | Bethlehem, PA, United States | On Site | Nov 25 |
 | **[Superbon Studio](https://www.linkedin.com/company/109641151)** | **[Social Media Internship](https://jobright.ai/jobs/info/6b078446c9ff508d93ff9c04?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Nov 25 |
 | **[Atlassian](https://www.atlassian.com)** | **[Enterprise Marketing Operations Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6b0783c2bdbb485d4ec68607?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 25 |
 | ↳ | **[Enterprise Marketing Operations Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6b0783a5bdbb485d4ec685fe?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 25 |
 | **[Advanced Sterilization Products](http://www.asp.com/)** | **[AI Enablement Intern- Marketing](https://jobright.ai/jobs/info/6b0765aeb624dcc57de79f4b?utm_campaign=1065&utm_source=git)** | Everett, WA, United States | Hybrid | Nov 25 |
+| **[Sammons Financial Group Companies](https://www.sammonsfinancialgroup.com)** | **[Marketing Generalist Intern (Summer 2027)](https://jobright.ai/jobs/info/6b06f49ec739c3ea3097da0f?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 25 |
 | **[Watts Water Technologies](https://wattsau.com.au)** | **[Marketing Intern - Bradley](https://jobright.ai/jobs/info/6b0752912c2b1d2eebe14142?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI, United States | Hybrid | Nov 25 |
 | **[Tombras](http://tombras.com)** | **[Organic Social Intern](https://jobright.ai/jobs/info/6b0733286c5083822fdc7ad3?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
-| ↳ | **[Media Strategy Intern](https://jobright.ai/jobs/info/6b07335920135524ca72ab4c?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
-| ↳ | **[Copywriter Intern](https://jobright.ai/jobs/info/6b073c416c5083822fdc813c?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | ↳ | **[Influencer Intern](https://jobright.ai/jobs/info/6b0744b86c5083822fdc8465?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
+| ↳ | **[Media Strategy Intern](https://jobright.ai/jobs/info/6b07335920135524ca72ab4c?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | ↳ | **[Brand Strategy Intern](https://jobright.ai/jobs/info/6b073c3d2c2b1d2eebe13660?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
+| ↳ | **[Copywriter Intern](https://jobright.ai/jobs/info/6b073c416c5083822fdc813c?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | ↳ | **[Sonic Social Intern](https://jobright.ai/jobs/info/6b0737ca6c5083822fdc7ea2?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 25 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Marketing Intern (Children's)](https://jobright.ai/jobs/info/6b077c2f2c2b1d2eebe152fc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
 | ↳ | **[Brand Marketing Design Intern](https://jobright.ai/jobs/info/6b077bff2c2b1d2eebe152f4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
@@ -78,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Crimson Education](https://www.crimsoneducation.org/)** | **[Chinese Content Creator & Marketing Intern – Mandarin Speaking](https://jobright.ai/jobs/info/6b07790420135524ca72cdac?utm_campaign=1065&utm_source=git)** | Canada | Hybrid | Nov 25 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Networking Strategy and Execution Intern MBA](https://jobright.ai/jobs/info/6b05dbfdd43f730eab596cdd?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, United States | Hybrid | Nov 25 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Marketing Intern - Workplace Experience (Summer 2027)](https://jobright.ai/jobs/info/6b07457a2c2b1d2eebe139d8?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 25 |
-| **[AmaWaterways River Cruises](http://amawaterways.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6b07501008b131a5c6579974?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Nov 25 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Marketing Internship - Summer 2027](https://jobright.ai/jobs/info/6b0775a908b131a5c657aabc?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Henkel](http://www.henkel.com)** | **[Strategic Innovation Intern, Schwarzkopf Professional - Summer 2027](https://jobright.ai/jobs/info/6b075cb9b624dcc57de798fb?utm_campaign=1065&utm_source=git)** | Culver City, CA, United States | On Site | Nov 25 |
 | ↳ | **[Brand Management Intern, Schwarzkopf Professional – Summer/Fall 2027](https://jobright.ai/jobs/info/6b075c6a6c5083822fdc8e93?utm_campaign=1065&utm_source=git)** | Culver City, CA, United States | On Site | Nov 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Water](http://amwater.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6b0710e02c2b1d2eebe11b0b?utm_campaign=1065&utm_source=git)** | Scranton, PA, United States | Hybrid | Nov 25 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6b070c8c08b131a5c65772bb?utm_campaign=1065&utm_source=git)** | Summit, NJ, United States | Hybrid | Nov 25 |
 | ↳ | **[Copywriting Intern](https://jobright.ai/jobs/info/6b070c6520135524ca729375?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
-| ↳ | **[Retention Marketing Intern](https://jobright.ai/jobs/info/6b070c626c5083822fdc63a3?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
-| ↳ | **[Acquisition Marketing Intern](https://jobright.ai/jobs/info/6b070cfb20135524ca7293bd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications & Marketing Summer Intern](https://jobright.ai/jobs/info/6b070d852c2b1d2eebe11826?utm_campaign=1065&utm_source=git)** | Holly Springs, NC, United States | On Site | Nov 25 |
-| **[Legna Software](https://www.legnasoftware.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a9754d6d13b4819f39e0a02?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
