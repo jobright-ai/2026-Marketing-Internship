@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Marketing Analytics Internship](https://jobright.ai/jobs/info/6ae4bf98c3139b475b5b562c?utm_campaign=1065&utm_source=git)** | Monroe, WI, United States | On Site | Nov 27 |
+| **[Daiichi Sankyo](https://daiichisankyo.us)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6b09aa7462c6023db30221ed?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ, United States | On Site | Nov 27 |
+| **[Electro](electrogum.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6b09aa3eaaf0c31c7c96f855?utm_campaign=1065&utm_source=git)** | United States | On Site | Nov 27 |
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Performance Marketing Strategist Internship](https://jobright.ai/jobs/info/6ae4ac07c3139b475b5b4b3e?utm_campaign=1065&utm_source=git)** | Monroe, WI, United States | On Site | Nov 27 |
 | **[BetaNXT](https://betanxt.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/6b09a5bfdd884ad2cc58dbbc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 27 |
 | **[Talbert, Bright & Ellington](http://tbeclt.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6b09a3e3aaf0c31c7c96f754?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 27 |
+| **[Amcor](http://www.amcor.com/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6aed0e34a9ea762a0409499b?utm_campaign=1065&utm_source=git)** | Manchester, MI, United States | Hybrid | Nov 27 |
 | **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6b09a082aaf0c31c7c96f6ee?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | On Site | Nov 27 |
 | **[Mars](https://www.mars.com)** | **[Summer 2027 Mars Snacking MBA Marketing and Brand Management Internship](https://jobright.ai/jobs/info/6a975f0bd13b4819f39e0c9a?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Nov 27 |
 | **[αlpha Financial Partners](https://www.alphaky.com)** | **[Financial Services Marketing Intern](https://jobright.ai/jobs/info/6b099ddc62c6023db3021f48?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Nov 27 |
@@ -113,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Performance Coatings Strategic Marketing & Product Stewardship Intern](https://jobright.ai/jobs/info/6acfeea212303667b98a1273?utm_campaign=1065&utm_source=git)** | Brecksville, OH, United States | On Site | Nov 26 |
 | **[Siemens](https://www.siemens.com)** | **[Digital Marketing Intern – Asset Management Software (Summer 2027)](https://jobright.ai/jobs/info/6acfc6b578d51ae69ce08047?utm_campaign=1065&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 26 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6acea0af4f3229123da3d4ed?utm_campaign=1065&utm_source=git)** | Carlisle, PA, United States | On Site | Nov 26 |
-| **[Electro](electrogum.com)** | **[Social Media & Athlete Relations Intern](https://jobright.ai/jobs/info/6b0862ae58da992a6cc0c4fb?utm_campaign=1065&utm_source=git)** | United States | On Site | Nov 26 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/6aeb881882f0ac077443ab41?utm_campaign=1065&utm_source=git)** | Portland, OR, United States | On Site | Nov 26 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6abaeace7220f52e62ae8f03?utm_campaign=1065&utm_source=git)** | Westchester, IL, United States | Hybrid | Nov 26 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Paid Media Intern](https://jobright.ai/jobs/info/6acfba02c0dd9da253cf4249?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MeshyAI](https://www.meshy.ai)** | **[Marketing Intern, North America (B2B Events & Growth)](https://jobright.ai/jobs/info/6b078a18bdbb485d4ec68754?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, United States | Remote | Nov 25 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern (Part Time)](https://jobright.ai/jobs/info/6aff4a2a72b9be36852904ff?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 25 |
 | **[Henkel](http://www.henkel.com)** | **[Integrated Marketing Intern, Schwarzkopf Professional - Summer/Fall 2027](https://jobright.ai/jobs/info/6b075cad2c2b1d2eebe14449?utm_campaign=1065&utm_source=git)** | Culver City, CA, United States | On Site | Nov 25 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Public Relations/Social Media Intern](https://jobright.ai/jobs/info/6b00a415e0dc961959282ccb?utm_campaign=1065&utm_source=git)** | United States | On Site | Nov 25 |
-| **[ABRAMS](http://www.abramsbooks.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6b076cd620135524ca72ca13?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
-| ↳ | **[Marketing Intern (Children's)](https://jobright.ai/jobs/info/6b077c2f2c2b1d2eebe152fc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
