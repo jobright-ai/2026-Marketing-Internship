@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall/Winter Internship - Anniston, AL](https://jobright.ai/jobs/info/6ac000aa8ff3fb9b3bc7a1e9?utm_campaign=1065&utm_source=git)** | Anniston, AL, United States | On Site | Nov 27 |
+| **[Electro](electrogum.com)** | **[TikTok & Influencer Marketing Intern](https://jobright.ai/jobs/info/6b09fb62dd884ad2cc58edf1?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 27 |
 | **[MediaMaxxing](https://mediamaxxing.com)** | **[Social Media Content and Growth Intern](https://jobright.ai/jobs/info/6b09eb3062c6023db3023085?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Nov 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5826569838a11e5d83711d?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 27 |
 | ↳ | **[Collectible Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a54a26b8576ec69c0153cb5?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Nov 27 |
 | **[Trilon](https://www.trilongroup.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6b099b875f0c27a3a3cec11f?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 27 |
-| **[Electro](electrogum.com)** | **[Social Media & College Sports Marketing Intern](https://jobright.ai/jobs/info/6b09dbd15f0c27a3a3ced179?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 27 |
 | **[Indro Labs](https://indrolabs.ca/)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6b09dba75f0c27a3a3ced175?utm_campaign=1065&utm_source=git)** | Calgary, AB, Canada | Hybrid | Nov 27 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Content Marketing & Partnerships - Part-Time](https://jobright.ai/jobs/info/6af747ece3d8d612bf421c8a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
 | ↳ | **[Spring Intern, Social Content - Part-Time](https://jobright.ai/jobs/info/6af747e541166cab75649cee?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
@@ -88,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Mars](https://www.mars.com)** | **[Summer 2027 Mars Snacking MBA Marketing and Brand Management Internship](https://jobright.ai/jobs/info/6a975f0bd13b4819f39e0c9a?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Nov 27 |
 | **[αlpha Financial Partners](https://www.alphaky.com)** | **[Financial Services Marketing Intern](https://jobright.ai/jobs/info/6b099ddc62c6023db3021f48?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Nov 27 |
 | **[Zipline](https://www.zipline.com)** | **[Commercial Marketplace Strategy and Operations Intern MBA (Spring 2027)](https://jobright.ai/jobs/info/6a992c9c138838706058ca20?utm_campaign=1065&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 27 |
-| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Marketing and Communications](https://jobright.ai/jobs/info/6ad11ead18608b6f36f81a87?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 27 |
+| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Marketing and Communications](https://jobright.ai/jobs/info/6ad1072b18608b6f36f80cce?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 27 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Event Management Intern - Summer 2027](https://jobright.ai/jobs/info/6ad10ca7256e49282e6520f9?utm_campaign=1065&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 27 |
 | **[Walbridge](http://www.walbridge.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6aed03d4a9ea762a0409426c?utm_campaign=1065&utm_source=git)** | Detroit, MI, United States | On Site | Nov 27 |
 | **[Mawave](https://mawave.de)** | **[Minijob Social Media - Reddit Redakteur (m/w/d)](https://jobright.ai/jobs/info/6b09932062c6023db3021af7?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vital Lyfe](https://www.vital-lyfe.com)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6b07b9a14f208cb8324ca1aa?utm_campaign=1065&utm_source=git)** | Torrance, CA, United States | On Site | Nov 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6b08090eaa59d5ea1da501b8?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Nov 26 |
 | **[Entegris](http://www.entegris.com)** | **[Marketing Co-Op](https://jobright.ai/jobs/info/6aa1843e3272060a8e3f019d?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Nov 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations，Beauty, Food & Beverage) - 2027 Summer](https://jobright.ai/jobs/info/6ad0a0fbfe4980b99fedcb24?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
